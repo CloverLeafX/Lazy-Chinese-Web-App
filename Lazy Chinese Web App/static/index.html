@@ -293,6 +293,18 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
   transition: all 100ms; white-space: nowrap;
 }
 .pinyin-btn.active { background: rgba(108,142,247,.15); border-color: var(--accent); color: var(--accent); }
+.speed-select {
+  height: 28px; padding: 0 22px 0 8px;
+  border-radius: var(--radius-sm); border: 1px solid var(--border);
+  background: var(--surface); color: var(--muted);
+  font-size: 12px; font-weight: 600; cursor: pointer;
+  appearance: none; font-family: var(--ff);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%237a7f9a' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 6px center;
+  transition: all 100ms; white-space: nowrap;
+}
+.speed-select:focus { outline: none; border-color: var(--accent); }
+.speed-select.fast { background-color: rgba(108,142,247,.15); border-color: var(--accent); color: var(--accent); }
 .watched-btn {
   display: flex; align-items: center; gap: 5px;
   padding: 5px 11px; border-radius: var(--radius-sm);
@@ -526,6 +538,14 @@ video#localVideo {
       <button class="pinyin-btn" id="captionsToggle">
         <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:4px"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M7 15h4M13 15h4M7 11h2M11 11h2M15 11h2"/></svg>Captions
       </button>
+      <select class="speed-select" id="speedSelect" title="Playback speed">
+        <option value="0.5">0.5×</option>
+        <option value="0.75">0.75×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+        <option value="2">2×</option>
+      </select>
       <button class="pinyin-btn" id="sidebarToggle">
         <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:4px"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>Script
       </button>
@@ -869,6 +889,11 @@ function openWatch(v) {
   setupPlayer(v);
   loadSubtitles(v, scriptMode);
   updateWatchedBtn(v.id);
+  // reset speed
+  const speedSel = document.getElementById("speedSelect");
+  speedSel.value = "1";
+  speedSel.classList.remove("fast");
+  document.getElementById("localVideo").playbackRate = 1;
   toggleCaptions();  // captions on by default
 }
 
@@ -1133,6 +1158,11 @@ document.getElementById("pinyinToggle").addEventListener("click", togglePinyin);
 document.getElementById("sidebarToggle").addEventListener("click", toggleTranscript);
 document.getElementById("btnSimp").addEventListener("click", () => setScript("simplified"));
 document.getElementById("btnTrad").addEventListener("click", () => setScript("traditional"));
+document.getElementById("speedSelect").addEventListener("change", e => {
+  const rate = parseFloat(e.target.value);
+  document.getElementById("localVideo").playbackRate = rate;
+  e.target.classList.toggle("fast", rate !== 1);
+});
 
 document.addEventListener("keydown", e => {
   if (e.key === "Escape" && document.getElementById("watchView").classList.contains("visible"))
