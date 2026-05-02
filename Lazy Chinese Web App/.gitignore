@@ -1,0 +1,8 @@
+.env
+data/tokens.json
+data/watch_state.json
+data/onedrive_index.json
+data/reindex_misses.json
+__pycache__/
+*.pyc
+plan/Config.txt

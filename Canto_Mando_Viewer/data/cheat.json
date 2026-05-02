@@ -1,0 +1,123 @@
+{
+  "sections": [
+    {
+      "num": "①",
+      "title": "Pronouns & Plural Marker",
+      "rows": [
+        { "rule": "哋→们", "rule_jyutping": "dei6",       "rule_pinyin": "men",            "en": "We are going to eat.",                        "canto": "我哋去食飯。",   "jyutping": "ngo5 dei6 heoi3 sik6 faan6",      "mando": "我们去吃饭。",   "pinyin": "wǒmen qù chīfàn" },
+        { "rule": "佢→他", "rule_jyutping": "keoi5",      "rule_pinyin": "tā",             "en": "He is my friend.",                            "canto": "佢係我朋友。",   "jyutping": "keoi5 hai6 ngo5 pang4 jau5",      "mando": "他是我朋友。",   "pinyin": "tā shì wǒ péngyǒu" },
+        { "rule": "佢→她", "rule_jyutping": "keoi5",      "rule_pinyin": "tā",             "en": "She is very capable.",                        "canto": "佢好叻㗎。",     "jyutping": "keoi5 hou2 lek1 gaa3",            "mando": "她很厉害。",     "pinyin": "tā hěn lìhài" },
+        { "rule": "佢哋→他们", "rule_jyutping": "keoi5 dei6", "rule_pinyin": "tāmen",      "en": "Where are they?",                             "canto": "佢哋喺邊度？",   "jyutping": "keoi5 dei6 hai2 bin1 dou6",       "mando": "他们在哪里？",   "pinyin": "tāmen zài nǎlǐ" },
+        { "rule": "你哋→你们", "rule_jyutping": "nei5 dei6", "rule_pinyin": "nǐmen",       "en": "Have you all eaten yet?",                     "canto": "你哋食咗未？",   "jyutping": "nei5 dei6 sik6 zo2 mei6",         "mando": "你们吃了吗？",   "pinyin": "nǐmen chī le ma" }
+      ]
+    },
+    {
+      "num": "②",
+      "title": "Possession 嘅→的",
+      "rows": [
+        { "rule": "嘅→的", "rule_jyutping": "ge3",  "rule_pinyin": "de", "en": "This is my book.",       "canto": "呢係我嘅書。",   "jyutping": "ni1 hai6 ngo5 ge3 syu1",          "mando": "这是我的书。",   "pinyin": "zhè shì wǒ de shū" },
+        { "rule": "嘅→的", "rule_jyutping": "ge3",  "rule_pinyin": "de", "en": "His house is very big.", "canto": "佢嘅屋企好大。", "jyutping": "keoi5 ge3 uk1 kei2 hou2 daai6",   "mando": "他的家很大。",   "pinyin": "tā de jiā hěn dà" },
+        { "rule": "哋→地", "rule_jyutping": "dei6", "rule_pinyin": "de", "en": "He walks slowly.",       "canto": "佢慢慢哋行。",   "jyutping": "keoi5 maan6 maan6 dei6 haang4",   "mando": "他慢慢地走。",   "pinyin": "tā mànmàn de zǒu" }
+      ]
+    },
+    {
+      "num": "③",
+      "title": "Negation",
+      "rows": [
+        { "rule": "冇→没有", "rule_jyutping": "mou5", "rule_pinyin": "méiyǒu",  "en": "I don't have money.",    "canto": "我冇錢。",   "jyutping": "ngo5 mou5 cin2",               "mando": "我没有钱。",     "pinyin": "wǒ méiyǒu qián" },
+        { "rule": "唔→不",   "rule_jyutping": "m4",   "rule_pinyin": "bù",      "en": "I don't know.",          "canto": "我唔知。",   "jyutping": "ngo5 m4 ji1",                  "mando": "我不知道。",     "pinyin": "wǒ bù zhīdào" },
+        { "rule": "唔→不",   "rule_jyutping": "m4",   "rule_pinyin": "bù",      "en": "He isn't going.",        "canto": "佢唔去。",   "jyutping": "keoi5 m4 heoi3",               "mando": "他不去。",       "pinyin": "tā bù qù" },
+        { "rule": "未→还没", "rule_jyutping": "mei6", "rule_pinyin": "hái méi", "en": "I haven't eaten yet.",   "canto": "我未食飯。", "jyutping": "ngo5 mei6 sik6 faan6",         "mando": "我还没吃饭。",   "pinyin": "wǒ hái méi chīfàn" }
+      ]
+    },
+    {
+      "num": "④",
+      "title": "\"What\" Words 乜嘢/咩→什么",
+      "rows": [
+        { "rule": "乜嘢→什么", "rule_jyutping": "mat1 je5", "rule_pinyin": "shénme", "en": "What do you want to eat?", "canto": "你想食乜嘢？", "jyutping": "nei5 soeng2 sik6 mat1 je5", "mando": "你想吃什么？", "pinyin": "nǐ xiǎng chī shénme" },
+        { "rule": "乜→什么",   "rule_jyutping": "mat1",     "rule_pinyin": "shénme", "en": "What's the matter?",       "canto": "係乜事？",     "jyutping": "hai6 mat1 si6",             "mando": "是什么事？",   "pinyin": "shì shénme shì" },
+        { "rule": "咩→什么",   "rule_jyutping": "me1",      "rule_pinyin": "shénme", "en": "What are you saying?",     "canto": "你講咩？",     "jyutping": "nei5 gong2 me1",            "mando": "你说什么？",   "pinyin": "nǐ shuō shénme" }
+      ]
+    },
+    {
+      "num": "⑤",
+      "title": "\"Thing\" 嘢→东西",
+      "rows": [
+        { "rule": "嘢→东西", "rule_jyutping": "je5", "rule_pinyin": "dōngxi", "en": "What is this thing?",       "canto": "呢件嘢係咩？", "jyutping": "ni1 gin6 je5 hai6 me1",    "mando": "这个东西是什么？", "pinyin": "zhège dōngxi shì shénme" },
+        { "rule": "嘢→东西", "rule_jyutping": "je5", "rule_pinyin": "dōngxi", "en": "What things did you buy?",  "canto": "你買咗啲嘢？", "jyutping": "nei5 maai5 zo2 di1 je5",   "mando": "你买了什么东西？", "pinyin": "nǐ mǎi le shénme dōngxi" }
+      ]
+    },
+    {
+      "num": "⑥",
+      "title": "Indicator Words 呢/嗰/邊→这/那/哪",
+      "rows": [
+        { "rule": "呢→这", "rule_jyutping": "ni1",  "rule_pinyin": "zhè", "en": "Who is this person?",   "canto": "呢個人係邊個？", "jyutping": "ni1 go3 jan4 hai6 bin1 go3",  "mando": "这个人是谁？", "pinyin": "zhège rén shì shéi" },
+        { "rule": "嗰→那", "rule_jyutping": "go2",  "rule_pinyin": "nà",  "en": "That shop is great.",   "canto": "嗰間舖好正。",   "jyutping": "go2 gaan1 pou3 hou2 zing3",   "mando": "那家店很棒。", "pinyin": "nà jiā diàn hěn bàng" },
+        { "rule": "邊→哪", "rule_jyutping": "bin1", "rule_pinyin": "nǎ",  "en": "Which one is you?",     "canto": "邊個係你？",     "jyutping": "bin1 go3 hai6 nei5",          "mando": "哪个是你？",   "pinyin": "nǎge shì nǐ" },
+        { "rule": "呢→这", "rule_jyutping": "ni1",  "rule_pinyin": "zhè", "en": "This matter is hard.",  "canto": "呢件事好難。",   "jyutping": "ni1 gin6 si6 hou2 naan4",     "mando": "这件事很难。", "pinyin": "zhè jiàn shì hěn nán" }
+      ]
+    },
+    {
+      "num": "⑦",
+      "title": "Measure Words 啲→些",
+      "rows": [
+        { "rule": "啲→些", "rule_jyutping": "di1",    "rule_pinyin": "xiē",   "en": "Buy some apples.",        "canto": "買啲蘋果啦。", "jyutping": "maai5 di1 ping4 gwo2 laa1", "mando": "买些苹果吧。", "pinyin": "mǎi xiē píngguǒ ba" },
+        { "rule": "個→个", "rule_jyutping": "go3",    "rule_pinyin": "gè",    "en": "Three people.",           "canto": "三個人。",     "jyutping": "saam1 go3 jan4",            "mando": "三个人。",     "pinyin": "sān gè rén" },
+        { "rule": "張→张", "rule_jyutping": "zoeng1", "rule_pinyin": "zhāng", "en": "One sheet of paper.",     "canto": "一張紙。",     "jyutping": "jat1 zoeng1 zi2",           "mando": "一张纸。",     "pinyin": "yī zhāng zhǐ" },
+        { "rule": "條→条", "rule_jyutping": "tiu4",   "rule_pinyin": "tiáo",  "en": "Two fish.",               "canto": "兩條魚。",     "jyutping": "loeng5 tiu4 jyu2",          "mando": "两条鱼。",     "pinyin": "liǎng tiáo yú" },
+        { "rule": "本→本", "rule_jyutping": "bun2",   "rule_pinyin": "běn",   "en": "One book.",               "canto": "一本書。",     "jyutping": "jat1 bun2 syu1",            "mando": "一本书。",     "pinyin": "yī běn shū" }
+      ]
+    },
+    {
+      "num": "⑧",
+      "title": "Location Words",
+      "rows": [
+        { "rule": "喺→在",       "rule_jyutping": "hai2",      "rule_pinyin": "zài",     "en": "I am at home.",                      "canto": "我喺屋企。",   "jyutping": "ngo5 hai2 uk1 kei2",               "mando": "我在家。",       "pinyin": "wǒ zài jiā" },
+        { "rule": "呢度→这里",   "rule_jyutping": "ni1 dou6",  "rule_pinyin": "zhèlǐ",   "en": "You go here.",                       "canto": "你去呢度。",   "jyutping": "nei5 heoi3 ni1 dou6",              "mando": "你去这里。",     "pinyin": "nǐ qù zhèlǐ" },
+        { "rule": "嗰度→那里",   "rule_jyutping": "go2 dou6",  "rule_pinyin": "nàlǐ",    "en": "He is waiting for you there.",       "canto": "佢嗰度等你。", "jyutping": "keoi5 go2 dou6 dang2 nei5",        "mando": "他那里等你。",   "pinyin": "tā nàlǐ děng nǐ" },
+        { "rule": "邊度→哪里",   "rule_jyutping": "bin1 dou6", "rule_pinyin": "nǎlǐ",    "en": "Where is the bathroom?",             "canto": "洗手間邊度？", "jyutping": "sai2 sau2 gaan1 bin1 dou6",        "mando": "洗手间哪里？",   "pinyin": "xǐshǒujiān nǎlǐ" },
+        { "rule": "喺…度→在…里", "rule_jyutping": "hai2…dou6", "rule_pinyin": "zài…lǐ",  "en": "The book is in the bag.",            "canto": "書喺袋度。",   "jyutping": "syu1 hai2 doi2 dou6",              "mando": "书在袋子里。",   "pinyin": "shū zài dàizi lǐ" },
+        { "rule": "而家→现在",   "rule_jyutping": "ji4 gaa1",  "rule_pinyin": "xiànzài",  "en": "What time is it now?",               "canto": "而家幾多點？", "jyutping": "ji4 gaa1 gei2 do1 dim2",           "mando": "现在几点？",     "pinyin": "xiànzài jǐ diǎn" }
+      ]
+    },
+    {
+      "num": "⑨",
+      "title": "Time Words",
+      "rows": [
+        { "rule": "今日→今天", "rule_jyutping": "gam1 jat6",  "rule_pinyin": "jīntiān",   "en": "The weather is great today.",              "canto": "今日天氣好好。", "jyutping": "gam1 jat6 tin1 hei3 hou2 hou2",   "mando": "今天天气很好。",   "pinyin": "jīntiān tiānqì hěn hǎo" },
+        { "rule": "噚日→昨天", "rule_jyutping": "cam4 jat6",  "rule_pinyin": "zuótiān",   "en": "It rained yesterday.",                     "canto": "噚日落雨。",     "jyutping": "cam4 jat6 lok6 jyu5",             "mando": "昨天下雨了。",     "pinyin": "zuótiān xià yǔ le" },
+        { "rule": "听日→明天", "rule_jyutping": "ting1 jat6", "rule_pinyin": "míngtiān",  "en": "See you tomorrow.",                        "canto": "听日見。",       "jyutping": "ting1 jat6 gin3",                 "mando": "明天见。",         "pinyin": "míngtiān jiàn" },
+        { "rule": "後日→后天", "rule_jyutping": "hau6 jat6",  "rule_pinyin": "hòutiān",   "en": "I'm only free the day after tomorrow.",    "canto": "後日先得閒。",   "jyutping": "hau6 jat6 sin1 dak1 haan4",       "mando": "后天才有空。",     "pinyin": "hòutiān cái yǒu kòng" },
+        { "rule": "成日→整天", "rule_jyutping": "seng4 jat6", "rule_pinyin": "zhěngtiān", "en": "He always says that.",                     "canto": "佢成日咁講。",   "jyutping": "keoi5 seng4 jat6 gam2 gong2",     "mando": "他整天这样说。",   "pinyin": "tā zhěngtiān zhèyàng shuō" }
+      ]
+    },
+    {
+      "num": "⑩",
+      "title": "Question Words",
+      "rows": [
+        { "rule": "邊個→谁",       "rule_jyutping": "bin1 go3",   "rule_pinyin": "shéi",           "en": "Who is this?",                  "canto": "呢個係邊個？", "jyutping": "ni1 go3 hai6 bin1 go3",          "mando": "这个是谁？",       "pinyin": "zhège shì shéi" },
+        { "rule": "乜嘢→什么",     "rule_jyutping": "mat1 je5",   "rule_pinyin": "shénme",         "en": "What work do you do?",          "canto": "你做乜嘢工？", "jyutping": "nei5 zou6 mat1 je5 gung1",       "mando": "你做什么工作？",   "pinyin": "nǐ zuò shénme gōngzuò" },
+        { "rule": "邊度→哪里",     "rule_jyutping": "bin1 dou6",  "rule_pinyin": "nǎlǐ",           "en": "Where do you live?",            "canto": "你住邊度？",   "jyutping": "nei5 zyu6 bin1 dou6",            "mando": "你住哪里？",       "pinyin": "nǐ zhù nǎlǐ" },
+        { "rule": "幾時→什么时候", "rule_jyutping": "gei2 si4",   "rule_pinyin": "shénme shíhòu",  "en": "When will you be back?",        "canto": "你幾時返嚟？", "jyutping": "nei5 gei2 si4 faan1 lai4",       "mando": "你什么时候回来？", "pinyin": "nǐ shénme shíhòu huílái" },
+        { "rule": "點解→为什么",   "rule_jyutping": "dim2 gaai2", "rule_pinyin": "wèishénme",      "en": "Why aren't you going?",         "canto": "點解你唔去？", "jyutping": "dim2 gaai2 nei5 m4 heoi3",       "mando": "为什么你不去？",   "pinyin": "wèishénme nǐ bù qù" },
+        { "rule": "點→怎么",       "rule_jyutping": "dim2",       "rule_pinyin": "zěnme",          "en": "How do you know?",              "canto": "你點知？",     "jyutping": "nei5 dim2 ji1",                  "mando": "你怎么知道？",     "pinyin": "nǐ zěnme zhīdào" },
+        { "rule": "幾多→多少",     "rule_jyutping": "gei2 do1",   "rule_pinyin": "duōshao",        "en": "How much does it cost?",        "canto": "要幾多錢？",   "jyutping": "jiu3 gei2 do1 cin2",             "mando": "要多少钱？",       "pinyin": "yào duōshao qián" },
+        { "rule": "未→了吗",       "rule_jyutping": "mei6",       "rule_pinyin": "le ma",          "en": "Have you eaten?",               "canto": "你食飯未？",   "jyutping": "nei5 sik6 faan6 mei6",           "mando": "你吃饭了吗？",     "pinyin": "nǐ chīfàn le ma" }
+      ]
+    }
+  ],
+  "bonus": [
+    { "en": "What are they going there to eat?",            "canto": "佢哋去嗰度食乜嘢？", "jyutping": "keoi5 dei6 heoi3 go2 dou6 sik6 mat1 je5",   "mando": "他们去那里吃什么？",     "pinyin": "tāmen qù nàlǐ chī shénme" },
+    { "en": "We don't have time today.",                    "canto": "我哋今日冇時間。",   "jyutping": "ngo5 dei6 gam1 jat6 mou5 si4 gaan3",       "mando": "我们今天没有时间。",     "pinyin": "wǒmen jīntiān méiyǒu shíjiān" },
+    { "en": "This thing is his.",                           "canto": "呢件嘢係佢嘅。",     "jyutping": "ni1 gin6 je5 hai6 keoi5 ge3",              "mando": "这个东西是他的。",       "pinyin": "zhège dōngxi shì tā de" },
+    { "en": "Where are you all going tomorrow?",            "canto": "你哋聽日去邊度？",   "jyutping": "nei5 dei6 ting1 jat6 heoi3 bin1 dou6",     "mando": "你们明天去哪里？",       "pinyin": "nǐmen míngtiān qù nǎlǐ" },
+    { "en": "He doesn't know the book is on the table.",   "canto": "佢唔知書喺枱度。",   "jyutping": "keoi5 m4 ji1 syu1 hai2 toi2 dou6",         "mando": "他不知道书在桌子里。",   "pinyin": "tā bù zhīdào shū zài zhuōzi lǐ" },
+    { "en": "Why didn't you all come yesterday?",           "canto": "點解你哋噚日冇嚟？", "jyutping": "dim2 gaai2 nei5 dei6 cam4 jat6 mou5 lai4", "mando": "为什么你们昨天没有来？", "pinyin": "wèishénme nǐmen zuótiān méiyǒu lái" }
+  ],
+  "watchout": [
+    { "error": "唔 negates verbs/adj, NOT nouns",       "wrong": "我唔錢",     "correct": "我没有钱 (use 冇/没有)" },
+    { "error": "喺…度 BOTH parts must convert",          "wrong": "在袋度",     "correct": "在袋子里 (度→里)" },
+    { "error": "哋 (plural) vs 哋 (adverbial 地)",        "wrong": "我们慢慢们走", "correct": "我们慢慢地走" },
+    { "error": "佢 = he/she/it (context decides char)",  "wrong": "always 他",  "correct": "他/她/它 by context" }
+  ]
+}

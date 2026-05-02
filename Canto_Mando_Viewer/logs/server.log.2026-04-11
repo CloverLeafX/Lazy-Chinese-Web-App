@@ -1,0 +1,798 @@
+2026-04-11 15:20:06  INFO      ============================================================
+2026-04-11 15:20:06  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 15:20:06  INFO      ============================================================
+2026-04-11 15:20:12  INFO      GET / → 304  (9ms)  ip=127.0.0.1
+2026-04-11 15:20:12  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-11 15:20:12  INFO      GET /static/app.js → 304  (2ms)  ip=127.0.0.1
+2026-04-11 15:20:12  INFO      GET /api/curriculum → 304  (2ms)  ip=127.0.0.1
+2026-04-11 15:20:12  INFO      GET /api/structure → 200  (115ms)  ip=127.0.0.1
+2026-04-11 15:20:13  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-11 15:20:13  INFO      GET /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-11 15:21:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你喜欢喝什么？你喝啤酒吗？'  en='What do you like to drink? Do  (709ms)
+2026-04-11 15:21:28  INFO      POST /api/translate → 200  (712ms)  ip=127.0.0.1
+2026-04-11 15:21:29  INFO      POST /api/dict/segment → 200  (619ms)  ip=127.0.0.1
+2026-04-11 15:21:49  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=13  (1514ms)
+2026-04-11 15:21:49  INFO      POST /api/tts → 200  (1516ms)  ip=127.0.0.1
+2026-04-11 15:25:20  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1122s
+2026-04-11 15:25:20  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:25:21  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ zhīdào zhōujiélún ma ？ nǐ   en="Do you know if it's Saturday?  (501ms)
+2026-04-11 15:25:21  INFO      POST /api/translate → 200  (504ms)  ip=127.0.0.1
+2026-04-11 15:25:21  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 15:25:37  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1602s
+2026-04-11 15:25:37  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:25:38  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ kànjiàn shénme de shíhou ，  en='What makes you drool?'  (481ms)
+2026-04-11 15:25:38  INFO      POST /api/translate → 200  (483ms)  ip=127.0.0.1
+2026-04-11 15:25:38  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 15:25:42  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1637s
+2026-04-11 15:25:42  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:25:43  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ píngshí shàngbān chídào ma  en='Do you usually eat during wor  (813ms)
+2026-04-11 15:25:43  INFO      POST /api/translate → 200  (816ms)  ip=127.0.0.1
+2026-04-11 15:25:43  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 15:26:56  INFO      ============================================================
+2026-04-11 15:26:56  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 15:26:56  INFO      ============================================================
+2026-04-11 15:40:36  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=687s
+2026-04-11 15:40:37  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:40:37  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我回过来十点十五分'  en='I came back at 10:15'  (569ms)
+2026-04-11 15:40:37  INFO      POST /api/translate → 200  (571ms)  ip=127.0.0.1
+2026-04-11 15:40:38  INFO      POST /api/dict/segment → 200  (605ms)  ip=127.0.0.1
+2026-04-11 15:41:03  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=659s
+2026-04-11 15:41:03  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:41:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='十一月二十三号'  en='November 23rd'  (503ms)
+2026-04-11 15:41:03  INFO      POST /api/translate → 200  (510ms)  ip=127.0.0.1
+2026-04-11 15:41:03  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 15:42:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=604s
+2026-04-11 15:42:02  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:42:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我的生日是十一月二十三号'  en='My birthday is November 23rd.  (674ms)
+2026-04-11 15:42:02  INFO      POST /api/translate → 200  (713ms)  ip=127.0.0.1
+2026-04-11 15:42:02  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 15:42:22  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=582s
+2026-04-11 15:42:22  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:42:22  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我的生日是八月二'  en='My birthday is August 2nd.'  (457ms)
+2026-04-11 15:42:22  INFO      POST /api/translate → 200  (460ms)  ip=127.0.0.1
+2026-04-11 15:42:22  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 15:42:42  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=557s
+2026-04-11 15:42:42  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:42:42  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='next week'  en='Next week'  (436ms)
+2026-04-11 15:42:42  INFO      POST /api/translate → 200  (438ms)  ip=127.0.0.1
+2026-04-11 15:42:42  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 15:45:55  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=371s
+2026-04-11 15:45:55  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:45:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我要玩basketball下周同我的朋友'  en='I want to play basketball wit  (573ms)
+2026-04-11 15:45:55  INFO      POST /api/translate → 200  (576ms)  ip=127.0.0.1
+2026-04-11 15:45:55  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 15:47:04  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=299s
+2026-04-11 15:47:04  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:47:04  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我要出去中国next year'  en='I want to go to China next ye  (495ms)
+2026-04-11 15:47:04  INFO      POST /api/translate → 200  (497ms)  ip=127.0.0.1
+2026-04-11 15:47:04  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-11 15:48:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=244s
+2026-04-11 15:48:01  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:48:01  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我去了麻辣死啊last year'  en='I went to Sichuan hot pot las  (588ms)
+2026-04-11 15:48:01  INFO      POST /api/translate → 200  (591ms)  ip=127.0.0.1
+2026-04-11 15:48:01  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 15:48:25  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=216s
+2026-04-11 15:48:26  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:48:26  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我去了英国last year'  en='I went to England last year.'  (591ms)
+2026-04-11 15:48:26  INFO      POST /api/translate → 200  (593ms)  ip=127.0.0.1
+2026-04-11 15:48:26  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-11 15:49:18  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=221s
+2026-04-11 15:49:18  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:49:19  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ píngshí shàngbān chídào ma  en='Do you usually eat during wor  (923ms)
+2026-04-11 15:49:19  INFO      POST /api/translate → 200  (930ms)  ip=127.0.0.1
+2026-04-11 15:49:19  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-11 15:49:31  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=191s
+2026-04-11 15:49:31  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:49:32  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ péngyou shēngrì de shíhou   en="What did you give your friend  (842ms)
+2026-04-11 15:49:32  INFO      POST /api/translate → 200  (845ms)  ip=127.0.0.1
+2026-04-11 15:49:32  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-11 15:49:56  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=166s
+2026-04-11 15:49:56  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:49:56  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ péngyou shēngrì de shíhou   en="When your friend's birthday c  (743ms)
+2026-04-11 15:49:56  INFO      POST /api/translate → 200  (745ms)  ip=127.0.0.1
+2026-04-11 15:49:57  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 15:50:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=183s
+2026-04-11 15:50:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:50:10  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ zhù zài fángzi lǐ háishì g  en="Do you live in a house or a f  (997ms)
+2026-04-11 15:50:10  INFO      POST /api/translate → 200  (999ms)  ip=127.0.0.1
+2026-04-11 15:50:10  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 15:50:40  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=152s
+2026-04-11 15:50:40  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:50:41  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐ zhù zài fángzi lǐ háishì g  en="Do you live in a house or a f  (1036ms)
+2026-04-11 15:50:41  INFO      POST /api/translate → 200  (1039ms)  ip=127.0.0.1
+2026-04-11 15:50:41  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-11 15:51:24  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=58s
+2026-04-11 15:51:24  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 15:51:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='nǐjiā fùjìn yǒu hěnduō hónglǜ  en='Is there a lot of red lights   (710ms)
+2026-04-11 15:51:24  INFO      POST /api/translate → 200  (714ms)  ip=127.0.0.1
+2026-04-11 15:51:24  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 16:01:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1969  remaining_req=640  remaining_tok=9798  reset_req=8h38m24s
+2026-04-11 16:01:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='nǐ zhù zài fángzi lǐ háishì g  en="Do you live in a house or an   (1494ms)
+2026-04-11 16:01:44  INFO      POST /api/translate → 200  (1498ms)  ip=127.0.0.1
+2026-04-11 16:01:44  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-11 16:01:58  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1566s
+2026-04-11 16:01:58  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:01:59  ERROR     [Translate] error  src='你家附近有学校吗？你家附近有车站吗？你家对面有什么？'  Invalid \escape: line 1 column 240 (char 239)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 595, in api_translate
+    parsed = json.loads(match.group())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Invalid \escape: line 1 column 240 (char 239)
+2026-04-11 16:01:59  WARNING   POST /api/translate → 500  (733ms)  ip=127.0.0.1
+2026-04-11 16:02:06  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1759s
+2026-04-11 16:02:06  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:02:06  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常在哪里停车？我可以在妳家前面的路停车吗？'  en='Where do you usually park? Ca  (640ms)
+2026-04-11 16:02:06  INFO      POST /api/translate → 200  (643ms)  ip=127.0.0.1
+2026-04-11 16:02:06  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-11 16:13:28  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1083s
+2026-04-11 16:13:28  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:13:29  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你最近去旅游了吗？你去了什么地方玩？你去了多少天？你最喜欢  en='Have you traveled recently? W  (983ms)
+2026-04-11 16:13:29  INFO      POST /api/translate → 200  (989ms)  ip=127.0.0.1
+2026-04-11 16:13:29  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-11 16:13:42  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1069s
+2026-04-11 16:13:42  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:13:42  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你觉得什么时候去你的城市旅游比较好？如果我去你的城市，你会  en='When do you think is the best  (905ms)
+2026-04-11 16:13:42  INFO      POST /api/translate → 200  (906ms)  ip=127.0.0.1
+2026-04-11 16:13:42  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-11 16:14:24  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1015s
+2026-04-11 16:14:24  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:14:25  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你换过工作了吗？你以前做什么工作？'  en='Have you changed jobs? What d  (520ms)
+2026-04-11 16:14:25  INFO      POST /api/translate → 200  (522ms)  ip=127.0.0.1
+2026-04-11 16:14:25  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 16:16:03  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=916s
+2026-04-11 16:16:03  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:16:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你换过工作了吗？你以前做什么工作？'  en='Have you changed jobs? What d  (771ms)
+2026-04-11 16:16:03  INFO      POST /api/translate → 200  (774ms)  ip=127.0.0.1
+2026-04-11 16:16:03  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-11 16:16:48  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=862s
+2026-04-11 16:16:48  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:16:49  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='fsdfsd'  en='The input is untranslatable.   (384ms)
+2026-04-11 16:16:49  INFO      POST /api/translate → 200  (386ms)  ip=127.0.0.1
+2026-04-11 16:16:49  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-11 16:16:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=854s
+2026-04-11 16:16:54  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:16:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='hello'  en='Hello'  (368ms)
+2026-04-11 16:16:54  INFO      POST /api/translate → 200  (370ms)  ip=127.0.0.1
+2026-04-11 16:16:54  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-11 16:17:05  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=859s
+2026-04-11 16:17:05  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:17:05  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en='When do you usually study Chi  (846ms)
+2026-04-11 16:17:05  INFO      POST /api/translate → 200  (849ms)  ip=127.0.0.1
+2026-04-11 16:17:05  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 16:17:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=855s
+2026-04-11 16:17:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:17:09  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en='When do you usually study Chi  (720ms)
+2026-04-11 16:17:09  INFO      POST /api/translate → 200  (723ms)  ip=127.0.0.1
+2026-04-11 16:17:09  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-11 16:17:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=839s
+2026-04-11 16:17:23  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:17:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你做完今天的工作了吗？ 你今天几点下班？'  en='Have you finished your work t  (737ms)
+2026-04-11 16:17:24  INFO      POST /api/translate → 200  (740ms)  ip=127.0.0.1
+2026-04-11 16:17:24  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-11 16:17:31  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=827s
+2026-04-11 16:17:31  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:17:32  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你换过工作了吗？你以前做什么工作？'  en='Have you changed jobs? What d  (529ms)
+2026-04-11 16:17:32  INFO      POST /api/translate → 200  (531ms)  ip=127.0.0.1
+2026-04-11 16:17:32  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 16:42:53  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1421  remaining_req=667  remaining_tok=9883  reset_req=7h59m31.2s
+2026-04-11 16:42:53  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='hello'  en='hello'  (260ms)
+2026-04-11 16:42:53  INFO      POST /api/translate → 200  (264ms)  ip=127.0.0.1
+2026-04-11 16:42:53  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 16:43:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=567s
+2026-04-11 16:43:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:43:10  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你做完今天的工作了吗？ 你今天几点下班？'  en='Have you finished your work t  (644ms)
+2026-04-11 16:43:10  INFO      POST /api/translate → 200  (648ms)  ip=127.0.0.1
+2026-04-11 16:43:10  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 16:43:26  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1155s
+2026-04-11 16:43:26  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:43:28  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en='When do you usually study Chi  (1877ms)
+2026-04-11 16:43:28  INFO      POST /api/translate → 200  (1880ms)  ip=127.0.0.1
+2026-04-11 16:43:28  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 16:43:53  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1125s
+2026-04-11 16:43:54  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:43:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你做完今天的工作了吗？ 你今天几点下班？'  en='Have you finished your work f  (645ms)
+2026-04-11 16:43:54  INFO      POST /api/translate → 200  (648ms)  ip=127.0.0.1
+2026-04-11 16:43:54  INFO      POST /api/dict/segment → 200  (15ms)  ip=127.0.0.1
+2026-04-11 16:50:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=735s
+2026-04-11 16:50:23  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:50:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你做完今天的工作了吗？ 你今天几点下班？'  en='Have you finished your work f  (761ms)
+2026-04-11 16:50:24  INFO      POST /api/translate → 200  (762ms)  ip=127.0.0.1
+2026-04-11 16:50:24  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 16:50:34  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=726s
+2026-04-11 16:50:34  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:50:35  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en='When do you usually study Chi  (682ms)
+2026-04-11 16:50:35  INFO      POST /api/translate → 200  (685ms)  ip=127.0.0.1
+2026-04-11 16:50:35  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 16:50:39  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=717s
+2026-04-11 16:50:39  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:50:39  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你换过工作了吗？你以前做什么工作？'  en='Have you changed jobs? What d  (638ms)
+2026-04-11 16:50:39  INFO      POST /api/translate → 200  (641ms)  ip=127.0.0.1
+2026-04-11 16:50:39  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 16:50:44  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=722s
+2026-04-11 16:50:44  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:50:44  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=8s
+2026-04-11 16:50:44  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 16:50:44  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 16:50:48  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=719s
+2026-04-11 16:50:48  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:50:48  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=5s
+2026-04-11 16:50:48  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 16:50:48  ERROR     [Translate] error  src='你上班的时候经常开会吗？你通常几点开会？你需要准备开会的东西吗？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 586, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 16:50:48  WARNING   POST /api/translate → 500  (3444ms)  ip=127.0.0.1
+2026-04-11 16:51:15  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=692s
+2026-04-11 16:51:15  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 16:51:16  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你身边有人在找工作吗？你觉得现在找工作容易吗？你刚毕业的时  en="Do you know anyone who's look  (1056ms)
+2026-04-11 16:51:16  INFO      POST /api/translate → 200  (1059ms)  ip=127.0.0.1
+2026-04-11 16:51:16  INFO      POST /api/dict/segment → 200  (95ms)  ip=127.0.0.1
+2026-04-11 17:01:14  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=93s
+2026-04-11 17:01:14  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:01:15  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你身边有人在找工作吗？你觉得现在找工作容易吗？你刚毕业的时  en="Do you know anyone who's look  (1017ms)
+2026-04-11 17:01:15  INFO      POST /api/translate → 200  (1020ms)  ip=127.0.0.1
+2026-04-11 17:01:15  INFO      POST /api/dict/segment → 200  (22ms)  ip=127.0.0.1
+2026-04-11 17:07:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1874  remaining_req=683  remaining_tok=9858  reset_req=7h36m28.8s
+2026-04-11 17:07:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你身边有人在找工作吗？你觉得现在找工作容易吗？你刚毕业的时  en="Is there anyone around you lo  (1467ms)
+2026-04-11 17:07:36  INFO      POST /api/translate → 200  (1470ms)  ip=127.0.0.1
+2026-04-11 17:07:37  INFO      POST /api/dict/segment → 200  (22ms)  ip=127.0.0.1
+2026-04-11 17:07:53  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=33  (4186ms)
+2026-04-11 17:07:53  INFO      POST /api/tts → 200  (4188ms)  ip=127.0.0.1
+2026-04-11 17:07:56  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=33  (972ms)
+2026-04-11 17:07:56  INFO      POST /api/tts → 200  (973ms)  ip=127.0.0.1
+2026-04-11 17:08:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=37  (1362ms)
+2026-04-11 17:08:07  INFO      POST /api/tts → 200  (1363ms)  ip=127.0.0.1
+2026-04-11 17:12:35  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1314s
+2026-04-11 17:12:35  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:12:35  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你知道中国的故事吗？你能告诉我那个故事的名字吗？'  en='Do you know any Chinese stori  (666ms)
+2026-04-11 17:12:35  INFO      POST /api/translate → 200  (669ms)  ip=127.0.0.1
+2026-04-11 17:12:35  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-11 17:12:43  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1543s
+2026-04-11 17:12:43  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:12:43  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你 去过 几次 中国了？你想 再去 中国 什么地方？ 为什  en='Have you been to China severa  (683ms)
+2026-04-11 17:12:43  INFO      POST /api/translate → 200  (686ms)  ip=127.0.0.1
+2026-04-11 17:12:43  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-11 17:12:55  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1314s
+2026-04-11 17:12:55  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:12:56  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你那里现在天气怎么样？你喜欢热的天气还是冷的天气？你那里会  en="How's the weather where you a  (1015ms)
+2026-04-11 17:12:56  INFO      POST /api/translate → 200  (1017ms)  ip=127.0.0.1
+2026-04-11 17:12:56  INFO      POST /api/dict/segment → 200  (23ms)  ip=127.0.0.1
+2026-04-11 17:13:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1512s
+2026-04-11 17:13:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:13:09  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='放假的时候，你喜欢留在家里还是出去玩？下雨的时候呢？'  en="When you're on vacation, do y  (735ms)
+2026-04-11 17:13:09  INFO      POST /api/translate → 200  (738ms)  ip=127.0.0.1
+2026-04-11 17:13:09  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-11 17:13:31  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=23  (2232ms)
+2026-04-11 17:13:31  INFO      POST /api/tts → 200  (2234ms)  ip=127.0.0.1
+2026-04-11 17:13:37  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=26  (1049ms)
+2026-04-11 17:13:37  INFO      POST /api/tts → 200  (1050ms)  ip=127.0.0.1
+2026-04-11 17:13:51  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1463s
+2026-04-11 17:13:51  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:13:51  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你更喜欢读书还是工作？为什么？'  en='Do you prefer reading books o  (575ms)
+2026-04-11 17:13:51  INFO      POST /api/translate → 200  (578ms)  ip=127.0.0.1
+2026-04-11 17:13:51  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 17:17:22  INFO      ============================================================
+2026-04-11 17:17:22  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 17:17:22  INFO      ============================================================
+2026-04-11 17:18:21  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1464s
+2026-04-11 17:18:21  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:18:22  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1334ms)
+2026-04-11 17:18:22  INFO      POST /api/translate → 200  (1335ms)  ip=127.0.0.1
+2026-04-11 17:18:22  INFO      POST /api/dict/segment → 200  (577ms)  ip=127.0.0.1
+2026-04-11 17:23:15  INFO      ============================================================
+2026-04-11 17:23:15  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 17:23:15  INFO      ============================================================
+2026-04-11 17:23:30  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1170s
+2026-04-11 17:23:30  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:23:31  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1185ms)
+2026-04-11 17:23:31  INFO      POST /api/translate → 200  (1186ms)  ip=127.0.0.1
+2026-04-11 17:23:31  INFO      POST /api/dict/segment → 200  (560ms)  ip=127.0.0.1
+2026-04-11 17:26:16  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=978s
+2026-04-11 17:26:16  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:26:16  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='zhè ge'  en='this thing'  (384ms)
+2026-04-11 17:26:16  INFO      POST /api/translate → 200  (389ms)  ip=127.0.0.1
+2026-04-11 17:26:16  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-11 17:26:30  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=990s
+2026-04-11 17:26:30  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:26:31  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1276ms)
+2026-04-11 17:26:31  INFO      POST /api/translate → 200  (1279ms)  ip=127.0.0.1
+2026-04-11 17:26:31  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-11 17:28:17  INFO      ============================================================
+2026-04-11 17:28:17  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 17:28:17  INFO      ============================================================
+2026-04-11 17:28:32  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=876s
+2026-04-11 17:28:32  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:28:33  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1411ms)
+2026-04-11 17:28:33  INFO      POST /api/translate → 200  (1412ms)  ip=127.0.0.1
+2026-04-11 17:28:34  INFO      POST /api/dict/segment → 200  (579ms)  ip=127.0.0.1
+2026-04-11 17:31:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=822s
+2026-04-11 17:31:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:31:09  ERROR     [Translate] error  src='"  - et: pinyin+gloss of each Mandarin   No JSON object in Groq response: I will follow the rules exactly as stated.
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 598, in api_translate
+    parsed = json.loads(match.group())
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: No JSON object in Groq response: I will follow the rules exactly as stated.
+2026-04-11 17:31:09  WARNING   POST /api/translate → 500  (452ms)  ip=127.0.0.1
+2026-04-11 17:31:16  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=712s
+2026-04-11 17:31:16  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:31:17  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1217ms)
+2026-04-11 17:31:17  INFO      POST /api/translate → 200  (1220ms)  ip=127.0.0.1
+2026-04-11 17:31:17  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-11 17:33:36  INFO      ============================================================
+2026-04-11 17:33:36  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 17:33:36  INFO      ============================================================
+2026-04-11 17:33:44  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=516s
+2026-04-11 17:33:44  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:33:45  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en="What major did you choose whe  (1181ms)
+2026-04-11 17:33:45  INFO      POST /api/translate → 200  (1182ms)  ip=127.0.0.1
+2026-04-11 17:33:46  INFO      POST /api/dict/segment → 200  (591ms)  ip=127.0.0.1
+2026-04-11 17:37:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=267s
+2026-04-11 17:37:54  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 17:37:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en='What major did you choose whe  (1102ms)
+2026-04-11 17:37:55  INFO      POST /api/translate → 200  (1106ms)  ip=127.0.0.1
+2026-04-11 17:37:55  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-11 19:40:00  INFO      ============================================================
+2026-04-11 19:40:00  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 19:40:00  INFO      ============================================================
+2026-04-11 19:40:51  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2579  remaining_req=788  remaining_tok=9270  reset_req=5h5m16.8s
+2026-04-11 19:40:51  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你读大学的时候选了什么专业？为什么你选这个专业？你读书的时  en='What major did you choose whe  (4648ms)
+2026-04-11 19:40:51  INFO      POST /api/translate → 200  (4650ms)  ip=127.0.0.1
+2026-04-11 19:40:52  INFO      POST /api/dict/segment → 200  (636ms)  ip=127.0.0.1
+2026-04-11 19:41:09  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2175  remaining_req=787  remaining_tok=9292  reset_req=5h6m43.2s
+2026-04-11 19:41:09  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你觉得最好什么时候去XX旅游？为什么?'  en='When do you think is the best  (659ms)
+2026-04-11 19:41:09  INFO      POST /api/translate → 200  (661ms)  ip=127.0.0.1
+2026-04-11 19:41:09  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 19:41:27  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2221  remaining_req=786  remaining_tok=9439  reset_req=5h8m9.6s
+2026-04-11 19:41:27  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你做完今天的工作了吗？ 你今天几点下班？'  en="Have you finished today's wor  (762ms)
+2026-04-11 19:41:27  INFO      POST /api/translate → 200  (764ms)  ip=127.0.0.1
+2026-04-11 19:41:27  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 19:41:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2268  remaining_req=785  remaining_tok=9818  reset_req=5h9m36s
+2026-04-11 19:41:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en="When do you usually study Chi  (797ms)
+2026-04-11 19:41:44  INFO      POST /api/translate → 200  (800ms)  ip=127.0.0.1
+2026-04-11 19:41:44  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 19:51:50  INFO      ============================================================
+2026-04-11 19:51:50  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 19:51:50  INFO      ============================================================
+2026-04-11 19:52:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1726s
+2026-04-11 19:52:02  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 19:52:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (823ms)
+2026-04-11 19:52:02  INFO      POST /api/translate → 200  (824ms)  ip=127.0.0.1
+2026-04-11 19:52:03  INFO      POST /api/dict/segment → 200  (592ms)  ip=127.0.0.1
+2026-04-11 20:00:34  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1214s
+2026-04-11 20:00:34  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:00:34  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (775ms)
+2026-04-11 20:00:34  INFO      POST /api/translate → 200  (780ms)  ip=127.0.0.1
+2026-04-11 20:00:34  INFO      POST /api/dict/segment → 200  (31ms)  ip=127.0.0.1
+2026-04-11 20:00:34  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1216s
+2026-04-11 20:00:35  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:00:35  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en='When do you usually study Chi  (650ms)
+2026-04-11 20:00:35  INFO      POST /api/translate → 200  (653ms)  ip=127.0.0.1
+2026-04-11 20:00:35  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-11 20:00:35  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1205s
+2026-04-11 20:00:35  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:00:35  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=10s
+2026-04-11 20:00:35  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:00:35  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:00:38  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1201s
+2026-04-11 20:00:38  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:00:39  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=7s
+2026-04-11 20:00:39  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:00:39  ERROR     [Translate] error  src='我已经吃过了。'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:00:39  WARNING   POST /api/translate → 500  (3548ms)  ip=127.0.0.1
+2026-04-11 20:01:17  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1163s
+2026-04-11 20:01:17  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:01:18  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我已经吃过了。'  en="I've already eaten."  (563ms)
+2026-04-11 20:01:18  INFO      POST /api/translate → 200  (566ms)  ip=127.0.0.1
+2026-04-11 20:02:04  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1124s
+2026-04-11 20:02:04  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:05  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (701ms)
+2026-04-11 20:02:05  INFO      POST /api/translate → 200  (704ms)  ip=127.0.0.1
+2026-04-11 20:02:05  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-11 20:02:05  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1126s
+2026-04-11 20:02:05  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:05  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en="When do you usually study Chi  (679ms)
+2026-04-11 20:02:05  INFO      POST /api/translate → 200  (680ms)  ip=127.0.0.1
+2026-04-11 20:02:05  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:02:05  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1114s
+2026-04-11 20:02:05  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:06  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我已经吃过了。'  en="I've already eaten."  (414ms)
+2026-04-11 20:02:06  INFO      POST /api/translate → 200  (416ms)  ip=127.0.0.1
+2026-04-11 20:02:06  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1118s
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:06  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你更喜欢读书还是工作？为什么？'  en='Do you prefer reading books o  (470ms)
+2026-04-11 20:02:06  INFO      POST /api/translate → 200  (473ms)  ip=127.0.0.1
+2026-04-11 20:02:06  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1112s
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=1s
+2026-04-11 20:02:06  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:02:06  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:02:10  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1109s
+2026-04-11 20:02:10  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:02:10  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你叫什么名字？'  en='What is your name?'  (3739ms)
+2026-04-11 20:02:10  INFO      POST /api/translate → 200  (3741ms)  ip=127.0.0.1
+2026-04-11 20:02:10  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:03:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1067s
+2026-04-11 20:03:01  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:01  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (618ms)
+2026-04-11 20:03:01  INFO      POST /api/translate → 200  (623ms)  ip=127.0.0.1
+2026-04-11 20:03:01  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-11 20:03:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1069s
+2026-04-11 20:03:01  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en="When do you usually study Chi  (690ms)
+2026-04-11 20:03:02  INFO      POST /api/translate → 200  (692ms)  ip=127.0.0.1
+2026-04-11 20:03:02  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 20:03:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1058s
+2026-04-11 20:03:02  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我已经吃过了。'  en="I've already eaten."  (550ms)
+2026-04-11 20:03:03  INFO      POST /api/translate → 200  (553ms)  ip=127.0.0.1
+2026-04-11 20:03:03  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 20:03:03  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1061s
+2026-04-11 20:03:03  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:03  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=5s
+2026-04-11 20:03:03  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:03:03  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:03:06  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1057s
+2026-04-11 20:03:06  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:06  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=2s
+2026-04-11 20:03:06  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:03:06  ERROR     [Translate] error  src='你更喜欢读书还是工作？为什么？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:03:06  WARNING   POST /api/translate → 500  (3615ms)  ip=127.0.0.1
+2026-04-11 20:03:08  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1055s
+2026-04-11 20:03:08  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:09  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你更喜欢读书还是工作？为什么？'  en='Do you prefer reading books o  (411ms)
+2026-04-11 20:03:09  INFO      POST /api/translate → 200  (415ms)  ip=127.0.0.1
+2026-04-11 20:03:09  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 20:03:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1050s
+2026-04-11 20:03:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:09  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=5s
+2026-04-11 20:03:09  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:03:09  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:03:12  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1047s
+2026-04-11 20:03:12  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:12  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=3s
+2026-04-11 20:03:12  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:03:12  ERROR     [Translate] error  src='你叫什么名字？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:03:12  WARNING   POST /api/translate → 500  (3572ms)  ip=127.0.0.1
+2026-04-11 20:03:14  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1044s
+2026-04-11 20:03:14  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:03:15  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你叫什么名字？'  en='What is your name?'  (660ms)
+2026-04-11 20:03:15  INFO      POST /api/translate → 200  (662ms)  ip=127.0.0.1
+2026-04-11 20:03:15  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:06:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=834s
+2026-04-11 20:06:54  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:06:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (681ms)
+2026-04-11 20:06:54  INFO      POST /api/translate → 200  (684ms)  ip=127.0.0.1
+2026-04-11 20:06:54  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-11 20:06:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=837s
+2026-04-11 20:06:54  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:06:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常什么时候学中文？你觉得难吗？你会写汉字吗？'  en="When do you usually study Chi  (1261ms)
+2026-04-11 20:06:55  INFO      POST /api/translate → 200  (1264ms)  ip=127.0.0.1
+2026-04-11 20:06:55  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-11 20:06:55  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=824s
+2026-04-11 20:06:56  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:06:56  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=5s
+2026-04-11 20:06:56  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:06:56  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:06:59  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=821s
+2026-04-11 20:06:59  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:06:59  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=2s
+2026-04-11 20:06:59  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:06:59  ERROR     [Translate] error  src='我已经吃过了。'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:06:59  WARNING   POST /api/translate → 500  (3602ms)  ip=127.0.0.1
+2026-04-11 20:07:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=819s
+2026-04-11 20:07:01  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我已经吃过了。'  en="I've already eaten."  (720ms)
+2026-04-11 20:07:02  INFO      POST /api/translate → 200  (725ms)  ip=127.0.0.1
+2026-04-11 20:07:02  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:07:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=821s
+2026-04-11 20:07:02  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:02  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=19s
+2026-04-11 20:07:02  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:02  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:07:05  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=818s
+2026-04-11 20:07:05  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:05  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=16s
+2026-04-11 20:07:05  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:05  ERROR     [Translate] error  src='你更喜欢读书还是工作？为什么？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:07:05  WARNING   POST /api/translate → 500  (3605ms)  ip=127.0.0.1
+2026-04-11 20:07:07  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=816s
+2026-04-11 20:07:07  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:08  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=14s
+2026-04-11 20:07:08  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:08  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:07:11  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=813s
+2026-04-11 20:07:11  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:11  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=10s
+2026-04-11 20:07:11  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:11  ERROR     [Translate] error  src='你更喜欢读书还是工作？为什么？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:07:11  WARNING   POST /api/translate → 500  (3665ms)  ip=127.0.0.1
+2026-04-11 20:07:17  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=818s
+2026-04-11 20:07:17  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:17  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=4s
+2026-04-11 20:07:18  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:18  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:07:21  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=814s
+2026-04-11 20:07:21  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:22  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你今晚几点睡觉？你睡觉前会看书吗？你睡觉前做什么？'  en='What time do you go to sleep   (4250ms)
+2026-04-11 20:07:22  INFO      POST /api/translate → 200  (4253ms)  ip=127.0.0.1
+2026-04-11 20:07:22  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-11 20:07:22  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=806s
+2026-04-11 20:07:22  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:22  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=23s
+2026-04-11 20:07:22  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:22  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:07:25  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=802s
+2026-04-11 20:07:25  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:25  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=19s
+2026-04-11 20:07:25  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:25  ERROR     [Translate] error  src='你经常买外卖吗？你通常买什么外卖？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:07:25  WARNING   POST /api/translate → 500  (3641ms)  ip=127.0.0.1
+2026-04-11 20:07:27  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=801s
+2026-04-11 20:07:27  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:27  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=17s
+2026-04-11 20:07:28  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:28  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-11 20:07:31  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=797s
+2026-04-11 20:07:31  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:07:31  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=14s
+2026-04-11 20:07:31  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-11 20:07:31  ERROR     [Translate] error  src='你经常买外卖吗？你通常买什么外卖？'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 597, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-11 20:07:31  WARNING   POST /api/translate → 500  (3725ms)  ip=127.0.0.1
+2026-04-11 20:13:12  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=457s
+2026-04-11 20:13:12  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:13:13  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你知道中国的故事吗？你能告诉我那个故事的名字吗？'  en='Do you know any Chinese stori  (938ms)
+2026-04-11 20:13:13  INFO      POST /api/translate → 200  (943ms)  ip=127.0.0.1
+2026-04-11 20:13:13  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-11 20:14:32  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=382s
+2026-04-11 20:14:32  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:14:33  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你 去过 几次 中国了？你想 再去 中国 什么地方？ 为什  en='Have you been to China severa  (719ms)
+2026-04-11 20:14:33  INFO      POST /api/translate → 200  (724ms)  ip=127.0.0.1
+2026-04-11 20:14:33  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-11 20:15:35  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=324s
+2026-04-11 20:15:35  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:15:36  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你最近去旅游了吗？你去了什么地方玩？你去了多少天？你最喜欢  en='Have you traveled recently? W  (1145ms)
+2026-04-11 20:15:36  INFO      POST /api/translate → 200  (1160ms)  ip=127.0.0.1
+2026-04-11 20:15:36  INFO      POST /api/dict/segment → 200  (16ms)  ip=127.0.0.1
+2026-04-11 20:17:32  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=185s
+2026-04-11 20:17:32  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:17:33  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='鼓掌'  en='Applause'  (501ms)
+2026-04-11 20:17:33  INFO      POST /api/translate → 200  (504ms)  ip=127.0.0.1
+2026-04-11 20:17:33  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:17:48  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=172s
+2026-04-11 20:17:48  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:17:48  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='这个词是鼓掌'  en='This word is applause'  (570ms)
+2026-04-11 20:17:48  INFO      POST /api/translate → 200  (573ms)  ip=127.0.0.1
+2026-04-11 20:17:48  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:18:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=134s
+2026-04-11 20:18:23  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:18:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='打哈欠'  en='yawn'  (487ms)
+2026-04-11 20:18:24  INFO      POST /api/translate → 200  (490ms)  ip=127.0.0.1
+2026-04-11 20:18:24  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:26:32  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2020  remaining_req=815  remaining_tok=9301  reset_req=4h26m24s
+2026-04-11 20:26:32  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='打哈欠'  en='Yawn'  (540ms)
+2026-04-11 20:26:32  INFO      POST /api/translate → 200  (544ms)  ip=127.0.0.1
+2026-04-11 20:26:32  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-11 20:30:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1837s
+2026-04-11 20:30:09  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:30:10  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你今晚吃了什麼？今晚誰做飯？今晚誰洗碗？'  en='What did you eat for dinner t  (753ms)
+2026-04-11 20:30:10  INFO      POST /api/translate → 200  (758ms)  ip=127.0.0.1
+2026-04-11 20:30:10  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-11 20:30:25  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1806s
+2026-04-11 20:30:25  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:30:25  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你喜欢去'  en='Where do you like to go?'  (501ms)
+2026-04-11 20:30:25  INFO      POST /api/translate → 200  (504ms)  ip=127.0.0.1
+2026-04-11 20:30:25  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:30:35  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1224s
+2026-04-11 20:30:35  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:30:36  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你今晚吃了什么？今晚谁做饭？今晚谁洗碗？'  en='What did you eat for dinner t  (917ms)
+2026-04-11 20:30:36  INFO      POST /api/translate → 200  (920ms)  ip=127.0.0.1
+2026-04-11 20:30:36  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-11 20:31:43  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1739s
+2026-04-11 20:31:43  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:31:43  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (799ms)
+2026-04-11 20:31:43  INFO      POST /api/translate → 200  (803ms)  ip=127.0.0.1
+2026-04-11 20:31:43  INFO      POST /api/dict/segment → 200  (27ms)  ip=127.0.0.1
+2026-04-11 20:51:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=563s
+2026-04-11 20:51:23  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:51:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你今晚吃了什么？今晚谁做饭？今晚谁洗碗？'  en='What did you eat for dinner t  (925ms)
+2026-04-11 20:51:24  INFO      POST /api/translate → 200  (932ms)  ip=127.0.0.1
+2026-04-11 20:51:24  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-11 20:51:56  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=526s
+2026-04-11 20:51:56  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:51:57  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你今天出去了吗？你去了哪里？你一个人出去吗？'  en='Did you go out today? Where d  (710ms)
+2026-04-11 20:51:57  INFO      POST /api/translate → 200  (714ms)  ip=127.0.0.1
+2026-04-11 20:51:57  INFO      POST /api/dict/segment → 200  (62ms)  ip=127.0.0.1
+2026-04-11 20:52:06  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=516s
+2026-04-11 20:52:06  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:52:06  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你经常买外卖吗？你通常买什么外卖？'  en='Do you often buy takeout? Wha  (694ms)
+2026-04-11 20:52:06  INFO      POST /api/translate → 200  (697ms)  ip=127.0.0.1
+2026-04-11 20:52:06  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-11 20:53:30  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=453s
+2026-04-11 20:53:30  WARNING   [Translate] rate-limit  model=mixtral-8x7b-32768  status=400  retry_after=?s
+2026-04-11 20:53:31  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你那里现在天气怎么样？你喜欢热的天气还是冷的天气？你那里会  en="What's the weather like where  (1155ms)
+2026-04-11 20:53:31  INFO      POST /api/translate → 200  (1158ms)  ip=127.0.0.1
+2026-04-11 20:53:32  INFO      POST /api/dict/segment → 200  (130ms)  ip=127.0.0.1
+2026-04-11 21:01:53  INFO      ============================================================
+2026-04-11 21:01:53  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 21:01:53  INFO      ============================================================
+2026-04-11 21:15:36  INFO      ============================================================
+2026-04-11 21:15:36  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 21:15:36  INFO      ============================================================
+2026-04-11 21:15:55  INFO      GET /cosyvoice → 200  (8ms)  ip=127.0.0.1
+2026-04-11 21:15:56  WARNING   GET /apple-touch-icon-precomposed.png → 404  (12ms)  ip=127.0.0.1
+2026-04-11 21:15:56  WARNING   GET /apple-touch-icon.png → 404  (0ms)  ip=127.0.0.1
+2026-04-11 21:15:56  WARNING   GET /favicon.ico → 404  (0ms)  ip=127.0.0.1
+2026-04-11 21:15:56  WARNING   GET /favicon.ico → 404  (0ms)  ip=127.0.0.1
+2026-04-11 21:16:06  WARNING   POST /api/tts/cosyvoice → 500  (2ms)  ip=127.0.0.1
+2026-04-11 21:16:11  WARNING   POST /api/tts/cosyvoice → 500  (1ms)  ip=127.0.0.1
+2026-04-11 21:16:12  WARNING   POST /api/tts/cosyvoice → 500  (1ms)  ip=127.0.0.1
+2026-04-11 21:16:16  WARNING   POST /api/tts/cosyvoice → 500  (1ms)  ip=127.0.0.1
+2026-04-11 21:16:16  WARNING   POST /api/tts/cosyvoice → 500  (1ms)  ip=127.0.0.1
+2026-04-11 21:16:16  WARNING   POST /api/tts/cosyvoice → 500  (0ms)  ip=127.0.0.1
+2026-04-11 21:35:13  INFO      [CosyVoice2] loaded local model from /Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/pretrained_models/CosyVoice2-0.5B
+2026-04-11 21:35:13  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:35:13  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:35:13  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:35:13  WARNING   POST /api/tts/cosyvoice → 500  (14619ms)  ip=127.0.0.1
+2026-04-11 21:35:13  WARNING   POST /api/tts/cosyvoice → 500  (5610ms)  ip=127.0.0.1
+2026-04-11 21:35:13  WARNING   POST /api/tts/cosyvoice → 500  (2957ms)  ip=127.0.0.1
+2026-04-11 21:36:40  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:36:40  WARNING   POST /api/tts/cosyvoice → 500  (7ms)  ip=127.0.0.1
+2026-04-11 21:36:41  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:36:41  WARNING   POST /api/tts/cosyvoice → 500  (1ms)  ip=127.0.0.1
+2026-04-11 21:36:44  INFO      GET /cosyvoice → 200  (2ms)  ip=127.0.0.1
+2026-04-11 21:36:46  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:36:46  WARNING   POST /api/tts/cosyvoice → 500  (2ms)  ip=127.0.0.1
+2026-04-11 21:37:58  INFO      GET /cosyvoice → 200  (1ms)  ip=127.0.0.1
+2026-04-11 21:37:59  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:37:59  WARNING   POST /api/tts/cosyvoice → 500  (8ms)  ip=127.0.0.1
+2026-04-11 21:38:01  ERROR     [CosyVoice2] local error: 'generator' object is not subscriptable
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 815, in api_tts_cosyvoice
+    audio = _cv2_local(text, speaker, speed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 765, in _cv2_local
+    torchaudio.save(buf, out["tts_speech"], _cv2_model.sample_rate, format="wav")
+                         ~~~^^^^^^^^^^^^^^
+TypeError: 'generator' object is not subscriptable
+2026-04-11 21:38:01  WARNING   POST /api/tts/cosyvoice → 500  (0ms)  ip=127.0.0.1
+2026-04-11 21:41:50  INFO      ============================================================
+2026-04-11 21:41:50  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-11 21:41:50  INFO      ============================================================
+2026-04-11 21:42:16  INFO      GET /cosyvoice → 200  (6ms)  ip=127.0.0.1
+2026-04-11 21:42:19  INFO      GET /cosyvoice → 200  (1ms)  ip=127.0.0.1
+2026-04-11 21:42:31  INFO      [CosyVoice] loaded local SFT model from /Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/pretrained_models/CosyVoice-300M-SFT  speakers=['中文女', '中文男', '日语男', '粤语女', '英文女', '英文男', '韩语女']
+2026-04-11 21:42:37  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (15897ms)
+2026-04-11 21:42:37  INFO      POST /api/tts/cosyvoice → 200  (15898ms)  ip=127.0.0.1
+2026-04-11 21:42:37  WARNING   GET /favicon.ico → 404  (1ms)  ip=127.0.0.1
+2026-04-11 21:42:49  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (5351ms)
+2026-04-11 21:42:49  INFO      POST /api/tts/cosyvoice → 200  (5352ms)  ip=127.0.0.1
+2026-04-11 21:43:03  INFO      [CosyVoice2] local  speaker=中文男  chars=20  (7589ms)
+2026-04-11 21:43:03  INFO      POST /api/tts/cosyvoice → 200  (7590ms)  ip=127.0.0.1
+2026-04-11 21:43:17  INFO      [CosyVoice2] local  speaker=粤语女  chars=20  (6230ms)
+2026-04-11 21:43:17  INFO      POST /api/tts/cosyvoice → 200  (6231ms)  ip=127.0.0.1
+2026-04-11 21:43:29  INFO      [CosyVoice2] local  speaker=粤语女  chars=20  (6438ms)
+2026-04-11 21:43:29  INFO      POST /api/tts/cosyvoice → 200  (6439ms)  ip=127.0.0.1
+2026-04-11 21:43:40  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (5072ms)
+2026-04-11 21:43:40  INFO      POST /api/tts/cosyvoice → 200  (5072ms)  ip=127.0.0.1
+2026-04-11 21:43:50  INFO      [CosyVoice2] local  speaker=中文男  chars=20  (6145ms)
+2026-04-11 21:43:50  INFO      POST /api/tts/cosyvoice → 200  (6145ms)  ip=127.0.0.1

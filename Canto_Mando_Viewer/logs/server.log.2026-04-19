@@ -1,0 +1,14 @@
+2026-04-19 09:18:04  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-19 09:18:04  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-19 09:18:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2054  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-19 09:18:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='它看起来、喝起来'  en='It looks and tastes'  (764ms)
+2026-04-19 09:18:04  INFO      POST /api/translate → 200  (783ms)  ip=127.0.0.1
+2026-04-19 09:18:04  INFO      POST /api/dict/segment → 200  (71ms)  ip=127.0.0.1
+2026-04-19 09:18:04  INFO      POST /api/dict/segment → 200  (35ms)  ip=127.0.0.1
+2026-04-19 09:19:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-19 09:19:34  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-19 09:19:34  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1999  remaining_req=999  remaining_tok=9303  reset_req=1m26.4s
+2026-04-19 09:19:34  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='起来'  en='Get up'  (1151ms)
+2026-04-19 09:19:34  INFO      POST /api/translate → 200  (1155ms)  ip=127.0.0.1
+2026-04-19 09:19:34  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-19 09:19:34  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1

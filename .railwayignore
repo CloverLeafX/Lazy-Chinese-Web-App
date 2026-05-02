@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.venv/
+.pytest_cache/
+.env
+*.pyc
+.vscode/
+Comprensible Input/
+PDF_to_Mandarin/
+Keyboard Widget/
+_archive/
+openai_tts_output/
+Yi_Web_App/
+Anki/
+.claude/
+.git/
+node_modules/

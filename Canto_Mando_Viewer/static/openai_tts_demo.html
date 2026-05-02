@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>OpenAI TTS Demo</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+         background: #0f0f0f; color: #e8e8e8; min-height: 100vh; padding: 32px 24px; }
+  h1  { font-size: 1.4rem; font-weight: 600; margin-bottom: 6px; }
+  .sub { color: #888; font-size: .85rem; margin-bottom: 28px; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px;
+              align-items: flex-end; }
+  label { font-size: .78rem; color: #aaa; display: block; margin-bottom: 4px; }
+  select, input[type=range] { background: #1e1e1e; border: 1px solid #333;
+              color: #e8e8e8; border-radius: 6px; padding: 6px 10px; font-size: .9rem; }
+  select { cursor: pointer; }
+  .speed-wrap { display: flex; align-items: center; gap: 8px; }
+  .speed-val  { font-size: .9rem; font-weight: 600; min-width: 2.5rem; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+          gap: 16px; }
+  .card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 12px;
+          padding: 18px; display: flex; flex-direction: column; gap: 12px; }
+  .card-title { font-size: 1rem; font-weight: 600; }
+  .card-meta  { font-size: .78rem; color: #888; }
+  textarea { width: 100%; background: #111; border: 1px solid #2e2e2e; color: #e8e8e8;
+             border-radius: 8px; padding: 10px; font-size: .9rem; resize: vertical;
+             min-height: 72px; font-family: inherit; line-height: 1.5; }
+  .btn { padding: 9px 18px; border-radius: 8px; border: none; cursor: pointer;
+         font-size: .88rem; font-weight: 600; transition: opacity .15s; }
+  .btn:disabled { opacity: .4; cursor: default; }
+  .btn-primary { background: #2563eb; color: #fff; }
+  .btn-primary:hover:not(:disabled) { background: #1d4ed8; }
+  .btn-all { background: #16a34a; color: #fff; }
+  .btn-all:hover:not(:disabled) { background: #15803d; }
+  audio { width: 100%; height: 36px; }
+  .status { font-size: .78rem; color: #888; min-height: 1.2em; }
+  .status.err { color: #f87171; }
+  .status.ok  { color: #4ade80; }
+
+  .no-key { background: #2a1a1a; border: 1px solid #7f1d1d; border-radius: 10px;
+            padding: 18px; margin-bottom: 24px; font-size: .9rem; line-height: 1.7; }
+  .no-key code { background: #1a1a1a; padding: 2px 6px; border-radius: 4px;
+                 font-family: monospace; color: #fde68a; }
+  .actions { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+</style>
+</head>
+<body>
+
+<h1>OpenAI TTS — Voice Sampler</h1>
+<p class="sub">Models: <strong>tts-1</strong> (fast, ~$15/M chars) · <strong>tts-1-hd</strong> (higher quality, ~$30/M chars)</p>
+
+<div id="nokey" class="no-key" style="display:none">
+  ⚠️ <strong>OPENAI_API_KEY not set.</strong><br>
+  Add it to <code>.env</code> in the project root:<br>
+  <code>OPENAI_API_KEY=sk-proj-...</code><br>
+  Then restart the server.
+</div>
+
+<div class="controls">
+  <div>
+    <label>Model</label>
+    <select id="model">
+      <option value="tts-1">tts-1 (fast)</option>
+      <option value="tts-1-hd" selected>tts-1-hd (HD)</option>
+    </select>
+  </div>
+  <div>
+    <label>Speed</label>
+    <div class="speed-wrap">
+      <input type="range" id="speed" min="0.25" max="4.0" step="0.05" value="1.0"
+             style="width:120px">
+      <span class="speed-val" id="speedVal">1.0×</span>
+    </div>
+  </div>
+  <div class="actions">
+    <button class="btn btn-all" id="btnAll">▶ Generate all</button>
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<script>
+const VOICES = [
+  { id: "alloy",   label: "Alloy",   desc: "Neutral, balanced — good all-rounder for Chinese",  lang: "zh",
+    text: "你好，我叫 Alloy。今天天气真不错，我们一起学习普通话吧！" },
+  { id: "echo",    label: "Echo",    desc: "Male, clear articulation",                            lang: "zh",
+    text: "你好，我叫 Echo。学习普通话需要多听多说，坚持就是胜利！" },
+  { id: "fable",   label: "Fable",   desc: "Warm, storytelling tone",                             lang: "zh",
+    text: "你好，我叫 Fable。语言是打开世界的钥匙，普通话让你走遍中国。" },
+  { id: "onyx",    label: "Onyx",    desc: "Deep, authoritative male",                            lang: "zh",
+    text: "你好，我叫 Onyx。掌握普通话，你就能够与十四亿人交流。" },
+  { id: "nova",    label: "Nova",    desc: "Energetic female — often best for Asian languages",   lang: "zh",
+    text: "你好，我叫 Nova。普通话的声调很重要，一声二声三声四声，你学会了吗？" },
+  { id: "shimmer", label: "Shimmer", desc: "Soft, gentle female",                                 lang: "zh",
+    text: "你好，我叫 Shimmer。我们今天来聊聊广东话和普通话的区别吧！" },
+];
+
+function buildGrid() {
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+  VOICES.forEach(v => {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.dataset.voice = v.id;
+    card.innerHTML = `
+      <div>
+        <div class="card-title">${v.label}</div>
+        <div class="card-meta">${v.desc}</div>
+      </div>
+      <textarea rows="3">${v.text}</textarea>
+      <button class="btn btn-primary btn-gen">▶ Generate</button>
+      <audio controls style="display:none"></audio>
+      <div class="status"></div>
+    `;
+    card.querySelector(".btn-gen").addEventListener("click", () => generate(card, v.id));
+    grid.appendChild(card);
+  });
+}
+
+function getSpeed()  { return parseFloat(document.getElementById("speed").value); }
+function getModel()  { return document.getElementById("model").value; }
+
+async function generate(card, voice) {
+  const text   = card.querySelector("textarea").value.trim();
+  const btn    = card.querySelector(".btn-gen");
+  const audio  = card.querySelector("audio");
+  const status = card.querySelector(".status");
+  if (!text) return;
+
+  btn.disabled = true;
+  status.textContent = "Generating…";
+  status.className = "status";
+
+  try {
+    const resp = await fetch("/api/tts/openai", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text, voice, model: getModel(), speed: getSpeed() }),
+    });
+
+    if (!resp.ok) {
+      const j = await resp.json().catch(() => ({}));
+      if (j.error && j.error.includes("OPENAI_API_KEY")) {
+        document.getElementById("nokey").style.display = "";
+      }
+      const msg = resp.status === 429
+        ? "Rate limited — wait a moment and try again individually"
+        : (j.error || resp.statusText);
+      throw new Error(msg);
+    }
+
+    const blob = await resp.blob();
+    const url  = URL.createObjectURL(blob);
+    audio.src  = url;
+    audio.style.display = "";
+    audio.play();
+    status.textContent = `✓ ${(blob.size / 1024).toFixed(1)} KB`;
+    status.className = "status ok";
+  } catch (e) {
+    status.textContent = "Error: " + e.message;
+    status.className = "status err";
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+async function generateAll() {
+  const cards = [...document.querySelectorAll(".card")];
+  const btn   = document.getElementById("btnAll");
+  btn.disabled = true;
+  for (const card of cards) {
+    await generate(card, card.dataset.voice);
+    await new Promise(r => setTimeout(r, 1500));
+  }
+  btn.disabled = false;
+}
+
+document.getElementById("speed").addEventListener("input", e => {
+  document.getElementById("speedVal").textContent = parseFloat(e.target.value).toFixed(2) + "×";
+});
+document.getElementById("btnAll").addEventListener("click", generateAll);
+
+buildGrid();
+</script>
+</body>
+</html>

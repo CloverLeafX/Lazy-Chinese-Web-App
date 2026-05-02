@@ -1,0 +1,624 @@
+2026-04-18 08:18:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:18:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:18:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2074  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-18 08:18:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我学过计算机科学'  en='I have studied computer scien  (976ms)
+2026-04-18 08:18:40  INFO      POST /api/translate → 200  (982ms)  ip=127.0.0.1
+2026-04-18 08:18:40  INFO      POST /api/dict/segment → 200  (76ms)  ip=127.0.0.1
+2026-04-18 08:18:43  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1019ms)
+2026-04-18 08:18:43  INFO      POST /api/tts → 200  (1021ms)  ip=127.0.0.1
+2026-04-18 08:18:52  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=7  (1283ms)
+2026-04-18 08:18:52  INFO      POST /api/tts → 200  (1283ms)  ip=127.0.0.1
+2026-04-18 08:18:56  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=7  (1350ms)
+2026-04-18 08:18:56  INFO      POST /api/tts → 200  (1351ms)  ip=127.0.0.1
+2026-04-18 08:21:28  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:21:28  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:21:28  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2048  remaining_req=999  remaining_tok=9300  reset_req=1m26.4s
+2026-04-18 08:21:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我学过电脑'  en="I've studied computer science  (575ms)
+2026-04-18 08:21:28  INFO      POST /api/translate → 200  (577ms)  ip=127.0.0.1
+2026-04-18 08:21:28  INFO      POST /api/dict/segment → 200  (23ms)  ip=127.0.0.1
+2026-04-18 08:21:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (971ms)
+2026-04-18 08:21:30  INFO      POST /api/tts → 200  (972ms)  ip=127.0.0.1
+2026-04-18 08:21:33  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1256ms)
+2026-04-18 08:21:33  INFO      POST /api/tts → 200  (1256ms)  ip=127.0.0.1
+2026-04-18 08:22:18  INFO      [Captures] audio saved  lang=mandarin  file=20260418082218_81b7_mandarin.mp3
+2026-04-18 08:22:20  INFO      [Captures] audio saved  lang=cantonese  file=20260418082218_81b7_cantonese.mp3
+2026-04-18 08:22:20  INFO      [Captures] saved #17: 我学过电脑
+2026-04-18 08:22:20  INFO      POST /api/captures → 200  (2195ms)  ip=127.0.0.1
+2026-04-18 08:30:14  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:30:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:30:15  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2140  remaining_req=999  remaining_tok=9294  reset_req=1m26.4s
+2026-04-18 08:30:16  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你用电动牙刷还是普通牙刷'  en='Do you use an electric toothb  (1148ms)
+2026-04-18 08:30:16  INFO      POST /api/translate → 200  (1151ms)  ip=127.0.0.1
+2026-04-18 08:30:16  INFO      POST /api/dict/segment → 200  (55ms)  ip=127.0.0.1
+2026-04-18 08:30:17  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=12  (1060ms)
+2026-04-18 08:30:17  INFO      POST /api/tts → 200  (1061ms)  ip=127.0.0.1
+2026-04-18 08:30:29  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1033ms)
+2026-04-18 08:30:29  INFO      POST /api/tts → 200  (1037ms)  ip=127.0.0.1
+2026-04-18 08:30:37  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=12  (1477ms)
+2026-04-18 08:30:37  INFO      POST /api/tts → 200  (1481ms)  ip=127.0.0.1
+2026-04-18 08:30:53  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=12  (1021ms)
+2026-04-18 08:30:53  INFO      POST /api/tts → 200  (1023ms)  ip=127.0.0.1
+2026-04-18 08:31:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:31:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:31:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2141  remaining_req=999  remaining_tok=9294  reset_req=1m26.4s
+2026-04-18 08:31:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你用电动牙刷还是普通牙刷'  en='Do you use an electric toothb  (837ms)
+2026-04-18 08:31:45  INFO      POST /api/translate → 200  (842ms)  ip=127.0.0.1
+2026-04-18 08:31:45  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-18 08:31:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:31:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:31:48  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2138  remaining_req=998  remaining_tok=7488  reset_req=2m52.8s
+2026-04-18 08:31:48  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你用电动牙刷还是普通牙刷'  en='Do you use an electric toothb  (1307ms)
+2026-04-18 08:31:48  INFO      POST /api/translate → 200  (1310ms)  ip=127.0.0.1
+2026-04-18 08:31:48  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-18 08:31:52  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:31:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:31:53  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2008  remaining_req=997  remaining_tok=6484  reset_req=4m19.2s
+2026-04-18 08:31:53  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='有趣'  en='Interesting'  (496ms)
+2026-04-18 08:31:53  INFO      POST /api/translate → 200  (500ms)  ip=127.0.0.1
+2026-04-18 08:31:53  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-18 08:31:55  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1245ms)
+2026-04-18 08:31:55  INFO      POST /api/tts → 200  (1247ms)  ip=127.0.0.1
+2026-04-18 08:31:59  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1098ms)
+2026-04-18 08:31:59  INFO      POST /api/tts → 200  (1100ms)  ip=127.0.0.1
+2026-04-18 08:32:01  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (952ms)
+2026-04-18 08:32:01  INFO      POST /api/tts → 200  (953ms)  ip=127.0.0.1
+2026-04-18 08:32:03  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1173ms)
+2026-04-18 08:32:03  INFO      POST /api/tts → 200  (1174ms)  ip=127.0.0.1
+2026-04-18 08:32:05  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (904ms)
+2026-04-18 08:32:05  INFO      POST /api/tts → 200  (905ms)  ip=127.0.0.1
+2026-04-18 08:32:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:32:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:32:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2106  remaining_req=996  remaining_tok=9861  reset_req=5m45.6s
+2026-04-18 08:32:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你今天早上刷牙了吗？'  en='Did you brush your teeth this  (712ms)
+2026-04-18 08:32:39  INFO      POST /api/translate → 200  (716ms)  ip=127.0.0.1
+2026-04-18 08:32:40  INFO      POST /api/dict/segment → 200  (54ms)  ip=127.0.0.1
+2026-04-18 08:32:42  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=10  (1149ms)
+2026-04-18 08:32:42  INFO      POST /api/tts → 200  (1150ms)  ip=127.0.0.1
+2026-04-18 08:33:08  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:33:08  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:33:08  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2146  remaining_req=995  remaining_tok=9859  reset_req=7m12s
+2026-04-18 08:33:08  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你用电动牙刷还是普通牙刷'  en='Do you use an electric toothb  (779ms)
+2026-04-18 08:33:08  INFO      POST /api/translate → 200  (782ms)  ip=127.0.0.1
+2026-04-18 08:33:08  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-18 08:33:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=12  (975ms)
+2026-04-18 08:33:28  INFO      POST /api/tts → 200  (978ms)  ip=127.0.0.1
+2026-04-18 08:33:44  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=12  (1191ms)
+2026-04-18 08:33:44  INFO      POST /api/tts → 200  (1195ms)  ip=127.0.0.1
+2026-04-18 08:35:42  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:35:42  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:35:43  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2083  remaining_req=995  remaining_tok=9862  reset_req=7m12s
+2026-04-18 08:35:43  ERROR     [Translate] error  src='你睡觉前刷牙吗？'  Expecting ',' delimiter: line 1 column 280 (char 279)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 608, in api_translate
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 280 (char 279)
+2026-04-18 08:35:43  WARNING   POST /api/translate → 500  (668ms)  ip=127.0.0.1
+2026-04-18 08:35:50  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:35:50  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:35:51  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2084  remaining_req=994  remaining_tok=9328  reset_req=8m38.4s
+2026-04-18 08:35:51  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你睡觉前刷牙吗？'  en='Do you brush your teeth befor  (671ms)
+2026-04-18 08:35:51  INFO      POST /api/translate → 200  (675ms)  ip=127.0.0.1
+2026-04-18 08:35:51  INFO      POST /api/dict/segment → 200  (27ms)  ip=127.0.0.1
+2026-04-18 08:36:12  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1104ms)
+2026-04-18 08:36:12  INFO      POST /api/tts → 200  (1106ms)  ip=127.0.0.1
+2026-04-18 08:36:16  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1303ms)
+2026-04-18 08:36:16  INFO      POST /api/tts → 200  (1304ms)  ip=127.0.0.1
+2026-04-18 08:36:20  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1293ms)
+2026-04-18 08:36:20  INFO      POST /api/tts → 200  (1295ms)  ip=127.0.0.1
+2026-04-18 08:39:04  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:39:04  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:39:05  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2262  remaining_req=995  remaining_tok=9287  reset_req=7m12s
+2026-04-18 08:39:05  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我通常星期六练巴西柔术，但是今天我会待在家里'  en="I usually practice Brazilian   (1079ms)
+2026-04-18 08:39:05  INFO      POST /api/translate → 200  (1082ms)  ip=127.0.0.1
+2026-04-18 08:39:05  INFO      POST /api/dict/segment → 200  (77ms)  ip=127.0.0.1
+2026-04-18 08:40:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:40:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:40:49  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2260  remaining_req=995  remaining_tok=9287  reset_req=7m12s
+2026-04-18 08:40:49  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我通常星期六玩巴西柔术，但是今天我会待在家里'  en="I usually play Brazilian jiu-  (1095ms)
+2026-04-18 08:40:49  INFO      POST /api/translate → 200  (1100ms)  ip=127.0.0.1
+2026-04-18 08:40:49  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-18 08:42:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:42:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:42:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2058  remaining_req=994  remaining_tok=9752  reset_req=8m38.4s
+2026-04-18 08:42:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我今天想休息'  en='I want to rest today'  (654ms)
+2026-04-18 08:42:13  INFO      POST /api/translate → 200  (657ms)  ip=127.0.0.1
+2026-04-18 08:42:13  INFO      POST /api/dict/segment → 200  (17ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET / → 304  (9ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET / → 304  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET / → 304  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/styles.css → 304  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/app.js → 304  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /api/curriculum → 304  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/app.js → 304  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/styles.css → 304  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /static/app.js → 304  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:34  INFO      GET /api/structure → 200  (147ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/curriculum → 304  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/hidden → 200  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/structure → 200  (129ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/structure → 200  (16ms)  ip=127.0.0.1
+2026-04-18 08:43:35  INFO      GET /api/hidden → 200  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:36  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:38  WARNING   GET /api/notes → 500  (232ms)  ip=127.0.0.1
+2026-04-18 08:43:38  WARNING   GET /api/notes → 500  (25ms)  ip=127.0.0.1
+2026-04-18 08:43:38  WARNING   GET /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (460ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (442ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (444ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (694ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (716ms)  ip=127.0.0.1
+2026-04-18 08:43:39  WARNING   POST /api/notes → 500  (583ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (249ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (298ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (143ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:40  WARNING   POST /api/notes → 500  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:41  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:41  WARNING   POST /api/notes → 500  (18ms)  ip=127.0.0.1
+2026-04-18 08:43:41  WARNING   POST /api/notes → 500  (86ms)  ip=127.0.0.1
+2026-04-18 08:43:41  WARNING   POST /api/notes → 500  (287ms)  ip=127.0.0.1
+2026-04-18 08:43:42  WARNING   POST /api/notes → 500  (184ms)  ip=127.0.0.1
+2026-04-18 08:43:42  WARNING   POST /api/notes → 500  (195ms)  ip=127.0.0.1
+2026-04-18 08:43:42  WARNING   POST /api/notes → 500  (426ms)  ip=127.0.0.1
+2026-04-18 08:43:42  WARNING   POST /api/notes → 500  (67ms)  ip=127.0.0.1
+2026-04-18 08:43:42  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (18ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (0ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (22ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-18 08:43:43  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (19ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (25ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (30ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (29ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (32ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (23ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (16ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (16ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (17ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (16ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (22ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (33ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (32ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (34ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (28ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (17ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (31ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (35ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (344ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (349ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (402ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (404ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (59ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (49ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (39ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (22ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (61ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (17ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (19ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (26ms)  ip=127.0.0.1
+2026-04-18 08:43:44  WARNING   POST /api/notes → 500  (28ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (17ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (16ms)  ip=127.0.0.1
+2026-04-18 08:43:45  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-18 08:49:06  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1511ms)
+2026-04-18 08:49:06  INFO      POST /api/tts → 200  (1515ms)  ip=127.0.0.1
+2026-04-18 08:49:07  WARNING   GET /favicon.ico → 404  (1ms)  ip=127.0.0.1
+2026-04-18 08:50:17  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:50:17  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:50:18  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2180  remaining_req=998  remaining_tok=9292  reset_req=2m52.8s
+2026-04-18 08:50:18  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='my friend wants to but some o  en='My friend wants to buy some o  (1173ms)
+2026-04-18 08:50:18  INFO      POST /api/translate → 200  (1176ms)  ip=127.0.0.1
+2026-04-18 08:50:18  INFO      POST /api/dict/segment → 200  (85ms)  ip=127.0.0.1
+2026-04-18 08:50:22  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=14  (1672ms)
+2026-04-18 08:50:22  INFO      POST /api/tts → 200  (1674ms)  ip=127.0.0.1
+2026-04-18 08:50:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1012ms)
+2026-04-18 08:50:28  INFO      POST /api/tts → 200  (1014ms)  ip=127.0.0.1
+2026-04-18 08:50:35  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1018ms)
+2026-04-18 08:50:35  INFO      POST /api/tts → 200  (1020ms)  ip=127.0.0.1
+2026-04-18 08:55:16  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:55:16  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:55:17  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2183  remaining_req=999  remaining_tok=9292  reset_req=1m26.4s
+2026-04-18 08:55:17  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我五点之前到家，所以我可以做晚饭'  en="I'll be home before 5, so I c  (845ms)
+2026-04-18 08:55:17  INFO      POST /api/translate → 200  (848ms)  ip=127.0.0.1
+2026-04-18 08:55:17  INFO      POST /api/dict/segment → 200  (82ms)  ip=127.0.0.1
+2026-04-18 08:55:59  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=15  (1894ms)
+2026-04-18 08:55:59  INFO      POST /api/tts → 200  (1897ms)  ip=127.0.0.1
+2026-04-18 08:55:59  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=15  (1837ms)
+2026-04-18 08:55:59  INFO      POST /api/tts → 200  (1838ms)  ip=127.0.0.1
+2026-04-18 08:56:05  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=15  (1786ms)
+2026-04-18 08:56:05  INFO      POST /api/tts → 200  (1790ms)  ip=127.0.0.1
+2026-04-18 08:56:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:56:58  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:56:59  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2272  remaining_req=999  remaining_tok=9288  reset_req=1m26.4s
+2026-04-18 08:56:59  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我在办公室的时候通常五点到家，所以我可以做晚饭'  en="When I'm in the office, I usu  (1165ms)
+2026-04-18 08:56:59  INFO      POST /api/translate → 200  (1167ms)  ip=127.0.0.1
+2026-04-18 08:56:59  INFO      POST /api/dict/segment → 200  (61ms)  ip=127.0.0.1
+2026-04-18 08:57:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=23  (1161ms)
+2026-04-18 08:57:02  INFO      POST /api/tts → 200  (1162ms)  ip=127.0.0.1
+2026-04-18 08:58:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 08:58:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 08:58:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2276  remaining_req=998  remaining_tok=9813  reset_req=2m52.8s
+2026-04-18 08:58:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我在办公室的时候通常五点回家，所以我可以做晚饭'  en="When I'm in the office, I usu  (1217ms)
+2026-04-18 08:58:20  INFO      POST /api/translate → 200  (1220ms)  ip=127.0.0.1
+2026-04-18 08:58:20  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-18 09:04:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:04:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:04:55  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2133  remaining_req=999  remaining_tok=9295  reset_req=1m26.4s
+2026-04-18 09:04:55  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我还没吃东西，我刚起床'  en="I haven't eaten yet, I just g  (961ms)
+2026-04-18 09:04:55  INFO      POST /api/translate → 200  (963ms)  ip=127.0.0.1
+2026-04-18 09:04:55  INFO      POST /api/dict/segment → 200  (76ms)  ip=127.0.0.1
+2026-04-18 09:16:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:16:31  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:16:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2186  remaining_req=999  remaining_tok=9245  reset_req=1m26.4s
+2026-04-18 09:16:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我还没吃东西，我刚起床\nwǒ hái méi chī d  en="I haven't eaten yet, I just g  (823ms)
+2026-04-18 09:16:31  INFO      POST /api/translate → 200  (826ms)  ip=127.0.0.1
+2026-04-18 09:16:31  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-18 09:22:06  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:22:06  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:22:07  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2095  remaining_req=999  remaining_tok=9297  reset_req=1m26.4s
+2026-04-18 09:22:07  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我喜欢放松和看电视'  en='I like to relax and watch TV'  (703ms)
+2026-04-18 09:22:07  INFO      POST /api/translate → 200  (706ms)  ip=127.0.0.1
+2026-04-18 09:22:07  INFO      POST /api/dict/segment → 200  (51ms)  ip=127.0.0.1
+2026-04-18 09:24:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:24:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:24:55  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2080  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-18 09:24:55  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我想练习我的中文'  en='I want to practice my Chinese  (645ms)
+2026-04-18 09:24:55  INFO      POST /api/translate → 200  (649ms)  ip=127.0.0.1
+2026-04-18 09:24:56  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-18 09:38:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:38:04  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:38:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2174  remaining_req=999  remaining_tok=9294  reset_req=1m26.4s
+2026-04-18 09:38:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我现在一个人住，所以什么都要自己做'  en="I'm living alone now, so I ha  (927ms)
+2026-04-18 09:38:04  INFO      POST /api/translate → 200  (930ms)  ip=127.0.0.1
+2026-04-18 09:38:04  INFO      POST /api/dict/segment → 200  (71ms)  ip=127.0.0.1
+2026-04-18 09:40:25  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:40:25  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:40:25  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2082  remaining_req=999  remaining_tok=9293  reset_req=1m26.4s
+2026-04-18 09:40:25  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='yang chongwu 养 宠 物？ Normal'  en='Does Yang Chongwu keep pets?'  (613ms)
+2026-04-18 09:40:25  INFO      POST /api/translate → 200  (615ms)  ip=127.0.0.1
+2026-04-18 09:40:25  INFO      POST /api/dict/segment → 200  (67ms)  ip=127.0.0.1
+2026-04-18 09:42:30  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:42:30  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:42:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2211  remaining_req=999  remaining_tok=9292  reset_req=1m26.4s
+2026-04-18 09:42:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我这几个月一个人住，所以什么都要自己做'  en="I've been living alone for a   (1014ms)
+2026-04-18 09:42:31  INFO      POST /api/translate → 200  (1016ms)  ip=127.0.0.1
+2026-04-18 09:42:31  INFO      POST /api/dict/segment → 200  (30ms)  ip=127.0.0.1
+2026-04-18 09:43:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 09:43:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 09:43:54  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2104  remaining_req=998  remaining_tok=9295  reset_req=2m52.8s
+2026-04-18 09:43:54  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你是不是喜欢喝咖啡'  en='Do you like drinking coffee?'  (633ms)
+2026-04-18 09:43:54  INFO      POST /api/translate → 200  (635ms)  ip=127.0.0.1
+2026-04-18 09:43:54  INFO      POST /api/dict/segment → 200  (31ms)  ip=127.0.0.1
+2026-04-18 13:58:26  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 13:58:26  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 13:58:26  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2003  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-18 13:58:26  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='味道'  en='taste'  (641ms)
+2026-04-18 13:58:26  INFO      POST /api/translate → 200  (645ms)  ip=127.0.0.1
+2026-04-18 13:58:27  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-18 14:35:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 14:35:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 14:35:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2124  remaining_req=999  remaining_tok=9295  reset_req=1m26.4s
+2026-04-18 14:35:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我通常星期六玩巴西柔術'  en='I usually play Brazilian jiu-  (919ms)
+2026-04-18 14:35:20  INFO      POST /api/translate → 200  (922ms)  ip=127.0.0.1
+2026-04-18 14:35:20  INFO      POST /api/dict/segment → 200  (61ms)  ip=127.0.0.1
+2026-04-18 14:35:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=11  (2024ms)
+2026-04-18 14:35:25  INFO      POST /api/tts → 200  (2027ms)  ip=127.0.0.1
+2026-04-18 14:35:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 14:35:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 14:35:48  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2015  remaining_req=998  remaining_tok=9301  reset_req=2m52.8s
+2026-04-18 14:35:48  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='私人模式'  en='Private mode'  (542ms)
+2026-04-18 14:35:48  INFO      POST /api/translate → 200  (544ms)  ip=127.0.0.1
+2026-04-18 14:35:48  INFO      POST /api/dict/segment → 200  (42ms)  ip=127.0.0.1
+2026-04-18 14:35:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1290ms)
+2026-04-18 14:35:50  INFO      POST /api/tts → 200  (1292ms)  ip=127.0.0.1
+2026-04-18 14:36:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 14:36:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 14:36:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2030  remaining_req=997  remaining_tok=9300  reset_req=4m19.2s
+2026-04-18 14:36:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='水煮蛋'  en='boiled egg'  (536ms)
+2026-04-18 14:36:04  INFO      POST /api/translate → 200  (539ms)  ip=127.0.0.1
+2026-04-18 14:36:04  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-18 14:36:06  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=3  (1272ms)
+2026-04-18 14:36:06  INFO      POST /api/tts → 200  (1272ms)  ip=127.0.0.1
+2026-04-18 14:36:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-18 14:36:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-18 14:36:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2029  remaining_req=996  remaining_tok=8978  reset_req=5m45.6s
+2026-04-18 14:36:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='炒雞蛋'  en='scrambled eggs'  (577ms)
+2026-04-18 14:36:13  INFO      POST /api/translate → 200  (580ms)  ip=127.0.0.1
+2026-04-18 14:36:13  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-18 14:36:16  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=3  (1395ms)
+2026-04-18 14:36:16  INFO      POST /api/tts → 200  (1396ms)  ip=127.0.0.1
+2026-04-18 15:35:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 304  (12ms)  ip=127.0.0.1
+2026-04-18 15:35:54  WARNING   GET /api/notes → 500  (19ms)  ip=127.0.0.1
+2026-04-18 15:35:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:35:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:35:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:35:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:35:56  WARNING   GET /api/notes → 500  (19ms)  ip=127.0.0.1
+2026-04-18 15:35:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 200  (20ms)  ip=127.0.0.1
+2026-04-18 15:35:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:35:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:35:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:35:57  WARNING   GET /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 15:35:57  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 304  (4ms)  ip=127.0.0.1
+2026-04-18 15:35:58  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/05_Challenge_13/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:00  WARNING   GET /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-18 15:36:00  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 304  (4ms)  ip=127.0.0.1
+2026-04-18 15:36:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/01_Vocabulary_List/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:02  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 15:36:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:03  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-18 15:36:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:32  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:36:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:37:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:42  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:37:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:37:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:38:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:38:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:38:31  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:38:57  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:39:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/README.md → 304  (7ms)  ip=127.0.0.1
+2026-04-18 15:39:47  WARNING   GET /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-18 15:39:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-18 15:39:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:39:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:39:49  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:39:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:40:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:40:28  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:40:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:40:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:40:57  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-18 15:41:24  WARNING   GET /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-18 15:41:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:32  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:32  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:41:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:35  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-18 15:41:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/05_Challenge_13/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-18 15:41:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/06_Vocal_Messaging_Hack_13/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-18 15:41:39  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-18 15:41:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/README.md → 200  (4ms)  ip=127.0.0.1
+2026-04-18 15:41:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:41:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:42:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (6ms)  ip=127.0.0.1
+2026-04-18 15:42:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:42:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/07_Congrats_on_Finishing_Foundations/07_Congrats_on_Finishing_Foundations.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:42:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (5ms)  ip=127.0.0.1
+2026-04-18 15:42:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/README.md → 304  (13ms)  ip=127.0.0.1
+2026-04-18 15:42:27  WARNING   GET /api/notes → 500  (18ms)  ip=127.0.0.1
+2026-04-18 15:42:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:42:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:42:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:42:29  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:42:34  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:43:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:43:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:43:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:43:27  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:43:28  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/01_How_to_Practice_Listening/01_How_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:09  WARNING   GET /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-18 15:44:09  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/02_How_to_Use_Songs_to_Practice_Listening/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-18 15:44:09  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/02_How_to_Use_Songs_to_Practice_Listening/02_How_to_Use_Songs_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:09  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/02_How_to_Use_Songs_to_Practice_Listening/02_How_to_Use_Songs_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:09  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/02_How_to_Use_Songs_to_Practice_Listening/02_How_to_Use_Songs_to_Practice_Listening.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:15  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-18 15:44:15  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-18 15:44:15  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:15  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:15  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:16  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:21  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:44:22  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:44:22  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:45:45  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:48:35  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:48:35  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:48:36  INFO      GET /file/Chapter_06_Bonus_Chapter_The_Ultimate_Listening_Guide/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube/03_How_to_Practice_Listening_with_TV_Shows_and_Youtube.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:48:44  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-18 15:48:44  WARNING   GET /api/notes → 500  (20ms)  ip=127.0.0.1
+2026-04-18 15:48:44  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-18 15:48:44  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:48:44  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:48:56  WARNING   GET /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-18 15:48:56  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-18 15:48:56  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:48:56  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:48:58  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/02_Conversations_Starters_Listening/README.md → 200  (1ms)  ip=127.0.0.1
+2026-04-18 15:49:08  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/02_Conversations_Starters_Listening/Conversation starters (Listening).pdf → 200  (1ms)  ip=127.0.0.1
+2026-04-18 15:49:35  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/README.md → 304  (5ms)  ip=127.0.0.1
+2026-04-18 15:49:35  WARNING   GET /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-18 15:49:36  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:49:47  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:49:49  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:49:53  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:49:57  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:50:04  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:05  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:16  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:17  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:50:17  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:18  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:50:19  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:50:20  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:50:27  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:33  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:34  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:50:35  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (14ms)  ip=127.0.0.1
+2026-04-18 15:50:35  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:03  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-18 15:51:22  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:22  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:23  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:32  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:35  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/01_CM_SCHOOL_Conversation_Starters/01_Conversations_Starters_Breakdown/01_Conversations_Starters_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-18 15:51:43  WARNING   GET /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (6ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:43  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:50  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:51:51  INFO      GET /file/Chapter_06.5_A_Change_Before_Intermediate/01_The_Tones_Can_CHANGE_Part_1/01_The_Tones_Can_CHANGE_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:42  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-18 15:52:42  WARNING   GET /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-18 15:52:42  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:42  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:52:42  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:42  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:43  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:44  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:47  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:48  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:55  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:55  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-18 15:52:57  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:57  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:57  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:59  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:52:59  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/02_One_LAST_Question_Part_1/02_One_LAST_Question_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-18 15:53:01  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/08_Lesson_13_One_LAST_Question/09_Diary_Challenge_13/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-18 15:53:08  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/09_Outro/01_Lets_gooo_Almost_there_Keep_it_up/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-18 15:53:10  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/09_Outro/02_Intermediate_Checkpoint_2/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-18 15:53:14  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/09_Outro/01_Lets_gooo_Almost_there_Keep_it_up/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-18 15:53:16  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/09_Outro/03_Wed_love_to_hear_your_thoughts/README.md → 200  (1ms)  ip=127.0.0.1
+2026-04-18 15:53:19  INFO      GET /file/Chapter_09_Intermediate_Mandarin_III/09_Outro/02_Intermediate_Checkpoint_2/README.md → 304  (1ms)  ip=127.0.0.1

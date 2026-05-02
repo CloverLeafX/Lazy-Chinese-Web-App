@@ -1,0 +1,430 @@
+2026-04-20 07:58:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 07:58:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 07:58:33  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2004  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-20 07:58:33  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='美金'  en='US dollar'  (654ms)
+2026-04-20 07:58:33  INFO      POST /api/translate → 200  (661ms)  ip=127.0.0.1
+2026-04-20 07:58:33  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-20 07:58:33  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-20 08:03:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:03:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:03:49  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2049  remaining_req=999  remaining_tok=9301  reset_req=1m26.4s
+2026-04-20 08:03:49  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='非常非常成功'  en='Very very successful'  (693ms)
+2026-04-20 08:03:49  INFO      POST /api/translate → 200  (697ms)  ip=127.0.0.1
+2026-04-20 08:03:49  INFO      POST /api/dict/segment → 200  (31ms)  ip=127.0.0.1
+2026-04-20 08:03:49  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-20 08:05:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:05:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:05:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1999  remaining_req=998  remaining_tok=9302  reset_req=2m52.8s
+2026-04-20 08:05:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='常常'  en='often'  (396ms)
+2026-04-20 08:05:13  INFO      POST /api/translate → 200  (399ms)  ip=127.0.0.1
+2026-04-20 08:05:13  INFO      POST /api/dict/segment → 200  (59ms)  ip=127.0.0.1
+2026-04-20 08:05:13  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-20 08:05:52  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:05:52  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:05:53  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2016  remaining_req=997  remaining_tok=9952  reset_req=4m19.2s
+2026-04-20 08:05:53  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='有时候'  en='Sometimes'  (672ms)
+2026-04-20 08:05:53  INFO      POST /api/translate → 200  (674ms)  ip=127.0.0.1
+2026-04-20 08:05:53  INFO      POST /api/dict/segment → 200  (22ms)  ip=127.0.0.1
+2026-04-20 08:05:53  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-20 08:09:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:09:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:09:21  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2707  remaining_req=998  remaining_tok=9127  reset_req=2m52.8s
+2026-04-20 08:09:21  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="总是 (zǒng shì) — always\n一般 (y  en='The given text describes freq  (1675ms)
+2026-04-20 08:09:21  INFO      POST /api/translate → 200  (1678ms)  ip=127.0.0.1
+2026-04-20 08:09:21  INFO      POST /api/dict/segment → 200  (423ms)  ip=127.0.0.1
+2026-04-20 08:09:21  INFO      POST /api/dict/segment → 200  (120ms)  ip=127.0.0.1
+2026-04-20 08:09:29  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:09:29  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:09:30  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2118  remaining_req=997  remaining_tok=8436  reset_req=4m19.2s
+2026-04-20 08:09:30  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我不喜欢做很麻烦的东西'  en="I don't like doing things tha  (836ms)
+2026-04-20 08:09:30  INFO      POST /api/translate → 200  (840ms)  ip=127.0.0.1
+2026-04-20 08:09:30  INFO      POST /api/dict/segment → 200  (37ms)  ip=127.0.0.1
+2026-04-20 08:09:30  INFO      POST /api/dict/segment → 200  (25ms)  ip=127.0.0.1
+2026-04-20 08:10:05  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:10:05  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:10:06  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2087  remaining_req=996  remaining_tok=9463  reset_req=5m45.6s
+2026-04-20 08:10:06  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='如果是很麻烦的东西'  en="If it's something troublesome  (857ms)
+2026-04-20 08:10:06  INFO      POST /api/translate → 200  (860ms)  ip=127.0.0.1
+2026-04-20 08:10:06  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-20 08:10:06  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-20 08:10:30  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:10:30  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:10:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2067  remaining_req=995  remaining_tok=9298  reset_req=7m12s
+2026-04-20 08:10:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我会去饭店吃'  en="I'll go to the restaurant to   (1130ms)
+2026-04-20 08:10:31  INFO      POST /api/translate → 200  (1133ms)  ip=127.0.0.1
+2026-04-20 08:10:31  INFO      POST /api/dict/segment → 200  (23ms)  ip=127.0.0.1
+2026-04-20 08:10:31  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-20 08:20:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1184ms)
+2026-04-20 08:20:02  INFO      POST /api/tts → 200  (1191ms)  ip=127.0.0.1
+2026-04-20 08:20:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=13  (1072ms)
+2026-04-20 08:20:45  INFO      POST /api/tts → 200  (1080ms)  ip=127.0.0.1
+2026-04-20 08:40:30  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:40:30  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:40:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2021  remaining_req=999  remaining_tok=9301  reset_req=1m26.4s
+2026-04-20 08:40:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='快毕业了'  en='Graduation is near'  (725ms)
+2026-04-20 08:40:31  INFO      POST /api/translate → 200  (729ms)  ip=127.0.0.1
+2026-04-20 08:40:31  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-20 08:40:31  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-20 08:40:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:40:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:40:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2008  remaining_req=998  remaining_tok=8290  reset_req=2m52.8s
+2026-04-20 08:40:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='毕业了'  en="I've graduated."  (626ms)
+2026-04-20 08:40:39  INFO      POST /api/translate → 200  (629ms)  ip=127.0.0.1
+2026-04-20 08:40:39  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-20 08:40:39  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-20 08:42:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:42:16  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:42:16  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2078  remaining_req=998  remaining_tok=9300  reset_req=2m52.8s
+2026-04-20 08:42:16  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='数据分析这样的工作'  en='A job like data analysis'  (816ms)
+2026-04-20 08:42:16  INFO      POST /api/translate → 200  (819ms)  ip=127.0.0.1
+2026-04-20 08:42:16  INFO      POST /api/dict/segment → 200  (65ms)  ip=127.0.0.1
+2026-04-20 08:42:16  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-20 08:42:22  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1046ms)
+2026-04-20 08:42:22  INFO      POST /api/tts → 200  (1048ms)  ip=127.0.0.1
+2026-04-20 08:42:29  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (924ms)
+2026-04-20 08:42:29  INFO      POST /api/tts → 200  (928ms)  ip=127.0.0.1
+2026-04-20 08:42:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (941ms)
+2026-04-20 08:42:30  INFO      POST /api/tts → 200  (943ms)  ip=127.0.0.1
+2026-04-20 08:42:31  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (899ms)
+2026-04-20 08:42:31  INFO      POST /api/tts → 200  (900ms)  ip=127.0.0.1
+2026-04-20 08:42:32  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (909ms)
+2026-04-20 08:42:32  INFO      POST /api/tts → 200  (910ms)  ip=127.0.0.1
+2026-04-20 08:42:33  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (879ms)
+2026-04-20 08:42:33  INFO      POST /api/tts → 200  (880ms)  ip=127.0.0.1
+2026-04-20 08:44:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 08:44:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 08:44:47  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2144  remaining_req=998  remaining_tok=9983  reset_req=2m52.8s
+2026-04-20 08:44:47  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='刚送给的视频呢，你们觉得怎么样'  en='What do you think of the vide  (975ms)
+2026-04-20 08:44:47  INFO      POST /api/translate → 200  (979ms)  ip=127.0.0.1
+2026-04-20 08:44:48  INFO      POST /api/dict/segment → 200  (76ms)  ip=127.0.0.1
+2026-04-20 08:44:48  INFO      POST /api/dict/segment → 200  (40ms)  ip=127.0.0.1
+2026-04-20 09:55:42  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 09:55:42  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 09:55:43  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2343  remaining_req=999  remaining_tok=9283  reset_req=1m26.4s
+2026-04-20 09:55:43  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我觉得写粤语真是很难。我觉得用普通话拼音写中文用以很多'  en='I think writing Cantonese is   (1215ms)
+2026-04-20 09:55:43  INFO      POST /api/translate → 200  (1218ms)  ip=127.0.0.1
+2026-04-20 09:55:43  INFO      POST /api/dict/segment → 200  (114ms)  ip=127.0.0.1
+2026-04-20 09:55:43  INFO      POST /api/dict/segment → 200  (41ms)  ip=127.0.0.1
+2026-04-20 09:55:53  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=27  (1168ms)
+2026-04-20 09:55:53  INFO      POST /api/tts → 200  (1170ms)  ip=127.0.0.1
+2026-04-20 09:58:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 09:58:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 09:58:16  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2204  remaining_req=999  remaining_tok=9287  reset_req=1m26.4s
+2026-04-20 09:58:16  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你哋有冇試過用月拼寫繁體字呀？'  en='Have you ever tried writing t  (1624ms)
+2026-04-20 09:58:16  INFO      POST /api/translate → 200  (1630ms)  ip=127.0.0.1
+2026-04-20 09:58:16  INFO      POST /api/dict/segment → 200  (76ms)  ip=127.0.0.1
+2026-04-20 09:58:16  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-20 09:58:20  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1230ms)
+2026-04-20 09:58:20  INFO      POST /api/tts → 200  (1233ms)  ip=127.0.0.1
+2026-04-20 09:58:28  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=15  (2014ms)
+2026-04-20 09:58:28  INFO      POST /api/tts → 200  (2016ms)  ip=127.0.0.1
+2026-04-20 10:16:46  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 10:16:46  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 10:16:47  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2023  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-20 10:16:47  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='data analytics'  en='Data analytics'  (672ms)
+2026-04-20 10:16:47  INFO      POST /api/translate → 200  (676ms)  ip=127.0.0.1
+2026-04-20 10:16:47  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-20 10:16:47  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-20 10:16:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1426ms)
+2026-04-20 10:16:50  INFO      POST /api/tts → 200  (1427ms)  ip=127.0.0.1
+2026-04-20 10:16:53  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (986ms)
+2026-04-20 10:16:53  INFO      POST /api/tts → 200  (989ms)  ip=127.0.0.1
+2026-04-20 10:16:54  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1272ms)
+2026-04-20 10:16:54  INFO      POST /api/tts → 200  (1273ms)  ip=127.0.0.1
+2026-04-20 10:16:55  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (852ms)
+2026-04-20 10:16:55  INFO      POST /api/tts → 200  (852ms)  ip=127.0.0.1
+2026-04-20 10:16:58  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1447ms)
+2026-04-20 10:16:58  INFO      POST /api/tts → 200  (1448ms)  ip=127.0.0.1
+2026-04-20 10:17:04  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1147ms)
+2026-04-20 10:17:04  INFO      POST /api/tts → 200  (1149ms)  ip=127.0.0.1
+2026-04-20 10:17:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 10:17:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 10:17:10  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2093  remaining_req=998  remaining_tok=9299  reset_req=2m52.8s
+2026-04-20 10:17:10  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i work in data analytics'  en='I work in data analytics'  (962ms)
+2026-04-20 10:17:10  INFO      POST /api/translate → 200  (965ms)  ip=127.0.0.1
+2026-04-20 10:17:10  INFO      POST /api/dict/segment → 200  (34ms)  ip=127.0.0.1
+2026-04-20 10:17:10  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-20 10:17:13  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=10  (1450ms)
+2026-04-20 10:17:13  INFO      POST /api/tts → 200  (1452ms)  ip=127.0.0.1
+2026-04-20 10:17:46  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 10:17:46  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 10:17:46  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2057  remaining_req=997  remaining_tok=9299  reset_req=4m19.2s
+2026-04-20 10:17:46  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i have 10 minutes'  en='I have 10 minutes'  (543ms)
+2026-04-20 10:17:46  INFO      POST /api/translate → 200  (546ms)  ip=127.0.0.1
+2026-04-20 10:17:46  INFO      POST /api/dict/segment → 200  (15ms)  ip=127.0.0.1
+2026-04-20 10:17:46  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-20 10:17:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1733ms)
+2026-04-20 10:17:50  INFO      POST /api/tts → 200  (1734ms)  ip=127.0.0.1
+2026-04-20 10:17:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (959ms)
+2026-04-20 10:17:50  INFO      POST /api/tts → 200  (962ms)  ip=127.0.0.1
+2026-04-20 10:18:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 10:18:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 10:18:01  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2145  remaining_req=996  remaining_tok=9971  reset_req=5m45.6s
+2026-04-20 10:18:01  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i have 10 minutes until next   en='I have 10 minutes until the n  (1067ms)
+2026-04-20 10:18:01  INFO      POST /api/translate → 200  (1071ms)  ip=127.0.0.1
+2026-04-20 10:18:01  INFO      POST /api/dict/segment → 200  (49ms)  ip=127.0.0.1
+2026-04-20 10:18:01  INFO      POST /api/dict/segment → 200  (30ms)  ip=127.0.0.1
+2026-04-20 10:18:05  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (2059ms)
+2026-04-20 10:18:05  INFO      POST /api/tts → 200  (2061ms)  ip=127.0.0.1
+2026-04-20 10:19:24  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (1739ms)
+2026-04-20 10:19:24  INFO      POST /api/tts → 200  (1743ms)  ip=127.0.0.1
+2026-04-20 10:19:26  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (1727ms)
+2026-04-20 10:19:26  INFO      POST /api/tts → 200  (1728ms)  ip=127.0.0.1
+2026-04-20 10:19:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 10:19:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 10:19:33  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2139  remaining_req=996  remaining_tok=9940  reset_req=5m45.6s
+2026-04-20 10:19:33  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i have 10 minutes until a mee  en='I have 10 minutes until a mee  (813ms)
+2026-04-20 10:19:33  INFO      POST /api/translate → 200  (815ms)  ip=127.0.0.1
+2026-04-20 10:19:33  INFO      POST /api/dict/segment → 200  (42ms)  ip=127.0.0.1
+2026-04-20 10:19:33  INFO      POST /api/dict/segment → 200  (30ms)  ip=127.0.0.1
+2026-04-20 10:19:36  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=12  (1517ms)
+2026-04-20 10:19:36  INFO      POST /api/tts → 200  (1518ms)  ip=127.0.0.1
+2026-04-20 10:19:47  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=12  (1674ms)
+2026-04-20 10:19:47  INFO      POST /api/tts → 200  (1678ms)  ip=127.0.0.1
+2026-04-20 13:08:00  INFO      GET / → 304  (21ms)  ip=127.0.0.1
+2026-04-20 13:08:01  INFO      GET /static/styles.css → 304  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:01  INFO      GET /static/app.js → 304  (1ms)  ip=127.0.0.1
+2026-04-20 13:08:01  INFO      GET /api/curriculum → 304  (0ms)  ip=127.0.0.1
+2026-04-20 13:08:01  INFO      GET /api/structure → 200  (149ms)  ip=127.0.0.1
+2026-04-20 13:08:02  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   GET /api/notes → 500  (23ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-20 13:08:02  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-20 14:40:14  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1025ms)
+2026-04-20 14:40:14  INFO      POST /api/tts → 200  (1042ms)  ip=127.0.0.1
+2026-04-20 14:40:14  WARNING   GET /favicon.ico → 404  (26ms)  ip=127.0.0.1
+2026-04-20 14:40:17  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (950ms)
+2026-04-20 14:40:17  INFO      POST /api/tts → 200  (953ms)  ip=127.0.0.1
+2026-04-20 14:40:19  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1266ms)
+2026-04-20 14:40:19  INFO      POST /api/tts → 200  (1268ms)  ip=127.0.0.1
+2026-04-20 16:17:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 16:17:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 16:17:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2037  remaining_req=999  remaining_tok=9300  reset_req=1m26.4s
+2026-04-20 16:17:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='好的，晚安'  en='Good, good night'  (929ms)
+2026-04-20 16:17:13  INFO      POST /api/translate → 200  (934ms)  ip=127.0.0.1
+2026-04-20 16:17:14  INFO      POST /api/dict/segment → 200  (59ms)  ip=127.0.0.1
+2026-04-20 16:17:14  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-20 16:17:20  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1054ms)
+2026-04-20 16:17:20  INFO      POST /api/tts → 200  (1057ms)  ip=127.0.0.1
+2026-04-20 16:17:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1669ms)
+2026-04-20 16:17:25  INFO      POST /api/tts → 200  (1687ms)  ip=127.0.0.1
+2026-04-20 16:41:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 16:41:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 16:41:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2043  remaining_req=999  remaining_tok=9300  reset_req=1m26.4s
+2026-04-20 16:41:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='好久不见'  en='Long time no see'  (672ms)
+2026-04-20 16:41:40  INFO      POST /api/translate → 200  (675ms)  ip=127.0.0.1
+2026-04-20 16:41:40  INFO      POST /api/dict/segment → 200  (51ms)  ip=127.0.0.1
+2026-04-20 16:41:40  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-20 16:42:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-20 16:42:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-20 16:42:48  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2053  remaining_req=998  remaining_tok=9299  reset_req=2m52.8s
+2026-04-20 16:42:48  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='很高兴认识你'  en='Nice to meet you'  (710ms)
+2026-04-20 16:42:48  INFO      POST /api/translate → 200  (714ms)  ip=127.0.0.1
+2026-04-20 16:42:48  INFO      POST /api/dict/segment → 200  (54ms)  ip=127.0.0.1
+2026-04-20 16:42:48  INFO      POST /api/dict/segment → 200  (25ms)  ip=127.0.0.1
+2026-04-20 16:42:51  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1615ms)
+2026-04-20 16:42:51  INFO      POST /api/tts → 200  (1616ms)  ip=127.0.0.1
+2026-04-20 16:42:54  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1083ms)
+2026-04-20 16:42:54  INFO      POST /api/tts → 200  (1086ms)  ip=127.0.0.1
+2026-04-20 16:42:58  INFO      [Captures] audio saved  lang=mandarin  file=20260420164257_38d0_mandarin.mp3
+2026-04-20 16:42:59  INFO      [Captures] audio saved  lang=cantonese  file=20260420164257_38d0_cantonese.mp3
+2026-04-20 16:42:59  INFO      [Captures] saved #18: 很高兴认识你
+2026-04-20 16:42:59  INFO      POST /api/captures → 200  (2792ms)  ip=127.0.0.1
+2026-04-20 16:55:10  INFO      GET /api/cheat → 304  (7ms)  ip=127.0.0.1
+2026-04-20 16:55:27  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1730ms)
+2026-04-20 16:55:27  INFO      POST /api/tts → 200  (1734ms)  ip=127.0.0.1
+2026-04-20 16:55:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (994ms)
+2026-04-20 16:55:30  INFO      POST /api/tts → 200  (996ms)  ip=127.0.0.1
+2026-04-20 16:55:34  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2479ms)
+2026-04-20 16:55:34  INFO      POST /api/tts → 200  (2481ms)  ip=127.0.0.1
+2026-04-20 16:55:40  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (967ms)
+2026-04-20 16:55:40  INFO      POST /api/tts → 200  (968ms)  ip=127.0.0.1
+2026-04-20 16:55:44  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1730ms)
+2026-04-20 16:55:44  INFO      POST /api/tts → 200  (1734ms)  ip=127.0.0.1
+2026-04-20 16:55:47  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1608ms)
+2026-04-20 16:55:47  INFO      POST /api/tts → 200  (1609ms)  ip=127.0.0.1
+2026-04-20 16:55:47  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1716ms)
+2026-04-20 16:55:47  INFO      POST /api/tts → 200  (1717ms)  ip=127.0.0.1
+2026-04-20 16:55:48  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (993ms)
+2026-04-20 16:55:48  INFO      POST /api/tts → 200  (994ms)  ip=127.0.0.1
+2026-04-20 16:55:51  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1057ms)
+2026-04-20 16:55:51  INFO      POST /api/tts → 200  (1058ms)  ip=127.0.0.1
+2026-04-20 16:56:11  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1013ms)
+2026-04-20 16:56:11  INFO      POST /api/tts → 200  (1017ms)  ip=127.0.0.1
+2026-04-20 16:56:14  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2493ms)
+2026-04-20 16:56:14  INFO      POST /api/tts → 200  (2494ms)  ip=127.0.0.1
+2026-04-20 16:56:19  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2014ms)
+2026-04-20 16:56:19  INFO      POST /api/tts → 200  (2017ms)  ip=127.0.0.1
+2026-04-20 16:56:22  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1154ms)
+2026-04-20 16:56:22  INFO      POST /api/tts → 200  (1156ms)  ip=127.0.0.1
+2026-04-20 16:56:26  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=7  (2158ms)
+2026-04-20 16:56:26  INFO      POST /api/tts → 200  (2160ms)  ip=127.0.0.1
+2026-04-20 16:56:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1044ms)
+2026-04-20 16:56:28  INFO      POST /api/tts → 200  (1045ms)  ip=127.0.0.1
+2026-04-20 16:56:32  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2245ms)
+2026-04-20 16:56:32  INFO      POST /api/tts → 200  (2246ms)  ip=127.0.0.1
+2026-04-20 16:56:35  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1148ms)
+2026-04-20 16:56:35  INFO      POST /api/tts → 200  (1149ms)  ip=127.0.0.1
+2026-04-20 16:56:41  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1538ms)
+2026-04-20 16:56:41  INFO      POST /api/tts → 200  (1542ms)  ip=127.0.0.1
+2026-04-20 16:56:43  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1199ms)
+2026-04-20 16:56:43  INFO      POST /api/tts → 200  (1200ms)  ip=127.0.0.1
+2026-04-20 16:56:46  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1447ms)
+2026-04-20 16:56:46  INFO      POST /api/tts → 200  (1448ms)  ip=127.0.0.1
+2026-04-20 16:56:49  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1368ms)
+2026-04-20 16:56:49  INFO      POST /api/tts → 200  (1370ms)  ip=127.0.0.1
+2026-04-20 16:56:52  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1912ms)
+2026-04-20 16:56:52  INFO      POST /api/tts → 200  (1913ms)  ip=127.0.0.1
+2026-04-20 16:56:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1206ms)
+2026-04-20 16:56:55  INFO      POST /api/tts → 200  (1208ms)  ip=127.0.0.1
+2026-04-20 16:56:58  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1668ms)
+2026-04-20 16:56:58  INFO      POST /api/tts → 200  (1669ms)  ip=127.0.0.1
+2026-04-20 16:57:00  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1001ms)
+2026-04-20 16:57:00  INFO      POST /api/tts → 200  (1002ms)  ip=127.0.0.1
+2026-04-20 16:57:03  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1381ms)
+2026-04-20 16:57:03  INFO      POST /api/tts → 200  (1382ms)  ip=127.0.0.1
+2026-04-20 16:57:06  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1199ms)
+2026-04-20 16:57:06  INFO      POST /api/tts → 200  (1201ms)  ip=127.0.0.1
+2026-04-20 16:57:10  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1481ms)
+2026-04-20 16:57:10  INFO      POST /api/tts → 200  (1489ms)  ip=127.0.0.1
+2026-04-20 16:57:12  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (954ms)
+2026-04-20 16:57:12  INFO      POST /api/tts → 200  (958ms)  ip=127.0.0.1
+2026-04-20 16:57:16  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1618ms)
+2026-04-20 16:57:16  INFO      POST /api/tts → 200  (1619ms)  ip=127.0.0.1
+2026-04-20 16:57:19  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1150ms)
+2026-04-20 16:57:19  INFO      POST /api/tts → 200  (1151ms)  ip=127.0.0.1
+2026-04-20 16:57:28  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=7  (1785ms)
+2026-04-20 16:57:28  INFO      POST /api/tts → 200  (1788ms)  ip=127.0.0.1
+2026-04-20 16:57:31  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (983ms)
+2026-04-20 16:57:31  INFO      POST /api/tts → 200  (984ms)  ip=127.0.0.1
+2026-04-20 16:57:35  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1626ms)
+2026-04-20 16:57:35  INFO      POST /api/tts → 200  (1628ms)  ip=127.0.0.1
+2026-04-20 16:57:38  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1109ms)
+2026-04-20 16:57:38  INFO      POST /api/tts → 200  (1110ms)  ip=127.0.0.1
+2026-04-20 16:57:42  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1897ms)
+2026-04-20 16:57:42  INFO      POST /api/tts → 200  (1900ms)  ip=127.0.0.1
+2026-04-20 16:57:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (897ms)
+2026-04-20 16:57:45  INFO      POST /api/tts → 200  (898ms)  ip=127.0.0.1
+2026-04-20 16:57:49  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2057ms)
+2026-04-20 16:57:49  INFO      POST /api/tts → 200  (2059ms)  ip=127.0.0.1
+2026-04-20 16:57:51  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1081ms)
+2026-04-20 16:57:52  INFO      POST /api/tts → 200  (1082ms)  ip=127.0.0.1
+2026-04-20 16:57:56  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1710ms)
+2026-04-20 16:57:56  INFO      POST /api/tts → 200  (1714ms)  ip=127.0.0.1
+2026-04-20 16:57:59  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (969ms)
+2026-04-20 16:57:59  INFO      POST /api/tts → 200  (970ms)  ip=127.0.0.1
+2026-04-20 16:58:06  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1582ms)
+2026-04-20 16:58:06  INFO      POST /api/tts → 200  (1584ms)  ip=127.0.0.1
+2026-04-20 16:58:09  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (857ms)
+2026-04-20 16:58:09  INFO      POST /api/tts → 200  (858ms)  ip=127.0.0.1
+2026-04-20 16:58:18  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1509ms)
+2026-04-20 16:58:18  INFO      POST /api/tts → 200  (1514ms)  ip=127.0.0.1
+2026-04-20 16:58:23  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1154ms)
+2026-04-20 16:58:23  INFO      POST /api/tts → 200  (1155ms)  ip=127.0.0.1
+2026-04-20 16:58:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1558ms)
+2026-04-20 16:58:25  INFO      POST /api/tts → 200  (1560ms)  ip=127.0.0.1
+2026-04-20 16:58:27  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1032ms)
+2026-04-20 16:58:28  INFO      POST /api/tts → 200  (1033ms)  ip=127.0.0.1
+2026-04-20 16:58:30  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1467ms)
+2026-04-20 16:58:30  INFO      POST /api/tts → 200  (1468ms)  ip=127.0.0.1
+2026-04-20 16:58:36  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1534ms)
+2026-04-20 16:58:36  INFO      POST /api/tts → 200  (1536ms)  ip=127.0.0.1
+2026-04-20 16:58:38  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (966ms)
+2026-04-20 16:58:38  INFO      POST /api/tts → 200  (967ms)  ip=127.0.0.1
+2026-04-20 16:58:40  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1081ms)
+2026-04-20 16:58:40  INFO      POST /api/tts → 200  (1082ms)  ip=127.0.0.1
+2026-04-20 16:58:46  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1438ms)
+2026-04-20 16:58:46  INFO      POST /api/tts → 200  (1440ms)  ip=127.0.0.1
+2026-04-20 16:58:48  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1040ms)
+2026-04-20 16:58:48  INFO      POST /api/tts → 200  (1041ms)  ip=127.0.0.1
+2026-04-20 16:58:52  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1573ms)
+2026-04-20 16:58:52  INFO      POST /api/tts → 200  (1575ms)  ip=127.0.0.1
+2026-04-20 16:58:59  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1197ms)
+2026-04-20 16:58:59  INFO      POST /api/tts → 200  (1199ms)  ip=127.0.0.1
+2026-04-20 16:59:02  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1850ms)
+2026-04-20 16:59:02  INFO      POST /api/tts → 200  (1851ms)  ip=127.0.0.1
+2026-04-20 16:59:08  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1125ms)
+2026-04-20 16:59:08  INFO      POST /api/tts → 200  (1126ms)  ip=127.0.0.1
+2026-04-20 16:59:11  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1868ms)
+2026-04-20 16:59:11  INFO      POST /api/tts → 200  (1870ms)  ip=127.0.0.1
+2026-04-20 16:59:15  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1196ms)
+2026-04-20 16:59:15  INFO      POST /api/tts → 200  (1198ms)  ip=127.0.0.1
+2026-04-20 16:59:20  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (2183ms)
+2026-04-20 16:59:20  INFO      POST /api/tts → 200  (2184ms)  ip=127.0.0.1
+2026-04-20 16:59:22  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1060ms)
+2026-04-20 16:59:22  INFO      POST /api/tts → 200  (1062ms)  ip=127.0.0.1
+2026-04-20 16:59:27  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1664ms)
+2026-04-20 16:59:27  INFO      POST /api/tts → 200  (1665ms)  ip=127.0.0.1
+2026-04-20 16:59:29  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1051ms)
+2026-04-20 16:59:29  INFO      POST /api/tts → 200  (1053ms)  ip=127.0.0.1
+2026-04-20 16:59:38  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1899ms)
+2026-04-20 16:59:38  INFO      POST /api/tts → 200  (1903ms)  ip=127.0.0.1
+2026-04-20 16:59:40  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1010ms)
+2026-04-20 16:59:40  INFO      POST /api/tts → 200  (1011ms)  ip=127.0.0.1
+2026-04-20 16:59:45  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (2094ms)
+2026-04-20 16:59:45  INFO      POST /api/tts → 200  (2096ms)  ip=127.0.0.1
+2026-04-20 16:59:48  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (913ms)
+2026-04-20 16:59:48  INFO      POST /api/tts → 200  (915ms)  ip=127.0.0.1
+2026-04-20 16:59:53  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1359ms)
+2026-04-20 16:59:53  INFO      POST /api/tts → 200  (1360ms)  ip=127.0.0.1
+2026-04-20 16:59:55  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (925ms)
+2026-04-20 16:59:55  INFO      POST /api/tts → 200  (926ms)  ip=127.0.0.1
+2026-04-20 16:59:56  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (896ms)
+2026-04-20 16:59:56  INFO      POST /api/tts → 200  (897ms)  ip=127.0.0.1
+2026-04-20 16:59:59  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (972ms)
+2026-04-20 16:59:59  INFO      POST /api/tts → 200  (973ms)  ip=127.0.0.1
+2026-04-20 17:00:01  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1174ms)
+2026-04-20 17:00:01  INFO      POST /api/tts → 200  (1175ms)  ip=127.0.0.1
+2026-04-20 17:00:03  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1178ms)
+2026-04-20 17:00:03  INFO      POST /api/tts → 200  (1180ms)  ip=127.0.0.1
+2026-04-20 17:00:05  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1175ms)
+2026-04-20 17:00:05  INFO      POST /api/tts → 200  (1176ms)  ip=127.0.0.1
+2026-04-20 17:00:08  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=1  (1742ms)
+2026-04-20 17:00:08  INFO      POST /api/tts → 200  (1745ms)  ip=127.0.0.1
+2026-04-20 17:00:10  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (963ms)
+2026-04-20 17:00:10  INFO      POST /api/tts → 200  (982ms)  ip=127.0.0.1
+2026-04-20 17:00:12  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1293ms)
+2026-04-20 17:00:12  INFO      POST /api/tts → 200  (1294ms)  ip=127.0.0.1
+2026-04-20 17:00:14  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (944ms)
+2026-04-20 17:00:14  INFO      POST /api/tts → 200  (945ms)  ip=127.0.0.1
+2026-04-20 17:00:16  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=1  (1287ms)
+2026-04-20 17:00:16  INFO      POST /api/tts → 200  (1289ms)  ip=127.0.0.1
+2026-04-20 17:00:18  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1126ms)
+2026-04-20 17:00:18  INFO      POST /api/tts → 200  (1127ms)  ip=127.0.0.1

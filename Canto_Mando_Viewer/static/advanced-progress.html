@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Advanced Course — Download Progress</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+         background: #0f1117; color: #e2e8f0; min-height: 100vh; padding: 24px; }
+  h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 4px; color: #f1f5f9; }
+  .subtitle { font-size: 0.875rem; color: #64748b; margin-bottom: 24px; }
+  .refresh-btn { background: #3b82f6; color: #fff; border: none; border-radius: 6px;
+                 padding: 6px 14px; font-size: 0.8rem; cursor: pointer; margin-left: 12px; }
+  .refresh-btn:hover { background: #2563eb; }
+
+  /* Summary bar */
+  .summary { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; }
+  .stat { background: #1e2330; border-radius: 10px; padding: 12px 18px; min-width: 110px; }
+  .stat-label { font-size: 0.7rem; color: #94a3b8; text-transform: uppercase; letter-spacing: .05em; }
+  .stat-val { font-size: 1.5rem; font-weight: 700; margin-top: 2px; }
+  .stat-val.green  { color: #22c55e; }
+  .stat-val.yellow { color: #f59e0b; }
+  .stat-val.blue   { color: #60a5fa; }
+  .stat-val.gray   { color: #94a3b8; }
+
+  /* Progress bar */
+  .prog-wrap { background: #1e2330; border-radius: 8px; height: 8px; margin-bottom: 24px; overflow: hidden; }
+  .prog-fill  { height: 100%; background: linear-gradient(90deg,#22c55e,#3b82f6); transition: width .5s; }
+
+  /* Chapter accordion */
+  .chapter { margin-bottom: 20px; border-radius: 12px; overflow: hidden;
+             background: #141720; border: 1px solid #1e293b; }
+  .chapter-header { padding: 14px 18px; cursor: pointer; display: flex; align-items: center;
+                    justify-content: space-between; user-select: none; }
+  .chapter-header:hover { background: #1a2035; }
+  .chapter-title { font-size: 1rem; font-weight: 600; color: #f1f5f9; }
+  .chapter-meta  { font-size: 0.75rem; color: #64748b; margin-top: 2px; }
+  .chapter-pill  { font-size: 0.75rem; font-weight: 600; padding: 2px 10px; border-radius: 999px; }
+  .pill-done     { background: #14532d; color: #22c55e; }
+  .pill-partial  { background: #451a03; color: #f59e0b; }
+  .pill-empty    { background: #1e1e2e; color: #64748b; }
+  .chevron       { transition: transform .2s; font-size: 0.9rem; color: #64748b; }
+  .open .chevron { transform: rotate(90deg); }
+
+  .chapter-body  { display: none; padding: 0 0 12px; }
+  .chapter-body.visible { display: block; }
+
+  /* Section */
+  .section { margin: 8px 14px 0; border-radius: 8px; overflow: hidden;
+             background: #1a2035; }
+  .section-header { padding: 8px 14px; font-size: 0.8rem; font-weight: 600;
+                    color: #94a3b8; text-transform: uppercase; letter-spacing: .05em;
+                    border-bottom: 1px solid #232b3e; }
+
+  /* Post rows */
+  .post-row { display: flex; align-items: center; padding: 7px 14px;
+              border-bottom: 1px solid #1e293b; gap: 10px; }
+  .post-row:last-child { border-bottom: none; }
+  .post-row:hover { background: #202840; }
+  .post-name { flex: 1; font-size: 0.82rem; color: #cbd5e1; white-space: nowrap;
+               overflow: hidden; text-overflow: ellipsis; }
+  .type-badge { font-size: 0.68rem; padding: 1px 7px; border-radius: 4px;
+                font-weight: 600; white-space: nowrap; }
+  .type-video    { background: #1e3a5f; color: #60a5fa; }
+  .type-audio    { background: #1a3a2a; color: #34d399; }
+  .type-document { background: #3b2a1a; color: #fb923c; }
+  .type-vmh      { background: #2d1a4a; color: #c084fc; }
+  .type-diary    { background: #2d1a4a; color: #e879f9; }
+  .type-cm-vh    { background: #2d1a4a; color: #a78bfa; }
+  .type-challenge{ background: #1a2a3a; color: #64748b; }
+
+  .status-icon { font-size: 1rem; width: 20px; text-align: center; }
+  .status-done    { color: #22c55e; }
+  .status-pending { color: #f59e0b; }
+  .status-skip    { color: #475569; }
+
+  /* Filter buttons */
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+  .filter-btn { background: #1e2330; border: 1px solid #334155; color: #94a3b8;
+                border-radius: 6px; padding: 5px 12px; font-size: 0.78rem; cursor: pointer; }
+  .filter-btn.active { background: #1e3a5f; border-color: #3b82f6; color: #60a5fa; }
+  .filter-btn:hover { border-color: #475569; }
+
+  .loading { text-align: center; padding: 60px; color: #475569; font-size: 1rem; }
+  .last-updated { font-size: 0.72rem; color: #475569; margin-top: 4px; }
+</style>
+</head>
+<body>
+
+<h1>Advanced Course — Download Progress
+  <button class="refresh-btn" onclick="loadData()">↻ Refresh</button>
+</h1>
+<p class="subtitle">Chapters 10–12 · Tracks videos, audio, PDFs, and VideoAsk URLs</p>
+<p class="last-updated" id="last-updated"></p>
+
+<div id="summary" class="summary"></div>
+<div class="prog-wrap"><div class="prog-fill" id="prog-fill" style="width:0%"></div></div>
+
+<div class="filters" id="filters">
+  <button class="filter-btn active" data-filter="all" onclick="setFilter('all',this)">All</button>
+  <button class="filter-btn" data-filter="pending" onclick="setFilter('pending',this)">Pending only</button>
+  <button class="filter-btn" data-filter="video" onclick="setFilter('video',this)">Video</button>
+  <button class="filter-btn" data-filter="audio" onclick="setFilter('audio',this)">Audio</button>
+  <button class="filter-btn" data-filter="document" onclick="setFilter('document',this)">Docs</button>
+  <button class="filter-btn" data-filter="vmh" onclick="setFilter('vmh',this)">VMH</button>
+  <button class="filter-btn" data-filter="diary" onclick="setFilter('diary',this)">Diary</button>
+  <button class="filter-btn" data-filter="cm-vh" onclick="setFilter('cm-vh',this)">CM Vocal Hack</button>
+</div>
+
+<div id="chapters"><div class="loading">Loading...</div></div>
+
+<script>
+let currentFilter = 'all';
+let rawData = null;
+
+function setFilter(f, btn) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  if (rawData) render(rawData);
+}
+
+async function loadData() {
+  document.getElementById('last-updated').textContent = '';
+  document.getElementById('chapters').innerHTML = '<div class="loading">Scanning folders...</div>';
+  try {
+    const base = window.location.port === '8800' ? '' : 'http://localhost:8800';
+    const r = await fetch(base + '/api/advanced-progress');
+    rawData = await r.json();
+    document.getElementById('last-updated').textContent =
+      'Last scanned: ' + new Date().toLocaleTimeString();
+    render(rawData);
+  } catch(e) {
+    document.getElementById('chapters').innerHTML =
+      `<div class="loading" style="color:#f87171">Error: ${e.message}<br>Is the server running on :8800?</div>`;
+  }
+}
+
+function render(data) {
+  const chapters = data.chapters || [];
+
+  // Compute totals
+  let total = 0, done = 0, byType = {};
+  for (const ch of chapters) {
+    for (const sec of ch.sections) {
+      for (const p of sec.posts) {
+        total++;
+        if (p.done) done++;
+        if (!byType[p.type]) byType[p.type] = {done:0, total:0};
+        byType[p.type].total++;
+        if (p.done) byType[p.type].done++;
+      }
+    }
+  }
+
+  // Summary
+  const pct = total ? Math.round(done/total*100) : 0;
+  document.getElementById('prog-fill').style.width = pct + '%';
+
+  const typeOrder = ['video','audio','document','vmh','diary','cm-vh','challenge'];
+  const typeLabels = {video:'Videos',audio:'Audio',document:'PDFs',vmh:'VMH',
+                      diary:'Diary',['cm-vh']:'CM VH',challenge:'Challenges'};
+  let summHtml = `
+    <div class="stat"><div class="stat-label">Overall</div>
+      <div class="stat-val ${pct===100?'green':pct>0?'yellow':'gray'}">${pct}%</div>
+      <div style="font-size:.7rem;color:#64748b;margin-top:2px">${done}/${total}</div></div>`;
+  for (const t of typeOrder) {
+    const s = byType[t];
+    if (!s) continue;
+    const tp = s.total ? Math.round(s.done/s.total*100) : 0;
+    summHtml += `<div class="stat"><div class="stat-label">${typeLabels[t]}</div>
+      <div class="stat-val ${tp===100?'green':tp>0?'yellow':'gray'}">${s.done}/${s.total}</div></div>`;
+  }
+  document.getElementById('summary').innerHTML = summHtml;
+
+  // Chapters
+  let html = '';
+  for (const ch of chapters) {
+    let chTotal = 0, chDone = 0;
+    for (const sec of ch.sections)
+      for (const p of sec.posts) { chTotal++; if (p.done) chDone++; }
+
+    const chPct = chTotal ? Math.round(chDone/chTotal*100) : 0;
+    const pillCls = chPct===100?'pill-done':chPct>0?'pill-partial':'pill-empty';
+
+    // Filter sections
+    let sectionsHtml = '';
+    for (const sec of ch.sections) {
+      const visiblePosts = sec.posts.filter(p =>
+        currentFilter === 'all' ? true :
+        currentFilter === 'pending' ? !p.done :
+        p.type === currentFilter
+      );
+      if (!visiblePosts.length) continue;
+
+      sectionsHtml += `<div class="section">
+        <div class="section-header">${esc(sec.label)}</div>`;
+      for (const p of visiblePosts) {
+        const icon  = p.type==='challenge' ? '✓' : p.done ? '●' : '○';
+        const iCls  = p.type==='challenge' ? 'status-skip' : p.done ? 'status-done' : 'status-pending';
+        const tCls  = 'type-'+p.type.replace('-','vh').replace('cm-vh','cm-vh');
+        sectionsHtml += `<div class="post-row">
+          <span class="status-icon ${iCls}">${icon}</span>
+          <span class="post-name" title="${esc(p.folder)}">${esc(p.label)}</span>
+          <span class="type-badge type-${p.type}">${p.type}</span>
+          ${p.va_url ? `<a href="${p.va_url}" target="_blank" style="font-size:.7rem;color:#818cf8;text-decoration:none;">VideoAsk</a>` : ''}
+        </div>`;
+      }
+      sectionsHtml += '</div>';
+    }
+    if (!sectionsHtml && currentFilter !== 'all') continue;
+
+    html += `<div class="chapter" id="ch-${ch.folder}">
+      <div class="chapter-header" onclick="toggleChapter('${ch.folder}')">
+        <div>
+          <div class="chapter-title">${esc(ch.label)}</div>
+          <div class="chapter-meta">${chDone}/${chTotal} complete</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:10px">
+          <span class="chapter-pill ${pillCls}">${chPct}%</span>
+          <span class="chevron">▶</span>
+        </div>
+      </div>
+      <div class="chapter-body" id="body-${ch.folder}">
+        ${sectionsHtml || '<div style="padding:14px;color:#475569;font-size:.8rem">No posts match filter.</div>'}
+      </div>
+    </div>`;
+  }
+
+  document.getElementById('chapters').innerHTML = html || '<div class="loading">No data.</div>';
+
+  // Auto-expand chapters with pending items (or all if filter active)
+  if (currentFilter !== 'all') {
+    chapters.forEach(ch => {
+      const body = document.getElementById('body-'+ch.folder);
+      const header = body?.previousElementSibling;
+      if (body) {
+        body.classList.add('visible');
+        header?.classList.add('open');
+      }
+    });
+  }
+}
+
+function toggleChapter(id) {
+  const body   = document.getElementById('body-'+id);
+  const header = body?.previousElementSibling;
+  body?.classList.toggle('visible');
+  header?.classList.toggle('open');
+}
+
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+loadData();
+// Auto-refresh every 30s while page open
+setInterval(loadData, 30000);
+</script>
+</body>
+</html>

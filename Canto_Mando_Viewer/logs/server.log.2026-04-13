@@ -1,0 +1,1492 @@
+2026-04-13 09:42:21  INFO      ============================================================
+2026-04-13 09:42:21  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-13 09:42:21  INFO      ============================================================
+2026-04-13 09:42:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:42:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:42:29  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2378  remaining_req=999  remaining_tok=9278  reset_req=1m26.4s
+2026-04-13 09:42:29  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank rec  (1393ms)
+2026-04-13 09:42:29  INFO      POST /api/translate → 200  (1396ms)  ip=127.0.0.1
+2026-04-13 09:42:29  INFO      POST /api/dict/segment → 200  (565ms)  ip=127.0.0.1
+2026-04-13 09:42:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:42:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:42:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1982  remaining_req=998  remaining_tok=9303  reset_req=2m52.8s
+2026-04-13 09:42:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='test'  en='Input is not a meaningful tex  (394ms)
+2026-04-13 09:42:57  INFO      POST /api/translate → 200  (397ms)  ip=127.0.0.1
+2026-04-13 09:43:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:43:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:43:58  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2384  remaining_req=997  remaining_tok=9993  reset_req=4m19.2s
+2026-04-13 09:43:58  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank to   (1282ms)
+2026-04-13 09:43:58  INFO      POST /api/translate → 200  (1285ms)  ip=127.0.0.1
+2026-04-13 09:43:58  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 09:44:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:44:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:44:03  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2387  remaining_req=996  remaining_tok=8388  reset_req=5m45.6s
+2026-04-13 09:44:03  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank rec  (1234ms)
+2026-04-13 09:44:03  INFO      POST /api/translate → 200  (1237ms)  ip=127.0.0.1
+2026-04-13 09:44:03  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 09:45:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:45:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:45:46  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2576  remaining_req=996  remaining_tok=9261  reset_req=5m45.6s
+2026-04-13 09:45:46  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1570ms)
+2026-04-13 09:45:46  INFO      POST /api/translate → 200  (1572ms)  ip=127.0.0.1
+2026-04-13 09:45:46  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-13 09:49:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:49:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:49:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2578  remaining_req=997  remaining_tok=9599  reset_req=4m19.2s
+2026-04-13 09:49:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1561ms)
+2026-04-13 09:49:20  INFO      POST /api/translate → 200  (1563ms)  ip=127.0.0.1
+2026-04-13 09:49:20  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-13 09:51:58  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=46  (1239ms)
+2026-04-13 09:51:58  INFO      POST /api/tts → 200  (1241ms)  ip=127.0.0.1
+2026-04-13 09:52:17  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=43  (4802ms)
+2026-04-13 09:52:17  INFO      POST /api/tts → 200  (4804ms)  ip=127.0.0.1
+2026-04-13 09:52:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:52:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:52:52  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2385  remaining_req=998  remaining_tok=9278  reset_req=2m52.8s
+2026-04-13 09:52:52  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank rec  (1256ms)
+2026-04-13 09:52:52  INFO      POST /api/translate → 200  (1257ms)  ip=127.0.0.1
+2026-04-13 09:52:52  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 09:53:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:53:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:53:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1989  remaining_req=997  remaining_tok=9298  reset_req=4m19.2s
+2026-04-13 09:53:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='sdfsdafsdfsa'  en='Input cannot be translated as  (408ms)
+2026-04-13 09:53:36  INFO      POST /api/translate → 200  (411ms)  ip=127.0.0.1
+2026-04-13 09:53:36  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-13 09:53:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:53:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:53:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1996  remaining_req=996  remaining_tok=7559  reset_req=5m45.6s
+2026-04-13 09:53:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='What'  en='What?'  (400ms)
+2026-04-13 09:53:40  INFO      POST /api/translate → 200  (402ms)  ip=127.0.0.1
+2026-04-13 09:53:40  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 09:53:43  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1042ms)
+2026-04-13 09:53:43  INFO      POST /api/tts → 200  (1043ms)  ip=127.0.0.1
+2026-04-13 09:53:47  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1397ms)
+2026-04-13 09:53:47  INFO      POST /api/tts → 200  (1399ms)  ip=127.0.0.1
+2026-04-13 09:58:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:58:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:58:04  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:58:04  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:58:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2192  remaining_req=998  remaining_tok=10002  reset_req=2m52.8s
+2026-04-13 09:58:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='上课之前你在做什么？你一会要做什么？'  en='What were you doing before cl  (827ms)
+2026-04-13 09:58:04  INFO      POST /api/translate → 200  (830ms)  ip=127.0.0.1
+2026-04-13 09:58:04  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 09:58:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2193  remaining_req=997  remaining_tok=7383  reset_req=4m19.2s
+2026-04-13 09:58:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='上课之前你在做什么？你一会要做什么？'  en='What were you doing before cl  (866ms)
+2026-04-13 09:58:04  INFO      POST /api/translate → 200  (868ms)  ip=127.0.0.1
+2026-04-13 09:58:04  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 09:58:07  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 09:58:07  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 09:58:07  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2194  remaining_req=996  remaining_tok=4811  reset_req=5m45.6s
+2026-04-13 09:58:07  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='上课之前你在做什么？你一会要做什么？'  en='What were you doing before cl  (936ms)
+2026-04-13 09:58:07  INFO      POST /api/translate → 200  (937ms)  ip=127.0.0.1
+2026-04-13 09:58:07  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 10:02:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:02:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:02:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:02:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:02:49  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2576  remaining_req=998  remaining_tok=9779  reset_req=2m52.8s
+2026-04-13 10:02:49  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1607ms)
+2026-04-13 10:02:49  INFO      POST /api/translate → 200  (1610ms)  ip=127.0.0.1
+2026-04-13 10:02:49  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-13 10:02:50  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2582  remaining_req=997  remaining_tok=7202  reset_req=4m19.2s
+2026-04-13 10:02:50  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1622ms)
+2026-04-13 10:02:50  INFO      POST /api/translate → 200  (1624ms)  ip=127.0.0.1
+2026-04-13 10:02:50  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 10:03:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:03:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:03:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2553  remaining_req=996  remaining_tok=9418  reset_req=5m45.6s
+2026-04-13 10:03:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1569ms)
+2026-04-13 10:03:56  INFO      POST /api/translate → 200  (1571ms)  ip=127.0.0.1
+2026-04-13 10:03:56  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-13 10:04:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:04:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:04:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2005  remaining_req=995  remaining_tok=9302  reset_req=7m12s
+2026-04-13 10:04:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你好'  en='Hello'  (444ms)
+2026-04-13 10:04:36  INFO      POST /api/translate → 200  (446ms)  ip=127.0.0.1
+2026-04-13 10:05:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:05:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:05:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2162  remaining_req=994  remaining_tok=9452  reset_req=8m38.4s
+2026-04-13 10:05:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='-课之前你在做什么？你一 严做什么？'  en='What were you doing before cl  (912ms)
+2026-04-13 10:05:20  INFO      POST /api/translate → 200  (914ms)  ip=127.0.0.1
+2026-04-13 10:05:20  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 10:08:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:08:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:08:28  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2378  remaining_req=995  remaining_tok=9441  reset_req=7m12s
+2026-04-13 10:08:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank rec  (1329ms)
+2026-04-13 10:08:28  INFO      POST /api/translate → 200  (1331ms)  ip=127.0.0.1
+2026-04-13 10:08:28  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-13 10:10:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:10:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:10:59  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2193  remaining_req=995  remaining_tok=9289  reset_req=7m12s
+2026-04-13 10:10:59  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='上课之前你在做什么？你一会要做什么？'  en='What were you doing before cl  (971ms)
+2026-04-13 10:10:59  INFO      POST /api/translate → 200  (975ms)  ip=127.0.0.1
+2026-04-13 10:10:59  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-13 10:11:11  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:11:11  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:11:11  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=19s
+2026-04-13 10:11:12  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2613  remaining_req=14399  remaining_tok=3261  reset_req=6s
+2026-04-13 10:11:12  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you cook tomatoes and eg  (1198ms)
+2026-04-13 10:11:12  INFO      POST /api/translate → 200  (1199ms)  ip=127.0.0.1
+2026-04-13 10:11:12  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 10:11:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:11:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:11:21  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2286  remaining_req=994  remaining_tok=9801  reset_req=8m38.4s
+2026-04-13 10:11:21  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你觉得习惯改得了吗？多久才能改变一个坏习惯呢？'  en='Do you think habits can be ch  (1145ms)
+2026-04-13 10:11:21  INFO      POST /api/translate → 200  (1148ms)  ip=127.0.0.1
+2026-04-13 10:11:21  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 10:11:58  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:11:58  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:11:58  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1924s
+2026-04-13 10:11:58  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2202  remaining_req=14399  remaining_tok=3288  reset_req=6s
+2026-04-13 10:11:58  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='了自己少看手機嗎？能 尔的經驗嗎？'  en='Should you reduce your phone   (798ms)
+2026-04-13 10:11:58  INFO      POST /api/translate → 200  (801ms)  ip=127.0.0.1
+2026-04-13 10:11:58  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 10:12:14  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:12:14  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:12:14  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1539s
+2026-04-13 10:12:15  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2316  remaining_req=14399  remaining_tok=1965  reset_req=6s
+2026-04-13 10:12:15  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常每个月都会花很多钱吗？你控制得了自己花多少钱吗？'  en='Do you usually spend a lot of  (945ms)
+2026-04-13 10:12:15  INFO      POST /api/translate → 200  (947ms)  ip=127.0.0.1
+2026-04-13 10:12:15  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 10:12:21  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=27  (1404ms)
+2026-04-13 10:12:21  INFO      POST /api/tts → 200  (1405ms)  ip=127.0.0.1
+2026-04-13 10:12:32  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=27  (2861ms)
+2026-04-13 10:12:32  INFO      POST /api/tts → 200  (2862ms)  ip=127.0.0.1
+2026-04-13 10:13:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (1097ms)
+2026-04-13 10:13:07  INFO      POST /api/tts → 200  (1099ms)  ip=127.0.0.1
+2026-04-13 10:13:10  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (919ms)
+2026-04-13 10:13:10  INFO      POST /api/tts → 200  (920ms)  ip=127.0.0.1
+2026-04-13 10:13:13  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1121ms)
+2026-04-13 10:13:13  INFO      POST /api/tts → 200  (1121ms)  ip=127.0.0.1
+2026-04-13 10:13:17  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (927ms)
+2026-04-13 10:13:17  INFO      POST /api/tts → 200  (928ms)  ip=127.0.0.1
+2026-04-13 10:13:21  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1085ms)
+2026-04-13 10:13:21  INFO      POST /api/tts → 200  (1086ms)  ip=127.0.0.1
+2026-04-13 10:13:25  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1014ms)
+2026-04-13 10:13:25  INFO      POST /api/tts → 200  (1015ms)  ip=127.0.0.1
+2026-04-13 10:15:22  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:15:22  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:15:22  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1719s
+2026-04-13 10:15:23  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2241  remaining_req=14399  remaining_tok=3414  reset_req=6s
+2026-04-13 10:15:23  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你知道很多关于中国文 化的事情吗？能分享一 下吗？'  en='Do you know a lot about Chine  (848ms)
+2026-04-13 10:15:23  INFO      POST /api/translate → 200  (851ms)  ip=127.0.0.1
+2026-04-13 10:15:23  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-13 10:19:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:19:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:19:15  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1474s
+2026-04-13 10:19:15  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2011  remaining_req=14399  remaining_tok=3428  reset_req=6s
+2026-04-13 10:19:15  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你好'  en='Hello!'  (510ms)
+2026-04-13 10:19:15  INFO      POST /api/translate → 200  (512ms)  ip=127.0.0.1
+2026-04-13 10:19:15  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 10:21:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:21:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:21:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1332s
+2026-04-13 10:21:55  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2257  remaining_req=14399  remaining_tok=3409  reset_req=6s
+2026-04-13 10:21:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你觉得习惯改得了吗？多久才能改变一个坏习惯呢？'  en='Do you think you can change a  (845ms)
+2026-04-13 10:21:55  INFO      POST /api/translate → 200  (847ms)  ip=127.0.0.1
+2026-04-13 10:21:55  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-13 10:25:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:25:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:25:51  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1089s
+2026-04-13 10:25:52  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2268  remaining_req=14399  remaining_tok=3416  reset_req=6s
+2026-04-13 10:25:52  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你知道很多关于中国文化的事情吗？能分享一下吗？'  en='Do you know a lot about Chine  (889ms)
+2026-04-13 10:25:52  INFO      POST /api/translate → 200  (891ms)  ip=127.0.0.1
+2026-04-13 10:25:52  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-13 10:28:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:28:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:28:15  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=948s
+2026-04-13 10:28:16  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2269  remaining_req=14399  remaining_tok=3412  reset_req=6s
+2026-04-13 10:28:16  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你是一个喜欢尝试新东西的人吗？能举一个例子吗？'  en='Are you someone who likes to   (774ms)
+2026-04-13 10:28:16  INFO      POST /api/translate → 200  (776ms)  ip=127.0.0.1
+2026-04-13 10:28:16  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-13 10:28:16  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 10:28:30  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=21  (2516ms)
+2026-04-13 10:28:30  INFO      POST /api/tts → 200  (2516ms)  ip=127.0.0.1
+2026-04-13 10:28:30  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 10:28:39  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=23  (1087ms)
+2026-04-13 10:28:39  INFO      POST /api/tts → 200  (1090ms)  ip=127.0.0.1
+2026-04-13 10:31:46  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=23  (1117ms)
+2026-04-13 10:31:46  INFO      POST /api/tts → 200  (1120ms)  ip=127.0.0.1
+2026-04-13 10:32:36  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:32:36  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:32:36  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=690s
+2026-04-13 10:32:37  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2296  remaining_req=14399  remaining_tok=3409  reset_req=6s
+2026-04-13 10:32:37  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你通常每个月都会花很多钱吗？你控制得了自己花多少钱吗？'  en='Do you usually spend a lot of  (870ms)
+2026-04-13 10:32:37  INFO      POST /api/translate → 200  (872ms)  ip=127.0.0.1
+2026-04-13 10:32:37  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-13 10:32:37  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 10:36:46  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 10:36:46  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 10:36:46  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=425s
+2026-04-13 10:36:46  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2101  remaining_req=14399  remaining_tok=3427  reset_req=6s
+2026-04-13 10:36:46  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='分享一下化'  en='Sharing some makeup experienc  (561ms)
+2026-04-13 10:36:46  INFO      POST /api/translate → 200  (564ms)  ip=127.0.0.1
+2026-04-13 10:36:46  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 10:36:47  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:07:25  INFO      GET /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:07:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/README.md → 200  (24ms)  ip=127.0.0.1
+2026-04-13 12:07:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-13 12:07:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:07:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:07:26  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:07:26  WARNING   GET /favicon.ico → 404  (1ms)  ip=127.0.0.1
+2026-04-13 12:09:07  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:09:09  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:09:11  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:09:13  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:09:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:09:15  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:09:18  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 12:09:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 12:09:19  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2093  remaining_req=999  remaining_tok=9296  reset_req=1m26.4s
+2026-04-13 12:09:19  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你什么时候要在上飞机'  en='When are you going to get on   (1196ms)
+2026-04-13 12:09:19  INFO      POST /api/translate → 200  (1198ms)  ip=127.0.0.1
+2026-04-13 12:09:19  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-13 12:09:19  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:09:24  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:09:25  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:09:41  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:10:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (5ms)  ip=127.0.0.1
+2026-04-13 12:10:12  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:10:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:17  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:18  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:19  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:20  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:23  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:24  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:28  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 12:10:28  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 12:10:29  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2134  remaining_req=998  remaining_tok=9295  reset_req=2m52.8s
+2026-04-13 12:10:29  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你什么时候会找到一份工作？'  en='When will you find a job?'  (1099ms)
+2026-04-13 12:10:29  INFO      POST /api/translate → 200  (1102ms)  ip=127.0.0.1
+2026-04-13 12:10:29  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:10:29  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:10:34  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:38  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 12:10:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:11:09  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:11:21  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:11:23  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:11:25  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:11:27  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:11:27  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:11:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:11:29  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:11:32  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 12:11:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 12:11:34  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2039  remaining_req=997  remaining_tok=9871  reset_req=4m19.2s
+2026-04-13 12:11:34  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我找到了！'  en="I've found it!"  (1858ms)
+2026-04-13 12:11:34  INFO      POST /api/translate → 200  (1859ms)  ip=127.0.0.1
+2026-04-13 12:11:34  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:11:34  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 12:11:40  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:11:45  INFO      POST /api/notes → 200  (7ms)  ip=127.0.0.1
+2026-04-13 12:12:14  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:12:16  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:12:18  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:12:21  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:12:25  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 12:12:26  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 12:12:26  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1400s
+2026-04-13 12:12:27  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2094  remaining_req=14399  remaining_tok=3297  reset_req=6s
+2026-04-13 12:12:27  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我现在在写一封信'  en='I am writing a letter now.'  (2422ms)
+2026-04-13 12:12:27  INFO      POST /api/translate → 200  (2423ms)  ip=127.0.0.1
+2026-04-13 12:12:27  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:12:27  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 12:12:33  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:12:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-13 12:13:12  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:13:16  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:13:19  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:13:20  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:13:23  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:13:25  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:13:27  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:13:45  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+2026-04-13 12:13:45  WARNING   POST /api/translate → 500  (15085ms)  ip=127.0.0.1
+2026-04-13 12:13:53  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+2026-04-13 12:13:53  WARNING   POST /api/translate → 500  (15103ms)  ip=127.0.0.1
+2026-04-13 12:13:57  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+2026-04-13 12:13:57  WARNING   POST /api/translate → 500  (15245ms)  ip=127.0.0.1
+2026-04-13 12:14:10  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+2026-04-13 12:14:10  WARNING   POST /api/translate → 500  (15323ms)  ip=127.0.0.1
+2026-04-13 12:14:25  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:993: The handshake operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.groq.com', port=443): Read timed out. (read timeout=15)
+2026-04-13 12:14:25  WARNING   POST /api/translate → 500  (15599ms)  ip=127.0.0.1
+2026-04-13 12:14:34  ERROR     [Translate] error  src='现在已经是晚上九点了呢可以回去'  ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 490, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "/opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py", line 1319, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 580, in api_translate
+    resp = _req.post(
+           ^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/adapters.py", line 659, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-04-13 12:14:34  WARNING   POST /api/translate → 500  (4474ms)  ip=127.0.0.1
+2026-04-13 12:14:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 12:14:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:14:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:14:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:14:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:14:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:14:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:14:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:15:00  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-13 12:15:00  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:15:04  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:15:08  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:11  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:15:11  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:15:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:19  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:21  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:15:22  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:24  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:15:38  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:15:40  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:15:41  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:45  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:15:50  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:00  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:16:01  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 12:16:01  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:02  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:11  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:12  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:13  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:16  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:16:19  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:23  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:16:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:32  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:16:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:40  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:42  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:49  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:53  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:55  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:56  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:16:58  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:03  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-13 12:17:09  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:17  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:17:19  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:23  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:17:25  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:26  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:17:31  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:17:33  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:37  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:42  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:17:43  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:17:45  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:51  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:54  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:56  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:57  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:17:58  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:00  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:01  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:02  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:03  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:18:04  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:08  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:10  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:12  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:18  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 12:18:21  INFO      GET /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 12:18:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-13 12:18:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:18:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-13 12:18:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:18:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:18:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:37:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:37:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:37:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 12:37:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 12:37:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 12:37:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 14:38:22  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 14:38:22  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 14:38:23  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2179  remaining_req=999  remaining_tok=9292  reset_req=1m26.4s
+2026-04-13 14:38:23  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='现在已经是晚上九点了呢可以回去'  en="It's already 9 pm, can go bac  (1044ms)
+2026-04-13 14:38:23  INFO      POST /api/translate → 200  (1047ms)  ip=127.0.0.1
+2026-04-13 14:38:23  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-13 14:38:23  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 14:38:34  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=15  (2765ms)
+2026-04-13 14:38:34  INFO      POST /api/tts → 200  (2767ms)  ip=127.0.0.1
+2026-04-13 14:49:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (930ms)
+2026-04-13 14:49:07  INFO      POST /api/tts → 200  (935ms)  ip=127.0.0.1
+2026-04-13 14:49:26  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1033ms)
+2026-04-13 14:49:26  INFO      POST /api/tts → 200  (1035ms)  ip=127.0.0.1
+2026-04-13 14:50:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (1478ms)
+2026-04-13 14:50:02  INFO      POST /api/tts → 200  (1479ms)  ip=127.0.0.1
+2026-04-13 15:49:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 15:49:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 15:49:28  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2004  remaining_req=999  remaining_tok=9303  reset_req=1m26.4s
+2026-04-13 15:49:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='banana'  en='banana'  (658ms)
+2026-04-13 15:49:28  INFO      POST /api/translate → 200  (661ms)  ip=127.0.0.1
+2026-04-13 15:49:28  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-13 15:49:28  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 15:49:32  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (827ms)
+2026-04-13 15:49:32  INFO      POST /api/tts → 200  (828ms)  ip=127.0.0.1
+2026-04-13 15:49:34  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (859ms)
+2026-04-13 15:49:34  INFO      POST /api/tts → 200  (861ms)  ip=127.0.0.1
+2026-04-13 15:49:37  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1002ms)
+2026-04-13 15:49:37  INFO      POST /api/tts → 200  (1003ms)  ip=127.0.0.1
+2026-04-13 15:49:40  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1349ms)
+2026-04-13 15:49:40  INFO      POST /api/tts → 200  (1350ms)  ip=127.0.0.1
+2026-04-13 15:49:43  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (829ms)
+2026-04-13 15:49:43  INFO      POST /api/tts → 200  (831ms)  ip=127.0.0.1
+2026-04-13 15:49:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 15:49:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 15:49:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1998  remaining_req=998  remaining_tok=9303  reset_req=2m52.8s
+2026-04-13 15:49:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='toast'  en='toast'  (532ms)
+2026-04-13 15:49:57  INFO      POST /api/translate → 200  (534ms)  ip=127.0.0.1
+2026-04-13 15:49:57  INFO      POST /api/dict/segment → 200  (16ms)  ip=127.0.0.1
+2026-04-13 15:49:57  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-13 15:50:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1169ms)
+2026-04-13 15:50:02  INFO      POST /api/tts → 200  (1170ms)  ip=127.0.0.1
+2026-04-13 15:50:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (938ms)
+2026-04-13 15:50:02  INFO      POST /api/tts → 200  (938ms)  ip=127.0.0.1
+2026-04-13 15:50:04  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (846ms)
+2026-04-13 15:50:04  INFO      POST /api/tts → 200  (847ms)  ip=127.0.0.1
+2026-04-13 15:50:17  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1228ms)
+2026-04-13 15:50:17  INFO      POST /api/tts → 200  (1230ms)  ip=127.0.0.1
+2026-04-13 15:50:19  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1000ms)
+2026-04-13 15:50:19  INFO      POST /api/tts → 200  (1001ms)  ip=127.0.0.1
+2026-04-13 17:00:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 17:00:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 17:00:33  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1979  remaining_req=999  remaining_tok=9303  reset_req=1m26.4s
+2026-04-13 17:00:33  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='data'  en='Input is not a translatable t  (447ms)
+2026-04-13 17:00:33  INFO      POST /api/translate → 200  (450ms)  ip=127.0.0.1
+2026-04-13 17:00:33  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-13 17:00:37  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 17:00:37  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 17:00:38  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2030  remaining_req=998  remaining_tok=7370  reset_req=2m52.8s
+2026-04-13 17:00:38  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='data analyst'  en='Data Analyst'  (966ms)
+2026-04-13 17:00:38  INFO      POST /api/translate → 200  (968ms)  ip=127.0.0.1
+2026-04-13 17:00:38  INFO      POST /api/dict/segment → 200  (52ms)  ip=127.0.0.1
+2026-04-13 17:00:38  INFO      POST /api/dict/segment → 200  (16ms)  ip=127.0.0.1
+2026-04-13 17:00:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (928ms)
+2026-04-13 17:00:45  INFO      POST /api/tts → 200  (930ms)  ip=127.0.0.1
+2026-04-13 17:00:50  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (840ms)
+2026-04-13 17:00:50  INFO      POST /api/tts → 200  (841ms)  ip=127.0.0.1
+2026-04-13 17:01:05  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 17:01:05  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 17:01:07  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2084  remaining_req=997  remaining_tok=10017  reset_req=4m19.2s
+2026-04-13 17:01:07  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i work as data analyst'  en='I work as a data analyst'  (1854ms)
+2026-04-13 17:01:07  INFO      POST /api/translate → 200  (1856ms)  ip=127.0.0.1
+2026-04-13 17:01:07  INFO      POST /api/dict/segment → 200  (22ms)  ip=127.0.0.1
+2026-04-13 17:01:07  INFO      POST /api/dict/segment → 200  (20ms)  ip=127.0.0.1
+2026-04-13 20:23:13  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (1671ms)
+2026-04-13 20:23:13  INFO      POST /api/tts → 200  (1676ms)  ip=127.0.0.1
+2026-04-13 20:23:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 20:23:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 20:23:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2079  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-13 20:23:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i work as data analytics'  en='I work as a data analyst'  (664ms)
+2026-04-13 20:23:40  INFO      POST /api/translate → 200  (666ms)  ip=127.0.0.1
+2026-04-13 20:23:40  INFO      POST /api/dict/segment → 200  (40ms)  ip=127.0.0.1
+2026-04-13 20:23:40  INFO      POST /api/dict/segment → 200  (15ms)  ip=127.0.0.1
+2026-04-13 20:24:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 20:24:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 20:24:01  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2074  remaining_req=998  remaining_tok=9299  reset_req=2m52.8s
+2026-04-13 20:24:01  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i work as data leader'  en='I work as a data leader'  (685ms)
+2026-04-13 20:24:01  INFO      POST /api/translate → 200  (687ms)  ip=127.0.0.1
+2026-04-13 20:24:01  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-13 20:24:01  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-13 20:24:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1043ms)
+2026-04-13 20:24:45  INFO      POST /api/tts → 200  (1045ms)  ip=127.0.0.1
+2026-04-13 20:25:03  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1024ms)
+2026-04-13 20:25:03  INFO      POST /api/tts → 200  (1027ms)  ip=127.0.0.1
+2026-04-13 20:25:15  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1058ms)
+2026-04-13 20:25:15  INFO      POST /api/tts → 200  (1059ms)  ip=127.0.0.1
+2026-04-13 20:25:27  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1170ms)
+2026-04-13 20:25:27  INFO      POST /api/tts → 200  (1172ms)  ip=127.0.0.1
+2026-04-13 20:26:46  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 20:26:46  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 20:26:47  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2069  remaining_req=998  remaining_tok=9921  reset_req=2m52.8s
+2026-04-13 20:26:47  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我是负责数据的'  en='I am in charge of data'  (603ms)
+2026-04-13 20:26:47  INFO      POST /api/translate → 200  (605ms)  ip=127.0.0.1
+2026-04-13 20:26:47  INFO      POST /api/dict/segment → 200  (15ms)  ip=127.0.0.1
+2026-04-13 20:26:47  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-13 20:26:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1029ms)
+2026-04-13 20:26:55  INFO      POST /api/tts → 200  (1031ms)  ip=127.0.0.1
+2026-04-13 20:27:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 20:27:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 20:27:03  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2060  remaining_req=997  remaining_tok=9920  reset_req=4m19.2s
+2026-04-13 20:27:03  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我做数据这块的'  en='I work on data'  (677ms)
+2026-04-13 20:27:03  INFO      POST /api/translate → 200  (679ms)  ip=127.0.0.1
+2026-04-13 20:27:03  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-13 20:27:03  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-13 20:27:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (985ms)
+2026-04-13 20:27:07  INFO      POST /api/tts → 200  (986ms)  ip=127.0.0.1
+2026-04-13 20:27:29  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1575ms)
+2026-04-13 20:27:29  INFO      POST /api/tts → 200  (1576ms)  ip=127.0.0.1
+2026-04-13 20:27:34  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (967ms)
+2026-04-13 20:27:34  INFO      POST /api/tts → 200  (968ms)  ip=127.0.0.1
+2026-04-13 21:21:20  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 21:21:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:21:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:21:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:21:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:21:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:21:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:22:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:23:09  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-13 21:23:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:15  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:23:19  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:23:20  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:27  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:28  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:30  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:31  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:32  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:23:42  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:23:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:50  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:23:52  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:23:54  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:23:57  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:23:58  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:24:17  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-13 21:24:18  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:24:20  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:24:21  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:24:22  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:24:30  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:24:30  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:24:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2198  remaining_req=999  remaining_tok=9293  reset_req=1m26.4s
+2026-04-13 21:24:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你昨晚你的东西之后你要来帮我'  en='Are you coming to help me aft  (1167ms)
+2026-04-13 21:24:31  INFO      POST /api/translate → 200  (1168ms)  ip=127.0.0.1
+2026-04-13 21:24:31  INFO      POST /api/dict/segment → 200  (83ms)  ip=127.0.0.1
+2026-04-13 21:24:31  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-13 21:24:45  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-13 21:24:45  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:24:50  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:24:50  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:24:51  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2168  remaining_req=998  remaining_tok=9294  reset_req=2m52.8s
+2026-04-13 21:24:51  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='哪开会之前农药准备还你的东西'  en='Were your things prepared wit  (955ms)
+2026-04-13 21:24:51  INFO      POST /api/translate → 200  (956ms)  ip=127.0.0.1
+2026-04-13 21:24:51  INFO      POST /api/dict/segment → 200  (35ms)  ip=127.0.0.1
+2026-04-13 21:24:51  INFO      POST /api/dict/segment → 200  (32ms)  ip=127.0.0.1
+2026-04-13 21:25:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:25:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:25:10  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2166  remaining_req=997  remaining_tok=9803  reset_req=4m19.2s
+2026-04-13 21:25:10  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你开会之前你要准备好你的东西'  en='You need to prepare your thin  (841ms)
+2026-04-13 21:25:10  INFO      POST /api/translate → 200  (843ms)  ip=127.0.0.1
+2026-04-13 21:25:10  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-13 21:25:10  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-13 21:25:15  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-13 21:25:16  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:25:30  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 21:25:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:25:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:25:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2141  remaining_req=996  remaining_tok=9803  reset_req=5m45.6s
+2026-04-13 21:25:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='You need to prepare your thin  en='You need to prepare your thin  (894ms)
+2026-04-13 21:25:36  INFO      POST /api/translate → 200  (897ms)  ip=127.0.0.1
+2026-04-13 21:25:36  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-13 21:25:36  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-13 21:25:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:25:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:25:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2004  remaining_req=995  remaining_tok=8551  reset_req=7m12s
+2026-04-13 21:25:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='开会'  en='To have a meeting'  (538ms)
+2026-04-13 21:25:40  INFO      POST /api/translate → 200  (539ms)  ip=127.0.0.1
+2026-04-13 21:25:40  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:25:40  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 21:25:47  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1333ms)
+2026-04-13 21:25:47  INFO      POST /api/tts → 200  (1335ms)  ip=127.0.0.1
+2026-04-13 21:25:51  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1468ms)
+2026-04-13 21:25:51  INFO      POST /api/tts → 200  (1468ms)  ip=127.0.0.1
+2026-04-13 21:25:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:26:21  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:26:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:26:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:26:56  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=964s
+2026-04-13 21:26:57  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2145  remaining_req=14399  remaining_tok=3294  reset_req=6s
+2026-04-13 21:26:57  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='You need to prepare your thin  en='You need to prepare things be  (775ms)
+2026-04-13 21:26:57  INFO      POST /api/translate → 200  (777ms)  ip=127.0.0.1
+2026-04-13 21:26:57  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-13 21:26:57  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:27:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:27:01  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:27:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=521s
+2026-04-13 21:27:01  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2213  remaining_req=14398  remaining_tok=1386  reset_req=12s
+2026-04-13 21:27:01  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你以后做完你的东西之后，你要来帮我'  en="After you finish your things,  (718ms)
+2026-04-13 21:27:01  INFO      POST /api/translate → 200  (721ms)  ip=127.0.0.1
+2026-04-13 21:27:01  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-13 21:27:01  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-13 21:27:09  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:27:10  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:27:14  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:27:16  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:27:25  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:27:25  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:27:25  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=471s
+2026-04-13 21:27:25  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2187  remaining_req=14399  remaining_tok=2046  reset_req=6s
+2026-04-13 21:27:25  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我以前开会之前没有准备好我的东西'  en='I used to not be prepared wit  (666ms)
+2026-04-13 21:27:25  INFO      POST /api/translate → 200  (668ms)  ip=127.0.0.1
+2026-04-13 21:27:25  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-13 21:27:25  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:27:33  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:27:38  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:27:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:27:44  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:27:56  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:27:58  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:00  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:00  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:28:15  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:28:28  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:32  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:35  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:36  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:37  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:41  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:43  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:28:44  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:28:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:28:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:28:55  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=405s
+2026-04-13 21:28:55  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2178  remaining_req=14399  remaining_tok=3790  reset_req=6s
+2026-04-13 21:28:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你整天都在这里什么都不做'  en='You just sit here all day doi  (680ms)
+2026-04-13 21:28:55  INFO      POST /api/translate → 200  (683ms)  ip=127.0.0.1
+2026-04-13 21:28:55  INFO      POST /api/dict/segment → 200  (25ms)  ip=127.0.0.1
+2026-04-13 21:28:55  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-13 21:29:01  INFO      POST /api/notes → 200  (9ms)  ip=127.0.0.1
+2026-04-13 21:29:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-13 21:29:47  INFO      GET /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:29:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:29:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:29:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:29:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:29:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:30:05  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:31  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:31  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:30:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:30:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:30:45  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=734s
+2026-04-13 21:30:46  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2117  remaining_req=14399  remaining_tok=3295  reset_req=6s
+2026-04-13 21:30:46  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='You just sit here all day doi  en='You just sit here all day doi  (697ms)
+2026-04-13 21:30:46  INFO      POST /api/translate → 200  (699ms)  ip=127.0.0.1
+2026-04-13 21:30:46  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-13 21:30:46  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:30:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:30:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:30:47  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=732s
+2026-04-13 21:30:48  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2705  remaining_req=14398  remaining_tok=1102  reset_req=12s
+2026-04-13 21:30:48  ERROR     [Translate] error  src='You just sit here all day doing nothing  No JSON object in Groq response: {"mandarin":"你整天都坐着没做什么事。","pinyin":"nǐ zhěng tiān dōu zuò zhe méi zuò shén me shì .","cantonese":"你整天都坐嘞無做嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 607, in api_translate
+    raise ValueError(f"No JSON object in Groq response: {raw[:120]}")
+ValueError: No JSON object in Groq response: {"mandarin":"你整天都坐着没做什么事。","pinyin":"nǐ zhěng tiān dōu zuò zhe méi zuò shén me shì .","cantonese":"你整天都坐嘞無做嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞嘞
+2026-04-13 21:30:48  WARNING   POST /api/translate → 500  (1157ms)  ip=127.0.0.1
+2026-04-13 21:30:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:30:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:30:53  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=286s
+2026-04-13 21:30:54  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2117  remaining_req=14398  remaining_tok=643  reset_req=12s
+2026-04-13 21:30:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='You just sit here all day doi  en='You just sit here all day doi  (582ms)
+2026-04-13 21:30:54  INFO      POST /api/translate → 200  (587ms)  ip=127.0.0.1
+2026-04-13 21:30:54  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:30:54  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-13 21:31:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:31:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:31:00  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=721s
+2026-04-13 21:31:00  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=8s
+2026-04-13 21:31:00  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-13 21:31:00  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-13 21:31:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:31:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:31:04  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=278s
+2026-04-13 21:31:04  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=11s
+2026-04-13 21:31:04  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-13 21:31:04  ERROR     [Translate] error  src='我做完功课之后我可不可以出去'  400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 599, in api_translate
+    resp.raise_for_status()
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2026-04-13 21:31:04  WARNING   POST /api/translate → 500  (3764ms)  ip=127.0.0.1
+2026-04-13 21:31:05  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:31:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:31:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:31:19  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=701s
+2026-04-13 21:31:19  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2121  remaining_req=14399  remaining_tok=1087  reset_req=6s
+2026-04-13 21:31:19  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你整天都在坐着做什么？'  en='What have you been doing all   (623ms)
+2026-04-13 21:31:19  INFO      POST /api/translate → 200  (625ms)  ip=127.0.0.1
+2026-04-13 21:31:19  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:31:19  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-13 21:31:49  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:31:50  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:31:50  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:31:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:31:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:31:51  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=668s
+2026-04-13 21:31:52  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2120  remaining_req=14399  remaining_tok=1621  reset_req=6s
+2026-04-13 21:31:52  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你整天都在坐着做什么？'  en='What have you been doing all   (651ms)
+2026-04-13 21:31:52  INFO      POST /api/translate → 200  (652ms)  ip=127.0.0.1
+2026-04-13 21:31:52  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:31:52  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:32:07  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:32:07  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:32:07  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=654s
+2026-04-13 21:32:08  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2149  remaining_req=14399  remaining_tok=1616  reset_req=6s
+2026-04-13 21:32:08  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我做完功课之后我可不可以出去'  en='Can I go out after I finish m  (671ms)
+2026-04-13 21:32:08  INFO      POST /api/translate → 200  (673ms)  ip=127.0.0.1
+2026-04-13 21:32:08  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-13 21:32:08  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:32:15  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:32:19  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:32:28  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-13 21:32:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:32:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:32:30  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:32:30  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:32:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:32:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:32:40  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=619s
+2026-04-13 21:32:40  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2134  remaining_req=14399  remaining_tok=3295  reset_req=6s
+2026-04-13 21:32:40  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='老板什么时候会过来接我？'  en='When will the boss come to pi  (686ms)
+2026-04-13 21:32:41  INFO      POST /api/translate → 200  (688ms)  ip=127.0.0.1
+2026-04-13 21:32:41  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-13 21:32:41  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:32:44  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:32:56  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:32:57  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:32:59  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:33:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:06  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:06  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:33:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:23  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:33:23  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:33:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=573s
+2026-04-13 21:33:23  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2088  remaining_req=14399  remaining_tok=3883  reset_req=6s
+2026-04-13 21:33:23  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='所以我们现在要开会'  en="So we're going to have a meet  (630ms)
+2026-04-13 21:33:23  INFO      POST /api/translate → 200  (631ms)  ip=127.0.0.1
+2026-04-13 21:33:23  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-13 21:33:23  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:33:27  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:33:33  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:33:35  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:33:37  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:33:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:33:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:33:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/04_More_Ways_to_Indicate_Time_Practice/More_Ways_to_Indicate_Time_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:33:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/05_Challenge_10/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:34:00  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/07_Beginner_Checkpoint_2/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:44:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:44:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:44:59  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2030  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-13 21:44:59  ERROR     [Translate] error  src='im 46 years old'  No JSON object in Groq response: {"mandarin":"我46岁了","pinyin":"wǒ 46 suì le","cantonese":"我46岁啦","english":"I'm 46 years old","gloss":"wǒ[I] 46[46] suì[y
+Traceback (most recent call last):
+  File "/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/server.py", line 607, in api_translate
+    raise ValueError(f"No JSON object in Groq response: {raw[:120]}")
+ValueError: No JSON object in Groq response: {"mandarin":"我46岁了","pinyin":"wǒ 46 suì le","cantonese":"我46岁啦","english":"I'm 46 years old","gloss":"wǒ[I] 46[46] suì[y
+2026-04-13 21:44:59  WARNING   POST /api/translate → 500  (652ms)  ip=127.0.0.1
+2026-04-13 21:45:04  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:45:05  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:45:05  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2274s
+2026-04-13 21:45:05  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2052  remaining_req=14399  remaining_tok=3299  reset_req=6s
+2026-04-13 21:45:05  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='im 46 years old'  en='I am 46 years old.'  (499ms)
+2026-04-13 21:45:05  INFO      POST /api/translate → 200  (500ms)  ip=127.0.0.1
+2026-04-13 21:45:05  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-13 21:45:05  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:45:18  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:45:18  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:45:19  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2259s
+2026-04-13 21:45:19  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2054  remaining_req=14399  remaining_tok=2539  reset_req=6s
+2026-04-13 21:45:19  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='im 46 years'  en="I'm 46 years old."  (777ms)
+2026-04-13 21:45:19  INFO      POST /api/translate → 200  (779ms)  ip=127.0.0.1
+2026-04-13 21:45:19  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:45:19  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:45:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:45:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:45:57  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2221s
+2026-04-13 21:45:58  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2079  remaining_req=14399  remaining_tok=3299  reset_req=6s
+2026-04-13 21:45:58  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='today is 13 april'  en='Today is April 13th.'  (655ms)
+2026-04-13 21:45:58  INFO      POST /api/translate → 200  (656ms)  ip=127.0.0.1
+2026-04-13 21:45:58  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-13 21:45:58  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:46:18  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1207ms)
+2026-04-13 21:46:18  INFO      POST /api/tts → 200  (1209ms)  ip=127.0.0.1
+2026-04-13 21:46:45  INFO      GET /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:46:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-13 21:46:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:46:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:46:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/03_More_Ways_to_Indicate_Time_Part_2/More_Ways_to_Indicate_Time_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:46:48  INFO      GET /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:46:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/README.md → 304  (4ms)  ip=127.0.0.1
+2026-04-13 21:46:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:46:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:46:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/02_More_Ways_to_Indicate_Time_Part_1/More_Ways_to_Indicate_Time_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-13 21:47:02  INFO      GET /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:47:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/03_CM_SCHOOL_Meeting_a_Friends_Mandarin_Speaking_Parent/02_Meeting_a_Friends_Mandarin_Speaking_Parent_Vocal_Hacks/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:47:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/03_CM_SCHOOL_Meeting_a_Friends_Mandarin_Speaking_Parent/02_Meeting_a_Friends_Mandarin_Speaking_Parent_Vocal_Hacks/thanks where you from.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-13 21:49:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:49:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:49:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2043s
+2026-04-13 21:49:03  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2215  remaining_req=14399  remaining_tok=3914  reset_req=6s
+2026-04-13 21:49:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天我起床 我吃早餐了 我去工作'  en='Today I got up, I had breakfa  (774ms)
+2026-04-13 21:49:03  INFO      POST /api/translate → 200  (776ms)  ip=127.0.0.1
+2026-04-13 21:49:03  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-13 21:49:03  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 21:49:21  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=18  (1127ms)
+2026-04-13 21:49:21  INFO      POST /api/tts → 200  (1129ms)  ip=127.0.0.1
+2026-04-13 21:50:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:50:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:50:19  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1961s
+2026-04-13 21:50:20  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2104  remaining_req=14399  remaining_tok=3944  reset_req=6s
+2026-04-13 21:50:20  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我学中文五个星期'  en="I've been studying Chinese fo  (916ms)
+2026-04-13 21:50:20  INFO      POST /api/translate → 200  (918ms)  ip=127.0.0.1
+2026-04-13 21:50:20  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-13 21:50:20  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:50:42  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:50:42  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:50:42  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1943s
+2026-04-13 21:50:43  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2198  remaining_req=14399  remaining_tok=3890  reset_req=6s
+2026-04-13 21:50:43  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天我起床 我吃早餐了 我去工作'  en='Today I got up, I had breakfa  (717ms)
+2026-04-13 21:50:43  INFO      POST /api/translate → 200  (720ms)  ip=127.0.0.1
+2026-04-13 21:50:43  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:50:43  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:50:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:50:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:50:53  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1927s
+2026-04-13 21:50:54  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2151  remaining_req=14399  remaining_tok=2207  reset_req=6s
+2026-04-13 21:50:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天是四月十三号。'  en='Today is April 13th.'  (576ms)
+2026-04-13 21:50:54  INFO      POST /api/translate → 200  (579ms)  ip=127.0.0.1
+2026-04-13 21:50:54  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:50:54  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-13 21:51:30  INFO      GET /file/Chapter_06_Basic_Mandarin_III/04_Lesson_10/07_Beginner_Checkpoint_2/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-13 21:52:30  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:52:30  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:52:30  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1831s
+2026-04-13 21:52:30  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2090  remaining_req=14399  remaining_tok=3848  reset_req=6s
+2026-04-13 21:52:30  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天是四月十一一年杀。'  en='Today is April 11th.'  (611ms)
+2026-04-13 21:52:30  INFO      POST /api/translate → 200  (614ms)  ip=127.0.0.1
+2026-04-13 21:52:30  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 21:52:30  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:52:37  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (1523ms)
+2026-04-13 21:52:37  INFO      POST /api/tts → 200  (1524ms)  ip=127.0.0.1
+2026-04-13 21:52:43  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1082ms)
+2026-04-13 21:52:43  INFO      POST /api/tts → 200  (1084ms)  ip=127.0.0.1
+2026-04-13 21:53:08  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (928ms)
+2026-04-13 21:53:08  INFO      POST /api/tts → 200  (931ms)  ip=127.0.0.1
+2026-04-13 21:53:12  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:53:12  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:53:12  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1789s
+2026-04-13 21:53:13  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2242  remaining_req=14399  remaining_tok=3848  reset_req=6s
+2026-04-13 21:53:13  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天是四月十一三年杀。'  en='Today is April 11, 2023.'  (1112ms)
+2026-04-13 21:53:13  INFO      POST /api/translate → 200  (1115ms)  ip=127.0.0.1
+2026-04-13 21:53:13  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-13 21:53:13  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:53:16  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (1063ms)
+2026-04-13 21:53:16  INFO      POST /api/tts → 200  (1064ms)  ip=127.0.0.1
+2026-04-13 21:53:32  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (946ms)
+2026-04-13 21:53:32  INFO      POST /api/tts → 200  (947ms)  ip=127.0.0.1
+2026-04-13 21:53:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:53:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:53:48  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1751s
+2026-04-13 21:53:49  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2088  remaining_req=14399  remaining_tok=3760  reset_req=6s
+2026-04-13 21:53:49  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天是四月十一三'  en='Today is April 13th'  (488ms)
+2026-04-13 21:53:49  INFO      POST /api/translate → 200  (490ms)  ip=127.0.0.1
+2026-04-13 21:53:49  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:53:49  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 21:53:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1116ms)
+2026-04-13 21:53:55  INFO      POST /api/tts → 200  (1118ms)  ip=127.0.0.1
+2026-04-13 21:55:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:55:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:55:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1627s
+2026-04-13 21:55:54  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2131  remaining_req=14399  remaining_tok=3297  reset_req=6s
+2026-04-13 21:55:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我学中文五个星期了'  en='I have been studying Chinese   (607ms)
+2026-04-13 21:55:54  INFO      POST /api/translate → 200  (609ms)  ip=127.0.0.1
+2026-04-13 21:55:54  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:55:54  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:56:03  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1099ms)
+2026-04-13 21:56:03  INFO      POST /api/tts → 200  (1100ms)  ip=127.0.0.1
+2026-04-13 21:56:41  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:56:41  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:56:41  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1576s
+2026-04-13 21:56:42  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2044  remaining_req=14399  remaining_tok=3873  reset_req=6s
+2026-04-13 21:56:42  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='破听话'  en='What are you talking about?'  (447ms)
+2026-04-13 21:56:42  INFO      POST /api/translate → 200  (449ms)  ip=127.0.0.1
+2026-04-13 21:56:42  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 21:56:42  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 21:56:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 21:56:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 21:56:57  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1564s
+2026-04-13 21:56:58  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2123  remaining_req=14399  remaining_tok=3274  reset_req=6s
+2026-04-13 21:56:58  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='zhong wen vs po tung hua'  en='Is Mandarin or Cantonese bett  (642ms)
+2026-04-13 21:56:58  INFO      POST /api/translate → 200  (644ms)  ip=127.0.0.1
+2026-04-13 21:56:58  INFO      POST /api/dict/segment → 200  (17ms)  ip=127.0.0.1
+2026-04-13 21:56:58  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 22:19:01  INFO      GET /api/cheat → 304  (3ms)  ip=127.0.0.1
+2026-04-13 22:19:51  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (1678ms)
+2026-04-13 22:19:51  INFO      POST /api/tts → 200  (1680ms)  ip=127.0.0.1
+2026-04-13 22:19:54  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1003ms)
+2026-04-13 22:19:54  INFO      POST /api/tts → 200  (1005ms)  ip=127.0.0.1
+2026-04-13 22:19:58  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1365ms)
+2026-04-13 22:19:58  INFO      POST /api/tts → 200  (1366ms)  ip=127.0.0.1
+2026-04-13 22:20:01  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1103ms)
+2026-04-13 22:20:01  INFO      POST /api/tts → 200  (1104ms)  ip=127.0.0.1
+2026-04-13 22:20:07  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=7  (1397ms)
+2026-04-13 22:20:07  INFO      POST /api/tts → 200  (1398ms)  ip=127.0.0.1
+2026-04-13 22:20:10  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (976ms)
+2026-04-13 22:20:10  INFO      POST /api/tts → 200  (977ms)  ip=127.0.0.1
+2026-04-13 22:20:14  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1454ms)
+2026-04-13 22:20:14  INFO      POST /api/tts → 200  (1455ms)  ip=127.0.0.1
+2026-04-13 22:20:18  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1239ms)
+2026-04-13 22:20:18  INFO      POST /api/tts → 200  (1239ms)  ip=127.0.0.1
+2026-04-13 22:20:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1384ms)
+2026-04-13 22:20:25  INFO      POST /api/tts → 200  (1386ms)  ip=127.0.0.1
+2026-04-13 22:20:29  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=10  (1020ms)
+2026-04-13 22:20:29  INFO      POST /api/tts → 200  (1021ms)  ip=127.0.0.1
+2026-04-13 22:20:33  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (1036ms)
+2026-04-13 22:20:33  INFO      POST /api/tts → 200  (1038ms)  ip=127.0.0.1
+2026-04-13 22:20:38  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (1565ms)
+2026-04-13 22:20:38  INFO      POST /api/tts → 200  (1566ms)  ip=127.0.0.1
+2026-04-13 22:20:42  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1278ms)
+2026-04-13 22:20:42  INFO      POST /api/tts → 200  (1279ms)  ip=127.0.0.1
+2026-04-13 22:20:44  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (999ms)
+2026-04-13 22:20:44  INFO      POST /api/tts → 200  (1000ms)  ip=127.0.0.1
+2026-04-13 22:20:47  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1376ms)
+2026-04-13 22:20:47  INFO      POST /api/tts → 200  (1377ms)  ip=127.0.0.1
+2026-04-13 22:20:50  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1117ms)
+2026-04-13 22:20:50  INFO      POST /api/tts → 200  (1118ms)  ip=127.0.0.1
+2026-04-13 22:20:53  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1369ms)
+2026-04-13 22:20:53  INFO      POST /api/tts → 200  (1370ms)  ip=127.0.0.1
+2026-04-13 22:20:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1067ms)
+2026-04-13 22:20:55  INFO      POST /api/tts → 200  (1069ms)  ip=127.0.0.1
+2026-04-13 22:21:03  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1289ms)
+2026-04-13 22:21:03  INFO      POST /api/tts → 200  (1290ms)  ip=127.0.0.1
+2026-04-13 22:21:06  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1161ms)
+2026-04-13 22:21:06  INFO      POST /api/tts → 200  (1162ms)  ip=127.0.0.1
+2026-04-13 22:21:09  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1069ms)
+2026-04-13 22:21:09  INFO      POST /api/tts → 200  (1070ms)  ip=127.0.0.1
+2026-04-13 22:21:13  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1436ms)
+2026-04-13 22:21:13  INFO      POST /api/tts → 200  (1437ms)  ip=127.0.0.1
+2026-04-13 22:21:16  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1252ms)
+2026-04-13 22:21:16  INFO      POST /api/tts → 200  (1253ms)  ip=127.0.0.1
+2026-04-13 22:21:18  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (926ms)
+2026-04-13 22:21:18  INFO      POST /api/tts → 200  (927ms)  ip=127.0.0.1
+2026-04-13 22:21:20  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1679ms)
+2026-04-13 22:21:20  INFO      POST /api/tts → 200  (1680ms)  ip=127.0.0.1
+2026-04-13 22:21:22  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (931ms)
+2026-04-13 22:21:22  INFO      POST /api/tts → 200  (932ms)  ip=127.0.0.1
+2026-04-13 22:21:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1430ms)
+2026-04-13 22:21:25  INFO      POST /api/tts → 200  (1431ms)  ip=127.0.0.1
+2026-04-13 22:21:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1105ms)
+2026-04-13 22:21:28  INFO      POST /api/tts → 200  (1106ms)  ip=127.0.0.1
+2026-04-13 22:21:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1172ms)
+2026-04-13 22:21:30  INFO      POST /api/tts → 200  (1173ms)  ip=127.0.0.1
+2026-04-13 22:21:32  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1227ms)
+2026-04-13 22:21:32  INFO      POST /api/tts → 200  (1228ms)  ip=127.0.0.1
+2026-04-13 22:21:42  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1173ms)
+2026-04-13 22:21:42  INFO      POST /api/tts → 200  (1175ms)  ip=127.0.0.1
+2026-04-13 22:21:44  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1181ms)
+2026-04-13 22:21:44  INFO      POST /api/tts → 200  (1182ms)  ip=127.0.0.1
+2026-04-13 22:30:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 22:30:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 22:30:55  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1994  remaining_req=999  remaining_tok=9303  reset_req=1m26.4s
+2026-04-13 22:30:55  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='然后'  en='Then'  (445ms)
+2026-04-13 22:30:55  INFO      POST /api/translate → 200  (448ms)  ip=127.0.0.1
+2026-04-13 22:30:55  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-13 22:30:55  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-13 22:30:58  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1180ms)
+2026-04-13 22:30:58  INFO      POST /api/tts → 200  (1181ms)  ip=127.0.0.1
+2026-04-13 22:31:16  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 22:31:16  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 22:31:16  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1888s
+2026-04-13 22:31:17  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2247  remaining_req=14399  remaining_tok=3283  reset_req=6s
+2026-04-13 22:31:17  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今日我起床咗，然後食咗早餐，然後去返工 —'  en='Today I got up, then had brea  (800ms)
+2026-04-13 22:31:17  INFO      POST /api/translate → 200  (802ms)  ip=127.0.0.1
+2026-04-13 22:31:17  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-13 22:31:17  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-13 22:31:56  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=20  (1133ms)
+2026-04-13 22:31:56  INFO      POST /api/tts → 200  (1135ms)  ip=127.0.0.1
+2026-04-13 22:33:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-13 22:33:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-13 22:33:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1778s
+2026-04-13 22:33:02  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2235  remaining_req=14399  remaining_tok=3289  reset_req=6s
+2026-04-13 22:33:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天我起床了，然后吃了早餐，然后去上班了'  en='Today I got up, then had brea  (849ms)
+2026-04-13 22:33:02  INFO      POST /api/translate → 200  (851ms)  ip=127.0.0.1
+2026-04-13 22:33:02  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-13 22:33:02  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-13 22:33:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=19  (1217ms)
+2026-04-13 22:33:07  INFO      POST /api/tts → 200  (1218ms)  ip=127.0.0.1

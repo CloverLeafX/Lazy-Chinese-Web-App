@@ -1,0 +1,512 @@
+2026-04-12 10:31:59  INFO      GET /cosyvoice → 200  (21ms)  ip=127.0.0.1
+2026-04-12 10:32:17  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (14039ms)
+2026-04-12 10:32:17  INFO      POST /api/tts/cosyvoice → 200  (14042ms)  ip=127.0.0.1
+2026-04-12 10:32:20  WARNING   GET /favicon.ico → 404  (5ms)  ip=127.0.0.1
+2026-04-12 10:32:26  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (5205ms)
+2026-04-12 10:32:26  INFO      POST /api/tts/cosyvoice → 200  (5208ms)  ip=127.0.0.1
+2026-04-12 10:32:36  INFO      [CosyVoice2] local  speaker=中文女  chars=20  (4944ms)
+2026-04-12 10:32:36  INFO      POST /api/tts/cosyvoice → 200  (4944ms)  ip=127.0.0.1
+2026-04-12 10:33:19  INFO      [CosyVoice2] local  speaker=中文男  chars=20  (6130ms)
+2026-04-12 10:33:19  INFO      POST /api/tts/cosyvoice → 200  (6134ms)  ip=127.0.0.1
+2026-04-12 10:36:06  INFO      ============================================================
+2026-04-12 10:36:06  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 10:36:06  INFO      ============================================================
+2026-04-12 10:37:14  INFO      GET /openai-tts → 200  (8ms)  ip=127.0.0.1
+2026-04-12 10:37:17  WARNING   POST /api/tts/openai → 500  (1ms)  ip=127.0.0.1
+2026-04-12 10:37:47  WARNING   POST /api/tts/openai → 500  (1ms)  ip=127.0.0.1
+2026-04-12 10:37:47  WARNING   POST /api/tts/openai → 500  (0ms)  ip=127.0.0.1
+2026-04-12 10:37:47  WARNING   POST /api/tts/openai → 500  (0ms)  ip=127.0.0.1
+2026-04-12 10:37:47  WARNING   POST /api/tts/openai → 500  (0ms)  ip=127.0.0.1
+2026-04-12 10:37:48  WARNING   POST /api/tts/openai → 500  (0ms)  ip=127.0.0.1
+2026-04-12 10:37:48  WARNING   POST /api/tts/openai → 500  (0ms)  ip=127.0.0.1
+2026-04-12 10:38:11  INFO      ============================================================
+2026-04-12 10:38:11  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 10:38:11  INFO      ============================================================
+2026-04-12 10:38:33  INFO      GET /openai-tts → 200  (6ms)  ip=127.0.0.1
+2026-04-12 10:38:36  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:36  WARNING   POST /api/tts/openai → 500  (1154ms)  ip=127.0.0.1
+2026-04-12 10:38:37  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:37  WARNING   POST /api/tts/openai → 500  (1297ms)  ip=127.0.0.1
+2026-04-12 10:38:38  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:38  WARNING   POST /api/tts/openai → 500  (890ms)  ip=127.0.0.1
+2026-04-12 10:38:39  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:39  WARNING   POST /api/tts/openai → 500  (241ms)  ip=127.0.0.1
+2026-04-12 10:38:40  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:40  WARNING   POST /api/tts/openai → 500  (520ms)  ip=127.0.0.1
+2026-04-12 10:38:41  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:41  WARNING   POST /api/tts/openai → 500  (497ms)  ip=127.0.0.1
+2026-04-12 10:38:45  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:38:45  WARNING   POST /api/tts/openai → 500  (549ms)  ip=127.0.0.1
+2026-04-12 10:39:13  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:39:13  WARNING   POST /api/tts/openai → 500  (275ms)  ip=127.0.0.1
+2026-04-12 10:39:16  INFO      GET /openai-tts → 200  (1ms)  ip=127.0.0.1
+2026-04-12 10:39:18  ERROR     [OpenAI TTS] HTTP Error 429: Too Many Requests
+2026-04-12 10:39:18  WARNING   POST /api/tts/openai → 500  (501ms)  ip=127.0.0.1
+2026-04-12 10:40:09  INFO      ============================================================
+2026-04-12 10:40:09  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 10:40:09  INFO      ============================================================
+2026-04-12 10:40:42  INFO      GET /openai-tts → 200  (6ms)  ip=127.0.0.1
+2026-04-12 10:40:45  WARNING   [OpenAI TTS] 429 rate limit, retrying in 20s (attempt 1)
+2026-04-12 10:41:05  WARNING   [OpenAI TTS] 429 rate limit, retrying in 40s (attempt 2)
+2026-04-12 10:41:46  WARNING   [OpenAI TTS] 429 rate limit, retrying in 60s (attempt 3)
+2026-04-12 10:42:46  ERROR     [OpenAI TTS] HTTP 429: HTTP Error 429: Too Many Requests
+2026-04-12 10:42:46  WARNING   POST /api/tts/openai → 500  (121416ms)  ip=127.0.0.1
+2026-04-12 11:04:47  WARNING   [OpenAI TTS] 429 rate limit, retrying in 20s (attempt 1)
+2026-04-12 11:05:08  WARNING   [OpenAI TTS] 429 rate limit, retrying in 40s (attempt 2)
+2026-04-12 11:05:48  WARNING   [OpenAI TTS] 429 rate limit, retrying in 60s (attempt 3)
+2026-04-12 11:06:44  INFO      ============================================================
+2026-04-12 11:06:44  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 11:06:44  INFO      ============================================================
+2026-04-12 11:07:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 11:07:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 11:07:48  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2320  remaining_req=999  remaining_tok=9281  reset_req=1m26.4s
+2026-04-12 11:07:48  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我上个星期和Tim去了'X'。还好，但是很安静。很高兴回到  en="I went to 'X' with Tim last w  (1317ms)
+2026-04-12 11:07:48  INFO      POST /api/translate → 200  (1318ms)  ip=127.0.0.1
+2026-04-12 11:07:49  INFO      POST /api/dict/segment → 200  (676ms)  ip=127.0.0.1
+2026-04-12 11:07:54  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=30  (2085ms)
+2026-04-12 11:07:54  INFO      POST /api/tts → 200  (2086ms)  ip=127.0.0.1
+2026-04-12 11:08:22  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 11:08:22  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 11:08:23  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2308  remaining_req=998  remaining_tok=9279  reset_req=2m52.8s
+2026-04-12 11:08:23  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我上个星期和'Tim'去了'X'。还好，但是很安静。很高兴  en='I went to X with Tim last wee  (1289ms)
+2026-04-12 11:08:23  INFO      POST /api/translate → 200  (1290ms)  ip=127.0.0.1
+2026-04-12 11:08:23  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-12 11:08:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 11:08:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 11:08:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2337  remaining_req=997  remaining_tok=9690  reset_req=4m19.2s
+2026-04-12 11:08:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我上个星期和 'T' 去了'X'。还好，但是很安静。很高兴  en="I went to 'X' with 'T' last w  (1381ms)
+2026-04-12 11:08:56  INFO      POST /api/translate → 200  (1383ms)  ip=127.0.0.1
+2026-04-12 11:08:56  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 11:09:18  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=32  (1396ms)
+2026-04-12 11:09:18  INFO      POST /api/tts → 200  (1397ms)  ip=127.0.0.1
+2026-04-12 11:09:41  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=34  (4250ms)
+2026-04-12 11:09:41  INFO      POST /api/tts → 200  (4251ms)  ip=127.0.0.1
+2026-04-12 11:09:42  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=34  (996ms)
+2026-04-12 11:09:42  INFO      POST /api/tts → 200  (996ms)  ip=127.0.0.1
+2026-04-12 11:10:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 11:10:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 11:10:21  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2365  remaining_req=996  remaining_tok=9677  reset_req=5m45.6s
+2026-04-12 11:10:21  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我上个星期和mywife 去了'X'。还好，但是很安静。很  en="I went to 'X' with my wife la  (1350ms)
+2026-04-12 11:10:21  INFO      POST /api/translate → 200  (1351ms)  ip=127.0.0.1
+2026-04-12 11:10:21  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-12 11:10:27  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=30  (1289ms)
+2026-04-12 11:10:27  INFO      POST /api/tts → 200  (1290ms)  ip=127.0.0.1
+2026-04-12 18:25:53  INFO      ============================================================
+2026-04-12 18:25:53  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 18:25:53  INFO      ============================================================
+2026-04-12 18:26:07  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:26:07  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:26:09  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2375  remaining_req=999  remaining_tok=9278  reset_req=1m26.4s
+2026-04-12 18:26:09  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src="我上个星期和mywife 去了'X'。还好，但是很安静。很  en="I went to 'X' with my wife la  (1697ms)
+2026-04-12 18:26:09  INFO      POST /api/translate → 200  (1698ms)  ip=127.0.0.1
+2026-04-12 18:26:09  INFO      POST /api/dict/segment → 200  (596ms)  ip=127.0.0.1
+2026-04-12 18:26:13  WARNING   [TTS] Edge TTS failed (503, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=128d18fd8d404aed8c887ee09515c36a&Sec-MS-GEC=AD7E53CA48E89919B2251F7BACCEE3D1EE9336D24AA72938F1637055DC89CBE2&Sec-MS-GEC-Version=1-143.0.3650.75') — falling back to gTTS
+2026-04-12 18:26:14  INFO      POST /api/tts → 200  (4210ms)  ip=127.0.0.1
+2026-04-12 18:29:37  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:29:37  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:29:38  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2036  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-12 18:29:38  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='how is the weather?'  en='How is the weather?'  (584ms)
+2026-04-12 18:29:38  INFO      POST /api/translate → 200  (586ms)  ip=127.0.0.1
+2026-04-12 18:29:38  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-12 18:30:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:30:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:30:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2011  remaining_req=998  remaining_tok=9649  reset_req=2m52.8s
+2026-04-12 18:30:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='be careful'  en='Be careful'  (434ms)
+2026-04-12 18:30:20  INFO      POST /api/translate → 200  (436ms)  ip=127.0.0.1
+2026-04-12 18:30:20  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:31:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:31:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:31:46  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2055  remaining_req=997  remaining_tok=9964  reset_req=4m19.2s
+2026-04-12 18:31:46  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i started with my x'  en='I started with my X'  (906ms)
+2026-04-12 18:31:46  INFO      POST /api/translate → 200  (907ms)  ip=127.0.0.1
+2026-04-12 18:31:46  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-12 18:34:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:34:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:34:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2081  remaining_req=998  remaining_tok=9646  reset_req=2m52.8s
+2026-04-12 18:34:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='it feels better then good'  en='It feels better than good'  (703ms)
+2026-04-12 18:34:57  INFO      POST /api/translate → 200  (705ms)  ip=127.0.0.1
+2026-04-12 18:34:57  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-12 18:35:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:35:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:35:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2057  remaining_req=997  remaining_tok=9299  reset_req=4m19.2s
+2026-04-12 18:35:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='feels better then good'  en='feels better than good'  (659ms)
+2026-04-12 18:35:13  INFO      POST /api/translate → 200  (661ms)  ip=127.0.0.1
+2026-04-12 18:35:13  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-12 18:36:19  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:36:19  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:36:19  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2023  remaining_req=996  remaining_tok=9948  reset_req=5m45.6s
+2026-04-12 18:36:19  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='data analysis'  en='Data analysis'  (611ms)
+2026-04-12 18:36:19  INFO      POST /api/translate → 200  (613ms)  ip=127.0.0.1
+2026-04-12 18:36:19  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-12 18:42:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:42:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:42:51  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1992  remaining_req=999  remaining_tok=9303  reset_req=1m26.4s
+2026-04-12 18:42:51  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='massage'  en='massage'  (736ms)
+2026-04-12 18:42:51  INFO      POST /api/translate → 200  (739ms)  ip=127.0.0.1
+2026-04-12 18:42:51  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:43:21  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:43:22  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:43:22  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2102  remaining_req=998  remaining_tok=9300  reset_req=2m52.8s
+2026-04-12 18:43:22  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='massage makes better?'  en='Does massage make you feel be  (889ms)
+2026-04-12 18:43:22  INFO      POST /api/translate → 200  (899ms)  ip=127.0.0.1
+2026-04-12 18:43:22  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-12 18:46:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:46:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:46:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2024  remaining_req=999  remaining_tok=9900  reset_req=1m26.4s
+2026-04-12 18:46:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='cant remember'  en="can't remember"  (554ms)
+2026-04-12 18:46:45  INFO      POST /api/translate → 200  (557ms)  ip=127.0.0.1
+2026-04-12 18:46:45  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-12 18:47:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:47:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:47:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2039  remaining_req=998  remaining_tok=9899  reset_req=2m52.8s
+2026-04-12 18:47:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i cant remember'  en="I don't remember"  (585ms)
+2026-04-12 18:47:00  INFO      POST /api/translate → 200  (587ms)  ip=127.0.0.1
+2026-04-12 18:47:00  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:50:52  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:50:52  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:50:52  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2005  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-12 18:50:52  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='windy'  en='windy'  (536ms)
+2026-04-12 18:50:52  INFO      POST /api/translate → 200  (538ms)  ip=127.0.0.1
+2026-04-12 18:50:52  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:51:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:51:01  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:51:01  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2036  remaining_req=998  remaining_tok=8957  reset_req=2m52.8s
+2026-04-12 18:51:01  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='it was windy today'  en='It was windy today.'  (524ms)
+2026-04-12 18:51:01  INFO      POST /api/translate → 200  (526ms)  ip=127.0.0.1
+2026-04-12 18:51:01  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-12 18:51:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:51:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:51:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2000  remaining_req=997  remaining_tok=9996  reset_req=4m19.2s
+2026-04-12 18:51:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='try'  en='try'  (493ms)
+2026-04-12 18:51:44  INFO      POST /api/translate → 200  (495ms)  ip=127.0.0.1
+2026-04-12 18:51:44  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:52:12  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:52:12  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:52:12  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2019  remaining_req=996  remaining_tok=9301  reset_req=5m45.6s
+2026-04-12 18:52:12  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='listening is hard'  en='Listening is hard'  (427ms)
+2026-04-12 18:52:12  INFO      POST /api/translate → 200  (429ms)  ip=127.0.0.1
+2026-04-12 18:52:12  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:52:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:52:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:52:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2021  remaining_req=995  remaining_tok=9981  reset_req=7m12s
+2026-04-12 18:52:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='slow slow walk'  en='walk slowly'  (519ms)
+2026-04-12 18:52:45  INFO      POST /api/translate → 200  (521ms)  ip=127.0.0.1
+2026-04-12 18:52:45  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 18:54:05  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:54:06  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:54:06  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2085  remaining_req=994  remaining_tok=9991  reset_req=8m38.4s
+2026-04-12 18:54:06  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='how is weather where you are'  en='How is the weather where you   (631ms)
+2026-04-12 18:54:06  INFO      POST /api/translate → 200  (633ms)  ip=127.0.0.1
+2026-04-12 18:54:06  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-12 18:58:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 18:58:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 18:58:21  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2011  remaining_req=995  remaining_tok=9919  reset_req=7m12s
+2026-04-12 18:58:21  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='saturday'  en='Saturday'  (575ms)
+2026-04-12 18:58:21  INFO      POST /api/translate → 200  (579ms)  ip=127.0.0.1
+2026-04-12 18:58:21  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-12 18:58:32  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1149ms)
+2026-04-12 18:58:32  INFO      POST /api/tts → 200  (1151ms)  ip=127.0.0.1
+2026-04-12 18:58:35  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=3  (1522ms)
+2026-04-12 18:58:35  INFO      POST /api/tts → 200  (1523ms)  ip=127.0.0.1
+2026-04-12 19:00:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:00:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:00:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2004  remaining_req=995  remaining_tok=9303  reset_req=7m12s
+2026-04-12 19:00:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='birthday'  en='birthday'  (407ms)
+2026-04-12 19:00:44  INFO      POST /api/translate → 200  (410ms)  ip=127.0.0.1
+2026-04-12 19:00:44  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 19:00:53  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1470ms)
+2026-04-12 19:00:53  INFO      POST /api/tts → 200  (1473ms)  ip=127.0.0.1
+2026-04-12 19:01:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:01:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:01:59  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2072  remaining_req=994  remaining_tok=9915  reset_req=8m38.4s
+2026-04-12 19:01:59  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='呢的生日我不会'  en="I don't know her birthday"  (566ms)
+2026-04-12 19:01:59  INFO      POST /api/translate → 200  (568ms)  ip=127.0.0.1
+2026-04-12 19:01:59  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-12 19:02:29  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:02:29  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:02:29  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2120  remaining_req=993  remaining_tok=9990  reset_req=10m4.8s
+2026-04-12 19:02:29  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i cant come home for your bir  en="I can't come home for your bi  (698ms)
+2026-04-12 19:02:29  INFO      POST /api/translate → 200  (700ms)  ip=127.0.0.1
+2026-04-12 19:02:29  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-12 19:02:44  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=12  (1762ms)
+2026-04-12 19:02:44  INFO      POST /api/tts → 200  (1765ms)  ip=127.0.0.1
+2026-04-12 19:03:07  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (970ms)
+2026-04-12 19:03:07  INFO      POST /api/tts → 200  (973ms)  ip=127.0.0.1
+2026-04-12 19:03:08  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (987ms)
+2026-04-12 19:03:08  INFO      POST /api/tts → 200  (988ms)  ip=127.0.0.1
+2026-04-12 19:03:12  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (933ms)
+2026-04-12 19:03:12  INFO      POST /api/tts → 200  (934ms)  ip=127.0.0.1
+2026-04-12 19:03:21  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (1104ms)
+2026-04-12 19:03:21  INFO      POST /api/tts → 200  (1106ms)  ip=127.0.0.1
+2026-04-12 19:03:25  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (994ms)
+2026-04-12 19:03:25  INFO      POST /api/tts → 200  (995ms)  ip=127.0.0.1
+2026-04-12 19:04:32  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:04:32  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:04:33  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2159  remaining_req=993  remaining_tok=9292  reset_req=10m4.8s
+2026-04-12 19:04:33  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我回不去，赶不上你的生日了'  en="I won't be able to make it ba  (939ms)
+2026-04-12 19:04:33  INFO      POST /api/translate → 200  (943ms)  ip=127.0.0.1
+2026-04-12 19:04:33  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-12 19:04:36  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=13  (1120ms)
+2026-04-12 19:04:36  INFO      POST /api/tts → 200  (1121ms)  ip=127.0.0.1
+2026-04-12 19:04:47  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=13  (876ms)
+2026-04-12 19:04:47  INFO      POST /api/tts → 200  (879ms)  ip=127.0.0.1
+2026-04-12 19:04:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=14  (1933ms)
+2026-04-12 19:04:50  INFO      POST /api/tts → 200  (1934ms)  ip=127.0.0.1
+2026-04-12 19:05:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:05:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:05:10  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2189  remaining_req=992  remaining_tok=9908  reset_req=11m31.2s
+2026-04-12 19:05:10  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我那时候回不了家，赶不上你生日'  en="I couldn't go back home at th  (947ms)
+2026-04-12 19:05:10  INFO      POST /api/translate → 200  (949ms)  ip=127.0.0.1
+2026-04-12 19:05:10  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-12 19:05:10  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:05:10  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:05:11  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2189  remaining_req=991  remaining_tok=8005  reset_req=12m57.599s
+2026-04-12 19:05:11  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我那时候回不了家，赶不上你生日'  en="I couldn't go back home at th  (892ms)
+2026-04-12 19:05:11  INFO      POST /api/translate → 200  (895ms)  ip=127.0.0.1
+2026-04-12 19:05:11  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 19:05:13  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1038ms)
+2026-04-12 19:05:13  INFO      POST /api/tts → 200  (1039ms)  ip=127.0.0.1
+2026-04-12 19:05:20  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (906ms)
+2026-04-12 19:05:20  INFO      POST /api/tts → 200  (907ms)  ip=127.0.0.1
+2026-04-12 19:05:25  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (864ms)
+2026-04-12 19:05:25  INFO      POST /api/tts → 200  (865ms)  ip=127.0.0.1
+2026-04-12 19:05:28  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=14  (1726ms)
+2026-04-12 19:05:28  INFO      POST /api/tts → 200  (1727ms)  ip=127.0.0.1
+2026-04-12 19:05:36  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=14  (880ms)
+2026-04-12 19:05:36  INFO      POST /api/tts → 200  (881ms)  ip=127.0.0.1
+2026-04-12 19:30:04  INFO      GET / → 304  (11ms)  ip=127.0.0.1
+2026-04-12 19:30:04  INFO      GET /static/styles.css → 304  (3ms)  ip=127.0.0.1
+2026-04-12 19:30:04  INFO      GET /static/app.js → 304  (1ms)  ip=127.0.0.1
+2026-04-12 19:30:04  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-12 19:30:04  INFO      GET /api/structure → 200  (112ms)  ip=127.0.0.1
+2026-04-12 19:30:05  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-12 19:30:05  INFO      GET /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-12 19:51:26  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (999ms)
+2026-04-12 19:51:26  INFO      POST /api/tts → 200  (1003ms)  ip=127.0.0.1
+2026-04-12 19:51:34  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (970ms)
+2026-04-12 19:51:34  INFO      POST /api/tts → 200  (971ms)  ip=127.0.0.1
+2026-04-12 19:52:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:52:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:52:16  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2161  remaining_req=999  remaining_tok=9293  reset_req=1m26.4s
+2026-04-12 19:52:16  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='真不好意思，我回不去赶你生日'  en="I'm so sorry, I won't be able  (896ms)
+2026-04-12 19:52:16  INFO      POST /api/translate → 200  (899ms)  ip=127.0.0.1
+2026-04-12 19:52:16  INFO      POST /api/dict/segment → 200  (99ms)  ip=127.0.0.1
+2026-04-12 19:52:19  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=14  (1198ms)
+2026-04-12 19:52:19  INFO      POST /api/tts → 200  (1199ms)  ip=127.0.0.1
+2026-04-12 19:52:38  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=14  (993ms)
+2026-04-12 19:52:38  INFO      POST /api/tts → 200  (997ms)  ip=127.0.0.1
+2026-04-12 19:52:39  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=14  (869ms)
+2026-04-12 19:52:39  INFO      POST /api/tts → 200  (870ms)  ip=127.0.0.1
+2026-04-12 19:52:50  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (1719ms)
+2026-04-12 19:52:50  INFO      POST /api/tts → 200  (1720ms)  ip=127.0.0.1
+2026-04-12 19:52:55  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (900ms)
+2026-04-12 19:52:55  INFO      POST /api/tts → 200  (901ms)  ip=127.0.0.1
+2026-04-12 19:52:59  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=13  (981ms)
+2026-04-12 19:52:59  INFO      POST /api/tts → 200  (983ms)  ip=127.0.0.1
+2026-04-12 19:53:53  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=14  (989ms)
+2026-04-12 19:53:53  INFO      POST /api/tts → 200  (1005ms)  ip=127.0.0.1
+2026-04-12 19:54:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 19:54:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 19:54:34  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2196  remaining_req=999  remaining_tok=9287  reset_req=1m26.4s
+2026-04-12 19:54:34  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='唔好意思，我返唔到去庆祝你生日囉'  en="Sorry, I won't be able to att  (845ms)
+2026-04-12 19:54:34  INFO      POST /api/translate → 200  (846ms)  ip=127.0.0.1
+2026-04-12 19:54:34  INFO      POST /api/dict/segment → 200  (46ms)  ip=127.0.0.1
+2026-04-12 19:54:37  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=16  (2318ms)
+2026-04-12 19:54:37  INFO      POST /api/tts → 200  (2319ms)  ip=127.0.0.1
+2026-04-12 19:54:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=17  (1235ms)
+2026-04-12 19:54:45  INFO      POST /api/tts → 200  (1237ms)  ip=127.0.0.1
+2026-04-12 20:06:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:06:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:06:54  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2195  remaining_req=999  remaining_tok=9287  reset_req=1m26.4s
+2026-04-12 20:06:54  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='唔好意思，我返唔到去庆祝你生日囉'  en="Sorry, I won't be able to att  (1049ms)
+2026-04-12 20:06:54  INFO      POST /api/translate → 200  (1053ms)  ip=127.0.0.1
+2026-04-12 20:06:54  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-12 20:27:46  INFO      ============================================================
+2026-04-12 20:27:46  INFO      Canto → Mando server starting  port=8800  logs=/Users/kai/Library/CloudStorage/OneDrive-HumeConsulting/My Documents OneDrive/Python Apps/Canto_Mando_App/Canto_Mando_Viewer/logs
+2026-04-12 20:27:46  INFO      ============================================================
+2026-04-12 20:28:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:28:01  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:28:02  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2005  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-12 20:28:02  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你好'  en='Hello'  (755ms)
+2026-04-12 20:28:02  INFO      POST /api/translate → 200  (756ms)  ip=127.0.0.1
+2026-04-12 20:29:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:29:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:29:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2052  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-12 20:29:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我一会儿会吃'  en="I'll eat in a while"  (474ms)
+2026-04-12 20:29:44  INFO      POST /api/translate → 200  (476ms)  ip=127.0.0.1
+2026-04-12 20:29:45  INFO      POST /api/dict/segment → 200  (661ms)  ip=127.0.0.1
+2026-04-12 20:29:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:29:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:29:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2325  remaining_req=998  remaining_tok=9531  reset_req=2m52.8s
+2026-04-12 20:29:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你通常每個月都會花很多錢嗎？你控制得了自己花多少錢嗎？'  en='Do you usually spend a lot of  (1199ms)
+2026-04-12 20:29:57  INFO      POST /api/translate → 200  (1203ms)  ip=127.0.0.1
+2026-04-12 20:29:57  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-12 20:30:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:30:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:30:17  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2576  remaining_req=997  remaining_tok=9261  reset_req=4m19.2s
+2026-04-12 20:30:17  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1493ms)
+2026-04-12 20:30:17  INFO      POST /api/translate → 200  (1497ms)  ip=127.0.0.1
+2026-04-12 20:30:17  INFO      POST /api/dict/segment → 200  (20ms)  ip=127.0.0.1
+2026-04-12 20:31:14  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1138ms)
+2026-04-12 20:31:14  INFO      POST /api/tts → 200  (1146ms)  ip=127.0.0.1
+2026-04-12 20:31:48  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=46  (1353ms)
+2026-04-12 20:31:48  INFO      POST /api/tts → 200  (1355ms)  ip=127.0.0.1
+2026-04-12 20:32:21  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=4  (1021ms)
+2026-04-12 20:32:21  INFO      POST /api/tts → 200  (1024ms)  ip=127.0.0.1
+2026-04-12 20:32:26  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=4  (1562ms)
+2026-04-12 20:32:26  INFO      POST /api/tts → 200  (1563ms)  ip=127.0.0.1
+2026-04-12 20:33:00  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (994ms)
+2026-04-12 20:33:00  INFO      POST /api/tts → 200  (996ms)  ip=127.0.0.1
+2026-04-12 20:33:02  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=1  (1149ms)
+2026-04-12 20:33:02  INFO      POST /api/tts → 200  (1150ms)  ip=127.0.0.1
+2026-04-12 20:33:04  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=1  (796ms)
+2026-04-12 20:33:04  INFO      POST /api/tts → 200  (797ms)  ip=127.0.0.1
+2026-04-12 20:33:34  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:33:34  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:33:35  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2196  remaining_req=998  remaining_tok=9680  reset_req=2m52.8s
+2026-04-12 20:33:35  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='唔好意思，我返唔到去庆祝你生日囉'  en="Sorry, I won't be able to att  (932ms)
+2026-04-12 20:33:35  INFO      POST /api/translate → 200  (933ms)  ip=127.0.0.1
+2026-04-12 20:37:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:37:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:37:10  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2577  remaining_req=999  remaining_tok=9654  reset_req=1m26.4s
+2026-04-12 20:37:10  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1589ms)
+2026-04-12 20:37:10  INFO      POST /api/translate → 200  (1591ms)  ip=127.0.0.1
+2026-04-12 20:37:10  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-12 20:39:36  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:39:36  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:39:37  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2572  remaining_req=999  remaining_tok=9423  reset_req=1m26.4s
+2026-04-12 20:39:37  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1505ms)
+2026-04-12 20:39:37  INFO      POST /api/translate → 200  (1509ms)  ip=127.0.0.1
+2026-04-12 20:39:38  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-12 20:43:25  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:43:25  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:43:26  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2571  remaining_req=999  remaining_tok=9261  reset_req=1m26.4s
+2026-04-12 20:43:26  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1758ms)
+2026-04-12 20:43:26  INFO      POST /api/translate → 200  (1818ms)  ip=127.0.0.1
+2026-04-12 20:43:27  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-12 20:43:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:43:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:43:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2577  remaining_req=998  remaining_tok=9429  reset_req=2m52.8s
+2026-04-12 20:43:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1543ms)
+2026-04-12 20:43:45  INFO      POST /api/translate → 200  (1545ms)  ip=127.0.0.1
+2026-04-12 20:43:45  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-12 20:45:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:45:01  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:45:01  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1325s
+2026-04-12 20:45:02  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2608  remaining_req=14399  remaining_tok=3261  reset_req=6s
+2026-04-12 20:45:02  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1308ms)
+2026-04-12 20:45:02  INFO      POST /api/translate → 200  (1311ms)  ip=127.0.0.1
+2026-04-12 20:45:02  INFO      POST /api/dict/segment → 200  (24ms)  ip=127.0.0.1
+2026-04-12 20:45:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:45:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:45:35  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1431s
+2026-04-12 20:45:36  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2629  remaining_req=14399  remaining_tok=3234  reset_req=6s
+2026-04-12 20:45:36  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1198ms)
+2026-04-12 20:45:36  INFO      POST /api/translate → 200  (1201ms)  ip=127.0.0.1
+2026-04-12 20:45:36  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-12 20:48:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:48:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:48:44  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1242s
+2026-04-12 20:48:45  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2620  remaining_req=14399  remaining_tok=3392  reset_req=6s
+2026-04-12 20:48:45  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1473ms)
+2026-04-12 20:48:45  INFO      POST /api/translate → 200  (1476ms)  ip=127.0.0.1
+2026-04-12 20:48:45  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-12 20:54:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 20:54:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 20:54:53  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=873s
+2026-04-12 20:54:54  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2602  remaining_req=14399  remaining_tok=3261  reset_req=6s
+2026-04-12 20:54:54  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1172ms)
+2026-04-12 20:54:54  INFO      POST /api/translate → 200  (1174ms)  ip=127.0.0.1
+2026-04-12 20:54:54  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-12 21:00:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:00:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:00:20  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=546s
+2026-04-12 21:00:21  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2626  remaining_req=14399  remaining_tok=3261  reset_req=6s
+2026-04-12 21:00:21  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1277ms)
+2026-04-12 21:00:21  INFO      POST /api/translate → 200  (1280ms)  ip=127.0.0.1
+2026-04-12 21:00:22  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-12 21:00:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:00:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:00:49  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=518s
+2026-04-12 21:00:49  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2526  remaining_req=14399  remaining_tok=2812  reset_req=6s
+2026-04-12 21:00:49  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1065ms)
+2026-04-12 21:00:49  INFO      POST /api/translate → 200  (1067ms)  ip=127.0.0.1
+2026-04-12 21:00:49  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-12 21:14:41  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:14:41  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:14:43  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2576  remaining_req=999  remaining_tok=9261  reset_req=1m26.4s
+2026-04-12 21:14:43  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Can you make tomato scrambled  (1740ms)
+2026-04-12 21:14:43  INFO      POST /api/translate → 200  (1749ms)  ip=127.0.0.1
+2026-04-12 21:14:43  INFO      POST /api/dict/segment → 200  (24ms)  ip=127.0.0.1
+2026-04-12 21:16:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:16:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:16:02  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2148s
+2026-04-12 21:16:03  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2548  remaining_req=14399  remaining_tok=3261  reset_req=6s
+2026-04-12 21:16:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1157ms)
+2026-04-12 21:16:03  INFO      POST /api/translate → 200  (1159ms)  ip=127.0.0.1
+2026-04-12 21:16:03  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-12 21:16:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:16:50  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:16:50  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2241s
+2026-04-12 21:16:51  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2641  remaining_req=14399  remaining_tok=3452  reset_req=6s
+2026-04-12 21:16:51  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？你喜欢先炒什么，再炒什么？你会做义大  en='Will you make tomato and egg   (1191ms)
+2026-04-12 21:16:51  INFO      POST /api/translate → 200  (1193ms)  ip=127.0.0.1
+2026-04-12 21:16:51  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-12 21:24:17  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=49  (1391ms)
+2026-04-12 21:24:17  INFO      POST /api/tts → 200  (1394ms)  ip=127.0.0.1
+2026-04-12 21:24:41  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=49  (1119ms)
+2026-04-12 21:24:41  INFO      POST /api/tts → 200  (1121ms)  ip=127.0.0.1
+2026-04-12 21:24:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=49  (995ms)
+2026-04-12 21:24:45  INFO      POST /api/tts → 200  (995ms)  ip=127.0.0.1
+2026-04-12 21:24:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:24:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:24:51  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1733s
+2026-04-12 21:24:51  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2125  remaining_req=14399  remaining_tok=3291  reset_req=6s
+2026-04-12 21:24:52  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你会做西红柿炒鸡蛋吗？'  en='Will you make tomato scramble  (666ms)
+2026-04-12 21:24:52  INFO      POST /api/translate → 200  (669ms)  ip=127.0.0.1
+2026-04-12 21:24:52  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-12 21:24:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (956ms)
+2026-04-12 21:24:55  INFO      POST /api/tts → 200  (956ms)  ip=127.0.0.1
+2026-04-12 21:25:01  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=11  (1589ms)
+2026-04-12 21:25:01  INFO      POST /api/tts → 200  (1590ms)  ip=127.0.0.1
+2026-04-12 21:25:05  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (903ms)
+2026-04-12 21:25:05  INFO      POST /api/tts → 200  (903ms)  ip=127.0.0.1
+2026-04-12 21:25:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (936ms)
+2026-04-12 21:25:30  INFO      POST /api/tts → 200  (939ms)  ip=127.0.0.1
+2026-04-12 21:25:38  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (890ms)
+2026-04-12 21:25:38  INFO      POST /api/tts → 200  (891ms)  ip=127.0.0.1
+2026-04-12 21:25:50  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (855ms)
+2026-04-12 21:25:50  INFO      POST /api/tts → 200  (857ms)  ip=127.0.0.1
+2026-04-12 21:25:54  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (962ms)
+2026-04-12 21:25:54  INFO      POST /api/tts → 200  (963ms)  ip=127.0.0.1
+2026-04-12 21:26:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (824ms)
+2026-04-12 21:26:02  INFO      POST /api/tts → 200  (826ms)  ip=127.0.0.1
+2026-04-12 21:26:09  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (855ms)
+2026-04-12 21:26:09  INFO      POST /api/tts → 200  (856ms)  ip=127.0.0.1
+2026-04-12 21:26:46  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:26:46  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:26:46  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1635s
+2026-04-12 21:26:46  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2013  remaining_req=14399  remaining_tok=3271  reset_req=6s
+2026-04-12 21:26:46  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='/Users/kai/Library/CloudStora  en='This is a README file, likely  (446ms)
+2026-04-12 21:26:46  INFO      POST /api/translate → 200  (448ms)  ip=127.0.0.1
+2026-04-12 21:26:47  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-12 21:26:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:26:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:26:59  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1616s
+2026-04-12 21:27:00  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2381  remaining_req=14399  remaining_tok=1791  reset_req=6s
+2026-04-12 21:27:00  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你最近去过银行办事了吗？你去银行办什么事？什么时候去银行办  en='Have you been to the bank rec  (975ms)
+2026-04-12 21:27:00  INFO      POST /api/translate → 200  (978ms)  ip=127.0.0.1
+2026-04-12 21:27:00  INFO      POST /api/dict/segment → 200  (39ms)  ip=127.0.0.1
+2026-04-12 21:27:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=34  (1168ms)
+2026-04-12 21:27:02  INFO      POST /api/tts → 200  (1169ms)  ip=127.0.0.1
+2026-04-12 21:27:33  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1115ms)
+2026-04-12 21:27:33  INFO      POST /api/tts → 200  (1117ms)  ip=127.0.0.1
+2026-04-12 21:27:41  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=34  (1175ms)
+2026-04-12 21:27:41  INFO      POST /api/tts → 200  (1177ms)  ip=127.0.0.1
+2026-04-12 21:28:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-12 21:28:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-12 21:28:43  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1499s
+2026-04-12 21:28:43  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2122  remaining_req=14399  remaining_tok=3878  reset_req=6s
+2026-04-12 21:28:43  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你最近去过银行办事了吗？'  en='Have you been to the bank rec  (651ms)
+2026-04-12 21:28:43  INFO      POST /api/translate → 200  (653ms)  ip=127.0.0.1
+2026-04-12 21:28:43  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1

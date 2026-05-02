@@ -1,0 +1,1486 @@
+2026-04-17 07:38:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-17 07:38:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/README.md → 304  (42ms)  ip=127.0.0.1
+2026-04-17 07:38:29  INFO      GET /api/notes → 200  (48ms)  ip=127.0.0.1
+2026-04-17 07:38:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:38:35  WARNING   GET /favicon.ico → 404  (18ms)  ip=127.0.0.1
+2026-04-17 07:38:35  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:39:10  INFO      POST /api/notes → 200  (12ms)  ip=127.0.0.1
+2026-04-17 07:39:12  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:39:15  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:39:17  INFO      POST /api/notes → 200  (65ms)  ip=127.0.0.1
+2026-04-17 07:39:25  INFO      POST /api/notes → 200  (12ms)  ip=127.0.0.1
+2026-04-17 07:39:27  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:39:29  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:39:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:39:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:39:35  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2055  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-17 07:39:35  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='最近身体怎么样？'  en='How has your body been lately  (702ms)
+2026-04-17 07:39:35  INFO      POST /api/translate → 200  (705ms)  ip=127.0.0.1
+2026-04-17 07:39:35  INFO      POST /api/dict/segment → 200  (94ms)  ip=127.0.0.1
+2026-04-17 07:39:39  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:39:42  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:39:44  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:39:45  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:39:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:40:25  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:40:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:41:05  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 07:42:35  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:42:41  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:42:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:42:45  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:42:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:42:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:42:52  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:42:52  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:42:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:42:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:42:55  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2111  remaining_req=999  remaining_tok=9941  reset_req=1m26.4s
+2026-04-17 07:42:55  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你们打算什么时候生孩子啊？'  en='When are you planning to have  (769ms)
+2026-04-17 07:42:55  INFO      POST /api/translate → 200  (771ms)  ip=127.0.0.1
+2026-04-17 07:42:56  INFO      POST /api/dict/segment → 200  (64ms)  ip=127.0.0.1
+2026-04-17 07:43:00  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:43:40  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 07:44:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:44:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:08  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:45:11  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:12  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:45:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:14  INFO      POST /api/notes → 200  (41ms)  ip=127.0.0.1
+2026-04-17 07:45:15  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:18  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:19  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:22  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:25  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:30  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:34  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:45:34  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:45:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2192  remaining_req=999  remaining_tok=9290  reset_req=1m26.4s
+2026-04-17 07:45:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我觉得我们可以再等一下， 晚点再生孩子'  en='I think we can wait a bit lon  (1600ms)
+2026-04-17 07:45:36  INFO      POST /api/translate → 200  (1601ms)  ip=127.0.0.1
+2026-04-17 07:45:36  INFO      POST /api/dict/segment → 200  (123ms)  ip=127.0.0.1
+2026-04-17 07:45:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:45:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:45:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:45:55  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:46:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:46:05  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:46:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:47:07  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:47:10  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:47:11  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:47:12  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:47:13  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:47:17  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:47:18  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:47:20  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:47:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:47:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:47:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:48:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:48:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:48:42  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:48:42  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:48:43  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2083  remaining_req=999  remaining_tok=9297  reset_req=1m26.4s
+2026-04-17 07:48:43  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='为什么呀？你现在年轻'  en="Why? You're young now"  (708ms)
+2026-04-17 07:48:43  INFO      POST /api/translate → 200  (712ms)  ip=127.0.0.1
+2026-04-17 07:48:43  INFO      POST /api/dict/segment → 200  (65ms)  ip=127.0.0.1
+2026-04-17 07:48:48  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:48:49  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:49:04  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 07:49:06  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:49:10  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:49:11  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:49:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:49:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:49:13  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2088  remaining_req=998  remaining_tok=9297  reset_req=2m52.8s
+2026-04-17 07:49:14  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='早点神孩子对身体好'  en='Sleeping early is good for th  (638ms)
+2026-04-17 07:49:14  INFO      POST /api/translate → 200  (639ms)  ip=127.0.0.1
+2026-04-17 07:49:14  INFO      POST /api/dict/segment → 200  (28ms)  ip=127.0.0.1
+2026-04-17 07:49:26  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:49:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:49:28  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2110  remaining_req=997  remaining_tok=9776  reset_req=4m19.2s
+2026-04-17 07:49:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='早点生孩子对身体好。'  en="It's good for your health to   (1414ms)
+2026-04-17 07:49:28  INFO      POST /api/translate → 200  (1418ms)  ip=127.0.0.1
+2026-04-17 07:49:28  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-17 07:49:33  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:49:39  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:49:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:49:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:49:46  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2107  remaining_req=996  remaining_tok=9815  reset_req=5m45.6s
+2026-04-17 07:49:46  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='早点生孩子对身体好'  en="It's good for the body to hav  (1074ms)
+2026-04-17 07:49:46  INFO      POST /api/translate → 200  (1077ms)  ip=127.0.0.1
+2026-04-17 07:49:46  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:49:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 07:50:29  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:51:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:18  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:53:22  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:53:24  INFO      POST /api/notes → 200  (7ms)  ip=127.0.0.1
+2026-04-17 07:53:25  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:53:26  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:53:27  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:31  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:53:34  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:36  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:37  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:53:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:53:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:53:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2205  remaining_req=997  remaining_tok=9809  reset_req=4m19.2s
+2026-04-17 07:53:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='不过我还在读书我想毕业时候再生孩子'  en="However, I'm still studying a  (1483ms)
+2026-04-17 07:53:56  INFO      POST /api/translate → 200  (1486ms)  ip=127.0.0.1
+2026-04-17 07:53:56  INFO      POST /api/dict/segment → 200  (68ms)  ip=127.0.0.1
+2026-04-17 07:54:02  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:54:06  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:54:06  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:54:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 07:54:16  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 07:54:18  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:54:23  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:54:29  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:20  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:55:21  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:22  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:25  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:28  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:30  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:31  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:55:32  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:33  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:36  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:55:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:55:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:55:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2141  remaining_req=997  remaining_tok=9295  reset_req=4m19.2s
+2026-04-17 07:55:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='生孩子其实不会影响你读书的'  en="Having children actually won'  (851ms)
+2026-04-17 07:55:45  INFO      POST /api/translate → 200  (855ms)  ip=127.0.0.1
+2026-04-17 07:55:45  INFO      POST /api/dict/segment → 200  (56ms)  ip=127.0.0.1
+2026-04-17 07:55:51  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:55:54  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:01  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 07:56:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:56:41  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:56:42  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:44  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:48  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:50  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:52  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:56:54  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:57:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:57:01  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:57:01  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2092  remaining_req=996  remaining_tok=9800  reset_req=5m45.6s
+2026-04-17 07:57:01  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我们也会帮忙照顾的'  en="We'll also help take care of   (693ms)
+2026-04-17 07:57:01  INFO      POST /api/translate → 200  (694ms)  ip=127.0.0.1
+2026-04-17 07:57:01  INFO      POST /api/dict/segment → 200  (37ms)  ip=127.0.0.1
+2026-04-17 07:57:06  INFO      POST /api/notes → 200  (7ms)  ip=127.0.0.1
+2026-04-17 07:57:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:57:24  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:57:26  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:29  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:57:30  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:33  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:57:36  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:57:38  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:41  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:46  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:49  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:50  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:52  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:53  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:57:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:57:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:57:58  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2279  remaining_req=995  remaining_tok=9851  reset_req=7m12s
+2026-04-17 07:57:58  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我只带你们会帮忙但是生孩子时也个很大的决定 -'  en="I'll only bring you along for  (1123ms)
+2026-04-17 07:57:58  INFO      POST /api/translate → 200  (1125ms)  ip=127.0.0.1
+2026-04-17 07:57:58  INFO      POST /api/dict/segment → 200  (102ms)  ip=127.0.0.1
+2026-04-17 07:58:10  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:58:11  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:12  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:16  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 07:58:19  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:58:20  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:21  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:58:26  INFO      POST /api/notes → 200  (7ms)  ip=127.0.0.1
+2026-04-17 07:58:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:29  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:31  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:36  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:58:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:41  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:42  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:58:58  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:58:58  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:59:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2227  remaining_req=994  remaining_tok=9795  reset_req=8m38.4s
+2026-04-17 07:59:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我知道你们会帮忙但是神孩子是一个很大的决定'  en="I know you'll help, but havin  (1403ms)
+2026-04-17 07:59:00  INFO      POST /api/translate → 200  (1407ms)  ip=127.0.0.1
+2026-04-17 07:59:00  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-17 07:59:05  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 07:59:06  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 07:59:24  INFO      POST /api/notes → 200  (11ms)  ip=127.0.0.1
+2026-04-17 07:59:26  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:30  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:59:31  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:32  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:59:34  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:36  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:59:37  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:39  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:42  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:43  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 07:59:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 07:59:48  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 07:59:48  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2137  remaining_req=993  remaining_tok=9296  reset_req=10m4.8s
+2026-04-17 07:59:48  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我们希望可以准备好再生孩子'  en='We hope to be ready to have a  (789ms)
+2026-04-17 07:59:48  INFO      POST /api/translate → 200  (792ms)  ip=127.0.0.1
+2026-04-17 07:59:49  INFO      POST /api/dict/segment → 200  (25ms)  ip=127.0.0.1
+2026-04-17 07:59:55  INFO      POST /api/notes → 200  (6ms)  ip=127.0.0.1
+2026-04-17 07:59:58  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 07:59:59  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:00:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:00:35  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 08:00:37  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:00:39  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:00:40  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:41  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:00:42  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:00:45  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:46  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:00:47  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:49  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:51  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:00:52  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:54  INFO      POST /api/notes → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:00:56  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:00:59  INFO      POST /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:01:00  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:01  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:02  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:05  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:07  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 08:01:10  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 08:01:10  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2089  remaining_req=992  remaining_tok=9779  reset_req=11m31.2s
+2026-04-17 08:01:10  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='好吧 我支持你们的决定'  en='Okay, I support your decision  (797ms)
+2026-04-17 08:01:10  INFO      POST /api/translate → 200  (798ms)  ip=127.0.0.1
+2026-04-17 08:01:10  INFO      POST /api/dict/segment → 200  (23ms)  ip=127.0.0.1
+2026-04-17 08:01:14  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:01:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 08:01:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:01:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:01:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:01:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:01:58  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:03  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 08:02:04  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:05  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:07  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:10  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:10  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:13  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 08:02:13  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 08:02:14  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2047  remaining_req=991  remaining_tok=9782  reset_req=12m57.599s
+2026-04-17 08:02:14  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='谢谢你的理解'  en='Thank you for your understand  (531ms)
+2026-04-17 08:02:14  INFO      POST /api/translate → 200  (534ms)  ip=127.0.0.1
+2026-04-17 08:02:14  INFO      POST /api/dict/segment → 200  (46ms)  ip=127.0.0.1
+2026-04-17 08:02:19  INFO      POST /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:02:27  INFO      POST /api/notes → 200  (4ms)  ip=127.0.0.1
+2026-04-17 08:22:52  INFO      GET /api/notes → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:22:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/README.md → 304  (6ms)  ip=127.0.0.1
+2026-04-17 08:22:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (5ms)  ip=127.0.0.1
+2026-04-17 08:22:52  INFO      GET /file/Chapter_06_Basic_Mandarin_III/07_CM_SCHOOL_When_Chinese_Elders_Ask_About_Having_Kids/01_When_Chinese_Elders_Ask_Breakdown/When_Chinese_Elders_Ask_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:22:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/01_Vocabulary_List/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:44:39  INFO      GET /api/structure → 200  (128ms)  ip=127.0.0.1
+2026-04-17 08:45:00  INFO      GET / → 304  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:00  INFO      GET /static/app.js → 200  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:00  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:00  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:00  INFO      GET /api/structure → 200  (162ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      GET /api/notes → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      POST /api/notes → 200  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      POST /api/notes → 200  (8ms)  ip=127.0.0.1
+2026-04-17 08:45:02  INFO      POST /api/notes → 200  (13ms)  ip=127.0.0.1
+2026-04-17 08:45:02  WARNING   POST /api/notes → 500  (53ms)  ip=127.0.0.1
+2026-04-17 08:45:02  WARNING   POST /api/notes → 500  (48ms)  ip=127.0.0.1
+2026-04-17 08:45:02  WARNING   POST /api/notes → 500  (55ms)  ip=127.0.0.1
+2026-04-17 08:45:02  WARNING   POST /api/notes → 500  (23ms)  ip=127.0.0.1
+2026-04-17 08:45:02  WARNING   POST /api/notes → 500  (23ms)  ip=127.0.0.1
+2026-04-17 08:45:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/01_Vocabulary_List/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:08  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 200  (8ms)  ip=127.0.0.1
+2026-04-17 08:45:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:10  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:45:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/05_Challenge_13/README.md → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET / → 304  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET /static/app.js → 304  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET /api/structure → 200  (91ms)  ip=127.0.0.1
+2026-04-17 08:45:57  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   GET /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:45:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/05_Challenge_13/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/06_Vocal_Messaging_Hack_13/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET / → 304  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET /static/app.js → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET /static/styles.css → 304  (2ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:46:53  INFO      GET /api/structure → 200  (110ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:46:53  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:46:59  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/06_Vocal_Messaging_Hack_13/README.md → 200  (1ms)  ip=127.0.0.1
+2026-04-17 08:47:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 08:47:07  WARNING   GET /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:47:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/04_Asking_EVEN_MORE_Questions_Practice/04_Asking_EVEN_MORE_Questions_Practice.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:47:10  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:47:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:47:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:47:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:11  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:47:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:47:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:47:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_Lesson_13/01_Vocabulary_List/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 08:52:22  INFO      GET /api/structure → 200  (103ms)  ip=127.0.0.1
+2026-04-17 08:54:15  INFO      GET /api/structure → 200  (82ms)  ip=127.0.0.1
+2026-04-17 08:54:15  INFO      GET /api/structure → 200  (15ms)  ip=127.0.0.1
+2026-04-17 08:54:19  INFO      GET /api/structure → 200  (35ms)  ip=127.0.0.1
+2026-04-17 08:54:20  INFO      GET / → 304  (2ms)  ip=127.0.0.1
+2026-04-17 08:54:20  INFO      GET /static/app.js → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:54:20  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:54:20  INFO      GET /api/curriculum → 304  (1ms)  ip=127.0.0.1
+2026-04-17 08:54:20  INFO      GET /api/structure → 200  (63ms)  ip=127.0.0.1
+2026-04-17 08:54:21  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   GET /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 08:54:21  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 08:54:22  INFO      GET /api/structure → 200  (46ms)  ip=127.0.0.1
+2026-04-17 08:54:25  INFO      GET /api/structure → 200  (38ms)  ip=127.0.0.1
+2026-04-17 08:54:27  WARNING   GET /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-17 08:54:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/01_Answering_Questions_About_Finances_Breakdown/README.md → 200  (8ms)  ip=127.0.0.1
+2026-04-17 08:54:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/01_Answering_Questions_About_Finances_Breakdown/01_Answering_Questions_About_Finances_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:54:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/01_Answering_Questions_About_Finances_Breakdown/01_Answering_Questions_About_Finances_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 08:54:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/01_Answering_Questions_About_Finances_Breakdown/01_Answering_Questions_About_Finances_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 08:54:28  INFO      GET /api/structure → 200  (29ms)  ip=127.0.0.1
+2026-04-17 08:54:31  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/02_Answering_Questions_About_Finances_Vocal_Hacks/README.md → 200  (1ms)  ip=127.0.0.1
+2026-04-17 09:11:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/06_Challenge_12/README.md → 304  (12ms)  ip=127.0.0.1
+2026-04-17 09:11:22  INFO      GET /file/Chapter_05_Basic_Mandarin_II/08_Lesson_08/06_Challenge_8/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-17 09:11:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/09_CM_SCHOOL_Answering_Questions_About_Finances/02_Answering_Questions_About_Finances_Vocal_Hacks/README.md → 304  (7ms)  ip=127.0.0.1
+2026-04-17 09:11:28  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/06_Challenge_12/README.md → 304  (1ms)  ip=127.0.0.1
+2026-04-17 09:11:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/05_Challenge_13/README.md → 200  (2ms)  ip=127.0.0.1
+2026-04-17 09:12:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/06_Challenge_12/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 09:12:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/05_Challenge_13/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 10:56:26  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/01_Vocabulary_List/README.md → 200  (70ms)  ip=127.0.0.1
+2026-04-17 11:15:21  INFO      GET / → 304  (8ms)  ip=127.0.0.1
+2026-04-17 11:15:21  INFO      GET /static/app.js → 304  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:21  INFO      GET /static/styles.css → 304  (3ms)  ip=127.0.0.1
+2026-04-17 11:15:21  INFO      GET /api/curriculum → 200  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:21  INFO      GET /api/structure → 200  (125ms)  ip=127.0.0.1
+2026-04-17 11:15:22  INFO      GET /api/hidden → 200  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   GET /api/notes → 500  (21ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (16ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (22ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 11:15:22  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 11:49:41  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 11:49:41  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 11:49:41  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2018  remaining_req=999  remaining_tok=9266  reset_req=1m26.4s
+2026-04-17 11:49:41  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='/Users/kai/Library/CloudStora  en='This input is a file path and  (568ms)
+2026-04-17 11:49:41  INFO      POST /api/translate → 200  (583ms)  ip=127.0.0.1
+2026-04-17 11:49:41  WARNING   POST /api/dict/segment → 400  (2ms)  ip=127.0.0.1
+2026-04-17 11:49:51  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 11:49:51  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 11:49:52  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2130  remaining_req=998  remaining_tok=8569  reset_req=2m52.8s
+2026-04-17 11:49:52  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='所以有机会一起说普通话'  en='So we have the opportunity to  (826ms)
+2026-04-17 11:49:52  INFO      POST /api/translate → 200  (829ms)  ip=127.0.0.1
+2026-04-17 11:49:52  INFO      POST /api/dict/segment → 200  (103ms)  ip=127.0.0.1
+2026-04-17 11:51:00  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=11  (1113ms)
+2026-04-17 11:51:00  INFO      POST /api/tts → 200  (1121ms)  ip=127.0.0.1
+2026-04-17 12:14:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 12:14:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 200  (24ms)  ip=127.0.0.1
+2026-04-17 12:14:34  WARNING   GET /api/notes → 500  (35ms)  ip=127.0.0.1
+2026-04-17 12:14:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:14:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:14:37  WARNING   GET /favicon.ico → 404  (2ms)  ip=127.0.0.1
+2026-04-17 12:15:02  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:20  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:20  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:22  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-17 12:15:23  WARNING   GET /api/notes → 500  (34ms)  ip=127.0.0.1
+2026-04-17 12:15:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:15:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:25  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:15:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/README.md → 304  (5ms)  ip=127.0.0.1
+2026-04-17 12:15:45  WARNING   GET /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 12:15:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:15:45  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:15:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/02_Asking_EVEN_MORE_Questions_Part_1/02_Asking_EVEN_MORE_Questions_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:16:07  WARNING   GET /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:16:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 12:16:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:16:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:16:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:16:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/10_Lesson_13/03_Asking_EVEN_MORE_Questions_Part_2/03_Asking_EVEN_MORE_Questions_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 200  (6ms)  ip=127.0.0.1
+2026-04-17 12:20:12  WARNING   GET /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 12:20:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:13  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:14  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:20:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:15  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:16  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 12:20:17  WARNING   GET /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:20:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/README.md → 304  (4ms)  ip=127.0.0.1
+2026-04-17 12:20:17  WARNING   GET /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/05_Asking_MORE_Questions_in_Mandarin_Practice/README.md → 200  (3ms)  ip=127.0.0.1
+2026-04-17 12:20:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/05_Asking_MORE_Questions_in_Mandarin_Practice/Asking_MORE_Questions_in_Mandarin_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/05_Asking_MORE_Questions_in_Mandarin_Practice/Asking_MORE_Questions_in_Mandarin_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:17  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/05_Asking_MORE_Questions_in_Mandarin_Practice/Asking_MORE_Questions_in_Mandarin_Practice.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 304  (24ms)  ip=127.0.0.1
+2026-04-17 12:20:43  WARNING   GET /api/notes → 500  (23ms)  ip=127.0.0.1
+2026-04-17 12:20:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:20:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:20:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:50  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:51  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:20:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:53  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:20:56  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:21:37  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 12:21:39  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 12:21:43  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:21:44  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:21:46  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:21:48  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:50  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:55  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:56  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:21:57  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:21:59  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:22:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:22:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:22:03  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2122  remaining_req=999  remaining_tok=9295  reset_req=1m26.4s
+2026-04-17 12:22:03  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='为什么我不可以穿你的鞋子？'  en="Why can't I wear your shoes?"  (855ms)
+2026-04-17 12:22:03  INFO      POST /api/translate → 200  (857ms)  ip=127.0.0.1
+2026-04-17 12:22:03  INFO      POST /api/dict/segment → 200  (107ms)  ip=127.0.0.1
+2026-04-17 12:22:07  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 12:22:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:26:49  WARNING   POST /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-17 12:26:52  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 12:27:00  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:27:01  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:27:02  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:27:05  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 12:27:06  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:27:08  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:27:08  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:27:09  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2074  remaining_req=999  remaining_tok=9297  reset_req=1m26.4s
+2026-04-17 12:27:09  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你为什么要选哇？'  en='Why did you choose it?'  (621ms)
+2026-04-17 12:27:09  INFO      POST /api/translate → 200  (623ms)  ip=127.0.0.1
+2026-04-17 12:27:09  INFO      POST /api/dict/segment → 200  (37ms)  ip=127.0.0.1
+2026-04-17 12:27:19  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:27:22  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:27:26  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-17 12:28:12  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 12:28:13  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:14  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:28:15  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:17  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:28:20  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:21  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:28:22  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:23  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:25  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:26  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:28:29  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:28:29  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:28:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:28:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:28:35  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2144  remaining_req=999  remaining_tok=9296  reset_req=1m26.4s
+2026-04-17 12:28:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我不知道为什么你要选这个专业'  en="I don't know why you chose th  (808ms)
+2026-04-17 12:28:36  INFO      POST /api/translate → 200  (811ms)  ip=127.0.0.1
+2026-04-17 12:28:36  INFO      POST /api/dict/segment → 200  (72ms)  ip=127.0.0.1
+2026-04-17 12:28:40  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:28:46  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:29:18  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 12:29:20  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:22  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:25  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:29:29  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 12:29:30  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:31  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:29:32  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:34  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:36  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:29:42  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:29:42  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:29:42  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2126  remaining_req=998  remaining_tok=9296  reset_req=2m52.8s
+2026-04-17 12:29:42  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='爸爸不知道为什么你需要帮忙'  en="Dad doesn't know why you need  (826ms)
+2026-04-17 12:29:42  INFO      POST /api/translate → 200  (828ms)  ip=127.0.0.1
+2026-04-17 12:29:42  INFO      POST /api/dict/segment → 200  (42ms)  ip=127.0.0.1
+2026-04-17 12:29:46  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:29:47  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:29:52  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:29:55  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:30:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 12:30:42  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 12:30:43  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:30:45  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 12:30:47  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 12:30:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:30:50  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:30:53  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:30:56  WARNING   POST /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-17 12:30:57  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:30:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:31:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:31:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2090  remaining_req=997  remaining_tok=9926  reset_req=4m19.2s
+2026-04-17 12:31:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你可不可以过来帮忙'  en='Can you come over and help?'  (907ms)
+2026-04-17 12:31:00  INFO      POST /api/translate → 200  (910ms)  ip=127.0.0.1
+2026-04-17 12:31:00  INFO      POST /api/dict/segment → 200  (38ms)  ip=127.0.0.1
+2026-04-17 12:31:05  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-17 12:32:23  WARNING   POST /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-17 12:32:24  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:32:29  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:32:32  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:32:34  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:32:36  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:32:38  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:32:38  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:32:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2162  remaining_req=997  remaining_tok=9868  reset_req=4m19.2s
+2026-04-17 12:32:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你怎么可以用这条毛巾来洗碗？'  en='How can you use this towel to  (1405ms)
+2026-04-17 12:32:39  INFO      POST /api/translate → 200  (1407ms)  ip=127.0.0.1
+2026-04-17 12:32:39  INFO      POST /api/dict/segment → 200  (73ms)  ip=127.0.0.1
+2026-04-17 12:32:44  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:33:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 12:33:29  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 12:33:44  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:33:45  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:33:48  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:33:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 12:33:52  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:33:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 12:33:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 12:33:55  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2090  remaining_req=996  remaining_tok=9844  reset_req=5m45.6s
+2026-04-17 12:33:55  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='这道门是怎么管的？'  en='How is this door managed?'  (1556ms)
+2026-04-17 12:33:55  INFO      POST /api/translate → 200  (1558ms)  ip=127.0.0.1
+2026-04-17 12:33:55  INFO      POST /api/dict/segment → 200  (35ms)  ip=127.0.0.1
+2026-04-17 12:33:59  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 12:34:02  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 12:34:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:34:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:34:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:34:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/README.md → 304  (11ms)  ip=127.0.0.1
+2026-04-17 12:34:33  WARNING   GET /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-17 12:34:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 12:34:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:34:33  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 12:34:37  WARNING   GET /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 12:34:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 304  (6ms)  ip=127.0.0.1
+2026-04-17 12:34:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 12:34:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 304  (6ms)  ip=127.0.0.1
+2026-04-17 13:03:01  WARNING   GET /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 13:03:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:01  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/README.md → 304  (7ms)  ip=127.0.0.1
+2026-04-17 13:03:13  WARNING   GET /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 13:03:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:27  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:03:29  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:03:34  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:36  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:37  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:38  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:39  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:41  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:03:44  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:04:03  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 13:04:04  WARNING   GET /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (4ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:04  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/02_Asking_MORE_Questions_in_Mandarin_Part_1/Asking_MORE_Questions_in_Mandarin_Part_1.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:07  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/README.md → 304  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:04:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:04:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:12  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:04:15  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:04:17  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:19  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:20  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:22  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:23  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:26  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:04:27  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:04:28  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:04:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:04:32  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:04:32  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2108  remaining_req=999  remaining_tok=9295  reset_req=1m26.4s
+2026-04-17 13:04:32  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我不只带怎么用中文讲？'  en="I don't know how to say it in  (825ms)
+2026-04-17 13:04:32  INFO      POST /api/translate → 200  (826ms)  ip=127.0.0.1
+2026-04-17 13:04:32  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-17 13:04:37  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:04:47  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:05:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:05:42  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:05:44  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:05:55  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:05:57  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:05:59  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:00  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:03  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:06:03  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:06:04  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:07  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:06:08  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:06:08  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2117  remaining_req=999  remaining_tok=9895  reset_req=1m26.4s
+2026-04-17 13:06:08  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我的朋友不知道怎么上去'  en="My friend doesn't know how to  (863ms)
+2026-04-17 13:06:08  INFO      POST /api/translate → 200  (865ms)  ip=127.0.0.1
+2026-04-17 13:06:08  INFO      POST /api/dict/segment → 200  (28ms)  ip=127.0.0.1
+2026-04-17 13:06:13  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:15  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:06:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:06:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:16  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:19  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:06:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:06:28  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:06:29  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:30  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:06:32  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:37  WARNING   POST /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-17 13:06:38  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:06:40  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:06:40  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:06:43  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:06:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:06:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:06:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2130  remaining_req=998  remaining_tok=9297  reset_req=2m52.8s
+2026-04-17 13:06:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='没有楼梯我不知道怎么下去'  en="I don't know how to get down   (876ms)
+2026-04-17 13:06:45  INFO      POST /api/translate → 200  (877ms)  ip=127.0.0.1
+2026-04-17 13:06:45  INFO      POST /api/dict/segment → 200  (37ms)  ip=127.0.0.1
+2026-04-17 13:06:49  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:06:55  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:07:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:07:43  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:07:57  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 13:08:00  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:08:07  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:08:07  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:08:12  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:08:15  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:08:18  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:08:23  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:08:27  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:08:34  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:08:38  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:08:38  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:08:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2067  remaining_req=998  remaining_tok=9296  reset_req=2m52.8s
+2026-04-17 13:08:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='请问这个是多说钱？'  en='How much is this?'  (810ms)
+2026-04-17 13:08:39  INFO      POST /api/translate → 200  (813ms)  ip=127.0.0.1
+2026-04-17 13:08:39  INFO      POST /api/dict/segment → 200  (44ms)  ip=127.0.0.1
+2026-04-17 13:08:46  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:08:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:08:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:08:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2079  remaining_req=997  remaining_tok=9870  reset_req=4m19.2s
+2026-04-17 13:08:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='请问这个是多说钱'  en='How much is this?'  (701ms)
+2026-04-17 13:08:57  INFO      POST /api/translate → 200  (703ms)  ip=127.0.0.1
+2026-04-17 13:08:57  INFO      POST /api/dict/segment → 200  (31ms)  ip=127.0.0.1
+2026-04-17 13:09:05  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 13:09:07  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:08  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:10  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:12  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:13  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:14  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:15  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:09:16  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:09:18  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:20  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:09:24  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/03_Asking_MORE_Questions_in_Mandarin_Part_2/Asking_MORE_Questions_in_Mandarin_Part_2.mp4 → 206  (9ms)  ip=127.0.0.1
+2026-04-17 13:09:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:09:37  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:09:40  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:09:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:09:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2097  remaining_req=996  remaining_tok=9934  reset_req=5m45.6s
+2026-04-17 13:09:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你带了多少钱出来？'  en='How much money did you bring   (789ms)
+2026-04-17 13:09:44  INFO      POST /api/translate → 200  (792ms)  ip=127.0.0.1
+2026-04-17 13:09:44  INFO      POST /api/dict/segment → 200  (52ms)  ip=127.0.0.1
+2026-04-17 13:09:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:09:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:09:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2097  remaining_req=995  remaining_tok=7983  reset_req=7m12s
+2026-04-17 13:09:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你带了多少钱出来？'  en='How much money did you bring   (669ms)
+2026-04-17 13:09:45  INFO      POST /api/translate → 200  (680ms)  ip=127.0.0.1
+2026-04-17 13:09:45  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-17 13:09:50  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:09:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:09:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:09:57  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2105  remaining_req=994  remaining_tok=8192  reset_req=8m38.4s
+2026-04-17 13:09:57  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='医院里面还有多少人？'  en='How many people are still in   (1132ms)
+2026-04-17 13:09:57  INFO      POST /api/translate → 200  (1135ms)  ip=127.0.0.1
+2026-04-17 13:09:57  INFO      POST /api/dict/segment → 200  (48ms)  ip=127.0.0.1
+2026-04-17 13:10:01  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:10:04  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:10:08  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:09  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:10  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:11  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:10:12  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:16  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:10:36  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:37  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:37  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:10:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:10:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:10:43  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2053  remaining_req=993  remaining_tok=9883  reset_req=10m4.8s
+2026-04-17 13:10:43  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我还没吃饭 -'  en="I haven't eaten yet"  (674ms)
+2026-04-17 13:10:43  INFO      POST /api/translate → 200  (676ms)  ip=127.0.0.1
+2026-04-17 13:10:43  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-17 13:10:47  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:48  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:10:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:50  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:10:52  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:56  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:10:56  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:58  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:10:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:10:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:11:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2077  remaining_req=992  remaining_tok=9869  reset_req=11m31.2s
+2026-04-17 13:11:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我还要去洗碗 -'  en='I still need to go wash the d  (601ms)
+2026-04-17 13:11:00  INFO      POST /api/translate → 200  (602ms)  ip=127.0.0.1
+2026-04-17 13:11:00  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-17 13:11:04  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:11:08  WARNING   GET /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:11:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/README.md → 304  (3ms)  ip=127.0.0.1
+2026-04-17 13:11:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:11:08  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:11:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:11:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:11:13  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:11:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:11:14  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:11:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:11:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:11:54  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1980  remaining_req=991  remaining_tok=9900  reset_req=12m57.599s
+2026-04-17 13:11:54  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='9'  en='Input is a number and cannot   (500ms)
+2026-04-17 13:11:54  INFO      POST /api/translate → 200  (503ms)  ip=127.0.0.1
+2026-04-17 13:11:54  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-17 13:12:21  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (75ms)  ip=127.0.0.1
+2026-04-17 13:12:27  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:12:29  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:12:31  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:12:34  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:12:36  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:12:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:12:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:12:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2070  remaining_req=990  remaining_tok=9883  reset_req=14m24s
+2026-04-17 13:12:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='现在是几点钟？'  en='What time is it now?'  (834ms)
+2026-04-17 13:12:40  INFO      POST /api/translate → 200  (836ms)  ip=127.0.0.1
+2026-04-17 13:12:40  INFO      POST /api/dict/segment → 200  (36ms)  ip=127.0.0.1
+2026-04-17 13:12:45  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:12:48  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:13:42  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 13:13:44  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:13:46  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:13:47  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:13:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:13:52  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:13:53  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:13:55  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:13:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:13:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:13:58  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2120  remaining_req=989  remaining_tok=9869  reset_req=15m50.4s
+2026-04-17 13:13:58  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你身边有几个人喜欢你'  en='How many people around you li  (789ms)
+2026-04-17 13:13:58  INFO      POST /api/translate → 200  (790ms)  ip=127.0.0.1
+2026-04-17 13:13:58  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-17 13:14:06  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:14:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:14:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:14:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:14:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:14:10  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:14:11  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:14:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:14:26  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:14:44  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 13:14:47  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:14:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:14:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:14:52  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:14:53  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:01  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:15:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:15:03  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2049  remaining_req=988  remaining_tok=9897  reset_req=17m16.8s
+2026-04-17 13:15:03  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我喜欢车肉'  en='I like to eat meat'  (1293ms)
+2026-04-17 13:15:03  INFO      POST /api/translate → 200  (1295ms)  ip=127.0.0.1
+2026-04-17 13:15:03  INFO      POST /api/dict/segment → 200  (20ms)  ip=127.0.0.1
+2026-04-17 13:15:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:15:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:15:04  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2049  remaining_req=987  remaining_tok=8103  reset_req=18m43.2s
+2026-04-17 13:15:04  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我喜欢车肉'  en='I like to eat meat'  (1001ms)
+2026-04-17 13:15:04  INFO      POST /api/translate → 200  (1003ms)  ip=127.0.0.1
+2026-04-17 13:15:04  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-17 13:15:07  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:15:08  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:15:11  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:13  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 13:15:14  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:16  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:15:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:15:20  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2044  remaining_req=986  remaining_tok=9404  reset_req=20m9.6s
+2026-04-17 13:15:20  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我很喜欢你 -'  en='I really like you'  (528ms)
+2026-04-17 13:15:20  INFO      POST /api/translate → 200  (530ms)  ip=127.0.0.1
+2026-04-17 13:15:20  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-17 13:15:24  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:15:25  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:28  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:15:30  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 13:15:31  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:15:33  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:15:36  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:15:40  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:46  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:15:49  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:50  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:15:51  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:15:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:15:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:15:54  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2047  remaining_req=985  remaining_tok=9873  reset_req=21m36s
+2026-04-17 13:15:54  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我喜欢听歌'  en='I like listening to songs'  (571ms)
+2026-04-17 13:15:54  INFO      POST /api/translate → 200  (572ms)  ip=127.0.0.1
+2026-04-17 13:15:54  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-17 13:16:00  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 13:16:14  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:17:06  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:17:09  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:17:11  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:17:12  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:17:14  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:17:15  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:17:18  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:17:18  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:17:19  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2096  remaining_req=984  remaining_tok=9868  reset_req=23m2.4s
+2026-04-17 13:17:19  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你想看篮球还是足球？'  en='Do you want to watch basketba  (698ms)
+2026-04-17 13:17:19  INFO      POST /api/translate → 200  (699ms)  ip=127.0.0.1
+2026-04-17 13:17:19  INFO      POST /api/dict/segment → 200  (50ms)  ip=127.0.0.1
+2026-04-17 13:17:23  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:17:28  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (3ms)  ip=127.0.0.1
+2026-04-17 13:17:41  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 13:17:47  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:17:49  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:17:52  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:17:54  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:17:55  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:17:57  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:17:57  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:17:58  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2080  remaining_req=983  remaining_tok=9893  reset_req=24m28.8s
+2026-04-17 13:17:58  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='他在前面还是后面？'  en='Is he in the front or the bac  (736ms)
+2026-04-17 13:17:58  INFO      POST /api/translate → 200  (739ms)  ip=127.0.0.1
+2026-04-17 13:17:58  INFO      POST /api/dict/segment → 200  (42ms)  ip=127.0.0.1
+2026-04-17 13:18:03  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:18:07  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:18:13  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:18:15  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:17  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:19  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:18:20  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:21  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:18:22  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:24  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:26  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:28  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:18:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:18:31  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:18:31  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2114  remaining_req=982  remaining_tok=9892  reset_req=25m55.199s
+2026-04-17 13:18:31  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你喜欢吃鸡肉还是牛肉？'  en='Do you like to eat chicken or  (649ms)
+2026-04-17 13:18:31  INFO      POST /api/translate → 200  (651ms)  ip=127.0.0.1
+2026-04-17 13:18:31  INFO      POST /api/dict/segment → 200  (36ms)  ip=127.0.0.1
+2026-04-17 13:18:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:18:36  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:19:06  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:19:06  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:19:07  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2182  remaining_req=981  remaining_tok=9291  reset_req=27m21.6s
+2026-04-17 13:19:07  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我不知道这个是我的篮球还是他的篮球'  en="I don't know if this is my ba  (887ms)
+2026-04-17 13:19:07  INFO      POST /api/translate → 200  (890ms)  ip=127.0.0.1
+2026-04-17 13:19:07  INFO      POST /api/dict/segment → 200  (38ms)  ip=127.0.0.1
+2026-04-17 13:19:10  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:19:11  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:19:12  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:19:15  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:19:16  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:19:23  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:19:24  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:19:24  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2151  remaining_req=980  remaining_tok=9884  reset_req=28m48s
+2026-04-17 13:19:24  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我想知道她是喜欢白色还是红色'  en='I wonder if she likes white o  (1123ms)
+2026-04-17 13:19:24  INFO      POST /api/translate → 200  (1126ms)  ip=127.0.0.1
+2026-04-17 13:19:25  INFO      POST /api/dict/segment → 200  (35ms)  ip=127.0.0.1
+2026-04-17 13:19:28  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:19:29  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:19:33  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:03  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:05  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 13:20:11  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 13:20:13  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:20:16  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:20:18  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 13:20:19  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:26  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 13:20:30  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:33  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:20:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:36  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:20:38  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:41  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:20:43  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:20:44  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:20:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:20:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:20:50  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2142  remaining_req=979  remaining_tok=9868  reset_req=30m14.4s
+2026-04-17 13:20:50  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我们现在可以上去或者留在这里'  en='We can go up now or stay here  (999ms)
+2026-04-17 13:20:50  INFO      POST /api/translate → 200  (1001ms)  ip=127.0.0.1
+2026-04-17 13:20:50  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-17 13:20:55  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:21:01  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:21:06  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:21:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (6ms)  ip=127.0.0.1
+2026-04-17 13:21:09  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:21:16  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:21:17  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:21:19  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:21:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:21:32  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:21:32  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2091  remaining_req=978  remaining_tok=9860  reset_req=31m40.8s
+2026-04-17 13:21:32  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你可以读书或者睡觉'  en='You can read a book or sleep'  (621ms)
+2026-04-17 13:21:32  INFO      POST /api/translate → 200  (624ms)  ip=127.0.0.1
+2026-04-17 13:21:32  INFO      POST /api/dict/segment → 200  (30ms)  ip=127.0.0.1
+2026-04-17 13:21:37  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 13:21:42  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:21:49  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:21:56  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:21:58  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:21:59  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:01  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:22:03  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:04  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:06  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:08  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 13:22:08  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:09  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:10  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:12  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 13:22:14  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 13:22:14  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 13:22:15  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2134  remaining_req=977  remaining_tok=9823  reset_req=33m7.2s
+2026-04-17 13:22:15  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我们今天可以看书或者看电影'  en='We can read books or watch mo  (756ms)
+2026-04-17 13:22:15  INFO      POST /api/translate → 200  (757ms)  ip=127.0.0.1
+2026-04-17 13:22:15  INFO      POST /api/dict/segment → 200  (31ms)  ip=127.0.0.1
+2026-04-17 13:22:20  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 13:22:23  INFO      GET /file/Chapter_06_Basic_Mandarin_III/08_Lesson_12/04_Asking_MORE_Questions_in_Mandarin_Part_3/Asking_MORE_Questions_in_Mandarin_Part_3.mp4 → 206  (2ms)  ip=127.0.0.1
+2026-04-17 13:23:05  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 14:11:21  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 14:11:21  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 14:11:22  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2003  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-17 14:11:22  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='味道'  en='taste'  (572ms)
+2026-04-17 14:11:22  INFO      POST /api/translate → 200  (577ms)  ip=127.0.0.1
+2026-04-17 14:11:22  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-17 14:11:25  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (1733ms)
+2026-04-17 14:11:25  INFO      POST /api/tts → 200  (1734ms)  ip=127.0.0.1
+2026-04-17 14:11:27  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (911ms)
+2026-04-17 14:11:27  INFO      POST /api/tts → 200  (913ms)  ip=127.0.0.1
+2026-04-17 14:11:29  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (905ms)
+2026-04-17 14:11:29  INFO      POST /api/tts → 200  (906ms)  ip=127.0.0.1
+2026-04-17 14:11:39  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1080ms)
+2026-04-17 14:11:39  INFO      POST /api/tts → 200  (1082ms)  ip=127.0.0.1
+2026-04-17 14:11:41  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (819ms)
+2026-04-17 14:11:41  INFO      POST /api/tts → 200  (820ms)  ip=127.0.0.1
+2026-04-17 14:13:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 14:13:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 14:13:16  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2021  remaining_req=999  remaining_tok=9301  reset_req=1m26.4s
+2026-04-17 14:13:16  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='很味道'  en='Delicious'  (558ms)
+2026-04-17 14:13:16  INFO      POST /api/translate → 200  (561ms)  ip=127.0.0.1
+2026-04-17 14:13:16  INFO      POST /api/dict/segment → 200  (23ms)  ip=127.0.0.1
+2026-04-17 14:13:20  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=3  (1323ms)
+2026-04-17 14:13:20  INFO      POST /api/tts → 200  (1326ms)  ip=127.0.0.1
+2026-04-17 14:13:36  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 14:13:36  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 14:13:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2018  remaining_req=998  remaining_tok=9301  reset_req=2m52.8s
+2026-04-17 14:13:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='很味道'  en='Delicious'  (568ms)
+2026-04-17 14:13:36  INFO      POST /api/translate → 200  (572ms)  ip=127.0.0.1
+2026-04-17 14:13:36  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-17 14:13:41  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1036ms)
+2026-04-17 14:13:41  INFO      POST /api/tts → 200  (1038ms)  ip=127.0.0.1
+2026-04-17 15:05:36  INFO      GET / → 304  (71ms)  ip=127.0.0.1
+2026-04-17 15:05:36  INFO      GET /static/styles.css → 304  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:36  INFO      GET /static/app.js → 304  (2ms)  ip=127.0.0.1
+2026-04-17 15:05:36  INFO      GET /api/curriculum → 200  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:36  INFO      GET /api/structure → 200  (212ms)  ip=127.0.0.1
+2026-04-17 15:05:38  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   GET /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (26ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (15ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (28ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (14ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (12ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:05:38  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET / → 304  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET /static/app.js → 304  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET /static/styles.css → 304  (1ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET /api/curriculum → 200  (1ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  INFO      GET /api/structure → 200  (110ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   GET /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (1ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:07:35  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:15:42  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1241ms)
+2026-04-17 15:15:42  INFO      POST /api/tts → 200  (1249ms)  ip=127.0.0.1
+2026-04-17 15:15:42  WARNING   GET /favicon.ico → 404  (1ms)  ip=127.0.0.1
+2026-04-17 15:15:46  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=2  (2075ms)
+2026-04-17 15:15:46  INFO      POST /api/tts → 200  (2076ms)  ip=127.0.0.1
+2026-04-17 15:15:58  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (945ms)
+2026-04-17 15:15:58  INFO      POST /api/tts → 200  (947ms)  ip=127.0.0.1
+2026-04-17 15:16:00  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (962ms)
+2026-04-17 15:16:00  INFO      POST /api/tts → 200  (963ms)  ip=127.0.0.1
+2026-04-17 15:16:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1086ms)
+2026-04-17 15:16:28  INFO      POST /api/tts → 200  (1090ms)  ip=127.0.0.1
+2026-04-17 15:18:39  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/07_CM_SCHOOL_Talking_About_Hobbies/02_Talking_About_Hobbies_Listening/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-17 15:18:41  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/07_CM_SCHOOL_Talking_About_Hobbies/01_Talking_About_Hobbies_Breakdown/README.md → 200  (5ms)  ip=127.0.0.1
+2026-04-17 15:18:41  WARNING   GET /api/notes → 500  (13ms)  ip=127.0.0.1
+2026-04-17 15:18:41  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/07_CM_SCHOOL_Talking_About_Hobbies/01_Talking_About_Hobbies_Breakdown/01_Talking_About_Hobbies_Breakdown.mp4 → 206  (1ms)  ip=127.0.0.1
+2026-04-17 15:18:41  INFO      GET /file/Chapter_07_Intermediate_Mandarin_I/07_CM_SCHOOL_Talking_About_Hobbies/01_Talking_About_Hobbies_Breakdown/01_Talking_About_Hobbies_Breakdown.mp4 → 206  (0ms)  ip=127.0.0.1
+2026-04-17 15:31:49  INFO      GET / → 304  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:49  INFO      GET /static/styles.css → 304  (4ms)  ip=127.0.0.1
+2026-04-17 15:31:49  INFO      GET /static/app.js → 304  (12ms)  ip=127.0.0.1
+2026-04-17 15:31:49  INFO      GET /api/curriculum → 200  (0ms)  ip=127.0.0.1
+2026-04-17 15:31:50  INFO      GET /api/structure → 200  (119ms)  ip=127.0.0.1
+2026-04-17 15:31:51  INFO      GET /api/hidden → 200  (1ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   GET /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (6ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (8ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (10ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (11ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (9ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (7ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (5ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (4ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (2ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:31:51  WARNING   POST /api/notes → 500  (3ms)  ip=127.0.0.1
+2026-04-17 15:36:20  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (1024ms)
+2026-04-17 15:36:20  INFO      POST /api/tts → 200  (1031ms)  ip=127.0.0.1
+2026-04-17 15:36:20  WARNING   GET /favicon.ico → 404  (0ms)  ip=127.0.0.1
+2026-04-17 15:36:24  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1058ms)
+2026-04-17 15:36:24  INFO      POST /api/tts → 200  (1060ms)  ip=127.0.0.1
+2026-04-17 15:36:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1083ms)
+2026-04-17 15:36:30  INFO      POST /api/tts → 200  (1085ms)  ip=127.0.0.1
+2026-04-17 21:17:11  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 21:17:11  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 21:17:12  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2063  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-17 21:17:12  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='听起来很难哦。'  en='It sounds very difficult.'  (1033ms)
+2026-04-17 21:17:12  INFO      POST /api/translate → 200  (1043ms)  ip=127.0.0.1
+2026-04-17 21:17:12  INFO      POST /api/dict/segment → 200  (94ms)  ip=127.0.0.1
+2026-04-17 21:17:23  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1204ms)
+2026-04-17 21:17:23  INFO      POST /api/tts → 200  (1207ms)  ip=127.0.0.1
+2026-04-17 21:18:11  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 21:18:11  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 21:18:12  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2065  remaining_req=998  remaining_tok=9938  reset_req=2m52.8s
+2026-04-17 21:18:12  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='有时候挺难的'  en="It's tough sometimes"  (849ms)
+2026-04-17 21:18:12  INFO      POST /api/translate → 200  (852ms)  ip=127.0.0.1
+2026-04-17 21:18:12  INFO      POST /api/dict/segment → 200  (50ms)  ip=127.0.0.1
+2026-04-17 21:18:27  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1468ms)
+2026-04-17 21:18:27  INFO      POST /api/tts → 200  (1470ms)  ip=127.0.0.1
+2026-04-17 21:41:35  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-17 21:41:35  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-17 21:41:36  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2066  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-17 21:41:36  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你在读什么专业'  en='What major are you studying?'  (1732ms)
+2026-04-17 21:41:36  INFO      POST /api/translate → 200  (1736ms)  ip=127.0.0.1
+2026-04-17 21:41:37  INFO      POST /api/dict/segment → 200  (76ms)  ip=127.0.0.1

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Voice Demo — Canto & Mando</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #0f1117;
+    color: #e2e8f0;
+    min-height: 100vh;
+    padding: 40px 24px 80px;
+  }
+
+  h1 { font-size: 22px; font-weight: 700; margin-bottom: 6px; color: #fff; }
+  .subtitle { font-size: 13px; color: #718096; margin-bottom: 28px; }
+
+  /* Phrase boxes */
+  .phrase-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; }
+  .phrase-box {
+    background: #1a1d27; border: 1px solid #2d3748; border-radius: 10px;
+    padding: 12px 18px; flex: 1; min-width: 260px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .phrase-label { font-size: 10px; color: #718096; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; white-space: nowrap; }
+  .phrase-text  { font-size: 14px; color: #a0aec0; }
+
+  /* Speed toggle */
+  .speed-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 32px; }
+  .speed-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; color: #4a5568; }
+  .speed-pills { display: flex; gap: 6px; }
+  .speed-pills label { cursor: pointer; }
+  .speed-pills input[type="radio"] { display: none; }
+  .speed-pills span {
+    display: inline-block; font-size: 12px; font-weight: 600;
+    padding: 4px 14px; border-radius: 999px; border: 1px solid #2d3748;
+    color: #718096; transition: border-color .15s, color .15s, background .15s;
+  }
+  .speed-pills input[type="radio"]:checked + span { border-color: #63b3ed; color: #63b3ed; background: #0d1a2a; }
+
+  /* Matrix */
+  .matrix-wrap { overflow-x: auto; }
+  .matrix {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(180px, 1fr));
+    gap: 10px;
+    min-width: 760px;
+  }
+
+  /* Sticky column headers */
+  .col-headers {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(180px, 1fr));
+    gap: 10px;
+    min-width: 760px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: #0f1117;
+    padding: 10px 0 8px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #2d3748;
+  }
+  .col-header {
+    text-align: center; font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .8px; padding: 6px 0;
+    border-radius: 6px;
+  }
+  .col-header.canto { color: #f6ad55; background: #1f1505; }
+  .col-header.mando { color: #63b3ed; background: #05101f; }
+
+  /* Group separator — spans full 4 cols */
+  .group-sep {
+    grid-column: 1 / -1;
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1px; color: #4a5568;
+    display: flex; align-items: center; gap: 10px;
+    margin-top: 10px;
+  }
+  .group-sep::after { content: ''; flex: 1; height: 1px; background: #2d3748; }
+
+  /* Empty cell */
+  .empty-cell {
+    border: 1px dashed #1e2533; border-radius: 12px;
+    min-height: 120px; background: #0d0f16;
+  }
+
+  /* Voice card */
+  .voice-card {
+    background: #1a1d27; border: 1px solid #2d3748; border-radius: 12px;
+    padding: 14px; cursor: pointer; position: relative; overflow: hidden;
+    transition: border-color .15s, background .15s, transform .1s;
+    user-select: none;
+  }
+  .voice-card:hover  { border-color: #4a5568; background: #1e2130; }
+  .voice-card:active { transform: scale(.97); }
+  .voice-card.playing { border-color: #38d39f; background: #0d1f18; }
+  .voice-card.kept    { border-color: #48bb78; }
+  .voice-card.kept:hover { border-color: #68d391; }
+  .voice-card.removed { border-color: #e53e3e; opacity: 0.5; }
+  .voice-card.removed:hover { opacity: 0.7; }
+
+  /* Keep checkbox */
+  .keep-wrap { display: flex; align-items: center; gap: 5px; margin-bottom: 10px; }
+  .keep-wrap input[type="checkbox"] {
+    appearance: none; width: 14px; height: 14px;
+    border: 2px solid #4a5568; border-radius: 3px;
+    background: transparent; cursor: pointer;
+    transition: border-color .15s, background .15s; flex-shrink: 0; position: relative;
+  }
+  .keep-wrap input[type="checkbox"]:checked { background: #48bb78; border-color: #48bb78; }
+  .keep-wrap input[type="checkbox"]:checked::after {
+    content: ''; position: absolute; left: 2px; top: 0px;
+    width: 4px; height: 8px; border: 2px solid #fff;
+    border-top: none; border-left: none; transform: rotate(45deg);
+  }
+  .keep-label { font-size: 9px; color: #4a5568; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; cursor: pointer; }
+  .keep-wrap input[type="checkbox"]:checked + .keep-label { color: #68d391; }
+
+  /* Play button */
+  .play-icon {
+    position: absolute; top: 12px; right: 12px;
+    width: 26px; height: 26px; border-radius: 50%;
+    background: #2d3748; display: flex; align-items: center; justify-content: center;
+    transition: background .15s;
+  }
+  .voice-card:hover   .play-icon { background: #3d4a5a; }
+  .voice-card.playing .play-icon { background: #38d39f; }
+  .play-icon svg { width: 10px; height: 10px; fill: #a0aec0; }
+  .voice-card.playing .play-icon svg { fill: #fff; }
+
+  /* Card content */
+  .card-name  { font-size: 15px; font-weight: 700; color: #fff; margin-bottom: 2px; padding-right: 32px; }
+  .card-style { font-size: 11px; color: #718096; margin-bottom: 10px; }
+
+  /* Gender pill */
+  .card-gender {
+    display: inline-flex; align-items: center; gap: 3px;
+    font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
+  }
+  .female .card-gender { background: #4a1a4a; color: #f9a8d4; }
+  .male   .card-gender { background: #1a3a4a; color: #93c5fd; }
+
+  /* Engine badge */
+  .engine-badge {
+    position: absolute; bottom: 10px; right: 10px;
+    font-size: 9px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase;
+    padding: 2px 7px; border-radius: 999px;
+  }
+  .badge-edge  { background: #2d1f4a; color: #c4b5fd; }
+  .badge-cloud { background: #0d2040; color: #63b3ed; }
+
+  /* Loading bar */
+  .loading-bar {
+    position: absolute; bottom: 0; left: 0; height: 2px;
+    background: #38d39f; width: 0; transition: width 1.5s linear;
+  }
+  .voice-card.playing .loading-bar { width: 100%; }
+
+  .status { margin-top: 20px; font-size: 12px; color: #4a5568; text-align: center; min-height: 18px; }
+
+  /* Summary */
+  .summary {
+    margin-top: 36px; background: #1a1d27; border: 1px solid #2d3748;
+    border-radius: 12px; padding: 18px 20px;
+  }
+  .summary-heading { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .8px; color: #4a5568; margin-bottom: 14px; }
+  .summary-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .summary-col h3 { font-size: 12px; font-weight: 700; margin-bottom: 8px; }
+  .summary-col.keep h3  { color: #68d391; }
+  .summary-col.remove h3 { color: #fc8181; }
+  .summary-list { font-size: 12px; color: #a0aec0; line-height: 1.8; }
+  .summary-list em { color: #4a5568; font-style: normal; }
+  .summary-copy {
+    margin-top: 14px; font-size: 11px; padding: 6px 14px; border-radius: 6px;
+    border: 1px solid #2d3748; background: transparent; color: #718096;
+    cursor: pointer; transition: border-color .15s, color .15s;
+  }
+  .summary-copy:hover { border-color: #4a5568; color: #e2e8f0; }
+</style>
+</head>
+<body>
+
+<h1>🎙️ Voice Demo</h1>
+<p class="subtitle">Click any card to hear it. Check "Keep" to flag favourites. Each row compares the same voice across Canto/Mando and ♀/♂.</p>
+
+<div class="phrase-row">
+  <div class="phrase-box"><span class="phrase-label">Cantonese</span><span class="phrase-text">你好，我係廣東話示範，今日天氣真係好好。</span></div>
+  <div class="phrase-box"><span class="phrase-label">Mandarin</span><span class="phrase-text">你好，我是普通话示范，今天天气真的很好。</span></div>
+</div>
+
+<div class="speed-bar">
+  <span class="speed-label">Speed</span>
+  <div class="speed-pills">
+    <label><input type="radio" name="speed" value="slow"><span>Slow</span></label>
+    <label><input type="radio" name="speed" value="normal" checked><span>Normal</span></label>
+    <label><input type="radio" name="speed" value="fast"><span>Fast</span></label>
+  </div>
+</div>
+
+<div class="col-headers">
+  <div class="col-header canto">🇭🇰 Canto ♀</div>
+  <div class="col-header canto">🇭🇰 Canto ♂</div>
+  <div class="col-header mando">🇨🇳 Mando ♀</div>
+  <div class="col-header mando">🇨🇳 Mando ♂</div>
+</div>
+
+<div class="matrix-wrap">
+  <div class="matrix" id="matrix"></div>
+</div>
+
+<div class="status" id="status"></div>
+
+<div class="summary">
+  <div class="summary-heading">Selection Summary</div>
+  <div class="summary-cols">
+    <div class="summary-col keep"><h3>Keep</h3><div class="summary-list" id="keepList"><em>None selected</em></div></div>
+    <div class="summary-col remove"><h3>Remove</h3><div class="summary-list" id="removeList"><em>None selected</em></div></div>
+  </div>
+  <button class="summary-copy" id="copyBtn">Copy summary</button>
+</div>
+
+<script>
+const API_BASE = window.location.origin.startsWith('http') ? window.location.origin : 'http://localhost:8800';
+
+const PHRASES = {
+  canto: '你好，我係廣東話示範，今日天氣真係好好。',
+  mando: '你好，我是普通话示范，今天天气真的很好。',
+};
+
+// Column definitions: index 0-1 = Canto, 2-3 = Mando
+const COLS = [
+  { lang: 'canto', gender: 'female' },
+  { lang: 'canto', gender: 'male'   },
+  { lang: 'mando', gender: 'female' },
+  { lang: 'mando', gender: 'male'   },
+];
+
+// Matrix groups — each row is 4 cells matching COLS order (null = empty)
+const MATRIX_GROUPS = [
+  {
+    label: '⚡ Edge TTS', engine: 'edge',
+    rows: [
+      [
+        { name: 'HiuGaai',  style: 'Friendly',            voice: 'zh-HK-HiuGaaiNeural'          },
+        { name: 'WanLung',  style: 'Friendly',            voice: 'zh-HK-WanLungNeural'          },
+        { name: 'Xiaoxiao', style: 'Warm',                voice: 'zh-CN-XiaoxiaoNeural'         },
+        { name: 'Yunyang',  style: 'Professional',        voice: 'zh-CN-YunyangNeural'          },
+      ],
+      [
+        { name: 'HiuMaan',  style: 'Friendly',            voice: 'zh-HK-HiuMaanNeural'          },
+        null,
+        { name: 'Xiaoyi',   style: 'Lively',              voice: 'zh-CN-XiaoyiNeural'           },
+        { name: 'Yunjian',  style: 'Passionate',          voice: 'zh-CN-YunjianNeural'          },
+      ],
+      [
+        null, null,
+        { name: 'Xiaobei',  style: 'Humorous · Liaoning', voice: 'zh-CN-liaoning-XiaobeiNeural' },
+        { name: 'Yunxi',    style: 'Lively',              voice: 'zh-CN-YunxiNeural'            },
+      ],
+      [
+        null, null,
+        { name: 'Xiaoni',   style: 'Bright · Shaanxi',    voice: 'zh-CN-shaanxi-XiaoniNeural'   },
+        { name: 'Yunxia',   style: 'Cute',                voice: 'zh-CN-YunxiaNeural'           },
+      ],
+    ],
+  },
+  {
+    label: '☁ Google Cloud — Standard', engine: 'google',
+    rows: [
+      [
+        { name: 'Standard-A', style: 'Standard', voice: 'yue-HK-Standard-A' },
+        { name: 'Standard-B', style: 'Standard', voice: 'yue-HK-Standard-B' },
+        { name: 'Standard-A', style: 'Standard', voice: 'cmn-CN-Standard-A' },
+        { name: 'Standard-B', style: 'Standard', voice: 'cmn-CN-Standard-B' },
+      ],
+      [
+        { name: 'Standard-C', style: 'Standard', voice: 'yue-HK-Standard-C' },
+        { name: 'Standard-D', style: 'Standard', voice: 'yue-HK-Standard-D' },
+        { name: 'Standard-D', style: 'Standard', voice: 'cmn-CN-Standard-D' },
+        { name: 'Standard-C', style: 'Standard', voice: 'cmn-CN-Standard-C' },
+      ],
+    ],
+  },
+  {
+    label: '☁ Google Cloud — Wavenet (Mandarin only)', engine: 'google',
+    rows: [
+      [
+        null, null,
+        { name: 'Wavenet-A', style: 'Wavenet', voice: 'cmn-CN-Wavenet-A' },
+        { name: 'Wavenet-B', style: 'Wavenet', voice: 'cmn-CN-Wavenet-B' },
+      ],
+      [
+        null, null,
+        { name: 'Wavenet-D', style: 'Wavenet', voice: 'cmn-CN-Wavenet-D' },
+        { name: 'Wavenet-C', style: 'Wavenet', voice: 'cmn-CN-Wavenet-C' },
+      ],
+    ],
+  },
+  {
+    label: '☁ Google Cloud — Chirp3 HD', engine: 'google',
+    rows: [
+      [
+        { name: 'Aoede',  style: 'Chirp3 HD', voice: 'yue-HK-Chirp3-HD-Aoede'  },
+        { name: 'Charon', style: 'Chirp3 HD', voice: 'yue-HK-Chirp3-HD-Charon' },
+        { name: 'Aoede',  style: 'Chirp3 HD', voice: 'cmn-CN-Chirp3-HD-Aoede'  },
+        { name: 'Charon', style: 'Chirp3 HD', voice: 'cmn-CN-Chirp3-HD-Charon' },
+      ],
+      [
+        { name: 'Kore', style: 'Chirp3 HD', voice: 'yue-HK-Chirp3-HD-Kore' },
+        { name: 'Puck', style: 'Chirp3 HD', voice: 'yue-HK-Chirp3-HD-Puck' },
+        { name: 'Kore', style: 'Chirp3 HD', voice: 'cmn-CN-Chirp3-HD-Kore' },
+        { name: 'Puck', style: 'Chirp3 HD', voice: 'cmn-CN-Chirp3-HD-Puck' },
+      ],
+    ],
+  },
+];
+
+// Flat list for summary
+const ALL_VOICES = [];
+MATRIX_GROUPS.forEach(g => g.rows.forEach(row => row.forEach((cell, ci) => {
+  if (cell) ALL_VOICES.push({ ...cell, engine: g.engine, lang: COLS[ci].lang, gender: COLS[ci].gender, groupLabel: g.label });
+})));
+
+const keepState = {}; // voice_key -> true | false
+function voiceKey(cell, colIdx) { return `${cell.voice}__${COLS[colIdx].gender}`; }
+
+const matrix  = document.getElementById('matrix');
+const status  = document.getElementById('status');
+let currentCard = null, currentAudio = null;
+
+function updateSummary() {
+  const kept    = ALL_VOICES.filter(v => keepState[`${v.voice}__${v.gender}`] === true);
+  const removed = ALL_VOICES.filter(v => keepState[`${v.voice}__${v.gender}`] === false);
+  const fmt = v => `${v.lang === 'canto' ? '🇭🇰' : '🇨🇳'} ${v.gender === 'female' ? '♀' : '♂'} <strong>${v.name}</strong> <span style="color:#4a5568">${v.style}</span>`;
+  document.getElementById('keepList').innerHTML   = kept.length   ? kept.map(fmt).join('<br>')   : '<em>None selected</em>';
+  document.getElementById('removeList').innerHTML = removed.length ? removed.map(fmt).join('<br>') : '<em>None selected</em>';
+}
+
+function buildCard(cell, colIdx, engine) {
+  const col    = COLS[colIdx];
+  const key    = voiceKey(cell, colIdx);
+  const isEdge = engine === 'edge';
+
+  const card = document.createElement('div');
+  card.className = `voice-card ${col.lang === 'canto' ? 'canto' : 'mando'} ${col.gender}`;
+  card.innerHTML = `
+    <div class="keep-wrap">
+      <input type="checkbox" class="keep-cb">
+      <span class="keep-label">Keep</span>
+    </div>
+    <div class="play-icon"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
+    <div class="card-name">${cell.name}</div>
+    <div class="card-style">${cell.style}</div>
+    <span class="card-gender">${col.gender === 'female' ? '♀ Female' : '♂ Male'}</span>
+    <span class="engine-badge ${isEdge ? 'badge-edge' : 'badge-cloud'}">${isEdge ? '⚡ Edge' : '☁ Cloud'}</span>
+    <div class="loading-bar"></div>
+  `;
+
+  const cb       = card.querySelector('.keep-cb');
+  const keepWrap = card.querySelector('.keep-wrap');
+
+  cb.addEventListener('change', e => {
+    e.stopPropagation();
+    keepState[key] = cb.checked ? true : false;
+    card.classList.toggle('kept',    cb.checked);
+    card.classList.toggle('removed', !cb.checked);
+    updateSummary();
+  });
+  keepWrap.addEventListener('click', e => e.stopPropagation());
+
+  card.addEventListener('click', () => speak(cell, col, engine, card));
+  return card;
+}
+
+async function speak(cell, col, engine, card) {
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  if (currentCard)  { currentCard.classList.remove('playing'); }
+
+  card.classList.add('playing');
+  currentCard = card;
+  status.textContent = `Loading ${cell.name}…`;
+
+  const speed = document.querySelector('input[name="speed"]:checked')?.value || 'normal';
+  const text  = PHRASES[col.lang];
+
+  try {
+    const res = await fetch(`${API_BASE}/api/tts`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text, voice: cell.voice, speed, engine }),
+    });
+    if (!res.ok) throw new Error(await res.text());
+    const blob  = await res.blob();
+    const url   = URL.createObjectURL(blob);
+    const audio = new Audio(url);
+    currentAudio = audio;
+    status.textContent = `▶ ${col.lang === 'canto' ? '🇭🇰' : '🇨🇳'} ${col.gender === 'female' ? '♀' : '♂'} ${cell.name} — ${cell.style}`;
+    audio.play();
+    audio.addEventListener('ended', () => {
+      card.classList.remove('playing');
+      currentCard = currentAudio = null;
+      status.textContent = '';
+      URL.revokeObjectURL(url);
+    });
+  } catch (e) {
+    card.classList.remove('playing');
+    currentCard = null;
+    status.textContent = `Error: ${e.message}`;
+  }
+}
+
+// Build matrix
+MATRIX_GROUPS.forEach(group => {
+  // Group separator
+  const sep = document.createElement('div');
+  sep.className = 'group-sep';
+  sep.textContent = group.label;
+  matrix.appendChild(sep);
+
+  // Rows
+  group.rows.forEach(row => {
+    row.forEach((cell, ci) => {
+      if (!cell) {
+        const empty = document.createElement('div');
+        empty.className = 'empty-cell';
+        matrix.appendChild(empty);
+      } else {
+        matrix.appendChild(buildCard(cell, ci, group.engine));
+      }
+    });
+  });
+});
+
+// Copy summary
+document.getElementById('copyBtn').addEventListener('click', () => {
+  const kept    = ALL_VOICES.filter(v => keepState[`${v.voice}__${v.gender}`] === true);
+  const removed = ALL_VOICES.filter(v => keepState[`${v.voice}__${v.gender}`] === false);
+  const fmt = arr => arr.length
+    ? arr.map(v => `  - ${v.lang === 'canto' ? 'Cantonese' : 'Mandarin'} ${v.gender === 'female' ? '♀' : '♂'} ${v.name} (${v.style}) — ${v.voice} [${v.engine}]`).join('\n')
+    : '  None';
+  navigator.clipboard.writeText(`KEEP:\n${fmt(kept)}\n\nREMOVE:\n${fmt(removed)}`).then(() => {
+    const btn = document.getElementById('copyBtn');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy summary', 1500);
+  });
+});
+</script>
+</body>
+</html>

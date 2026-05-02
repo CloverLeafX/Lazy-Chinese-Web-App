@@ -1,0 +1,614 @@
+2026-04-14 09:14:37  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=19  (1913ms)
+2026-04-14 09:14:37  INFO      POST /api/tts → 200  (1922ms)  ip=127.0.0.1
+2026-04-14 09:14:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=19  (937ms)
+2026-04-14 09:14:45  INFO      POST /api/tts → 200  (939ms)  ip=127.0.0.1
+2026-04-14 09:15:56  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (860ms)
+2026-04-14 09:15:56  INFO      POST /api/tts → 200  (864ms)  ip=127.0.0.1
+2026-04-14 09:16:28  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:16:28  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:16:29  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2186  remaining_req=999  remaining_tok=9295  reset_req=1m26.4s
+2026-04-14 09:16:29  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (792ms)
+2026-04-14 09:16:29  INFO      POST /api/translate → 200  (794ms)  ip=127.0.0.1
+2026-04-14 09:16:29  INFO      POST /api/dict/segment → 200  (41ms)  ip=127.0.0.1
+2026-04-14 09:16:29  INFO      POST /api/dict/segment → 200  (20ms)  ip=127.0.0.1
+2026-04-14 09:16:34  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=17  (1139ms)
+2026-04-14 09:16:34  INFO      POST /api/tts → 200  (1141ms)  ip=127.0.0.1
+2026-04-14 09:16:45  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=17  (1004ms)
+2026-04-14 09:16:45  INFO      POST /api/tts → 200  (1005ms)  ip=127.0.0.1
+2026-04-14 09:17:25  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:17:25  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:17:26  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2285  remaining_req=998  remaining_tok=9289  reset_req=2m52.8s
+2026-04-14 09:17:26  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1171ms)
+2026-04-14 09:17:26  INFO      POST /api/translate → 200  (1172ms)  ip=127.0.0.1
+2026-04-14 09:17:26  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 09:17:26  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 09:17:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:17:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:17:41  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2281  remaining_req=997  remaining_tok=9716  reset_req=4m19.2s
+2026-04-14 09:17:41  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1255ms)
+2026-04-14 09:17:41  INFO      POST /api/translate → 200  (1256ms)  ip=127.0.0.1
+2026-04-14 09:17:41  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 09:17:41  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-14 09:17:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:17:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:17:46  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2265  remaining_req=996  remaining_tok=8545  reset_req=5m45.6s
+2026-04-14 09:17:46  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1173ms)
+2026-04-14 09:17:46  INFO      POST /api/translate → 200  (1175ms)  ip=127.0.0.1
+2026-04-14 09:17:46  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 09:17:46  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-14 09:17:59  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:17:59  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:18:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2254  remaining_req=995  remaining_tok=8579  reset_req=7m12s
+2026-04-14 09:18:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1037ms)
+2026-04-14 09:18:00  INFO      POST /api/translate → 200  (1041ms)  ip=127.0.0.1
+2026-04-14 09:18:00  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 09:18:00  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-14 09:18:08  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:18:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:18:09  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2270  remaining_req=994  remaining_tok=7898  reset_req=8m38.4s
+2026-04-14 09:18:09  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1061ms)
+2026-04-14 09:18:09  INFO      POST /api/translate → 200  (1065ms)  ip=127.0.0.1
+2026-04-14 09:18:09  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-14 09:18:09  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 09:20:23  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (1308ms)
+2026-04-14 09:20:23  INFO      POST /api/tts → 200  (1311ms)  ip=127.0.0.1
+2026-04-14 09:20:33  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=22  (2119ms)
+2026-04-14 09:20:33  INFO      POST /api/tts → 200  (2120ms)  ip=127.0.0.1
+2026-04-14 09:20:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:20:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:20:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2315  remaining_req=994  remaining_tok=9715  reset_req=8m38.4s
+2026-04-14 09:20:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='ive eaten breakfast, im worki  en="I've eaten breakfast, I'm wor  (1463ms)
+2026-04-14 09:20:56  INFO      POST /api/translate → 200  (1465ms)  ip=127.0.0.1
+2026-04-14 09:20:56  INFO      POST /api/dict/segment → 200  (16ms)  ip=127.0.0.1
+2026-04-14 09:20:56  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 09:25:20  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=27  (1446ms)
+2026-04-14 09:25:20  INFO      POST /api/tts → 200  (1450ms)  ip=127.0.0.1
+2026-04-14 09:25:28  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=2  (875ms)
+2026-04-14 09:25:28  INFO      POST /api/tts → 200  (876ms)  ip=127.0.0.1
+2026-04-14 09:26:41  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:26:41  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:26:42  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2320  remaining_req=997  remaining_tok=9285  reset_req=4m19.2s
+2026-04-14 09:26:42  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我已经吃过早餐了，我今天在家工作，现在澳洲时间是十点'  en="I've already had breakfast, I  (1124ms)
+2026-04-14 09:26:42  INFO      POST /api/translate → 200  (1126ms)  ip=127.0.0.1
+2026-04-14 09:26:42  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 09:26:42  INFO      POST /api/dict/segment → 200  (17ms)  ip=127.0.0.1
+2026-04-14 09:26:55  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=26  (1180ms)
+2026-04-14 09:26:55  INFO      POST /api/tts → 200  (1182ms)  ip=127.0.0.1
+2026-04-14 09:27:57  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=26  (1082ms)
+2026-04-14 09:27:57  INFO      POST /api/tts → 200  (1084ms)  ip=127.0.0.1
+2026-04-14 09:30:55  INFO      [Captures] audio saved  lang=mandarin  file=20260414093054_8b51_mandarin.mp3
+2026-04-14 09:30:58  INFO      [Captures] audio saved  lang=cantonese  file=20260414093054_8b51_cantonese.mp3
+2026-04-14 09:30:58  INFO      [Captures] saved #15: 我已经吃过早餐了，我今天在家工作，现在澳
+2026-04-14 09:30:58  INFO      POST /api/captures → 200  (3961ms)  ip=127.0.0.1
+2026-04-14 09:31:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:31:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:31:28  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2090  remaining_req=999  remaining_tok=9692  reset_req=1m26.4s
+2026-04-14 09:31:28  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='im happy i made it co class'  en="I'm happy I made it to class"  (775ms)
+2026-04-14 09:31:28  INFO      POST /api/translate → 200  (777ms)  ip=127.0.0.1
+2026-04-14 09:31:28  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-14 09:31:28  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 09:31:52  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1036ms)
+2026-04-14 09:31:52  INFO      POST /api/tts → 200  (1037ms)  ip=127.0.0.1
+2026-04-14 09:31:57  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1442ms)
+2026-04-14 09:31:57  INFO      POST /api/tts → 200  (1443ms)  ip=127.0.0.1
+2026-04-14 09:32:06  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1027ms)
+2026-04-14 09:32:06  INFO      POST /api/tts → 200  (1029ms)  ip=127.0.0.1
+2026-04-14 09:34:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:34:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:34:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2094  remaining_req=999  remaining_tok=9692  reset_req=1m26.4s
+2026-04-14 09:34:45  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:34:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='im happy i made it to class'  en="I'm happy I made it to class"  (629ms)
+2026-04-14 09:34:45  INFO      POST /api/translate → 200  (631ms)  ip=127.0.0.1
+2026-04-14 09:34:45  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 09:34:45  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 09:34:45  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:34:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2094  remaining_req=998  remaining_tok=7311  reset_req=2m52.8s
+2026-04-14 09:34:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='im happy i made it to class'  en="I'm happy I made it to class"  (625ms)
+2026-04-14 09:34:45  INFO      POST /api/translate → 200  (627ms)  ip=127.0.0.1
+2026-04-14 09:34:45  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 09:34:45  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 09:34:48  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1164ms)
+2026-04-14 09:34:48  INFO      POST /api/tts → 200  (1165ms)  ip=127.0.0.1
+2026-04-14 09:35:22  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=1  (1109ms)
+2026-04-14 09:35:22  INFO      POST /api/tts → 200  (1113ms)  ip=127.0.0.1
+2026-04-14 09:36:08  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=8  (1542ms)
+2026-04-14 09:36:08  INFO      POST /api/tts → 200  (1544ms)  ip=127.0.0.1
+2026-04-14 09:36:13  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1011ms)
+2026-04-14 09:36:13  INFO      POST /api/tts → 200  (1013ms)  ip=127.0.0.1
+2026-04-14 09:43:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:43:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:43:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2063  remaining_req=999  remaining_tok=9299  reset_req=1m26.4s
+2026-04-14 09:43:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你今天做了什么'  en='What did you do today?'  (501ms)
+2026-04-14 09:43:56  INFO      POST /api/translate → 200  (505ms)  ip=127.0.0.1
+2026-04-14 09:43:56  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-14 09:43:56  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 09:44:00  INFO      [Captures] audio saved  lang=mandarin  file=20260414094359_0686_mandarin.mp3
+2026-04-14 09:44:01  INFO      [Captures] audio saved  lang=cantonese  file=20260414094359_0686_cantonese.mp3
+2026-04-14 09:44:01  INFO      [Captures] saved #16: 你今天做了什么
+2026-04-14 09:44:01  INFO      POST /api/captures → 200  (2564ms)  ip=127.0.0.1
+2026-04-14 09:45:08  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:45:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:45:09  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2071  remaining_req=998  remaining_tok=9936  reset_req=2m52.8s
+2026-04-14 09:45:09  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='他那里天气好吗'  en="What's the weather like where  (552ms)
+2026-04-14 09:45:09  INFO      POST /api/translate → 200  (555ms)  ip=127.0.0.1
+2026-04-14 09:45:09  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-14 09:45:09  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 09:50:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:50:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:50:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2164  remaining_req=999  remaining_tok=9292  reset_req=1m26.4s
+2026-04-14 09:50:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='i usually go to the office bu  en='I usually go to the office, b  (912ms)
+2026-04-14 09:50:56  INFO      POST /api/translate → 200  (915ms)  ip=127.0.0.1
+2026-04-14 09:50:56  INFO      POST /api/dict/segment → 200  (33ms)  ip=127.0.0.1
+2026-04-14 09:50:56  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-14 09:51:03  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1271ms)
+2026-04-14 09:51:03  INFO      POST /api/tts → 200  (1273ms)  ip=127.0.0.1
+2026-04-14 09:51:26  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=16  (1793ms)
+2026-04-14 09:51:26  INFO      POST /api/tts → 200  (1795ms)  ip=127.0.0.1
+2026-04-14 09:55:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:55:31  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:55:32  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2047  remaining_req=999  remaining_tok=9844  reset_req=1m26.4s
+2026-04-14 09:55:32  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='a little unwell'  en='a little unwell'  (579ms)
+2026-04-14 09:55:32  INFO      POST /api/translate → 200  (582ms)  ip=127.0.0.1
+2026-04-14 09:55:32  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 09:55:32  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 09:56:03  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1451ms)
+2026-04-14 09:56:03  INFO      POST /api/tts → 200  (1453ms)  ip=127.0.0.1
+2026-04-14 09:58:48  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:58:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:58:49  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2159  remaining_req=999  remaining_tok=9293  reset_req=1m26.4s
+2026-04-14 09:58:49  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我通常去办公室，但今天我在家。'  en="I usually go to the office, b  (837ms)
+2026-04-14 09:58:49  INFO      POST /api/translate → 200  (840ms)  ip=127.0.0.1
+2026-04-14 09:58:49  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 09:58:49  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 09:58:52  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=15  (1036ms)
+2026-04-14 09:58:52  INFO      POST /api/tts → 200  (1038ms)  ip=127.0.0.1
+2026-04-14 09:59:02  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (907ms)
+2026-04-14 09:59:02  INFO      POST /api/tts → 200  (909ms)  ip=127.0.0.1
+2026-04-14 09:59:34  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:59:34  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:59:34  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2012  remaining_req=998  remaining_tok=9846  reset_req=2m52.8s
+2026-04-14 09:59:34  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='tuesday'  en='Tuesday'  (445ms)
+2026-04-14 09:59:34  INFO      POST /api/translate → 200  (446ms)  ip=127.0.0.1
+2026-04-14 09:59:34  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 09:59:34  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 09:59:38  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=3  (1490ms)
+2026-04-14 09:59:38  INFO      POST /api/tts → 200  (1491ms)  ip=127.0.0.1
+2026-04-14 09:59:55  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 09:59:55  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 09:59:56  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2159  remaining_req=997  remaining_tok=9841  reset_req=4m19.2s
+2026-04-14 09:59:56  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我通常去办公室，但今天我在家。'  en="I usually go to the office, b  (815ms)
+2026-04-14 09:59:56  INFO      POST /api/translate → 200  (817ms)  ip=127.0.0.1
+2026-04-14 09:59:56  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 09:59:56  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 10:15:38  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:15:38  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:15:38  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1606s
+2026-04-14 10:15:39  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2056  remaining_req=14399  remaining_tok=3299  reset_req=6s
+2026-04-14 10:15:39  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='i live in housee'  en='I live in a house.'  (696ms)
+2026-04-14 10:15:39  INFO      POST /api/translate → 200  (698ms)  ip=127.0.0.1
+2026-04-14 10:15:39  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-14 10:15:39  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 10:35:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:35:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:35:40  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1850s
+2026-04-14 10:35:41  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2317  remaining_req=14399  remaining_tok=3286  reset_req=6s
+2026-04-14 10:35:41  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='there is a school near me, in  en='There is a school nearby, and  (1056ms)
+2026-04-14 10:35:41  INFO      POST /api/translate → 200  (1058ms)  ip=127.0.0.1
+2026-04-14 10:35:41  INFO      POST /api/dict/segment → 200  (92ms)  ip=127.0.0.1
+2026-04-14 10:35:41  INFO      POST /api/dict/segment → 200  (40ms)  ip=127.0.0.1
+2026-04-14 10:37:36  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:37:36  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:37:36  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1735s
+2026-04-14 10:37:37  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2236  remaining_req=14399  remaining_tok=3683  reset_req=6s
+2026-04-14 10:37:37  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='I have a school near me, in t  en="There's a school nearby, and   (816ms)
+2026-04-14 10:37:37  INFO      POST /api/translate → 200  (818ms)  ip=127.0.0.1
+2026-04-14 10:37:37  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-14 10:37:37  INFO      POST /api/dict/segment → 200  (16ms)  ip=127.0.0.1
+2026-04-14 10:51:16  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:51:16  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:51:16  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=899s
+2026-04-14 10:51:17  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2045  remaining_req=14399  remaining_tok=3303  reset_req=6s
+2026-04-14 10:51:17  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='same'  en='What is your name?'  (529ms)
+2026-04-14 10:51:17  INFO      POST /api/translate → 200  (531ms)  ip=127.0.0.1
+2026-04-14 10:51:17  INFO      POST /api/dict/segment → 200  (14ms)  ip=127.0.0.1
+2026-04-14 10:51:17  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 10:51:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:51:21  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:51:21  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=896s
+2026-04-14 10:51:21  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2045  remaining_req=14398  remaining_tok=917  reset_req=12s
+2026-04-14 10:51:21  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='same'  en='What is your name?'  (413ms)
+2026-04-14 10:51:21  INFO      POST /api/translate → 200  (414ms)  ip=127.0.0.1
+2026-04-14 10:51:21  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 10:51:21  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 10:51:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:51:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:51:27  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=889s
+2026-04-14 10:51:27  WARNING   [Translate] rate-limit  model=llama-3.1-8b-instant  status=429  retry_after=7s
+2026-04-14 10:51:28  WARNING   [Translate] rate-limit  model=gemma2-9b-it  status=400  retry_after=?s
+2026-04-14 10:51:28  WARNING   [Translate] all models rate-limited — waiting 3s then retrying
+2026-04-14 10:51:31  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:51:31  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:51:31  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=885s
+2026-04-14 10:51:31  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2045  remaining_req=14398  remaining_tok=295  reset_req=12s
+2026-04-14 10:51:31  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='same'  en='What is your name?'  (3973ms)
+2026-04-14 10:51:31  INFO      POST /api/translate → 200  (3975ms)  ip=127.0.0.1
+2026-04-14 10:51:31  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 10:51:31  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 10:52:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:52:50  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:52:50  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=808s
+2026-04-14 10:52:50  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2044  remaining_req=14399  remaining_tok=3301  reset_req=6s
+2026-04-14 10:52:50  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='same as me'  en="You're the same as me."  (616ms)
+2026-04-14 10:52:50  INFO      POST /api/translate → 200  (619ms)  ip=127.0.0.1
+2026-04-14 10:52:50  INFO      POST /api/dict/segment → 200  (29ms)  ip=127.0.0.1
+2026-04-14 10:52:50  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 10:56:09  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:56:09  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:56:09  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=613s
+2026-04-14 10:56:10  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2107  remaining_req=14399  remaining_tok=3951  reset_req=6s
+2026-04-14 10:56:10  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='i park my car in front of hou  en='I park my car in front of the  (574ms)
+2026-04-14 10:56:10  INFO      POST /api/translate → 200  (577ms)  ip=127.0.0.1
+2026-04-14 10:56:10  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-14 10:56:10  INFO      POST /api/dict/segment → 200  (15ms)  ip=127.0.0.1
+2026-04-14 10:56:17  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:56:17  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:56:17  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=604s
+2026-04-14 10:56:18  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2091  remaining_req=14399  remaining_tok=2615  reset_req=6s
+2026-04-14 10:56:18  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='park my car in front of house  en='Park my car in front of the h  (855ms)
+2026-04-14 10:56:18  INFO      POST /api/translate → 200  (856ms)  ip=127.0.0.1
+2026-04-14 10:56:18  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 10:56:18  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 10:56:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:56:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:56:20  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=600s
+2026-04-14 10:56:20  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2090  remaining_req=14398  remaining_tok=811  reset_req=12s
+2026-04-14 10:56:20  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='park car in front of house'  en='Park the car in front of the   (552ms)
+2026-04-14 10:56:20  INFO      POST /api/translate → 200  (554ms)  ip=127.0.0.1
+2026-04-14 10:56:20  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 10:56:20  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 10:58:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:58:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:58:03  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=496s
+2026-04-14 10:58:03  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2056  remaining_req=14399  remaining_tok=3299  reset_req=6s
+2026-04-14 10:58:03  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='park in front of house'  en='Park in front of the house.'  (683ms)
+2026-04-14 10:58:03  INFO      POST /api/translate → 200  (685ms)  ip=127.0.0.1
+2026-04-14 10:58:03  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 10:58:03  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 10:58:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:58:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:58:39  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=469s
+2026-04-14 10:58:40  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2221  remaining_req=14399  remaining_tok=3886  reset_req=6s
+2026-04-14 10:58:40  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='附近有个学校，早上走路去学校的孩子很多。'  en="There's a school nearby, and   (823ms)
+2026-04-14 10:58:40  INFO      POST /api/translate → 200  (826ms)  ip=127.0.0.1
+2026-04-14 10:58:40  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 10:58:40  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-14 10:58:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:58:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:58:49  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=452s
+2026-04-14 10:58:49  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2096  remaining_req=14399  remaining_tok=2669  reset_req=6s
+2026-04-14 10:58:49  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我家有 车 道'  en="There's a driveway at my hous  (594ms)
+2026-04-14 10:58:49  INFO      POST /api/translate → 200  (595ms)  ip=127.0.0.1
+2026-04-14 10:58:49  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 10:58:49  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 10:59:54  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 10:59:54  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 10:59:54  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=387s
+2026-04-14 10:59:55  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2132  remaining_req=14399  remaining_tok=3909  reset_req=6s
+2026-04-14 10:59:55  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我也家有 车 道'  en='I also have a driveway at hom  (669ms)
+2026-04-14 10:59:55  INFO      POST /api/translate → 200  (672ms)  ip=127.0.0.1
+2026-04-14 10:59:55  INFO      POST /api/dict/segment → 200  (18ms)  ip=127.0.0.1
+2026-04-14 10:59:55  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 11:25:12  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 11:25:12  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 11:25:12  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2221  remaining_req=999  remaining_tok=9290  reset_req=1m26.4s
+2026-04-14 11:25:13  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='附近有个学校，早上有很多孩子走路去学校'  en="There's a school nearby, and   (1028ms)
+2026-04-14 11:25:13  INFO      POST /api/translate → 200  (1031ms)  ip=127.0.0.1
+2026-04-14 11:25:13  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 11:25:13  INFO      POST /api/dict/segment → 200  (26ms)  ip=127.0.0.1
+2026-04-14 13:43:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 13:43:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 13:43:49  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2048  remaining_req=999  remaining_tok=9297  reset_req=1m26.4s
+2026-04-14 13:43:49  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你識唔識佢'  en='Do you know him?'  (699ms)
+2026-04-14 13:43:49  INFO      POST /api/translate → 200  (701ms)  ip=127.0.0.1
+2026-04-14 13:43:49  INFO      POST /api/dict/segment → 200  (21ms)  ip=127.0.0.1
+2026-04-14 13:43:49  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 13:43:54  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=6  (1783ms)
+2026-04-14 13:43:54  INFO      POST /api/tts → 200  (1784ms)  ip=127.0.0.1
+2026-04-14 13:44:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 13:44:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 13:44:00  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2028  remaining_req=998  remaining_tok=9381  reset_req=2m52.8s
+2026-04-14 13:44:00  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你知唔知'  en='Do you know?'  (592ms)
+2026-04-14 13:44:00  INFO      POST /api/translate → 200  (593ms)  ip=127.0.0.1
+2026-04-14 13:44:00  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-14 13:44:00  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-14 13:44:03  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 13:44:03  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 13:44:03  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2051  remaining_req=997  remaining_tok=7273  reset_req=4m19.2s
+2026-04-14 13:44:03  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你知唔知'  en='Do you know or not?'  (611ms)
+2026-04-14 13:44:03  INFO      POST /api/translate → 200  (612ms)  ip=127.0.0.1
+2026-04-14 13:44:03  INFO      POST /api/dict/segment → 200  (13ms)  ip=127.0.0.1
+2026-04-14 13:44:03  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 13:44:07  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=5  (1554ms)
+2026-04-14 13:44:07  INFO      POST /api/tts → 200  (1554ms)  ip=127.0.0.1
+2026-04-14 14:56:23  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 14:56:23  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 14:56:24  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2497  remaining_req=999  remaining_tok=9275  reset_req=1m26.4s
+2026-04-14 14:56:24  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你去过亚洲旅游了吗？你比较喜欢去哪个亚洲的国家旅游？你去X  en='Have you traveled to Asia bef  (1702ms)
+2026-04-14 14:56:24  INFO      POST /api/translate → 200  (1704ms)  ip=127.0.0.1
+2026-04-14 14:56:24  INFO      POST /api/dict/segment → 200  (184ms)  ip=127.0.0.1
+2026-04-14 14:56:24  INFO      POST /api/dict/segment → 200  (56ms)  ip=127.0.0.1
+2026-04-14 14:57:04  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 14:57:04  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 14:57:05  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2497  remaining_req=998  remaining_tok=9275  reset_req=2m52.8s
+2026-04-14 14:57:05  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你去过亚洲旅游了吗？你比较喜欢去哪个亚洲的国家旅游？你去X  en='Have you traveled to Asia bef  (1559ms)
+2026-04-14 14:57:05  INFO      POST /api/translate → 200  (1564ms)  ip=127.0.0.1
+2026-04-14 14:57:06  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 14:57:06  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 15:02:20  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 15:02:20  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 15:02:20  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=630s
+2026-04-14 15:02:21  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2445  remaining_req=14399  remaining_tok=3277  reset_req=6s
+2026-04-14 15:02:21  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你最近去旅游了吗？你去了什么地方玩？你去了多少天？你最喜欢  en='Have you traveled recently? W  (1097ms)
+2026-04-14 15:02:21  INFO      POST /api/translate → 200  (1099ms)  ip=127.0.0.1
+2026-04-14 15:02:21  INFO      POST /api/dict/segment → 200  (59ms)  ip=127.0.0.1
+2026-04-14 15:02:21  INFO      POST /api/dict/segment → 200  (27ms)  ip=127.0.0.1
+2026-04-14 16:59:58  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=39  (1557ms)
+2026-04-14 16:59:58  INFO      POST /api/tts → 200  (1561ms)  ip=127.0.0.1
+2026-04-14 17:00:19  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=39  (1154ms)
+2026-04-14 17:00:19  INFO      POST /api/tts → 200  (1156ms)  ip=127.0.0.1
+2026-04-14 17:01:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:01:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:01:54  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2061  remaining_req=999  remaining_tok=9298  reset_req=1m26.4s
+2026-04-14 17:01:54  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='今天是四月十一三'  en='Today is April 13th'  (616ms)
+2026-04-14 17:01:54  INFO      POST /api/translate → 200  (618ms)  ip=127.0.0.1
+2026-04-14 17:01:54  INFO      POST /api/dict/segment → 200  (27ms)  ip=127.0.0.1
+2026-04-14 17:01:54  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:01:56  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1042ms)
+2026-04-14 17:01:56  INFO      POST /api/tts → 200  (1044ms)  ip=127.0.0.1
+2026-04-14 17:02:38  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:02:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:02:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1987  remaining_req=998  remaining_tok=9303  reset_req=2m52.8s
+2026-04-14 17:02:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='四'  en='Four'  (480ms)
+2026-04-14 17:02:39  INFO      POST /api/translate → 200  (482ms)  ip=127.0.0.1
+2026-04-14 17:02:39  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 17:02:39  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 17:02:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:02:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:02:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2064  remaining_req=997  remaining_tok=7699  reset_req=4m19.2s
+2026-04-14 17:02:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='今天是四月十一四'  en='Today is April 14th'  (803ms)
+2026-04-14 17:02:45  INFO      POST /api/translate → 200  (805ms)  ip=127.0.0.1
+2026-04-14 17:02:45  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-14 17:02:45  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 17:02:47  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1026ms)
+2026-04-14 17:02:47  INFO      POST /api/tts → 200  (1028ms)  ip=127.0.0.1
+2026-04-14 17:02:52  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1016ms)
+2026-04-14 17:02:52  INFO      POST /api/tts → 200  (1017ms)  ip=127.0.0.1
+2026-04-14 17:02:56  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1076ms)
+2026-04-14 17:02:56  INFO      POST /api/tts → 200  (1078ms)  ip=127.0.0.1
+2026-04-14 17:03:01  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (943ms)
+2026-04-14 17:03:01  INFO      POST /api/tts → 200  (945ms)  ip=127.0.0.1
+2026-04-14 17:03:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:03:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:03:27  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=27s
+2026-04-14 17:03:28  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2227  remaining_req=14399  remaining_tok=3288  reset_req=6s
+2026-04-14 17:03:28  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天我起床了，吃早餐了，然后去上班了。'  en='I got up today, had breakfast  (763ms)
+2026-04-14 17:03:28  INFO      POST /api/translate → 200  (771ms)  ip=127.0.0.1
+2026-04-14 17:03:28  INFO      POST /api/dict/segment → 200  (51ms)  ip=127.0.0.1
+2026-04-14 17:03:28  INFO      POST /api/dict/segment → 200  (25ms)  ip=127.0.0.1
+2026-04-14 17:03:30  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=19  (1150ms)
+2026-04-14 17:03:30  INFO      POST /api/tts → 200  (1152ms)  ip=127.0.0.1
+2026-04-14 17:03:38  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=19  (2134ms)
+2026-04-14 17:03:38  INFO      POST /api/tts → 200  (2136ms)  ip=127.0.0.1
+2026-04-14 17:06:02  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:06:02  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:06:02  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2037  remaining_req=998  remaining_tok=10010  reset_req=2m52.8s
+2026-04-14 17:06:02  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你46岁了'  en='You are 46 years old'  (659ms)
+2026-04-14 17:06:02  INFO      POST /api/translate → 200  (662ms)  ip=127.0.0.1
+2026-04-14 17:06:02  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 17:06:02  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-14 17:06:23  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:06:23  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:06:23  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1602s
+2026-04-14 17:06:24  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2050  remaining_req=14399  remaining_tok=3299  reset_req=6s
+2026-04-14 17:06:24  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你四六岁了'  en="You're four six years old."  (1207ms)
+2026-04-14 17:06:24  INFO      POST /api/translate → 200  (1208ms)  ip=127.0.0.1
+2026-04-14 17:06:24  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:06:24  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:06:27  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (1139ms)
+2026-04-14 17:06:27  INFO      POST /api/tts → 200  (1141ms)  ip=127.0.0.1
+2026-04-14 17:06:41  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=5  (886ms)
+2026-04-14 17:06:41  INFO      POST /api/tts → 200  (887ms)  ip=127.0.0.1
+2026-04-14 17:06:47  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:06:47  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:06:47  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1560s
+2026-04-14 17:06:47  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2068  remaining_req=14399  remaining_tok=3477  reset_req=6s
+2026-04-14 17:06:47  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我四六岁了'  en="I'm four years old, six years  (639ms)
+2026-04-14 17:06:47  INFO      POST /api/translate → 200  (642ms)  ip=127.0.0.1
+2026-04-14 17:06:47  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-14 17:06:47  INFO      POST /api/dict/segment → 200  (11ms)  ip=127.0.0.1
+2026-04-14 17:06:56  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:06:56  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:06:56  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1571s
+2026-04-14 17:06:56  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2065  remaining_req=14399  remaining_tok=2179  reset_req=6s
+2026-04-14 17:06:56  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我四六岁'  en='I am four years old and six m  (507ms)
+2026-04-14 17:06:56  INFO      POST /api/translate → 200  (512ms)  ip=127.0.0.1
+2026-04-14 17:06:56  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 17:06:56  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 17:07:15  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:07:15  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:07:15  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2103s
+2026-04-14 17:07:16  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2077  remaining_req=14399  remaining_tok=2018  reset_req=6s
+2026-04-14 17:07:16  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='你46岁了'  en='You are 46 years old.'  (825ms)
+2026-04-14 17:07:16  INFO      POST /api/translate → 200  (828ms)  ip=127.0.0.1
+2026-04-14 17:07:16  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 17:07:16  INFO      POST /api/dict/segment → 200  (7ms)  ip=127.0.0.1
+2026-04-14 17:07:27  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:07:27  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:07:27  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2093s
+2026-04-14 17:07:27  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2053  remaining_req=14399  remaining_tok=860  reset_req=6s
+2026-04-14 17:07:27  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我是46岁了'  en='I am 46 years old.'  (503ms)
+2026-04-14 17:07:27  INFO      POST /api/translate → 200  (505ms)  ip=127.0.0.1
+2026-04-14 17:07:27  INFO      POST /api/dict/segment → 200  (3ms)  ip=127.0.0.1
+2026-04-14 17:07:27  INFO      POST /api/dict/segment → 200  (4ms)  ip=127.0.0.1
+2026-04-14 17:07:49  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:07:49  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:07:49  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1520s
+2026-04-14 17:07:49  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2076  remaining_req=14399  remaining_tok=2561  reset_req=6s
+2026-04-14 17:07:49  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我是四十六岁了'  en='I am forty-six years old.'  (540ms)
+2026-04-14 17:07:49  INFO      POST /api/translate → 200  (542ms)  ip=127.0.0.1
+2026-04-14 17:07:49  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 17:07:49  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:07:53  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (1169ms)
+2026-04-14 17:07:53  INFO      POST /api/tts → 200  (1171ms)  ip=127.0.0.1
+2026-04-14 17:07:53  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (873ms)
+2026-04-14 17:07:53  INFO      POST /api/tts → 200  (873ms)  ip=127.0.0.1
+2026-04-14 17:07:54  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (999ms)
+2026-04-14 17:07:54  INFO      POST /api/tts → 200  (1000ms)  ip=127.0.0.1
+2026-04-14 17:07:57  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (953ms)
+2026-04-14 17:07:57  INFO      POST /api/tts → 200  (955ms)  ip=127.0.0.1
+2026-04-14 17:08:37  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:08:37  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:08:37  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=2023s
+2026-04-14 17:08:37  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2053  remaining_req=14399  remaining_tok=3922  reset_req=6s
+2026-04-14 17:08:37  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我四十六岁了'  en='I am forty-six years old.'  (592ms)
+2026-04-14 17:08:37  INFO      POST /api/translate → 200  (595ms)  ip=127.0.0.1
+2026-04-14 17:08:37  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:08:37  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 17:08:41  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=6  (996ms)
+2026-04-14 17:08:41  INFO      POST /api/tts → 200  (996ms)  ip=127.0.0.1
+2026-04-14 17:10:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:10:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:10:00  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1367s
+2026-04-14 17:10:01  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2148  remaining_req=14399  remaining_tok=3921  reset_req=6s
+2026-04-14 17:10:01  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天是四月十四号'  en='Today is April 14th.'  (659ms)
+2026-04-14 17:10:01  INFO      POST /api/translate → 200  (661ms)  ip=127.0.0.1
+2026-04-14 17:10:01  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 17:10:01  INFO      POST /api/dict/segment → 200  (6ms)  ip=127.0.0.1
+2026-04-14 17:10:05  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (1101ms)
+2026-04-14 17:10:05  INFO      POST /api/tts → 200  (1103ms)  ip=127.0.0.1
+2026-04-14 17:10:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:10:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:10:39  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1328s
+2026-04-14 17:10:39  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2055  remaining_req=14399  remaining_tok=3854  reset_req=6s
+2026-04-14 17:10:39  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='today is tuesday'  en='Today is Tuesday.'  (738ms)
+2026-04-14 17:10:39  INFO      POST /api/translate → 200  (740ms)  ip=127.0.0.1
+2026-04-14 17:10:39  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 17:10:39  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 17:10:51  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=7  (1144ms)
+2026-04-14 17:10:51  INFO      POST /api/tts → 200  (1148ms)  ip=127.0.0.1
+2026-04-14 17:13:37  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 17:13:37  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 17:13:37  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1731s
+2026-04-14 17:13:38  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2206  remaining_req=14399  remaining_tok=3289  reset_req=6s
+2026-04-14 17:13:38  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='今天我起床了，吃了早餐，然后去上班了'  en='I got up today, had breakfast  (702ms)
+2026-04-14 17:13:38  INFO      POST /api/translate → 200  (707ms)  ip=127.0.0.1
+2026-04-14 17:13:38  INFO      POST /api/dict/segment → 200  (19ms)  ip=127.0.0.1
+2026-04-14 17:13:38  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 19:53:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 19:53:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 19:53:45  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2008  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-14 19:53:45  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='centred'  en='centred'  (601ms)
+2026-04-14 19:53:45  INFO      POST /api/translate → 200  (607ms)  ip=127.0.0.1
+2026-04-14 19:53:45  INFO      POST /api/dict/segment → 200  (37ms)  ip=127.0.0.1
+2026-04-14 19:53:45  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 20:39:15  INFO      GET / → 304  (18ms)  ip=127.0.0.1
+2026-04-14 20:39:15  INFO      GET /static/styles.css → 304  (3ms)  ip=127.0.0.1
+2026-04-14 20:39:15  INFO      GET /static/app.js → 304  (7ms)  ip=127.0.0.1
+2026-04-14 20:39:16  INFO      GET /api/curriculum → 304  (3ms)  ip=127.0.0.1
+2026-04-14 20:39:16  INFO      GET /api/structure → 200  (294ms)  ip=127.0.0.1
+2026-04-14 20:39:17  INFO      GET /api/hidden → 200  (2ms)  ip=127.0.0.1
+2026-04-14 20:39:17  WARNING   GET /favicon.ico → 404  (4ms)  ip=127.0.0.1
+2026-04-14 20:39:17  INFO      GET /api/notes → 200  (14ms)  ip=127.0.0.1
+2026-04-14 21:28:43  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:28:43  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:28:44  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2130  remaining_req=999  remaining_tok=9290  reset_req=1m26.4s
+2026-04-14 21:28:44  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='特别是在冬天冬天天气很干燥干燥'  en='Especially in winter, the wea  (805ms)
+2026-04-14 21:28:44  INFO      POST /api/translate → 200  (809ms)  ip=127.0.0.1
+2026-04-14 21:28:44  INFO      POST /api/dict/segment → 200  (125ms)  ip=127.0.0.1
+2026-04-14 21:28:44  INFO      POST /api/dict/segment → 200  (17ms)  ip=127.0.0.1
+2026-04-14 21:31:33  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:31:33  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:31:34  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2008  remaining_req=999  remaining_tok=9301  reset_req=1m26.4s
+2026-04-14 21:31:34  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='饺子'  en='Dumplings'  (472ms)
+2026-04-14 21:31:34  INFO      POST /api/translate → 200  (473ms)  ip=127.0.0.1
+2026-04-14 21:31:34  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 21:31:34  INFO      POST /api/dict/segment → 200  (9ms)  ip=127.0.0.1
+2026-04-14 21:32:11  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:32:12  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:32:12  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2032  remaining_req=998  remaining_tok=9301  reset_req=2m52.8s
+2026-04-14 21:32:12  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='我刚到了'  en='I just arrived'  (507ms)
+2026-04-14 21:32:12  INFO      POST /api/translate → 200  (508ms)  ip=127.0.0.1
+2026-04-14 21:32:12  INFO      POST /api/dict/segment → 200  (20ms)  ip=127.0.0.1
+2026-04-14 21:32:12  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 21:35:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:35:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:35:39  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2005  remaining_req=999  remaining_tok=9302  reset_req=1m26.4s
+2026-04-14 21:35:39  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='形状'  en='Shape'  (542ms)
+2026-04-14 21:35:39  INFO      POST /api/translate → 200  (544ms)  ip=127.0.0.1
+2026-04-14 21:35:39  INFO      POST /api/dict/segment → 200  (10ms)  ip=127.0.0.1
+2026-04-14 21:35:39  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 21:36:40  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:36:40  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:36:40  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=1989  remaining_req=998  remaining_tok=9961  reset_req=2m52.8s
+2026-04-14 21:36:40  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='你们谷全供乐 en dong zhi k'  en='The input appears to be gibbe  (501ms)
+2026-04-14 21:36:40  INFO      POST /api/translate → 200  (504ms)  ip=127.0.0.1
+2026-04-14 21:36:40  WARNING   POST /api/dict/segment → 400  (0ms)  ip=127.0.0.1
+2026-04-14 21:36:53  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:36:53  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:36:53  DEBUG     [Groq usage] model=llama-3.3-70b-versatile  tokens=2017  remaining_req=997  remaining_tok=9992  reset_req=4m19.2s
+2026-04-14 21:36:53  INFO      [Translate] ok  model=llama-3.3-70b-versatile  src='开饭了'  en='Dinner is served'  (690ms)
+2026-04-14 21:36:53  INFO      POST /api/translate → 200  (692ms)  ip=127.0.0.1
+2026-04-14 21:36:53  INFO      POST /api/dict/segment → 200  (8ms)  ip=127.0.0.1
+2026-04-14 21:36:53  INFO      POST /api/dict/segment → 200  (12ms)  ip=127.0.0.1
+2026-04-14 21:37:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:37:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:37:00  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=826s
+2026-04-14 21:37:00  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2081  remaining_req=14399  remaining_tok=3298  reset_req=6s
+2026-04-14 21:37:00  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我们现在要开饭了'  en="We're going to eat now."  (570ms)
+2026-04-14 21:37:00  INFO      POST /api/translate → 200  (571ms)  ip=127.0.0.1
+2026-04-14 21:37:01  INFO      POST /api/dict/segment → 200  (36ms)  ip=127.0.0.1
+2026-04-14 21:37:01  INFO      POST /api/dict/segment → 200  (22ms)  ip=127.0.0.1
+2026-04-14 21:37:19  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (1933ms)
+2026-04-14 21:37:19  INFO      POST /api/tts → 200  (1935ms)  ip=127.0.0.1
+2026-04-14 21:37:23  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (976ms)
+2026-04-14 21:37:23  INFO      POST /api/tts → 200  (977ms)  ip=127.0.0.1
+2026-04-14 21:37:39  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:37:39  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:37:39  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=787s
+2026-04-14 21:37:40  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2080  remaining_req=14399  remaining_tok=3298  reset_req=6s
+2026-04-14 21:37:40  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我们现在要开饭了'  en="We're having lunch now."  (564ms)
+2026-04-14 21:37:40  INFO      POST /api/translate → 200  (566ms)  ip=127.0.0.1
+2026-04-14 21:37:40  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 21:37:40  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 21:37:44  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:37:44  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:37:44  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=804s
+2026-04-14 21:37:45  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2081  remaining_req=14398  remaining_tok=3131  reset_req=12s
+2026-04-14 21:37:45  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我们现在要开饭了'  en="It's time to eat now."  (662ms)
+2026-04-14 21:37:45  INFO      POST /api/translate → 200  (664ms)  ip=127.0.0.1
+2026-04-14 21:37:45  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 21:37:45  INFO      POST /api/dict/segment → 200  (1ms)  ip=127.0.0.1
+2026-04-14 21:37:47  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=9  (963ms)
+2026-04-14 21:37:47  INFO      POST /api/tts → 200  (964ms)  ip=127.0.0.1
+2026-04-14 21:38:00  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:38:00  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:38:00  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=788s
+2026-04-14 21:38:01  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2081  remaining_req=14399  remaining_tok=3039  reset_req=6s
+2026-04-14 21:38:01  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我们现在要开饭了'  en="We're going to eat now."  (716ms)
+2026-04-14 21:38:01  INFO      POST /api/translate → 200  (718ms)  ip=127.0.0.1
+2026-04-14 21:38:01  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 21:38:01  INFO      POST /api/dict/segment → 200  (0ms)  ip=127.0.0.1
+2026-04-14 21:42:32  WARNING   [Translate] rate-limit  model=qwen-qwq-32b  status=400  retry_after=?s
+2026-04-14 21:42:32  WARNING   [Translate] rate-limit  model=qwen2.5-72b-instruct  status=404  retry_after=?s
+2026-04-14 21:42:32  WARNING   [Translate] rate-limit  model=llama-3.3-70b-versatile  status=429  retry_after=1093s
+2026-04-14 21:42:32  DEBUG     [Groq usage] model=llama-3.1-8b-instant  tokens=2080  remaining_req=14399  remaining_tok=3920  reset_req=6s
+2026-04-14 21:42:32  INFO      [Translate] ok  model=llama-3.1-8b-instant  src='我们现在要开饭了'  en="We're having lunch now."  (714ms)
+2026-04-14 21:42:32  INFO      POST /api/translate → 200  (717ms)  ip=127.0.0.1
+2026-04-14 21:42:32  INFO      POST /api/dict/segment → 200  (5ms)  ip=127.0.0.1
+2026-04-14 21:42:32  INFO      POST /api/dict/segment → 200  (2ms)  ip=127.0.0.1
+2026-04-14 21:42:35  INFO      [TTS] Edge  voice=zh-CN-XiaoxiaoNeural  chars=8  (981ms)
+2026-04-14 21:42:35  INFO      POST /api/tts → 200  (982ms)  ip=127.0.0.1
+2026-04-14 21:42:39  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (931ms)
+2026-04-14 21:42:39  INFO      POST /api/tts → 200  (932ms)  ip=127.0.0.1
+2026-04-14 21:42:45  INFO      [TTS] Edge  voice=zh-HK-HiuMaanNeural  chars=9  (934ms)
+2026-04-14 21:42:45  INFO      POST /api/tts → 200  (936ms)  ip=127.0.0.1

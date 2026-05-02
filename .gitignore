@@ -1,0 +1,20 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+Canto_Mando_Videos/
+Comprensible Input/
+PDF_to_Mandarin/
+Anki/
+Keyboard Widget/
+Translator Extension/
+Yi_Web_App/
+openai_tts_output/
+_archive/
+The Phrase Vault/
+_MASTER_REFERENCE/
+Lazy Chinese/
+.claude/
+.vscode/

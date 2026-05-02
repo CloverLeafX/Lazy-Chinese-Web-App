@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lazy Chinese — Video Browser</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+/* ── Variables ─────────────────────────────────────────────────────── */
+:root {
+  --bg:       #0f1117;
+  --surface:  #1a1d27;
+  --surface2: #222638;
+  --border:   #2e3350;
+  --text:     #e2e4f0;
+  --muted:    #7a7f9a;
+  --accent:   #6c8ef7;
+  --green:    #3ecf8e;
+  --yellow:   #f5c842;
+  --red:      #f56565;
+  --radius:   10px;
+  --radius-sm:6px;
+  --header-h: 54px;
+  --filter-h: 52px;
+  --ff:       'Manrope', system-ui, -apple-system, sans-serif;
+  /* Level colours */
+  --lc-cb:  #93c5fd;
+  --lc-b:   #86efac;
+  --lc-li:  #d9f99d;
+  --lc-i:   #fde68a;
+  --lc-hi:  #fdba74;
+  --lc-a:   #fca5a5;
+}
+
+/* ── Reset ─────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: var(--ff);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+input, select, button { font-family: inherit; font-size: inherit; }
+
+/* ══════════════════════════════════════════════════════
+   BROWSE VIEW
+══════════════════════════════════════════════════════ */
+#browseView { min-height: 100%; }
+
+/* ── Header ─────────────────────────────────────────── */
+.app-header {
+  position: fixed; top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 18px; gap: 12px;
+  z-index: 100;
+}
+.brand { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.brand-logo {
+  width: 32px; height: 32px;
+  background: linear-gradient(135deg, #6c8ef7, #4c6ef5);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 800; color: #fff; letter-spacing: -0.5px;
+}
+.brand-text { font-size: 15px; font-weight: 800; letter-spacing: -0.3px; }
+.brand-text span { color: var(--accent); }
+.header-sep { width: 1px; height: 24px; background: var(--border); flex-shrink: 0; }
+.header-stats { display: flex; gap: 16px; }
+.stat-pill { font-size: 11px; color: var(--muted); font-weight: 500; }
+.stat-pill strong { color: var(--text); font-weight: 700; }
+.header-spacer { flex: 1; }
+
+/* ── Filter bar ──────────────────────────────────────── */
+.filter-bar {
+  position: fixed; top: var(--header-h); left: 0; right: 0;
+  height: var(--filter-h);
+  background: var(--surface2); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 18px; gap: 10px;
+  z-index: 90; overflow-x: auto;
+}
+.filter-bar::-webkit-scrollbar { height: 0; }
+select.filter-select {
+  background: var(--surface); color: var(--text);
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 5px 28px 5px 10px; height: 32px;
+  cursor: pointer; appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f9a' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 8px center;
+  font-size: 13px; font-weight: 500; white-space: nowrap; flex-shrink: 0;
+}
+select.filter-select:focus { outline: none; border-color: var(--accent); }
+.search-wrap { position: relative; flex: 1; min-width: 160px; max-width: 300px; }
+.search-icon { position: absolute; left: 9px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+input.search-input {
+  width: 100%; height: 32px;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); padding: 0 10px 0 32px;
+  color: var(--text); font-size: 13px;
+}
+input.search-input::placeholder { color: var(--muted); }
+input.search-input:focus { outline: none; border-color: var(--accent); }
+.bar-sep { width: 1px; height: 20px; background: var(--border); flex-shrink: 0; }
+.toggle-btn {
+  display: flex; align-items: center; gap: 6px;
+  height: 32px; padding: 0 12px;
+  border-radius: var(--radius-sm); border: 1px solid var(--border);
+  background: var(--surface); color: var(--muted);
+  font-size: 13px; font-weight: 500; cursor: pointer;
+  white-space: nowrap; flex-shrink: 0; transition: all 120ms ease;
+}
+.toggle-btn.active { background: rgba(108,142,247,.12); border-color: var(--accent); color: var(--accent); }
+
+/* ── Multi-select dropdown ───────────────────────────── */
+.multi-select { position: relative; flex-shrink: 0; }
+.multi-select-trigger {
+  display: flex; align-items: center; gap: 6px;
+  height: 32px; padding: 0 10px;
+  background: var(--surface); color: var(--muted);
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  font-size: 13px; font-weight: 500; cursor: pointer;
+  white-space: nowrap; transition: all 120ms ease;
+}
+.multi-select-trigger:hover { border-color: var(--accent); color: var(--text); }
+.multi-select-trigger.has-selection { background: rgba(108,142,247,.12); border-color: var(--accent); color: var(--accent); }
+.multi-select-menu {
+  display: none; position: fixed;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); box-shadow: 0 6px 16px rgba(0,0,0,.35);
+  min-width: 140px; z-index: 200; padding: 4px 0;
+}
+.multi-select-menu.open { display: block; }
+.multi-select-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 12px; font-size: 13px; font-weight: 500;
+  color: var(--text); cursor: pointer; white-space: nowrap;
+  transition: background 100ms;
+}
+.multi-select-item:hover { background: var(--surface2); }
+.multi-select-item input[type="checkbox"] { accent-color: var(--accent); width: 13px; height: 13px; cursor: pointer; }
+
+/* ── Grid ────────────────────────────────────────────── */
+.browse-main {
+  padding-top: calc(var(--header-h) + var(--filter-h));
+  min-height: 100vh; padding-bottom: 48px;
+}
+.results-count { font-size: 13px; color: var(--muted); font-weight: 500; }
+.results-count strong { color: var(--text); }
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(168px, 1fr));
+  gap: 14px; padding: 0 18px;
+}
+
+/* ── Cards ───────────────────────────────────────────── */
+.video-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden; cursor: pointer;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  display: flex; flex-direction: column;
+}
+.video-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.35);
+  border-color: rgba(108,142,247,.3);
+}
+.video-card.not-downloaded { opacity: .55; }
+.video-card.not-downloaded:hover { opacity: .8; }
+.video-card.is-watched { opacity: .45; }
+.video-card.is-watched:hover { opacity: .85; }
+.watched-badge {
+  position: absolute; bottom: 7px; left: 7px;
+  background: rgba(0,0,0,.65); border-radius: 4px;
+  padding: 2px 6px; font-size: 10px; font-weight: 700;
+  color: #4ade80; letter-spacing: .3px;
+}
+.thumb-wrap {
+  position: relative; aspect-ratio: 16/9; overflow: hidden;
+  background: var(--surface2); flex-shrink: 0;
+}
+.thumb-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; transition: opacity .2s; }
+.thumb-wrap img.loading { opacity: 0; }
+.thumb-wrap img.loaded  { opacity: 1; }
+.thumb-placeholder {
+  width: 100%; height: 100%;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 6px; color: rgba(255,255,255,.45); font-size: 10px; font-weight: 600; letter-spacing: .3px;
+}
+.thumb-placeholder svg { opacity: .35; }
+.duration-badge {
+  position: absolute; bottom: 5px; right: 5px;
+  background: rgba(0,0,0,.76); color: #fff;
+  font-size: 10px; font-weight: 700; padding: 2px 5px; border-radius: 4px;
+}
+.platform-badge {
+  position: absolute; top: 5px; left: 5px;
+  font-size: 9px; font-weight: 700; padding: 2px 5px; border-radius: 3px; letter-spacing: .4px; text-transform: uppercase;
+}
+.platform-badge.yt    { background: rgba(255,0,0,.82); color: #fff; }
+.platform-badge.bunny { background: rgba(245,158,11,.85); color: #fff; }
+.dl-dot {
+  position: absolute; top: 5px; right: 5px;
+  width: 8px; height: 8px; border-radius: 50%; border: 1.5px solid rgba(0,0,0,.4);
+}
+.dl-dot.full    { background: var(--green); }
+.dl-dot.partial { background: var(--yellow); }
+.card-body { padding: 9px 10px 10px; flex: 1; display: flex; flex-direction: column; gap: 6px; }
+.card-title {
+  font-size: 12px; font-weight: 600; color: var(--text); line-height: 1.35;
+  display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 32px;
+}
+.card-meta { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; margin-top: auto; }
+.level-badge {
+  font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px;
+  letter-spacing: .2px; line-height: 1.4; white-space: nowrap;
+}
+.card-teacher { font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* Level badge colours */
+.lvl-cb { background: rgba(147,197,253,.15); color: var(--lc-cb); }
+.lvl-b  { background: rgba(134,239,172,.15); color: var(--lc-b);  }
+.lvl-li { background: rgba(217,249,157,.15); color: var(--lc-li); }
+.lvl-i  { background: rgba(253,230,138,.15); color: var(--lc-i);  }
+.lvl-hi { background: rgba(253,186,116,.15); color: var(--lc-hi); }
+.lvl-a  { background: rgba(252,165,165,.15); color: var(--lc-a);  }
+
+/* ── States ──────────────────────────────────────────── */
+.empty-state { grid-column: 1/-1; text-align: center; padding: 64px 24px; color: var(--muted); font-size: 14px; }
+.empty-state svg { display: block; margin: 0 auto 16px; opacity: .2; }
+.loading-state { display: flex; align-items: center; justify-content: center; padding: 80px; color: var(--muted); gap: 10px; font-size: 13px; }
+.spinner { width: 18px; height: 18px; border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin .7s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.error-banner {
+  background: rgba(245,101,101,.1); border: 1px solid rgba(245,101,101,.3);
+  border-radius: var(--radius); padding: 12px 16px; margin: 18px;
+  color: var(--red); font-size: 13px;
+}
+
+/* ══════════════════════════════════════════════════════
+   WATCH VIEW
+══════════════════════════════════════════════════════ */
+#watchView {
+  position: fixed; inset: 0; z-index: 200;
+  background: var(--bg);
+  display: none; flex-direction: column;
+}
+#watchView.visible { display: flex; }
+
+/* Watch header */
+.watch-header {
+  height: var(--header-h); flex-shrink: 0;
+  background: var(--surface); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 14px; gap: 10px;
+}
+.back-btn {
+  display: flex; align-items: center; gap: 6px;
+  padding: 6px 12px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border); background: transparent;
+  color: var(--muted); font-size: 13px; font-weight: 600; cursor: pointer;
+  flex-shrink: 0; transition: all 120ms;
+}
+.back-btn:hover { border-color: var(--accent); color: var(--accent); }
+.watch-badge { flex-shrink: 0; }
+.watch-title {
+  font-size: 14px; font-weight: 700; color: var(--text);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  flex: 1; min-width: 0;
+}
+.watch-teacher { font-size: 12px; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
+.watch-spacer { flex: 1; }
+
+/* Script / pinyin controls */
+.watch-controls { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+.seg-group { display: flex; border: 1px solid var(--border); border-radius: var(--radius-sm); overflow: hidden; }
+.seg-btn {
+  padding: 5px 12px; background: transparent; border: none;
+  color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer;
+  transition: all 100ms; white-space: nowrap;
+}
+.seg-btn + .seg-btn { border-left: 1px solid var(--border); }
+.seg-btn.active { background: rgba(108,142,247,.15); color: var(--accent); }
+.seg-btn:hover:not(.active) { background: var(--surface2); }
+.pinyin-btn {
+  padding: 5px 12px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border); background: transparent;
+  color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer;
+  transition: all 100ms; white-space: nowrap;
+}
+.pinyin-btn.active { background: rgba(108,142,247,.15); border-color: var(--accent); color: var(--accent); }
+.watched-btn {
+  display: flex; align-items: center; gap: 5px;
+  padding: 5px 11px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border); background: transparent;
+  color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer;
+  transition: all 100ms; white-space: nowrap;
+}
+.watched-btn:hover { border-color: #4ade80; color: #4ade80; }
+.watched-btn.has-watches { border-color: rgba(74,222,128,.45); color: #4ade80; }
+.watched-count { font-size: 11px; opacity: .85; }
+
+/* Watch body */
+.watch-body {
+  flex: 1; display: flex; flex-direction: column; overflow: hidden; min-height: 0;
+}
+
+/* Player col — wraps video + captions overlay; becomes left column in side-by-side mode */
+.player-col {
+  flex: 1; display: flex; flex-direction: column; background: #000; min-height: 0; overflow: hidden;
+  position: relative;
+}
+
+/* Player section fills the player col */
+.player-section {
+  flex: 1; display: flex; flex-direction: column; min-height: 0;
+}
+
+/* Side-by-side layout when transcript is open */
+.watch-body.transcript-visible { flex-direction: row; }
+.watch-body.transcript-visible .player-col {
+  flex: 0 0 auto;
+  width: calc((100vh - var(--header-h)) * 16 / 9);
+  max-width: 65vw;
+}
+.watch-body.transcript-visible .transcript-section {
+  display: flex; flex: 1; min-width: 280px;
+}
+
+.player-wrap {
+  flex: 1; position: relative; min-height: 0; overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+}
+video#localVideo {
+  width: 100%; height: 100%; object-fit: contain; display: block;
+}
+.remote-frame {
+  position: absolute; inset: 0; width: 100%; height: 100%; border: none;
+}
+.current-sub-bar {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  min-height: 64px; padding: 10px 24px; overflow: hidden;
+  background: linear-gradient(to top, rgba(0,0,0,.85) 0%, rgba(0,0,0,.4) 100%);
+  display: flex; align-items: flex-end; justify-content: center; text-align: center;
+  cursor: default; opacity: 0; pointer-events: none; z-index: 10;
+}
+.watch-body.captions-on .current-sub-bar { opacity: 1; pointer-events: auto; }
+.current-sub-text {
+  font-size: 23px; font-weight: 500; color: #fff; line-height: 1.6;
+  letter-spacing: .3px;
+}
+/* MandarinSpot word wrappers inside captions */
+.current-sub-text ruby rt { font-size: 13px; color: rgba(255,255,255,.5); }
+
+/* Transcript section */
+.transcript-section {
+  display: none; flex: 1; flex-direction: column;
+  border-top: 1px solid var(--border);
+  background: var(--bg);
+}
+.watch-body.transcript-visible .transcript-section { display: flex; }
+
+/* MandarinSpot popup — ensure it escapes any overflow context */
+.mandarinspot-popup, #mandarinspot-popup, [id*="mandarinspot"] {
+  z-index: 9999 !important;
+}
+
+.sub-loading-bar {
+  flex-shrink: 0; padding: 8px 16px; display: none;
+  align-items: center; gap: 8px; font-size: 12px; color: var(--muted);
+  border-bottom: 1px solid var(--border);
+}
+.sub-loading-bar.active { display: flex; }
+
+.transcript-scroll {
+  flex: 1; overflow-y: auto; padding: 28px 24px 48px;
+  display: flex; flex-direction: column; align-items: center;
+}
+.transcript-scroll::-webkit-scrollbar { width: 4px; }
+.transcript-scroll::-webkit-scrollbar-track { background: transparent; }
+.transcript-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+/* Each subtitle line is an inline span — flows like natural paragraph text */
+#transcriptText {
+  font-size: 21px;
+  line-height: 2.4;
+  color: var(--text);
+  letter-spacing: 0.3px;
+  width: 100%;
+  max-width: calc(52vh * 16 / 9);
+}
+.sub-sent {
+  display: inline;
+  border-radius: 5px;
+  padding: 2px 4px;
+  cursor: pointer;
+  transition: background 120ms, color 120ms;
+}
+.sub-sent:hover { background: rgba(108,142,247,.1); }
+.sub-sent.active {
+  background: rgba(253,230,138,.18);
+  color: #fde68a;
+  outline: 1px solid rgba(253,230,138,.25);
+}
+/* MandarinSpot ruby styling */
+#transcriptText ruby rt {
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1;
+}
+
+/* ── Responsive ──────────────────────────────────────── */
+@media (max-width: 760px) {
+  .watch-body.transcript-visible { flex-direction: column; }
+  .watch-body.transcript-visible .player-col { width: auto; flex: 0 0 35vh; }
+  .transcript-scroll { padding: 16px 20px 32px; }
+  #transcriptText { font-size: 18px; }
+  .watch-title { display: none; }
+}
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════
+     BROWSE VIEW
+══════════════════════════════════════════════════════ -->
+<div id="browseView">
+
+  <header class="app-header">
+    <div class="brand">
+      <div class="brand-logo">LC</div>
+      <span class="brand-text">Lazy <span>Chinese</span></span>
+    </div>
+    <div class="header-sep"></div>
+    <span class="results-count" id="resultsCount">Loading…</span>
+    <div class="header-spacer"></div>
+  </header>
+
+  <div class="filter-bar">
+    <select class="filter-select" id="levelFilter">
+      <option value="">All Levels</option>
+      <option value="Complete Beginner">Complete Beginner</option>
+      <option value="Beginner">Beginner</option>
+      <option value="Low Intermediate">Low Intermediate</option>
+      <option value="Intermediate">Intermediate</option>
+      <option value="High Intermediate">High Intermediate</option>
+      <option value="Advanced">Advanced</option>
+    </select>
+    <select class="filter-select" id="teacherFilter">
+      <option value="">All Teachers</option>
+    </select>
+    <select class="filter-select" id="platformFilter">
+      <option value="">All Platforms</option>
+      <option value="YouTube">YouTube (Free)</option>
+      <option value="Bunny">Members</option>
+    </select>
+    <select class="filter-select" id="durationFilter">
+      <option value="">Any Length</option>
+      <option value="5">≤ 5 min</option>
+      <option value="10">≤ 10 min</option>
+      <option value="15">≤ 15 min</option>
+      <option value="20">≤ 20 min</option>
+      <option value="25">≤ 25 min</option>
+      <option value="30">≤ 30 min</option>
+      <option value="30+">30+ min</option>
+    </select>
+    <div class="search-wrap">
+      <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input class="search-input" id="searchInput" type="search" placeholder="Search videos…" autocomplete="off">
+    </div>
+    <div class="bar-sep"></div>
+    <div class="multi-select" id="watchedDropdown">
+      <button class="multi-select-trigger" id="watchedTrigger">
+        <span id="watchedLabel">Watch Status</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="multi-select-menu" id="watchedMenu">
+        <label class="multi-select-item"><input type="checkbox" value="watched" id="ckWatched"> Watched</label>
+        <label class="multi-select-item"><input type="checkbox" value="unwatched" id="ckUnwatched"> Unwatched</label>
+      </div>
+    </div>
+    <div class="bar-sep"></div>
+    <select class="filter-select" id="sortSelect">
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+      <option value="title">Title A–Z</option>
+      <option value="level_easy">Level: Easy → Hard</option>
+      <option value="level_hard">Level: Hard → Easy</option>
+    </select>
+  </div>
+
+  <main class="browse-main">
+    <div id="loadingState" class="loading-state">
+      <div class="spinner"></div>Loading catalog…
+    </div>
+    <div id="errorBanner" class="error-banner" style="display:none"></div>
+    <div class="video-grid" id="videoGrid"></div>
+  </main>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════
+     WATCH VIEW
+══════════════════════════════════════════════════════ -->
+<div id="watchView">
+
+  <div class="watch-header">
+    <button class="back-btn" id="backBtn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      Videos
+    </button>
+    <span class="level-badge watch-badge" id="watchBadge"></span>
+    <span class="watch-title" id="watchTitle"></span>
+    <span class="watch-teacher" id="watchTeacher"></span>
+    <div class="watch-spacer"></div>
+    <div class="watch-controls">
+      <button class="watched-btn" id="watchedBtn" title="Log a watch">
+        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        Watched <span id="watchedCount"></span>
+      </button>
+      <button class="watched-btn" id="unwatchBtn" title="Remove watch" style="display:none">−</button>
+      <button class="pinyin-btn" id="captionsToggle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:4px"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M7 15h4M13 15h4M7 11h2M11 11h2M15 11h2"/></svg>Captions
+      </button>
+      <button class="pinyin-btn" id="sidebarToggle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:4px"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>Script
+      </button>
+      <div class="seg-group" id="scriptGroup">
+        <button class="seg-btn active" id="btnSimp" data-script="simplified">简 Simplified</button>
+        <button class="seg-btn" id="btnTrad" data-script="traditional">繁 Traditional</button>
+      </div>
+      <button class="pinyin-btn" id="pinyinToggle">拼 Pinyin</button>
+    </div>
+  </div>
+
+  <div class="watch-body" id="watchBody">
+
+    <!-- Left col: video + captions bar -->
+    <div class="player-col">
+      <div class="player-section">
+        <div class="player-wrap" id="playerWrap">
+          <video id="localVideo" controls preload="metadata"></video>
+          <iframe id="remoteFrame" class="remote-frame" allow="autoplay; fullscreen" style="display:none"></iframe>
+        </div>
+      </div>
+      <div class="current-sub-bar">
+        <div class="current-sub-text" id="currentSubText">—</div>
+      </div>
+    </div>
+
+    <!-- Right col: transcript (hidden by default) -->
+    <div class="transcript-section">
+      <div class="sub-loading-bar" id="subLoadingBar">
+        <div class="spinner" style="width:12px;height:12px;border-width:1.5px"></div>
+        Loading subtitles…
+      </div>
+      <div class="transcript-scroll">
+        <div id="transcriptText"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script type="module">
+/* ══════════════════════════════════════════════════════
+   CONSTANTS
+══════════════════════════════════════════════════════ */
+const BASE = window.location.pathname.startsWith('/lazy_web_app') ? '/lazy_web_app' : '';
+const LEVEL_ORDER = ["Complete Beginner","Beginner","Low Intermediate","Intermediate","High Intermediate","Advanced"];
+const LEVEL_CLASS = {
+  "Complete Beginner":"lvl-cb","Beginner":"lvl-b","Low Intermediate":"lvl-li",
+  "Intermediate":"lvl-i","High Intermediate":"lvl-hi","Advanced":"lvl-a"
+};
+const LEVEL_BG = {
+  "Complete Beginner":"linear-gradient(135deg,#1e3a5f,#1b3d6e)",
+  "Beginner":         "linear-gradient(135deg,#1a3d2e,#1a4832)",
+  "Low Intermediate": "linear-gradient(135deg,#2a3d1a,#32491a)",
+  "Intermediate":     "linear-gradient(135deg,#3d3210,#4a3c10)",
+  "High Intermediate":"linear-gradient(135deg,#3d2510,#4a2e10)",
+  "Advanced":         "linear-gradient(135deg,#3d1a1a,#4a2020)",
+};
+
+/* ══════════════════════════════════════════════════════
+   STATE
+══════════════════════════════════════════════════════ */
+let allVideos    = [];
+let watchState   = {};   // { [id]: { watched, watchedAt, watchCount, lastPosition } }
+let currentVideo = null;
+let subtitles    = [];
+let activeIdx    = -1;
+let scriptMode   = "simplified";
+let pinyinOn     = false;
+let captionsOn   = false;
+let msLoaded     = false;
+
+/* ══════════════════════════════════════════════════════
+   BOOT
+══════════════════════════════════════════════════════ */
+async function boot() {
+  await migrateLocalStorage();
+  try {
+    const [catalog, ws] = await Promise.all([
+      fetch(`${BASE}/api/catalog`).then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); }),
+      fetch(`${BASE}/api/watch-state`).then(r => r.json()),
+    ]);
+    watchState = ws;
+    allVideos  = catalog;
+    populateTeachers();
+    document.getElementById("loadingState").style.display = "none";
+    render();
+  } catch (err) {
+    document.getElementById("loadingState").style.display = "none";
+    const el = document.getElementById("errorBanner");
+    el.style.display = "block";
+    el.textContent = `Could not load data: ${err.message}`;
+  }
+}
+
+/* ── One-time migration of localStorage watch history to server ── */
+async function migrateLocalStorage() {
+  if (localStorage.getItem('lc_migrated')) return;
+  let old = {};
+  try { old = JSON.parse(localStorage.getItem('lc_watch_history') || '{}'); } catch { /**/ }
+  const entries = Object.entries(old).filter(([, v]) => v?.history?.length);
+  for (const [id, v] of entries) {
+    for (const entry of v.history) {
+      await fetch(`${BASE}/api/watch-state/${id}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ watched: true, watchedAt: entry.ts }),
+      }).catch(() => {});
+    }
+  }
+  localStorage.setItem('lc_migrated', '1');
+}
+
+function populateTeachers() {
+  const teachers = new Set();
+  allVideos.forEach(v => (v.teacher||"").split(",").forEach(t => { if (t.trim()) teachers.add(t.trim()); }));
+  const sel = document.getElementById("teacherFilter");
+  [...teachers].sort().forEach(t => {
+    const opt = document.createElement("option");
+    opt.value = t; opt.textContent = t;
+    sel.appendChild(opt);
+  });
+}
+
+/* ══════════════════════════════════════════════════════
+   BROWSE — FILTER & RENDER
+══════════════════════════════════════════════════════ */
+function parseLengthMins(str) {
+  if (!str) return null;
+  const parts = str.split(":").map(Number);
+  if (parts.length === 2) return parts[0] + parts[1] / 60;
+  if (parts.length === 3) return parts[0] * 60 + parts[1] + parts[2] / 60;
+  return null;
+}
+
+function getFiltered() {
+  const level    = document.getElementById("levelFilter").value;
+  const teacher  = document.getElementById("teacherFilter").value;
+  const platform = document.getElementById("platformFilter").value;
+  const duration = document.getElementById("durationFilter").value;
+  const showWatched   = document.getElementById("ckWatched").checked;
+  const showUnwatched = document.getElementById("ckUnwatched").checked;
+  const filterByWatch = showWatched || showUnwatched;
+  const search   = document.getElementById("searchInput").value.trim().toLowerCase();
+  const sort     = document.getElementById("sortSelect").value;
+
+  let res = allVideos.filter(v => {
+    if (level    && v.level    !== level)   return false;
+    if (platform && v.platform !== platform) return false;
+    if (teacher  && !v.teacher.split(",").map(t=>t.trim()).includes(teacher)) return false;
+    if (search   && !`${v.title} ${v.teacher} ${v.level}`.toLowerCase().includes(search)) return false;
+    if (filterByWatch) {
+      const isWatched = !!(watchState[v.id]?.watchCount);
+      if (isWatched  && !showWatched)   return false;
+      if (!isWatched && !showUnwatched) return false;
+    }
+    if (duration) {
+      const mins = parseLengthMins(v.length);
+      if (mins === null) return false;
+      if (duration === "30+") { if (mins <= 30) return false; }
+      else { if (mins > Number(duration)) return false; }
+    }
+    return true;
+  });
+  res.sort((a,b)=>{
+    if (sort==="newest")     return new Date(b.uploadDate)-new Date(a.uploadDate);
+    if (sort==="oldest")     return new Date(a.uploadDate)-new Date(b.uploadDate);
+    if (sort==="title")      return a.title.localeCompare(b.title);
+    if (sort==="level_easy") return LEVEL_ORDER.indexOf(a.level)-LEVEL_ORDER.indexOf(b.level);
+    if (sort==="level_hard") return LEVEL_ORDER.indexOf(b.level)-LEVEL_ORDER.indexOf(a.level);
+    return 0;
+  });
+  return res;
+}
+
+function render() {
+  const videos = getFiltered();
+  const grid   = document.getElementById("videoGrid");
+  const watchedCount = allVideos.filter(v => watchState[v.id]?.watchCount).length;
+  document.getElementById("resultsCount").innerHTML =
+    `Showing <strong>${videos.length}</strong> of ${allVideos.length} videos · <strong>${watchedCount}</strong> watched`;
+
+  if (!videos.length) {
+    grid.innerHTML = `<div class="empty-state">
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      No videos match your filters.</div>`;
+    return;
+  }
+  grid.innerHTML = "";
+  const frag = document.createDocumentFragment();
+  videos.forEach(v => frag.appendChild(buildCard(v)));
+  grid.appendChild(frag);
+}
+
+function buildCard(v) {
+  const isYT      = v.platform === "YouTube";
+  const isDL      = !!v.video_done;
+  const isPartial = !v.video_done && !!v.folder_path;
+  const watchCount = watchState[v.id]?.watchCount || 0;
+
+  const card = document.createElement("div");
+  card.className = "video-card" + (isDL ? "" : " not-downloaded") + (watchCount ? " is-watched" : "");
+  card.title = v.title;
+  card.addEventListener("click", () => openWatch(v));
+
+  // Thumbnail
+  const thumbWrap = document.createElement("div");
+  thumbWrap.className = "thumb-wrap";
+
+  const thumbUrl = isYT
+    ? `https://i.ytimg.com/vi_webp/${v.id}/maxresdefault.webp`
+    : `https://cdn.lazychinese.com/bunny_thumbnails/812/${v.id}.webp`;
+
+  const img = document.createElement("img");
+  img.alt = v.title; img.className = "loading";
+  img.src = thumbUrl;
+  img.onload  = () => { img.classList.replace("loading","loaded"); };
+  img.onerror = () => { img.replaceWith(makePlaceholder(v)); };
+  thumbWrap.appendChild(img);
+
+  if (v.length) {
+    const dur = document.createElement("div");
+    dur.className = "duration-badge"; dur.textContent = v.length;
+    thumbWrap.appendChild(dur);
+  }
+  if (watchCount) {
+    const wb = document.createElement("div");
+    wb.className = "watched-badge";
+    wb.textContent = watchCount > 1 ? `✓ ×${watchCount}` : "✓ Watched";
+    thumbWrap.appendChild(wb);
+  }
+  const plat = document.createElement("div");
+  plat.className = "platform-badge " + (isYT ? "yt" : "bunny");
+  plat.textContent = isYT ? "YT" : "MB";
+  thumbWrap.appendChild(plat);
+
+  if (isDL || isPartial) {
+    const dot = document.createElement("div");
+    dot.className = "dl-dot " + (isDL ? "full" : "partial");
+    dot.title = isDL ? "Downloaded" : "Partially downloaded";
+    thumbWrap.appendChild(dot);
+  }
+  card.appendChild(thumbWrap);
+
+  // Body
+  const body = document.createElement("div");
+  body.className = "card-body";
+  const title = document.createElement("div");
+  title.className = "card-title"; title.textContent = v.title;
+  body.appendChild(title);
+  const meta = document.createElement("div");
+  meta.className = "card-meta";
+  const lvl = document.createElement("span");
+  lvl.className = "level-badge " + (LEVEL_CLASS[v.level]||"lvl-i");
+  lvl.textContent = v.level;
+  meta.appendChild(lvl);
+  if (v.teacher) {
+    const teach = document.createElement("span");
+    teach.className = "card-teacher";
+    teach.textContent = v.teacher.replace(/,/g,", ");
+    meta.appendChild(teach);
+  }
+  body.appendChild(meta);
+  card.appendChild(body);
+  return card;
+}
+
+function makePlaceholder(v) {
+  const el = document.createElement("div");
+  el.className = "thumb-placeholder";
+  el.style.background = LEVEL_BG[v.level] || "linear-gradient(135deg,#1a1d27,#222638)";
+  el.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Members</span>`;
+  return el;
+}
+
+/* ══════════════════════════════════════════════════════
+   WATCH VIEW
+══════════════════════════════════════════════════════ */
+
+/* ── Watch state (server-backed) ─────────────────────── */
+async function logWatch(v) {
+  const res = await fetch(`${BASE}/api/watch-state/${v.id}`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ watched: true }),
+  }).catch(() => null);
+  if (!res?.ok) return;
+  const entry = watchState[v.id] || {};
+  watchState[v.id] = {
+    ...entry,
+    watched:    true,
+    watchCount: (entry.watchCount || 0) + 1,
+    watchedAt:  new Date().toISOString(),
+  };
+  updateWatchedBtn(v.id);
+  render();
+}
+
+async function removeWatch(v) {
+  const res = await fetch(`${BASE}/api/watch-state/${v.id}`, { method: 'DELETE' }).catch(() => null);
+  if (!res?.ok) return;
+  delete watchState[v.id];
+  updateWatchedBtn(v.id);
+  render();
+}
+
+function updateWatchedBtn(videoId) {
+  const count = watchState[videoId]?.watchCount || 0;
+  const btn = document.getElementById("watchedBtn");
+  const el  = document.getElementById("watchedCount");
+  el.textContent  = count > 0 ? `×${count}` : "";
+  btn.classList.toggle("has-watches", count > 0);
+  document.getElementById("unwatchBtn").style.display = count > 0 ? "" : "none";
+}
+
+function openWatch(v) {
+  currentVideo = v;
+  subtitles    = [];
+  activeIdx    = -1;
+
+  document.getElementById("watchTitle").textContent = v.title;
+  document.getElementById("watchTeacher").textContent = v.teacher?.replace(/,/g,", ") || "";
+  const badge = document.getElementById("watchBadge");
+  badge.className = `level-badge watch-badge ${LEVEL_CLASS[v.level]||"lvl-i"}`;
+  badge.textContent = v.level;
+
+  document.getElementById("browseView").style.display = "none";
+  document.getElementById("watchView").classList.add("visible");
+
+  // Reset — transcript/captions hidden, pinyin off
+  pinyinOn    = false;
+  captionsOn  = false;
+  document.getElementById("pinyinToggle").classList.remove("active");
+  document.getElementById("sidebarToggle").classList.remove("active");
+  document.getElementById("captionsToggle").classList.remove("active");
+  document.getElementById("watchBody").classList.remove("transcript-visible", "captions-on");
+  document.getElementById("currentSubText").textContent = "—";
+  document.getElementById("transcriptText").innerHTML = "";
+
+  setScript("simplified", false);
+  setupPlayer(v);
+  loadSubtitles(v, scriptMode);
+  updateWatchedBtn(v.id);
+  toggleCaptions();  // captions on by default
+}
+
+function closeWatch() {
+  document.getElementById("watchView").classList.remove("visible");
+  document.getElementById("browseView").style.display = "";
+  const vid = document.getElementById("localVideo");
+  vid.pause(); vid.src = "";
+  document.getElementById("remoteFrame").src = "";
+}
+
+/* ── Player ─────────────────────────────────────────── */
+async function setupPlayer(v) {
+  const vid   = document.getElementById("localVideo");
+  const frame = document.getElementById("remoteFrame");
+
+  if (v.video_done) {
+    vid.style.display = "block";
+    frame.style.display = "none"; frame.src = "";
+    vid.removeEventListener("timeupdate", onTimeUpdate);
+    vid.addEventListener("timeupdate", onTimeUpdate);
+    try {
+      const data = await fetch(`${BASE}/api/video-url/${v.id}`).then(r => r.json());
+      vid.src = data.url;
+      vid.load();
+    } catch (err) {
+      console.error("Could not get video URL:", err);
+    }
+  } else if (v.platform === "YouTube") {
+    frame.src = `https://www.youtube.com/embed/${v.id}?autoplay=1&rel=0`;
+    frame.style.display = "block";
+    vid.style.display = "none"; vid.src = "";
+  } else {
+    frame.src = `https://iframe.mediadelivery.net/embed/210274/${v.id}?autoplay=true`;
+    frame.style.display = "block";
+    vid.style.display = "none"; vid.src = "";
+  }
+}
+
+function onTimeUpdate() {
+  syncSubs(document.getElementById("localVideo").currentTime);
+}
+
+/* ── Subtitle loading ───────────────────────────────── */
+async function loadSubtitles(v, script) {
+  const loadBar = document.getElementById("subLoadingBar");
+  loadBar.classList.add("active");
+  subtitles = []; activeIdx = -1;
+  document.getElementById("transcriptText").innerHTML = "";
+  document.getElementById("currentSubText").textContent = "—";
+
+  let srtText = null;
+  try {
+    const r = await fetch(`${BASE}/subtitle/${v.id}?script=${script}`);
+    if (r.ok) srtText = await r.text();
+  } catch(_) {}
+
+  loadBar.classList.remove("active");
+
+  if (!srtText) {
+    document.getElementById("transcriptText").textContent = "No subtitles found.";
+    return;
+  }
+
+  subtitles = parseSRT(srtText);
+  renderTranscript();
+}
+
+/* ── SRT parser ─────────────────────────────────────── */
+function parseSRT(raw) {
+  return raw.trim().split(/\n\s*\n/).map(block => {
+    const lines    = block.trim().split("\n");
+    const timeLine = lines.find(l => l.includes("-->"));
+    if (!timeLine) return null;
+    const m = timeLine.match(/(\d{2}:\d{2}:\d{2}[,\.]\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}[,\.]\d{3})/);
+    if (!m) return null;
+    const text = lines.slice(lines.indexOf(timeLine)+1).join(" ").trim();
+    if (!text) return null;
+    return { start: toSec(m[1]), end: toSec(m[2]), text };
+  }).filter(Boolean);
+}
+
+function toSec(ts) {
+  const [hms, ms] = ts.replace(",",".").split(".");
+  const [h,m,s]   = hms.split(":").map(Number);
+  return h*3600 + m*60 + s + parseFloat("0."+(ms||"0"));
+}
+
+/* ── Render flowing transcript ──────────────────────── */
+function renderTranscript() {
+  const container = document.getElementById("transcriptText");
+  container.innerHTML = "";
+  const frag = document.createDocumentFragment();
+
+  subtitles.forEach((sub, i) => {
+    const span = document.createElement("span");
+    span.className = "sub-sent";
+    span.dataset.idx = i;
+    span.textContent = sub.text + " ";
+    span.addEventListener("click", () => {
+      const vid = document.getElementById("localVideo");
+      if (vid.src) { vid.currentTime = sub.start; vid.play(); }
+    });
+    frag.appendChild(span);
+  });
+
+  container.appendChild(frag);
+  applyMandarinSpot();
+}
+
+/* ── MandarinSpot integration ───────────────────────── */
+function loadMandarinSpot() {
+  if (msLoaded || document.querySelector("script[data-ms]")) return Promise.resolve();
+  return new Promise(resolve => {
+    const s = document.createElement("script");
+    s.src = "//mandarinspot.com/static/mandarinspot.min.js";
+    s.dataset.ms = "1";
+    s.onload  = () => { msLoaded = true; resolve(); };
+    s.onerror = () => resolve();
+    document.body.appendChild(s);
+  });
+}
+
+async function applyMandarinSpot() {
+  await loadMandarinSpot();
+  if (!window.mandarinspot) return;
+  mandarinspot.annotate("#transcriptText", { phonetic: "pinyin", show: true, inline: pinyinOn ? "visible" : "hidden" });
+
+  const el = document.getElementById("transcriptText");
+  el.addEventListener("mouseleave", () => {
+    const popup = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
+    if (popup) popup.style.display = "none";
+  }, { once: false });
+
+  const captionEl = document.getElementById("currentSubText");
+  captionEl.addEventListener("mouseleave", () => {
+    const popup = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
+    if (popup) popup.style.display = "none";
+  }, { once: false });
+}
+
+/* ── Subtitle sync ──────────────────────────────────── */
+function syncSubs(t) {
+  const idx = subtitles.findIndex(s => t >= s.start && t <= s.end);
+  if (idx === activeIdx) return;
+
+  if (activeIdx >= 0)
+    document.querySelector(`.sub-sent[data-idx="${activeIdx}"]`)?.classList.remove("active");
+
+  activeIdx = idx;
+  updateCaptions(idx);
+
+  if (idx >= 0) {
+    const el = document.querySelector(`.sub-sent[data-idx="${idx}"]`);
+    if (el) {
+      el.classList.add("active");
+      if (document.getElementById("watchBody").classList.contains("transcript-visible"))
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  }
+}
+
+/* ── Captions ────────────────────────────────────────── */
+function updateCaptions(idx) {
+  const el = document.getElementById("currentSubText");
+  if (idx < 0) { el.textContent = ""; return; }
+  el.textContent = subtitles[idx].text;
+  if (captionsOn && window.mandarinspot)
+    mandarinspot.annotate(el, { phonetic: "pinyin", show: true, inline: pinyinOn });
+}
+
+async function toggleCaptions() {
+  captionsOn = !captionsOn;
+  document.getElementById("captionsToggle").classList.toggle("active", captionsOn);
+  document.getElementById("watchBody").classList.toggle("captions-on", captionsOn);
+  if (captionsOn) {
+    if (!pinyinOn) await togglePinyin();
+    await loadMandarinSpot();
+    if (activeIdx >= 0) updateCaptions(activeIdx);
+  }
+}
+
+/* ── Script toggle ──────────────────────────────────── */
+function setScript(mode, reload = true) {
+  scriptMode = mode;
+  document.getElementById("btnSimp").classList.toggle("active", mode === "simplified");
+  document.getElementById("btnTrad").classList.toggle("active", mode === "traditional");
+  if (reload && currentVideo) loadSubtitles(currentVideo, mode);
+}
+
+/* ── Pinyin (MandarinSpot inline) ───────────────────── */
+async function togglePinyin() {
+  pinyinOn = !pinyinOn;
+  document.getElementById("pinyinToggle").classList.toggle("active", pinyinOn);
+  if (!msLoaded) {
+    document.getElementById("pinyinToggle").textContent = "拼 Loading…";
+    await loadMandarinSpot();
+    document.getElementById("pinyinToggle").textContent = "拼 Pinyin";
+  }
+  if (window.mandarinspot)
+    mandarinspot.showInline(pinyinOn ? "visible" : "hidden");
+}
+
+/* ── Transcript toggle ──────────────────────────────── */
+async function toggleTranscript() {
+  const body = document.getElementById("watchBody");
+  const nowVisible = body.classList.toggle("transcript-visible");
+  document.getElementById("sidebarToggle").classList.toggle("active", nowVisible);
+  if (nowVisible && !pinyinOn) await togglePinyin();
+}
+
+/* ══════════════════════════════════════════════════════
+   EVENTS — browse filters
+══════════════════════════════════════════════════════ */
+const watchedTrigger = document.getElementById("watchedTrigger");
+const watchedMenu    = document.getElementById("watchedMenu");
+const watchedLabel   = document.getElementById("watchedLabel");
+
+watchedTrigger.addEventListener("click", e => {
+  e.stopPropagation();
+  const isOpen = watchedMenu.classList.contains("open");
+  watchedMenu.classList.toggle("open");
+  if (!isOpen) {
+    const r = watchedTrigger.getBoundingClientRect();
+    watchedMenu.style.top  = (r.bottom + 4) + "px";
+    watchedMenu.style.left = r.left + "px";
+  }
+});
+document.addEventListener("click", () => watchedMenu.classList.remove("open"));
+watchedMenu.addEventListener("click", e => e.stopPropagation());
+
+function updateWatchedDropdown() {
+  const ckW = document.getElementById("ckWatched").checked;
+  const ckU = document.getElementById("ckUnwatched").checked;
+  if (ckW && ckU)       watchedLabel.textContent = "Watched + Unwatched";
+  else if (ckW)         watchedLabel.textContent = "Watched";
+  else if (ckU)         watchedLabel.textContent = "Unwatched";
+  else                  watchedLabel.textContent = "Watch Status";
+  watchedTrigger.classList.toggle("has-selection", ckW || ckU);
+  render();
+}
+["ckWatched","ckUnwatched"].forEach(id =>
+  document.getElementById(id).addEventListener("change", updateWatchedDropdown)
+);
+
+["levelFilter","teacherFilter","platformFilter","durationFilter","sortSelect"].forEach(id =>
+  document.getElementById(id).addEventListener("change", render)
+);
+let debounce;
+document.getElementById("searchInput").addEventListener("input", () => {
+  clearTimeout(debounce); debounce = setTimeout(render, 150);
+});
+
+/* ══════════════════════════════════════════════════════
+   EVENTS — watch view
+══════════════════════════════════════════════════════ */
+document.getElementById("backBtn").addEventListener("click", closeWatch);
+document.getElementById("watchedBtn").addEventListener("click", () => { if (currentVideo) logWatch(currentVideo); });
+document.getElementById("unwatchBtn").addEventListener("click", () => { if (currentVideo) removeWatch(currentVideo); });
+document.getElementById("captionsToggle").addEventListener("click", toggleCaptions);
+document.getElementById("pinyinToggle").addEventListener("click", togglePinyin);
+document.getElementById("sidebarToggle").addEventListener("click", toggleTranscript);
+document.getElementById("btnSimp").addEventListener("click", () => setScript("simplified"));
+document.getElementById("btnTrad").addEventListener("click", () => setScript("traditional"));
+
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && document.getElementById("watchView").classList.contains("visible"))
+    closeWatch();
+});
+
+/* ── Boot ───────────────────────────────────────────── */
+boot();
+</script>
+</body>
+</html>
