@@ -53,9 +53,11 @@ def _load_catalog() -> list:
     videos  = json.loads(Path(files[0]).read_text())
     tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
 
+    od_idx = _load_onedrive_index()
+
     for v in videos:
         t = tracker.get(v["id"], {})
-        v["video_done"]  = t.get("video_done", False)
+        v["video_done"]  = t.get("video_done", False) or bool(od_idx.get(v["id"], {}).get("mp4_id"))
         v["srt_done"]    = t.get("srt_done", False)
         v["srt_tw_done"] = t.get("srt_tw_done", False)
         v["srt_path"]    = t.get("srt_path")
