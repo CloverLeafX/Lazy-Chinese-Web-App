@@ -1,1 +1,1 @@
-web: cd Canto_Mando_Viewer && python3 server.py
+web: cd Canto_Mando_Viewer && gunicorn server:app --bind "0.0.0.0:$PORT" --workers 1 --threads 4 --timeout 120

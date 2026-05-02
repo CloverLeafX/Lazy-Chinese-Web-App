@@ -57,14 +57,18 @@ app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 CORS(app)
 
 # ── Lazy Chinese Web App (Blueprint mount) ────────────────────────────────────
-import importlib.util as _ilu
-_lazy_spec = _ilu.spec_from_file_location(
-    "lazy_server",
-    os.path.join(BASE, "Lazy Chinese Web App", "server.py"),
-)
-_lazy_mod = _ilu.module_from_spec(_lazy_spec)
-_lazy_spec.loader.exec_module(_lazy_mod)
-app.register_blueprint(_lazy_mod.lazy_bp, url_prefix="/lazy_web_app")
+try:
+    import importlib.util as _ilu
+    _lazy_spec = _ilu.spec_from_file_location(
+        "lazy_server",
+        os.path.join(BASE, "Lazy Chinese Web App", "server.py"),
+    )
+    _lazy_mod = _ilu.module_from_spec(_lazy_spec)
+    _lazy_spec.loader.exec_module(_lazy_mod)
+    app.register_blueprint(_lazy_mod.lazy_bp, url_prefix="/lazy_web_app")
+    print("✅  Lazy Chinese Web App mounted at /lazy_web_app")
+except Exception as _e:
+    print(f"⚠️  Lazy Chinese Web App failed to mount: {_e}")
 
 # ── Course structure helpers ──────────────────────────────────────────────────
 
@@ -149,6 +153,10 @@ def _build_structure() -> list:
 @app.route("/")
 def index():
     return send_file(os.path.join(STATIC_DIR, "index.html"))
+
+@app.route("/health")
+def health():
+    return jsonify({"ok": True})
 
 @app.route("/api/structure")
 def api_structure():
