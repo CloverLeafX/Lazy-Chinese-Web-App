@@ -242,4 +242,4 @@ if __name__ == "__main__":
     print(f"  Catalog : {len(_catalog)} videos")
     print(f"  Index   : {'✓' if has_index else '✗ run build_index.py'}")
     print(f"  Tokens  : {'✓' if TOKENS_PATH.exists() else '✗ run auth_setup.py'}")
-    app.run(host="0.0.0.0", port=PORT, debug=True)
+    app.run(host="0.0.0.0", port=PORT, debug=False)

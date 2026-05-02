@@ -801,4 +801,4 @@ if __name__ == "__main__":
     threading.Thread(target=_cedict._ensure_loaded, daemon=True).start()
     print(f"✅  Canto → Mando Blueprint  →  http://localhost:{PORT}")
     print("    Press Ctrl+C to stop.\n")
-    app.run(host="127.0.0.1", port=PORT, debug=False)
+    app.run(host="0.0.0.0", port=PORT, debug=False)
