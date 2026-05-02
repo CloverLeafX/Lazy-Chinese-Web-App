@@ -9,12 +9,6 @@ Then open: http://localhost:8800
 """
 import asyncio, glob, hashlib, io, json, mimetypes, os, re, sys, threading
 import cedict as _cedict
-try:
-    import pycantonese as _pycantonese
-    _HAS_PYCANTONESE = True
-except ImportError:
-    _pycantonese = None
-    _HAS_PYCANTONESE = False
 import setproctitle
 setproctitle.setproctitle("CantoMandoServer")
 
@@ -596,14 +590,14 @@ def api_translate():
 
 def _jyutping(word: str) -> str:
     """Convert Chinese characters to spaced Jyutping, e.g. 通常 → tung1 soeng4."""
-    if not _HAS_PYCANTONESE or not word:
+    if not word:
         return ""
     try:
-        pairs = _pycantonese.characters_to_jyutping(word)
+        import pycantonese as _pc
+        pairs = _pc.characters_to_jyutping(word)
         parts = []
         for _, jp in pairs:
             if jp:
-                # insert spaces between syllables: tung1soeng4 → tung1 soeng4
                 parts.append(re.sub(r'([1-6])(?=[a-z])', r'\1 ', jp))
         return ' '.join(parts).strip()
     except Exception:
