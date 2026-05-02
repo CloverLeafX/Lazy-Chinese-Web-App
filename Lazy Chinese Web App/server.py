@@ -45,8 +45,9 @@ lazy_bp = Blueprint("lazy", __name__)
 # ── Catalog ───────────────────────────────────────────────────────────────────
 
 def _load_catalog() -> list:
-    pattern = str(LAZY_CHINESE / "all_videos_*.json")
-    files   = sorted(glob.glob(pattern), reverse=True)
+    files = sorted(glob.glob(str(LAZY_CHINESE / "all_videos_*.json")), reverse=True)
+    if not files:
+        files = sorted(glob.glob(str(DATA_DIR / "all_videos_*.json")), reverse=True)
     if not files:
         return []
     videos  = json.loads(Path(files[0]).read_text())
