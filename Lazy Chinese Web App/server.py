@@ -81,11 +81,17 @@ def _save_watch_state(state: dict):
 
 # ── Graph API / OneDrive ──────────────────────────────────────────────────────
 
+def _load_tokens() -> dict:
+    ms_tokens_env = os.environ.get("MS_TOKENS")
+    if ms_tokens_env:
+        return json.loads(ms_tokens_env)
+    if TOKENS_PATH.exists():
+        return json.loads(TOKENS_PATH.read_text())
+    raise RuntimeError("MS_TOKENS env var or data/tokens.json not found")
+
 def _get_access_token() -> str:
     with _token_lock:
-        if not TOKENS_PATH.exists():
-            raise RuntimeError("data/tokens.json not found — run auth_setup.py first")
-        tokens = json.loads(TOKENS_PATH.read_text())
+        tokens = _load_tokens()
         if time.time() < tokens.get("expires_at", 0):
             return tokens["access_token"]
 
@@ -100,7 +106,8 @@ def _get_access_token() -> str:
         tokens["access_token"]  = data["access_token"]
         tokens["refresh_token"] = data.get("refresh_token", tokens["refresh_token"])
         tokens["expires_at"]    = time.time() + data.get("expires_in", 3600) - 60
-        TOKENS_PATH.write_text(json.dumps(tokens, indent=2))
+        if TOKENS_PATH.exists():
+            TOKENS_PATH.write_text(json.dumps(tokens, indent=2))
         return tokens["access_token"]
 
 def _graph_download_url(item_id: str) -> str:
