@@ -1,6 +1,7 @@
 .env
 data/tokens.json
 data/reindex_misses.json
+data/webauthn_credentials.json
 __pycache__/
 *.pyc
 plan/Config.txt

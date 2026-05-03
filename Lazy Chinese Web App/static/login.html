@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lazy Chinese — Sign in</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+      background: #0f1117; color: #e2e4f0;
+      min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      -webkit-font-smoothing: antialiased;
+    }
+    .card {
+      background: #1a1d27; border: 1px solid #2e3350;
+      border-radius: 14px; padding: 40px 36px; width: 100%; max-width: 340px;
+      display: flex; flex-direction: column; align-items: center; gap: 24px;
+      box-shadow: 0 12px 40px rgba(0,0,0,.45);
+    }
+    .logo {
+      width: 48px; height: 48px;
+      background: linear-gradient(135deg, #6c8ef7, #4c6ef5);
+      border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px; font-weight: 800; color: #fff; letter-spacing: -0.5px;
+    }
+    h1 { font-size: 20px; font-weight: 800; letter-spacing: -0.3px; }
+    h1 span { color: #6c8ef7; }
+    p.sub { font-size: 13px; color: #7a7f9a; text-align: center; line-height: 1.5; }
+    .sign-btn {
+      width: 100%; height: 44px;
+      background: linear-gradient(135deg, #6c8ef7, #4c6ef5);
+      border: none; border-radius: 10px;
+      color: #fff; font-size: 14px; font-weight: 700;
+      cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px;
+      transition: opacity 150ms, transform 100ms;
+    }
+    .sign-btn:hover { opacity: .9; }
+    .sign-btn:active { transform: scale(.98); }
+    .sign-btn:disabled { opacity: .45; cursor: not-allowed; }
+    .error {
+      width: 100%; background: rgba(245,101,101,.12);
+      border: 1px solid rgba(245,101,101,.3); border-radius: 8px;
+      padding: 10px 14px; font-size: 13px; color: #f56565; text-align: center;
+      display: none;
+    }
+    .error.visible { display: block; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="logo">LC</div>
+    <h1>Lazy <span>Chinese</span></h1>
+    <p class="sub">Sign in with Face ID or your device passkey.</p>
+    <div class="error" id="errMsg"></div>
+    <button class="sign-btn" id="signInBtn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+           fill="none" stroke="currentColor" stroke-width="2.2"
+           stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2a5 5 0 1 0 0 10 5 5 0 0 0 0-10z"/>
+        <path d="M19.4 20a7.5 7.5 0 0 0-14.8 0"/>
+      </svg>
+      Sign in with passkey
+    </button>
+  </div>
+
+  <script>
+    function b64url(buf) {
+      return btoa(String.fromCharCode(...new Uint8Array(buf)))
+        .replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, '');
+    }
+    function fromB64url(s) {
+      s = s.replace(/-/g, '+').replace(/_/g, '/');
+      while (s.length % 4) s += '=';
+      return Uint8Array.from(atob(s), c => c.charCodeAt(0));
+    }
+
+    const errMsg  = document.getElementById('errMsg');
+    const signBtn = document.getElementById('signInBtn');
+
+    function showError(msg) {
+      errMsg.textContent = msg;
+      errMsg.classList.add('visible');
+      signBtn.disabled = false;
+      signBtn.textContent = 'Sign in with passkey';
+    }
+
+    signBtn.addEventListener('click', async () => {
+      signBtn.disabled = true;
+      signBtn.textContent = 'Waiting for passkey…';
+      errMsg.classList.remove('visible');
+
+      try {
+        const opts = await fetch('/api/auth/begin').then(r => {
+          if (!r.ok) throw new Error('No passkeys registered. Visit /register to set up.');
+          return r.json();
+        });
+
+        opts.challenge = fromB64url(opts.challenge);
+        if (opts.allowCredentials) {
+          opts.allowCredentials = opts.allowCredentials.map(c => ({
+            ...c, id: fromB64url(c.id)
+          }));
+        }
+
+        const assertion = await navigator.credentials.get({ publicKey: opts });
+
+        const body = {
+          id:    assertion.id,
+          rawId: b64url(assertion.rawId),
+          type:  assertion.type,
+          response: {
+            clientDataJSON:    b64url(assertion.response.clientDataJSON),
+            authenticatorData: b64url(assertion.response.authenticatorData),
+            signature:         b64url(assertion.response.signature),
+            userHandle:        assertion.response.userHandle
+              ? b64url(assertion.response.userHandle) : null,
+          },
+        };
+
+        const res = await fetch('/api/auth/complete', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || 'Authentication failed');
+
+        window.location.href = '/';
+      } catch (err) {
+        if (err.name === 'NotAllowedError') {
+          showError('Passkey prompt was dismissed or timed out.');
+        } else {
+          showError(err.message || 'Authentication failed.');
+        }
+      }
+    });
+  </script>
+</body>
+</html>

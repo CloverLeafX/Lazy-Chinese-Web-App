@@ -2,15 +2,27 @@
 """
 Lazy Chinese Web App — Flask server
 """
-import glob, json, os, subprocess, sys, threading, time
+import base64, glob, json, os, secrets as _secrets, subprocess, sys, threading, time
+from datetime import timedelta
+from functools import wraps
 from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).parent / ".env")
 
 import requests as _req
-from flask import Blueprint, Flask, abort, jsonify, request, send_file
+from flask import (Blueprint, Flask, abort, jsonify, redirect,
+                   render_template_string, request, send_file,
+                   session as flask_session, url_for)
 from flask_cors import CORS
+
+import webauthn
+from webauthn.helpers.structs import (
+    AuthenticatorSelectionCriteria,
+    ResidentKeyRequirement,
+    UserVerificationRequirement,
+)
+from webauthn.helpers.cose import COSEAlgorithmIdentifier
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
@@ -25,6 +37,7 @@ TRACKER_PATH   = LAZY_CHINESE / "download_tracker.json"
 WATCH_STATE    = DATA_DIR / "watch_state.json"
 ONEDRIVE_INDEX = DATA_DIR / "onedrive_index.json"
 TOKENS_PATH    = DATA_DIR / "tokens.json"
+CREDS_PATH     = DATA_DIR / "webauthn_credentials.json"
 
 MS_CLIENT_ID    = os.environ.get("MS_CLIENT_ID", "")
 MS_TENANT_ID    = os.environ.get("MS_TENANT_ID", "")
@@ -32,15 +45,51 @@ MS_DRIVE_ID     = os.environ.get("MS_DRIVE_ID", "")
 TOKEN_URL       = f"https://login.microsoftonline.com/{MS_TENANT_ID}/oauth2/v2.0/token"
 GRAPH           = "https://graph.microsoft.com/v1.0"
 
+RP_ID          = os.environ.get("RP_ID", "localhost")
+RP_ORIGIN      = os.environ.get("RP_ORIGIN", f"http://localhost:{PORT}")
+RP_NAME        = "Lazy Chinese"
+SETUP_TOKEN    = os.environ.get("SETUP_TOKEN", "")
+
 DATA_DIR.mkdir(exist_ok=True)
 
 app = Flask(__name__, static_folder=str(STATIC_DIR), static_url_path="/static")
 CORS(app)
+app.secret_key = os.environ.get("SECRET_KEY", _secrets.token_hex(32))
+app.config.update(
+    SESSION_COOKIE_HTTPONLY=True,
+    SESSION_COOKIE_SAMESITE="Lax",
+    SESSION_COOKIE_SECURE=bool(os.environ.get("RAILWAY_ENVIRONMENT")),
+    PERMANENT_SESSION_LIFETIME=timedelta(days=30),
+)
 
 _lock       = threading.Lock()
 _token_lock = threading.Lock()
 
 lazy_bp = Blueprint("lazy", __name__)
+
+# ── Auth helpers ──────────────────────────────────────────────────────────────
+
+def _load_creds() -> list:
+    return json.loads(CREDS_PATH.read_text()) if CREDS_PATH.exists() else []
+
+def _save_creds(creds: list):
+    with _lock:
+        CREDS_PATH.write_text(json.dumps(creds, indent=2))
+
+def login_required(f):
+    @wraps(f)
+    def decorated(*args, **kwargs):
+        if not flask_session.get("logged_in"):
+            return redirect(url_for("lazy.login"))
+        return f(*args, **kwargs)
+    return decorated
+
+def _b64url(data: bytes) -> str:
+    return base64.urlsafe_b64encode(data).rstrip(b"=").decode()
+
+def _from_b64url(s: str) -> bytes:
+    pad = 4 - len(s) % 4
+    return base64.urlsafe_b64decode(s + "=" * (pad % 4))
 
 # ── Catalog ───────────────────────────────────────────────────────────────────
 
@@ -145,9 +194,147 @@ def _read_local_srt(rel_path) -> str | None:
     full = LAZY_CHINESE / rel_path
     return full.read_text(encoding="utf-8") if full.exists() else None
 
-# ── Routes ────────────────────────────────────────────────────────────────────
+# ── Auth routes ───────────────────────────────────────────────────────────────
+
+@lazy_bp.route("/login")
+def login():
+    if flask_session.get("logged_in"):
+        return redirect(url_for("lazy.index"))
+    has_creds = bool(_load_creds())
+    return send_file(STATIC_DIR / "login.html")
+
+@lazy_bp.route("/logout")
+def logout():
+    flask_session.clear()
+    return redirect(url_for("lazy.login"))
+
+@lazy_bp.route("/api/auth/begin")
+def api_auth_begin():
+    creds = _load_creds()
+    if not creds:
+        return jsonify({"error": "No passkeys registered"}), 403
+
+    allow = [
+        webauthn.helpers.structs.PublicKeyCredentialDescriptor(
+            id=_from_b64url(c["id"])
+        )
+        for c in creds
+    ]
+    options = webauthn.generate_authentication_options(
+        rp_id=RP_ID,
+        allow_credentials=allow,
+        user_verification=UserVerificationRequirement.REQUIRED,
+    )
+    flask_session["auth_challenge"] = _b64url(options.challenge)
+    return jsonify(json.loads(webauthn.options_to_json(options)))
+
+@lazy_bp.route("/api/auth/complete", methods=["POST"])
+def api_auth_complete():
+    body = request.get_json(force=True) or {}
+    challenge = flask_session.pop("auth_challenge", None)
+    if not challenge:
+        return jsonify({"error": "No challenge"}), 400
+
+    cred_id = body.get("id", "")
+    creds = _load_creds()
+    stored = next((c for c in creds if c["id"] == cred_id), None)
+    if not stored:
+        return jsonify({"error": "Unknown credential"}), 403
+
+    try:
+        from webauthn.helpers.structs import AuthenticationCredential
+        verification = webauthn.verify_authentication_response(
+            credential=AuthenticationCredential.model_validate(body),
+            expected_challenge=_from_b64url(challenge),
+            expected_rp_id=RP_ID,
+            expected_origin=RP_ORIGIN,
+            credential_public_key=_from_b64url(stored["public_key"]),
+            credential_current_sign_count=stored["sign_count"],
+            require_user_verification=True,
+        )
+    except Exception as e:
+        return jsonify({"error": str(e)}), 403
+
+    stored["sign_count"] = verification.new_sign_count
+    _save_creds(creds)
+
+    flask_session.permanent = True
+    flask_session["logged_in"] = True
+    return jsonify({"ok": True})
+
+@lazy_bp.route("/register")
+def register_page():
+    if SETUP_TOKEN and request.args.get("token") != SETUP_TOKEN:
+        abort(403)
+    return send_file(STATIC_DIR / "register.html")
+
+@lazy_bp.route("/api/register/begin")
+def api_register_begin():
+    if SETUP_TOKEN and request.args.get("token") != SETUP_TOKEN:
+        abort(403)
+
+    options = webauthn.generate_registration_options(
+        rp_id=RP_ID,
+        rp_name=RP_NAME,
+        user_id=b"kai",
+        user_name="kai",
+        user_display_name="Kai",
+        authenticator_selection=AuthenticatorSelectionCriteria(
+            resident_key=ResidentKeyRequirement.REQUIRED,
+            user_verification=UserVerificationRequirement.REQUIRED,
+        ),
+        supported_pub_key_algs=[
+            COSEAlgorithmIdentifier.ECDSA_SHA_256,
+            COSEAlgorithmIdentifier.RSASSA_PKCS1_v1_5_SHA_256,
+        ],
+        exclude_credentials=[
+            webauthn.helpers.structs.PublicKeyCredentialDescriptor(
+                id=_from_b64url(c["id"])
+            )
+            for c in _load_creds()
+        ],
+    )
+    flask_session["reg_challenge"] = _b64url(options.challenge)
+    return jsonify(json.loads(webauthn.options_to_json(options)))
+
+@lazy_bp.route("/api/register/complete", methods=["POST"])
+def api_register_complete():
+    if SETUP_TOKEN and request.args.get("token") != SETUP_TOKEN:
+        abort(403)
+
+    body = request.get_json(force=True) or {}
+    challenge = flask_session.pop("reg_challenge", None)
+    if not challenge:
+        return jsonify({"error": "No challenge"}), 400
+
+    try:
+        from webauthn.helpers.structs import RegistrationCredential
+        verification = webauthn.verify_registration_response(
+            credential=RegistrationCredential.model_validate(body),
+            expected_challenge=_from_b64url(challenge),
+            expected_rp_id=RP_ID,
+            expected_origin=RP_ORIGIN,
+            require_user_verification=True,
+        )
+    except Exception as e:
+        return jsonify({"error": str(e)}), 400
+
+    creds = _load_creds()
+    new_cred = {
+        "id":         _b64url(verification.credential_id),
+        "public_key": _b64url(verification.credential_public_key),
+        "sign_count": verification.sign_count,
+        "name":       body.get("name", "Device"),
+        "registered_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+    }
+    creds.append(new_cred)
+    _save_creds(creds)
+    return jsonify({"ok": True, "credential_id": new_cred["id"]})
+
+# ── App routes ────────────────────────────────────────────────────────────────
 
 @lazy_bp.route("/")
+@login_required
 def index():
     return send_file(STATIC_DIR / "index.html")
 
@@ -156,15 +343,18 @@ def health():
     return jsonify({"ok": True, "catalog": len(_catalog), "index": ONEDRIVE_INDEX.exists()})
 
 @lazy_bp.route("/api/catalog")
+@login_required
 def api_catalog():
     _ensure_catalog()
     return jsonify(_catalog)
 
 @lazy_bp.route("/api/watch-state", methods=["GET"])
+@login_required
 def api_watch_state_get():
     return jsonify(_load_watch_state())
 
 @lazy_bp.route("/api/watch-state/<video_id>", methods=["POST"])
+@login_required
 def api_watch_state_post(video_id):
     body  = request.get_json(force=True) or {}
     state = _load_watch_state()
@@ -180,6 +370,7 @@ def api_watch_state_post(video_id):
     return jsonify({"ok": True})
 
 @lazy_bp.route("/api/watch-state/<video_id>", methods=["DELETE"])
+@login_required
 def api_watch_state_delete(video_id):
     state = _load_watch_state()
     state.pop(video_id, None)
@@ -187,6 +378,7 @@ def api_watch_state_delete(video_id):
     return jsonify({"ok": True})
 
 @lazy_bp.route("/api/video-url/<video_id>")
+@login_required
 def api_video_url(video_id):
     idx = _load_onedrive_index()
     entry = idx.get(video_id)
@@ -199,6 +391,7 @@ def api_video_url(video_id):
         return jsonify({"error": str(e)}), 502
 
 @lazy_bp.route("/subtitle/<video_id>")
+@login_required
 def subtitle(video_id):
     script  = request.args.get("script", "simplified")
     tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
@@ -224,6 +417,7 @@ def subtitle(video_id):
     abort(404)
 
 @lazy_bp.route("/admin/reindex", methods=["POST"])
+@login_required
 def admin_reindex():
     try:
         result = subprocess.run(
@@ -245,4 +439,5 @@ if __name__ == "__main__":
     print(f"  Catalog : {len(_catalog)} videos")
     print(f"  Index   : {'✓' if has_index else '✗ run build_index.py'}")
     print(f"  Tokens  : {'✓' if TOKENS_PATH.exists() else '✗ run auth_setup.py'}")
+    print(f"  Passkeys: {len(_load_creds())} registered")
     app.run(host="0.0.0.0", port=PORT, debug=False)
