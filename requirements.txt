@@ -3,4 +3,4 @@ Flask-CORS==4.0.0
 requests==2.31.0
 python-dotenv==1.0.0
 gunicorn==21.2.0
-py_webauthn==2.2.0
+webauthn==2.7.1
