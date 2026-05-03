@@ -273,8 +273,16 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 .watch-header {
   height: var(--header-h); flex-shrink: 0;
   background: var(--surface); border-bottom: 1px solid var(--border);
-  display: flex; align-items: center; padding: 0 14px; gap: 10px;
+  overflow: hidden;
 }
+.watch-header-inner {
+  display: flex; align-items: center; padding: 0 14px; gap: 10px;
+  height: 100%;
+  overflow-x: auto; overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+.watch-header-inner > * { flex-shrink: 0; }
+.watch-header-inner::-webkit-scrollbar { height: 0; }
 .back-btn {
   display: flex; align-items: center; gap: 6px;
   padding: 6px 12px; border-radius: var(--radius-sm);
@@ -468,14 +476,8 @@ video#localVideo {
   #transcriptText { font-size: 18px; }
   .watch-title { display: none; }
   .watch-spacer { display: none; }
-  .watch-controls { flex: 1; min-width: 0; overflow: hidden; }
-  .watch-controls-inner {
-    overflow-x: auto; overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    padding: 0 2px;
-  }
-  .watch-controls-inner > * { flex-shrink: 0; }
-  .watch-controls-inner::-webkit-scrollbar { height: 0; }
+  .watch-controls { flex-shrink: 0; }
+  .watch-controls-inner { display: contents; }
 }
   </style>
 </head>
@@ -569,6 +571,7 @@ video#localVideo {
 <div id="watchView">
 
   <div class="watch-header">
+  <div class="watch-header-inner">
     <button class="back-btn" id="backBtn">
       <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
       Videos
@@ -605,6 +608,7 @@ video#localVideo {
       <button class="pinyin-btn" id="pinyinToggle">拼 Pinyin</button>
       </div>
     </div>
+  </div>
   </div>
 
   <div class="watch-body" id="watchBody">
