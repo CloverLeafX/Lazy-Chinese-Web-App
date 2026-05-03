@@ -436,7 +436,7 @@ video#localVideo {
 /* ── Responsive ──────────────────────────────────────── */
 @media (max-width: 760px) {
   .watch-body.transcript-visible { flex-direction: column; }
-  .watch-body.transcript-visible .player-col { width: auto; flex: 0 0 calc(100vw * 9 / 16); }
+  .watch-body.transcript-visible .player-col { width: auto; max-width: none; flex: 0 0 calc(100vw * 9 / 16); }
   .watch-body.transcript-visible .transcript-section { min-height: 0; }
   .transcript-scroll { padding: 16px 20px 32px; }
   #transcriptText { font-size: 18px; }
