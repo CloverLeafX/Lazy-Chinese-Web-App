@@ -90,16 +90,19 @@ input, select, button { font-family: inherit; font-size: inherit; }
   position: fixed; top: var(--header-h); left: 0; right: 0;
   height: var(--filter-h);
   background: var(--surface2); border-bottom: 1px solid var(--border);
-  display: flex; align-items: center; padding: 0 14px 0 14px; gap: 8px;
-  z-index: 90; overflow-x: auto; overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
-  scroll-behavior: smooth;
-  touch-action: pan-x;
-  /* trailing padding so last item isn't clipped */
-  padding-right: 14px;
+  z-index: 90; overflow: hidden;
 }
-.filter-bar > * { flex-shrink: 0; }
-.filter-bar::-webkit-scrollbar { height: 0; }
+/* Inner wrapper handles scrolling — iOS won't scroll position:fixed elements directly */
+.filter-bar-inner {
+  display: flex; align-items: center; gap: 8px;
+  padding: 0 14px;
+  height: 100%;
+  overflow-x: auto; overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: none;
+}
+.filter-bar-inner > * { flex-shrink: 0; }
+.filter-bar-inner::-webkit-scrollbar { height: 0; }
 select.filter-select {
   background: var(--surface); color: var(--text);
   border: 1px solid var(--border); border-radius: var(--radius-sm);
@@ -486,6 +489,7 @@ video#localVideo {
   </header>
 
   <div class="filter-bar">
+  <div class="filter-bar-inner">
     <select class="filter-select" id="levelFilter">
       <option value="">All Levels</option>
       <option value="Complete Beginner">Complete Beginner</option>
@@ -536,6 +540,7 @@ video#localVideo {
       <option value="level_easy">Level: Easy → Hard</option>
       <option value="level_hard">Level: Hard → Easy</option>
     </select>
+  </div>
   </div>
 
   <main class="browse-main">
