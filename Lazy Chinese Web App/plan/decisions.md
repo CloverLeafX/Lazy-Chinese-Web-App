@@ -41,7 +41,9 @@ Yi_Web_App runs on 8801. This app runs on **8802**.
 
 ## D6: Refresh token storage ✓ RESOLVED
 
-**Decision:** Stored in `data/tokens.json` (on Railway persistent volume). Flask writes the updated token after each refresh. Auto-rotates without manual intervention — unlike env vars which would require `railway variables set` every time.
+**Local dev:** Stored in `data/tokens.json`. Flask writes the updated token after each refresh. Auto-rotates.
+
+**Railway:** Stored as `MS_TOKENS` env var (full token JSON as a string). Flask reads it at startup; token refreshes happen in-memory only (the env var is not updated). When the refresh token eventually expires, update `MS_TOKENS` via `railway variables set`. A Railway Volume was considered but skipped — the Volume adds complexity and `MS_TOKENS` is simpler for a single-user app.
 
 ---
 
@@ -70,3 +72,23 @@ Yi_Web_App runs on 8801. This app runs on **8802**.
 ## D10: Client secret in .env
 
 The `.env` has `MS_CLIENT_SECRET` but it is **not used** in token requests (device code flow is public client). It's kept in `.env` for potential future use (e.g. client credentials flow for background refresh). The auth flow only uses `MS_CLIENT_ID`, `MS_TENANT_ID`, and the stored refresh token.
+
+---
+
+## D11: Standalone deploy vs. Blueprint mount under Canto_Mando_Viewer ✓ RESOLVED
+
+**Decision:** Deploy the Lazy Chinese Web App as a standalone Railway service, not mounted as a Blueprint under Canto_Mando_Viewer.
+
+**Why:** Two blockers made the combined deploy impractical:
+1. **Space in directory name** — `cd "Lazy Chinese Web App"` and `--chdir "Lazy Chinese Web App"` both fail in Railway's shell. Workaround (`wsgi.py` at repo root) applies cleanly to standalone but would complicate Blueprint mounting.
+2. **OOM from pycantonese** — Canto_Mando_Viewer loads pycantonese corpus (~50-100MB) at startup, causing Railway to kill the process before it could serve requests. Removing it would gut the Viewer's Jyutping features.
+
+Standalone deploy isolates the two apps cleanly. The Blueprint mount code (`lazy_bp`) remains in `server.py` in case it's needed for a local combined server in future.
+
+---
+
+## D12: Data files committed to git vs. Railway Volume
+
+**Decision:** Commit `data/onedrive_index.json`, `data/watch_state.json`, and `data/all_videos_*.json` to git rather than using a Railway Volume.
+
+**Why:** The Volume approach requires manual uploads via Railway shell after each deploy and adds a persistent-storage cost. For the initial launch, the committed files (441 videos, 18 watch entries) are a good starting snapshot. Watch history resets on redeploy — an acceptable trade-off until the watch count grows enough to matter (Phase 5 can add the Volume then). `tokens.json` is kept out of git and stored as `MS_TOKENS` env var instead.

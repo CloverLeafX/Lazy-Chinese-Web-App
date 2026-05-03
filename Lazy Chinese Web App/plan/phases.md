@@ -40,7 +40,7 @@
   - Result: **441/441 videos matched**, `data/onedrive_index.json` written
 
 **Server additions (complete):**
-- [x] `_get_access_token()` — auto-refresh from `data/tokens.json`
+- [x] `_get_access_token()` — auto-refresh from `data/tokens.json` or `MS_TOKENS` env var
 - [x] `GET /api/video-url/<id>` — returns `@microsoft.graph.downloadUrl` (Azure CDN, supports Range requests)
 - [x] Updated `GET /subtitle/<id>` — local path → Graph API `/content` fallback
 - [x] `POST /admin/reindex` — subprocess call to `build_index.py`
@@ -64,40 +64,32 @@
 - [x] `GET /` serves `static/index.html`
 - [x] Layout fix: transcript panel is side-by-side (right column), not below video
 - [x] Captions bar overlaid on video (position absolute, gradient), not a block below it
+- [x] `const BASE` detects `/lazy_web_app` prefix for Blueprint mode, falls back to `''` for standalone
 
-### Architecture decision: mount under existing server
-
-User wants the app at `http://localhost:8800/lazy` (the Canto→Mando server), not a separate port.
-
-**Plan (in progress — interrupted):**
-- [x] `Lazy Chinese Web App/server.py` — add `lazy_bp = Blueprint("lazy", __name__)`, convert all routes to blueprint, register on standalone `app` for port 8802 use
-- [ ] `Canto_Mando_Viewer/server.py` — import `lazy_bp` via importlib, mount at `url_prefix="/lazy"`, remove old `/lazy*` routes
-- [ ] `static/index.html` — add `const BASE = window.location.pathname.startsWith('/lazy') ? '/lazy' : ''` and prefix all fetch calls
-
-**Additional decision:** User wants to fully migrate off locally-hosted `.mp4` files — all video playback via OneDrive CDN only. This simplifies `setupPlayer`: no local file path needed, always use `v.video_done` → `/api/video-url/<id>` or embed.
-
-**Done when:** `http://localhost:8800/lazy` works identically to `http://localhost:8802/`.
+**Blueprint mount: abandoned** — chose standalone deploy instead (see D11 in decisions.md).
 
 ---
 
-## Phase 4 — Cloud Deploy
+## Phase 4 — Cloud Deploy ✓ COMPLETE
 
 **Goal:** App is accessible from any device via a public URL.
 
-### Tasks
+**URL:** `https://lazy-chinese-web-app-production.up.railway.app`
 
-- [ ] Push project to a GitHub repo (Railway deploys from GitHub)
-- [ ] Create Railway project → connect GitHub repo → Railway auto-detects Python
-- [ ] Add a Railway Volume mounted at `/data`, set `DATA_DIR=/data` in Railway env vars
-- [ ] Set Railway env vars: `MS_CLIENT_ID`, `MS_TENANT_ID`, `MS_DRIVE_ID`, `MS_ONEDRIVE_ROOT`, `MS_CLIENT_SECRET`, `PORT`
-- [ ] Upload `data/` files (watch_state.json, onedrive_index.json, tokens.json) to the Railway volume via Railway shell
-- [ ] Smoke test: open Railway URL, browse catalog, play a video, mark watched
+### What was done
 
-**Note:** `Procfile` already exists: `web: python server.py`
+- [x] Repo pushed to GitHub (`CloverLeafX/Lazy-Chinese-Web-App`)
+- [x] `wsgi.py` at repo root imports `server.app` (avoids shell quoting issues with spaces in dir name)
+- [x] `Procfile` at repo root: `web: gunicorn wsgi:app --bind "0.0.0.0:$PORT" --workers 1 --timeout 120`
+- [x] `requirements.txt` stripped to Lazy Chinese Web App deps only (no pycantonese, cedict)
+- [x] `.railwayignore` excludes `Canto_Mando_Viewer/` (heavy, not needed)
+- [x] Data files committed to git: `data/all_videos_2026-04-29.json`, `data/onedrive_index.json`, `data/watch_state.json`
+- [x] Railway env vars set: `MS_CLIENT_ID`, `MS_TENANT_ID`, `MS_DRIVE_ID`, `MS_TOKENS` (full token JSON as string)
+- [x] `_load_catalog()` updated to fall back to `DATA_DIR` if `Lazy Chinese/` dir absent
+- [x] `video_done` now set to `True` for any video with `mp4_id` in `onedrive_index.json` (tracker absent on Railway)
+- [x] Smoke tested: catalog loads (441 videos), videos play, subtitles load and sync, watch state reads
 
-**Done when:** Watching a video on phone and laptop both update the same watch state.
-
-**Cost:** Railway Hobby plan ~$5/month. The app is tiny (no video proxying) so it'll use minimal resources.
+**Deviation from original plan:** No Railway Volume. `data/watch_state.json` is committed to git and starts from that snapshot. New watches during a session are written to the ephemeral filesystem and reset on redeploy. See Phase 5 for persistent watch state.
 
 ---
 
@@ -107,9 +99,8 @@ User wants the app at `http://localhost:8800/lazy` (the Canto→Mando server), n
 
 ### Tasks
 
+- [ ] **Persistent watch state** — add Railway Volume at `/data`, set `DATA_DIR=/data`; upload current `watch_state.json` to volume via Railway shell. Until then, watch history resets on each deploy.
 - [ ] **Resume position** — save `lastPosition` every 30s via `POST /api/watch-state/<id>`; restore on reopen
-- [ ] **Unavailable badge** — if `video_done: false`, show a cloud icon on the card instead of hiding it
-- [ ] **Notes panel** — if `notes_path` exists, add a Notes tab in the watch view that renders the `.md` as HTML
 - [ ] **Keyboard shortcuts** — Space = play/pause, `[`/`]` = ±5s, `W` = mark watched, `T` = toggle transcript
 - [ ] **Stats page** — total watch time, videos per level, % complete per level
 - [ ] **Reindex on demand** — button in settings panel to trigger `POST /admin/reindex` after new downloads
@@ -122,6 +113,6 @@ User wants the app at `http://localhost:8800/lazy` (the Canto→Mando server), n
 |---|---|---|
 | 1 | Server core: catalog, watch state, subtitles | ✓ Done |
 | 2 | OneDrive remapping + video streaming via Graph API | ✓ Done |
-| 3 | Full browser port — everything wired to the API | ✓ Done (mount in progress) |
-| 4 | Cloud deploy — accessible from any device | Pending |
-| 5 | Polish | Pending |
+| 3 | Full browser port — everything wired to the API | ✓ Done |
+| 4 | Cloud deploy — accessible from any device | ✓ Done |
+| 5 | Polish + persistent watch state | Pending |
