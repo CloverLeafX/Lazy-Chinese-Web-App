@@ -300,9 +300,7 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 .watch-teacher { font-size: 12px; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
 .watch-spacer { flex: 1; }
 
-/* Script / pinyin controls */
-.watch-controls { flex-shrink: 0; }
-.watch-controls-inner { display: flex; align-items: center; gap: 8px; }
+/* Script / pinyin controls — buttons are flat children of .watch-header-inner */
 .seg-group { display: flex; border: 1px solid var(--border); border-radius: var(--radius-sm); overflow: hidden; }
 .seg-btn {
   padding: 5px 12px; background: transparent; border: none;
@@ -475,9 +473,8 @@ video#localVideo {
   .transcript-scroll { padding: 16px 20px 32px; }
   #transcriptText { font-size: 18px; }
   .watch-title { display: none; }
+  .watch-teacher { display: none; }
   .watch-spacer { display: none; }
-  .watch-controls { flex-shrink: 0; }
-  .watch-controls-inner { display: contents; }
 }
   </style>
 </head>
@@ -580,9 +577,7 @@ video#localVideo {
     <span class="watch-title" id="watchTitle"></span>
     <span class="watch-teacher" id="watchTeacher"></span>
     <div class="watch-spacer"></div>
-    <div class="watch-controls">
-      <div class="watch-controls-inner">
-      <button class="watched-btn" id="watchedBtn" title="Log a watch">
+    <button class="watched-btn" id="watchedBtn" title="Log a watch">
         <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
         Watched <span id="watchedCount"></span>
       </button>
@@ -606,8 +601,6 @@ video#localVideo {
         <button class="seg-btn" id="btnTrad" data-script="traditional">繁 Traditional</button>
       </div>
       <button class="pinyin-btn" id="pinyinToggle">拼 Pinyin</button>
-      </div>
-    </div>
   </div>
   </div>
 
