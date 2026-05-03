@@ -355,6 +355,8 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
   flex: 1; position: relative; min-height: 0; overflow: hidden;
   display: flex; align-items: center; justify-content: center;
 }
+video#localVideo::-webkit-media-controls-overlay-enclosure { display: none; }
+video#localVideo::-webkit-media-controls-panel { background-image: none !important; }
 video#localVideo {
   width: 100%; height: 100%; object-fit: contain; display: block;
 }
