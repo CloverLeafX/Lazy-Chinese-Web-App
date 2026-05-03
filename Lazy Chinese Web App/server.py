@@ -52,6 +52,15 @@ SETUP_TOKEN    = os.environ.get("SETUP_TOKEN", "")
 
 DATA_DIR.mkdir(exist_ok=True)
 
+# Seed volume from bundled data on first start (only when DATA_DIR differs from repo data/)
+_bundled_data = HERE / "data"
+if DATA_DIR != _bundled_data:
+    import shutil as _shutil
+    for _fname in ("onedrive_index.json", "watch_state.json"):
+        _src, _dst = _bundled_data / _fname, DATA_DIR / _fname
+        if _src.exists() and not _dst.exists():
+            _shutil.copy2(_src, _dst)
+
 app = Flask(__name__, static_folder=str(STATIC_DIR), static_url_path="/static")
 CORS(app)
 app.secret_key = os.environ.get("SECRET_KEY", _secrets.token_hex(32))
