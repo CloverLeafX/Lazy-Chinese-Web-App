@@ -100,6 +100,9 @@ def _load_catalog() -> list:
     if not files:
         files = sorted(glob.glob(str(DATA_DIR / "all_videos_*.json")), reverse=True)
     if not files:
+        # Fallback: bundled data dir inside the app repo
+        files = sorted(glob.glob(str(HERE / "data" / "all_videos_*.json")), reverse=True)
+    if not files:
         return []
     videos  = json.loads(Path(files[0]).read_text())
     tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
