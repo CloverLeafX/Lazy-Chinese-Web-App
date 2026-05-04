@@ -38,7 +38,8 @@ def _load_env() -> dict:
     return env
 
 _ENV = _load_env()
-GROQ_API_KEY = _ENV.get("GROQ_API_KEY", os.environ.get("GROQ_API_KEY", ""))
+GROQ_API_KEY    = _ENV.get("GROQ_API_KEY",    os.environ.get("GROQ_API_KEY",    ""))
+OPEN_AI_API_KEY = _ENV.get("OPEN_AI_KEY",     os.environ.get("OPEN_AI_KEY",     ""))
 CANTO_DIR        = os.path.join(BASE, "Canto")
 LAZY_CHINESE_DIR = os.path.realpath(os.path.join(BASE, "Lazy Chinese"))
 VIDEOS_DIR  = os.path.join(BASE, "Canto_Mando_Videos")
@@ -277,8 +278,10 @@ def serve_file(rel: str):
     if range_header and mime.startswith("video"):
         parts = range_header.strip().replace("bytes=", "").split("-")
         start = int(parts[0]) if parts[0] else 0
-        end   = int(parts[1]) if len(parts) > 1 and parts[1] else size - 1
-        end   = min(end, size - 1)
+        # Cap each response at 2MB so Chrome buffers aggressively
+        MAX_CHUNK = 2 * 1024 * 1024
+        req_end = int(parts[1]) if len(parts) > 1 and parts[1] else size - 1
+        end = min(req_end, start + MAX_CHUNK - 1, size - 1)
         length = end - start + 1
 
         def _generate():
@@ -376,7 +379,8 @@ def api_notes_post():
 @app.route("/api/shutdown", methods=["POST"])
 def api_shutdown():
     def _stop():
-        os._exit(0)
+        import signal
+        os.kill(os.getpid(), signal.SIGTERM)
     threading.Timer(0.3, _stop).start()
     return jsonify({"ok": True})
 
@@ -387,13 +391,17 @@ def api_tts():
     text   = (data.get("text") or "").strip()
     voice  = data.get("voice", "zh-HK-female")
     speed  = data.get("speed", "normal")
-    engine = data.get("engine", "edge")   # "edge" | "gtts" | "google"
+    engine = data.get("engine", "edge")   # "edge" | "gtts" | "google" | "openai"
 
     if not text:
         return jsonify({"error": "No text provided"}), 400
 
     try:
-        if engine == "google":
+        if engine == "openai":
+            speed_f = {"slow": 0.85, "normal": 1.0, "fast": 1.25}.get(speed, 1.0)
+            audio = _tts_openai(text, speed=speed_f)
+            print(f"[TTS] ✅ OpenAI TTS")
+        elif engine == "google":
             try:
                 audio = _tts_google_cloud(text, voice, speed)
                 print(f"[TTS] ✅ Google Cloud TTS: voice={voice}")
@@ -443,15 +451,17 @@ def _tts_edge(text: str, voice: str, speed: str) -> bytes:
 
     return asyncio.run(_synthesise())
 
-_GOOGLE_CREDS_PATH = os.path.join(
-    os.path.dirname(__file__), "..", "archive", "Canto",
-    "folkloric-clock-472506-v7-9f27728139cb.json"
+_GOOGLE_CREDS_PATH = os.environ.get(
+    "GOOGLE_APPLICATION_CREDENTIALS",
+    os.path.abspath(os.path.join(
+        os.path.dirname(__file__), "..", "archive", "Canto",
+        "folkloric-clock-472506-v7-9f27728139cb.json"
+    ))
 )
 
 def _tts_google_cloud(text: str, voice: str, speed: str) -> bytes:
     import os as _os
-    _os.environ.setdefault("GOOGLE_APPLICATION_CREDENTIALS",
-                           os.path.abspath(_GOOGLE_CREDS_PATH))
+    _os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = _GOOGLE_CREDS_PATH
     from google.cloud import texttospeech
     client = texttospeech.TextToSpeechClient()
 
@@ -488,6 +498,23 @@ def _tts_gtts(text: str, voice: str, speed: str) -> bytes:
     tts = gTTS(text=text, lang=_gtts_lang(voice), slow=(speed == "slow"))
     buf = io.BytesIO()
     tts.write_to_fp(buf)
+    buf.seek(0)
+    return buf.read()
+
+def _tts_openai(text: str, speed: float = 1.0) -> bytes:
+    from openai import OpenAI
+    client = OpenAI(api_key=OPEN_AI_API_KEY)
+    buf = io.BytesIO()
+    with client.audio.speech.with_streaming_response.create(
+        model="gpt-4o-mini-tts",
+        voice="alloy",
+        input=text,
+        speed=speed,
+        response_format="mp3",
+        instructions="You are a native Mandarin speaker. Speak naturally and conversationally with authentic tonal rhythm. Do not over-enunciate or pause between characters.",
+    ) as response:
+        for chunk in response.iter_bytes():
+            buf.write(chunk)
     buf.seek(0)
     return buf.read()
 
@@ -672,7 +699,7 @@ def api_captures_post():
         if not text:
             continue
         try:
-            mp3 = _tts_edge(text, voice, speed)
+            mp3 = _tts_openai(text, speed=1.0) if lang == "mandarin" else _tts_edge(text, voice, speed)
             fname = f"{rid}_{suffix}.mp3"
             fpath = os.path.join(AUDIO_CAPTURES_DIR, fname)
             with open(fpath, "wb") as f:
@@ -798,7 +825,30 @@ def serve_lazy_file():
 
 # ── Entry point ───────────────────────────────────────────────────────────────
 
+def _check_deps():
+    checks = [
+        ("openai",                    "openai"),
+        ("edge-tts",                  "edge_tts"),
+        ("google-cloud-texttospeech", "google.cloud.texttospeech"),
+        ("gtts",                      "gtts"),
+        ("pypinyin",                  "pypinyin"),
+        ("pycantonese",               "pycantonese"),
+        ("setproctitle",              "setproctitle"),
+    ]
+    missing = []
+    for pkg, imp in checks:
+        try:
+            __import__(imp)
+        except ImportError:
+            missing.append(pkg)
+    if missing:
+        print(f"[WARN] Missing packages (some features will fail): {', '.join(missing)}")
+        print(f"       Fix: pip install {' '.join(missing)}")
+    else:
+        print("[OK] All optional dependencies present")
+
 if __name__ == "__main__":
+    _check_deps()
     # Pre-load CEDICT in a background thread so first /api/dict call is instant
     threading.Thread(target=_cedict._ensure_loaded, daemon=True).start()
     print(f"✅  Canto → Mando Blueprint  →  http://localhost:{PORT}")
