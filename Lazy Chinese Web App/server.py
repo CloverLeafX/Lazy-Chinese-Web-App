@@ -205,7 +205,7 @@ def index():
 
 @lazy_bp.route("/health")
 def health():
-    return jsonify({"ok": True, "catalog": len(_catalog), "index": ONEDRIVE_INDEX.exists()})
+    return jsonify({"ok": True, "catalog": len(_catalog), "index": ONEDRIVE_INDEX.exists(), "data_dir": str(DATA_DIR)})
 
 @lazy_bp.route("/api/catalog")
 @login_required
