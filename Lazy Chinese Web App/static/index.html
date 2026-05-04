@@ -1264,12 +1264,43 @@ document.addEventListener("keydown", e => {
     return Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
   }
 
+  const MIN_BUFFER_SECS = 7;
+  let waitingForBuffer = false;
+
+  function bufferedAhead() {
+    const t = vid.currentTime;
+    for (let i = 0; i < vid.buffered.length; i++) {
+      if (vid.buffered.start(i) <= t + 0.5 && vid.buffered.end(i) > t) {
+        return vid.buffered.end(i) - t;
+      }
+    }
+    return 0;
+  }
+
   function updateBuffer() {
     if (vid.buffered.length) {
       const pct = vid.buffered.end(vid.buffered.length - 1) / (vid.duration || 1) * 100;
       bufferEl.style.width = pct + '%';
     }
+    // If we were waiting for buffer and now have enough, resume
+    if (waitingForBuffer && bufferedAhead() >= MIN_BUFFER_SECS) {
+      waitingForBuffer = false;
+      bufferingOverlay.classList.remove('active');
+      vid.play();
+    }
   }
+
+  function tryPlay() {
+    if (bufferedAhead() >= MIN_BUFFER_SECS || (vid.duration && vid.duration - vid.currentTime < MIN_BUFFER_SECS)) {
+      waitingForBuffer = false;
+      bufferingOverlay.classList.remove('active');
+      vid.play();
+    } else {
+      waitingForBuffer = true;
+      bufferingOverlay.classList.add('active');
+    }
+  }
+
   vid.addEventListener('timeupdate', () => {
     const pct = vid.duration ? vid.currentTime / vid.duration * 100 : 0;
     fillEl.style.width = pct + '%';
@@ -1277,15 +1308,20 @@ document.addEventListener("keydown", e => {
     updateBuffer();
   });
   vid.addEventListener('progress', updateBuffer);
-  vid.addEventListener('waiting', () => bufferingOverlay.classList.add('active'));
-  vid.addEventListener('playing', () => bufferingOverlay.classList.remove('active'));
-  vid.addEventListener('canplay', () => bufferingOverlay.classList.remove('active'));
+  vid.addEventListener('waiting', () => {
+    waitingForBuffer = true;
+    bufferingOverlay.classList.add('active');
+  });
+  vid.addEventListener('playing', () => {
+    if (!waitingForBuffer) bufferingOverlay.classList.remove('active');
+  });
+  vid.addEventListener('canplay', updateBuffer);
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
-  vid.addEventListener('pause', () => btnPlay.innerHTML = PLAY_SVG);
+  vid.addEventListener('pause', () => { if (!waitingForBuffer) btnPlay.innerHTML = PLAY_SVG; });
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
 
-  vid.addEventListener('click', () => vid.paused ? vid.play() : vid.pause());
-  btnPlay.addEventListener('click', () => vid.paused ? vid.play() : vid.pause());
+  vid.addEventListener('click', () => vid.paused ? tryPlay() : vid.pause());
+  btnPlay.addEventListener('click', () => vid.paused ? tryPlay() : vid.pause());
 
   let seeking = false;
   function seekTo(clientX) {
