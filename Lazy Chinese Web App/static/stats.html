@@ -194,7 +194,6 @@ body {
 <header class="app-header">
   <div class="brand">
     <div class="brand-logo">CI</div>
-    <div class="brand-text">Lazy <span>Chinese</span></div>
   </div>
   <div class="header-sep"></div>
   <a href="/" class="nav-link">Browse</a>
@@ -387,6 +386,28 @@ function renderTab(tab) {
     labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 10 }, boxWidth: 10, padding: 8 }
   };
 
+  const avgCount = keys.length ? keys.reduce((s, k) => s + bucket[k].count, 0) / keys.length : 0;
+  const avgMins  = keys.length ? keys.reduce((s, k) => s + bucket[k].mins,  0) / keys.length : 0;
+
+  const avgLinePlugin = (avgVal, label) => ({
+    id: 'avgLine',
+    afterDraw(chart) {
+      const { ctx, chartArea: { left, right }, scales: { y } } = chart;
+      const yPos = y.getPixelForValue(avgVal);
+      ctx.save();
+      ctx.setLineDash([5, 4]);
+      ctx.strokeStyle = 'rgba(255,255,255,0.35)';
+      ctx.lineWidth = 1.2;
+      ctx.beginPath(); ctx.moveTo(left, yPos); ctx.lineTo(right, yPos); ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.fillStyle = 'rgba(255,255,255,0.55)';
+      ctx.font = '600 10px Manrope, sans-serif';
+      ctx.textAlign = 'right';
+      ctx.fillText(`avg ${label}`, right - 4, yPos - 4);
+      ctx.restore();
+    }
+  });
+
   countChartObj = new Chart(document.getElementById('countChart'), {
     type: 'bar',
     data: { labels, datasets: buildStackedDatasets(bucket, keys, 'count') },
@@ -394,7 +415,8 @@ function renderTab(tab) {
       responsive: true, maintainAspectRatio: false,
       plugins: { legend: legendOpts, tooltip: { ...baseTip, mode: 'index', stacked: true } },
       scales: baseScales
-    }
+    },
+    plugins: [avgLinePlugin(avgCount, avgCount.toFixed(1))]
   });
 
   minsChartObj = new Chart(document.getElementById('minsChart'), {
@@ -409,7 +431,8 @@ function renderTab(tab) {
         }
       },
       scales: baseScales
-    }
+    },
+    plugins: [avgLinePlugin(avgMins, avgMins.toFixed(0) + ' min')]
   });
 
   renderCumulChart(bucket, keys, labels);
@@ -460,7 +483,7 @@ function renderLevelChart() {
       responsive: true, maintainAspectRatio: false,
       plugins: {
         legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
-        tooltip: { ...baseTip }
+        tooltip: { ...baseTip, callbacks: { label: ctx => { const total = ctx.dataset.data.reduce((a,b)=>a+b,0); const all = ctx.chart.data.datasets.reduce((s,d)=>s+(d.data[ctx.dataIndex]||0),0); const pct = all ? ((ctx.parsed/all)*100).toFixed(1) : 0; return ` ${ctx.label}: ${ctx.parsed} (${pct}%)`; } } }
       }
     }
   });
