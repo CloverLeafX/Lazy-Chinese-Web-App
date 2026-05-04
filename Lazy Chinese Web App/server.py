@@ -291,6 +291,116 @@ def admin_reindex():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+# ── Stats ─────────────────────────────────────────────────────────────────────
+
+@lazy_bp.route("/stats")
+@login_required
+def stats_page():
+    return send_file(STATIC_DIR / "stats.html")
+
+@lazy_bp.route("/api/stats")
+@login_required
+def api_stats():
+    from datetime import datetime, timezone, timedelta
+    from zoneinfo import ZoneInfo
+
+    SYDNEY = ZoneInfo("Australia/Sydney")
+
+    state   = _load_watch_state()
+    _ensure_catalog()
+    catalog = {v["id"]: v for v in _catalog}
+
+    def to_sydney(dt_str):
+        if not dt_str:
+            return None
+        try:
+            dt_str_clean = dt_str.replace("Z", "+00:00")
+            dt = datetime.fromisoformat(dt_str_clean)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(SYDNEY)
+        except Exception:
+            return None
+
+    def parse_mins(length_str):
+        if not length_str:
+            return 0
+        parts = length_str.split(":")
+        try:
+            if len(parts) == 2:
+                return int(parts[0]) + int(parts[1]) / 60
+            if len(parts) == 3:
+                return int(parts[0]) * 60 + int(parts[1]) + int(parts[2]) / 60
+        except (ValueError, IndexError):
+            pass
+        return 0
+
+    watched_entries = []
+    for vid_id, v in state.items():
+        if not v.get("watched"):
+            continue
+        dt = to_sydney(v.get("watchedAt", ""))
+        meta = catalog.get(vid_id, {})
+        mins = parse_mins(meta.get("length", ""))
+        watched_entries.append({
+            "id": vid_id,
+            "title": meta.get("title", ""),
+            "level": meta.get("level", ""),
+            "teacher": meta.get("teacher", ""),
+            "length_mins": mins,
+            "watchedAt": dt,
+            "watchCount": v.get("watchCount", 1),
+        })
+
+    total_watched = len(watched_entries)
+    total_mins    = sum(e["length_mins"] for e in watched_entries)
+
+    # Group by day / week / month
+    by_day   = {}
+    by_week  = {}
+    by_month = {}
+
+    for e in watched_entries:
+        dt = e["watchedAt"]
+        if not dt:
+            continue
+        day_key   = dt.strftime("%Y-%m-%d")
+        # ISO week: year-Www
+        week_key  = dt.strftime("%G-W%V")
+        month_key = dt.strftime("%Y-%m")
+
+        for key, bucket in [(day_key, by_day), (week_key, by_week), (month_key, by_month)]:
+            if key not in bucket:
+                bucket[key] = {"count": 0, "mins": 0.0}
+            bucket[key]["count"] += 1
+            bucket[key]["mins"]  += e["length_mins"]
+
+    # Build level breakdown
+    level_counts = {}
+    for e in watched_entries:
+        lvl = e["level"] or "Unknown"
+        level_counts[lvl] = level_counts.get(lvl, 0) + 1
+
+    # Recent watches (last 10)
+    recent = sorted(
+        [e for e in watched_entries if e["watchedAt"]],
+        key=lambda x: x["watchedAt"], reverse=True
+    )[:10]
+
+    return jsonify({
+        "total_watched":  total_watched,
+        "total_mins":     round(total_mins, 1),
+        "total_hours":    round(total_mins / 60, 2),
+        "by_day":   {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_day.items())},
+        "by_week":  {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_week.items())},
+        "by_month": {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_month.items())},
+        "by_level": level_counts,
+        "recent":   [{"id": e["id"], "title": e["title"], "level": e["level"],
+                      "length_mins": round(e["length_mins"], 1),
+                      "watchedAt": e["watchedAt"].strftime("%Y-%m-%d %H:%M") if e["watchedAt"] else ""
+                     } for e in recent],
+    })
+
 # ── Boot ──────────────────────────────────────────────────────────────────────
 
 app.register_blueprint(lazy_bp)

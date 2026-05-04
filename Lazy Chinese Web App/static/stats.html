@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CI — Stats</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+:root {
+  --bg:       #0f1117;
+  --surface:  #1a1d27;
+  --surface2: #222638;
+  --border:   #2e3350;
+  --text:     #e2e4f0;
+  --muted:    #7a7f9a;
+  --accent:   #6c8ef7;
+  --green:    #3ecf8e;
+  --yellow:   #f5c842;
+  --red:      #f56565;
+  --purple:   #a78bfa;
+  --radius:   10px;
+  --radius-sm:6px;
+  --header-h: 54px;
+  --ff:       'Manrope', system-ui, -apple-system, sans-serif;
+  --lc-cb:  #93c5fd;
+  --lc-b:   #86efac;
+  --lc-li:  #d9f99d;
+  --lc-i:   #fde68a;
+  --lc-hi:  #fdba74;
+  --lc-a:   #fca5a5;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: var(--ff);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ── */
+.app-header {
+  position: fixed; top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 18px; gap: 12px;
+  z-index: 100;
+}
+.brand { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.brand-logo {
+  width: 32px; height: 32px;
+  background: linear-gradient(135deg, #6c8ef7, #4c6ef5);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; font-weight: 800; color: #fff; letter-spacing: -0.5px;
+}
+.brand-text { font-size: 15px; font-weight: 800; letter-spacing: -0.3px; }
+.brand-text span { color: var(--accent); }
+.header-sep { width: 1px; height: 24px; background: var(--border); flex-shrink: 0; }
+.header-spacer { flex: 1; }
+.nav-link {
+  font-size: 13px; font-weight: 600; color: var(--muted);
+  text-decoration: none; padding: 5px 10px; border-radius: var(--radius-sm);
+  transition: color 120ms, background 120ms;
+}
+.nav-link:hover { color: var(--text); background: var(--surface2); }
+.nav-link.active { color: var(--accent); }
+
+/* ── Page ── */
+.page {
+  padding: calc(var(--header-h) + 24px) 24px 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* ── Section title ── */
+.section-title {
+  font-size: 11px; font-weight: 700; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+  margin-bottom: 12px; margin-top: 32px;
+}
+.section-title:first-child { margin-top: 0; }
+
+/* ── KPI cards ── */
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-bottom: 8px;
+}
+.kpi-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  display: flex; flex-direction: column; gap: 4px;
+}
+.kpi-label { font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.kpi-value { font-size: 32px; font-weight: 800; letter-spacing: -1px; color: var(--text); }
+.kpi-value.accent { color: var(--accent); }
+.kpi-value.green  { color: var(--green); }
+.kpi-value.yellow { color: var(--yellow); }
+.kpi-value.purple { color: var(--purple); }
+.kpi-sub { font-size: 12px; color: var(--muted); }
+
+/* ── Tab bar ── */
+.tab-bar {
+  display: flex; gap: 4px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 4px;
+  width: fit-content;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  background: none; border: none; cursor: pointer;
+  font-family: var(--ff); font-size: 13px; font-weight: 600;
+  color: var(--muted); padding: 6px 16px; border-radius: 7px;
+  transition: all 120ms;
+}
+.tab-btn.active { background: var(--surface); color: var(--text); }
+.tab-btn:hover:not(.active) { color: var(--text); }
+
+/* ── Chart card ── */
+.chart-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 16px;
+}
+.chart-card h3 {
+  font-size: 13px; font-weight: 700; color: var(--text);
+  margin-bottom: 16px;
+}
+.chart-wrap { position: relative; height: 240px; }
+
+/* ── Two-col layout ── */
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 680px) { .two-col { grid-template-columns: 1fr; } }
+
+/* ── Recent table ── */
+.recent-table { width: 100%; border-collapse: collapse; }
+.recent-table th {
+  text-align: left; font-size: 11px; font-weight: 700;
+  color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em;
+  padding: 0 8px 10px; border-bottom: 1px solid var(--border);
+}
+.recent-table td {
+  padding: 9px 8px;
+  font-size: 13px;
+  border-bottom: 1px solid rgba(46,51,80,0.5);
+  vertical-align: middle;
+}
+.recent-table tr:last-child td { border-bottom: none; }
+.level-badge {
+  font-size: 10px; font-weight: 700; padding: 2px 7px;
+  border-radius: 20px; white-space: nowrap;
+}
+.lvl-cb { background: rgba(147,197,253,.15); color: var(--lc-cb); }
+.lvl-b  { background: rgba(134,239,172,.15); color: var(--lc-b); }
+.lvl-li { background: rgba(217,249,157,.15); color: var(--lc-li); }
+.lvl-i  { background: rgba(253,230,138,.15); color: var(--lc-i); }
+.lvl-hi { background: rgba(253,186,116,.15); color: var(--lc-hi); }
+.lvl-a  { background: rgba(252,165,165,.15); color: var(--lc-a); }
+
+/* ── Loading / error ── */
+.loading-state {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 300px; gap: 10px; color: var(--muted); font-size: 13px;
+}
+.spinner {
+  width: 18px; height: 18px; border: 2px solid var(--border);
+  border-top-color: var(--accent); border-radius: 50%;
+  animation: spin .7s linear infinite; flex-shrink: 0;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.error-banner {
+  background: rgba(245,101,101,.1); border: 1px solid var(--red);
+  color: var(--red); padding: 12px 16px; border-radius: var(--radius);
+  font-size: 13px; display: none;
+}
+</style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="brand">
+    <div class="brand-logo">CI</div>
+    <div class="brand-text">Lazy <span>Chinese</span></div>
+  </div>
+  <div class="header-sep"></div>
+  <a href="/" class="nav-link">Browse</a>
+  <a href="/stats" class="nav-link active">Stats</a>
+  <div class="header-spacer"></div>
+  <a href="/logout" class="nav-link">Sign out</a>
+</header>
+
+<div class="page" id="page" style="display:none">
+
+  <div class="section-title">Overview</div>
+  <div class="kpi-row">
+    <div class="kpi-card">
+      <div class="kpi-label">Videos Watched</div>
+      <div class="kpi-value accent" id="kvTotal">—</div>
+      <div class="kpi-sub">all time</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Hours Watched</div>
+      <div class="kpi-value green" id="kvHours">—</div>
+      <div class="kpi-sub" id="kvMins">— mins total</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Avg per Day</div>
+      <div class="kpi-value yellow" id="kvAvgDay">—</div>
+      <div class="kpi-sub">videos on active days</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Active Days</div>
+      <div class="kpi-value purple" id="kvActiveDays">—</div>
+      <div class="kpi-sub">days with at least 1 video</div>
+    </div>
+  </div>
+
+  <div class="section-title" style="margin-top:28px">Watch History</div>
+  <div class="tab-bar">
+    <button class="tab-btn active" data-tab="day">Daily</button>
+    <button class="tab-btn" data-tab="week">Weekly</button>
+    <button class="tab-btn" data-tab="month">Monthly</button>
+  </div>
+
+  <div class="two-col">
+    <div class="chart-card">
+      <h3 id="countChartTitle">Videos Watched — Daily</h3>
+      <div class="chart-wrap"><canvas id="countChart"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3 id="minsChartTitle">Minutes Watched — Daily</h3>
+      <div class="chart-wrap"><canvas id="minsChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="two-col">
+    <div class="chart-card">
+      <h3>Videos by Level</h3>
+      <div class="chart-wrap" style="height:200px"><canvas id="levelChart"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3>Cumulative Hours Watched</h3>
+      <div class="chart-wrap"><canvas id="cumulChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="section-title">Recently Watched</div>
+  <div class="chart-card" style="padding:0; overflow:hidden">
+    <table class="recent-table" id="recentTable">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Level</th>
+          <th>Length</th>
+          <th>Watched At</th>
+        </tr>
+      </thead>
+      <tbody id="recentBody"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<div class="loading-state" id="loadingState">
+  <div class="spinner"></div> Loading stats…
+</div>
+<div class="error-banner" id="errorBanner"></div>
+
+<script>
+const BASE = window.location.pathname.startsWith('/lazy_web_app') ? '/lazy_web_app' : '';
+const LEVEL_CLASS = {
+  "Complete Beginner":"lvl-cb","Beginner":"lvl-b","Low Intermediate":"lvl-li",
+  "Intermediate":"lvl-i","High Intermediate":"lvl-hi","Advanced":"lvl-a"
+};
+const LEVEL_ORDER = ["Complete Beginner","Beginner","Low Intermediate","Intermediate","High Intermediate","Advanced"];
+const LEVEL_COLORS = {
+  "Complete Beginner":"#93c5fd","Beginner":"#86efac","Low Intermediate":"#d9f99d",
+  "Intermediate":"#fde68a","High Intermediate":"#fdba74","Advanced":"#fca5a5"
+};
+
+let statsData = null;
+let activeTab = 'day';
+let countChartObj = null;
+let minsChartObj  = null;
+
+const chartDefaults = {
+  responsive: true, maintainAspectRatio: false,
+  plugins: { legend: { display: false }, tooltip: { backgroundColor: '#1a1d27', borderColor: '#2e3350', borderWidth: 1, titleColor: '#e2e4f0', bodyColor: '#7a7f9a', padding: 10 } },
+  scales: {
+    x: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, maxRotation: 45 } },
+    y: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 } }, beginAtZero: true }
+  }
+};
+
+async function boot() {
+  try {
+    statsData = await fetch(`${BASE}/api/stats`).then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); });
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('page').style.display = '';
+    renderKPIs();
+    renderTab('day');
+    renderLevelChart();
+    renderCumulChart();
+    renderRecent();
+  } catch(err) {
+    document.getElementById('loadingState').style.display = 'none';
+    const el = document.getElementById('errorBanner');
+    el.style.display = 'block';
+    el.textContent = `Could not load stats: ${err.message}`;
+  }
+}
+
+function renderKPIs() {
+  const d = statsData;
+  document.getElementById('kvTotal').textContent = d.total_watched;
+  document.getElementById('kvHours').textContent = d.total_hours.toFixed(1) + 'h';
+  document.getElementById('kvMins').textContent  = Math.round(d.total_mins) + ' mins total';
+
+  const days = Object.keys(d.by_day);
+  document.getElementById('kvActiveDays').textContent = days.length;
+  const avg = days.length ? (d.total_watched / days.length).toFixed(1) : '0';
+  document.getElementById('kvAvgDay').textContent = avg;
+}
+
+function getTabData() {
+  const bucket = activeTab === 'day' ? statsData.by_day : activeTab === 'week' ? statsData.by_week : statsData.by_month;
+  const labels  = Object.keys(bucket);
+  const counts  = labels.map(k => bucket[k].count);
+  const mins    = labels.map(k => bucket[k].mins);
+
+  // Format labels nicely
+  const fmtLabel = (k) => {
+    if (activeTab === 'day') {
+      const [y, m, d] = k.split('-');
+      return `${d}/${m}`;
+    }
+    if (activeTab === 'week') return k.replace('-W', ' W');
+    if (activeTab === 'month') {
+      const [y, m] = k.split('-');
+      const mon = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][parseInt(m)-1];
+      return `${mon} ${y}`;
+    }
+    return k;
+  };
+
+  return { labels: labels.map(fmtLabel), counts, mins };
+}
+
+function renderTab(tab) {
+  activeTab = tab;
+  const label = tab === 'day' ? 'Daily' : tab === 'week' ? 'Weekly' : 'Monthly';
+  document.getElementById('countChartTitle').textContent = `Videos Watched — ${label}`;
+  document.getElementById('minsChartTitle').textContent  = `Minutes Watched — ${label}`;
+
+  const { labels, counts, mins } = getTabData();
+
+  if (countChartObj) countChartObj.destroy();
+  if (minsChartObj)  minsChartObj.destroy();
+
+  countChartObj = new Chart(document.getElementById('countChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{ data: counts, backgroundColor: 'rgba(108,142,247,0.7)', borderColor: '#6c8ef7', borderWidth: 1, borderRadius: 4 }]
+    },
+    options: { ...chartDefaults }
+  });
+
+  minsChartObj = new Chart(document.getElementById('minsChart'), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{ data: mins, backgroundColor: 'rgba(62,207,142,0.7)', borderColor: '#3ecf8e', borderWidth: 1, borderRadius: 4 }]
+    },
+    options: {
+      ...chartDefaults,
+      plugins: { ...chartDefaults.plugins, tooltip: { ...chartDefaults.plugins.tooltip,
+        callbacks: { label: ctx => ` ${ctx.parsed.y.toFixed(0)} mins (${(ctx.parsed.y/60).toFixed(1)}h)` }
+      }}
+    }
+  });
+}
+
+function renderLevelChart() {
+  const lvls = statsData.by_level;
+  const ordered = LEVEL_ORDER.filter(l => lvls[l]);
+  const labels  = ordered.map(l => l.replace('Low Intermediate','Low Int.').replace('High Intermediate','High Int.').replace('Complete Beginner','C. Beg.'));
+  const data    = ordered.map(l => lvls[l]);
+  const colors  = ordered.map(l => LEVEL_COLORS[l] || '#6c8ef7');
+
+  new Chart(document.getElementById('levelChart'), {
+    type: 'doughnut',
+    data: { labels, datasets: [{ data, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5 }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
+        tooltip: { ...chartDefaults.plugins.tooltip }
+      }
+    }
+  });
+}
+
+function renderCumulChart() {
+  const days   = statsData.by_day;
+  const labels = Object.keys(days).map(k => { const [y, m, d] = k.split('-'); return `${d}/${m}`; });
+  let cumul = 0;
+  const data = Object.values(days).map(v => { cumul += v.mins / 60; return parseFloat(cumul.toFixed(2)); });
+
+  new Chart(document.getElementById('cumulChart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        data, borderColor: '#a78bfa', backgroundColor: 'rgba(167,139,250,0.1)',
+        borderWidth: 2, fill: true, tension: 0.3,
+        pointRadius: 3, pointBackgroundColor: '#a78bfa'
+      }]
+    },
+    options: {
+      ...chartDefaults,
+      plugins: { ...chartDefaults.plugins, tooltip: { ...chartDefaults.plugins.tooltip,
+        callbacks: { label: ctx => ` ${ctx.parsed.y.toFixed(1)}h cumulative` }
+      }}
+    }
+  });
+}
+
+function renderRecent() {
+  const tbody = document.getElementById('recentBody');
+  tbody.innerHTML = '';
+  statsData.recent.forEach(r => {
+    const tr = document.createElement('tr');
+    const lvlClass = LEVEL_CLASS[r.level] || '';
+    const mins = r.length_mins ? `${Math.round(r.length_mins)} min` : '—';
+    tr.innerHTML = `
+      <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}</td>
+      <td><span class="level-badge ${lvlClass}">${r.level || '—'}</span></td>
+      <td style="color:var(--muted)">${mins}</td>
+      <td style="color:var(--muted);white-space:nowrap">${r.watchedAt}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+// Tab clicks
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderTab(btn.dataset.tab);
+  });
+});
+
+boot();
+</script>
+</body>
+</html>
