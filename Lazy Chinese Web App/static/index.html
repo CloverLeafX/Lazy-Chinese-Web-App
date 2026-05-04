@@ -394,6 +394,7 @@ video#localVideo {
 .vc-progress-track { height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; position: relative; }
 .vc-progress-buffer { position: absolute; left: 0; top: 0; height: 100%; background: rgba(255,255,255,0.18); width: 0%; transition: width 0.3s; }
 .vc-progress-fill { position: absolute; left: 0; top: 0; height: 100%; background: var(--accent); width: 0%; }
+.vc-sep { width: 1px; height: 18px; background: var(--border); flex-shrink: 0; margin: 0 2px; }
 .player-buffering-overlay {
   display: none; position: absolute; inset: 0;
   align-items: center; justify-content: center; z-index: 20;
@@ -630,6 +631,10 @@ video#localVideo {
           <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-buffer" id="vcBuffer"></div><div class="vc-progress-fill" id="vcFill"></div></div></div>
           <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></button>
           <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
+          <div class="vc-sep"></div>
+          <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg></button>
+          <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
+          <input type="file" id="localFileInput" accept="video/*" style="display:none">
         </div>
       </div>
     </div>
@@ -1346,6 +1351,36 @@ document.addEventListener("keydown", e => {
     const wrap = document.getElementById('playerWrap');
     if (document.fullscreenElement) document.exitFullscreen();
     else (wrap.requestFullscreen || wrap.webkitRequestFullscreen).call(wrap);
+  });
+
+  // Download
+  const btnDownload  = document.getElementById('vcDownload');
+  const btnLocalFile = document.getElementById('vcLocalFile');
+  const localFileInput = document.getElementById('localFileInput');
+  let _localObjectUrl = null;
+
+  btnDownload.addEventListener('click', async () => {
+    if (!currentVideo) return;
+    try {
+      const data = await fetch(`${BASE}/api/video-url/${currentVideo.id}`).then(r => r.json());
+      if (data.url) { const a = document.createElement('a'); a.href = data.url; a.target = '_blank'; a.click(); }
+    } catch(e) { console.error('Download failed', e); }
+  });
+
+  // Play from local file — no streaming, instant playback
+  btnLocalFile.addEventListener('click', () => localFileInput.click());
+  localFileInput.addEventListener('change', e => {
+    const file = e.target.files[0];
+    if (!file) return;
+    if (_localObjectUrl) URL.revokeObjectURL(_localObjectUrl);
+    _localObjectUrl = URL.createObjectURL(file);
+    vid.src = _localObjectUrl;
+    vid.load();
+    fillEl.style.width = '0%';
+    bufferEl.style.width = '0%';
+    spanTime.textContent = '0:00 / 0:00';
+    vid.play();
+    localFileInput.value = '';
   });
 })();
 
