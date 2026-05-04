@@ -391,8 +391,15 @@ video#localVideo {
 .vc-btn:hover { opacity: 1; }
 .vc-time { font-size: 11px; color: var(--muted); white-space: nowrap; flex-shrink: 0; font-variant-numeric: tabular-nums; min-width: 76px; }
 .vc-progress { flex: 1; cursor: pointer; padding: 10px 0; margin: 0 4px; }
-.vc-progress-track { height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; }
-.vc-progress-fill { height: 100%; background: var(--accent); width: 0%; }
+.vc-progress-track { height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; position: relative; }
+.vc-progress-buffer { position: absolute; left: 0; top: 0; height: 100%; background: rgba(255,255,255,0.18); width: 0%; transition: width 0.3s; }
+.vc-progress-fill { position: absolute; left: 0; top: 0; height: 100%; background: var(--accent); width: 0%; }
+.player-buffering-overlay {
+  display: none; position: absolute; inset: 0;
+  align-items: center; justify-content: center; z-index: 20;
+  background: rgba(0,0,0,0.3);
+}
+.player-buffering-overlay.active { display: flex; }
 .current-sub-bar {
   position: absolute; bottom: 0; left: 0; right: 0;
   min-height: 64px; padding: 10px 24px; overflow: hidden;
@@ -612,6 +619,7 @@ video#localVideo {
         <div class="player-wrap" id="playerWrap">
           <video id="localVideo" preload="metadata" playsinline></video>
           <iframe id="remoteFrame" class="remote-frame" allow="autoplay; fullscreen" style="display:none"></iframe>
+          <div class="player-buffering-overlay" id="bufferingOverlay"><div class="spinner"></div></div>
           <div class="current-sub-bar">
             <div class="current-sub-text" id="currentSubText">—</div>
           </div>
@@ -619,7 +627,7 @@ video#localVideo {
         <div class="video-controls" id="videoControls">
           <button class="vc-btn" id="vcPlay" title="Play/Pause"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
           <span class="vc-time" id="vcTime">0:00 / 0:00</span>
-          <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-fill" id="vcFill"></div></div></div>
+          <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-buffer" id="vcBuffer"></div><div class="vc-progress-fill" id="vcFill"></div></div></div>
           <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></button>
           <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
         </div>
@@ -979,6 +987,9 @@ async function setupPlayer(v) {
       const data = await fetch(`${BASE}/api/video-url/${v.id}`).then(r => r.json());
       vid.src = data.url;
       vid.load();
+      document.getElementById('vcFill').style.width = '0%';
+      document.getElementById('vcBuffer').style.width = '0%';
+      document.getElementById('vcTime').textContent = '0:00 / 0:00';
     } catch (err) {
       console.error("Could not get video URL:", err);
     }
@@ -1238,6 +1249,8 @@ document.addEventListener("keydown", e => {
   const spanTime = document.getElementById('vcTime');
   const progressEl = document.getElementById('vcProgress');
   const fillEl = document.getElementById('vcFill');
+  const bufferEl = document.getElementById('vcBuffer');
+  const bufferingOverlay = document.getElementById('bufferingOverlay');
   const btnMute = document.getElementById('vcMute');
   const btnFs = document.getElementById('vcFullscreen');
 
@@ -1251,11 +1264,22 @@ document.addEventListener("keydown", e => {
     return Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
   }
 
+  function updateBuffer() {
+    if (vid.buffered.length) {
+      const pct = vid.buffered.end(vid.buffered.length - 1) / (vid.duration || 1) * 100;
+      bufferEl.style.width = pct + '%';
+    }
+  }
   vid.addEventListener('timeupdate', () => {
     const pct = vid.duration ? vid.currentTime / vid.duration * 100 : 0;
     fillEl.style.width = pct + '%';
     spanTime.textContent = fmt(vid.currentTime) + ' / ' + fmt(vid.duration);
+    updateBuffer();
   });
+  vid.addEventListener('progress', updateBuffer);
+  vid.addEventListener('waiting', () => bufferingOverlay.classList.add('active'));
+  vid.addEventListener('playing', () => bufferingOverlay.classList.remove('active'));
+  vid.addEventListener('canplay', () => bufferingOverlay.classList.remove('active'));
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
   vid.addEventListener('pause', () => btnPlay.innerHTML = PLAY_SVG);
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
