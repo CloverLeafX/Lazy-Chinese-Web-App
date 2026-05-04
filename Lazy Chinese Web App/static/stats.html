@@ -483,7 +483,7 @@ function renderLevelChart() {
       responsive: true, maintainAspectRatio: false,
       plugins: {
         legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
-        tooltip: { ...baseTip, callbacks: { label: ctx => { const total = ctx.dataset.data.reduce((a,b)=>a+b,0); const all = ctx.chart.data.datasets.reduce((s,d)=>s+(d.data[ctx.dataIndex]||0),0); const pct = all ? ((ctx.parsed/all)*100).toFixed(1) : 0; return ` ${ctx.label}: ${ctx.parsed} (${pct}%)`; } } }
+        tooltip: { ...baseTip, callbacks: { label: ctx => { const total = ctx.dataset.data.reduce((a,b)=>a+b,0); const pct = total ? ((ctx.parsed/total)*100).toFixed(1) : 0; return ` ${ctx.label}: ${ctx.parsed} (${pct}%)`; } } }
       }
     }
   });
