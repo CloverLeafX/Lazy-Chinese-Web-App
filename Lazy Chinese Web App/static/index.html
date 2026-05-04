@@ -1265,7 +1265,8 @@ document.addEventListener("keydown", e => {
   }
 
   const MIN_BUFFER_SECS = 7;
-  let waitingForBuffer = false;
+  let manualPause = false;
+  let stalledPause = false;
 
   function bufferedAhead() {
     const t = vid.currentTime;
@@ -1282,22 +1283,15 @@ document.addEventListener("keydown", e => {
       const pct = vid.buffered.end(vid.buffered.length - 1) / (vid.duration || 1) * 100;
       bufferEl.style.width = pct + '%';
     }
-    // If we were waiting for buffer and now have enough, resume
-    if (waitingForBuffer && bufferedAhead() >= MIN_BUFFER_SECS) {
-      waitingForBuffer = false;
-      bufferingOverlay.classList.remove('active');
-      vid.play();
-    }
-  }
-
-  function tryPlay() {
-    if (bufferedAhead() >= MIN_BUFFER_SECS || (vid.duration && vid.duration - vid.currentTime < MIN_BUFFER_SECS)) {
-      waitingForBuffer = false;
-      bufferingOverlay.classList.remove('active');
-      vid.play();
-    } else {
-      waitingForBuffer = true;
-      bufferingOverlay.classList.add('active');
+    // If stalled waiting for buffer, resume when enough is loaded
+    if (stalledPause) {
+      const ahead = bufferedAhead();
+      const nearEnd = vid.duration && (vid.duration - vid.currentTime) < MIN_BUFFER_SECS;
+      if (ahead >= MIN_BUFFER_SECS || nearEnd) {
+        stalledPause = false;
+        bufferingOverlay.classList.remove('active');
+        vid.play();
+      }
     }
   }
 
@@ -1308,20 +1302,31 @@ document.addEventListener("keydown", e => {
     updateBuffer();
   });
   vid.addEventListener('progress', updateBuffer);
+
+  // When browser stalls mid-playback, pause and wait for MIN_BUFFER_SECS
   vid.addEventListener('waiting', () => {
-    waitingForBuffer = true;
-    bufferingOverlay.classList.add('active');
+    if (!manualPause) {
+      stalledPause = true;
+      bufferingOverlay.classList.add('active');
+    }
   });
   vid.addEventListener('playing', () => {
-    if (!waitingForBuffer) bufferingOverlay.classList.remove('active');
+    stalledPause = false;
+    bufferingOverlay.classList.remove('active');
   });
-  vid.addEventListener('canplay', updateBuffer);
+
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
-  vid.addEventListener('pause', () => { if (!waitingForBuffer) btnPlay.innerHTML = PLAY_SVG; });
+  vid.addEventListener('pause', () => { if (!stalledPause) btnPlay.innerHTML = PLAY_SVG; });
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
 
-  vid.addEventListener('click', () => vid.paused ? tryPlay() : vid.pause());
-  btnPlay.addEventListener('click', () => vid.paused ? tryPlay() : vid.pause());
+  vid.addEventListener('click', () => {
+    if (vid.paused) { manualPause = false; vid.play(); }
+    else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
+  });
+  btnPlay.addEventListener('click', () => {
+    if (vid.paused) { manualPause = false; vid.play(); }
+    else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
+  });
 
   let seeking = false;
   function seekTo(clientX) {
