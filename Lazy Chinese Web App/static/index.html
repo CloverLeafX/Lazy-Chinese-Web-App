@@ -1361,10 +1361,13 @@ document.addEventListener("keydown", e => {
 
   btnDownload.addEventListener('click', async () => {
     if (!currentVideo) return;
+    // Open window synchronously (before await) so iOS Safari doesn't block it as a popup
+    const win = window.open('', '_blank');
     try {
       const data = await fetch(`${BASE}/api/video-url/${currentVideo.id}`).then(r => r.json());
-      if (data.url) { const a = document.createElement('a'); a.href = data.url; a.target = '_blank'; a.click(); }
-    } catch(e) { console.error('Download failed', e); }
+      if (data.url) { win.location.href = data.url; }
+      else { win.close(); }
+    } catch(e) { console.error('Download failed', e); win.close(); }
   });
 
   // Play from local file — no streaming, instant playback
