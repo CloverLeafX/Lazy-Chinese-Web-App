@@ -218,14 +218,14 @@ body {
       <div class="kpi-sub" id="kvMins">— mins total</div>
     </div>
     <div class="kpi-card">
-      <div class="kpi-label">Avg per Day</div>
-      <div class="kpi-value yellow" id="kvAvgDay">—</div>
-      <div class="kpi-sub">videos on active days</div>
+      <div class="kpi-label">Avg Mins / Day</div>
+      <div class="kpi-value yellow" id="kvAvgMins">—</div>
+      <div class="kpi-sub">on active days</div>
     </div>
     <div class="kpi-card">
-      <div class="kpi-label">Active Days</div>
-      <div class="kpi-value purple" id="kvActiveDays">—</div>
-      <div class="kpi-sub">days with at least 1 video</div>
+      <div class="kpi-label">Avg Videos / Day</div>
+      <div class="kpi-value purple" id="kvAvgDay">—</div>
+      <div class="kpi-sub" id="kvActiveDays">— active days</div>
     </div>
   </div>
 
@@ -253,7 +253,7 @@ body {
       <div class="chart-wrap" style="height:200px"><canvas id="levelChart"></canvas></div>
     </div>
     <div class="chart-card">
-      <h3>Cumulative Hours Watched</h3>
+      <h3 id="cumulChartTitle">Cumulative Hours — Daily</h3>
       <div class="chart-wrap"><canvas id="cumulChart"></canvas></div>
     </div>
   </div>
@@ -291,20 +291,22 @@ const LEVEL_COLORS = {
   "Complete Beginner":"#93c5fd","Beginner":"#86efac","Low Intermediate":"#d9f99d",
   "Intermediate":"#fde68a","High Intermediate":"#fdba74","Advanced":"#fca5a5"
 };
+const LEVEL_SHORT = {
+  "Complete Beginner":"C.Beg","Beginner":"Beg","Low Intermediate":"Low Int",
+  "Intermediate":"Int","High Intermediate":"High Int","Advanced":"Adv"
+};
 
 let statsData = null;
 let activeTab = 'day';
 let countChartObj = null;
 let minsChartObj  = null;
+let cumulChartObj = null;
 
-const chartDefaults = {
-  responsive: true, maintainAspectRatio: false,
-  plugins: { legend: { display: false }, tooltip: { backgroundColor: '#1a1d27', borderColor: '#2e3350', borderWidth: 1, titleColor: '#e2e4f0', bodyColor: '#7a7f9a', padding: 10 } },
-  scales: {
-    x: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, maxRotation: 45 } },
-    y: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 } }, beginAtZero: true }
-  }
+const baseScales = {
+  x: { stacked: true, grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, maxRotation: 45 } },
+  y: { stacked: true, grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 } }, beginAtZero: true }
 };
+const baseTip = { backgroundColor: '#1a1d27', borderColor: '#2e3350', borderWidth: 1, titleColor: '#e2e4f0', bodyColor: '#7a7f9a', padding: 10 };
 
 async function boot() {
   try {
@@ -314,7 +316,6 @@ async function boot() {
     renderKPIs();
     renderTab('day');
     renderLevelChart();
-    renderCumulChart();
     renderRecent();
   } catch(err) {
     document.getElementById('loadingState').style.display = 'none';
@@ -329,35 +330,42 @@ function renderKPIs() {
   document.getElementById('kvTotal').textContent = d.total_watched;
   document.getElementById('kvHours').textContent = d.total_hours.toFixed(1) + 'h';
   document.getElementById('kvMins').textContent  = Math.round(d.total_mins) + ' mins total';
-
   const days = Object.keys(d.by_day);
-  document.getElementById('kvActiveDays').textContent = days.length;
-  const avg = days.length ? (d.total_watched / days.length).toFixed(1) : '0';
-  document.getElementById('kvAvgDay').textContent = avg;
+  const activeDays = days.length;
+  document.getElementById('kvActiveDays').textContent = activeDays + ' active days';
+  document.getElementById('kvAvgDay').textContent = activeDays ? (d.total_watched / activeDays).toFixed(1) : '0';
+  document.getElementById('kvAvgMins').textContent = activeDays ? Math.round(d.total_mins / activeDays) + 'm' : '0m';
 }
 
-function getTabData() {
-  const bucket = activeTab === 'day' ? statsData.by_day : activeTab === 'week' ? statsData.by_week : statsData.by_month;
-  const labels  = Object.keys(bucket);
-  const counts  = labels.map(k => bucket[k].count);
-  const mins    = labels.map(k => bucket[k].mins);
+function fmtLabel(k) {
+  if (activeTab === 'day') {
+    const [y, m, d] = k.split('-'); return `${d}/${m}`;
+  }
+  if (activeTab === 'week') return k.replace('-W', ' W');
+  if (activeTab === 'month') {
+    const [y, m] = k.split('-');
+    return ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][parseInt(m)-1] + ' ' + y.slice(2);
+  }
+  return k;
+}
 
-  // Format labels nicely
-  const fmtLabel = (k) => {
-    if (activeTab === 'day') {
-      const [y, m, d] = k.split('-');
-      return `${d}/${m}`;
-    }
-    if (activeTab === 'week') return k.replace('-W', ' W');
-    if (activeTab === 'month') {
-      const [y, m] = k.split('-');
-      const mon = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][parseInt(m)-1];
-      return `${mon} ${y}`;
-    }
-    return k;
-  };
+function getTabBucket() {
+  return activeTab === 'day' ? statsData.by_day : activeTab === 'week' ? statsData.by_week : statsData.by_month;
+}
 
-  return { labels: labels.map(fmtLabel), counts, mins };
+function buildStackedDatasets(bucket, keys, valueKey) {
+  // valueKey = 'count' or 'mins' — but for 'count' we use per-level counts
+  return LEVEL_ORDER.filter(lvl => keys.some(k => (bucket[k].levels||{})[lvl])).map(lvl => ({
+    label: LEVEL_SHORT[lvl] || lvl,
+    data: keys.map(k => valueKey === 'count'
+      ? ((bucket[k].levels||{})[lvl] || 0)
+      : (((bucket[k].levels||{})[lvl] || 0) / (bucket[k].count || 1)) * bucket[k].mins
+    ),
+    backgroundColor: LEVEL_COLORS[lvl] + 'bb',
+    borderColor: LEVEL_COLORS[lvl],
+    borderWidth: 1,
+    borderRadius: 2,
+  }));
 }
 
 function renderTab(tab) {
@@ -366,62 +374,54 @@ function renderTab(tab) {
   document.getElementById('countChartTitle').textContent = `Videos Watched — ${label}`;
   document.getElementById('minsChartTitle').textContent  = `Minutes Watched — ${label}`;
 
-  const { labels, counts, mins } = getTabData();
+  const bucket = getTabBucket();
+  const keys   = Object.keys(bucket);
+  const labels = keys.map(fmtLabel);
 
   if (countChartObj) countChartObj.destroy();
   if (minsChartObj)  minsChartObj.destroy();
 
+  const legendOpts = {
+    display: true,
+    position: 'bottom',
+    labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 10 }, boxWidth: 10, padding: 8 }
+  };
+
   countChartObj = new Chart(document.getElementById('countChart'), {
     type: 'bar',
-    data: {
-      labels,
-      datasets: [{ data: counts, backgroundColor: 'rgba(108,142,247,0.7)', borderColor: '#6c8ef7', borderWidth: 1, borderRadius: 4 }]
-    },
-    options: { ...chartDefaults }
+    data: { labels, datasets: buildStackedDatasets(bucket, keys, 'count') },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: legendOpts, tooltip: { ...baseTip, mode: 'index', stacked: true } },
+      scales: baseScales
+    }
   });
 
   minsChartObj = new Chart(document.getElementById('minsChart'), {
     type: 'bar',
-    data: {
-      labels,
-      datasets: [{ data: mins, backgroundColor: 'rgba(62,207,142,0.7)', borderColor: '#3ecf8e', borderWidth: 1, borderRadius: 4 }]
-    },
-    options: {
-      ...chartDefaults,
-      plugins: { ...chartDefaults.plugins, tooltip: { ...chartDefaults.plugins.tooltip,
-        callbacks: { label: ctx => ` ${ctx.parsed.y.toFixed(0)} mins (${(ctx.parsed.y/60).toFixed(1)}h)` }
-      }}
-    }
-  });
-}
-
-function renderLevelChart() {
-  const lvls = statsData.by_level;
-  const ordered = LEVEL_ORDER.filter(l => lvls[l]);
-  const labels  = ordered.map(l => l.replace('Low Intermediate','Low Int.').replace('High Intermediate','High Int.').replace('Complete Beginner','C. Beg.'));
-  const data    = ordered.map(l => lvls[l]);
-  const colors  = ordered.map(l => LEVEL_COLORS[l] || '#6c8ef7');
-
-  new Chart(document.getElementById('levelChart'), {
-    type: 'doughnut',
-    data: { labels, datasets: [{ data, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5 }] },
+    data: { labels, datasets: buildStackedDatasets(bucket, keys, 'mins') },
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
-        tooltip: { ...chartDefaults.plugins.tooltip }
-      }
+        legend: legendOpts,
+        tooltip: { ...baseTip, mode: 'index', stacked: true,
+          callbacks: { label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(0)} mins` }
+        }
+      },
+      scales: baseScales
     }
   });
+
+  renderCumulChart(bucket, keys, labels);
 }
 
-function renderCumulChart() {
-  const days   = statsData.by_day;
-  const labels = Object.keys(days).map(k => { const [y, m, d] = k.split('-'); return `${d}/${m}`; });
+function renderCumulChart(bucket, keys, labels) {
+  if (cumulChartObj) cumulChartObj.destroy();
   let cumul = 0;
-  const data = Object.values(days).map(v => { cumul += v.mins / 60; return parseFloat(cumul.toFixed(2)); });
+  const data = keys.map(k => { cumul += bucket[k].mins / 60; return parseFloat(cumul.toFixed(2)); });
+  const tabLabel = activeTab === 'day' ? 'Daily' : activeTab === 'week' ? 'Weekly' : 'Monthly';
 
-  new Chart(document.getElementById('cumulChart'), {
+  cumulChartObj = new Chart(document.getElementById('cumulChart'), {
     type: 'line',
     data: {
       labels,
@@ -432,10 +432,36 @@ function renderCumulChart() {
       }]
     },
     options: {
-      ...chartDefaults,
-      plugins: { ...chartDefaults.plugins, tooltip: { ...chartDefaults.plugins.tooltip,
-        callbacks: { label: ctx => ` ${ctx.parsed.y.toFixed(1)}h cumulative` }
-      }}
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { ...baseTip, callbacks: { label: ctx => ` ${ctx.parsed.y.toFixed(1)}h cumulative` } }
+      },
+      scales: {
+        x: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, maxRotation: 45 } },
+        y: { grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, callback: v => v + 'h' }, beginAtZero: true }
+      }
+    }
+  });
+  document.getElementById('cumulChartTitle').textContent = `Cumulative Hours — ${tabLabel}`;
+}
+
+function renderLevelChart() {
+  const lvls = statsData.by_level;
+  const ordered = LEVEL_ORDER.filter(l => lvls[l]);
+  const labels  = ordered.map(l => LEVEL_SHORT[l]);
+  const data    = ordered.map(l => lvls[l]);
+  const colors  = ordered.map(l => LEVEL_COLORS[l] || '#6c8ef7');
+
+  new Chart(document.getElementById('levelChart'), {
+    type: 'doughnut',
+    data: { labels, datasets: [{ data, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5 }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
+        tooltip: { ...baseTip }
+      }
     }
   });
 }
@@ -457,7 +483,6 @@ function renderRecent() {
   });
 }
 
-// Tab clicks
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));

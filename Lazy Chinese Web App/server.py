@@ -358,7 +358,7 @@ def api_stats():
     total_watched = len(watched_entries)
     total_mins    = sum(e["length_mins"] for e in watched_entries)
 
-    # Group by day / week / month
+    # Group by day / week / month (with per-level counts)
     by_day   = {}
     by_week  = {}
     by_month = {}
@@ -367,16 +367,17 @@ def api_stats():
         dt = e["watchedAt"]
         if not dt:
             continue
+        lvl       = e["level"] or "Unknown"
         day_key   = dt.strftime("%Y-%m-%d")
-        # ISO week: year-Www
         week_key  = dt.strftime("%G-W%V")
         month_key = dt.strftime("%Y-%m")
 
         for key, bucket in [(day_key, by_day), (week_key, by_week), (month_key, by_month)]:
             if key not in bucket:
-                bucket[key] = {"count": 0, "mins": 0.0}
+                bucket[key] = {"count": 0, "mins": 0.0, "levels": {}}
             bucket[key]["count"] += 1
             bucket[key]["mins"]  += e["length_mins"]
+            bucket[key]["levels"][lvl] = bucket[key]["levels"].get(lvl, 0) + 1
 
     # Build level breakdown
     level_counts = {}
@@ -390,13 +391,17 @@ def api_stats():
         key=lambda x: x["watchedAt"], reverse=True
     )[:10]
 
+    def fmt_bucket(d):
+        return {k: {"count": v["count"], "mins": round(v["mins"], 1), "levels": v["levels"]}
+                for k, v in sorted(d.items())}
+
     return jsonify({
         "total_watched":  total_watched,
         "total_mins":     round(total_mins, 1),
         "total_hours":    round(total_mins / 60, 2),
-        "by_day":   {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_day.items())},
-        "by_week":  {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_week.items())},
-        "by_month": {k: {"count": v["count"], "mins": round(v["mins"], 1)} for k, v in sorted(by_month.items())},
+        "by_day":   fmt_bucket(by_day),
+        "by_week":  fmt_bucket(by_week),
+        "by_month": fmt_bucket(by_month),
         "by_level": level_counts,
         "recent":   [{"id": e["id"], "title": e["title"], "level": e["level"],
                       "length_mins": round(e["length_mins"], 1),
