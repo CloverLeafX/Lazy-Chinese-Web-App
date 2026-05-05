@@ -388,7 +388,7 @@ def api_translate_lines():
             for src, dst in zip(chunk, translated):
                 _en_cache[src] = dst
     except RuntimeError as e:
-        return jsonify({"error": "Translation provider not configured. Set GROQ_API_KEY or OPENAI_API_KEY."}), 503
+        return jsonify({"error": "Translation provider not configured. Set OPENAI_API_KEY."}), 503
     except Exception as e:
         print(f"Translation error: {e}", file=sys.stderr)
         return jsonify({"error": f"Translation failed: {str(e)[:100]}"}), 502
