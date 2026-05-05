@@ -1,4 +1,5 @@
 .DS_Store
+Canto_Mando_Viewer/logs/
 .env
 .venv/
 __pycache__/
@@ -21,3 +22,8 @@ Lazy Chinese/
 Canto_Mando_Viewer/data/audio_cache/
 Canto_Mando_Viewer/data/hidden.json
 Canto_Mando_Viewer/data/notes.json
+Canto_Mando_Viewer/data/notes-*.json
+Canto_Mando_Viewer/data/audio_captures/
+Canto_Mando_Viewer/data/captures.json
+Lazy Chinese Web App/data/watch_state.csv
+Lazy Chinese Web App/data/*.twb

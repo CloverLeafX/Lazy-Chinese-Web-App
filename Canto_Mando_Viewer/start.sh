@@ -15,11 +15,15 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "  Canto → Mando Blueprint"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-# Kill any existing process on port 8800
+# Kill any existing process on port 8800 (graceful, then force)
 if lsof -ti:"$PORT" &>/dev/null; then
   echo "  Stopping existing server on port $PORT…"
-  lsof -ti:"$PORT" | xargs kill -9 2>/dev/null || true
-  sleep 0.5
+  lsof -ti:"$PORT" | xargs kill 2>/dev/null || true
+  sleep 1.5
+  if lsof -ti:"$PORT" &>/dev/null; then
+    lsof -ti:"$PORT" | xargs kill -9 2>/dev/null || true
+    sleep 0.5
+  fi
 fi
 
 # Pick Python: prefer an explicit override, then the shared venv, then legacy .venv.
@@ -45,9 +49,9 @@ echo "  Starting server on http://localhost:$PORT …"
 "$PYTHON" server.py &
 SERVER_PID=$!
 
-# Wait for server to be ready
+# Wait for server to be ready (poll /health, not root page)
 for i in {1..15}; do
-  if curl -s "http://localhost:$PORT" &>/dev/null; then
+  if curl -sf "http://localhost:$PORT/health" &>/dev/null; then
     break
   fi
   sleep 0.4

@@ -8,12 +8,14 @@ Run: python3 server.py
 Then open: http://localhost:8800
 """
 import asyncio, glob, hashlib, io, json, mimetypes, os, re, sys, threading
+from datetime import datetime
 import cedict as _cedict
 import setproctitle
 setproctitle.setproctitle("CantoMandoServer")
 
 from flask import Flask, jsonify, request, send_file, abort, Response
 from flask_cors import CORS
+from dotenv import load_dotenv
 import requests as _req
 
 _HERE       = os.path.dirname(os.path.abspath(__file__))
@@ -23,29 +25,13 @@ HIDDEN_FILE = os.path.join(DATA_DIR, "hidden.json")
 NOTES_FILE  = os.path.join(DATA_DIR, "notes.json")
 
 # ── Load .env ─────────────────────────────────────────────────────────────────
-def _load_env() -> dict:
-    path = os.path.join(BASE, ".env")
-    env = {}
-    try:
-        with open(path, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#") and "=" in line:
-                    k, v = line.split("=", 1)
-                    env[k.strip()] = v.strip()
-    except FileNotFoundError:
-        pass
-    return env
+load_dotenv(os.path.join(BASE, ".env"))
 
-_ENV = _load_env()
-GROQ_API_KEY    = _ENV.get("GROQ_API_KEY",    os.environ.get("GROQ_API_KEY",    ""))
+GROQ_API_KEY    = os.environ.get("GROQ_API_KEY",    "")
 OPEN_AI_API_KEY = (
-    _ENV.get("OPENAI_API_KEY")
-    or os.environ.get("OPENAI_API_KEY", "")
-    or _ENV.get("OPEN_AI_KEY")
+    os.environ.get("OPENAI_API_KEY", "")
     or os.environ.get("OPEN_AI_KEY", "")
 )
-CANTO_DIR        = os.path.join(BASE, "Canto")
 LAZY_CHINESE_DIR = os.path.realpath(os.path.join(BASE, "Lazy Chinese"))
 VIDEOS_DIR  = os.path.join(BASE, "Canto_Mando_Videos")
 STATIC_DIR  = os.path.join(_HERE, "static")
@@ -53,6 +39,7 @@ PORT        = int(os.environ.get("PORT", 8800))
 
 
 app = Flask(__name__, static_folder=STATIC_DIR, static_url_path="/static")
+# No browser caching during local development. Remove this line for production.
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 CORS(app)
 
@@ -70,7 +57,48 @@ try:
 except Exception as _e:
     print(f"⚠️  Lazy Chinese Web App failed to mount: {_e}")
 
-# ── Course structure helpers ──────────────────────────────────────────────────
+# ── Shared range-streaming helper ────────────────────────────────────────────
+
+def _range_response(full: str, mime: str, cap: int | None = None,
+                    media_prefixes: tuple = ("video", "audio")) -> Response:
+    """Return a 206 partial or full response for a local file.
+
+    cap: optional max byte count per response (e.g. 2MB for Chrome video buffering).
+    media_prefixes: only apply range logic when mime starts with one of these.
+    """
+    size = os.path.getsize(full)
+    range_header = request.headers.get("Range")
+
+    if range_header and mime.startswith(media_prefixes):
+        parts = range_header.strip().replace("bytes=", "").split("-")
+        start = int(parts[0]) if parts[0] else 0
+        req_end = int(parts[1]) if len(parts) > 1 and parts[1] else size - 1
+        end = min(req_end, size - 1)
+        if cap is not None:
+            end = min(end, start + cap - 1)
+        length = end - start + 1
+
+        def _generate():
+            with open(full, "rb") as f:
+                f.seek(start)
+                remaining = length
+                while remaining:
+                    chunk = f.read(min(65536, remaining))
+                    if not chunk:
+                        break
+                    yield chunk
+                    remaining -= len(chunk)
+
+        return Response(_generate(), status=206, headers={
+            "Content-Range":  f"bytes {start}-{end}/{size}",
+            "Accept-Ranges":  "bytes",
+            "Content-Length": str(length),
+            "Content-Type":   mime,
+        })
+
+    resp = send_file(full, mimetype=mime)
+    resp.headers["Accept-Ranges"] = "bytes"
+    return resp
 
 _SKIP = {"__pycache__", "Canto_Mando_Viewer", ".venv", "Phrases", "Canto", "archive",
          ".claude", "Confident Cantonese Kickstarter", "Canto_Mando_Videos"}
@@ -118,7 +146,12 @@ def _chapter_sort_key(name: str):
 
 _VIDEO_GROUPS = ["cm1_Intro", "cm2_Basic", "cm3_Intermediate", "cm4_Advanced"]
 
+_structure_cache: list | None = None
+
 def _build_structure() -> list:
+    global _structure_cache
+    if _structure_cache is not None:
+        return _structure_cache
     chapters = []
 
     # Chapters nested under group subfolders
@@ -146,6 +179,7 @@ def _build_structure() -> list:
         node["label"] = cck
         chapters.append(node)
 
+    _structure_cache = chapters
     return chapters
 
 # ── Routes ────────────────────────────────────────────────────────────────────
@@ -210,8 +244,7 @@ def api_advanced_progress():
                         with open(os.path.join(post_path, "README.md")) as rf:
                             rc = rf.read()
                         readme_tbd = "TBD" in rc
-                        import re as _re
-                        vm = _re.search(r'https?://www\.videoask\.com/[A-Za-z0-9_-]+', rc)
+                        vm = re.search(r'https?://www\.videoask\.com/[A-Za-z0-9_-]+', rc)
                         va_url = vm.group(0) if vm else None
                     except Exception:
                         pass
@@ -276,40 +309,8 @@ def serve_file(rel: str):
         abort(404)
 
     mime, _ = mimetypes.guess_type(full)
-    mime  = mime or "application/octet-stream"
-    size  = os.path.getsize(full)
-    range_header = request.headers.get("Range")
-
-    if range_header and mime.startswith("video"):
-        parts = range_header.strip().replace("bytes=", "").split("-")
-        start = int(parts[0]) if parts[0] else 0
-        # Cap each response at 2MB so Chrome buffers aggressively
-        MAX_CHUNK = 2 * 1024 * 1024
-        req_end = int(parts[1]) if len(parts) > 1 and parts[1] else size - 1
-        end = min(req_end, start + MAX_CHUNK - 1, size - 1)
-        length = end - start + 1
-
-        def _generate():
-            with open(full, "rb") as f:
-                f.seek(start)
-                remaining = length
-                while remaining:
-                    chunk = f.read(min(65536, remaining))
-                    if not chunk:
-                        break
-                    yield chunk
-                    remaining -= len(chunk)
-
-        headers = {
-            "Content-Range":  f"bytes {start}-{end}/{size}",
-            "Accept-Ranges":  "bytes",
-            "Content-Length": str(length),
-            "Content-Type":   mime,
-        }
-        return Response(_generate(), status=206, headers=headers)
-
-    resp = send_file(full, mimetype=mime)
-    resp.headers["Accept-Ranges"] = "bytes"
+    mime = mime or "application/octet-stream"
+    resp = _range_response(full, mime, cap=2 * 1024 * 1024, media_prefixes=("video",))
     if mime == "application/pdf":
         resp.headers["Content-Disposition"] = "inline"
     return resp
@@ -383,8 +384,12 @@ def api_notes_post():
 
 @app.route("/api/shutdown", methods=["POST"])
 def api_shutdown():
+    # Only allow shutdown from localhost to prevent accidental/malicious remote kill.
+    remote = request.remote_addr
+    if remote not in ("127.0.0.1", "::1"):
+        abort(403)
+    import signal
     def _stop():
-        import signal
         os.kill(os.getpid(), signal.SIGTERM)
     threading.Timer(0.3, _stop).start()
     return jsonify({"ok": True})
@@ -456,17 +461,17 @@ def _tts_edge(text: str, voice: str, speed: str) -> bytes:
 
     return asyncio.run(_synthesise())
 
-_GOOGLE_CREDS_PATH = os.environ.get(
-    "GOOGLE_APPLICATION_CREDENTIALS",
-    os.path.abspath(os.path.join(
-        os.path.dirname(__file__), "..", "archive", "Canto",
-        "folkloric-clock-472506-v7-9f27728139cb.json"
-    ))
-)
+# Read credentials path from env var only — no hardcoded fallback to avoid
+# leaking project IDs and key filenames into version control.
+_GOOGLE_CREDS_PATH = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS", "")
 
 def _tts_google_cloud(text: str, voice: str, speed: str) -> bytes:
-    import os as _os
-    _os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = _GOOGLE_CREDS_PATH
+    if not _GOOGLE_CREDS_PATH:
+        raise RuntimeError(
+            "GOOGLE_APPLICATION_CREDENTIALS env var is not set. "
+            "Point it to your service account JSON key file."
+        )
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = _GOOGLE_CREDS_PATH
     from google.cloud import texttospeech
     client = texttospeech.TextToSpeechClient()
 
@@ -683,7 +688,6 @@ def api_captures_get():
 
 @app.route("/api/captures", methods=["POST"])
 def api_captures_post():
-    from datetime import datetime
     data      = request.get_json(force=True)
     mandarin  = (data.get("mandarin")  or "").strip()
     pinyin    = (data.get("pinyin")    or "").strip()
@@ -795,39 +799,8 @@ def serve_lazy_file():
         abort(404)
 
     mime, _ = mimetypes.guess_type(full)
-    mime  = mime or "application/octet-stream"
-    size  = os.path.getsize(full)
-    range_header = request.headers.get("Range")
-
-    if range_header and mime.startswith(("video", "audio")):
-        parts = range_header.strip().replace("bytes=", "").split("-")
-        start = int(parts[0]) if parts[0] else 0
-        end   = int(parts[1]) if len(parts) > 1 and parts[1] else size - 1
-        end   = min(end, size - 1)
-        length = end - start + 1
-
-        def _generate():
-            with open(full, "rb") as f:
-                f.seek(start)
-                remaining = length
-                while remaining:
-                    chunk = f.read(min(65536, remaining))
-                    if not chunk:
-                        break
-                    yield chunk
-                    remaining -= len(chunk)
-
-        headers = {
-            "Content-Range":  f"bytes {start}-{end}/{size}",
-            "Accept-Ranges":  "bytes",
-            "Content-Length": str(length),
-            "Content-Type":   mime,
-        }
-        return Response(_generate(), status=206, headers=headers)
-
-    resp = send_file(full, mimetype=mime)
-    resp.headers["Accept-Ranges"] = "bytes"
-    return resp
+    mime = mime or "application/octet-stream"
+    return _range_response(full, mime)
 
 
 # ── Entry point ───────────────────────────────────────────────────────────────

@@ -3,9 +3,10 @@
 Lazy Chinese Web App — Flask server
 """
 import glob, json, os, re, secrets as _secrets, subprocess, sys, threading, time
-from datetime import timedelta
+from datetime import datetime, timedelta, timezone
 from functools import wraps
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).parent / ".env")
@@ -51,7 +52,14 @@ if DATA_DIR != _bundled_data:
             _shutil.copy2(_src, _dst)
 
 app = Flask(__name__, static_folder=str(STATIC_DIR), static_url_path="/static")
-CORS(app)
+# Restrict CORS to the Railway deployment origin in production; allow all locally.
+_railway_origin = os.environ.get("RAILWAY_STATIC_URL") or os.environ.get("RAILWAY_PUBLIC_DOMAIN")
+if _railway_origin and not _railway_origin.startswith("http"):
+    _railway_origin = f"https://{_railway_origin}"
+if _railway_origin:
+    CORS(app, origins=[_railway_origin])
+else:
+    CORS(app)
 app.secret_key = os.environ.get("SECRET_KEY", _secrets.token_hex(32))
 app.config.update(
     SESSION_COOKIE_HTTPONLY=True,
@@ -149,26 +157,32 @@ def _load_tokens() -> dict:
         return json.loads(TOKENS_PATH.read_text())
     raise RuntimeError("MS_TOKENS env var or data/tokens.json not found")
 
+# In-memory token cache so Railway (no persistent TOKENS_PATH) tracks expiry
+# across requests within the same worker process.
+_cached_tokens: dict | None = None
+
 def _get_access_token() -> str:
+    global _cached_tokens
     with _token_lock:
-        tokens = _load_tokens()
-        if time.time() < tokens.get("expires_at", 0):
-            return tokens["access_token"]
+        if _cached_tokens is None:
+            _cached_tokens = _load_tokens()
+        if time.time() < _cached_tokens.get("expires_at", 0):
+            return _cached_tokens["access_token"]
 
         r = _req.post(TOKEN_URL, data={
             "grant_type":    "refresh_token",
-            "refresh_token": tokens["refresh_token"],
+            "refresh_token": _cached_tokens["refresh_token"],
             "client_id":     MS_CLIENT_ID,
             "scope":         "Files.Read offline_access User.Read",
         })
         r.raise_for_status()
         data = r.json()
-        tokens["access_token"]  = data["access_token"]
-        tokens["refresh_token"] = data.get("refresh_token", tokens["refresh_token"])
-        tokens["expires_at"]    = time.time() + data.get("expires_in", 3600) - 60
+        _cached_tokens["access_token"]  = data["access_token"]
+        _cached_tokens["refresh_token"] = data.get("refresh_token", _cached_tokens["refresh_token"])
+        _cached_tokens["expires_at"]    = time.time() + data.get("expires_in", 3600) - 60
         if TOKENS_PATH.exists():
-            TOKENS_PATH.write_text(json.dumps(tokens, indent=2))
-        return tokens["access_token"]
+            TOKENS_PATH.write_text(json.dumps(_cached_tokens, indent=2))
+        return _cached_tokens["access_token"]
 
 def _graph_download_url(item_id: str) -> str:
     token = _get_access_token()
@@ -399,14 +413,28 @@ def api_translate_lines():
 @lazy_bp.route("/admin/reindex", methods=["POST"])
 @login_required
 def admin_reindex():
-    try:
-        result = subprocess.run(
-            [sys.executable, str(HERE / "build_index.py")],
-            capture_output=True, text=True, timeout=300
-        )
-        return jsonify({"ok": result.returncode == 0, "output": result.stdout + result.stderr})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+    """Run the indexer in a background thread and return immediately.
+    Prevents the single gunicorn worker from blocking on a 5-minute subprocess.
+    After a successful run the in-memory catalog is refreshed.
+    """
+    def _run():
+        try:
+            r = subprocess.run(
+                [sys.executable, str(HERE / "build_index.py")],
+                capture_output=True, text=True, timeout=300
+            )
+            ok = r.returncode == 0
+            print(f"[reindex] {'OK' if ok else 'FAILED'}\n{r.stdout}{r.stderr}", flush=True)
+            if ok:
+                # Refresh the in-memory catalog so subsequent requests see new data
+                global _catalog
+                _catalog = _load_catalog()
+                print(f"[reindex] catalog refreshed — {len(_catalog)} videos", flush=True)
+        except Exception as e:
+            print(f"[reindex] exception: {e}", flush=True)
+
+    threading.Thread(target=_run, daemon=True).start()
+    return jsonify({"ok": True, "message": "Reindex started in background. Check server logs for result."})
 
 # ── Stats ─────────────────────────────────────────────────────────────────────
 
@@ -418,9 +446,6 @@ def stats_page():
 @lazy_bp.route("/api/stats")
 @login_required
 def api_stats():
-    from datetime import datetime, timezone, timedelta
-    from zoneinfo import ZoneInfo
-
     SYDNEY = ZoneInfo("Australia/Sydney")
 
     state   = _load_watch_state()

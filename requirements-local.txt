@@ -1,0 +1,16 @@
+# Local development dependencies (Canto_Mando_Viewer + all TTS engines)
+# Install on each machine: pip install -r requirements-local.txt
+-r requirements.txt
+
+# TTS engines
+openai
+edge-tts
+google-cloud-texttospeech
+gtts
+
+# Language processing
+pycantonese
+pypinyin
+
+# Utilities
+setproctitle
