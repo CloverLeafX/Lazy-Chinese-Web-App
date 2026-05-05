@@ -405,13 +405,21 @@ video#localVideo {
   position: absolute; bottom: 0; left: 0; right: 0;
   min-height: 64px; padding: 10px 24px; overflow: hidden;
   background: linear-gradient(to top, rgba(0,0,0,.85) 0%, rgba(0,0,0,.4) 100%);
-  display: flex; align-items: flex-end; justify-content: center; text-align: center;
+  display: flex; flex-direction: column; align-items: center; justify-content: flex-end; text-align: center;
   cursor: default; opacity: 0; pointer-events: none; z-index: 10;
 }
 .watch-body.captions-on .current-sub-bar { opacity: 1; pointer-events: auto; }
 .current-sub-text {
   font-size: 23px; font-weight: 500; color: #fff; line-height: 1.6;
   letter-spacing: .3px;
+}
+.current-sub-english {
+  margin-top: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(255,255,255,.82);
+  line-height: 1.4;
+  min-height: 1.2em;
 }
 /* MandarinSpot word wrappers inside captions */
 .current-sub-text ruby rt { font-size: 13px; color: rgba(255,255,255,.5); }
@@ -435,6 +443,16 @@ video#localVideo {
   border-bottom: 1px solid var(--border);
 }
 .sub-loading-bar.active { display: flex; }
+.sub-english-bar {
+  display: none;
+  flex-shrink: 0;
+  padding: 8px 16px;
+  font-size: 13px;
+  color: #cfd5ec;
+  border-bottom: 1px solid var(--border);
+  background: rgba(108,142,247,.08);
+}
+.watch-body.english-on .sub-english-bar { display: block; }
 
 .transcript-scroll {
   flex: 1; overflow-y: auto; padding: 28px 24px 48px;
@@ -612,6 +630,7 @@ video#localVideo {
         <button class="seg-btn" id="btnTrad" data-script="traditional">繁 Traditional</button>
       </div>
       <button class="pinyin-btn" id="pinyinToggle">拼 Pinyin</button>
+      <button class="pinyin-btn" id="englishToggle">EN English</button>
   </div>
   </div>
 
@@ -626,6 +645,7 @@ video#localVideo {
           <div class="player-buffering-overlay" id="bufferingOverlay"><div class="spinner"></div></div>
           <div class="current-sub-bar">
             <div class="current-sub-text" id="currentSubText">—</div>
+            <div class="current-sub-english" id="currentSubEnglish"></div>
           </div>
         </div>
         <div class="video-controls" id="videoControls">
@@ -648,6 +668,7 @@ video#localVideo {
         <div class="spinner" style="width:12px;height:12px;border-width:1.5px"></div>
         Loading subtitles…
       </div>
+      <div class="sub-english-bar" id="subEnglishBar"></div>
       <div class="transcript-scroll">
         <div id="transcriptText"></div>
       </div>
@@ -687,6 +708,9 @@ let scriptMode   = "simplified";
 let pinyinOn     = false;
 let captionsOn   = false;
 let msLoaded     = false;
+let englishOn    = false;
+let englishByIdx = [];
+let englishPromise = null;
 
 /* ══════════════════════════════════════════════════════
    BOOT
@@ -953,7 +977,14 @@ function openWatch(v) {
   document.getElementById("captionsToggle").classList.remove("active");
   document.getElementById("watchBody").classList.remove("transcript-visible", "captions-on");
   document.getElementById("currentSubText").textContent = "—";
+  document.getElementById("currentSubEnglish").textContent = "";
+  document.getElementById("subEnglishBar").textContent = "";
   document.getElementById("transcriptText").innerHTML = "";
+  englishOn = false;
+  englishByIdx = [];
+  englishPromise = null;
+  document.getElementById("englishToggle").classList.remove("active");
+  document.getElementById("watchBody").classList.remove("english-on");
 
   setScript("simplified", false);
   setupPlayer(v);
@@ -1025,6 +1056,8 @@ async function loadSubtitles(v, script) {
   subtitles = []; activeIdx = -1;
   document.getElementById("transcriptText").innerHTML = "";
   document.getElementById("currentSubText").textContent = "—";
+  document.getElementById("currentSubEnglish").textContent = "";
+  document.getElementById("subEnglishBar").textContent = "";
 
   let srtText = null;
   try {
@@ -1040,7 +1073,13 @@ async function loadSubtitles(v, script) {
   }
 
   subtitles = parseSRT(srtText);
+  englishByIdx = new Array(subtitles.length).fill("");
   renderTranscript();
+  if (englishOn) {
+    ensureEnglishTranslations()
+      .then(() => updateEnglishLine(activeIdx))
+      .catch(() => {});
+  }
 }
 
 /* ── SRT parser ─────────────────────────────────────── */
@@ -1126,6 +1165,7 @@ function syncSubs(t) {
 
   activeIdx = idx;
   updateCaptions(idx);
+  updateEnglishLine(idx);
 
   if (idx >= 0) {
     const el = document.querySelector(`.sub-sent[data-idx="${idx}"]`);
@@ -1176,6 +1216,72 @@ async function togglePinyin() {
   }
   if (window.mandarinspot)
     mandarinspot.showInline(pinyinOn ? "visible" : "hidden");
+}
+
+async function ensureEnglishTranslations() {
+  if (!subtitles.length) return;
+  if (englishByIdx.length === subtitles.length && englishByIdx.every(Boolean)) return;
+  if (englishPromise) {
+    await englishPromise;
+    return;
+  }
+
+  const btn = document.getElementById("englishToggle");
+  const prev = btn.textContent;
+  btn.textContent = "EN Loading...";
+
+  englishPromise = (async () => {
+    const r = await fetch(`${BASE}/api/translate-lines`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ lines: subtitles.map(s => s.text) }),
+    });
+    const data = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(data.error || "Could not translate subtitles");
+    const translations = Array.isArray(data.translations) ? data.translations : [];
+    englishByIdx = subtitles.map((_, i) => (translations[i] || "").trim());
+  })();
+
+  try {
+    await englishPromise;
+  } finally {
+    englishPromise = null;
+    btn.textContent = prev;
+  }
+}
+
+function updateEnglishLine(idx) {
+  const caption = document.getElementById("currentSubEnglish");
+  const transcript = document.getElementById("subEnglishBar");
+  if (!englishOn || idx < 0) {
+    caption.textContent = "";
+    transcript.textContent = "";
+    return;
+  }
+  const line = englishByIdx[idx] || "";
+  caption.textContent = line;
+  transcript.textContent = line;
+}
+
+async function toggleEnglish() {
+  englishOn = !englishOn;
+  document.getElementById("englishToggle").classList.toggle("active", englishOn);
+  document.getElementById("watchBody").classList.toggle("english-on", englishOn);
+
+  if (!englishOn) {
+    updateEnglishLine(-1);
+    return;
+  }
+
+  try {
+    await ensureEnglishTranslations();
+    updateEnglishLine(activeIdx);
+  } catch (err) {
+    englishOn = false;
+    document.getElementById("englishToggle").classList.remove("active");
+    document.getElementById("watchBody").classList.remove("english-on");
+    alert(err.message || "Could not load English translations");
+  }
 }
 
 /* ── Transcript toggle ──────────────────────────────── */
@@ -1236,6 +1342,7 @@ document.getElementById("watchedBtn").addEventListener("click", () => { if (curr
 document.getElementById("unwatchBtn").addEventListener("click", () => { if (currentVideo) removeWatch(currentVideo); });
 document.getElementById("captionsToggle").addEventListener("click", toggleCaptions);
 document.getElementById("pinyinToggle").addEventListener("click", togglePinyin);
+document.getElementById("englishToggle").addEventListener("click", toggleEnglish);
 document.getElementById("sidebarToggle").addEventListener("click", toggleTranscript);
 document.getElementById("btnSimp").addEventListener("click", () => setScript("simplified"));
 document.getElementById("btnTrad").addEventListener("click", () => setScript("traditional"));

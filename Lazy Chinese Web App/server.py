@@ -2,7 +2,7 @@
 """
 Lazy Chinese Web App — Flask server
 """
-import glob, json, os, secrets as _secrets, subprocess, sys, threading, time
+import glob, json, os, re, secrets as _secrets, subprocess, sys, threading, time
 from datetime import timedelta
 from functools import wraps
 from pathlib import Path
@@ -36,6 +36,8 @@ TOKEN_URL       = f"https://login.microsoftonline.com/{MS_TENANT_ID}/oauth2/v2.0
 GRAPH           = "https://graph.microsoft.com/v1.0"
 
 AUTH_PASSWORD  = os.environ.get("AUTH_PASSWORD", "")
+GROQ_API_KEY   = os.environ.get("GROQ_API_KEY", "")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 
 DATA_DIR.mkdir(exist_ok=True)
 
@@ -60,6 +62,7 @@ app.config.update(
 
 _lock       = threading.Lock()
 _token_lock = threading.Lock()
+_en_cache   = {}
 
 lazy_bp = Blueprint("lazy", __name__)
 
@@ -199,6 +202,81 @@ def _read_local_srt(rel_path) -> str | None:
     full = LAZY_CHINESE / rel_path
     return full.read_text(encoding="utf-8") if full.exists() else None
 
+
+def _extract_json_array(raw: str) -> list[str]:
+    """Extract a JSON array from model output, tolerating extra wrapper text."""
+    match = re.search(r'\[.*\]', raw, re.DOTALL)
+    if not match:
+        raise ValueError("No JSON array found in translation response")
+    parsed = json.loads(match.group())
+    if not isinstance(parsed, list):
+        raise ValueError("Translation response was not a JSON array")
+    return [str(x).strip() for x in parsed]
+
+
+def _translate_english_batch(lines: list[str]) -> list[str]:
+    """Translate Chinese subtitle lines into concise natural English."""
+    if not lines:
+        return []
+
+    prompt = (
+        "You are a strict subtitle translation engine. "
+        "Translate each Chinese subtitle line to natural, concise English while preserving tone and intent. "
+        "Return ONLY a JSON array of strings in the same order and same length as input."
+    )
+
+    if GROQ_API_KEY:
+        resp = _req.post(
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {GROQ_API_KEY}",
+            },
+            json={
+                "model": "llama-3.3-70b-versatile",
+                "temperature": 0.1,
+                "max_tokens": 1600,
+                "messages": [
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": json.dumps(lines, ensure_ascii=False)},
+                ],
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        raw = resp.json()["choices"][0]["message"]["content"].strip()
+        out = _extract_json_array(raw)
+        if len(out) != len(lines):
+            raise ValueError("Translation output length mismatch")
+        return out
+
+    if OPENAI_API_KEY:
+        resp = _req.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {OPENAI_API_KEY}",
+            },
+            json={
+                "model": "gpt-4o-mini",
+                "temperature": 0.1,
+                "max_tokens": 1600,
+                "messages": [
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": json.dumps(lines, ensure_ascii=False)},
+                ],
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        raw = resp.json()["choices"][0]["message"]["content"].strip()
+        out = _extract_json_array(raw)
+        if len(out) != len(lines):
+            raise ValueError("Translation output length mismatch")
+        return out
+
+    raise RuntimeError("No translation provider configured")
+
 # ── Routes ────────────────────────────────────────────────────────────────────
 
 @lazy_bp.route("/")
@@ -281,6 +359,40 @@ def subtitle(video_id):
             pass
 
     abort(404)
+
+
+@lazy_bp.route("/api/translate-lines", methods=["POST"])
+@login_required
+def api_translate_lines():
+    body = request.get_json(force=True) or {}
+    lines = body.get("lines") or []
+    if not isinstance(lines, list):
+        return jsonify({"error": "lines must be an array"}), 400
+
+    cleaned = [str(x).strip() for x in lines]
+    if not cleaned:
+        return jsonify({"translations": []})
+
+    if len(cleaned) > 500:
+        return jsonify({"error": "Too many lines in one request (max 500)"}), 400
+
+    # Reuse cached results for repeated subtitle lines across videos.
+    missing = [line for line in cleaned if line and line not in _en_cache]
+    try:
+        for i in range(0, len(missing), 40):
+            chunk = missing[i:i + 40]
+            if not chunk:
+                continue
+            translated = _translate_english_batch(chunk)
+            for src, dst in zip(chunk, translated):
+                _en_cache[src] = dst
+    except RuntimeError:
+        return jsonify({"error": "Translation provider not configured. Set GROQ_API_KEY or OPENAI_API_KEY."}), 503
+    except Exception as e:
+        return jsonify({"error": f"Translation failed: {e}"}), 502
+
+    result = [_en_cache.get(line, "") if line else "" for line in cleaned]
+    return jsonify({"translations": result})
 
 @lazy_bp.route("/admin/reindex", methods=["POST"])
 @login_required
