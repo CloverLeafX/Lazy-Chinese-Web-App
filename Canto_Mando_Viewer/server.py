@@ -39,7 +39,12 @@ def _load_env() -> dict:
 
 _ENV = _load_env()
 GROQ_API_KEY    = _ENV.get("GROQ_API_KEY",    os.environ.get("GROQ_API_KEY",    ""))
-OPEN_AI_API_KEY = _ENV.get("OPEN_AI_KEY",     os.environ.get("OPEN_AI_KEY",     ""))
+OPEN_AI_API_KEY = (
+    _ENV.get("OPENAI_API_KEY")
+    or os.environ.get("OPENAI_API_KEY", "")
+    or _ENV.get("OPEN_AI_KEY")
+    or os.environ.get("OPEN_AI_KEY", "")
+)
 CANTO_DIR        = os.path.join(BASE, "Canto")
 LAZY_CHINESE_DIR = os.path.realpath(os.path.join(BASE, "Lazy Chinese"))
 VIDEOS_DIR  = os.path.join(BASE, "Canto_Mando_Videos")
@@ -503,6 +508,8 @@ def _tts_gtts(text: str, voice: str, speed: str) -> bytes:
 
 def _tts_openai(text: str, speed: float = 1.0) -> bytes:
     from openai import OpenAI
+    if not OPEN_AI_API_KEY:
+        raise RuntimeError("OpenAI TTS is not configured. Set OPENAI_API_KEY (or legacy OPEN_AI_KEY).")
     client = OpenAI(api_key=OPEN_AI_API_KEY)
     buf = io.BytesIO()
     with client.audio.speech.with_streaming_response.create(
