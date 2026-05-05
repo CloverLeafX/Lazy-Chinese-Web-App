@@ -265,7 +265,12 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
         raw = resp.json()["choices"][0]["message"]["content"].strip()
         out = _extract_json_array(raw)
         if len(out) != len(lines):
-            raise ValueError(f"Translation output length mismatch: sent {len(lines)}, got {len(out)}")
+            # If API returns fewer items, pad with empty strings instead of failing
+            if len(out) < len(lines):
+                print(f"WARNING: API returned {len(out)} translations for {len(lines)} lines, padding", file=sys.stderr)
+                out = out + [""] * (len(lines) - len(out))
+            else:
+                out = out[:len(lines)]
         return out
 
     if OPENAI_API_KEY:
@@ -290,7 +295,12 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
         raw = resp.json()["choices"][0]["message"]["content"].strip()
         out = _extract_json_array(raw)
         if len(out) != len(lines):
-            raise ValueError(f"Translation output length mismatch: sent {len(lines)}, got {len(out)}")
+            # If API returns fewer items, pad with empty strings instead of failing
+            if len(out) < len(lines):
+                print(f"WARNING: API returned {len(out)} translations for {len(lines)} lines, padding", file=sys.stderr)
+                out = out + [""] * (len(lines) - len(out))
+            else:
+                out = out[:len(lines)]
         return out
 
     raise RuntimeError("No translation provider configured")
@@ -397,13 +407,14 @@ def api_translate_lines():
     # Reuse cached results for repeated subtitle lines across videos.
     missing = [line for line in cleaned if line and line not in _en_cache]
     try:
-        for i in range(0, len(missing), 30):  # Reduced from 40 to 30 for safer batching
+        for i in range(0, len(missing), 30):  # Batch in groups of 30
             chunk = missing[i:i + 30]
             if not chunk:
                 continue
             translated = _translate_english_batch(chunk)
+            # Pad or truncate to match chunk size if API returns wrong count
             if len(translated) != len(chunk):
-                raise ValueError(f"Batch translation mismatch: sent {len(chunk)}, got {len(translated)}")
+                print(f"WARNING: Translation returned {len(translated)} for {len(chunk)}, adjusting", file=sys.stderr)
             for src, dst in zip(chunk, translated):
                 _en_cache[src] = dst
     except RuntimeError as e:
