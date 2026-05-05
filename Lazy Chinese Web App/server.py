@@ -397,17 +397,20 @@ def api_translate_lines():
     # Reuse cached results for repeated subtitle lines across videos.
     missing = [line for line in cleaned if line and line not in _en_cache]
     try:
-        for i in range(0, len(missing), 40):
-            chunk = missing[i:i + 40]
+        for i in range(0, len(missing), 30):  # Reduced from 40 to 30 for safer batching
+            chunk = missing[i:i + 30]
             if not chunk:
                 continue
             translated = _translate_english_batch(chunk)
+            if len(translated) != len(chunk):
+                raise ValueError(f"Batch translation mismatch: sent {len(chunk)}, got {len(translated)}")
             for src, dst in zip(chunk, translated):
                 _en_cache[src] = dst
-    except RuntimeError:
+    except RuntimeError as e:
         return jsonify({"error": "Translation provider not configured. Set GROQ_API_KEY or OPENAI_API_KEY."}), 503
     except Exception as e:
-        return jsonify({"error": f"Translation failed: {e}"}), 502
+        print(f"Translation error: {e}", file=sys.stderr)
+        return jsonify({"error": f"Translation failed: {str(e)[:100]}"}), 502
 
     result = [_en_cache.get(line, "") if line else "" for line in cleaned]
     return jsonify({"translations": result})
