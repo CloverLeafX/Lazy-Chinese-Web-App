@@ -205,13 +205,31 @@ def _read_local_srt(rel_path) -> str | None:
 
 def _extract_json_array(raw: str) -> list[str]:
     """Extract a JSON array from model output, tolerating extra wrapper text."""
+    # Try parsing the whole response first
+    try:
+        parsed = json.loads(raw.strip())
+        if isinstance(parsed, list):
+            return [str(x).strip() for x in parsed]
+        # If it's a dict with a "translations" or "lines" key, use that
+        if isinstance(parsed, dict):
+            for key in ("translations", "lines", "results"):
+                if key in parsed and isinstance(parsed[key], list):
+                    return [str(x).strip() for x in parsed[key]]
+    except json.JSONDecodeError:
+        pass
+    
+    # Fall back to finding JSON array with regex
     match = re.search(r'\[.*\]', raw, re.DOTALL)
     if not match:
         raise ValueError("No JSON array found in translation response")
-    parsed = json.loads(match.group())
-    if not isinstance(parsed, list):
-        raise ValueError("Translation response was not a JSON array")
-    return [str(x).strip() for x in parsed]
+    
+    try:
+        parsed = json.loads(match.group())
+        if not isinstance(parsed, list):
+            raise ValueError("Translation response was not a JSON array")
+        return [str(x).strip() for x in parsed]
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Failed to parse JSON array: {e}")
 
 
 def _translate_english_batch(lines: list[str]) -> list[str]:
@@ -247,7 +265,7 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
         raw = resp.json()["choices"][0]["message"]["content"].strip()
         out = _extract_json_array(raw)
         if len(out) != len(lines):
-            raise ValueError("Translation output length mismatch")
+            raise ValueError(f"Translation output length mismatch: sent {len(lines)}, got {len(out)}")
         return out
 
     if OPENAI_API_KEY:
@@ -272,7 +290,7 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
         raw = resp.json()["choices"][0]["message"]["content"].strip()
         out = _extract_json_array(raw)
         if len(out) != len(lines):
-            raise ValueError("Translation output length mismatch")
+            raise ValueError(f"Translation output length mismatch: sent {len(lines)}, got {len(out)}")
         return out
 
     raise RuntimeError("No translation provider configured")
