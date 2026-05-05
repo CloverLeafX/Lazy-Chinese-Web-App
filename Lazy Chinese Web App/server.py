@@ -243,36 +243,6 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
         "Return ONLY a JSON array of strings in the same order and same length as input."
     )
 
-    if GROQ_API_KEY:
-        resp = _req.post(
-            "https://api.groq.com/openai/v1/chat/completions",
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {GROQ_API_KEY}",
-            },
-            json={
-                "model": "llama-3.3-70b-versatile",
-                "temperature": 0.1,
-                "max_tokens": 1600,
-                "messages": [
-                    {"role": "system", "content": prompt},
-                    {"role": "user", "content": json.dumps(lines, ensure_ascii=False)},
-                ],
-            },
-            timeout=30,
-        )
-        resp.raise_for_status()
-        raw = resp.json()["choices"][0]["message"]["content"].strip()
-        out = _extract_json_array(raw)
-        if len(out) != len(lines):
-            # If API returns fewer items, pad with empty strings instead of failing
-            if len(out) < len(lines):
-                print(f"WARNING: API returned {len(out)} translations for {len(lines)} lines, padding", file=sys.stderr)
-                out = out + [""] * (len(lines) - len(out))
-            else:
-                out = out[:len(lines)]
-        return out
-
     if OPENAI_API_KEY:
         resp = _req.post(
             "https://api.openai.com/v1/chat/completions",
@@ -303,7 +273,7 @@ def _translate_english_batch(lines: list[str]) -> list[str]:
                 out = out[:len(lines)]
         return out
 
-    raise RuntimeError("No translation provider configured")
+    raise RuntimeError("No translation provider configured (set OPENAI_API_KEY)")
 
 # ── Routes ────────────────────────────────────────────────────────────────────
 
