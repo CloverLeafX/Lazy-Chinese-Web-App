@@ -150,7 +150,7 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
   display: none; position: fixed;
   background: var(--surface); border: 1px solid var(--border);
   border-radius: var(--radius-sm); box-shadow: 0 6px 16px rgba(0,0,0,.35);
-  min-width: 140px; z-index: 200; padding: 4px 0;
+  min-width: 140px; z-index: 500; padding: 4px 0;
 }
 .multi-select-menu.open { display: block; }
 .multi-select-item {
@@ -1366,24 +1366,43 @@ const watchedTrigger = document.getElementById("watchedTrigger");
 const watchedMenu    = document.getElementById("watchedMenu");
 const watchedLabel   = document.getElementById("watchedLabel");
 
+function _openWatchedMenu() {
+  watchedMenu.classList.add("open");
+  const r = watchedTrigger.getBoundingClientRect();
+  watchedMenu.style.top  = (r.bottom + 4) + "px";
+  watchedMenu.style.left = r.left + "px";
+}
+function _closeWatchedMenu() {
+  watchedMenu.classList.remove("open");
+}
+function _toggleWatchedMenu() {
+  if (watchedMenu.classList.contains("open")) _closeWatchedMenu();
+  else _openWatchedMenu();
+}
+
+// touchend — primary handler for iOS (prevents the 300ms delayed synthetic click)
+watchedTrigger.addEventListener("touchend", e => {
+  e.preventDefault();
+  _toggleWatchedMenu();
+});
+// click — fallback for desktop / mouse
 watchedTrigger.addEventListener("click", e => {
   e.stopPropagation();
-  const isOpen = watchedMenu.classList.contains("open");
-  watchedMenu.classList.toggle("open");
-  if (!isOpen) {
-    const r = watchedTrigger.getBoundingClientRect();
-    watchedMenu.style.top  = (r.bottom + 4) + "px";
-    watchedMenu.style.left = r.left + "px";
-  }
+  // only act if not already handled by touchend
+  if (!('ontouchstart' in window)) _toggleWatchedMenu();
 });
-document.addEventListener("click", e => {
-  if (!watchedTrigger.contains(e.target)) watchedMenu.classList.remove("open");
-});
+
+// Close on outside tap (touch) or click
 document.addEventListener("touchstart", e => {
   if (!watchedTrigger.contains(e.target) && !watchedMenu.contains(e.target)) {
-    watchedMenu.classList.remove("open");
+    _closeWatchedMenu();
   }
 }, { passive: true });
+document.addEventListener("click", e => {
+  if (!watchedTrigger.contains(e.target) && !watchedMenu.contains(e.target)) {
+    _closeWatchedMenu();
+  }
+});
 watchedMenu.addEventListener("click", e => e.stopPropagation());
 
 function updateWatchedDropdown() {
@@ -1541,12 +1560,9 @@ document.addEventListener("keydown", e => {
         dtFlashTimer.right = showFlash(dtFlashRight, dtFlashTimer.right);
       }
     } else {
-      // First tap — wait to see if a second comes
+      // First tap — wait to see if a second comes (single tap does nothing)
       dtTapTimer = setTimeout(() => {
         dtTapTimer = null;
-        // Single tap: play/pause
-        if (vid.paused) { manualPause = false; vid.play(); }
-        else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
       }, 280);
     }
   }
@@ -1560,10 +1576,6 @@ document.addEventListener("keydown", e => {
     handleDtTap(e, side);
   }, { passive: true });
 
-  vid.addEventListener('click', () => {
-    if (vid.paused) { manualPause = false; vid.play(); }
-    else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
-  });
   btnPlay.addEventListener('click', () => {
     if (vid.paused) { manualPause = false; vid.play(); }
     else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
