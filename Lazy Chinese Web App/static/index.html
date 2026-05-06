@@ -90,7 +90,7 @@ input, select, button { font-family: inherit; font-size: inherit; }
   position: fixed; top: var(--header-h); left: 0; right: 0;
   height: var(--filter-h);
   background: var(--surface2); border-bottom: 1px solid var(--border);
-  z-index: 90; overflow: hidden;
+  z-index: 90; overflow: visible;
 }
 /* Inner wrapper handles scrolling — iOS won't scroll position:fixed elements directly */
 .filter-bar-inner {
@@ -371,6 +371,24 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
   flex: 1; position: relative; min-height: 0; overflow: hidden;
   display: flex; align-items: center; justify-content: center;
 }
+/* Double-tap seek zones */
+.dt-zone {
+  position: absolute; top: 0; bottom: 0; width: 35%; z-index: 10;
+  pointer-events: none;
+}
+.dt-zone--left  { left: 0; }
+.dt-zone--right { right: 0; }
+.dt-flash {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  background: rgba(255,255,255,0.18); border-radius: 50%;
+  width: 80px; height: 80px;
+  display: flex; align-items: center; justify-content: center;
+  color: #fff; font-size: 12px; font-weight: 600; flex-direction: column; gap: 2px;
+  opacity: 0; transition: opacity 120ms ease;
+  pointer-events: none; user-select: none;
+}
+.dt-flash.show { opacity: 1; }
+.dt-flash svg { display: block; }
 video#localVideo {
   width: 100%; height: 100%; object-fit: contain; display: block;
 }
@@ -640,6 +658,8 @@ video#localVideo {
     <div class="player-col">
       <div class="player-section">
         <div class="player-wrap" id="playerWrap">
+          <div class="dt-zone dt-zone--left"  id="dtLeft" ><div class="dt-flash" id="dtFlashLeft" ><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M11 18V6l-8.5 6 8.5 6zm.5-6l8.5 6V6l-8.5 6z"/></svg>-10s</div></div>
+          <div class="dt-zone dt-zone--right" id="dtRight"><div class="dt-flash" id="dtFlashRight"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M4 18l8.5-6L4 6v12zm9-12v12l8.5-6L13 6z"/></svg>+10s</div></div>
           <video id="localVideo" preload="auto" playsinline></video>
           <iframe id="remoteFrame" class="remote-frame" allow="autoplay; fullscreen" style="display:none"></iframe>
           <div class="player-buffering-overlay" id="bufferingOverlay"><div class="spinner"></div></div>
@@ -1137,11 +1157,54 @@ function loadMandarinSpot() {
   });
 }
 
+// ── MandarinSpot mobile auto-dismiss ─────────────────
+// On touch devices there is no mouseleave, so the popup stays visible.
+// This observer detects when the popup becomes visible and:
+//   1. Hides it after 3 seconds automatically.
+//   2. Hides it immediately if the user taps anywhere outside it.
+let _msDismissTimer   = null;
+let _msOutsideHandler = null;
+let _msObserver       = null;
+
+function _setupMSMobileDismiss() {
+  const isTouch = () => window.matchMedia("(pointer: coarse)").matches;
+
+  const hidePopup = () => {
+    clearTimeout(_msDismissTimer);
+    if (_msOutsideHandler) {
+      document.removeEventListener("touchstart", _msOutsideHandler);
+      _msOutsideHandler = null;
+    }
+    const p = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
+    if (p) p.style.display = "none";
+  };
+
+  _msObserver = new MutationObserver(() => {
+    if (!isTouch()) return;
+    const p = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
+    if (!p || p.style.display === "none" || !p.offsetWidth) return;
+
+    // Popup just became visible on a touch device — arm auto-dismiss
+    clearTimeout(_msDismissTimer);
+    _msDismissTimer = setTimeout(hidePopup, 3000);
+
+    // Replace any existing outside-tap handler
+    if (_msOutsideHandler) document.removeEventListener("touchstart", _msOutsideHandler);
+    _msOutsideHandler = e => { if (!p.contains(e.target)) hidePopup(); };
+    document.addEventListener("touchstart", _msOutsideHandler, { passive: true });
+  });
+
+  _msObserver.observe(document.body, {
+    subtree: true, attributes: true, attributeFilter: ["style", "class"],
+  });
+}
+
 async function applyMandarinSpot() {
   await loadMandarinSpot();
   if (!window.mandarinspot) return;
   mandarinspot.annotate("#transcriptText", { phonetic: "pinyin", show: true, inline: pinyinOn ? "visible" : "hidden" });
 
+  // Desktop: hide on mouse leaving the text areas
   const el = document.getElementById("transcriptText");
   el.addEventListener("mouseleave", () => {
     const popup = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
@@ -1153,6 +1216,10 @@ async function applyMandarinSpot() {
     const popup = document.querySelector(".mandarinspot-popup, #mandarinspot-popup, .ms-popup");
     if (popup) popup.style.display = "none";
   }, { once: false });
+
+  // Mobile: auto-dismiss observer (runs once per applyMandarinSpot call)
+  if (_msObserver) _msObserver.disconnect();
+  _setupMSMobileDismiss();
 }
 
 /* ── Subtitle sync ──────────────────────────────────── */
@@ -1309,7 +1376,14 @@ watchedTrigger.addEventListener("click", e => {
     watchedMenu.style.left = r.left + "px";
   }
 });
-document.addEventListener("click", () => watchedMenu.classList.remove("open"));
+document.addEventListener("click", e => {
+  if (!watchedTrigger.contains(e.target)) watchedMenu.classList.remove("open");
+});
+document.addEventListener("touchstart", e => {
+  if (!watchedTrigger.contains(e.target) && !watchedMenu.contains(e.target)) {
+    watchedMenu.classList.remove("open");
+  }
+}, { passive: true });
 watchedMenu.addEventListener("click", e => e.stopPropagation());
 
 function updateWatchedDropdown() {
@@ -1433,6 +1507,58 @@ document.addEventListener("keydown", e => {
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
   vid.addEventListener('pause', () => { if (!stalledPause) btnPlay.innerHTML = PLAY_SVG; });
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
+
+  // ── Double-tap seek (mobile) ───────────────────────
+  const dtLeft       = document.getElementById('dtLeft');
+  const dtRight      = document.getElementById('dtRight');
+  const dtFlashLeft  = document.getElementById('dtFlashLeft');
+  const dtFlashRight = document.getElementById('dtFlashRight');
+  let dtTapTimer = null;
+  let dtFlashTimer = { left: null, right: null };
+
+  function showFlash(el, timer) {
+    el.classList.add('show');
+    clearTimeout(timer);
+    return setTimeout(() => el.classList.remove('show'), 600);
+  }
+
+  function handleDtTap(e, side) {
+    // Ignore if this tap is on a control element
+    if (e.target.closest('.video-controls, .vc-btn')) return;
+    const zone = side === 'left' ? dtLeft : dtRight;
+    zone.style.pointerEvents = 'auto';
+
+    if (dtTapTimer) {
+      // Second tap — double tap detected
+      clearTimeout(dtTapTimer);
+      dtTapTimer = null;
+      if (!vid.duration) return;
+      if (side === 'left') {
+        vid.currentTime = Math.max(0, vid.currentTime - 10);
+        dtFlashTimer.left = showFlash(dtFlashLeft, dtFlashTimer.left);
+      } else {
+        vid.currentTime = Math.min(vid.duration, vid.currentTime + 10);
+        dtFlashTimer.right = showFlash(dtFlashRight, dtFlashTimer.right);
+      }
+    } else {
+      // First tap — wait to see if a second comes
+      dtTapTimer = setTimeout(() => {
+        dtTapTimer = null;
+        // Single tap: play/pause
+        if (vid.paused) { manualPause = false; vid.play(); }
+        else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
+      }, 280);
+    }
+  }
+
+  // Enable touch-based double-tap on the whole player wrap
+  const playerWrap = document.getElementById('playerWrap');
+  playerWrap.addEventListener('touchend', e => {
+    const rect = playerWrap.getBoundingClientRect();
+    const x = e.changedTouches[0].clientX - rect.left;
+    const side = x < rect.width / 2 ? 'left' : 'right';
+    handleDtTap(e, side);
+  }, { passive: true });
 
   vid.addEventListener('click', () => {
     if (vid.paused) { manualPause = false; vid.play(); }

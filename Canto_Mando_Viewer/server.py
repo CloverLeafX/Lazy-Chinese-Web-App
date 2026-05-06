@@ -38,6 +38,8 @@ PORT        = int(os.environ.get("PORT", 8800))
 app = Flask(__name__, static_folder=STATIC_DIR, static_url_path="/static")
 # No browser caching during local development. Remove this line for production.
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
+import secrets as _secrets
+app.secret_key = os.environ.get("SECRET_KEY", _secrets.token_hex(32))
 CORS(app)
 
 # ── Lazy Chinese Web App (Blueprint mount) ────────────────────────────────────
