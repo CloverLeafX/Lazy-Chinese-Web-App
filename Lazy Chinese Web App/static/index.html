@@ -583,10 +583,6 @@ video#localVideo {
         <span id="watchedLabel">Watch Status</span>
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
-      <div class="multi-select-menu" id="watchedMenu">
-        <label class="multi-select-item"><input type="checkbox" value="watched" id="ckWatched"> Watched</label>
-        <label class="multi-select-item"><input type="checkbox" value="unwatched" id="ckUnwatched"> Unwatched</label>
-      </div>
     </div>
     <div class="bar-sep"></div>
     <select class="filter-select" id="sortSelect">
@@ -598,6 +594,12 @@ video#localVideo {
     </select>
   </div>
   </div>
+
+<!-- Watch status menu — lives on body so z-index is in root stacking context -->
+<div class="multi-select-menu" id="watchedMenu">
+  <label class="multi-select-item"><input type="checkbox" value="watched" id="ckWatched"> Watched</label>
+  <label class="multi-select-item"><input type="checkbox" value="unwatched" id="ckUnwatched"> Unwatched</label>
+</div>
 
   <main class="browse-main">
     <div id="loadingState" class="loading-state">
