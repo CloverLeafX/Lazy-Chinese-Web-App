@@ -28,10 +28,7 @@ NOTES_FILE  = os.path.join(DATA_DIR, "notes.json")
 load_dotenv(os.path.join(BASE, ".env"))
 
 GROQ_API_KEY    = os.environ.get("GROQ_API_KEY",    "")
-OPEN_AI_API_KEY = (
-    os.environ.get("OPENAI_API_KEY", "")
-    or os.environ.get("OPEN_AI_KEY", "")
-)
+OPEN_AI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 LAZY_CHINESE_DIR = os.path.realpath(os.path.join(BASE, "Lazy Chinese"))
 VIDEOS_DIR  = os.path.join(BASE, "Canto_Mando_Videos")
 STATIC_DIR  = os.path.join(_HERE, "static")
@@ -401,7 +398,7 @@ def api_tts():
     text   = (data.get("text") or "").strip()
     voice  = data.get("voice", "zh-HK-female")
     speed  = data.get("speed", "normal")
-    engine = data.get("engine", "edge")   # "edge" | "gtts" | "google" | "openai"
+    engine = data.get("engine", "edge")   # "edge" | "gtts" | "openai"
 
     if not text:
         return jsonify({"error": "No text provided"}), 400
@@ -411,14 +408,6 @@ def api_tts():
             speed_f = {"slow": 0.85, "normal": 1.0, "fast": 1.25}.get(speed, 1.0)
             audio = _tts_openai(text, speed=speed_f)
             print(f"[TTS] ✅ OpenAI TTS")
-        elif engine == "google":
-            try:
-                audio = _tts_google_cloud(text, voice, speed)
-                print(f"[TTS] ✅ Google Cloud TTS: voice={voice}")
-            except Exception as gc_err:
-                print(f"[TTS] ⚠️  Google Cloud failed ({gc_err}), falling back to Edge TTS")
-                fallback = "zh-CN-YunjianNeural" if voice.startswith("cmn-") else "zh-HK-WanLungNeural"
-                audio = _tts_edge(text, fallback, speed)
         elif engine == "gtts":
             audio = _tts_gtts(text, voice, speed)
             print(f"[TTS] ✅ gTTS: voice={voice}")
@@ -460,44 +449,6 @@ def _tts_edge(text: str, voice: str, speed: str) -> bytes:
         return buf.read()
 
     return asyncio.run(_synthesise())
-
-# Read credentials path from env var only — no hardcoded fallback to avoid
-# leaking project IDs and key filenames into version control.
-_GOOGLE_CREDS_PATH = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS", "")
-
-def _tts_google_cloud(text: str, voice: str, speed: str) -> bytes:
-    if not _GOOGLE_CREDS_PATH:
-        raise RuntimeError(
-            "GOOGLE_APPLICATION_CREDENTIALS env var is not set. "
-            "Point it to your service account JSON key file."
-        )
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = _GOOGLE_CREDS_PATH
-    from google.cloud import texttospeech
-    client = texttospeech.TextToSpeechClient()
-
-    # Determine language code from voice name prefix
-    if voice.startswith("yue"):
-        lang_code = "yue-HK"
-    elif voice.startswith("cmn-TW"):
-        lang_code = "cmn-TW"
-    else:
-        lang_code = "cmn-CN"
-
-    rate_map = {"slow": 0.75, "normal": 1.0, "fast": 1.25}
-    speaking_rate = rate_map.get(speed, 1.0)
-
-    synthesis_input = texttospeech.SynthesisInput(text=text)
-    voice_params     = texttospeech.VoiceSelectionParams(
-        language_code=lang_code, name=voice
-    )
-    audio_config = texttospeech.AudioConfig(
-        audio_encoding=texttospeech.AudioEncoding.MP3,
-        speaking_rate=speaking_rate,
-    )
-    response = client.synthesize_speech(
-        input=synthesis_input, voice=voice_params, audio_config=audio_config
-    )
-    return response.audio_content
 
 def _tts_gtts(text: str, voice: str, speed: str) -> bytes:
     from gtts import gTTS

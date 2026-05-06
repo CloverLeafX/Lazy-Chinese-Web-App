@@ -9,7 +9,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).parent / ".env")
+load_dotenv(Path(__file__).parent.parent / ".env")   # root — shared keys
+load_dotenv(Path(__file__).parent / ".env")           # local — app-specific overrides
 
 import requests as _req
 from flask import (Blueprint, Flask, abort, jsonify, redirect,

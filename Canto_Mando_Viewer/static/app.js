@@ -91,12 +91,12 @@ function loadHiddenFromLocal() {
 // ── TTS helpers ───────────────────────────────────────────────────────────────
 const VOICE_MAP = {
   'zh-HK': { female: 'zh-HK-HiuMaanNeural', male: 'zh-HK-WanLungNeural'  },
-  'zh-CN': { female: 'zh-CN-XiaoxiaoNeural', male: 'cmn-CN-Wavenet-B'     },
+  'zh-CN': { female: 'zh-CN-XiaoxiaoNeural', male: 'zh-CN-YunyangNeural'  },
 };
 
-// Voices starting with cmn- or yue- are Google Cloud; everything else is Edge
+// Mandarin voices use OpenAI TTS; everything else uses Edge TTS
 function engineFor(voice) {
-  return (voice.startsWith('cmn-') || voice.startsWith('yue-')) ? 'google' : 'edge';
+  return voice.startsWith('zh-CN') ? 'openai' : 'edge';
 }
 
 function voiceFor(lang) {
@@ -113,7 +113,7 @@ function currentTTSVoice() {
 function speedFor(lang) {
   const locale = (lang === 'mando') ? 'zh-CN' : (lang === 'canto') ? 'zh-HK' : lang;
   if (locale !== 'zh-CN') return 'normal';
-  // Mandarin male (Google Wavenet) plays better at normal; female stays slow
+  // Mandarin uses OpenAI TTS; female plays better slightly slow
   const gender = document.querySelector('input[name="ttsGender"]:checked')?.value || 'female';
   return gender === 'male' ? 'normal' : 'slow';
 }
