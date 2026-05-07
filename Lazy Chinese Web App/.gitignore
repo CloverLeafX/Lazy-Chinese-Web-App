@@ -2,6 +2,8 @@
 data/tokens.json
 data/reindex_misses.json
 data/webauthn_credentials.json
+data/watch_state.json
+data/auth_log.txt
 __pycache__/
 *.pyc
 plan/Config.txt
