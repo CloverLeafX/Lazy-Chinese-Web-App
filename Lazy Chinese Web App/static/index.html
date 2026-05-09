@@ -1300,14 +1300,20 @@ async function ensureEnglishTranslations() {
   btn.textContent = "EN Loading...";
 
   englishPromise = (async () => {
-    const r = await fetch(`${BASE}/api/translate-lines`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ lines: subtitles.map(s => s.text) }),
-    });
-    const data = await r.json().catch(() => ({}));
-    if (!r.ok) throw new Error(data.error || "Could not translate subtitles");
-    const translations = Array.isArray(data.translations) ? data.translations : [];
+    const allLines = subtitles.map(s => s.text);
+    const CHUNK = 500;
+    const translations = [];
+    for (let i = 0; i < allLines.length; i += CHUNK) {
+      const r = await fetch(`${BASE}/api/translate-lines`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ lines: allLines.slice(i, i + CHUNK) }),
+      });
+      const data = await r.json().catch(() => ({}));
+      if (!r.ok) throw new Error(data.error || "Could not translate subtitles");
+      const chunk = Array.isArray(data.translations) ? data.translations : [];
+      translations.push(...chunk);
+    }
     englishByIdx = subtitles.map((_, i) => (translations[i] || "").trim());
   })();
 
