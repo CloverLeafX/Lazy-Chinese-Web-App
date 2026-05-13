@@ -840,9 +840,13 @@ function getFiltered() {
 function render() {
   const videos = getFiltered();
   const grid   = document.getElementById("videoGrid");
-  const watchedCount = allVideos.filter(v => watchState[v.id]?.watchCount).length;
+  const uniqueWatched = allVideos.filter(v => watchState[v.id]?.watchCount).length;
+  const totalPlays    = allVideos.reduce((s, v) => s + (watchState[v.id]?.watchCount || 0), 0);
+  const watchLabel    = totalPlays > uniqueWatched
+    ? `${uniqueWatched} videos (${totalPlays} plays)`
+    : `${uniqueWatched}`;
   document.getElementById("resultsCount").innerHTML =
-    `Showing <strong>${videos.length}</strong> of ${allVideos.length} videos · <strong>${watchedCount}</strong> watched`;
+    `Showing <strong>${videos.length}</strong> of ${allVideos.length} videos · <strong>${watchLabel}</strong> watched`;
 
   if (!videos.length) {
     grid.innerHTML = `<div class="empty-state">
