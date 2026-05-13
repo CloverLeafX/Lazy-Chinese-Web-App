@@ -334,6 +334,20 @@ def api_watch_state_post(video_id):
     _save_watch_state(state)
     return jsonify({"ok": True})
 
+@lazy_bp.route("/api/watch-state/<video_id>", methods=["PATCH"])
+@login_required
+def api_watch_state_patch(video_id):
+    """Directly set fields on a watch-state entry without side-effects (e.g. no watchCount increment)."""
+    body  = request.get_json(force=True) or {}
+    state = _load_watch_state()
+    entry = state.get(video_id, {})
+    for field in ("watched", "watchedAt", "watchCount", "lastPosition"):
+        if field in body:
+            entry[field] = body[field]
+    state[video_id] = entry
+    _save_watch_state(state)
+    return jsonify({"ok": True})
+
 @lazy_bp.route("/api/watch-state/<video_id>", methods=["DELETE"])
 @login_required
 def api_watch_state_delete(video_id):
