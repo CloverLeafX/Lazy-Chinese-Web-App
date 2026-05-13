@@ -47,7 +47,13 @@ DATA_DIR.mkdir(exist_ok=True)
 _bundled_data = HERE / "data"
 if DATA_DIR != _bundled_data:
     import shutil as _shutil
-    for _fname in ("onedrive_index.json", "watch_state.json"):
+    # onedrive_index.json: always overwrite so new deploys pick up fresh index
+    for _fname in ("onedrive_index.json",):
+        _src, _dst = _bundled_data / _fname, DATA_DIR / _fname
+        if _src.exists():
+            _shutil.copy2(_src, _dst)
+    # watch_state.json: seed only on first start (preserves user watch history)
+    for _fname in ("watch_state.json",):
         _src, _dst = _bundled_data / _fname, DATA_DIR / _fname
         if _src.exists() and not _dst.exists():
             _shutil.copy2(_src, _dst)
