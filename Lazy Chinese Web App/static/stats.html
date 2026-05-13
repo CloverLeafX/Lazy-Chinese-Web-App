@@ -496,8 +496,9 @@ function renderRecent() {
     const tr = document.createElement('tr');
     const lvlClass = LEVEL_CLASS[r.level] || '';
     const mins = r.length_mins ? `${Math.round(r.length_mins)} min` : '—';
+    const watchBadge = r.watchCount > 1 ? ` <span style="font-size:11px;color:var(--accent);font-weight:700">×${r.watchCount}</span>` : '';
     tr.innerHTML = `
-      <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}</td>
+      <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}${watchBadge}</td>
       <td><span class="level-badge ${lvlClass}">${r.level || '—'}</span></td>
       <td style="color:var(--muted)">${mins}</td>
       <td style="color:var(--muted);white-space:nowrap">${r.watchedAt}</td>

@@ -551,6 +551,7 @@ def api_stats():
         "by_level": level_counts,
         "recent":   [{"id": e["id"], "title": e["title"], "level": e["level"],
                       "length_mins": round(e["length_mins"], 1),
+                      "watchCount": e["watchCount"],
                       "watchedAt": e["watchedAt"].strftime("%Y-%m-%d %H:%M") if e["watchedAt"] else ""
                      } for e in recent],
     })
