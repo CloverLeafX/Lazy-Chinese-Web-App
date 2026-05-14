@@ -7,13 +7,14 @@ Merges: Offline Course Viewer + Phrase Navigator + TTS
 Run: python3 server.py
 Then open: http://localhost:8800
 """
-import asyncio, glob, hashlib, io, json, mimetypes, os, re, sys, threading
+import asyncio, glob, hashlib, io, json, logging, mimetypes, os, re, sys, threading
 from datetime import datetime
+from logging.handlers import TimedRotatingFileHandler
 import cedict as _cedict
 import setproctitle
 setproctitle.setproctitle("CantoMandoServer")
 
-from flask import Flask, jsonify, request, send_file, abort, Response
+from flask import Flask, jsonify, request, send_file, send_from_directory, abort, Response
 from flask_cors import CORS
 from dotenv import load_dotenv
 import requests as _req
@@ -30,9 +31,61 @@ load_dotenv(os.path.join(BASE, ".env"))
 GROQ_API_KEY    = os.environ.get("GROQ_API_KEY",    "")
 OPEN_AI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 LAZY_CHINESE_DIR = os.path.realpath(os.path.join(BASE, "Lazy Chinese"))
+MY_PHRASES_DIR = os.path.join(BASE, "MyPhrases")
 VIDEOS_DIR  = os.path.join(BASE, "Canto_Mando_Videos")
 STATIC_DIR  = os.path.join(_HERE, "static")
 PORT        = int(os.environ.get("PORT", 8800))
+
+# ── Logging ───────────────────────────────────────────────────────────────────
+# Produces two rotating log files in Canto_Mando_Viewer/logs/:
+#   server.YYYY-MM-DD.log  — all server stdout (rotates at midnight, keeps 30 days)
+#   widget.YYYY-MM-DD.log  — widget-only calls: translate / tts / captures / dict
+# Both files live in the OneDrive-synced folder so both laptops see the same logs.
+
+_LOG_DIR = os.path.join(_HERE, "logs")
+os.makedirs(_LOG_DIR, exist_ok=True)
+
+_LOG_FMT = logging.Formatter(
+    "%(asctime)s  %(levelname)-8s %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+
+def _make_daily_logger(name: str, filename: str) -> logging.Logger:
+    """Create (or reuse) a logger that rotates to a new file at midnight."""
+    logger = logging.getLogger(name)
+    if logger.handlers:          # already set up (e.g. module reload)
+        return logger
+    logger.setLevel(logging.DEBUG)
+    path = os.path.join(_LOG_DIR, filename)
+    fh = TimedRotatingFileHandler(
+        path,
+        when="midnight",
+        interval=1,
+        backupCount=30,          # keep 30 days
+        encoding="utf-8",
+        utc=False,
+        delay=False,
+    )
+    # Rotate suffix: widget.log → widget.log.2026-05-07
+    fh.suffix = "%Y-%m-%d"
+    fh.setFormatter(_LOG_FMT)
+    logger.addHandler(fh)
+    # Also echo to stdout so the terminal / nohup redirect still works
+    sh = logging.StreamHandler(sys.stdout)
+    sh.setFormatter(_LOG_FMT)
+    logger.addHandler(sh)
+    logger.propagate = False
+    return logger
+
+# General server log (replaces bare print() calls for important events)
+slog = _make_daily_logger("server",  "server.log")
+# Widget-specific log (translate / tts / captures / dict)
+wlog = _make_daily_logger("widget",  "widget.log")
+
+# Write a startup banner to both logs
+_banner = f"{'━'*52}  KBWidget launch  {datetime.now():%Y-%m-%d %H:%M:%S}  {'━'*52}"
+slog.info(_banner)
+wlog.info(_banner)
 
 
 app = Flask(__name__, static_folder=STATIC_DIR, static_url_path="/static")
@@ -300,11 +353,24 @@ def api_advanced_progress():
 
 @app.route("/file/<path:rel>")
 def serve_file(rel: str):
-    full = os.path.realpath(os.path.join(BASE, rel))
-    # Security: prevent path traversal
-    if not full.startswith(os.path.realpath(BASE) + os.sep):
-        abort(403)
-    if not os.path.isfile(full):
+    base_root = os.path.realpath(BASE)
+    viewer_root = os.path.realpath(_HERE)
+
+    candidates = [
+        os.path.realpath(os.path.join(base_root, rel)),
+    ]
+    # Captures/audio are saved under Canto_Mando_Viewer/data and may be stored as data/... in JSON.
+    if rel.startswith("data/"):
+        candidates.append(os.path.realpath(os.path.join(viewer_root, rel)))
+
+    full = None
+    for cand in candidates:
+        in_allowed_root = cand.startswith(base_root + os.sep) or cand.startswith(viewer_root + os.sep)
+        if in_allowed_root and os.path.isfile(cand):
+            full = cand
+            break
+
+    if full is None:
         abort(404)
 
     mime, _ = mimetypes.guess_type(full)
@@ -409,16 +475,16 @@ def api_tts():
         if engine == "openai":
             speed_f = {"slow": 0.85, "normal": 1.0, "fast": 1.25}.get(speed, 1.0)
             audio = _tts_openai(text, speed=speed_f)
-            print(f"[TTS] ✅ OpenAI TTS")
+            wlog.info(f"[TTS] ✅ OpenAI  text={text[:30]!r}")
         elif engine == "gtts":
             audio = _tts_gtts(text, voice, speed)
-            print(f"[TTS] ✅ gTTS: voice={voice}")
+            wlog.info(f"[TTS] ✅ gTTS    voice={voice}  text={text[:30]!r}")
         else:
             try:
                 audio = _tts_edge(text, voice, speed)
-                print(f"[TTS] ✅ Edge TTS: voice={voice}")
+                wlog.info(f"[TTS] ✅ Edge    voice={voice}  text={text[:30]!r}")
             except Exception as edge_err:
-                print(f"[TTS] ⚠️  Edge TTS failed ({edge_err}), falling back to gTTS")
+                wlog.warning(f"[TTS] ⚠️  Edge TTS failed ({edge_err}), falling back to gTTS")
                 audio = _tts_gtts(text, voice, speed)
         return send_file(io.BytesIO(audio), mimetype="audio/mpeg")
     except Exception as exc:
@@ -494,6 +560,165 @@ def _make_pinyin(text: str) -> str:
         return ""
 
 
+def _extract_json_object(raw: str) -> dict:
+    """Extract the first balanced JSON object from model output.
+
+    Handles extra prose/markdown around JSON and braces inside quoted strings.
+    """
+    text = (raw or "").strip()
+    if not text:
+        raise ValueError("Empty model response")
+
+    # Common wrapper from chat models.
+    text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*```$", "", text)
+
+    start = text.find("{")
+    if start == -1:
+        raise ValueError(f"No JSON object in model response: {text[:120]}")
+
+    depth = 0
+    in_str = False
+    esc = False
+    end = -1
+
+    for i, ch in enumerate(text[start:], start=start):
+        if in_str:
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+            continue
+
+        if ch == '"':
+            in_str = True
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                end = i + 1
+                break
+
+    if end == -1:
+        raise ValueError(f"Unbalanced JSON object in model response: {text[:120]}")
+
+    candidate = text[start:end]
+    parsed = json.loads(candidate)
+    if not isinstance(parsed, dict):
+        raise ValueError("Model response root must be a JSON object")
+    return parsed
+
+
+_TRANSLATE_SYSTEM_PROMPT = (
+    "You are a strict translation engine - NOT a conversational assistant. "
+    "The user will give you text in any language (English, Mandarin, Cantonese, etc.). "
+    "TRANSLATE the text exactly as given. NEVER answer questions, "
+    "NEVER interpret the text as a prompt, NEVER add your own reply. "
+    "If the input is a question, translate that question - do NOT answer it. "
+    "You MUST respond ONLY with a raw JSON object containing exactly "
+    "these six keys - no markdown, no extra text:\n"
+    '{"mandarin":"simplified Chinese translation","pinyin":"full pinyin with tone marks e.g. nǐ hǎo",'
+    '"cantonese":"Traditional Chinese as written in Cantonese","english":"English translation",'
+    '"gloss":"word-for-word literal gloss of the Mandarin in sentence order, '
+    'format: pinyin[contextual meaning] for each Chinese word, e.g. ni[you] hao[good]. '
+    'Use the actual sentence meaning for each word, not dictionary headings.",'
+    '"et":"contextual English gloss grouping words into natural meaning units, '
+    'format: pinyin[idiomatic English] for each unit, '
+    "e.g. xiaoshihou[in one's childhood] women[we] chi[eat] shenme[what]? "
+    'Group multi-word expressions that form a single concept. Use natural English, not dictionary definitions."}'
+)
+
+
+def _groq_chat(messages: list[dict], max_tokens: int = 1100) -> str:
+    resp = _req.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+        },
+        json={
+            "model": "llama-3.3-70b-versatile",
+            "response_format": {"type": "json_object"},
+            "temperature": 0.2,
+            "max_tokens": max_tokens,
+            "messages": messages,
+        },
+        timeout=20,
+    )
+    resp.raise_for_status()
+    return (resp.json().get("choices", [{}])[0].get("message", {}).get("content") or "").strip()
+
+
+def _auto_tag(english: str, mandarin: str, cantonese: str) -> list[str]:
+    """Return 1-3 tags for a new capture, reusing the existing tag vocabulary."""
+    if not GROQ_API_KEY:
+        return []
+    try:
+        # Build vocab from existing captures
+        existing = _load_captures()
+        vocab: set[str] = set()
+        for rec in existing:
+            for t in (rec.get("tags") or []):
+                if t and t != "untagged":
+                    vocab.add(t)
+        vocab_list = sorted(vocab)
+
+        system = (
+            "You are a Mandarin/Cantonese language learning assistant.\n"
+            "Assign 1-3 topic tags to the given word or phrase.\n\n"
+            "EXISTING TAGS (reuse these whenever they fit):\n"
+            + json.dumps(vocab_list, ensure_ascii=False) + "\n\n"
+            "Rules:\n"
+            "- Prefer existing tags. Create a new tag ONLY if none of the existing tags fit.\n"
+            "- New tags must be short (2-4 words, Title Case).\n"
+            "- Single words: 1-2 tags. Phrases/sentences: up to 3 tags.\n"
+            "- Return JSON only: {\"tags\": [\"Tag1\", \"Tag2\"]}"
+        )
+        raw = _groq_chat(
+            [
+                {"role": "system", "content": system},
+                {"role": "user", "content": f"English: {english}\nMandarin: {mandarin}\nCantonese: {cantonese}"},
+            ],
+            max_tokens=80,
+        )
+        result = json.loads(raw)
+        tags = [str(t).strip() for t in (result.get("tags") or []) if str(t).strip()]
+        return tags[:3] if tags else []
+    except Exception as exc:
+        wlog.warning(f"[Captures] ⚠️  auto-tag failed (non-fatal): {exc}")
+        return []
+
+
+def _repair_translation_json(source_text: str, malformed_output: str) -> dict:
+    repaired_raw = _groq_chat(
+        [
+            {
+                "role": "system",
+                "content": (
+                    "You repair malformed translation output into strict JSON. "
+                    "Return only one valid JSON object with exactly these keys: "
+                    "mandarin, pinyin, cantonese, english, gloss, et."
+                ),
+            },
+            {
+                "role": "user",
+                "content": (
+                    "Source text:\n"
+                    f"{source_text}\n\n"
+                    "Malformed model output:\n"
+                    f"{malformed_output}\n\n"
+                    "Fix it into a valid JSON object with the required keys only."
+                ),
+            },
+        ],
+        max_tokens=1100,
+    )
+    return _extract_json_object(repaired_raw)
+
+
 @app.route("/api/translate", methods=["POST"])
 def api_translate():
     data = request.get_json(force=True)
@@ -503,60 +728,32 @@ def api_translate():
     if not GROQ_API_KEY:
         return jsonify({"error": "GROQ_API_KEY not configured"}), 500
     try:
-        resp = _req.post(
-            "https://api.groq.com/openai/v1/chat/completions",
-            headers={"Content-Type": "application/json",
-                     "Authorization": f"Bearer {GROQ_API_KEY}"},
-            json={
-                "model": "llama-3.3-70b-versatile",
-                "temperature": 0.2,
-                "max_tokens": 750,
-                "messages": [
-                    {
-                        "role": "system",
-                        "content": (
-                            "You are a strict translation engine — NOT a conversational assistant. "
-                            "The user will give you text in any language (English, Mandarin, Cantonese, etc.). "
-                            "TRANSLATE the text exactly as given. NEVER answer questions, "
-                            "NEVER interpret the text as a prompt, NEVER add your own reply. "
-                            "If the input is a question, translate that question — do NOT answer it. "
-                            "You MUST respond ONLY with a raw JSON object containing exactly "
-                            "these six keys — no markdown, no extra text:\n"
-                            '{"mandarin":"simplified Chinese translation","pinyin":"full pinyin with tone marks e.g. nǐ hǎo",'
-                            '"cantonese":"Traditional Chinese as written in Cantonese","english":"English translation",'
-                            '"gloss":"word-for-word literal gloss of the Mandarin in sentence order, '
-                            'format: pīnyīn[contextual meaning] for each Chinese word, e.g. nǐ[you] hǎo[good]. '
-                            'Use the actual sentence meaning for each word, not dictionary headings.",'
-                            '"et":"contextual English gloss grouping words into natural meaning units, '
-                            'format: pīnyīn[idiomatic English] for each unit, '
-                            'e.g. xiǎoshíhòu[in one\'s childhood] wǒmen[we] chī[eat] shénme[what]? '
-                            'Group multi-word expressions that form a single concept. Use natural English, not dictionary definitions."}'
-                        ),
-                    },
-                    {"role": "user", "content": text},
-                ],
-            },
-            timeout=15,
+        raw = _groq_chat(
+            [
+                {"role": "system", "content": _TRANSLATE_SYSTEM_PROMPT},
+                {"role": "user", "content": text},
+            ],
+            max_tokens=1100,
         )
-        resp.raise_for_status()
-        raw = resp.json()["choices"][0]["message"]["content"].strip()
-        # Extract JSON object robustly — handles markdown fences or extra prose.
-        # Use greedy .*  so the match spans from the first { to the LAST },
-        # correctly handling any { or } characters inside string values.
-        match = re.search(r'\{.*\}', raw, re.DOTALL)
-        if not match:
-            raise ValueError(f"No JSON object in Groq response: {raw[:120]}")
-        parsed = json.loads(match.group())
+
+        try:
+            parsed = _extract_json_object(raw)
+        except (json.JSONDecodeError, ValueError) as parse_exc:
+            wlog.warning(f"[Translate] ⚠️  primary parse failed, attempting repair: {parse_exc}")
+            parsed = _repair_translation_json(text, raw)
+
+        for key in ("mandarin", "cantonese", "english", "gloss", "et"):
+            parsed[key] = str(parsed.get(key, "") or "")
         # Always generate pinyin from pypinyin using the Mandarin text — the LLM
         # frequently hallucinates incorrect romanizations so we never trust it.
         parsed["pinyin"] = _make_pinyin(parsed.get("mandarin") or text)
-        print(f"[Translate] ✅ {text[:30]} → pinyin={parsed.get('pinyin','')[:30]} en={parsed.get('english','')[:30]}")
+        wlog.info(f"[Translate] ✅ {text[:40]!r} → en={parsed.get('english','')[:40]!r}")
         return jsonify(parsed)
     except _req.exceptions.Timeout:
-        print(f"[Translate] ❌ timeout")
+        wlog.error(f"[Translate] ❌ timeout  text={text[:40]!r}")
         return jsonify({"error": "Translation timed out — try again"}), 504
     except _req.exceptions.ConnectionError:
-        print(f"[Translate] ❌ connection error")
+        wlog.error(f"[Translate] ❌ connection error  text={text[:40]!r}")
         return jsonify({"error": "Can't reach Groq API — check your internet connection"}), 503
     except _req.exceptions.HTTPError as exc:
         code = exc.response.status_code if exc.response is not None else 0
@@ -568,13 +765,13 @@ def api_translate():
             msg = f"Groq server error ({code}) — try again"
         else:
             msg = f"Groq API error ({code})"
-        print(f"[Translate] ❌ HTTP {code}: {exc}")
+        wlog.error(f"[Translate] ❌ HTTP {code}  text={text[:40]!r}: {exc}")
         return jsonify({"error": msg}), 502
     except (json.JSONDecodeError, ValueError) as exc:
-        print(f"[Translate] ❌ parse error: {exc}")
+        wlog.error(f"[Translate] ❌ parse error after repair  text={text[:40]!r}: {exc}")
         return jsonify({"error": "Unexpected response from AI — try again"}), 500
     except Exception as exc:
-        print(f"[Translate] ❌ {exc}")
+        wlog.error(f"[Translate] ❌ {exc}  text={text[:40]!r}")
         return jsonify({"error": "Translation failed — try again"}), 500
 
 
@@ -634,6 +831,47 @@ def _load_captures() -> list:
         return json.load(f)
 
 
+def _write_captures(captures: list) -> None:
+    with open(CAPTURES_FILE, "w", encoding="utf-8") as f:
+        json.dump(captures, f, ensure_ascii=False, indent=2)
+
+
+def _capture_audio_filename(record_id: str, suffix: str) -> str:
+    return f"{record_id}_{suffix}.mp3"
+
+
+def _generate_capture_audio(record: dict, lang: str, *, force: bool = False) -> str | None:
+    audio = record.setdefault("audio", {})
+    existing_rel = (audio.get(lang) or "").strip()
+    if existing_rel and not force:
+        return existing_rel
+
+    if lang == "mandarin":
+        text = (record.get("mandarin") or "").strip()
+        if not text:
+            raise ValueError("No mandarin text")
+        suffix = "mandarin"
+        mp3 = _tts_openai(text, speed=1.0)
+    elif lang == "cantonese":
+        text = (record.get("cantonese") or "").strip()
+        if not text:
+            raise ValueError("No cantonese text")
+        suffix = "cantonese"
+        mp3 = _tts_edge(text, "zh-HK-HiuMaanNeural", "normal")
+    else:
+        raise ValueError(f"Unsupported language: {lang}")
+
+    os.makedirs(AUDIO_CAPTURES_DIR, exist_ok=True)
+    fname = _capture_audio_filename(record["id"], suffix)
+    fpath = os.path.join(AUDIO_CAPTURES_DIR, fname)
+    with open(fpath, "wb") as f:
+        f.write(mp3)
+    rel = f"data/audio_captures/{fname}"
+    audio[lang] = rel
+    print(f"[Captures] ✅ repaired {lang} audio → {fname}")
+    return rel
+
+
 @app.route("/api/captures", methods=["GET"])
 def api_captures_get():
     return jsonify(_load_captures())
@@ -664,14 +902,26 @@ def api_captures_post():
             continue
         try:
             mp3 = _tts_openai(text, speed=1.0) if lang == "mandarin" else _tts_edge(text, voice, speed)
-            fname = f"{rid}_{suffix}.mp3"
+            fname = _capture_audio_filename(rid, suffix)
             fpath = os.path.join(AUDIO_CAPTURES_DIR, fname)
             with open(fpath, "wb") as f:
                 f.write(mp3)
             audio[lang] = f"data/audio_captures/{fname}"
-            print(f"[Captures] ✅ {lang} audio → {fname}")
+            wlog.info(f"[Captures] ✅ {lang} audio → {fname}")
         except Exception as e:
-            print(f"[Captures] ⚠️  {lang} TTS failed: {e}")
+            wlog.warning(f"[Captures] ⚠️  {lang} TTS failed: {e}")
+
+    # Accept explicit tags from caller (e.g. widget), otherwise auto-tag via LLM
+    incoming_tags = data.get("tags")
+    if isinstance(incoming_tags, list) and incoming_tags:
+        tags = [str(t).strip() for t in incoming_tags if str(t).strip()]
+    else:
+        tags = _auto_tag(english, mandarin, cantonese)
+
+    # Infer type
+    han_count = sum(1 for c in mandarin if '\u4e00' <= c <= '\u9fff')
+    has_punct = any(c in mandarin for c in '\u3002\uff1f\uff01')
+    rec_type = "sentence" if han_count > 6 or has_punct else "word"
 
     record = {
         "id":        rid,
@@ -681,13 +931,87 @@ def api_captures_post():
         "english":   english,
         "timestamp": ts.isoformat(),
         "audio":     audio,
+        "tags":      tags,
+        "type":      rec_type,
     }
     captures = _load_captures()
     captures.append(record)
-    with open(CAPTURES_FILE, "w", encoding="utf-8") as f:
-        json.dump(captures, f, ensure_ascii=False, indent=2)
-    print(f"[Captures] ✅ saved #{len(captures)}: {mandarin[:20]}")
+    _write_captures(captures)
+    wlog.info(f"[Captures] ✅ saved #{len(captures)}: {mandarin[:30]!r} tags={tags}")
     return jsonify({"ok": True, "count": len(captures), "record": record})
+
+
+@app.route("/api/captures/<capture_id>", methods=["PATCH"])
+def api_capture_patch(capture_id: str):
+    data = request.get_json(force=True)
+    captures = _load_captures()
+    record = next((item for item in captures if item.get("id") == capture_id), None)
+    if record is None:
+        return jsonify({"error": "Capture not found"}), 404
+
+    allowed_meta    = {"tags", "type", "favourite"}
+    allowed_content = {"mandarin", "cantonese", "english", "pinyin"}
+
+    for key in allowed_meta:
+        if key in data:
+            val = data[key]
+            if key == "tags":
+                if not isinstance(val, list) or not all(isinstance(t, str) for t in val):
+                    return jsonify({"error": "tags must be a list of strings"}), 400
+                record["tags"] = [t.strip() for t in val if t.strip()]
+            elif key == "type":
+                if val not in ("word", "sentence"):
+                    return jsonify({"error": "type must be 'word' or 'sentence'"}), 400
+                record["type"] = val
+            elif key == "favourite":
+                record["favourite"] = bool(val)
+
+    for key in allowed_content:
+        if key in data:
+            record[key] = str(data[key]).strip()
+
+    _write_captures(captures)
+    return jsonify({"ok": True, "record": record})
+
+
+@app.route("/api/captures/<capture_id>", methods=["DELETE"])
+def api_capture_delete(capture_id: str):
+    captures = _load_captures()
+    idx = next((i for i, c in enumerate(captures) if c.get("id") == capture_id), None)
+    if idx is None:
+        return jsonify({"error": "Capture not found"}), 404
+    captures.pop(idx)
+    _write_captures(captures)
+    wlog.info(f"[Captures] 🗑 deleted {capture_id}")
+    return jsonify({"ok": True, "count": len(captures)})
+
+
+@app.route("/api/captures/<capture_id>/repair", methods=["POST"])
+def api_capture_repair(capture_id: str):
+    data = request.get_json(silent=True) or {}
+    lang = (data.get("lang") or "mandarin").strip().lower()
+    force = bool(data.get("force", False))
+
+    captures = _load_captures()
+    record = next((item for item in captures if item.get("id") == capture_id), None)
+    if record is None:
+        return jsonify({"error": "Capture not found"}), 404
+
+    try:
+        rel = _generate_capture_audio(record, lang, force=force)
+    except ValueError as exc:
+        return jsonify({"error": str(exc)}), 400
+    except Exception as exc:
+        wlog.error(f"[Captures] ⚠️ repair failed for {capture_id} {lang}: {exc}")
+        return jsonify({"error": str(exc)}), 500
+
+    _write_captures(captures)
+    return jsonify({
+        "ok": True,
+        "lang": lang,
+        "audio": rel,
+        "record": record,
+    })
 
 
 # ── Lazy Chinese ─────────────────────────────────────────────────────────────
@@ -695,6 +1019,16 @@ def api_captures_post():
 @app.route("/lazy")
 def lazy_chinese():
     return send_file(os.path.join(STATIC_DIR, "lazy-chinese.html"))
+
+
+@app.route("/myphrases")
+def myphrases_page():
+    return send_file(os.path.join(MY_PHRASES_DIR, "index.html"))
+
+
+@app.route("/myphrases/static/<path:asset>")
+def myphrases_static(asset: str):
+    return send_from_directory(MY_PHRASES_DIR, asset)
 
 
 @app.route("/api/lazy/videos")

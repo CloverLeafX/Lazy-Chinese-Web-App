@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<html lang="zh" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>普通话 · Grammar Reference</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+HK:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@300;400;600;700&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+  <style>
+/* ══ MYPHRASES CSS VARIABLES ════════════════════════════════════════════════ */
+:root {
+  --bg:           #0f172a;
+  --surface:      #1e293b;
+  --surface2:     #182233;
+  --surface3:     #1c2844;
+  --border:       #334155;
+  --border2:      #475569;
+  --ink:          #f1f5f9;
+  --ink-2:        #cbd5e1;
+  --ink-3:        #94a3b8;
+  --accent:       #10b981;
+  --accent-hover: #34d399;
+  --accent-light: rgba(16,185,129,0.12);
+  --canto-clr:    #93c5fd;
+  --mando-clr:    #f9a8d4;
+  --gold:         #d97706;
+  --gold-soft:    #f59e0b;
+  --header-h:     56px;
+  --ff-zh:        'Noto Serif SC', 'SimSun', serif;
+  --ff-ui:        'Manrope', system-ui, -apple-system, sans-serif;
+  --ff-mono:      'DM Mono', monospace;
+}
+
+[data-theme="light"] {
+  --bg:           #f6f7f9;
+  --surface:      #ffffff;
+  --surface2:     #f1f3f7;
+  --surface3:     #e9ecf2;
+  --border:       #e3e7ef;
+  --border2:      #d1d5db;
+  --ink:          #111827;
+  --ink-2:        #4b5563;
+  --ink-3:        #9ca3af;
+  --accent:       #0c7c59;
+  --accent-hover: #0a6549;
+  --accent-light: rgba(12,124,89,0.10);
+  --canto-clr:    #1d4ed8;
+  --mando-clr:    #be185d;
+  --gold:         #92400e;
+  --gold-soft:    #b45309;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--ff-ui);
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Anchor scroll offset (sticky header compensation) ── */
+section[id] { scroll-margin-top: calc(var(--header-h) + 12px); }
+
+/* ══ APP HEADER ══════════════════════════════════════════════════════════════ */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  height: var(--header-h);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+}
+.header-left,
+.header-right { display: flex; align-items: center; gap: 10px; }
+.header-spacer { flex: 1; }
+.header-brand  { display: flex; align-items: baseline; gap: 6px; }
+.brand-title   { font-size: 16px; font-weight: 800; letter-spacing: -.3px; color: var(--accent); }
+.brand-sub     { font-size: 11px; font-weight: 600; color: var(--ink-3); letter-spacing: .5px; text-transform: uppercase; }
+
+.icon-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: transparent; color: var(--ink-2);
+  cursor: pointer; font-size: 16px; transition: all 0.15s;
+  line-height: 1;
+}
+.icon-btn:hover { background: var(--surface2); color: var(--ink); border-color: var(--border2); }
+
+/* ══ SIDEBAR NAV ═════════════════════════════════════════════════════════════ */
+.nav {
+  position: fixed;
+  left: 0; top: var(--header-h);
+  width: 220px;
+  height: calc(100vh - var(--header-h));
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+  z-index: 100;
+  padding: 16px 0 40px;
+}
+
+.nav-logo {
+  font-family: var(--ff-zh);
+  font-size: 20px;
+  color: var(--mando-clr);
+  text-align: center;
+  padding: 0 16px 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 10px;
+  letter-spacing: 0.05em;
+}
+
+.nav-section {
+  padding: 8px 16px 4px;
+  font-size: 9px; font-weight: 600;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.nav a {
+  display: block;
+  padding: 6px 16px 6px 20px;
+  font-size: 11.5px;
+  color: var(--ink-2);
+  text-decoration: none;
+  transition: all 0.15s;
+  border-left: 2px solid transparent;
+  line-height: 1.4;
+}
+.nav a:hover                { color: var(--ink); background: var(--surface2); }
+.nav a.wo:hover             { border-left-color: var(--mando-clr); color: var(--mando-clr); }
+.nav a.gp:hover             { border-left-color: var(--canto-clr); color: var(--canto-clr); }
+.nav a.active               { color: var(--ink); background: var(--surface2); border-left-color: var(--accent); }
+.nav a.wo.active            { border-left-color: var(--mando-clr); }
+.nav a.gp.active            { border-left-color: var(--canto-clr); }
+
+.nav-zh { font-family: var(--ff-zh); font-size: 13px; margin-right: 4px; }
+
+/* ══ MAIN CONTENT ════════════════════════════════════════════════════════════ */
+.main { margin-left: 220px; padding: 0; }
+
+/* ══ COVER ═══════════════════════════════════════════════════════════════════ */
+.cover {
+  min-height: 100vh;
+  display: flex; flex-direction: column;
+  justify-content: center; align-items: center;
+  text-align: center; padding: 60px 40px;
+  background:
+    radial-gradient(ellipse at 30% 40%, rgba(249,168,212,0.07) 0%, transparent 60%),
+    radial-gradient(ellipse at 70% 70%, rgba(147,197,253,0.05) 0%, transparent 60%),
+    var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+.cover-zh   { font-family: var(--ff-zh); font-size: clamp(64px,8vw,96px); font-weight: 700; color: var(--mando-clr); line-height: 1; margin-bottom: 16px; letter-spacing: 0.1em; }
+.cover-sub  { font-family: var(--ff-zh); font-size: clamp(20px,3vw,28px); color: var(--gold-soft); margin-bottom: 24px; letter-spacing: 0.08em; }
+.cover-en   { font-size: 17px; color: var(--ink-2); margin-bottom: 8px; letter-spacing: 0.02em; }
+.cover-meta { font-size: 13px; color: var(--ink-3); font-style: italic; margin-bottom: 48px; }
+.cover-pills{ display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; }
+.pill       { padding: 6px 16px; border: 1px solid var(--border2); border-radius: 100px; font-size: 12px; color: var(--ink-2); background: var(--surface2); }
+
+/* ══ PAGE (WO + GP sections) ════════════════════════════════════════════════ */
+.page {
+  min-height: 100vh; padding: 48px 56px;
+  border-bottom: 1px solid var(--border); position: relative;
+}
+.page::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; }
+.page.wo::before { background: linear-gradient(90deg, var(--mando-clr), transparent); }
+.page.gp::before { background: linear-gradient(90deg, var(--canto-clr), transparent); }
+
+.page-category {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--ink-3); margin-bottom: 8px;
+}
+.page.wo .page-category { color: var(--mando-clr); }
+.page.gp .page-category { color: var(--canto-clr); }
+
+.page-title-zh {
+  font-family: var(--ff-zh);
+  font-size: clamp(36px,5vw,52px); font-weight: 700; line-height: 1.1; margin-bottom: 8px;
+}
+.page.wo .page-title-zh { color: var(--mando-clr); }
+.page.gp .page-title-zh { color: var(--canto-clr); }
+
+.page-title-en { font-size: 20px; font-weight: 600; color: var(--ink); margin-bottom: 6px; }
+
+.page-structure {
+  font-family: var(--ff-mono); font-size: 12px; color: var(--ink-3);
+  margin-bottom: 24px; padding-bottom: 20px; border-bottom: 1px solid var(--border);
+}
+
+.rule-box {
+  background: var(--surface2); border: 1px solid var(--border2);
+  border-left: 3px solid var(--gold);
+  padding: 12px 16px; border-radius: 0 4px 4px 0;
+  font-size: 13.5px; font-weight: 500; color: var(--ink); margin-bottom: 24px; line-height: 1.5;
+}
+
+/* ══ PATTERN TABLE ═══════════════════════════════════════════════════════════ */
+.pat-table { width: 100%; border-collapse: collapse; margin-bottom: 28px; table-layout: fixed; }
+.pat-table th {
+  background: var(--gold); color: #0f172a;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 10px 14px; text-align: center;
+}
+.pat-table td {
+  background: var(--surface2); padding: 12px 14px;
+  text-align: center; vertical-align: middle; border: 1px solid var(--border);
+}
+.pat-table tr:nth-child(odd) td  { background: var(--surface2); }
+.pat-table tr:nth-child(even) td { background: var(--surface3); }
+
+/* ══ RUBY TEXT ═══════════════════════════════════════════════════════════════ */
+ruby {
+  display: inline-flex; flex-direction: column-reverse;
+  align-items: center; vertical-align: bottom;
+  margin: 0 1px; line-height: 1;
+}
+ruby rb, ruby > span.rb {
+  font-family: var(--ff-zh); font-size: 26px; font-weight: 700;
+  color: var(--mando-clr); line-height: 1.1;
+}
+ruby rt {
+  font-family: var(--ff-mono); font-size: 11px; color: var(--ink-3);
+  white-space: nowrap; line-height: 1.4; display: block; text-align: center;
+}
+
+.zh-line {
+  font-family: var(--ff-zh); display: flex; flex-wrap: wrap;
+  align-items: flex-end; gap: 0; margin-bottom: 6px; line-height: 1.8;
+}
+.zh-line ruby rb, .zh-line ruby > span.rb { font-size: 22px; }
+.zh-line ruby rt { font-size: 10px; }
+.pat-table ruby rb, .pat-table ruby > span.rb { font-size: 24px; }
+.pat-table ruby rt { font-size: 10px; }
+
+/* ══ EXAMPLE BLOCK ═══════════════════════════════════════════════════════════ */
+.examples { display: grid; gap: 16px; margin-top: 8px; }
+
+.example {
+  background: var(--surface2); border: 1px solid var(--border);
+  border-radius: 6px; padding: 16px 20px; transition: border-color 0.2s;
+}
+.example:hover { border-color: var(--border2); }
+.example.mine  { border-left: 3px solid var(--accent-hover); }
+
+.example-header {
+  display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;
+}
+.example-tag {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent-hover);
+}
+
+/* TTS play button */
+.tts-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; flex-shrink: 0;
+  border: 1px solid var(--border); border-radius: 5px;
+  background: transparent; color: var(--ink-3);
+  cursor: pointer; font-size: 11px; transition: all 0.15s;
+}
+.tts-btn:hover   { background: var(--surface); color: var(--ink-2); border-color: var(--border2); }
+.tts-btn.playing { background: var(--accent-light); color: var(--accent); border-color: var(--accent); }
+.example-header .tts-btn { margin-left: auto; }
+
+.example-en { font-size: 13px; color: var(--ink-2); margin-top: 6px; font-style: italic; }
+
+/* ══ NOTES ═══════════════════════════════════════════════════════════════════ */
+.notes { margin-top: 20px; display: grid; gap: 6px; }
+.note {
+  font-size: 12.5px; padding: 6px 12px; border-radius: 3px;
+  color: var(--canto-clr); background: rgba(147,197,253,0.06);
+  border-left: 2px solid var(--canto-clr);
+}
+.note.warn { color: var(--gold-soft);    background: rgba(217,119,6,0.06);    border-left-color: var(--gold); }
+.note.good { color: var(--accent-hover); background: var(--accent-light);     border-left-color: var(--accent); }
+.note.bad  { color: var(--mando-clr);   background: rgba(249,168,212,0.06);  border-left-color: var(--mando-clr); }
+
+/* ══ SECTION LABEL ════════════════════════════════════════════════════════════ */
+.section-label {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-3); margin: 20px 0 10px;
+}
+
+/* ══ REFERENCE TABLE ═════════════════════════════════════════════════════════ */
+.ref-table { width: 100%; border-collapse: collapse; margin-bottom: 24px; }
+.ref-table th {
+  padding: 8px 12px; font-size: 11px; font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase; text-align: left; color: #fff;
+}
+.ref-table td {
+  padding: 8px 12px; font-size: 12px; border: 1px solid var(--border);
+  color: var(--ink); vertical-align: middle;
+}
+.ref-table tr:nth-child(odd) td  { background: var(--surface2); }
+.ref-table tr:nth-child(even) td { background: var(--surface3); }
+.ref-zh { font-family: var(--ff-zh); font-size: 16px; color: var(--mando-clr); }
+
+/* Ref-table section header colours */
+.ref-wo-head { background: #9d174d; }
+.ref-gp-head { background: #1e3a8a; }
+[data-theme="light"] .ref-wo-head { background: #be185d; }
+[data-theme="light"] .ref-gp-head { background: #1d4ed8; }
+
+/* ══ TOC PAGE ════════════════════════════════════════════════════════════════ */
+.toc-page { padding: 48px 56px; border-bottom: 1px solid var(--border); }
+.toc-title { font-family: var(--ff-zh); font-size: 32px; color: var(--mando-clr); text-align: center; margin-bottom: 32px; }
+.toc-section { margin-bottom: 24px; }
+.toc-section-title {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase;
+  margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border);
+}
+.toc-section.wo .toc-section-title { color: var(--mando-clr); }
+.toc-section.gp .toc-section-title { color: var(--canto-clr); }
+.toc-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 6px; }
+.toc-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px; background: var(--surface2);
+  border: 1px solid var(--border); border-radius: 4px;
+  text-decoration: none; transition: all 0.15s; color: inherit;
+}
+.toc-item:hover    { background: var(--surface3); border-color: var(--border2); }
+.toc-item.wo:hover { border-color: var(--mando-clr); }
+.toc-item.gp:hover { border-color: var(--canto-clr); }
+.toc-num { font-size: 11px; font-weight: 700; color: var(--ink-3); min-width: 20px; }
+.toc-item.wo .toc-num { color: var(--mando-clr); }
+.toc-item.gp .toc-num { color: var(--canto-clr); }
+.toc-zh { font-family: var(--ff-zh); font-size: 16px; color: var(--mando-clr); min-width: 70px; }
+.toc-en { font-size: 12px; color: var(--ink-2); }
+
+/* ══ SCROLLBAR ════════════════════════════════════════════════════════════════ */
+::-webkit-scrollbar       { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+/* ══ MOBILE ══════════════════════════════════════════════════════════════════ */
+@media (max-width: 768px) {
+  .nav          { display: none; }
+  .main         { margin-left: 0; }
+  .page         { padding: 32px 20px; }
+  .toc-page     { padding: 32px 20px; }
+  .cover        { padding: 40px 20px; }
+}
+</style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-left">
+    <div class="header-brand">
+      <span class="brand-title">Grammar</span>
+      <span class="brand-sub">普通话参考</span>
+    </div>
+  </div>
+  <div class="header-spacer"></div>
+  <div class="header-right">
+    <a class="icon-btn" href="/myphrases" title="My Phrases" aria-label="My Phrases">
+      <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/><line x1="8" y1="10" x2="16" y2="10"/><line x1="8" y1="14" x2="13" y2="14"/></svg>
+    </a>
+    <a class="icon-btn" href="/" title="Open Viewer" aria-label="Open Viewer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9 21v-6h6v6"/></svg>
+    </a>
+    <button id="themeToggle" class="icon-btn" title="Toggle theme" aria-label="Toggle theme">🌙</button>
+  </div>
+</header>
+
+<nav class="nav">
+<div class="nav-logo">普通话<br/><span style="font-size:11px;color:var(--ink-3);font-family:var(--ff-ui)">Grammar Reference</span></div>
+<div class="nav-section">Word Order 语序</div>
+<a class="wo" href="#wo1"><span class="nav-zh">时间+动词</span> Time+Verb</a>
+<a class="wo" href="#wo2"><span class="nav-zh">地点+动词</span> Location+Verb</a>
+<a class="wo" href="#wo3"><span class="nav-zh">跟/和+人</span> With+Person</a>
+<a class="wo" href="#wo4"><span class="nav-zh">否定词</span> Negation</a>
+<a class="wo" href="#wo5"><span class="nav-zh">副词</span> Adverbs</a>
+<a class="wo" href="#wo6"><span class="nav-zh">双动词</span> Double Verb</a>
+<a class="wo" href="#wo7"><span class="nav-zh">量词</span> Measure Words</a>
+<a class="wo" href="#wo8"><span class="nav-zh">的</span> 的 Placement</a>
+<a class="wo" href="#wo9"><span class="nav-zh">时长</span> Duration</a>
+<a class="wo" href="#wo10"><span class="nav-zh">话题-评论</span> Topic-Comment</a>
+<div class="nav-section">Patterns 句型</div>
+<a class="gp" href="#gp1"><span class="nav-zh">是...的</span> Emphasise HOW</a>
+<a class="gp" href="#gp2"><span class="nav-zh">把</span> Object before verb</a>
+<a class="gp" href="#gp3"><span class="nav-zh">被</span> Passive</a>
+<a class="gp" href="#gp4"><span class="nav-zh">越...越...</span> More...more...</a>
+<a class="gp" href="#gp5"><span class="nav-zh">比</span> Comparison</a>
+<a class="gp" href="#gp6"><span class="nav-zh">没有</span> Not as...as</a>
+<a class="gp" href="#gp7"><span class="nav-zh">V+得</span> How well</a>
+<a class="gp" href="#gp8"><span class="nav-zh">V+不了</span> Can/cannot</a>
+<a class="gp" href="#gp9"><span class="nav-zh">先...然后</span> First...then</a>
+<a class="gp" href="#gp10"><span class="nav-zh">一...就...</span> As soon as</a>
+<a class="gp" href="#gp11"><span class="nav-zh">的时候</span> When/while</a>
+<a class="gp" href="#gp12"><span class="nav-zh">如果...就</span> If...then</a>
+<div class="nav-section">Reference</div>
+<a href="#ref">所有句型 All Patterns</a>
+</nav>
+
+<main class="main">
+<!-- COVER -->
+<section class="cover">
+<div class="cover-zh">普通话</div>
+<div class="cover-sub">语法与语序完整参考</div>
+<div class="cover-en">Complete Grammar &amp; Word Order Reference</div>
+<div class="cover-meta">Examples from your conversation · April 2026</div>
+<div class="cover-pills">
+<span class="pill">10 Word Order Rules</span>
+<span class="pill">12 Grammar Patterns</span>
+<span class="pill">Personal Examples</span>
+<span class="pill">Ruby Annotation</span>
+</div>
+</section>
+<!-- TOC -->
+<section class="toc-page">
+<div class="toc-title">目录 · Table of Contents</div>
+<div class="toc-section wo">
+<div class="toc-section-title">Word Order Rules · 语序规则</div>
+<div class="toc-grid">
+<a class="toc-item wo" href="#wo1"><span class="toc-num">1</span><span class="toc-zh">时间+动词</span><span class="toc-en">Time + Verb</span></a>
+<a class="toc-item wo" href="#wo2"><span class="toc-num">2</span><span class="toc-zh">地点+动词</span><span class="toc-en">Location + Verb</span></a>
+<a class="toc-item wo" href="#wo3"><span class="toc-num">3</span><span class="toc-zh">跟/和+人</span><span class="toc-en">With Somebody</span></a>
+<a class="toc-item wo" href="#wo4"><span class="toc-num">4</span><span class="toc-zh">否定词位置</span><span class="toc-en">Negation Placement</span></a>
+<a class="toc-item wo" href="#wo5"><span class="toc-num">5</span><span class="toc-zh">副词位置</span><span class="toc-en">Adverb Placement</span></a>
+<a class="toc-item wo" href="#wo6"><span class="toc-num">6</span><span class="toc-zh">双动词顺序</span><span class="toc-en">Double Verb Order</span></a>
+<a class="toc-item wo" href="#wo7"><span class="toc-num">7</span><span class="toc-zh">量词</span><span class="toc-en">Measure Words</span></a>
+<a class="toc-item wo" href="#wo8"><span class="toc-num">8</span><span class="toc-zh">的的位置</span><span class="toc-en">的 Placement</span></a>
+<a class="toc-item wo" href="#wo9"><span class="toc-num">9</span><span class="toc-zh">时长位置</span><span class="toc-en">Duration Placement</span></a>
+<a class="toc-item wo" href="#wo10"><span class="toc-num">10</span><span class="toc-zh">话题-评论</span><span class="toc-en">Topic-Comment</span></a>
+</div>
+</div>
+<div class="toc-section gp">
+<div class="toc-section-title">Grammar Patterns · 句型</div>
+<div class="toc-grid">
+<a class="toc-item gp" href="#gp1"><span class="toc-num">1</span><span class="toc-zh">是...的</span><span class="toc-en">Emphasise HOW/WHEN/WHERE</span></a>
+<a class="toc-item gp" href="#gp2"><span class="toc-num">2</span><span class="toc-zh">把</span><span class="toc-en">Object before verb</span></a>
+<a class="toc-item gp" href="#gp3"><span class="toc-num">3</span><span class="toc-zh">被</span><span class="toc-en">Passive voice</span></a>
+<a class="toc-item gp" href="#gp4"><span class="toc-num">4</span><span class="toc-zh">越...越...</span><span class="toc-en">The more...the more...</span></a>
+<a class="toc-item gp" href="#gp5"><span class="toc-num">5</span><span class="toc-zh">比</span><span class="toc-en">Comparing two things</span></a>
+<a class="toc-item gp" href="#gp6"><span class="toc-num">6</span><span class="toc-zh">没有</span><span class="toc-en">Not as...as</span></a>
+<a class="toc-item gp" href="#gp7"><span class="toc-num">7</span><span class="toc-zh">V + 得</span><span class="toc-en">How well something is done</span></a>
+<a class="toc-item gp" href="#gp8"><span class="toc-num">8</span><span class="toc-zh">V+不了/得了</span><span class="toc-en">Can or cannot complete</span></a>
+<a class="toc-item gp" href="#gp9"><span class="toc-num">9</span><span class="toc-zh">先...然后...</span><span class="toc-en">First...then...</span></a>
+<a class="toc-item gp" href="#gp10"><span class="toc-num">10</span><span class="toc-zh">一...就...</span><span class="toc-en">As soon as...</span></a>
+<a class="toc-item gp" href="#gp11"><span class="toc-num">11</span><span class="toc-zh">的时候</span><span class="toc-en">When / while doing</span></a>
+<a class="toc-item gp" href="#gp12"><span class="toc-num">12</span><span class="toc-zh">如果...就...</span><span class="toc-en">If...then...</span></a>
+</div>
+</div>
+</section>
+<!-- ═══════════════ WORD ORDER PAGES ═══════════════ -->
+<!-- WO1 -->
+<section class="page wo" id="wo1">
+<div class="page-category">Word Order Rule 1 of 10</div>
+<div class="page-title-zh">时间 + 动词</div>
+<div class="page-title-en">Time + Verb</div>
+<div class="page-structure">Subject → Time → Verb · Time word BEFORE the verb — always</div>
+<div class="rule-box">In English: "I get up at 7" — verb first, time after. In Mandarin: time ALWAYS comes before the verb.</div>
+<table class="pat-table">
+<tr><th>SUBJECT</th><th>TIME</th><th>VERB</th></tr>
+<tr>
+<td><ruby><rb>我</rb><rt>wǒ</rt></ruby></td>
+<td><ruby><rb>七</rb><rt>qī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby></td>
+<td><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>床</rb><rt>chuáng</rt></ruby></td>
+</tr>
+<tr><td>I</td><td>7 o'clock</td><td>get up</td></tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我通常七点起床，就算周末也一样。" title="Play: 我通常七点起床，就算周末也一样。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>常</rb><rt>cháng</rt></ruby><ruby><rb>七</rb><rt>qī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>床</rb><rt>chuáng</rt></ruby>，<ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>算</rb><rt>suàn</rt></ruby><ruby><rb>周</rb><rt>zhōu</rt></ruby><ruby><rb>末</rb><rt>mò</rt></ruby><ruby><rb>也</rb><rt>yě</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>样</rb><rt>yàng</rt></ruby>。
+      </div>
+<div class="example-en">I usually get up at 7, even on weekends.</div>
+</div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我通常早上七点开车去上班。" title="Play: 我通常早上七点开车去上班。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>常</rb><rt>cháng</rt></ruby><ruby><rb>早</rb><rt>zǎo</rt></ruby><ruby><rb>上</rb><rt>shang</rt></ruby><ruby><rb>七</rb><rt>qī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby><ruby><rb>开</rb><rt>kāi</rt></ruby><ruby><rb>车</rb><rt>chē</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby>。
+      </div>
+<div class="example-en">I usually drive to work at 7am.</div>
+</div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我昨天晚上十一点睡觉。" title="Play: 我昨天晚上十一点睡觉。" type="button">▶</button></div>
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>昨</rb><rt>zuó</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>晚</rb><rt>wǎn</rt></ruby><ruby><rb>上</rb><rt>shang</rt></ruby><ruby><rb>十</rb><rt>shí</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby><ruby><rb>睡</rb><rt>shuì</rt></ruby><ruby><rb>觉</rb><rt>jiào</rt></ruby>。
+      </div>
+<div class="example-en">I went to sleep at 11pm last night.</div>
+</div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ Never: 我起床七点 ✗ — time cannot come after the verb</div>
+<div class="note good">✓ Multiple time words: biggest → smallest → 我昨天早上七点起床</div>
+</div>
+</section>
+<!-- WO2 -->
+<section class="page wo" id="wo2">
+<div class="page-category">Word Order Rule 2 of 10</div>
+<div class="page-title-zh">地点 + 动词</div>
+<div class="page-title-en">Location + Verb</div>
+<div class="page-structure">Subject → 在+Place → Verb · 在+place BEFORE the verb</div>
+<div class="rule-box">在 + place anchors WHERE the action happens — always before the verb, opposite to English.</div>
+<table class="pat-table">
+<tr><th>SUBJECT</th><th>在 + PLACE</th><th>VERB</th></tr>
+<tr>
+<td><ruby><rb>我</rb><rt>wǒ</rt></ruby></td>
+<td><ruby><rb>在</rb><rt>zài</rt></ruby><ruby><rb>家</rb><rt>jiā</rt></ruby></td>
+<td><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby></td>
+</tr>
+<tr><td>I</td><td>at home</td><td>work</td></tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我一周在家上班三天。" title="Play: 我一周在家上班三天。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>周</rb><rt>zhōu</rt></ruby><ruby><rb>在</rb><rt>zài</rt></ruby><ruby><rb>家</rb><rt>jiā</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby><ruby><rb>三</rb><rt>sān</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby>。
+      </div>
+<div class="example-en">I work from home three days a week.</div>
+</div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我的爱人不在悉尼上班。" title="Play: 我的爱人不在悉尼上班。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>爱</rb><rt>ài</rt></ruby><ruby><rb>人</rb><rt>rén</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>在</rb><rt>zài</rt></ruby><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby>。
+      </div>
+<div class="example-en">My partner doesn't work in Sydney.</div>
+</div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="她在餐厅工作。" title="Play: 她在餐厅工作。" type="button">▶</button></div>
+<div class="zh-line">
+<ruby><rb>她</rb><rt>tā</rt></ruby><ruby><rb>在</rb><rt>zài</rt></ruby><ruby><rb>餐</rb><rt>cān</rt></ruby><ruby><rb>厅</rb><rt>tīng</rt></ruby><ruby><rb>工</rb><rt>gōng</rt></ruby><ruby><rb>作</rb><rt>zuò</rt></ruby>。
+      </div>
+<div class="example-en">She works at a restaurant.</div>
+</div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ English: "works IN Sydney" — verb before location</div>
+<div class="note good">✓ Negation: 不 goes before 在 → 不在悉尼上班</div>
+</div>
+</section>
+<!-- WO3 -->
+<section class="page wo" id="wo3">
+<div class="page-category">Word Order Rule 3 of 10</div>
+<div class="page-title-zh">跟/和 + 人 + 动词</div>
+<div class="page-title-en">With Somebody + Verb</div>
+<div class="page-structure">Subject → 跟/和+Person → Verb · 跟/和+person BEFORE the verb</div>
+<div class="rule-box">跟 (with/to) and 和 (and/with) sit between subject and verb — never after like in English.</div>
+<table class="pat-table">
+<tr><th>SUBJECT</th><th>跟/和 + PERSON</th><th>VERB</th></tr>
+<tr>
+<td><ruby><rb>我</rb><rt>wǒ</rt></ruby></td>
+<td><ruby><rb>跟</rb><rt>gēn</rt></ruby><ruby><rb>朋</rb><rt>péng</rt></ruby><ruby><rb>友</rb><rt>yǒu</rt></ruby></td>
+<td><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>饭</rb><rt>fàn</rt></ruby></td>
+</tr>
+<tr><td>I</td><td>with friends</td><td>eat</td></tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我喜欢跟朋友一起吃饭喝啤酒。" title="Play: 我喜欢跟朋友一起吃饭喝啤酒。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>喜</rb><rt>xǐ</rt></ruby><ruby><rb>欢</rb><rt>huān</rt></ruby><ruby><rb>跟</rb><rt>gēn</rt></ruby><ruby><rb>朋</rb><rt>péng</rt></ruby><ruby><rb>友</rb><rt>yǒu</rt></ruby><ruby><rb>一</rb><rt>yì</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>饭</rb><rt>fàn</rt></ruby><ruby><rb>喝</rb><rt>hē</rt></ruby><ruby><rb>啤</rb><rt>pí</rt></ruby><ruby><rb>酒</rb><rt>jiǔ</rt></ruby>。
+      </div>
+<div class="example-en">I like eating and drinking beer with friends.</div>
+</div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我想跟家人用普通话沟通。" title="Play: 我想跟家人用普通话沟通。" type="button">▶</button></div>
+
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>想</rb><rt>xiǎng</rt></ruby><ruby><rb>跟</rb><rt>gēn</rt></ruby><ruby><rb>家</rb><rt>jiā</rt></ruby><ruby><rb>人</rb><rt>rén</rt></ruby><ruby><rb>用</rb><rt>yòng</rt></ruby><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby><ruby><rb>沟</rb><rt>gōu</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby>。
+      </div>
+<div class="example-en">I want to communicate with family in Mandarin.</div>
+</div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我跟我的爱人一起去南非。" title="Play: 我跟我的爱人一起去南非。" type="button">▶</button></div>
+<div class="zh-line">
+<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>跟</rb><rt>gēn</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>爱</rb><rt>ài</rt></ruby><ruby><rb>人</rb><rt>rén</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>南</rb><rt>nán</rt></ruby><ruby><rb>非</rb><rt>fēi</rt></ruby>。
+      </div>
+<div class="example-en">I'm going to South Africa with my partner.</div>
+</div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ English: "eating WITH friends" — verb before "with"</div>
+<div class="note good">✓ 跟 = with (doing together) | 和 = and/with (listing)</div>
+</div>
+</section>
+<!-- WO4-WO10: abbreviated for space, same pattern -->
+<section class="page wo" id="wo4">
+<div class="page-category">Word Order Rule 4 of 10</div>
+<div class="page-title-zh">否定词位置</div>
+<div class="page-title-en">Negation Placement</div>
+<div class="page-structure">Subject → 不/没 → Verb · Negation BEFORE the verb — always</div>
+<div class="rule-box">不 (bù) = present/future/habitual · 没 (méi) = past negation or negating 有</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我不喜欢跑步。" title="Play: 我不喜欢跑步。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>喜</rb><rt>xǐ</rt></ruby><ruby><rb>欢</rb><rt>huān</rt></ruby><ruby><rb>跑</rb><rt>pǎo</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby>。</div>
+<div class="example-en">I don't like running.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我没有去过中国。" title="Play: 我没有去过中国。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>过</rb><rt>guò</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>国</rb><rt>guó</rt></ruby>。</div>
+<div class="example-en">I have never been to China.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我还没吃东西。" title="Play: 我还没吃东西。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>还</rb><rt>hái</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>东</rb><rt>dōng</rt></ruby><ruby><rb>西</rb><rt>xi</rt></ruby>。</div>
+<div class="example-en">I haven't eaten yet.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我今天不用上班。" title="Play: 我今天不用上班。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>今</rb><rt>jīn</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>用</rb><rt>yòng</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby>。</div>
+<div class="example-en">I don't need to go to work today.</div></div>
+</div>
+<div class="notes">
+<div class="note">✓ 不用 = don't need to | 不能 = not allowed | 不会 = don't know how</div>
+<div class="note good">✓ 不 negates present/future · 没 negates past</div>
+</div>
+</section>
+<section class="page wo" id="wo5">
+<div class="page-category">Word Order Rule 5 of 10</div>
+<div class="page-title-zh">副词位置</div>
+<div class="page-title-en">Adverb Placement</div>
+<div class="page-structure">Subject → 也/都/还/才/就 → Verb · Key adverbs BEFORE the verb</div>
+<div class="rule-box">也/都/还/才/就 always slot between subject and verb — never after</div>
+<table class="pat-table">
+<tr><th>ADVERB</th><th>MEANING</th><th>EXAMPLE</th></tr>
+<tr><td><ruby><rb>也</rb><rt>yě</rt></ruby></td><td>also/too</td><td><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>也</rb><rt>yě</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby></td></tr>
+<tr><td><ruby><rb>都</rb><rt>dōu</rt></ruby></td><td>all/both</td><td><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>们</rb><rt>men</rt></ruby><ruby><rb>都</rb><rt>dōu</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby></td></tr>
+<tr><td><ruby><rb>还</rb><rt>hái</rt></ruby></td><td>still/also</td><td><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>还</rb><rt>hái</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby></td></tr>
+<tr><td><ruby><rb>就</rb><rt>jiù</rt></ruby></td><td>right away</td><td><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby></td></tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="就算上班的时候也学中文。" title="Play: 就算上班的时候也学中文。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>算</rb><rt>suàn</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>时</rb><rt>shí</rt></ruby><ruby><rb>候</rb><rt>hou</rt></ruby><ruby><rb>也</rb><rt>yě</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>文</rb><rt>wén</rt></ruby>。</div>
+<div class="example-en">Even when at work I ALSO study Chinese.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我还没吃东西。" title="Play: 我还没吃东西。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>还</rb><rt>hái</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>东</rb><rt>dōng</rt></ruby><ruby><rb>西</rb><rt>xi</rt></ruby>。</div>
+<div class="example-en">I STILL haven't eaten yet.</div></div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ Never: 我去也 ✗ — adverb always BEFORE the verb</div>
+</div>
+</section>
+<section class="page wo" id="wo6">
+<div class="page-category">Word Order Rule 6 of 10</div>
+<div class="page-title-zh">双动词顺序</div>
+<div class="page-title-en">Double Verb Order</div>
+<div class="page-structure">Subject → V1 (movement) → V2 (purpose) · Movement first, purpose second</div>
+<div class="rule-box">When going somewhere TO DO something — movement verb first, purpose verb second.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我想去中国旅游。" title="Play: 我想去中国旅游。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>想</rb><rt>xiǎng</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>国</rb><rt>guó</rt></ruby><ruby><rb>旅</rb><rt>lǚ</rt></ruby><ruby><rb>游</rb><rt>yóu</rt></ruby>。</div>
+<div class="example-en">I want to go to China to travel.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="一到悉尼就去吃火锅。" title="Play: 一到悉尼就去吃火锅。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>到</rb><rt>dào</rt></ruby><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>火</rb><rt>huǒ</rt></ruby><ruby><rb>锅</rb><rt>guō</rt></ruby>。</div>
+<div class="example-en">The moment I arrive in Sydney I'll go eat hotpot.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我们去练柔术。" title="Play: 我们去练柔术。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>们</rb><rt>men</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby>。</div>
+<div class="example-en">We're going to train BJJ.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ Movement verbs: 去(go), 来(come), 回(return), 到(arrive)</div>
+</div>
+</section>
+<section class="page wo" id="wo7">
+<div class="page-category">Word Order Rule 7 of 10</div>
+<div class="page-title-zh">量词</div>
+<div class="page-title-en">Measure Words</div>
+<div class="page-structure">Number → 量词 → Noun · Always between number and noun</div>
+<div class="rule-box">Every noun needs a measure word between the number and the noun — no exceptions. 个 (gè) is the safe default.</div>
+<table class="pat-table">
+<tr><th>量词</th><th>PINYIN</th><th>USED FOR</th><th>EXAMPLE</th></tr>
+<tr><td><ruby><rb>个</rb><rt>gè</rt></ruby></td><td>gè</td><td>people, general</td><td><ruby><rb>几</rb><rt>jǐ</rt></ruby><ruby><rb>个</rb><rt>gè</rt></ruby><ruby><rb>朋</rb><rt>péng</rt></ruby><ruby><rb>友</rb><rt>yǒu</rt></ruby></td></tr>
+<tr><td><ruby><rb>杯</rb><rt>bēi</rt></ruby></td><td>bēi</td><td>drinks</td><td><ruby><rb>两</rb><rt>liǎng</rt></ruby><ruby><rb>杯</rb><rt>bēi</rt></ruby><ruby><rb>啤</rb><rt>pí</rt></ruby><ruby><rb>酒</rb><rt>jiǔ</rt></ruby></td></tr>
+<tr><td><ruby><rb>块</rb><rt>kuài</rt></ruby></td><td>kuài</td><td>pieces/flat</td><td><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>块</rb><rt>kuài</rt></ruby><ruby><rb>饼</rb><rt>bǐng</rt></ruby><ruby><rb>干</rb><rt>gān</rt></ruby></td></tr>
+<tr><td><ruby><rb>次</rb><rt>cì</rt></ruby></td><td>cì</td><td>times/occurrences</td><td><ruby><rb>三</rb><rt>sān</rt></ruby><ruby><rb>次</rb><rt>cì</rt></ruby></td></tr>
+<tr><td><ruby><rb>周</rb><rt>zhōu</rt></ruby></td><td>zhōu</td><td>weeks</td><td><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>周</rb><rt>zhōu</rt></ruby></td></tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我一周打三次巴西柔术。" title="Play: 我一周打三次巴西柔术。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>周</rb><rt>zhōu</rt></ruby><ruby><rb>打</rb><rt>dǎ</rt></ruby><ruby><rb>三</rb><rt>sān</rt></ruby><ruby><rb>次</rb><rt>cì</rt></ruby><ruby><rb>巴</rb><rt>bā</rt></ruby><ruby><rb>西</rb><rt>xī</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby>。</div>
+<div class="example-en">I do BJJ three times a week.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence 😄</div><button class="tts-btn" data-text="我可以要一块饼干吗？" title="Play: 我可以要一块饼干吗？" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>可</rb><rt>kě</rt></ruby><ruby><rb>以</rb><rt>yǐ</rt></ruby><ruby><rb>要</rb><rt>yào</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>块</rb><rt>kuài</rt></ruby><ruby><rb>饼</rb><rt>bǐng</rt></ruby><ruby><rb>干</rb><rt>gān</rt></ruby><ruby><rb>吗</rb><rt>ma</rt></ruby>？</div>
+<div class="example-en">Can I have a biscuit?</div></div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ Never: 两朋友 ✗ — 个 is always required between 两 and 朋友</div>
+<div class="note good">✓ 个 (gè) is the safe default for people and general objects</div>
+</div>
+</section>
+<section class="page wo" id="wo8">
+<div class="page-category">Word Order Rule 8 of 10</div>
+<div class="page-title-zh">的的位置</div>
+<div class="page-title-en">的 Placement</div>
+<div class="page-structure">Modifier + 的 → Noun · Descriptions come BEFORE the noun</div>
+<div class="rule-box">的 connects a description to the noun — modifier always comes before the noun it describes.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我听说重庆有很好吃的火锅。" title="Play: 我听说重庆有很好吃的火锅。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>听</rb><rt>tīng</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby><ruby><rb>重</rb><rt>chóng</rt></ruby><ruby><rb>庆</rb><rt>qìng</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>很</rb><rt>hěn</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>火</rb><rt>huǒ</rt></ruby><ruby><rb>锅</rb><rt>guō</rt></ruby>。</div>
+<div class="example-en">I heard Chongqing has really delicious hotpot.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="番茄炒蛋是我最喜欢的菜。" title="Play: 番茄炒蛋是我最喜欢的菜。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>番</rb><rt>fān</rt></ruby><ruby><rb>茄</rb><rt>qié</rt></ruby><ruby><rb>炒</rb><rt>chǎo</rt></ruby><ruby><rb>蛋</rb><rt>dàn</rt></ruby><ruby><rb>是</rb><rt>shì</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>最</rb><rt>zuì</rt></ruby><ruby><rb>喜</rb><rt>xǐ</rt></ruby><ruby><rb>欢</rb><rt>huān</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>菜</rb><rt>cài</rt></ruby>。</div>
+<div class="example-en">Tomato and egg is my favourite dish.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ Short adjectives (好, 大, 新) can skip 的 in casual speech: 好朋友</div>
+</div>
+</section>
+<section class="page wo" id="wo9">
+<div class="page-category">Word Order Rule 9 of 10</div>
+<div class="page-title-zh">时长位置</div>
+<div class="page-title-en">Duration Placement</div>
+<div class="page-structure">Verb → Duration · How long comes AFTER the verb</div>
+<div class="rule-box">Duration (how long) comes after the verb — opposite to time words (which come before).</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ South Africa!</div><button class="tts-btn" data-text="我们会待两个星期。" title="Play: 我们会待两个星期。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>们</rb><rt>men</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>待</rb><rt>dāi</rt></ruby><ruby><rb>两</rb><rt>liǎng</rt></ruby><ruby><rb>个</rb><rt>gè</rt></ruby><ruby><rb>星</rb><rt>xīng</rt></ruby><ruby><rb>期</rb><rt>qī</rt></ruby>。</div>
+<div class="example-en">We'll stay for two weeks.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我可以待三十分钟。" title="Play: 我可以待三十分钟。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>可</rb><rt>kě</rt></ruby><ruby><rb>以</rb><rt>yǐ</rt></ruby><ruby><rb>待</rb><rt>dāi</rt></ruby><ruby><rb>三</rb><rt>sān</rt></ruby><ruby><rb>十</rb><rt>shí</rt></ruby><ruby><rb>分</rb><rt>fēn</rt></ruby><ruby><rb>钟</rb><rt>zhōng</rt></ruby>。</div>
+<div class="example-en">I can stay for thirty minutes.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="他在悉尼住了十年。" title="Play: 他在悉尼住了十年。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>他</rb><rt>tā</rt></ruby><ruby><rb>在</rb><rt>zài</rt></ruby><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>住</rb><rt>zhù</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby><ruby><rb>十</rb><rt>shí</rt></ruby><ruby><rb>年</rb><rt>nián</rt></ruby>。</div>
+<div class="example-en">He's lived in Sydney for ten years.</div></div>
+</div>
+<div class="notes">
+<div class="note">✓ Time WHEN = BEFORE verb: 七点起床</div>
+<div class="note good">✓ Duration HOW LONG = AFTER verb: 学了三年</div>
+<div class="note">✓ If verb has object, repeat the verb: 我学普通话学了三年</div>
+</div>
+</section>
+<section class="page wo" id="wo10">
+<div class="page-category">Word Order Rule 10 of 10</div>
+<div class="page-title-zh">话题-评论结构</div>
+<div class="page-title-en">Topic-Comment Structure</div>
+<div class="page-structure">Topic, → Comment · State the topic first, then comment on it</div>
+<div class="rule-box">Mandarin often front-loads the topic, then makes a statement about it. Very natural in spoken Mandarin.</div>
+<table class="pat-table">
+<tr><th>TOPIC</th><th>COMMENT</th></tr>
+<tr>
+<td><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby>，</td>
+<td><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>太</rb><rt>tài</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby></td>
+</tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="普通话，我不太会说。" title="Play: 普通话，我不太会说。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>太</rb><rt>tài</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby>。</div>
+<div class="example-en">Mandarin, I can't really speak it well.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ South Africa</div><button class="tts-btn" data-text="南非，我七月要去。" title="Play: 南非，我七月要去。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>南</rb><rt>nán</rt></ruby><ruby><rb>非</rb><rt>fēi</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>七</rb><rt>qī</rt></ruby><ruby><rb>月</rb><rt>yuè</rt></ruby><ruby><rb>要</rb><rt>yào</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby>。</div>
+<div class="example-en">South Africa, I'm going in July.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="柔术，我练了很多年了。" title="Play: 柔术，我练了很多年了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby><ruby><rb>很</rb><rt>hěn</rt></ruby><ruby><rb>多</rb><rt>duō</rt></ruby><ruby><rb>年</rb><rt>nián</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">BJJ, I've been training for many years.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ Very natural in spoken Mandarin — gives context before the main point</div>
+<div class="note">✓ English equivalent: "As for Mandarin, I can't really speak it"</div>
+</div>
+</section>
+<!-- ═══════════════ GRAMMAR PATTERN PAGES ═══════════════ -->
+<section class="page gp" id="gp1">
+<div class="page-category">Grammar Pattern 1 of 12</div>
+<div class="page-title-zh">是...的</div>
+<div class="page-title-en">Emphasising HOW / WHEN / WHERE</div>
+<div class="page-structure">S + 是 + circumstance + V + 的 · Spotlight on context</div>
+<div class="rule-box">Use 是...的 to highlight HOW, WHEN or WHERE something happened — not what happened.</div>
+<table class="pat-table">
+<tr><th>SUBJECT</th><th>是</th><th>CIRCUMSTANCE + VERB</th><th>的</th></tr>
+<tr>
+<td><ruby><rb>你</rb><rt>nǐ</rt></ruby></td>
+<td><ruby><rb>是</rb><rt>shì</rt></ruby></td>
+<td><ruby><rb>怎</rb><rt>zěn</rt></ruby><ruby><rb>么</rb><rt>me</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby></td>
+<td><ruby><rb>的</rb><rt>de</rt></ruby>？</td>
+</tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your vocab</div><button class="tts-btn" data-text="我是一个人住的。" title="Play: 我是一个人住的。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>是</rb><rt>shì</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>个</rb><rt>gè</rt></ruby><ruby><rb>人</rb><rt>rén</rt></ruby><ruby><rb>住</rb><rt>zhù</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby>。</div>
+<div class="example-en">I live alone. (emphasising BY MYSELF)</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="你是怎么学普通话的？" title="Play: 你是怎么学普通话的？" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>是</rb><rt>shì</rt></ruby><ruby><rb>怎</rb><rt>zěn</rt></ruby><ruby><rb>么</rb><rt>me</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby>？</div>
+<div class="example-en">How did you learn Mandarin? (emphasising METHOD)</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="他是去年来的。" title="Play: 他是去年来的。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>他</rb><rt>tā</rt></ruby><ruby><rb>是</rb><rt>shì</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>年</rb><rt>nián</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby>。</div>
+<div class="example-en">He came last year. (emphasising WHEN)</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ 是 can be dropped in casual speech: 你怎么来的？</div>
+<div class="note">✓ Past tense only — don't use for future events</div>
+</div>
+</section>
+<section class="page gp" id="gp2">
+<div class="page-category">Grammar Pattern 2 of 12</div>
+<div class="page-title-zh">把</div>
+<div class="page-title-en">Moving the object before the verb</div>
+<div class="page-structure">S + 把 + OBJECT + V + result · What happens TO the object</div>
+<div class="rule-box">把 takes the object and places it BEFORE the verb — focuses on the result. Must have completion after verb.</div>
+<table class="pat-table">
+<tr><th>SUBJECT</th><th>把</th><th>OBJECT</th><th>VERB + RESULT</th></tr>
+<tr>
+<td><ruby><rb>我</rb><rt>wǒ</rt></ruby></td>
+<td><ruby><rb>把</rb><rt>bǎ</rt></ruby></td>
+<td><ruby><rb>东</rb><rt>dōng</rt></ruby><ruby><rb>西</rb><rt>xi</rt></ruby></td>
+<td><ruby><rb>收</rb><rt>shōu</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby></td>
+</tr>
+</table>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="把东西收起来。" title="Play: 把东西收起来。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>把</rb><rt>bǎ</rt></ruby><ruby><rb>东</rb><rt>dōng</rt></ruby><ruby><rb>西</rb><rt>xi</rt></ruby><ruby><rb>收</rb><rt>shōu</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby>。</div>
+<div class="example-en">Put the things away.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="他把啤酒喝完了。" title="Play: 他把啤酒喝完了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>他</rb><rt>tā</rt></ruby><ruby><rb>把</rb><rt>bǎ</rt></ruby><ruby><rb>啤</rb><rt>pí</rt></ruby><ruby><rb>酒</rb><rt>jiǔ</rt></ruby><ruby><rb>喝</rb><rt>hē</rt></ruby><ruby><rb>完</rb><rt>wán</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">He finished all the beer. 😄</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="请把手机放下。" title="Play: 请把手机放下。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>请</rb><rt>qǐng</rt></ruby><ruby><rb>把</rb><rt>bǎ</rt></ruby><ruby><rb>手</rb><rt>shǒu</rt></ruby><ruby><rb>机</rb><rt>jī</rt></ruby><ruby><rb>放</rb><rt>fàng</rt></ruby><ruby><rb>下</rb><rt>xià</rt></ruby>。</div>
+<div class="example-en">Please put your phone down.</div></div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ 我把饭做 ✗ — must have completion: 我把饭做好了 ✓</div>
+<div class="note good">✓ Common results: 起来(put away), 好(done), 完(finished), 掉(get rid of)</div>
+</div>
+</section>
+<section class="page gp" id="gp3">
+<div class="page-category">Grammar Pattern 3 of 12</div>
+<div class="page-title-zh">被</div>
+<div class="page-title-en">Passive voice</div>
+<div class="page-structure">S + 被 + doer + V · Something was done TO the subject</div>
+<div class="rule-box">被 marks passive — the subject receives the action. Often carries a negative/undesirable tone.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your vocab</div><button class="tts-btn" data-text="我被老板表扬了。" title="Play: 我被老板表扬了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>被</rb><rt>bèi</rt></ruby><ruby><rb>老</rb><rt>lǎo</rt></ruby><ruby><rb>板</rb><rt>bǎn</rt></ruby><ruby><rb>表</rb><rt>biǎo</rt></ruby><ruby><rb>扬</rb><rt>yáng</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">I was praised by my boss.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="我的手机被偷了。" title="Play: 我的手机被偷了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>手</rb><rt>shǒu</rt></ruby><ruby><rb>机</rb><rt>jī</rt></ruby><ruby><rb>被</rb><rt>bèi</rt></ruby><ruby><rb>偷</rb><rt>tōu</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">My phone was stolen.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="他被说服了。" title="Play: 他被说服了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>他</rb><rt>tā</rt></ruby><ruby><rb>被</rb><rt>bèi</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby><ruby><rb>服</rb><rt>fú</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">He was convinced.</div></div>
+</div>
+<div class="notes">
+<div class="note warn">✓ 被 often carries a negative/undesirable tone</div>
+<div class="note good">✓ Doer can be omitted: 我被骗了 = I was cheated (by someone)</div>
+</div>
+</section>
+<section class="page gp" id="gp4">
+<div class="page-category">Grammar Pattern 4 of 12</div>
+<div class="page-title-zh">越...越...</div>
+<div class="page-title-en">The more...the more...</div>
+<div class="page-structure">越 + condition + 越 + result · Two qualities that grow together</div>
+<div class="rule-box">As one thing increases, the other follows. 越来越 = one thing growing. 越A越B = two things linked.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="我觉得中文越来越难了。" title="Play: 我觉得中文越来越难了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>觉</rb><rt>jué</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>文</rb><rt>wén</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>难</rb><rt>nán</rt></ruby><ruby><rb>了</rb><rt>le</rt></ruby>。</div>
+<div class="example-en">I feel Chinese is getting harder and harder.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="越练越好。" title="Play: 越练越好。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby>。</div>
+<div class="example-en">The more you train, the better you get. (BJJ 😄)</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="越说越流利。" title="Play: 越说越流利。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>流</rb><rt>liú</rt></ruby><ruby><rb>利</rb><rt>lì</rt></ruby>。</div>
+<div class="example-en">The more you speak, the more fluent you get.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="越吃越想吃。" title="Play: 越吃越想吃。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>想</rb><rt>xiǎng</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby>。</div>
+<div class="example-en">The more you eat, the more you want to eat.</div></div>
+</div>
+<div class="notes">
+<div class="note">✓ 越来越 = one thing growing: more and more [adj]</div>
+<div class="note good">✓ 越A越B = two things linked: the more A, the more B</div>
+</div>
+</section>
+<section class="page gp" id="gp5">
+<div class="page-category">Grammar Pattern 5 of 12</div>
+<div class="page-title-zh">比</div>
+<div class="page-title-en">Comparing two things</div>
+<div class="page-structure">A + 比 + B + adjective · A is more [adj] than B</div>
+<div class="rule-box">比 sits between two things — plain adjective at the end. No 更 or special comparative form needed.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="悉尼比伦敦热。" title="Play: 悉尼比伦敦热。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>比</rb><rt>bǐ</rt></ruby><ruby><rb>伦</rb><rt>lún</rt></ruby><ruby><rb>敦</rb><rt>dūn</rt></ruby><ruby><rb>热</rb><rt>rè</rt></ruby>。</div>
+<div class="example-en">Sydney is hotter than London.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence 😄</div><button class="tts-btn" data-text="柔术比跑步有趣。" title="Play: 柔术比跑步有趣。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby><ruby><rb>比</rb><rt>bǐ</rt></ruby><ruby><rb>跑</rb><rt>pǎo</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>趣</rb><rt>qù</rt></ruby>。</div>
+<div class="example-en">BJJ is more interesting than running.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="今天比昨天冷一点。" title="Play: 今天比昨天冷一点。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>今</rb><rt>jīn</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>比</rb><rt>bǐ</rt></ruby><ruby><rb>昨</rb><rt>zuó</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>冷</rb><rt>lěng</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby>。</div>
+<div class="example-en">Today is a little colder than yesterday.</div></div>
+</div>
+<div class="notes">
+<div class="note bad">⚠ English: "hotter THAN" — comparative adjective + than</div>
+<div class="note good">✓ Mandarin: 比 + plain adjective — no 更 or special form needed</div>
+<div class="note">✓ Add degree: 比...热一点 (a bit more) / 比...热多了 (much more)</div>
+</div>
+</section>
+<section class="page gp" id="gp6">
+<div class="page-category">Grammar Pattern 6 of 12</div>
+<div class="page-title-zh">没有</div>
+<div class="page-title-en">Negative comparison — not as...as</div>
+<div class="page-structure">A + 没有 + B + adj · A is NOT as [adj] as B</div>
+<div class="rule-box">没有 flips the comparison — A falls short of B. Same adjective used as with 比.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence 😄</div><button class="tts-btn" data-text="跑步没有柔术有趣。" title="Play: 跑步没有柔术有趣。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>跑</rb><rt>pǎo</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>趣</rb><rt>qù</rt></ruby>。</div>
+<div class="example-en">Running is not as interesting as BJJ.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="今天没有昨天冷。" title="Play: 今天没有昨天冷。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>今</rb><rt>jīn</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>昨</rb><rt>zuó</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>冷</rb><rt>lěng</rt></ruby>。</div>
+<div class="example-en">Today is not as cold as yesterday.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="悉尼没有香港热闹。" title="Play: 悉尼没有香港热闹。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>没</rb><rt>méi</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>香</rb><rt>xiāng</rt></ruby><ruby><rb>港</rb><rt>gǎng</rt></ruby><ruby><rb>热</rb><rt>rè</rt></ruby><ruby><rb>闹</rb><rt>nào</rt></ruby>。</div>
+<div class="example-en">Sydney is not as lively as Hong Kong.</div></div>
+</div>
+<div class="notes">
+<div class="note">✓ 比 = A is MORE than B → 柔术比跑步有趣</div>
+<div class="note good">✓ 没有 = A is NOT AS much as B → 跑步没有柔术有趣</div>
+</div>
+</section>
+<section class="page gp" id="gp7">
+<div class="page-category">Grammar Pattern 7 of 12</div>
+<div class="page-title-zh">V + 得</div>
+<div class="page-title-en">How well something is done</div>
+<div class="page-structure">VERB + 得 + description · Quality/degree of the action</div>
+<div class="rule-box">得 sandwiches between a verb and how well it's performed. To negate: put 不 after 得.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your actual sentence!</div><button class="tts-btn" data-text="你的公司去年做得不错。" title="Play: 你的公司去年做得不错。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>公</rb><rt>gōng</rt></ruby><ruby><rb>司</rb><rt>sī</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>年</rb><rt>nián</rt></ruby><ruby><rb>做</rb><rt>zuò</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>错</rb><rt>cuò</rt></ruby>。</div>
+<div class="example-en">Your company did pretty well last year.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your vocab</div><button class="tts-btn" data-text="我普通话说得不太好。" title="Play: 我普通话说得不太好。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>普</rb><rt>pǔ</rt></ruby><ruby><rb>通</rb><rt>tōng</rt></ruby><ruby><rb>话</rb><rt>huà</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>太</rb><rt>tài</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby>。</div>
+<div class="example-en">I don't speak Mandarin that well.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="你说得很好！" title="Play: 你说得很好！" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>说</rb><rt>shuō</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>很</rb><rt>hěn</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby>！</div>
+<div class="example-en">You speak really well!</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="他柔术练得很好。" title="Play: 他柔术练得很好。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>他</rb><rt>tā</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>很</rb><rt>hěn</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby>。</div>
+<div class="example-en">He trains BJJ really well.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ To negate: put 不 after 得 → 做得不好 / 说得不清楚</div>
+<div class="note">✓ If verb has object, repeat the verb: 做饭做得好 (not 做饭得好)</div>
+</div>
+</section>
+<section class="page gp" id="gp8">
+<div class="page-category">Grammar Pattern 8 of 12</div>
+<div class="page-title-zh">V + 不了/得了</div>
+<div class="page-title-en">Can or cannot complete an action</div>
+<div class="page-structure">VERB + 不了 (cannot) / 得了 (can) · Physical possibility</div>
+<div class="rule-box">Expresses whether completing an action is physically/logistically possible — not willingness or permission.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="今天去不了。" title="Play: 今天去不了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>今</rb><rt>jīn</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>了</rb><rt>liǎo</rt></ruby>。</div>
+<div class="example-en">Can't go today. (impossible, not just unwilling)</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="这个我吃不了。" title="Play: 这个我吃不了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>这</rb><rt>zhè</rt></ruby><ruby><rb>个</rb><rt>ge</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>了</rb><rt>liǎo</rt></ruby>。</div>
+<div class="example-en">I can't finish this / too much for me.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="这件事我一个人做不了。" title="Play: 这件事我一个人做不了。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>这</rb><rt>zhè</rt></ruby><ruby><rb>件</rb><rt>jiàn</rt></ruby><ruby><rb>事</rb><rt>shì</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>个</rb><rt>gè</rt></ruby><ruby><rb>人</rb><rt>rén</rt></ruby><ruby><rb>做</rb><rt>zuò</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>了</rb><rt>liǎo</rt></ruby>。</div>
+<div class="example-en">I can't do this alone.</div></div>
+</div>
+<div class="notes">
+<div class="note">✓ 不了 = physically/logistically impossible</div>
+<div class="note good">✓ 不能 = not allowed | 不会 = don't know how | 不了 = can't complete</div>
+</div>
+</section>
+<section class="page gp" id="gp9">
+<div class="page-category">Grammar Pattern 9 of 12</div>
+<div class="page-title-zh">先...然后...</div>
+<div class="page-title-en">First...then...</div>
+<div class="page-structure">先 + V1 + 然后 + V2 · Deliberate sequence of actions</div>
+<div class="rule-box">先 = first, 然后 = then — sequences steps in deliberate order. Gap between actions is fine.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your vocab 😄</div><button class="tts-btn" data-text="先练柔术，然后回家吃饭。" title="Play: 先练柔术，然后回家吃饭。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>先</rb><rt>xiān</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby>，<ruby><rb>然</rb><rt>rán</rt></ruby><ruby><rb>后</rb><rt>hòu</rt></ruby><ruby><rb>回</rb><rt>huí</rt></ruby><ruby><rb>家</rb><rt>jiā</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>饭</rb><rt>fàn</rt></ruby>。</div>
+<div class="example-en">First train BJJ, then go home and eat.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence 😄</div><button class="tts-btn" data-text="先刷牙，然后睡觉。" title="Play: 先刷牙，然后睡觉。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>先</rb><rt>xiān</rt></ruby><ruby><rb>刷</rb><rt>shuā</rt></ruby><ruby><rb>牙</rb><rt>yá</rt></ruby>，<ruby><rb>然</rb><rt>rán</rt></ruby><ruby><rb>后</rb><rt>hòu</rt></ruby><ruby><rb>睡</rb><rt>shuì</rt></ruby><ruby><rb>觉</rb><rt>jiào</rt></ruby>。</div>
+<div class="example-en">First brush teeth, then sleep.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="先试试，然后再决定。" title="Play: 先试试，然后再决定。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>先</rb><rt>xiān</rt></ruby><ruby><rb>试</rb><rt>shì</rt></ruby><ruby><rb>试</rb><rt>shi</rt></ruby>，<ruby><rb>然</rb><rt>rán</rt></ruby><ruby><rb>后</rb><rt>hòu</rt></ruby><ruby><rb>再</rb><rt>zài</rt></ruby><ruby><rb>决</rb><rt>jué</rt></ruby><ruby><rb>定</rb><rt>dìng</rt></ruby>。</div>
+<div class="example-en">Try it first, then decide.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ 先 alone = go first: 我先来！← you used this in your group call!</div>
+<div class="note">✓ 然后 can start a new sentence: 先吃。然后去。</div>
+</div>
+</section>
+<section class="page gp" id="gp10">
+<div class="page-category">Grammar Pattern 10 of 12</div>
+<div class="page-title-zh">一...就...</div>
+<div class="page-title-en">As soon as / the moment</div>
+<div class="page-structure">一 + V1 + 就 + V2 · Immediate — zero gap between actions</div>
+<div class="rule-box">As soon as the first thing happens, the second follows immediately. No gap.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="一回家就吃饭。" title="Play: 一回家就吃饭。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>回</rb><rt>huí</rt></ruby><ruby><rb>家</rb><rt>jiā</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>饭</rb><rt>fàn</rt></ruby>。</div>
+<div class="example-en">As soon as I get home I eat.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="一到悉尼就去吃火锅。" title="Play: 一到悉尼就去吃火锅。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>到</rb><rt>dào</rt></ruby><ruby><rb>悉</rb><rt>xī</rt></ruby><ruby><rb>尼</rb><rt>ní</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>吃</rb><rt>chī</rt></ruby><ruby><rb>火</rb><rt>huǒ</rt></ruby><ruby><rb>锅</rb><rt>guō</rt></ruby>。</div>
+<div class="example-en">The moment I arrive in Sydney I'll eat hotpot.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="一下班就去练柔术。" title="Play: 一下班就去练柔术。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>下</rb><rt>xià</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>柔</rb><rt>róu</rt></ruby><ruby><rb>术</rb><rt>shù</rt></ruby>。</div>
+<div class="example-en">As soon as work finishes I go train BJJ.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="一起床就看手机。" title="Play: 一起床就看手机。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>起</rb><rt>qǐ</rt></ruby><ruby><rb>床</rb><rt>chuáng</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>看</rb><rt>kàn</rt></ruby><ruby><rb>手</rb><rt>shǒu</rt></ruby><ruby><rb>机</rb><rt>jī</rt></ruby>。</div>
+<div class="example-en">As soon as I get up I look at my phone.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ 一...就 = immediacy — zero gap between actions</div>
+<div class="note">✓ 先...然后 = deliberate sequence — gap between actions is fine</div>
+</div>
+</section>
+<section class="page gp" id="gp11">
+<div class="page-category">Grammar Pattern 11 of 12</div>
+<div class="page-title-zh">的时候</div>
+<div class="page-title-en">When / while doing something</div>
+<div class="page-structure">Action + 的时候 + main clause · Sets the time frame</div>
+<div class="rule-box">的时候 attaches to an ACTION to mean "when/while doing that action". Tense carried by the main clause.</div>
+<div class="section-label">★ From your conversation — used this many times today!</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="就算上班的时候也学中文。" title="Play: 就算上班的时候也学中文。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>算</rb><rt>suàn</rt></ruby><ruby><rb>上</rb><rt>shàng</rt></ruby><ruby><rb>班</rb><rt>bān</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>时</rb><rt>shí</rt></ruby><ruby><rb>候</rb><rt>hou</rt></ruby><ruby><rb>也</rb><rt>yě</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>文</rb><rt>wén</rt></ruby>。</div>
+<div class="example-en">Even when at work I study Chinese.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence 😄</div><button class="tts-btn" data-text="跑步的时候很无聊。" title="Play: 跑步的时候很无聊。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>跑</rb><rt>pǎo</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>时</rb><rt>shí</rt></ruby><ruby><rb>候</rb><rt>hou</rt></ruby><ruby><rb>很</rb><rt>hěn</rt></ruby><ruby><rb>无</rb><rt>wú</rt></ruby><ruby><rb>聊</rb><rt>liáo</rt></ruby>。</div>
+<div class="example-en">When running it's boring.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="小的时候，我妈妈让我们去中文学校。" title="Play: 小的时候，我妈妈让我们去中文学校。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>小</rb><rt>xiǎo</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>时</rb><rt>shí</rt></ruby><ruby><rb>候</rb><rt>hou</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>妈</rb><rt>mā</rt></ruby><ruby><rb>妈</rb><rt>ma</rt></ruby><ruby><rb>让</rb><rt>ràng</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>们</rb><rt>men</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>文</rb><rt>wén</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>校</rb><rt>xiào</rt></ruby>。</div>
+<div class="example-en">When I was young, mum made us go to Chinese school.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your joke 😄</div><button class="tts-btn" data-text="有钱的时候，我想去中国旅游。" title="Play: 有钱的时候，我想去中国旅游。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>钱</rb><rt>qián</rt></ruby><ruby><rb>的</rb><rt>de</rt></ruby><ruby><rb>时</rb><rt>shí</rt></ruby><ruby><rb>候</rb><rt>hou</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>想</rb><rt>xiǎng</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>国</rb><rt>guó</rt></ruby><ruby><rb>旅</rb><rt>lǚ</rt></ruby><ruby><rb>游</rb><rt>yóu</rt></ruby>。</div>
+<div class="example-en">When I have money, I want to travel to China.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ 的时候 attaches to an ACTION — not a static state</div>
+<div class="note">✓ Tense carried by the MAIN clause — 的时候 itself is tense-neutral</div>
+</div>
+</section>
+<section class="page gp" id="gp12">
+<div class="page-category">Grammar Pattern 12 of 12</div>
+<div class="page-title-zh">如果...就...</div>
+<div class="page-title-en">If...then...</div>
+<div class="page-structure">如果 + condition + 就 + result · Conditional sentences</div>
+<div class="rule-box">如果 sets the condition — 就 delivers the result. 就 can be dropped in casual speech.</div>
+<div class="section-label">★ From your conversation</div>
+<div class="examples">
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your sentence</div><button class="tts-btn" data-text="如果你每天学一点中文，我觉得你会进步。" title="Play: 如果你每天学一点中文，我觉得你会进步。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>如</rb><rt>rú</rt></ruby><ruby><rb>果</rb><rt>guǒ</rt></ruby><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>每</rb><rt>měi</rt></ruby><ruby><rb>天</rb><rt>tiān</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby><ruby><rb>一</rb><rt>yī</rt></ruby><ruby><rb>点</rb><rt>diǎn</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>文</rb><rt>wén</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>觉</rb><rt>jué</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>进</rb><rt>jìn</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby>。</div>
+<div class="example-en">If you study a little Chinese every day, I think you'll improve.</div></div>
+<div class="example mine"><div class="example-header"><div class="example-tag">★ Your joke 😄</div><button class="tts-btn" data-text="如果我有钱，我就去中国旅游。" title="Play: 如果我有钱，我就去中国旅游。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>如</rb><rt>rú</rt></ruby><ruby><rb>果</rb><rt>guǒ</rt></ruby><ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>有</rb><rt>yǒu</rt></ruby><ruby><rb>钱</rb><rt>qián</rt></ruby>，<ruby><rb>我</rb><rt>wǒ</rt></ruby><ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>去</rb><rt>qù</rt></ruby><ruby><rb>中</rb><rt>zhōng</rt></ruby><ruby><rb>国</rb><rt>guó</rt></ruby><ruby><rb>旅</rb><rt>lǚ</rt></ruby><ruby><rb>游</rb><rt>yóu</rt></ruby>。</div>
+<div class="example-en">If I have money, I'll travel to China.</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="如果你练得多，就会越来越好。" title="Play: 如果你练得多，就会越来越好。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>如</rb><rt>rú</rt></ruby><ruby><rb>果</rb><rt>guǒ</rt></ruby><ruby><rb>你</rb><rt>nǐ</rt></ruby><ruby><rb>练</rb><rt>liàn</rt></ruby><ruby><rb>得</rb><rt>de</rt></ruby><ruby><rb>多</rb><rt>duō</rt></ruby>，<ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>来</rb><rt>lái</rt></ruby><ruby><rb>越</rb><rt>yuè</rt></ruby><ruby><rb>好</rb><rt>hǎo</rt></ruby>。</div>
+<div class="example-en">If you train more, you'll keep getting better. (GP7 + GP4!)</div></div>
+<div class="example"><div class="example-header"><button class="tts-btn" data-text="如果不学，就不会进步。" title="Play: 如果不学，就不会进步。" type="button">▶</button></div>
+<div class="zh-line"><ruby><rb>如</rb><rt>rú</rt></ruby><ruby><rb>果</rb><rt>guǒ</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>学</rb><rt>xué</rt></ruby>，<ruby><rb>就</rb><rt>jiù</rt></ruby><ruby><rb>不</rb><rt>bù</rt></ruby><ruby><rb>会</rb><rt>huì</rt></ruby><ruby><rb>进</rb><rt>jìn</rt></ruby><ruby><rb>步</rb><rt>bù</rt></ruby>。</div>
+<div class="example-en">If you don't study, you won't improve.</div></div>
+</div>
+<div class="notes">
+<div class="note good">✓ 就 can be dropped in casual speech: 如果有时间，来我家</div>
+<div class="note">✓ 要是 (yào shì) is a casual alternative for 如果</div>
+<div class="note">✓ Add 的话 at end for softness: 如果有时间的话</div>
+</div>
+</section>
+<!-- REFERENCE PAGE -->
+<section class="page" id="ref">
+<div style="font-family:var(--ff-zh);font-size:32px;color:var(--mando-clr);text-align:center;margin-bottom:32px;">所有句型 · All Patterns At A Glance</div>
+<div style="font-size:10px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--mando-clr);margin-bottom:12px;">Word Order Rules 语序规则</div>
+<table class="ref-table" style="margin-bottom:28px;">
+<tr><th class="ref-wo-head" style="width:40px">#</th><th class="ref-wo-head">Pattern</th><th class="ref-wo-head">Structure</th><th class="ref-wo-head">Key Rule</th></tr>
+<tr><td>1</td><td class="ref-zh">时间+动词</td><td>S → Time → V</td><td>Time BEFORE verb</td></tr>
+<tr><td>2</td><td class="ref-zh">地点+动词</td><td>S → 在+Place → V</td><td>在+place before verb</td></tr>
+<tr><td>3</td><td class="ref-zh">跟/和+人</td><td>S → 跟+Person → V</td><td>跟/和 before verb</td></tr>
+<tr><td>4</td><td class="ref-zh">否定词</td><td>S → 不/没 → V</td><td>不/没 before verb</td></tr>
+<tr><td>5</td><td class="ref-zh">副词</td><td>S → 也/都/还 → V</td><td>Adverb before verb</td></tr>
+<tr><td>6</td><td class="ref-zh">双动词</td><td>S → V1(move) → V2(purpose)</td><td>Movement then purpose</td></tr>
+<tr><td>7</td><td class="ref-zh">量词</td><td>Number → 量词 → Noun</td><td>Always between number &amp; noun</td></tr>
+<tr><td>8</td><td class="ref-zh">的</td><td>Modifier + 的 → Noun</td><td>Modifier before noun</td></tr>
+<tr><td>9</td><td class="ref-zh">时长</td><td>V → Duration</td><td>Duration after verb</td></tr>
+<tr><td>10</td><td class="ref-zh">话题-评论</td><td>Topic, → Comment</td><td>Topic first, comment second</td></tr>
+</table>
+<div style="font-size:10px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--canto-clr);margin-bottom:12px;">Grammar Patterns 句型</div>
+<table class="ref-table">
+<tr><th class="ref-gp-head" style="width:40px">#</th><th class="ref-gp-head">Pattern</th><th class="ref-gp-head">Structure</th><th class="ref-gp-head">Key Use</th></tr>
+<tr><td>1</td><td class="ref-zh">是...的</td><td>S + 是 + HOW/WHEN + V + 的</td><td>Emphasise circumstance</td></tr>
+<tr><td>2</td><td class="ref-zh">把</td><td>S + 把 + OBJ + V + result</td><td>Object before verb</td></tr>
+<tr><td>3</td><td class="ref-zh">被</td><td>S + 被 + doer + V</td><td>Passive voice</td></tr>
+<tr><td>4</td><td class="ref-zh">越...越...</td><td>越 + A + 越 + B</td><td>More A → more B</td></tr>
+<tr><td>5</td><td class="ref-zh">比</td><td>A + 比 + B + adj</td><td>A more than B</td></tr>
+<tr><td>6</td><td class="ref-zh">没有</td><td>A + 没有 + B + adj</td><td>A not as much as B</td></tr>
+<tr><td>7</td><td class="ref-zh">V + 得</td><td>V + 得 + how well</td><td>Quality of action</td></tr>
+<tr><td>8</td><td class="ref-zh">V + 不了/得了</td><td>V + 不了 / V + 得了</td><td>Can / cannot complete</td></tr>
+<tr><td>9</td><td class="ref-zh">先...然后...</td><td>先 + V1 + 然后 + V2</td><td>First...then...</td></tr>
+<tr><td>10</td><td class="ref-zh">一...就...</td><td>一 + V1 + 就 + V2</td><td>As soon as → immediately</td></tr>
+<tr><td>11</td><td class="ref-zh">的时候</td><td>Action + 的时候 + clause</td><td>When / while doing</td></tr>
+<tr><td>12</td><td class="ref-zh">如果...就...</td><td>如果 + condition + 就 + result</td><td>If...then...</td></tr>
+</table>
+<div style="text-align:center;font-size:12px;color:var(--ink-3);font-style:italic;margin-top:32px;">Built from conversation · April 2026 · 普通话学习</div>
+</section>
+</main>
+
+<script>
+
+// ── THEME TOGGLE ─────────────────────────────────────────────────────────────
+const themeBtn = document.getElementById('themeToggle');
+themeBtn.addEventListener('click', () => {
+  const html = document.documentElement;
+  const next = html.dataset.theme === 'light' ? 'dark' : 'light';
+  html.dataset.theme = next;
+  themeBtn.textContent = next === 'light' ? '🌙' : '☀️';
+});
+
+// ── TTS ───────────────────────────────────────────────────────────────────────
+let activeAudio = null;
+
+async function playTTS(text, btn) {
+  if (activeAudio) { activeAudio.pause(); activeAudio = null; }
+  document.querySelectorAll('.tts-btn.playing').forEach(b => b.classList.remove('playing'));
+  btn.classList.add('playing');
+  try {
+    const res = await fetch('/api/tts', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text, engine: 'openai', speed: 'normal' }),
+    });
+    if (!res.ok) throw new Error('TTS failed ' + res.status);
+    const blob = await res.blob();
+    const url  = URL.createObjectURL(blob);
+    activeAudio = new Audio(url);
+    activeAudio.addEventListener('ended', () => { btn.classList.remove('playing'); activeAudio = null; });
+    activeAudio.play();
+  } catch (e) {
+    btn.classList.remove('playing');
+    console.error('TTS error:', e);
+  }
+}
+
+document.querySelectorAll('.tts-btn').forEach(btn => {
+  btn.addEventListener('click', () => playTTS(btn.dataset.text, btn));
+});
+
+// ── SCROLLSPY ─────────────────────────────────────────────────────────────────
+const sections = document.querySelectorAll('section[id]');
+const navLinks  = document.querySelectorAll('.nav a[href^="#"]');
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      navLinks.forEach(l => l.classList.remove('active'));
+      const active = document.querySelector(`.nav a[href="#${entry.target.id}"]`);
+      if (active) active.classList.add('active');
+    }
+  });
+}, { threshold: 0.25 });
+
+sections.forEach(s => observer.observe(s));
+
+</script>
+
+</body>
+</html>

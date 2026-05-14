@@ -516,7 +516,7 @@ def api_stats():
         })
 
     total_watched = len(watched_entries)
-    total_mins    = sum(e["length_mins"] for e in watched_entries)
+    total_mins    = sum(e["length_mins"] * e["watchCount"] for e in watched_entries)
 
     # Group by day / week / month (with per-level counts)
     by_day   = {}
@@ -535,15 +535,15 @@ def api_stats():
         for key, bucket in [(day_key, by_day), (week_key, by_week), (month_key, by_month)]:
             if key not in bucket:
                 bucket[key] = {"count": 0, "mins": 0.0, "levels": {}}
-            bucket[key]["count"] += 1
-            bucket[key]["mins"]  += e["length_mins"]
-            bucket[key]["levels"][lvl] = bucket[key]["levels"].get(lvl, 0) + 1
+            bucket[key]["count"] += e["watchCount"]
+            bucket[key]["mins"]  += e["length_mins"] * e["watchCount"]
+            bucket[key]["levels"][lvl] = bucket[key]["levels"].get(lvl, 0) + e["watchCount"]
 
     # Build level breakdown
     level_counts = {}
     for e in watched_entries:
         lvl = e["level"] or "Unknown"
-        level_counts[lvl] = level_counts.get(lvl, 0) + 1
+        level_counts[lvl] = level_counts.get(lvl, 0) + e["watchCount"]
 
     # Recent watches (last 10)
     recent = sorted(

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -76,6 +76,14 @@ input, select, button { font-family: inherit; font-size: inherit; }
 .stat-pill { font-size: 11px; color: var(--muted); font-weight: 500; }
 .stat-pill strong { color: var(--text); font-weight: 700; }
 .header-spacer { flex: 1; }
+.theme-btn {
+  width: 34px; height: 34px; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--surface2); color: var(--muted);
+  display: inline-flex; align-items: center; justify-content: center; cursor: pointer;
+  transition: all 120ms ease; flex-shrink: 0;
+}
+.theme-btn:hover { border-color: var(--accent); color: var(--text); }
+a.theme-btn { text-decoration: none; }
 
 /* ── Filter bar ──────────────────────────────────────── */
 .filter-bar {
@@ -426,6 +434,9 @@ video#localVideo {
     <div class="header-sep"></div>
     <span class="results-count" id="resultsCount">Loading…</span>
     <div class="header-spacer"></div>
+    <a class="theme-btn" href="/" title="Open Viewer" aria-label="Open Viewer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9 21v-6h6v6"/></svg>
+    </a>
   </header>
 
   <div class="filter-bar">

@@ -165,6 +165,7 @@ input, select, button, textarea { font-family: inherit; font-size: inherit; }
 .icon-btn:hover { color: var(--ink); background: var(--surface2); }
 .icon-btn.active { color: var(--accent); border-color: var(--accent); background: var(--accent-light); }
 .icon-btn.sm { width: 28px; height: 28px; border-radius: 6px; }
+a.icon-btn { text-decoration: none; color: var(--ink-2); }
 
 /* ── Sidebar (left: Course Map) ───────────────────────────────────────────── */
 .course-sidebar {

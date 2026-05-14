@@ -962,28 +962,13 @@ const Phrases = {
 // ── UI Module ─────────────────────────────────────────────────────────────────
 const UI = {
   initTheme() {
-    const saved = localStorage.getItem('cmb-theme') || 'light';
-    document.documentElement.setAttribute('data-theme', saved);
-    this.updateThemeIcon(saved);
-
-    $('themeToggle').addEventListener('click', () => {
-      const cur  = document.documentElement.getAttribute('data-theme') || 'light';
-      const next = cur === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', next);
-      localStorage.setItem('cmb-theme', next);
-      this.updateThemeIcon(next);
-    });
+    document.documentElement.setAttribute('data-theme', 'dark');
 
     $('killServerBtn').addEventListener('click', async () => {
       if (!confirm('Stop the server?')) return;
       await fetch('/api/shutdown', { method: 'POST' }).catch(() => {});
       document.body.innerHTML = '<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;font-family:sans-serif;gap:12px"><h2>Server stopped</h2><p>You can close this tab.</p></div>';
     });
-  },
-
-  updateThemeIcon(theme) {
-    $('themeIconMoon').style.display = theme === 'dark' ? 'none' : '';
-    $('themeIconSun').style.display  = theme === 'dark' ? '' : 'none';
   },
 
   initSidebar() {

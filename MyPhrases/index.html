@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Phrases</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+HK:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/myphrases/static/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-left">
+      <div class="header-brand">
+        <span class="brand-title">My Phrases</span>
+      </div>
+    </div>
+    <div class="header-spacer"></div>
+    <div class="header-right">
+      <input id="searchInput" class="search-input" type="search" placeholder="Search English, Mandarin, Cantonese..." autocomplete="off" />
+      <div class="type-toggle" id="typeToggle">
+        <button class="type-btn active" data-type="all">All</button>
+        <button class="type-btn" data-type="word">Words</button>
+        <button class="type-btn" data-type="sentence">Phrases</button>
+      </div>
+      <select id="sortSelect" class="control-select" title="Sort phrases">
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+        <option value="english_az">English A-Z</option>
+        <option value="english_za">English Z-A</option>
+      </select>
+      <a class="icon-btn" href="/myphrases/static/grammar.html" title="Grammar Reference" aria-label="Grammar Reference">
+        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      </a>
+      <a class="icon-btn" href="/" title="Open Viewer" aria-label="Open Viewer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9 21v-6h6v6"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <div class="filter-bar">
+    <div id="tagPills" class="tag-pills"></div>
+  </div>
+
+  <main class="page-body">
+    <section class="results-card">
+      <div class="results-head">
+        <h1 class="results-title">Phrase List</h1>
+        <div class="results-actions">
+          <button id="repairMissingBtn" class="ghost-btn" type="button" hidden>Repair Missing Mandarin</button>
+          <span id="status" class="muted-sm">Loading...</span>
+        </div>
+      </div>
+      <p class="muted-sm helper">Click a line to play audio from that capture.</p>
+      <div id="list" class="phrase-list"></div>
+    </section>
+  </main>
+
+  <script src="/myphrases/static/app.js"></script>
+</body>
+</html>
