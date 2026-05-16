@@ -553,11 +553,10 @@ video#localVideo {
     <select class="filter-select" id="teacherFilter">
       <option value="">All Teachers</option>
     </select>
-    <select class="filter-select" id="platformFilter">
-      <option value="">All Platforms</option>
-      <option value="YouTube">YouTube (Free)</option>
-      <option value="Bunny">Members</option>
-    </select>
+    <div class="search-wrap">
+      <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input class="search-input" id="searchInput" type="search" placeholder="Search videos…" autocomplete="off">
+    </div>
     <select class="filter-select" id="sourceFilter">
       <option value="">All Sources</option>
       <option value="lazy_chinese">Lazy Chinese</option>
@@ -573,10 +572,6 @@ video#localVideo {
       <option value="30">≤ 30 min</option>
       <option value="30+">30+ min</option>
     </select>
-    <div class="search-wrap">
-      <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input class="search-input" id="searchInput" type="search" placeholder="Search videos…" autocomplete="off">
-    </div>
     <div class="bar-sep"></div>
     <div class="multi-select" id="watchedDropdown">
       <button class="multi-select-trigger" id="watchedTrigger">
@@ -821,7 +816,6 @@ function parseLengthMins(str) {
 function getFiltered() {
   const level    = document.getElementById("levelFilter").value;
   const teacher  = document.getElementById("teacherFilter").value;
-  const platform = document.getElementById("platformFilter").value;
   const source   = document.getElementById("sourceFilter").value;
   const duration = document.getElementById("durationFilter").value;
   const showWatched   = document.getElementById("ckWatched").checked;
@@ -833,7 +827,6 @@ function getFiltered() {
   let res = allVideos.filter(v => {
     if (source   && v.source   !== source)   return false;
     if (level    && v.level    !== level)   return false;
-    if (platform && v.platform !== platform) return false;
     if (teacher  && !v.teacher.split(",").map(t=>t.trim()).includes(teacher)) return false;
     if (search   && !`${v.title} ${v.teacher} ${v.level}`.toLowerCase().includes(search)) return false;
     if (filterByWatch) {
@@ -1465,7 +1458,7 @@ function updateWatchedDropdown() {
   document.getElementById(id).addEventListener("change", updateWatchedDropdown)
 );
 
-["levelFilter","teacherFilter","platformFilter","sourceFilter","durationFilter","sortSelect"].forEach(id =>
+["levelFilter","teacherFilter","sourceFilter","durationFilter","sortSelect"].forEach(id =>
   document.getElementById(id).addEventListener("change", render)
 );
 let debounce;
