@@ -221,6 +221,7 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 }
 .platform-badge.yt    { background: rgba(255,0,0,.82); color: #fff; }
 .platform-badge.bunny { background: rgba(245,158,11,.85); color: #fff; }
+.platform-badge.xg    { background: rgba(34,197,94,.82); color: #fff; }
 .dl-dot {
   position: absolute; top: 5px; right: 5px;
   width: 8px; height: 8px; border-radius: 50%; border: 1.5px solid rgba(0,0,0,.4);
@@ -548,12 +549,6 @@ video#localVideo {
   <div class="filter-bar-inner">
     <select class="filter-select" id="levelFilter">
       <option value="">All Levels</option>
-      <option value="Complete Beginner">Complete Beginner</option>
-      <option value="Beginner">Beginner</option>
-      <option value="Low Intermediate">Low Intermediate</option>
-      <option value="Intermediate">Intermediate</option>
-      <option value="High Intermediate">High Intermediate</option>
-      <option value="Advanced">Advanced</option>
     </select>
     <select class="filter-select" id="teacherFilter">
       <option value="">All Teachers</option>
@@ -562,6 +557,11 @@ video#localVideo {
       <option value="">All Platforms</option>
       <option value="YouTube">YouTube (Free)</option>
       <option value="Bunny">Members</option>
+    </select>
+    <select class="filter-select" id="sourceFilter">
+      <option value="">All Sources</option>
+      <option value="lazy_chinese">Lazy Chinese</option>
+      <option value="xiaogua">Xiao Gua</option>
     </select>
     <select class="filter-select" id="durationFilter">
       <option value="">Any Length</option>
@@ -704,10 +704,14 @@ video#localVideo {
    CONSTANTS
 ══════════════════════════════════════════════════════ */
 const BASE = window.location.pathname.startsWith('/lazy_web_app') ? '/lazy_web_app' : '';
-const LEVEL_ORDER = ["Complete Beginner","Beginner","Low Intermediate","Intermediate","High Intermediate","Advanced"];
+const LEVEL_ORDER = ["Complete Beginner","Super Beginner","Beginner","Advanced Beginner","Low Intermediate","Lower Intermediate","Intermediate","High Intermediate","Upper Intermediate","Advanced"];
 const LEVEL_CLASS = {
-  "Complete Beginner":"lvl-cb","Beginner":"lvl-b","Low Intermediate":"lvl-li",
-  "Intermediate":"lvl-i","High Intermediate":"lvl-hi","Advanced":"lvl-a"
+  "Complete Beginner":"lvl-cb","Super Beginner":"lvl-cb",
+  "Beginner":"lvl-b","Advanced Beginner":"lvl-b",
+  "Low Intermediate":"lvl-li","Lower Intermediate":"lvl-li",
+  "Intermediate":"lvl-i",
+  "High Intermediate":"lvl-hi","Upper Intermediate":"lvl-hi",
+  "Advanced":"lvl-a"
 };
 const LEVEL_BG = {
   "Complete Beginner":"linear-gradient(135deg,#1e3a5f,#1b3d6e)",
@@ -740,13 +744,18 @@ let englishPromise = null;
 async function boot() {
   await migrateLocalStorage();
   try {
-    const [catalog, ws] = await Promise.all([
+    const [catalog, xgCatalog, ws] = await Promise.all([
       fetch(`${BASE}/api/catalog`).then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); }),
+      fetch(`${BASE}/api/xiaogua/catalog`).then(r => r.ok ? r.json() : []).catch(() => []),
       fetch(`${BASE}/api/watch-state`).then(r => r.json()),
     ]);
     watchState = ws;
-    allVideos  = catalog;
+    allVideos  = [
+      ...catalog.map(v => ({ ...v, source: "lazy_chinese" })),
+      ...xgCatalog,
+    ];
     populateTeachers();
+    populateLevels();
     document.getElementById("loadingState").style.display = "none";
     render();
   } catch (err) {
@@ -786,6 +795,18 @@ function populateTeachers() {
   });
 }
 
+function populateLevels() {
+  const seen = new Set(allVideos.map(v => v.level).filter(Boolean));
+  const ordered = LEVEL_ORDER.filter(l => seen.has(l));
+  [...seen].filter(l => !LEVEL_ORDER.includes(l)).forEach(l => ordered.push(l));
+  const sel = document.getElementById("levelFilter");
+  ordered.forEach(l => {
+    const opt = document.createElement("option");
+    opt.value = l; opt.textContent = l;
+    sel.appendChild(opt);
+  });
+}
+
 /* ══════════════════════════════════════════════════════
    BROWSE — FILTER & RENDER
 ══════════════════════════════════════════════════════ */
@@ -801,6 +822,7 @@ function getFiltered() {
   const level    = document.getElementById("levelFilter").value;
   const teacher  = document.getElementById("teacherFilter").value;
   const platform = document.getElementById("platformFilter").value;
+  const source   = document.getElementById("sourceFilter").value;
   const duration = document.getElementById("durationFilter").value;
   const showWatched   = document.getElementById("ckWatched").checked;
   const showUnwatched = document.getElementById("ckUnwatched").checked;
@@ -809,6 +831,7 @@ function getFiltered() {
   const sort     = document.getElementById("sortSelect").value;
 
   let res = allVideos.filter(v => {
+    if (source   && v.source   !== source)   return false;
     if (level    && v.level    !== level)   return false;
     if (platform && v.platform !== platform) return false;
     if (teacher  && !v.teacher.split(",").map(t=>t.trim()).includes(teacher)) return false;
@@ -875,9 +898,11 @@ function buildCard(v) {
   const thumbWrap = document.createElement("div");
   thumbWrap.className = "thumb-wrap";
 
-  const thumbUrl = isYT
-    ? `https://i.ytimg.com/vi_webp/${v.id}/maxresdefault.webp`
-    : `https://cdn.lazychinese.com/bunny_thumbnails/812/${v.id}.webp`;
+  const thumbUrl = v.source === "xiaogua" && v.youtubeId
+    ? `https://i.ytimg.com/vi_webp/${v.youtubeId}/maxresdefault.webp`
+    : isYT
+      ? `https://i.ytimg.com/vi_webp/${v.id}/maxresdefault.webp`
+      : `https://cdn.lazychinese.com/bunny_thumbnails/812/${v.id}.webp`;
 
   const img = document.createElement("img");
   img.alt = v.title; img.className = "loading";
@@ -898,8 +923,13 @@ function buildCard(v) {
     thumbWrap.appendChild(wb);
   }
   const plat = document.createElement("div");
-  plat.className = "platform-badge " + (isYT ? "yt" : "bunny");
-  plat.textContent = isYT ? "YT" : "MB";
+  if (v.source === "xiaogua") {
+    plat.className = "platform-badge xg";
+    plat.textContent = "XG";
+  } else {
+    plat.className = "platform-badge " + (isYT ? "yt" : "bunny");
+    plat.textContent = isYT ? "YT" : "MB";
+  }
   thumbWrap.appendChild(plat);
 
   if (isDL || isPartial) {
@@ -1049,7 +1079,10 @@ async function setupPlayer(v) {
     vid.addEventListener("timeupdate", onTimeUpdate);
     document.getElementById("videoControls").classList.add("active");
     try {
-      const data = await fetch(`${BASE}/api/video-url/${v.id}`).then(r => r.json());
+      const urlPath = v.source === "xiaogua"
+        ? `${BASE}/api/xiaogua/video-url/${v.id}`
+        : `${BASE}/api/video-url/${v.id}`;
+      const data = await fetch(urlPath).then(r => r.json());
       vid.src = data.url;
       vid.load();
       document.getElementById('vcFill').style.width = '0%';
@@ -1058,8 +1091,9 @@ async function setupPlayer(v) {
     } catch (err) {
       console.error("Could not get video URL:", err);
     }
-  } else if (v.platform === "YouTube") {
-    frame.src = `https://www.youtube.com/embed/${v.id}?autoplay=1&rel=0`;
+  } else if (v.platform === "YouTube" || (v.source === "xiaogua" && v.youtubeId)) {
+    const ytId = v.platform === "YouTube" ? v.id : v.youtubeId;
+    frame.src = `https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0`;
     frame.style.display = "block";
     vid.style.display = "none"; vid.src = "";
     document.getElementById("videoControls").classList.remove("active");
@@ -1431,7 +1465,7 @@ function updateWatchedDropdown() {
   document.getElementById(id).addEventListener("change", updateWatchedDropdown)
 );
 
-["levelFilter","teacherFilter","platformFilter","durationFilter","sortSelect"].forEach(id =>
+["levelFilter","teacherFilter","platformFilter","sourceFilter","durationFilter","sortSelect"].forEach(id =>
   document.getElementById(id).addEventListener("change", render)
 );
 let debounce;

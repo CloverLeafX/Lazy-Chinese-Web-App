@@ -1,0 +1,12 @@
+# Auth / secrets
+cookies.txt
+
+# Large video files
+videos/
+
+# Runtime state
+progress.json
+download.log
+
+# Docs and scripts not needed on Railway
+docs/

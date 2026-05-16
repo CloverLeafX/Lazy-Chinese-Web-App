@@ -28,8 +28,11 @@ PORT           = int(os.environ.get("PORT", 8802))
 
 TRACKER_PATH   = LAZY_CHINESE / "download_tracker.json"
 WATCH_STATE    = DATA_DIR / "watch_state.json"
-ONEDRIVE_INDEX = DATA_DIR / "onedrive_index.json"
-TOKENS_PATH    = DATA_DIR / "tokens.json"
+ONEDRIVE_INDEX   = DATA_DIR / "onedrive_index.json"
+TOKENS_PATH      = DATA_DIR / "tokens.json"
+XIAOGUA_DIR      = HERE.parent / "xiaogua"
+XIAOGUA_INDEX    = XIAOGUA_DIR / "data" / "video_index.json"
+XIAOGUA_OD_INDEX = XIAOGUA_DIR / "data" / "onedrive_index.json"
 
 MS_CLIENT_ID    = os.environ.get("MS_CLIENT_ID", "")
 MS_TENANT_ID    = os.environ.get("MS_TENANT_ID", "")
@@ -361,6 +364,45 @@ def api_watch_state_delete(video_id):
 def api_video_url(video_id):
     idx = _load_onedrive_index()
     entry = idx.get(video_id)
+    if not entry or not entry.get("mp4_id"):
+        abort(404)
+    try:
+        url = _graph_download_url(entry["mp4_id"])
+        return jsonify({"url": url})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 502
+
+@lazy_bp.route("/api/xiaogua/catalog")
+@login_required
+def api_xiaogua_catalog():
+    if not XIAOGUA_INDEX.exists():
+        return jsonify([])
+    videos = json.loads(XIAOGUA_INDEX.read_text())
+    od_idx = json.loads(XIAOGUA_OD_INDEX.read_text()) if XIAOGUA_OD_INDEX.exists() else {}
+    result = []
+    for v in videos:
+        slug = v.get("slug", "")
+        mins = v.get("minutes") or 0
+        result.append({
+            "id":         slug,
+            "title":      v.get("title", ""),
+            "level":      v.get("level", ""),
+            "teacher":    ", ".join(v.get("teachers", [])),
+            "platform":   "",
+            "length":     f"{mins}:00",
+            "uploadDate": v.get("date", ""),
+            "video_done": bool(od_idx.get(slug, {}).get("mp4_id")),
+            "source":     "xiaogua",
+            "youtubeId":  v.get("youtubeId", ""),
+            "access":     v.get("access", ""),
+        })
+    return jsonify(result)
+
+@lazy_bp.route("/api/xiaogua/video-url/<slug>")
+@login_required
+def api_xiaogua_video_url(slug):
+    od_idx = json.loads(XIAOGUA_OD_INDEX.read_text()) if XIAOGUA_OD_INDEX.exists() else {}
+    entry  = od_idx.get(slug)
     if not entry or not entry.get("mp4_id"):
         abort(404)
     try:
