@@ -700,6 +700,14 @@ video#localVideo {
 ══════════════════════════════════════════════════════ */
 const BASE = window.location.pathname.startsWith('/lazy_web_app') ? '/lazy_web_app' : '';
 const LEVEL_ORDER = ["Complete Beginner","Super Beginner","Beginner","Advanced Beginner","Low Intermediate","Lower Intermediate","Intermediate","High Intermediate","Upper Intermediate","Advanced"];
+const LEVEL_GROUPS = [
+  { label: "Complete Beginner", raw: ["Complete Beginner","Super Beginner"] },
+  { label: "Beginner",          raw: ["Beginner","Advanced Beginner"] },
+  { label: "Low Intermediate",  raw: ["Low Intermediate","Lower Intermediate"] },
+  { label: "Intermediate",      raw: ["Intermediate"] },
+  { label: "High Intermediate", raw: ["High Intermediate","Upper Intermediate"] },
+  { label: "Advanced",          raw: ["Advanced"] },
+];
 const LEVEL_CLASS = {
   "Complete Beginner":"lvl-cb","Super Beginner":"lvl-cb",
   "Beginner":"lvl-b","Advanced Beginner":"lvl-b",
@@ -792,13 +800,13 @@ function populateTeachers() {
 
 function populateLevels() {
   const seen = new Set(allVideos.map(v => v.level).filter(Boolean));
-  const ordered = LEVEL_ORDER.filter(l => seen.has(l));
-  [...seen].filter(l => !LEVEL_ORDER.includes(l)).forEach(l => ordered.push(l));
   const sel = document.getElementById("levelFilter");
-  ordered.forEach(l => {
-    const opt = document.createElement("option");
-    opt.value = l; opt.textContent = l;
-    sel.appendChild(opt);
+  LEVEL_GROUPS.forEach(g => {
+    if (g.raw.some(r => seen.has(r))) {
+      const opt = document.createElement("option");
+      opt.value = g.label; opt.textContent = g.label;
+      sel.appendChild(opt);
+    }
   });
 }
 
@@ -826,7 +834,7 @@ function getFiltered() {
 
   let res = allVideos.filter(v => {
     if (source   && v.source   !== source)   return false;
-    if (level    && v.level    !== level)   return false;
+    if (level) { const g = LEVEL_GROUPS.find(g => g.label === level); if (!(g ? g.raw.includes(v.level) : v.level === level)) return false; }
     if (teacher  && !v.teacher.split(",").map(t=>t.trim()).includes(teacher)) return false;
     if (search   && !`${v.title} ${v.teacher} ${v.level}`.toLowerCase().includes(search)) return false;
     if (filterByWatch) {
