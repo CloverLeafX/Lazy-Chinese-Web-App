@@ -13,7 +13,7 @@ load_dotenv(Path(__file__).parent.parent / ".env")   # root — shared keys
 load_dotenv(Path(__file__).parent / ".env")           # local — app-specific overrides
 
 import requests as _req
-from flask import (Blueprint, Flask, abort, jsonify, redirect,
+from flask import (Blueprint, Flask, Response, abort, jsonify, redirect,
                    request, send_file, session as flask_session, url_for)
 from flask_cors import CORS
 
@@ -408,6 +408,39 @@ def api_xiaogua_video_url(slug):
     try:
         url = _graph_download_url(entry["mp4_id"])
         return jsonify({"url": url})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 502
+
+# Cache XG download URLs to avoid repeated Graph API calls on every range request
+_xg_url_cache: dict = {}  # slug -> (url, expires_at)
+
+@lazy_bp.route("/api/xiaogua/stream/<slug>")
+@login_required
+def api_xiaogua_stream(slug):
+    """Proxy XG video through Railway to avoid SharePoint browser-auth issues."""
+    od_idx = json.loads(XIAOGUA_OD_INDEX.read_text()) if XIAOGUA_OD_INDEX.exists() else {}
+    entry  = od_idx.get(slug)
+    if not entry or not entry.get("mp4_id"):
+        abort(404)
+    try:
+        now = time.time()
+        cached = _xg_url_cache.get(slug)
+        if cached and cached[1] > now:
+            download_url = cached[0]
+        else:
+            download_url = _graph_download_url(entry["mp4_id"])
+            _xg_url_cache[slug] = (download_url, now + 1800)  # 30-min cache
+        range_hdr = request.headers.get("Range")
+        req_hdrs  = {"Range": range_hdr} if range_hdr else {}
+        r = _req.get(download_url, headers=req_hdrs, stream=True, timeout=60)
+        resp_hdrs = {}
+        for h in ("Content-Type", "Content-Length", "Content-Range",
+                  "Accept-Ranges", "ETag", "Last-Modified"):
+            if h in r.headers:
+                resp_hdrs[h] = r.headers[h]
+        resp_hdrs.setdefault("Accept-Ranges", "bytes")
+        return Response(r.iter_content(chunk_size=65536),
+                        status=r.status_code, headers=resp_hdrs)
     except Exception as e:
         return jsonify({"error": str(e)}), 502
 

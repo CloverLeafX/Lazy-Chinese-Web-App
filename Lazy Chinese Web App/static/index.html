@@ -1086,20 +1086,26 @@ async function setupPlayer(v) {
     vid.removeEventListener("timeupdate", onTimeUpdate);
     vid.addEventListener("timeupdate", onTimeUpdate);
     document.getElementById("videoControls").classList.add("active");
-    try {
-      const urlPath = v.source === "xiaogua"
-        ? `${BASE}/api/xiaogua/video-url/${v.id}`
-        : `${BASE}/api/video-url/${v.id}`;
-      const r = await fetch(urlPath);
-      const data = await r.json();
-      if (!r.ok || !data.url) throw new Error(data.error || "No URL returned");
-      vid.src = data.url;
+    if (v.source === "xiaogua") {
+      // Stream through Railway proxy — avoids SharePoint browser-auth redirect
+      vid.src = `${BASE}/api/xiaogua/stream/${v.id}`;
       vid.load();
       document.getElementById('vcFill').style.width = '0%';
       document.getElementById('vcBuffer').style.width = '0%';
       document.getElementById('vcTime').textContent = '0:00 / 0:00';
-    } catch (err) {
-      console.error("Could not get video URL:", err);
+    } else {
+      try {
+        const r = await fetch(`${BASE}/api/video-url/${v.id}`);
+        const data = await r.json();
+        if (!r.ok || !data.url) throw new Error(data.error || "No URL returned");
+        vid.src = data.url;
+        vid.load();
+        document.getElementById('vcFill').style.width = '0%';
+        document.getElementById('vcBuffer').style.width = '0%';
+        document.getElementById('vcTime').textContent = '0:00 / 0:00';
+      } catch (err) {
+        console.error("Could not get video URL:", err);
+      }
     }
   } else if (v.platform === "YouTube" || (v.source === "xiaogua" && v.youtubeId)) {
     const ytId = v.platform === "YouTube" ? v.id : v.youtubeId;
