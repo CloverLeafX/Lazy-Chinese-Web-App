@@ -383,6 +383,7 @@ def api_xiaogua_catalog():
     for v in videos:
         slug = v.get("slug", "")
         mins = v.get("minutes") or 0
+        od_entry = od_idx.get(slug, {})
         result.append({
             "id":         slug,
             "title":      v.get("title", ""),
@@ -391,7 +392,8 @@ def api_xiaogua_catalog():
             "platform":   "",
             "length":     f"{mins}:00",
             "uploadDate": v.get("date", ""),
-            "video_done": bool(od_idx.get(slug, {}).get("mp4_id")),
+            "video_done": bool(od_entry.get("mp4_id")),
+            "codec":      od_entry.get("codec", ""),
             "source":     "xiaogua",
             "youtubeId":  v.get("youtubeId", ""),
             "access":     v.get("access", ""),
