@@ -1,8 +1,9 @@
 # Auth / secrets
 cookies.txt
 
-# Large video files
-videos/
+# Large video files (SRT files ARE committed — needed for Railway subtitles)
+videos/**/*.mp4
+**/.DS_Store
 
 # Runtime state
 progress.json
