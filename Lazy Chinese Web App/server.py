@@ -89,7 +89,7 @@ lazy_bp = Blueprint("lazy", __name__)
 def login_required(f):
     @wraps(f)
     def decorated(*args, **kwargs):
-        if not flask_session.get("logged_in"):
+        if AUTH_PASSWORD and not flask_session.get("logged_in"):
             return redirect(url_for("lazy.login"))
         return f(*args, **kwargs)
     return decorated
