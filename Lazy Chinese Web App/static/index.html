@@ -1582,6 +1582,14 @@ document.addEventListener("keydown", e => {
     bufferingOverlay.classList.remove('active');
   });
 
+  // Clear buffering overlay if the stream fails (no YouTube fallback — OneDrive only)
+  vid.addEventListener('error', () => {
+    if (stalledPause) {
+      stalledPause = false;
+      bufferingOverlay.classList.remove('active');
+    }
+  });
+
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
   vid.addEventListener('pause', () => { if (!stalledPause) btnPlay.innerHTML = PLAY_SVG; });
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
