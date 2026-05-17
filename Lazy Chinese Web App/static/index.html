@@ -1160,7 +1160,10 @@ function parseSRT(raw) {
     if (!timeLine) return null;
     const m = timeLine.match(/(\d{2}:\d{2}:\d{2}[,\.]\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2}[,\.]\d{3})/);
     if (!m) return null;
-    const text = lines.slice(lines.indexOf(timeLine)+1).join(" ").trim();
+    const textLines = lines.slice(lines.indexOf(timeLine)+1);
+    // Strip pinyin-only lines (no CJK characters) — XG SRTs embed pinyin on a second line
+    const cjkLines = textLines.filter(l => /[\u4e00-\u9fff\u3400-\u4dbf\uff00-\uffef]/.test(l));
+    const text = (cjkLines.length ? cjkLines : textLines).join(" ").trim();
     if (!text) return null;
     return { start: toSec(m[1]), end: toSec(m[2]), text };
   }).filter(Boolean);
