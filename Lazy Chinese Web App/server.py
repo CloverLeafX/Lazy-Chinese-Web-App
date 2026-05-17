@@ -433,6 +433,25 @@ def subtitle(video_id):
         except Exception:
             pass
 
+    # ── Xiaogua: look for local SRT in xiaogua/videos/{level}/{slug}/
+    if XIAOGUA_INDEX.exists():
+        xg_videos = json.loads(XIAOGUA_INDEX.read_text())
+        xg_entry  = next((v for v in xg_videos if v.get("slug") == video_id), None)
+        if xg_entry:
+            level    = xg_entry.get("level", "")
+            slug     = video_id
+            base_dir = XIAOGUA_DIR / "videos" / level / slug
+            # simplified: prefer zh-Hans, fall back to zh
+            # traditional: prefer zh, fall back to zh-Hans
+            if script == "traditional":
+                candidates = [f"{slug}.zh.srt", f"{slug}.zh-Hans.srt"]
+            else:
+                candidates = [f"{slug}.zh-Hans.srt", f"{slug}.zh.srt"]
+            for fname in candidates:
+                path = base_dir / fname
+                if path.exists():
+                    return path.read_text(encoding="utf-8"), 200, {"Content-Type": "text/plain; charset=utf-8"}
+
     abort(404)
 
 
