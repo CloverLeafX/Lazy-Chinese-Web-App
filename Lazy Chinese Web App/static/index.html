@@ -1088,7 +1088,9 @@ async function setupPlayer(v) {
       const urlPath = v.source === "xiaogua"
         ? `${BASE}/api/xiaogua/video-url/${v.id}`
         : `${BASE}/api/video-url/${v.id}`;
-      const data = await fetch(urlPath).then(r => r.json());
+      const r = await fetch(urlPath);
+      const data = await r.json();
+      if (!r.ok || !data.url) throw new Error(data.error || "No URL returned");
       vid.src = data.url;
       vid.load();
       document.getElementById('vcFill').style.width = '0%';
@@ -1096,6 +1098,13 @@ async function setupPlayer(v) {
       document.getElementById('vcTime').textContent = '0:00 / 0:00';
     } catch (err) {
       console.error("Could not get video URL:", err);
+      // For XG videos, fall back to YouTube embed if OneDrive streaming fails
+      if (v.source === "xiaogua" && v.youtubeId) {
+        vid.style.display = "none"; vid.src = "";
+        document.getElementById("videoControls").classList.remove("active");
+        frame.src = `https://www.youtube.com/embed/${v.youtubeId}?autoplay=1&rel=0`;
+        frame.style.display = "block";
+      }
     }
   } else if (v.platform === "YouTube" || (v.source === "xiaogua" && v.youtubeId)) {
     const ytId = v.platform === "YouTube" ? v.id : v.youtubeId;
@@ -1575,6 +1584,20 @@ document.addEventListener("keydown", e => {
     bufferingOverlay.classList.remove('active');
   });
 
+  // For XG videos: if the video element errors (e.g. OneDrive URL fails),
+  // fall back to YouTube embed automatically.
+  vid.addEventListener('error', () => {
+    if (currentVideo?.source === "xiaogua" && currentVideo?.youtubeId && vid.src && !vid.src.endsWith('/')) {
+      console.warn("XG video error – falling back to YouTube embed");
+      bufferingOverlay.classList.remove('active');
+      stalledPause = false;
+      vid.style.display = "none"; vid.src = "";
+      document.getElementById("videoControls").classList.remove("active");
+      const frame = document.getElementById("remoteFrame");
+      frame.src = `https://www.youtube.com/embed/${currentVideo.youtubeId}?autoplay=1&rel=0`;
+      frame.style.display = "block";
+    }
+  });
   vid.addEventListener('play',  () => btnPlay.innerHTML = PAUSE_SVG);
   vid.addEventListener('pause', () => { if (!stalledPause) btnPlay.innerHTML = PLAY_SVG; });
   vid.addEventListener('volumechange', () => btnMute.innerHTML = vid.muted ? MUTE_SVG : VOL_SVG);
