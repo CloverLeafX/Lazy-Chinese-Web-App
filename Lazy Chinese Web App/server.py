@@ -569,13 +569,19 @@ def api_stats():
     _ensure_catalog()
     catalog = {v["id"]: v for v in _catalog}
     if XIAOGUA_INDEX.exists():
+        _XG_LEVEL = {
+            "Super Beginner":    "Complete Beginner",
+            "Advanced Beginner": "Beginner",
+            "Lower Intermediate": "Low Intermediate",
+            "Upper Intermediate": "High Intermediate",
+        }
         for v in json.loads(XIAOGUA_INDEX.read_text()):
             slug = v.get("slug", "")
             if slug and slug not in catalog:
                 catalog[slug] = {
                     "id":    slug,
                     "title": v.get("title", ""),
-                    "level": v.get("level", ""),
+                    "level": _XG_LEVEL.get(v.get("level", ""), v.get("level", "")),
                     "length": f"{v.get('minutes') or 0}:00",
                 }
 
