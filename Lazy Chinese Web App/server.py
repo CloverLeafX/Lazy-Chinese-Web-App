@@ -568,6 +568,16 @@ def api_stats():
     state   = _load_watch_state()
     _ensure_catalog()
     catalog = {v["id"]: v for v in _catalog}
+    if XIAOGUA_INDEX.exists():
+        for v in json.loads(XIAOGUA_INDEX.read_text()):
+            slug = v.get("slug", "")
+            if slug and slug not in catalog:
+                catalog[slug] = {
+                    "id":    slug,
+                    "title": v.get("title", ""),
+                    "level": v.get("level", ""),
+                    "length": f"{v.get('minutes') or 0}:00",
+                }
 
     def to_sydney(dt_str):
         if not dt_str:
