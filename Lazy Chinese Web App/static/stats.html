@@ -347,6 +347,7 @@ let activeTab = 'day';
 let countChartObj = null;
 let minsChartObj  = null;
 let cumulChartObj = null;
+let levelChartObj = null;
 
 const baseScales = {
   x: { stacked: true, grid: { color: 'rgba(46,51,80,0.5)' }, ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, maxRotation: 45 } },
@@ -517,13 +518,14 @@ function renderCumulChart(bucket, keys, labels) {
 }
 
 function renderLevelChart() {
+  if (levelChartObj) levelChartObj.destroy();
   const lvls = statsData.by_level;
   const ordered = LEVEL_ORDER.filter(l => lvls[l]);
   const labels  = ordered.map(l => LEVEL_SHORT[l]);
   const data    = ordered.map(l => lvls[l]);
   const colors  = ordered.map(l => LEVEL_COLORS[l] || '#6c8ef7');
 
-  new Chart(document.getElementById('levelChart'), {
+  levelChartObj = new Chart(document.getElementById('levelChart'), {
     type: 'doughnut',
     data: { labels, datasets: [{ data, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5 }] },
     options: {
