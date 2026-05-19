@@ -367,26 +367,41 @@ _YT_LEVELS = [
 ]
 
 def _fetch_yt_meta(video_id: str) -> dict:
-    """Scrape title and duration from a public YouTube page (no API key)."""
+    """Fetch title via oEmbed and duration via page scrape (no API key)."""
+    title  = ""
+    length = ""
+    # Title via oEmbed — reliable, no scraping required
+    try:
+        r = _req.get(
+            f"https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={video_id}&format=json",
+            timeout=10,
+        )
+        if r.ok:
+            title = r.json().get("title", "")
+    except Exception:
+        pass
+    # Duration via page scrape
     try:
         r = _req.get(
             f"https://www.youtube.com/watch?v={video_id}",
             timeout=10,
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
         )
-        r.raise_for_status()
-        pg = r.text
-        title_m = re.search(r'<meta property="og:title" content="([^"]*)"', pg)
-        title = _html.unescape(title_m.group(1)) if title_m else ""
-        dur_m = re.search(r'"lengthSeconds":"(\d+)"', pg)
-        if dur_m:
-            secs = int(dur_m.group(1))
-            length = f"{secs // 60}:{secs % 60:02d}"
-        else:
-            length = ""
-        return {"title": title, "length": length}
-    except Exception as exc:
-        return {"title": "", "length": "", "error": str(exc)}
+        if r.ok:
+            pg = r.text
+            if not title:
+                m = re.search(r'<meta property="og:title" content="([^"]*)"', pg)
+                if m:
+                    title = _html.unescape(m.group(1))
+            for pat in (r'"lengthSeconds":"(\d+)"', r'"length_seconds":"(\d+)"'):
+                dur_m = re.search(pat, pg)
+                if dur_m:
+                    secs   = int(dur_m.group(1))
+                    length = f"{secs // 60}:{secs % 60:02d}"
+                    break
+    except Exception:
+        pass
+    return {"title": title, "length": length}
 
 @lazy_bp.route("/api/yt-entry", methods=["POST"])
 @login_required
