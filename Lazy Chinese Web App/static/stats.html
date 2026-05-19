@@ -548,33 +548,94 @@ function renderRecent() {
   const tbody = document.getElementById('recentBody');
   tbody.innerHTML = '';
   rows.forEach(r => {
-    const tr = document.createElement('tr');
+    const dataRow = document.createElement('tr');
+    dataRow.id = `row-${CSS.escape(r.id)}`;
     const lvlClass = LEVEL_CLASS[r.level] || '';
     const mins = r.length_mins ? `${Math.round(r.length_mins)} min` : '—';
     const watchBadge = r.watchCount > 1 ? ` <span style="font-size:11px;color:var(--accent);font-weight:700">×${r.watchCount}</span>` : '';
     const ytIcon = r.is_yt ? ' <span title="YouTube" style="font-size:10px;color:#f00;font-weight:700">YT</span>' : '';
-    tr.innerHTML = `
-      <td style="max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}${ytIcon}${watchBadge}</td>
+    dataRow.innerHTML = `
+      <td style="max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}${ytIcon}${watchBadge}</td>
       <td><span class="level-badge ${lvlClass}">${r.level || '—'}</span></td>
       <td style="color:var(--muted)">${mins}</td>
       <td style="color:var(--muted);white-space:nowrap">${r.watchedAt}</td>
-      <td style="width:28px;text-align:center">
-        <button onclick="removeEntry('${r.id}')" title="Remove from history"
+      <td style="width:56px;text-align:right;white-space:nowrap">
+        <button onclick="startEdit('${r.id}','${(r.length_mins ? Math.round(r.length_mins) + ':00' : '')}','${r.watchedAt}',${r.is_yt})" title="Edit"
+          style="background:none;border:none;cursor:pointer;color:var(--muted);font-size:12px;padding:2px 4px;border-radius:4px"
+          onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">✎</button>
+        <button onclick="removeEntry('${r.id}')" title="Remove"
           style="background:none;border:none;cursor:pointer;color:var(--muted);font-size:15px;line-height:1;padding:2px 4px;border-radius:4px"
           onmouseover="this.style.color='var(--red)'" onmouseout="this.style.color='var(--muted)'">×</button>
       </td>
     `;
-    tbody.appendChild(tr);
+    tbody.appendChild(dataRow);
+    // Edit row (hidden by default)
+    const editRow = document.createElement('tr');
+    editRow.id = `edit-${CSS.escape(r.id)}`;
+    editRow.style.display = 'none';
+    editRow.innerHTML = `
+      <td colspan="5" style="padding:8px 10px; background:var(--surface2)">
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+          ${r.is_yt ? `<label style="font-size:12px;color:var(--muted)">Length <input id="el-${r.id}" type="text" placeholder="MM:SS" style="width:80px;background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:var(--ff);font-size:12px;border-radius:4px;padding:3px 6px;margin-left:4px"></label>` : ''}
+          <label style="font-size:12px;color:var(--muted)">Watched At <input id="ea-${r.id}" type="datetime-local" style="background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:var(--ff);font-size:12px;border-radius:4px;padding:3px 6px;margin-left:4px"></label>
+          <button onclick="saveEdit('${r.id}',${r.is_yt})" style="background:var(--accent);border:none;color:#fff;font-family:var(--ff);font-size:12px;font-weight:700;padding:4px 12px;border-radius:4px;cursor:pointer">Save</button>
+          <button onclick="cancelEdit('${r.id}')" style="background:none;border:1px solid var(--border);color:var(--muted);font-family:var(--ff);font-size:12px;padding:4px 10px;border-radius:4px;cursor:pointer">Cancel</button>
+        </div>
+      </td>
+    `;
+    tbody.appendChild(editRow);
   });
   const wrap = document.getElementById('showMoreWrap');
   const btn  = document.getElementById('showMoreBtn');
   if (all.length > RECENT_INITIAL) {
     wrap.style.display = '';
-    btn.textContent = showAllRecent
-      ? `Show less`
-      : `Show all ${all.length} entries`;
+    btn.textContent = showAllRecent ? `Show less` : `Show all ${all.length} entries`;
   } else {
     wrap.style.display = 'none';
+  }
+}
+
+function startEdit(id, lengthStr, watchedAt, isYt) {
+  document.getElementById(`edit-${CSS.escape(id)}`).style.display = '';
+  document.getElementById(`row-${CSS.escape(id)}`).style.opacity = '0.4';
+  const lenEl = document.getElementById(`el-${id}`);
+  if (lenEl) {
+    // convert "MM min" display back to "MM:SS"
+    const rawMins = parseFloat(lengthStr);
+    lenEl.value = rawMins ? `${Math.floor(rawMins)}:00` : '';
+  }
+  const atEl = document.getElementById(`ea-${id}`);
+  if (atEl && watchedAt) {
+    // Convert "YYYY-MM-DD HH:MM" → datetime-local value "YYYY-MM-DDTHH:MM"
+    atEl.value = watchedAt.replace(' ', 'T');
+  }
+}
+
+function cancelEdit(id) {
+  document.getElementById(`edit-${CSS.escape(id)}`).style.display = 'none';
+  document.getElementById(`row-${CSS.escape(id)}`).style.opacity = '';
+}
+
+async function saveEdit(id, isYt) {
+  const body = {};
+  const atEl = document.getElementById(`ea-${id}`);
+  if (atEl && atEl.value) body.watchedAt = atEl.value.replace('T', ' ');
+  if (isYt) {
+    const lenEl = document.getElementById(`el-${id}`);
+    if (lenEl && lenEl.value) {
+      body._yt = { length: lenEl.value };
+    }
+  }
+  try {
+    await fetch(`${BASE}/api/watch-state/${encodeURIComponent(id)}`, {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    statsData = await fetch(`${BASE}/api/stats`).then(r => r.json());
+    renderKPIs(); renderTab(activeTab); renderLevelChart(); renderRecent();
+  } catch(err) {
+    alert('Save failed: ' + err.message);
   }
 }
 

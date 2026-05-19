@@ -343,10 +343,17 @@ def api_watch_state_patch(video_id):
     """Directly set fields on a watch-state entry without side-effects (e.g. no watchCount increment)."""
     body  = request.get_json(force=True) or {}
     state = _load_watch_state()
-    entry = state.get(video_id, {})
+    entry = state.get(video_id, {}) if video_id in state else {}
     for field in ("watched", "watchedAt", "watchCount", "lastPosition"):
         if field in body:
             entry[field] = body[field]
+    # Allow patching _yt sub-fields (title, level, length)
+    if "_yt" in body and isinstance(body.get("_yt"), dict):
+        yt = entry.get("_yt", {})
+        for k in ("title", "level", "length", "youtubeId"):
+            if k in body["_yt"]:
+                yt[k] = body["_yt"][k]
+        entry["_yt"] = yt
     state[video_id] = entry
     _save_watch_state(state)
     return jsonify({"ok": True})
@@ -367,10 +374,24 @@ _YT_LEVELS = [
 ]
 
 def _fetch_yt_meta(video_id: str) -> dict:
-    """Fetch title via oEmbed and duration via page scrape (no API key)."""
+    """Fetch title and duration via yt-dlp (falls back to oEmbed for title)."""
     title  = ""
     length = ""
-    # Title via oEmbed — reliable, no scraping required
+    # Try yt-dlp first — most reliable
+    try:
+        import yt_dlp
+        ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True,
+                    "youtube_include_dash_manifest": False, "extract_flat": False}
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
+        title = info.get("title", "")
+        secs  = int(info.get("duration") or 0)
+        if secs:
+            length = f"{secs // 60}:{secs % 60:02d}"
+        return {"title": title, "length": length}
+    except Exception:
+        pass
+    # Fallback: oEmbed for title, page scrape for duration
     try:
         r = _req.get(
             f"https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={video_id}&format=json",
@@ -380,7 +401,6 @@ def _fetch_yt_meta(video_id: str) -> dict:
             title = r.json().get("title", "")
     except Exception:
         pass
-    # Duration via page scrape
     try:
         r = _req.get(
             f"https://www.youtube.com/watch?v={video_id}",
