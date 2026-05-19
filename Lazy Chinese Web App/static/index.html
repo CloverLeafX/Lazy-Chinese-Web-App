@@ -782,6 +782,12 @@ async function boot() {
     populateLevels();
     document.getElementById("loadingState").style.display = "none";
     render();
+    // Auto-play a video if ?play=ID in URL
+    const playId = new URLSearchParams(window.location.search).get('play');
+    if (playId) {
+      const v = allVideos.find(x => x.id === playId);
+      if (v) openWatch(v);
+    }
   } catch (err) {
     document.getElementById("loadingState").style.display = "none";
     const el = document.getElementById("errorBanner");

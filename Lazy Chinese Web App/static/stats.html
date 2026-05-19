@@ -188,7 +188,28 @@ body {
   font-size: 13px; display: none;
 }
 
-/* ── YouTube entry form ── */
+/* ── YouTube overlay ── */
+.yt-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.82); z-index: 1000;
+  align-items: center; justify-content: center;
+}
+.yt-overlay.open { display: flex; }
+.yt-overlay-inner {
+  position: relative;
+  width: min(90vw, 900px);
+  background: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0,0,0,.6);
+}
+.yt-overlay-inner iframe { display: block; width: 100%; aspect-ratio: 16/9; border: 0; }
+.yt-overlay-close {
+  position: absolute; top: 8px; right: 10px;
+  background: rgba(0,0,0,.6); border: none; cursor: pointer;
+  color: #fff; font-size: 20px; line-height: 1; padding: 4px 8px;
+  border-radius: 4px; z-index: 10;
+}
 .yt-form {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -326,6 +347,14 @@ body {
   <div class="spinner"></div> Loading stats…
 </div>
 <div class="error-banner" id="errorBanner"></div>
+
+<!-- YouTube embed overlay -->
+<div class="yt-overlay" id="ytOverlay" onclick="closeYtOverlay(event)">
+  <div class="yt-overlay-inner">
+    <button class="yt-overlay-close" onclick="closeYtOverlay(null)">✕</button>
+    <iframe id="ytFrame" src="" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+  </div>
+</div>
 
 <script>
 const BASE = window.location.pathname.startsWith('/lazy_web_app') ? '/lazy_web_app' : '';
@@ -559,7 +588,10 @@ function renderRecent() {
       <td><span class="level-badge ${lvlClass}">${r.level || '—'}</span></td>
       <td style="color:var(--muted)">${mins}</td>
       <td style="color:var(--muted);white-space:nowrap">${r.watchedAt}</td>
-      <td style="width:56px;text-align:right;white-space:nowrap">
+      <td style="width:80px;text-align:right;white-space:nowrap">
+        <button onclick="playAgain('${r.id}',${r.is_yt})" title="Play again"
+          style="background:none;border:none;cursor:pointer;color:var(--muted);font-size:13px;padding:2px 4px;border-radius:4px"
+          onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--muted)'">▶</button>
         <button onclick="startEdit('${r.id}','${(r.length_mins ? Math.round(r.length_mins) + ':00' : '')}','${r.watchedAt}',${r.is_yt})" title="Edit"
           style="background:none;border:none;cursor:pointer;color:var(--muted);font-size:12px;padding:2px 4px;border-radius:4px"
           onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">✎</button>
@@ -652,6 +684,26 @@ async function removeEntry(id) {
     alert('Remove failed: ' + err.message);
   }
 }
+
+function playAgain(id, isYt) {
+  if (isYt) {
+    const ytId = id.startsWith('yt_') ? id.slice(3) : id;
+    document.getElementById('ytFrame').src = `https://www.youtube.com/embed/${ytId}?autoplay=1`;
+    document.getElementById('ytOverlay').classList.add('open');
+  } else {
+    window.location.href = `${BASE || '/'}?play=${encodeURIComponent(id)}`;
+  }
+}
+
+function closeYtOverlay(e) {
+  if (e && e.target !== document.getElementById('ytOverlay')) return;
+  document.getElementById('ytOverlay').classList.remove('open');
+  document.getElementById('ytFrame').src = '';
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeYtOverlay(null);
+});
 
 function toggleShowAll() {
   showAllRecent = !showAllRecent;
