@@ -2,7 +2,7 @@
 """
 Lazy Chinese Web App — Flask server
 """
-import glob, json, os, re, secrets as _secrets, subprocess, sys, threading, time
+import glob, html as _html, json, os, re, secrets as _secrets, subprocess, sys, threading, time
 from datetime import datetime, timedelta, timezone
 from functools import wraps
 from pathlib import Path
@@ -359,6 +359,71 @@ def api_watch_state_delete(video_id):
     _save_watch_state(state)
     return jsonify({"ok": True})
 
+# ── YouTube manual entries ────────────────────────────────────────────────────
+
+_YT_LEVELS = [
+    "Complete Beginner", "Beginner", "Low Intermediate",
+    "Intermediate", "High Intermediate", "Advanced",
+]
+
+def _fetch_yt_meta(video_id: str) -> dict:
+    """Scrape title and duration from a public YouTube page (no API key)."""
+    try:
+        r = _req.get(
+            f"https://www.youtube.com/watch?v={video_id}",
+            timeout=10,
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+        )
+        r.raise_for_status()
+        pg = r.text
+        title_m = re.search(r'<meta property="og:title" content="([^"]*)"', pg)
+        title = _html.unescape(title_m.group(1)) if title_m else ""
+        dur_m = re.search(r'"lengthSeconds":"(\d+)"', pg)
+        if dur_m:
+            secs = int(dur_m.group(1))
+            length = f"{secs // 60}:{secs % 60:02d}"
+        else:
+            length = ""
+        return {"title": title, "length": length}
+    except Exception as exc:
+        return {"title": "", "length": "", "error": str(exc)}
+
+@lazy_bp.route("/api/yt-entry", methods=["POST"])
+@login_required
+def api_yt_entry():
+    body  = request.get_json(force=True) or {}
+    url   = body.get("url", "").strip()
+    level = body.get("level", "").strip()
+    if level not in _YT_LEVELS:
+        return jsonify({"error": "Invalid level"}), 400
+    m = re.search(r'(?:v=|youtu\.be/|/embed/)([A-Za-z0-9_-]{11})', url)
+    if not m:
+        return jsonify({"error": "Invalid YouTube URL — could not extract video ID"}), 400
+    video_id = m.group(1)
+    meta  = _fetch_yt_meta(video_id)
+    state = _load_watch_state()
+    key   = f"yt_{video_id}"
+    existing = state.get(key, {})
+    state[key] = {
+        "watched":    True,
+        "watchedAt":  datetime.now(timezone.utc).isoformat(),
+        "watchCount": existing.get("watchCount", 0) + 1,
+        "_yt": {
+            "title":     meta.get("title", ""),
+            "level":     level,
+            "length":    meta.get("length", ""),
+            "youtubeId": video_id,
+        },
+    }
+    _save_watch_state(state)
+    return jsonify({
+        "ok":       True,
+        "title":    meta.get("title", ""),
+        "length":   meta.get("length", ""),
+        "youtubeId": video_id,
+        "error":    meta.get("error", ""),
+    })
+
 @lazy_bp.route("/api/video-url/<video_id>")
 @login_required
 def api_video_url(video_id):
@@ -615,7 +680,15 @@ def api_stats():
         if not v.get("watched"):
             continue
         dt = to_sydney(v.get("watchedAt", ""))
-        meta = catalog.get(vid_id, {})
+        yt_meta = v.get("_yt", {})
+        if yt_meta:
+            meta = {
+                "title":  yt_meta.get("title", ""),
+                "level":  yt_meta.get("level", ""),
+                "length": yt_meta.get("length", ""),
+            }
+        else:
+            meta = catalog.get(vid_id, {})
         mins = parse_mins(meta.get("length", ""))
         watched_entries.append({
             "id": vid_id,
@@ -657,11 +730,11 @@ def api_stats():
         lvl = e["level"] or "Unknown"
         level_counts[lvl] = level_counts.get(lvl, 0) + e["watchCount"]
 
-    # Recent watches (last 10)
+    # All watches sorted newest-first
     recent = sorted(
         [e for e in watched_entries if e["watchedAt"]],
         key=lambda x: x["watchedAt"], reverse=True
-    )[:10]
+    )
 
     def fmt_bucket(d):
         return {k: {"count": v["count"], "mins": round(v["mins"], 1), "levels": v["levels"]}
@@ -678,6 +751,7 @@ def api_stats():
         "recent":   [{"id": e["id"], "title": e["title"], "level": e["level"],
                       "length_mins": round(e["length_mins"], 1),
                       "watchCount": e["watchCount"],
+                      "is_yt": e["id"].startswith("yt_"),
                       "watchedAt": e["watchedAt"].strftime("%Y-%m-%d %H:%M") if e["watchedAt"] else ""
                      } for e in recent],
     })

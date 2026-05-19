@@ -187,6 +187,36 @@ body {
   color: var(--red); padding: 12px 16px; border-radius: var(--radius);
   font-size: 13px; display: none;
 }
+
+/* ── YouTube entry form ── */
+.yt-form {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-bottom: 8px;
+  display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end;
+}
+.yt-form input, .yt-form select {
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--text); font-family: var(--ff); font-size: 13px;
+  border-radius: var(--radius-sm); padding: 7px 10px; outline: none;
+  transition: border-color 120ms;
+}
+.yt-form input:focus, .yt-form select:focus { border-color: var(--accent); }
+.yt-form input { flex: 1; min-width: 220px; }
+.yt-form select { min-width: 160px; }
+.yt-form button {
+  background: var(--accent); color: #fff;
+  border: none; border-radius: var(--radius-sm);
+  font-family: var(--ff); font-size: 13px; font-weight: 700;
+  padding: 7px 18px; cursor: pointer; white-space: nowrap;
+  transition: opacity 120ms;
+}
+.yt-form button:disabled { opacity: 0.45; cursor: default; }
+.yt-status {
+  width: 100%; font-size: 12px; color: var(--muted); min-height: 16px;
+}
 </style>
 </head>
 <body>
@@ -258,6 +288,20 @@ body {
   </div>
 
   <div class="section-title">Recently Watched</div>
+  <div class="yt-form">
+    <input type="url" id="ytUrl" placeholder="YouTube URL (e.g. https://www.youtube.com/watch?v=...)">
+    <select id="ytLevel">
+      <option value="" disabled selected>Select level…</option>
+      <option>Complete Beginner</option>
+      <option>Beginner</option>
+      <option>Low Intermediate</option>
+      <option>Intermediate</option>
+      <option>High Intermediate</option>
+      <option>Advanced</option>
+    </select>
+    <button id="ytAddBtn" onclick="addYtEntry()">+ Add YouTube</button>
+    <div class="yt-status" id="ytStatus"></div>
+  </div>
   <div class="chart-card" style="padding:0; overflow:hidden">
     <table class="recent-table" id="recentTable">
       <thead>
@@ -270,6 +314,9 @@ body {
       </thead>
       <tbody id="recentBody"></tbody>
     </table>
+    <div id="showMoreWrap" style="padding:12px 16px; display:none">
+      <button id="showMoreBtn" class="tab-btn" style="font-size:12px; padding:5px 14px" onclick="toggleShowAll()">Show all</button>
+    </div>
   </div>
 
 </div>
@@ -489,22 +536,79 @@ function renderLevelChart() {
   });
 }
 
+const RECENT_INITIAL = 20;
+let showAllRecent = false;
+
 function renderRecent() {
+  const all   = statsData.recent;
+  const rows  = showAllRecent ? all : all.slice(0, RECENT_INITIAL);
   const tbody = document.getElementById('recentBody');
   tbody.innerHTML = '';
-  statsData.recent.forEach(r => {
+  rows.forEach(r => {
     const tr = document.createElement('tr');
     const lvlClass = LEVEL_CLASS[r.level] || '';
     const mins = r.length_mins ? `${Math.round(r.length_mins)} min` : '—';
     const watchBadge = r.watchCount > 1 ? ` <span style="font-size:11px;color:var(--accent);font-weight:700">×${r.watchCount}</span>` : '';
+    const ytIcon = r.is_yt ? ' <span title="YouTube" style="font-size:10px;color:#f00;font-weight:700">YT</span>' : '';
     tr.innerHTML = `
-      <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}${watchBadge}</td>
+      <td style="max-width:320px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${r.title || r.id}${ytIcon}${watchBadge}</td>
       <td><span class="level-badge ${lvlClass}">${r.level || '—'}</span></td>
       <td style="color:var(--muted)">${mins}</td>
       <td style="color:var(--muted);white-space:nowrap">${r.watchedAt}</td>
     `;
     tbody.appendChild(tr);
   });
+  const wrap = document.getElementById('showMoreWrap');
+  const btn  = document.getElementById('showMoreBtn');
+  if (all.length > RECENT_INITIAL) {
+    wrap.style.display = '';
+    btn.textContent = showAllRecent
+      ? `Show less`
+      : `Show all ${all.length} entries`;
+  } else {
+    wrap.style.display = 'none';
+  }
+}
+
+function toggleShowAll() {
+  showAllRecent = !showAllRecent;
+  renderRecent();
+}
+
+async function addYtEntry() {
+  const url   = document.getElementById('ytUrl').value.trim();
+  const level = document.getElementById('ytLevel').value;
+  const btn   = document.getElementById('ytAddBtn');
+  const status = document.getElementById('ytStatus');
+  if (!url)   { status.textContent = 'Please enter a YouTube URL.'; status.style.color = 'var(--red)'; return; }
+  if (!level) { status.textContent = 'Please select a level.'; status.style.color = 'var(--red)'; return; }
+  btn.disabled = true;
+  status.style.color = 'var(--muted)';
+  status.textContent = 'Fetching video details…';
+  try {
+    const res = await fetch(`${BASE}/api/yt-entry`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url, level }),
+    });
+    const data = await res.json();
+    if (!res.ok || data.error) { throw new Error(data.error || res.statusText); }
+    status.style.color = 'var(--green)';
+    status.textContent = `✓ Saved "${data.title || data.youtubeId}"${data.length ? ' (' + data.length + ')' : ''}`;
+    document.getElementById('ytUrl').value = '';
+    document.getElementById('ytLevel').value = '';
+    // Reload stats to reflect the new entry
+    statsData = await fetch(`${BASE}/api/stats`).then(r => r.json());
+    renderKPIs();
+    renderTab(activeTab);
+    renderLevelChart();
+    renderRecent();
+  } catch(err) {
+    status.style.color = 'var(--red)';
+    status.textContent = `Error: ${err.message}`;
+  } finally {
+    btn.disabled = false;
+  }
 }
 
 document.querySelectorAll('.tab-btn').forEach(btn => {
