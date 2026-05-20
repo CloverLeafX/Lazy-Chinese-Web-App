@@ -112,19 +112,21 @@ A standalone Flask app at `Yi_Web_App/` deployed separately to Railway. URL: `ht
 
 ### Lazy Chinese Web App → `https://ci-app.up.railway.app`
 
-Railway project: **`humble-surprise`**, service: **`CI`**. This project is **NOT connected to GitHub auto-deploy** — it must be deployed via Railway CLI:
+Railway project: **`humble-surprise`**, service: **`CI`**. Auto-deploys from `CloverLeafX/Lazy-Chinese-Web-App` on push:
 
 ```bash
-# From the repo root (Canto_Mando_App/)
+# Switch to CloverLeafX account if needed, then push
+gh auth switch --user CloverLeafX
+git push origin main
+```
+
+If Railway CLI session is needed (e.g. ToS re-acceptance triggered a suspension), re-authenticate and force-deploy:
+```bash
+railway login --browserless   # visit https://railway.com/activate and enter the shown code
 railway up --detach
 ```
 
-If Railway CLI session is expired, re-authenticate first:
-```bash
-railway login --browserless   # visit https://railway.com/activate and enter the shown code
-```
-
-The GitHub repo (`CloverLeafX/Lazy-Chinese-Web-App`) is still kept in sync with `git push` for version history — but Railway deploys from the local working tree via `railway up`, not from GitHub webhooks.
+The GitHub repo (`CloverLeafX/Lazy-Chinese-Web-App`) is the deployment source. GitHub auto-deploy fires on every push to `main`.
 
 ### Yi Web App → `https://phrases.up.railway.app`
 
