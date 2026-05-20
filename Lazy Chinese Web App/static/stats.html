@@ -300,7 +300,7 @@ body {
   <div class="two-col">
     <div class="chart-card">
       <h3>Videos by Level</h3>
-      <div class="chart-wrap" style="height:200px"><canvas id="levelChart"></canvas></div>
+      <div class="chart-wrap" style="height:220px"><canvas id="levelChart"></canvas></div>
     </div>
     <div class="chart-card">
       <h3 id="cumulChartTitle">Cumulative Hours — Daily</h3>
@@ -550,19 +550,36 @@ function renderCumulChart(bucket, keys, labels) {
 function renderLevelChart() {
   if (levelChartObj) levelChartObj.destroy();
   const lvls = statsData.by_level;
-  const ordered = LEVEL_ORDER.filter(l => lvls[l]);
-  const labels  = ordered.map(l => LEVEL_SHORT[l]);
-  const data    = ordered.map(l => lvls[l]);
-  const colors  = ordered.map(l => LEVEL_COLORS[l] || '#6c8ef7');
+  const total = Object.values(lvls).reduce((a, b) => a + b, 0);
+  if (!total) return;
+
+  // Sort by count descending
+  const sorted = Object.entries(lvls).sort((a, b) => b[1] - a[1]);
+  const labels = sorted.map(([l]) => LEVEL_SHORT[l] || l);
+  const pcts   = sorted.map(([, v]) => +((v / total) * 100).toFixed(1));
+  const counts = sorted.map(([, v]) => v);
+  const colors = sorted.map(([l]) => LEVEL_COLORS[l] || '#6c8ef7');
 
   levelChartObj = new Chart(document.getElementById('levelChart'), {
-    type: 'doughnut',
-    data: { labels, datasets: [{ data, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5 }] },
+    type: 'bar',
+    data: { labels, datasets: [{ data: pcts, backgroundColor: colors.map(c => c + 'cc'), borderColor: colors, borderWidth: 1.5, borderRadius: 3 }] },
     options: {
+      indexAxis: 'y',
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { display: true, position: 'right', labels: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, boxWidth: 12, padding: 10 } },
-        tooltip: { ...baseTip, callbacks: { label: ctx => { const total = ctx.dataset.data.reduce((a,b)=>a+b,0); const pct = total ? ((ctx.parsed/total)*100).toFixed(1) : 0; return ` ${ctx.label}: ${ctx.parsed} (${pct}%)`; } } }
+        legend: { display: false },
+        tooltip: { ...baseTip, callbacks: { label: ctx => ` ${counts[ctx.dataIndex]} videos (${pcts[ctx.dataIndex]}%)` } }
+      },
+      scales: {
+        x: {
+          ticks: { color: '#7a7f9a', font: { family: 'Manrope', size: 11 }, callback: v => v + '%' },
+          grid: { color: '#2a2d3e' },
+          max: Math.min(100, Math.ceil(pcts[0] / 10) * 10 + 10)
+        },
+        y: {
+          ticks: { color: '#c9cce0', font: { family: 'Manrope', size: 11 } },
+          grid: { display: false }
+        }
       }
     }
   });
