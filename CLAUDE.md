@@ -6,11 +6,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This folder contains three distinct apps. The Viewer and Lazy Chinese share the main git root; the Yi Web App has its own git repo nested at `Yi_Web_App/`.
 
-| App | Entry point | Port | Deployed? | Git repo |
-|-----|-------------|------|-----------|----------|
-| **Canto-Mando Viewer** | `Canto_Mando_Viewer/server.py` | 8800 | No — local only | this repo |
-| **Lazy Chinese Web App** | `Lazy Chinese Web App/server.py` | 8802 (local) | Yes — Railway via `wsgi.py` | this repo |
-| **Yi Web App (MyPhrases)** | `Yi_Web_App/server_cloud.py` | — | Yes — Railway, auto-deploy on push | `CloverLeafX/yi-web-app` |
+| App | Entry point | Port | Deployed? | Git repo | Live URL |
+|-----|-------------|------|-----------|----------|----------|
+| **Canto-Mando Viewer** | `Canto_Mando_Viewer/server.py` | 8800 | No — local only | this repo | — |
+| **Lazy Chinese Web App** | `Lazy Chinese Web App/server.py` | 8802 (local) | Yes — Railway CLI (`railway up`) | this repo (`CloverLeafX/Lazy-Chinese-Web-App`) | `https://ci-app.up.railway.app` |
+| **Yi Web App (MyPhrases)** | `Yi_Web_App/server_cloud.py` | — | Yes — Railway, auto-deploy on push | `CloverLeafX/yi-web-app` | `https://phrases.up.railway.app` |
 
 The Viewer mounts the Lazy Chinese app as a Flask Blueprint (`lazy_bp`) at `/lazy_web_app`. In production, only the Lazy Chinese app runs (via `wsgi.py` → `Lazy Chinese Web App/server.py`).
 
@@ -38,7 +38,7 @@ Venv: `/Users/kai/Virtual Envs/Canto_Mando_App`
 "/Users/kai/Virtual Envs/Canto_Mando_App/bin/pip" install -r requirements-local.txt
 ```
 
-- `requirements.txt` — production only (Flask, gunicorn, requests, python-dotenv, flask-cors)
+- `requirements.txt` — production only (Flask, gunicorn, requests, python-dotenv, flask-cors, yt-dlp)
 - `requirements-local.txt` — extends the above with TTS engines, NLP libs, setproctitle
 
 Missing `setproctitle` or any other local dep causes the server to crash silently on launch via the macOS app bundle.
@@ -69,6 +69,17 @@ Streams video from OneDrive via Microsoft Graph API. Auth is a simple shared pas
 
 On Railway, `DATA_DIR` is set to a persistent volume path; on first start it seeds the volume by copying `data/onedrive_index.json` and `data/watch_state.json` from the bundled `data/` directory.
 
+### Stats Page (`/stats`)
+
+`static/stats.html` tracks watch history with charts (Chart.js 4.4.3). Features:
+- **YouTube manual entry** (`POST /api/yt-entry`): add any YouTube video by URL + level. Title fetched via oEmbed; duration via yt-dlp (requires `yt-dlp` in `requirements.txt`). Stored in `watch_state.json` as `yt_<videoId>` with a `_yt` sub-dict `{title, level, length, youtubeId}`.
+- **Full history display**: all entries shown (toggle "Show all N" / "Show less"), not capped at 10.
+- **Inline edit** (✎ per row): edit `watchedAt` datetime and video length in-place via `PATCH /api/watch-state/<id>`.
+- **Remove** (× per row): deletes entry from `watch_state.json`.
+- **Play Again** (▶ per row): library videos navigate to `/?play=VIDEO_ID`; YouTube entries open an embedded overlay iframe.
+- `index.html` reads `?play=VIDEO_ID` from the URL on boot and auto-opens that video.
+- All chart instances (`countChartObj`, `minsChartObj`, `cumulChartObj`, `levelChartObj`) are destroyed before re-render to avoid Chart.js "canvas reuse" errors.
+
 ### Xiao Gua (XG) Integration
 
 The LC web app also serves the Xiao Gua catalog (`xiaogua/` folder, sibling to LC). Routes:
@@ -83,7 +94,7 @@ The LC web app also serves the Xiao Gua catalog (`xiaogua/` folder, sibling to L
 
 ## Architecture: Yi Web App (MyPhrases)
 
-A standalone Flask app at `Yi_Web_App/` deployed separately to Railway. URL: `https://web-production-79e1c.up.railway.app`.
+A standalone Flask app at `Yi_Web_App/` deployed separately to Railway. URL: `https://phrases.up.railway.app` (custom domain; also `https://web-production-79e1c.up.railway.app`).
 
 **Deploy**: `cd Yi_Web_App && git push origin main` — Railway auto-deploys. NEVER use `railway up`.
 
@@ -99,7 +110,32 @@ A standalone Flask app at `Yi_Web_App/` deployed separately to Railway. URL: `ht
 
 ## Railway Deployment
 
-The `Procfile` runs `wsgi.py` (Lazy Chinese Web App only — Viewer does not deploy):
+### Lazy Chinese Web App → `https://ci-app.up.railway.app`
+
+Railway project: **`humble-surprise`**, service: **`CI`**. This project is **NOT connected to GitHub auto-deploy** — it must be deployed via Railway CLI:
+
+```bash
+# From the repo root (Canto_Mando_App/)
+railway up --detach
+```
+
+If Railway CLI session is expired, re-authenticate first:
+```bash
+railway login --browserless   # visit https://railway.com/activate and enter the shown code
+```
+
+The GitHub repo (`CloverLeafX/Lazy-Chinese-Web-App`) is still kept in sync with `git push` for version history — but Railway deploys from the local working tree via `railway up`, not from GitHub webhooks.
+
+### Yi Web App → `https://phrases.up.railway.app`
+
+Also known as `https://web-production-79e1c.up.railway.app`. Auto-deploys from `CloverLeafX/yi-web-app` on push:
+```bash
+cd Yi_Web_App && git push origin main
+```
+NEVER use `railway up` for Yi Web App.
+
+### Procfile (both apps share same format)
+
 ```
 web: gunicorn wsgi:app --bind "0.0.0.0:$PORT" --workers 1 --threads 4 --timeout 120
 ```
@@ -107,6 +143,10 @@ web: gunicorn wsgi:app --bind "0.0.0.0:$PORT" --workers 1 --threads 4 --timeout 
 `--threads 4` is required so concurrent video range requests don't deadlock when the browser pre-buffers / seeks XG streams (proxied through `/api/xiaogua/stream/<slug>`).
 
 `SECRET_KEY` must be set as a persistent Railway env var or sessions reset on every redeploy.
+
+### Railway ToS
+
+If Railway returns `x-railway-fallback: true` on all responses, the account has been suspended (usually due to ToS acceptance required). Log in to railway.com, accept ToS, then redeploy with `railway up --detach`.
 
 ## Detailed Reference
 
