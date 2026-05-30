@@ -375,20 +375,22 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 /* Double-tap seek zones */
 .dt-zone {
   position: absolute; top: 0; bottom: 0; width: 35%; z-index: 10;
-  pointer-events: none;
+  pointer-events: auto; cursor: pointer;
 }
-.dt-zone--left  { left: 0; }
-.dt-zone--right { right: 0; }
+.dt-zone--left   { left: 0; }
+.dt-zone--right  { right: 0; }
+.dt-zone--center { left: 35%; right: 35%; width: auto; }
 .dt-flash {
   position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
   background: rgba(255,255,255,0.18); border-radius: 50%;
   width: 80px; height: 80px;
   display: flex; align-items: center; justify-content: center;
   color: #fff; font-size: 12px; font-weight: 600; flex-direction: column; gap: 2px;
-  opacity: 0; transition: opacity 120ms ease;
+  opacity: 0; transition: opacity 150ms ease;
   pointer-events: none; user-select: none;
 }
 .dt-flash.show { opacity: 1; }
+.dt-zone--left:hover .dt-flash, .dt-zone--right:hover .dt-flash { opacity: 1; }
 .dt-flash svg { display: block; }
 video#localVideo {
   width: 100%; height: 100%; object-fit: contain; display: block;
@@ -667,6 +669,7 @@ video#localVideo {
       <div class="player-section">
         <div class="player-wrap" id="playerWrap">
           <div class="dt-zone dt-zone--left"  id="dtLeft" ><div class="dt-flash" id="dtFlashLeft" ><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M11 18V6l-8.5 6 8.5 6zm.5-6l8.5 6V6l-8.5 6z"/></svg>-10s</div></div>
+          <div class="dt-zone dt-zone--center" id="dtCenter"><div class="dt-flash" id="dtFlashCenter"></div></div>
           <div class="dt-zone dt-zone--right" id="dtRight"><div class="dt-flash" id="dtFlashRight"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M4 18l8.5-6L4 6v12zm9-12v12l8.5-6L13 6z"/></svg>+10s</div></div>
           <video id="localVideo" preload="auto" playsinline></video>
           <iframe id="remoteFrame" class="remote-frame" allow="autoplay; fullscreen" style="display:none"></iframe>
@@ -1742,6 +1745,56 @@ document.addEventListener("keydown", e => {
     spanTime.textContent = '0:00 / 0:00';
     vid.play();
     localFileInput.value = '';
+  });
+
+  // ── Click to seek (desktop hover zones) ───────────────────────────
+  dtLeft.addEventListener('mousedown', e => {
+    if (!vid.src || !vid.duration) return;
+    vid.currentTime = Math.max(0, vid.currentTime - 10);
+    dtFlashTimer.left = showFlash(dtFlashLeft, dtFlashTimer.left);
+  });
+  dtRight.addEventListener('mousedown', e => {
+    if (!vid.src || !vid.duration) return;
+    vid.currentTime = Math.min(vid.duration, vid.currentTime + 10);
+    dtFlashTimer.right = showFlash(dtFlashRight, dtFlashTimer.right);
+  });
+
+  // ── Centre click to play/pause ─────────────────────────────────────
+  const dtCenter      = document.getElementById('dtCenter');
+  const dtFlashCenter = document.getElementById('dtFlashCenter');
+  let dtFlashTimerCenter = null;
+  const PLAY_FLASH_SVG  = '<svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+  const PAUSE_FLASH_SVG = '<svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+  dtCenter.addEventListener('mousedown', () => {
+    if (!vid.src) return;
+    if (vid.paused) {
+      dtFlashCenter.innerHTML = PLAY_FLASH_SVG;
+      manualPause = false; vid.play();
+    } else {
+      dtFlashCenter.innerHTML = PAUSE_FLASH_SVG;
+      manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause();
+    }
+    dtFlashTimerCenter = showFlash(dtFlashCenter, dtFlashTimerCenter);
+  });
+
+  // ── Keyboard controls ──────────────────────────────────────────────
+  document.addEventListener('keydown', e => {
+    if (!document.getElementById('watchView').classList.contains('visible')) return;
+    if (!vid.src) return;
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+    if (e.key === ' ') {
+      e.preventDefault();
+      if (vid.paused) { manualPause = false; vid.play(); }
+      else { manualPause = true; stalledPause = false; bufferingOverlay.classList.remove('active'); vid.pause(); }
+    } else if (e.key === 'ArrowLeft') {
+      e.preventDefault();
+      vid.currentTime = Math.max(0, vid.currentTime - 5);
+      dtFlashTimer.left = showFlash(dtFlashLeft, dtFlashTimer.left);
+    } else if (e.key === 'ArrowRight') {
+      e.preventDefault();
+      if (vid.duration) vid.currentTime = Math.min(vid.duration, vid.currentTime + 10);
+      dtFlashTimer.right = showFlash(dtFlashRight, dtFlashTimer.right);
+    }
   });
 })();
 
