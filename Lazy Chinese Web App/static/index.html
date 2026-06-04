@@ -1169,7 +1169,7 @@ function onTimeUpdate() {
 async function loadSubtitles(v, script) {
   const loadBar = document.getElementById("subLoadingBar");
   loadBar.classList.add("active");
-  subtitles = []; activeIdx = -1;
+  subtitles = []; activeIdx = -1; englishPromise = null;
   document.getElementById("transcriptText").innerHTML = "";
   document.getElementById("currentSubText").textContent = "—";
   document.getElementById("currentSubEnglish").textContent = "";
@@ -1397,7 +1397,8 @@ async function ensureEnglishTranslations() {
   btn.textContent = "EN Loading...";
 
   englishPromise = (async () => {
-    const allLines = subtitles.map(s => s.text);
+    const capturedSubs = subtitles;
+    const allLines = capturedSubs.map(s => s.text);
     const CHUNK = 500;
     const translations = [];
     for (let i = 0; i < allLines.length; i += CHUNK) {
@@ -1411,7 +1412,9 @@ async function ensureEnglishTranslations() {
       const chunk = Array.isArray(data.translations) ? data.translations : [];
       translations.push(...chunk);
     }
-    englishByIdx = subtitles.map((_, i) => (translations[i] || "").trim());
+    if (subtitles === capturedSubs) {
+      englishByIdx = capturedSubs.map((_, i) => (translations[i] || "").trim());
+    }
   })();
 
   try {
