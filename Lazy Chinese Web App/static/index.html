@@ -416,6 +416,9 @@ video#localVideo {
 .vc-progress-buffer { position: absolute; left: 0; top: 0; height: 100%; background: rgba(255,255,255,0.18); width: 0%; transition: width 0.3s; }
 .vc-progress-fill { position: absolute; left: 0; top: 0; height: 100%; background: var(--accent); width: 0%; }
 .vc-sep { width: 1px; height: 18px; background: var(--border); flex-shrink: 0; margin: 0 2px; }
+.vc-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+.vc-overflow-btn { display: none; }
+.vc-label { display: none; }
 .player-buffering-overlay {
   display: none; position: absolute; inset: 0;
   align-items: center; justify-content: center; z-index: 20;
@@ -630,6 +633,26 @@ video#localVideo {
   .watch-title { display: none; }
   .watch-teacher { display: none; }
   .watch-spacer { display: none; }
+  /* 3-dot overflow menu */
+  .vc-overflow-btn { display: flex; }
+  .vc-right {
+    display: none; position: fixed; bottom: 48px; right: 8px;
+    flex-direction: column; align-items: stretch;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 6px; gap: 2px;
+    z-index: 500; min-width: 160px; box-shadow: 0 4px 20px rgba(0,0,0,.6);
+  }
+  .vc-right.open { display: flex; }
+  .vc-right .vc-btn {
+    justify-content: flex-start; padding: 9px 12px;
+    opacity: 1; border-radius: 7px; width: 100%; gap: 10px;
+  }
+  .vc-right .vc-btn:hover { background: var(--surface2); }
+  .vc-right .vc-label { display: inline; font-size: 13px; font-weight: 500; }
+  .vc-right .vc-sep { width: calc(100% - 8px); height: 1px; margin: 2px 4px; }
+  .vc-right .kk-controls { padding: 4px 8px 2px; }
+  /* Fixed karaoke panel height — prevents video from resizing when words wrap */
+  .karaoke-panel { height: 210px; min-height: 0; overflow: hidden; }
   /* Karaoke panel — bigger text on mobile */
   .karaoke-panel { padding: 16px 16px 20px; gap: 8px; }
   .kk-hz    { font-size: 40px; }
@@ -804,17 +827,20 @@ video#localVideo {
         <button class="vc-btn" id="vcPlay" title="Play/Pause"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
         <span class="vc-time" id="vcTime">0:00 / 0:00</span>
         <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-buffer" id="vcBuffer"></div><div class="vc-progress-fill" id="vcFill"></div></div></div>
-        <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></button>
-        <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
-        <div class="vc-sep"></div>
-        <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg></button>
-        <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
-        <input type="file" id="localFileInput" accept="video/*" style="display:none">
-        <div class="vc-sep kk-sep"></div>
-        <div class="kk-controls">
-          <button class="kk-pill active" id="kkPy">拼 Pin</button>
-          <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
-          <button class="kk-pill" id="kkEn">EN</button>
+        <button class="vc-btn vc-overflow-btn" id="vcOverflowBtn" title="More controls"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="12" cy="19" r="2"/></svg></button>
+        <div class="vc-right" id="vcRight">
+          <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg><span class="vc-label">Volume</span></button>
+          <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg><span class="vc-label">Fullscreen</span></button>
+          <div class="vc-sep"></div>
+          <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg><span class="vc-label">Download</span></button>
+          <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg><span class="vc-label">Open file</span></button>
+          <input type="file" id="localFileInput" accept="video/*" style="display:none">
+          <div class="vc-sep kk-sep"></div>
+          <div class="kk-controls">
+            <button class="kk-pill active" id="kkPy">拼 Pin</button>
+            <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
+            <button class="kk-pill" id="kkEn">EN</button>
+          </div>
         </div>
       </div>
     </div>
@@ -2055,6 +2081,18 @@ document.addEventListener("keydown", e => {
       dtFlashTimer.right = showFlash(dtFlashRight, dtFlashTimer.right);
     }
   });
+})();
+
+/* ── Overflow menu (mobile 3-dot) ───────────────────── */
+(function() {
+  const overflowBtn = document.getElementById("vcOverflowBtn");
+  const vcRight     = document.getElementById("vcRight");
+  function closeOverflow() { vcRight.classList.remove("open"); }
+  function toggleOverflow(e) { e.stopPropagation(); vcRight.classList.toggle("open"); }
+  overflowBtn.addEventListener("touchend", e => { e.preventDefault(); toggleOverflow(e); });
+  overflowBtn.addEventListener("click",    e => { if (!('ontouchstart' in window)) toggleOverflow(e); });
+  document.addEventListener("touchstart", e => { if (!vcRight.contains(e.target) && e.target !== overflowBtn) closeOverflow(); }, { passive: true });
+  document.addEventListener("click",      e => { if (!vcRight.contains(e.target) && e.target !== overflowBtn) closeOverflow(); });
 })();
 
 /* ── Boot ───────────────────────────────────────────── */
