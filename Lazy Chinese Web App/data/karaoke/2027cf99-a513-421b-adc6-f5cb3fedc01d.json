@@ -1,0 +1,2313 @@
+[
+  {
+    "startTime": 1.2,
+    "endTime": 2.0,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 1.241,
+        "endTime": 1.979,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 3.0,
+    "endTime": 5.8,
+    "fullTextZH": "今天的生词。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 3.04,
+        "endTime": 3.846,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 3.846,
+        "endTime": 4.692,
+        "gloss": "of"
+      },
+      {
+        "word": "生词",
+        "pinyin": "shēng cí",
+        "startTime": 4.692,
+        "endTime": 5.76,
+        "gloss": "new words"
+      }
+    ],
+    "fullTextEN": "Today's new words."
+  },
+  {
+    "startTime": 8.266,
+    "endTime": 9.266,
+    "fullTextZH": "中文。",
+    "words": [
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 8.266,
+        "endTime": 9.225,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Chinese."
+  },
+  {
+    "startTime": 10.833,
+    "endTime": 11.8,
+    "fullTextZH": "中文。",
+    "words": [
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 10.873,
+        "endTime": 11.78,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Chinese."
+  },
+  {
+    "startTime": 13.133,
+    "endTime": 17.5,
+    "fullTextZH": "英语，英语。",
+    "words": [
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 13.153,
+        "endTime": 14.054,
+        "gloss": "English"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 16.118,
+        "endTime": 17.46,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "English, English."
+  },
+  {
+    "startTime": 18.366,
+    "endTime": 21.233,
+    "fullTextZH": "会说中文。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 18.426,
+        "endTime": 19.268,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 19.268,
+        "endTime": 20.17,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 20.17,
+        "endTime": 21.213,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Can speak Chinese."
+  },
+  {
+    "startTime": 23.666,
+    "endTime": 26.066,
+    "fullTextZH": "会说中文。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 23.706,
+        "endTime": 24.271,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 24.271,
+        "endTime": 25.037,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 25.037,
+        "endTime": 26.026,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Can speak Chinese."
+  },
+  {
+    "startTime": 27.633,
+    "endTime": 30.466,
+    "fullTextZH": "会说英语。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 27.673,
+        "endTime": 28.336,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 28.336,
+        "endTime": 29.12,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 29.12,
+        "endTime": 30.426,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "Can speak English."
+  },
+  {
+    "startTime": 31.766,
+    "endTime": 34.433,
+    "fullTextZH": "会说英语。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 31.826,
+        "endTime": 32.448,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 32.448,
+        "endTime": 33.23,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 33.23,
+        "endTime": 34.393,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "Can speak English."
+  },
+  {
+    "startTime": 37.566,
+    "endTime": 40.9,
+    "fullTextZH": "不会说中文。",
+    "words": [
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 37.646,
+        "endTime": 39.032,
+        "gloss": "cannot"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 39.032,
+        "endTime": 39.916,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 39.916,
+        "endTime": 40.86,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Cannot speak Chinese."
+  },
+  {
+    "startTime": 42.466,
+    "endTime": 45.333,
+    "fullTextZH": "不会说中文。",
+    "words": [
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 42.566,
+        "endTime": 43.629,
+        "gloss": "cannot"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 43.629,
+        "endTime": 44.451,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 44.451,
+        "endTime": 45.293,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Cannot speak Chinese."
+  },
+  {
+    "startTime": 46.666,
+    "endTime": 53.466,
+    "fullTextZH": "不会说英语，不会说英语。",
+    "words": [
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 46.746,
+        "endTime": 47.749,
+        "gloss": "cannot"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 47.749,
+        "endTime": 48.552,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 48.552,
+        "endTime": 49.514,
+        "gloss": "English"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 50.517,
+        "endTime": 51.54,
+        "gloss": "cannot"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 51.54,
+        "endTime": 52.323,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 52.323,
+        "endTime": 53.426,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "Cannot speak English, cannot speak English."
+  },
+  {
+    "startTime": 55.133,
+    "endTime": 58.166,
+    "fullTextZH": "学习，学习。",
+    "words": [
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 55.153,
+        "endTime": 56.057,
+        "gloss": "study"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 57.162,
+        "endTime": 58.146,
+        "gloss": "study"
+      }
+    ],
+    "fullTextEN": "Study, study."
+  },
+  {
+    "startTime": 60.466,
+    "endTime": 61.6,
+    "fullTextZH": "学习。",
+    "words": [
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 60.527,
+        "endTime": 61.559,
+        "gloss": "study"
+      }
+    ],
+    "fullTextEN": "Study."
+  },
+  {
+    "startTime": 63.266,
+    "endTime": 68.6,
+    "fullTextZH": "学习中文，学习中文。",
+    "words": [
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 63.306,
+        "endTime": 64.529,
+        "gloss": "study"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 64.529,
+        "endTime": 66.434,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 66.535,
+        "endTime": 67.678,
+        "gloss": "study"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 67.678,
+        "endTime": 68.58,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Study Chinese, study Chinese."
+  },
+  {
+    "startTime": 69.966,
+    "endTime": 76.166,
+    "fullTextZH": "学习英语，学习英语。",
+    "words": [
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 69.966,
+        "endTime": 71.09,
+        "gloss": "study"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 71.09,
+        "endTime": 72.193,
+        "gloss": "English"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 73.538,
+        "endTime": 74.882,
+        "gloss": "study"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 74.882,
+        "endTime": 76.126,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "Study English, study English."
+  },
+  {
+    "startTime": 77.866,
+    "endTime": 78.7,
+    "fullTextZH": "睡觉。",
+    "words": [
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 77.907,
+        "endTime": 78.68,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Sleep."
+  },
+  {
+    "startTime": 80.766,
+    "endTime": 81.7,
+    "fullTextZH": "睡觉。",
+    "words": [
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 80.827,
+        "endTime": 81.68,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Sleep."
+  },
+  {
+    "startTime": 83.666,
+    "endTime": 87.566,
+    "fullTextZH": "买东西，买东西。",
+    "words": [
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 83.686,
+        "endTime": 84.148,
+        "gloss": "buy"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 84.148,
+        "endTime": 86.159,
+        "gloss": "things"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 86.179,
+        "endTime": 86.681,
+        "gloss": "buy"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 86.681,
+        "endTime": 87.526,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Buy things, buy things."
+  },
+  {
+    "startTime": 88.866,
+    "endTime": 92.033,
+    "fullTextZH": "工作，工作。",
+    "words": [
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 88.886,
+        "endTime": 90.931,
+        "gloss": "work"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 91.091,
+        "endTime": 91.993,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Work, work."
+  },
+  {
+    "startTime": 93.766,
+    "endTime": 95.6,
+    "fullTextZH": "做饺子。",
+    "words": [
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 93.867,
+        "endTime": 94.451,
+        "gloss": "make"
+      },
+      {
+        "word": "饺子",
+        "pinyin": "jiǎo zi",
+        "startTime": 94.451,
+        "endTime": 95.58,
+        "gloss": "dumplings"
+      }
+    ],
+    "fullTextEN": "Make dumplings."
+  },
+  {
+    "startTime": 97.333,
+    "endTime": 99.4,
+    "fullTextZH": "做饺子。",
+    "words": [
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 97.413,
+        "endTime": 98.276,
+        "gloss": "make"
+      },
+      {
+        "word": "饺子",
+        "pinyin": "jiǎo zi",
+        "startTime": 98.276,
+        "endTime": 99.36,
+        "gloss": "dumplings"
+      }
+    ],
+    "fullTextEN": "Make dumplings."
+  },
+  {
+    "startTime": 100.633,
+    "endTime": 102.466,
+    "fullTextZH": "所有的。",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 100.774,
+        "endTime": 102.083,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.083,
+        "endTime": 102.426,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "All of it."
+  },
+  {
+    "startTime": 103.833,
+    "endTime": 105.633,
+    "fullTextZH": "所有的。",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 103.995,
+        "endTime": 105.249,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 105.249,
+        "endTime": 105.593,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "All of it."
+  },
+  {
+    "startTime": 107.933,
+    "endTime": 108.733,
+    "fullTextZH": "死了。",
+    "words": [
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 107.954,
+        "endTime": 108.138,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 108.138,
+        "endTime": 108.712,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Dead."
+  },
+  {
+    "startTime": 110.033,
+    "endTime": 112.066,
+    "fullTextZH": "死了。",
+    "words": [
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 110.134,
+        "endTime": 110.375,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 110.375,
+        "endTime": 111.462,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Dead."
+  },
+  {
+    "startTime": 112.533,
+    "endTime": 116.0,
+    "fullTextZH": "辣死了，辣死了！",
+    "words": [
+      {
+        "word": "辣死",
+        "pinyin": "là sǐ",
+        "startTime": 112.553,
+        "endTime": 113.395,
+        "gloss": "spicy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 113.395,
+        "endTime": 113.555,
+        "gloss": "le"
+      },
+      {
+        "word": "辣死",
+        "pinyin": "là sǐ",
+        "startTime": 114.557,
+        "endTime": 115.599,
+        "gloss": "spicy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 115.599,
+        "endTime": 115.96,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "So spicy, so spicy!"
+  },
+  {
+    "startTime": 117.766,
+    "endTime": 120.466,
+    "fullTextZH": "有两个人。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 117.867,
+        "endTime": 118.894,
+        "gloss": "there are"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 118.894,
+        "endTime": 119.841,
+        "gloss": "two"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 119.841,
+        "endTime": 120.426,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "There are two people."
+  },
+  {
+    "startTime": 121.4,
+    "endTime": 124.066,
+    "fullTextZH": "一个叫笨笨，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 121.5,
+        "endTime": 122.623,
+        "gloss": "one"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 122.623,
+        "endTime": 123.344,
+        "gloss": "called"
+      },
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 123.344,
+        "endTime": 124.026,
+        "gloss": "Benben"
+      }
+    ],
+    "fullTextEN": "One is called Benben,"
+  },
+  {
+    "startTime": 124.966,
+    "endTime": 127.6,
+    "fullTextZH": "一个叫胖胖。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 125.046,
+        "endTime": 126.052,
+        "gloss": "one"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 126.052,
+        "endTime": 126.776,
+        "gloss": "called"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 126.776,
+        "endTime": 127.56,
+        "gloss": "Pangpang"
+      }
+    ],
+    "fullTextEN": "One is called Pangpang."
+  },
+  {
+    "startTime": 129.033,
+    "endTime": 131.866,
+    "fullTextZH": "他们是朋友。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 129.033,
+        "endTime": 130.038,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 130.038,
+        "endTime": 130.962,
+        "gloss": "are"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 130.962,
+        "endTime": 131.826,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "They are friends."
+  },
+  {
+    "startTime": 132.966,
+    "endTime": 136.566,
+    "fullTextZH": "他们是好朋友。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 132.986,
+        "endTime": 133.811,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 133.811,
+        "endTime": 134.736,
+        "gloss": "are"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 134.736,
+        "endTime": 135.721,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 135.721,
+        "endTime": 136.526,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "They are good friends."
+  },
+  {
+    "startTime": 137.8,
+    "endTime": 142.0,
+    "fullTextZH": "他们都住在美国。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 137.82,
+        "endTime": 138.684,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 138.684,
+        "endTime": 139.729,
+        "gloss": "all"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 139.729,
+        "endTime": 140.131,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 140.131,
+        "endTime": 140.895,
+        "gloss": "in"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 140.895,
+        "endTime": 141.96,
+        "gloss": "USA"
+      }
+    ],
+    "fullTextEN": "They all live in the USA."
+  },
+  {
+    "startTime": 142.8,
+    "endTime": 149.0,
+    "fullTextZH": "胖胖的爸爸妈妈是中国人。",
+    "words": [
+      {
+        "word": "胖胖的",
+        "pinyin": "pàng pàng de",
+        "startTime": 143.181,
+        "endTime": 144.506,
+        "gloss": "Pangpang's"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 144.506,
+        "endTime": 146.592,
+        "gloss": "parents"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 146.592,
+        "endTime": 147.435,
+        "gloss": "are"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 147.435,
+        "endTime": 148.418,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 148.418,
+        "endTime": 148.96,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "Pangpang's parents are Chinese."
+  },
+  {
+    "startTime": 150.133,
+    "endTime": 154.4,
+    "fullTextZH": "可是他们住在美国。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 150.193,
+        "endTime": 151.235,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 151.235,
+        "endTime": 152.397,
+        "gloss": "they"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 152.397,
+        "endTime": 152.777,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 152.777,
+        "endTime": 153.418,
+        "gloss": "in"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 153.418,
+        "endTime": 154.36,
+        "gloss": "USA"
+      }
+    ],
+    "fullTextEN": "But they live in the USA."
+  },
+  {
+    "startTime": 155.233,
+    "endTime": 161.0,
+    "fullTextZH": "所以胖胖会说英语。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 155.353,
+        "endTime": 156.394,
+        "gloss": "so"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 156.394,
+        "endTime": 157.896,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 157.896,
+        "endTime": 158.757,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 158.757,
+        "endTime": 159.738,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 159.738,
+        "endTime": 160.96,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "So Pangpang can speak English."
+  },
+  {
+    "startTime": 161.9,
+    "endTime": 166.1,
+    "fullTextZH": "胖胖不会说中文。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 161.92,
+        "endTime": 162.804,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 162.804,
+        "endTime": 164.131,
+        "gloss": "cannot"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 164.131,
+        "endTime": 165.115,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 165.115,
+        "endTime": 166.06,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Pangpang cannot speak Chinese."
+  },
+  {
+    "startTime": 167.2,
+    "endTime": 170.366,
+    "fullTextZH": "笨笨是美国人。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 167.22,
+        "endTime": 168.342,
+        "gloss": "Benben"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 168.342,
+        "endTime": 169.064,
+        "gloss": "is"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 169.064,
+        "endTime": 169.825,
+        "gloss": "American"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 169.825,
+        "endTime": 170.326,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Benben is American."
+  },
+  {
+    "startTime": 171.166,
+    "endTime": 174.0,
+    "fullTextZH": "他住在美国。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 171.226,
+        "endTime": 172.05,
+        "gloss": "he"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 172.05,
+        "endTime": 172.452,
+        "gloss": "lives"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 172.452,
+        "endTime": 173.116,
+        "gloss": "in"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 173.116,
+        "endTime": 173.96,
+        "gloss": "USA"
+      }
+    ],
+    "fullTextEN": "He lives in the USA."
+  },
+  {
+    "startTime": 175.1,
+    "endTime": 179.133,
+    "fullTextZH": "笨笨会说英语。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 175.421,
+        "endTime": 176.284,
+        "gloss": "Benben"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 176.284,
+        "endTime": 177.066,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 177.066,
+        "endTime": 177.929,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 177.929,
+        "endTime": 179.093,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "Benben can speak English."
+  },
+  {
+    "startTime": 180.4,
+    "endTime": 186.833,
+    "fullTextZH": "可是笨笨也说一点点中文。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 180.46,
+        "endTime": 181.502,
+        "gloss": "but"
+      },
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 181.502,
+        "endTime": 182.584,
+        "gloss": "Benben"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 182.584,
+        "endTime": 183.466,
+        "gloss": "also"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 183.466,
+        "endTime": 184.568,
+        "gloss": "speak"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 184.568,
+        "endTime": 185.851,
+        "gloss": "a little"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 185.851,
+        "endTime": 186.793,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "But Benben also speaks a little Chinese."
+  },
+  {
+    "startTime": 188.933,
+    "endTime": 197.733,
+    "fullTextZH": "为什么？因为他喜欢去中国饭店。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 189.013,
+        "endTime": 189.695,
+        "gloss": "why"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 190.697,
+        "endTime": 191.719,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 191.719,
+        "endTime": 192.661,
+        "gloss": "he"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 192.661,
+        "endTime": 194.045,
+        "gloss": "likes"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 194.045,
+        "endTime": 195.147,
+        "gloss": "to go"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 195.147,
+        "endTime": 196.771,
+        "gloss": "China"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 196.771,
+        "endTime": 197.693,
+        "gloss": "restaurant"
+      }
+    ],
+    "fullTextEN": "Why? Because he likes to go to Chinese restaurants."
+  },
+  {
+    "startTime": 198.833,
+    "endTime": 203.666,
+    "fullTextZH": "笨笨喜欢吃中国菜。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 198.833,
+        "endTime": 199.896,
+        "gloss": "Benben"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 199.896,
+        "endTime": 201.019,
+        "gloss": "likes"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 201.019,
+        "endTime": 202.082,
+        "gloss": "eat"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 202.082,
+        "endTime": 203.205,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 203.205,
+        "endTime": 203.626,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Benben likes to eat Chinese food."
+  },
+  {
+    "startTime": 204.6,
+    "endTime": 215.733,
+    "fullTextZH": "所以笨笨会说小笼包，笨笨会说麻辣烫。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 204.68,
+        "endTime": 206.182,
+        "gloss": "so"
+      },
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 206.182,
+        "endTime": 207.403,
+        "gloss": "Benben"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 207.403,
+        "endTime": 208.024,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 208.024,
+        "endTime": 209.546,
+        "gloss": "say"
+      },
+      {
+        "word": "小笼包",
+        "pinyin": "xiǎo lóng bāo",
+        "startTime": 209.546,
+        "endTime": 212.029,
+        "gloss": "xiaolongbao"
+      },
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 212.329,
+        "endTime": 212.91,
+        "gloss": "Benben"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 212.91,
+        "endTime": 213.31,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 213.31,
+        "endTime": 214.271,
+        "gloss": "say"
+      },
+      {
+        "word": "麻辣烫",
+        "pinyin": "má là tàng",
+        "startTime": 214.271,
+        "endTime": 215.693,
+        "gloss": "malatang"
+      }
+    ],
+    "fullTextEN": "So Benben can say 'xiaolongbao', Benben can say 'malatang'."
+  },
+  {
+    "startTime": 217.633,
+    "endTime": 220.8,
+    "fullTextZH": "笨笨会说豆腐。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 217.653,
+        "endTime": 218.575,
+        "gloss": "Benben"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 218.575,
+        "endTime": 219.016,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 219.016,
+        "endTime": 219.978,
+        "gloss": "say"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 219.978,
+        "endTime": 220.76,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Benben can say 'tofu'."
+  },
+  {
+    "startTime": 222.6,
+    "endTime": 225.933,
+    "fullTextZH": "笨笨会说服务员。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 222.62,
+        "endTime": 223.443,
+        "gloss": "Benben"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 223.443,
+        "endTime": 223.805,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 223.805,
+        "endTime": 224.929,
+        "gloss": "say"
+      },
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 224.929,
+        "endTime": 225.893,
+        "gloss": "waiter"
+      }
+    ],
+    "fullTextEN": "Benben can say 'waiter'."
+  },
+  {
+    "startTime": 226.966,
+    "endTime": 232.6,
+    "fullTextZH": "笨笨说一点点中文。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 228.229,
+        "endTime": 229.332,
+        "gloss": "Benben"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 229.332,
+        "endTime": 230.354,
+        "gloss": "speak"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 230.354,
+        "endTime": 231.718,
+        "gloss": "a little"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 231.718,
+        "endTime": 232.56,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Benben speaks a little Chinese."
+  },
+  {
+    "startTime": 233.5,
+    "endTime": 234.3,
+    "fullTextZH": "你呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 233.562,
+        "endTime": 233.787,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 233.787,
+        "endTime": 234.259,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What about you?"
+  },
+  {
+    "startTime": 234.966,
+    "endTime": 238.966,
+    "fullTextZH": "你会说英语吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 235.026,
+        "endTime": 235.77,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 235.77,
+        "endTime": 236.273,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 236.273,
+        "endTime": 237.197,
+        "gloss": "speak"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 237.197,
+        "endTime": 238.463,
+        "gloss": "English"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 238.463,
+        "endTime": 238.926,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Can you speak English?"
+  },
+  {
+    "startTime": 240.166,
+    "endTime": 244.2,
+    "fullTextZH": "你会说中文吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 240.226,
+        "endTime": 240.989,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 240.989,
+        "endTime": 241.41,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 241.41,
+        "endTime": 242.434,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 242.434,
+        "endTime": 243.779,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 243.779,
+        "endTime": 244.16,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Can you speak Chinese?"
+  },
+  {
+    "startTime": 245.9,
+    "endTime": 250.5,
+    "fullTextZH": "你会说一点点中文。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 245.96,
+        "endTime": 246.924,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 246.924,
+        "endTime": 247.386,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 247.386,
+        "endTime": 248.29,
+        "gloss": "speak"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 248.29,
+        "endTime": 249.656,
+        "gloss": "a little"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 249.656,
+        "endTime": 250.46,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "You can speak a little Chinese."
+  },
+  {
+    "startTime": 251.2,
+    "endTime": 252.266,
+    "fullTextZH": "对不对？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 251.24,
+        "endTime": 251.723,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 251.723,
+        "endTime": 251.884,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 251.884,
+        "endTime": 252.246,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right?"
+  },
+  {
+    "startTime": 253.9,
+    "endTime": 257.3,
+    "fullTextZH": "胖胖喜欢买东西。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 253.9,
+        "endTime": 254.966,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 254.966,
+        "endTime": 256.012,
+        "gloss": "likes"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 256.012,
+        "endTime": 256.435,
+        "gloss": "buy"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 256.435,
+        "endTime": 257.26,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Pangpang likes shopping."
+  },
+  {
+    "startTime": 258.266,
+    "endTime": 261.866,
+    "fullTextZH": "胖胖也喜欢睡觉。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 258.266,
+        "endTime": 259.292,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 259.292,
+        "endTime": 260.056,
+        "gloss": "also"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 260.056,
+        "endTime": 261.021,
+        "gloss": "likes"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 261.021,
+        "endTime": 261.826,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Pangpang also likes sleeping."
+  },
+  {
+    "startTime": 262.766,
+    "endTime": 266.1,
+    "fullTextZH": "他不喜欢工作。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 262.806,
+        "endTime": 263.73,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 263.73,
+        "endTime": 264.353,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 264.353,
+        "endTime": 265.297,
+        "gloss": "like"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 265.297,
+        "endTime": 266.06,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "He doesn't like working."
+  },
+  {
+    "startTime": 267.133,
+    "endTime": 271.166,
+    "fullTextZH": "笨笨和胖胖不一样。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 267.133,
+        "endTime": 268.076,
+        "gloss": "Benben"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 268.076,
+        "endTime": 268.738,
+        "gloss": "and"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 268.738,
+        "endTime": 269.822,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 269.822,
+        "endTime": 270.343,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 270.343,
+        "endTime": 271.126,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "Benben and Pangpang are different."
+  },
+  {
+    "startTime": 271.8,
+    "endTime": 275.166,
+    "fullTextZH": "笨笨喜欢工作。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 271.84,
+        "endTime": 273.022,
+        "gloss": "Benben"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 273.022,
+        "endTime": 274.304,
+        "gloss": "likes"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 274.304,
+        "endTime": 275.126,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Benben likes working."
+  },
+  {
+    "startTime": 277.066,
+    "endTime": 280.533,
+    "fullTextZH": "胖胖每天睡觉。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 277.086,
+        "endTime": 278.288,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 278.288,
+        "endTime": 279.651,
+        "gloss": "every day"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 279.651,
+        "endTime": 280.513,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Pangpang sleeps every day."
+  },
+  {
+    "startTime": 281.566,
+    "endTime": 282.366,
+    "fullTextZH": "笨笨，",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 281.607,
+        "endTime": 282.325,
+        "gloss": "Benben"
+      }
+    ],
+    "fullTextEN": "Benben,"
+  },
+  {
+    "startTime": 283.7,
+    "endTime": 285.266,
+    "fullTextZH": "不开心。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 284.001,
+        "endTime": 284.282,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 284.282,
+        "endTime": 285.226,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Unhappy."
+  },
+  {
+    "startTime": 287.5,
+    "endTime": 295.0,
+    "fullTextZH": "所以笨笨做了很辣很辣的饺子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 287.58,
+        "endTime": 288.884,
+        "gloss": "so"
+      },
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 288.884,
+        "endTime": 290.047,
+        "gloss": "Benben"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 290.047,
+        "endTime": 290.488,
+        "gloss": "make"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 290.488,
+        "endTime": 291.27,
+        "gloss": "completed"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 291.27,
+        "endTime": 291.892,
+        "gloss": "very"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 291.892,
+        "endTime": 292.293,
+        "gloss": "spicy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 292.293,
+        "endTime": 292.714,
+        "gloss": "very"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 292.714,
+        "endTime": 293.075,
+        "gloss": "spicy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 293.075,
+        "endTime": 293.977,
+        "gloss": "particle"
+      },
+      {
+        "word": "饺子",
+        "pinyin": "jiǎo zi",
+        "startTime": 293.977,
+        "endTime": 294.96,
+        "gloss": "dumplings"
+      }
+    ],
+    "fullTextEN": "So Benben made very spicy dumplings."
+  },
+  {
+    "startTime": 296.133,
+    "endTime": 299.866,
+    "fullTextZH": "笨笨给胖胖吃。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 296.173,
+        "endTime": 297.157,
+        "gloss": "Benben"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 297.157,
+        "endTime": 298.26,
+        "gloss": "give"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 298.26,
+        "endTime": 299.384,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 299.384,
+        "endTime": 299.826,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Benben gave them to Pangpang to eat."
+  },
+  {
+    "startTime": 301.6,
+    "endTime": 306.366,
+    "fullTextZH": "胖胖最喜欢吃饺子。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 301.62,
+        "endTime": 302.501,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 302.501,
+        "endTime": 303.422,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 303.422,
+        "endTime": 304.624,
+        "gloss": "like"
+      },
+      {
+        "word": "吃饺子",
+        "pinyin": "chī jiǎo zi",
+        "startTime": 304.624,
+        "endTime": 306.326,
+        "gloss": "eat dumplings"
+      }
+    ],
+    "fullTextEN": "Pangpang loves eating dumplings the most."
+  },
+  {
+    "startTime": 307.133,
+    "endTime": 309.0,
+    "fullTextZH": "胖胖很饿。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 307.153,
+        "endTime": 307.876,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 307.876,
+        "endTime": 308.538,
+        "gloss": "very"
+      },
+      {
+        "word": "饿",
+        "pinyin": "è",
+        "startTime": 308.538,
+        "endTime": 308.96,
+        "gloss": "hungry"
+      }
+    ],
+    "fullTextEN": "Pangpang is very hungry."
+  },
+  {
+    "startTime": 310.1,
+    "endTime": 314.433,
+    "fullTextZH": "胖胖不知道饺子很辣。",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 310.12,
+        "endTime": 310.943,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 310.943,
+        "endTime": 311.424,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 311.424,
+        "endTime": 312.527,
+        "gloss": "know"
+      },
+      {
+        "word": "饺子",
+        "pinyin": "jiǎo zi",
+        "startTime": 312.527,
+        "endTime": 313.37,
+        "gloss": "dumplings"
+      },
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 313.37,
+        "endTime": 314.393,
+        "gloss": "very spicy"
+      }
+    ],
+    "fullTextEN": "Pangpang doesn't know the dumplings are very spicy."
+  },
+  {
+    "startTime": 314.833,
+    "endTime": 321.366,
+    "fullTextZH": "所以胖胖吃了所有的饺子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 314.913,
+        "endTime": 316.055,
+        "gloss": "so"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 316.055,
+        "endTime": 317.298,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 317.298,
+        "endTime": 317.659,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 317.659,
+        "endTime": 318.46,
+        "gloss": "completed"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 318.46,
+        "endTime": 319.703,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 319.703,
+        "endTime": 320.384,
+        "gloss": "particle"
+      },
+      {
+        "word": "饺子",
+        "pinyin": "jiǎo zi",
+        "startTime": 320.384,
+        "endTime": 321.326,
+        "gloss": "dumplings"
+      }
+    ],
+    "fullTextEN": "So Pangpang ate all the dumplings."
+  },
+  {
+    "startTime": 322.2,
+    "endTime": 324.633,
+    "fullTextZH": "胖胖辣死了！",
+    "words": [
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 322.2,
+        "endTime": 323.085,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "辣死",
+        "pinyin": "là sǐ",
+        "startTime": 323.085,
+        "endTime": 324.191,
+        "gloss": "extremely spicy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 324.191,
+        "endTime": 324.593,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Pangpang is extremely spicy!"
+  },
+  {
+    "startTime": 326.0,
+    "endTime": 329.866,
+    "fullTextZH": "现在胖胖不开心。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 326.02,
+        "endTime": 327.142,
+        "gloss": "now"
+      },
+      {
+        "word": "胖胖",
+        "pinyin": "pàng pàng",
+        "startTime": 327.142,
+        "endTime": 328.504,
+        "gloss": "Pangpang"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 328.504,
+        "endTime": 328.844,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 328.844,
+        "endTime": 329.826,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Now Pangpang is unhappy."
+  },
+  {
+    "startTime": 330.066,
+    "endTime": 334.2,
+    "fullTextZH": "笨笨很开心。",
+    "words": [
+      {
+        "word": "笨笨",
+        "pinyin": "bèn bèn",
+        "startTime": 331.491,
+        "endTime": 332.675,
+        "gloss": "Benben"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 332.675,
+        "endTime": 333.197,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 333.197,
+        "endTime": 334.16,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Benben is very happy."
+  },
+  {
+    "startTime": 335.933,
+    "endTime": 336.733,
+    "fullTextZH": "谢谢。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 336.036,
+        "endTime": 336.712,
+        "gloss": "thank you"
+      }
+    ],
+    "fullTextEN": "Thank you."
+  },
+  {
+    "startTime": 337.4,
+    "endTime": 338.2,
+    "fullTextZH": "再见。",
+    "words": [
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 337.441,
+        "endTime": 338.179,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Goodbye."
+  }
+]

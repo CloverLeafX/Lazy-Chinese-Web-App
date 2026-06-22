@@ -1,0 +1,5453 @@
+[
+  {
+    "startTime": 0.366,
+    "endTime": 1.6,
+    "fullTextZH": "hello，大家好",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.932,
+        "endTime": 1.276,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.276,
+        "endTime": 1.297,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello, everyone."
+  },
+  {
+    "startTime": 1.6,
+    "endTime": 3.566,
+    "fullTextZH": "我是Bella老师",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.66,
+        "endTime": 1.901,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.901,
+        "endTime": 2.222,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 2.623,
+        "endTime": 2.944,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am Teacher Bella."
+  },
+  {
+    "startTime": 3.833,
+    "endTime": 7.6,
+    "fullTextZH": "每个人都有他们害怕的东西",
+    "words": [
+      {
+        "word": "每个",
+        "pinyin": "měi gè",
+        "startTime": 3.913,
+        "endTime": 4.314,
+        "gloss": "every"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 4.314,
+        "endTime": 4.835,
+        "gloss": "person"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 4.835,
+        "endTime": 5.035,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 5.035,
+        "endTime": 5.236,
+        "gloss": "have"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 5.236,
+        "endTime": 5.997,
+        "gloss": "they"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 5.997,
+        "endTime": 6.618,
+        "gloss": "afraid"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 6.618,
+        "endTime": 6.819,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 6.819,
+        "endTime": 7.139,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Everyone has something they are afraid of."
+  },
+  {
+    "startTime": 8.066,
+    "endTime": 10.8,
+    "fullTextZH": "一些人可能怕黑",
+    "words": [
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 8.146,
+        "endTime": 8.609,
+        "gloss": "some"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 8.609,
+        "endTime": 9.272,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 9.272,
+        "endTime": 9.674,
+        "gloss": "might"
+      },
+      {
+        "word": "怕黑",
+        "pinyin": "pà hēi",
+        "startTime": 9.674,
+        "endTime": 10.177,
+        "gloss": "afraid of dark"
+      }
+    ],
+    "fullTextEN": "Some people might be afraid of the dark."
+  },
+  {
+    "startTime": 11.333,
+    "endTime": 14.566,
+    "fullTextZH": "一些人可能怕鬼",
+    "words": [
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 11.373,
+        "endTime": 11.835,
+        "gloss": "some"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 11.835,
+        "endTime": 12.498,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 12.498,
+        "endTime": 12.96,
+        "gloss": "might"
+      },
+      {
+        "word": "怕鬼",
+        "pinyin": "pà guǐ",
+        "startTime": 12.96,
+        "endTime": 13.803,
+        "gloss": "afraid of ghosts"
+      }
+    ],
+    "fullTextEN": "Some people might be afraid of ghosts."
+  },
+  {
+    "startTime": 14.866,
+    "endTime": 17.8,
+    "fullTextZH": "一些人可能怕蛇",
+    "words": [
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 14.946,
+        "endTime": 15.368,
+        "gloss": "some"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 15.368,
+        "endTime": 15.991,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 15.991,
+        "endTime": 16.413,
+        "gloss": "might"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 16.413,
+        "endTime": 17.117,
+        "gloss": "afraid"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 17.117,
+        "endTime": 17.137,
+        "gloss": "snakes"
+      }
+    ],
+    "fullTextEN": "Some people might be afraid of snakes."
+  },
+  {
+    "startTime": 18.4,
+    "endTime": 21.8,
+    "fullTextZH": "一些人可能怕狗",
+    "words": [
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 18.48,
+        "endTime": 18.963,
+        "gloss": "some"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 18.963,
+        "endTime": 19.788,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 19.788,
+        "endTime": 20.331,
+        "gloss": "might"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 20.331,
+        "endTime": 21.015,
+        "gloss": "afraid"
+      },
+      {
+        "word": "狗",
+        "pinyin": "gǒu",
+        "startTime": 21.015,
+        "endTime": 21.036,
+        "gloss": "dogs"
+      }
+    ],
+    "fullTextEN": "Some people might be afraid of dogs."
+  },
+  {
+    "startTime": 22.4,
+    "endTime": 23.333,
+    "fullTextZH": "我呢",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 22.583,
+        "endTime": 22.806,
+        "gloss": "I"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 22.806,
+        "endTime": 22.826,
+        "gloss": "what about"
+      }
+    ],
+    "fullTextEN": "What about me?"
+  },
+  {
+    "startTime": 23.9,
+    "endTime": 29.2,
+    "fullTextZH": "我害怕的这个东西啊，它的嘴巴很长",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 24.0,
+        "endTime": 24.161,
+        "gloss": "I"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 24.161,
+        "endTime": 24.823,
+        "gloss": "afraid"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 24.823,
+        "endTime": 25.044,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 25.044,
+        "endTime": 25.305,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 25.305,
+        "endTime": 25.807,
+        "gloss": "thing"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 25.807,
+        "endTime": 25.968,
+        "gloss": "ah"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 26.309,
+        "endTime": 26.49,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.49,
+        "endTime": 26.871,
+        "gloss": "of"
+      },
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 26.871,
+        "endTime": 27.795,
+        "gloss": "mouth"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 27.795,
+        "endTime": 28.337,
+        "gloss": "very long"
+      }
+    ],
+    "fullTextEN": "The thing I am afraid of, its mouth is very long."
+  },
+  {
+    "startTime": 29.333,
+    "endTime": 32.266,
+    "fullTextZH": "会叫，还会飞",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 29.474,
+        "endTime": 29.855,
+        "gloss": "can"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 29.855,
+        "endTime": 30.116,
+        "gloss": "make sounds"
+      },
+      {
+        "word": "还会",
+        "pinyin": "hái huì",
+        "startTime": 31.0,
+        "endTime": 31.704,
+        "gloss": "also can"
+      },
+      {
+        "word": "飞",
+        "pinyin": "fēi",
+        "startTime": 31.704,
+        "endTime": 31.724,
+        "gloss": "fly"
+      }
+    ],
+    "fullTextEN": "It can make sounds and also fly."
+  },
+  {
+    "startTime": 32.933,
+    "endTime": 37.966,
+    "fullTextZH": "你知道我害怕的这个东西是什么吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 33.013,
+        "endTime": 33.234,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 33.234,
+        "endTime": 34.116,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 34.116,
+        "endTime": 34.337,
+        "gloss": "I"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 34.337,
+        "endTime": 35.018,
+        "gloss": "afraid"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 35.018,
+        "endTime": 35.199,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 35.199,
+        "endTime": 35.439,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 35.439,
+        "endTime": 36.482,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 36.482,
+        "endTime": 37.044,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 37.044,
+        "endTime": 37.465,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 37.465,
+        "endTime": 37.485,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know what this thing I am afraid of is?"
+  },
+  {
+    "startTime": 39.366,
+    "endTime": 40.666,
+    "fullTextZH": "没错",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 39.488,
+        "endTime": 40.118,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "That's right."
+  },
+  {
+    "startTime": 41.366,
+    "endTime": 45.366,
+    "fullTextZH": "我怕的这个东西呀，是鸟",
+    "words": [
+      {
+        "word": "我怕",
+        "pinyin": "wǒ pà",
+        "startTime": 41.446,
+        "endTime": 41.949,
+        "gloss": "I afraid"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 41.949,
+        "endTime": 42.09,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 42.09,
+        "endTime": 42.351,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 42.351,
+        "endTime": 42.894,
+        "gloss": "thing"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 42.894,
+        "endTime": 43.075,
+        "gloss": "ah"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 43.637,
+        "endTime": 44.421,
+        "gloss": "is"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 44.421,
+        "endTime": 44.441,
+        "gloss": "bird"
+      }
+    ],
+    "fullTextEN": "The thing I am afraid of is a bird."
+  },
+  {
+    "startTime": 46.7,
+    "endTime": 49.266,
+    "fullTextZH": "嗯，你可能会说",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 46.78,
+        "endTime": 46.981,
+        "gloss": "hmm"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 47.562,
+        "endTime": 47.823,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 47.823,
+        "endTime": 48.344,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 48.344,
+        "endTime": 48.584,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 48.584,
+        "endTime": 48.604,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Hmm, you might say,"
+  },
+  {
+    "startTime": 50.3,
+    "endTime": 51.933,
+    "fullTextZH": "鸟很可爱哎",
+    "words": [
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 50.381,
+        "endTime": 50.683,
+        "gloss": "birds"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 50.683,
+        "endTime": 50.945,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 50.945,
+        "endTime": 51.409,
+        "gloss": "cute"
+      },
+      {
+        "word": "哎",
+        "pinyin": "āi",
+        "startTime": 51.409,
+        "endTime": 51.429,
+        "gloss": "huh"
+      }
+    ],
+    "fullTextEN": "Birds are very cute, huh."
+  },
+  {
+    "startTime": 51.933,
+    "endTime": 55.266,
+    "fullTextZH": "为什么Bella老师会害怕鸟啊",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 52.033,
+        "endTime": 52.435,
+        "gloss": "why"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 53.298,
+        "endTime": 53.76,
+        "gloss": "teacher"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 53.76,
+        "endTime": 53.921,
+        "gloss": "can"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 53.921,
+        "endTime": 54.443,
+        "gloss": "afraid"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 54.443,
+        "endTime": 54.824,
+        "gloss": "birds"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 54.824,
+        "endTime": 54.844,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Why is Teacher Bella afraid of birds?"
+  },
+  {
+    "startTime": 55.7,
+    "endTime": 58.733,
+    "fullTextZH": "今天Bella老师就要告诉你",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 55.76,
+        "endTime": 56.744,
+        "gloss": "today"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 57.146,
+        "endTime": 57.548,
+        "gloss": "teacher"
+      },
+      {
+        "word": "就要",
+        "pinyin": "jiù yào",
+        "startTime": 57.548,
+        "endTime": 57.849,
+        "gloss": "will"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 57.849,
+        "endTime": 58.331,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 58.331,
+        "endTime": 58.351,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "Today, Teacher Bella will tell you"
+  },
+  {
+    "startTime": 58.733,
+    "endTime": 62.266,
+    "fullTextZH": "我为什么害怕鸟的小故事",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 58.813,
+        "endTime": 59.014,
+        "gloss": "I"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 59.014,
+        "endTime": 59.797,
+        "gloss": "why"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 59.797,
+        "endTime": 60.479,
+        "gloss": "afraid"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 60.479,
+        "endTime": 60.961,
+        "gloss": "birds"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 60.961,
+        "endTime": 61.142,
+        "gloss": "of"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 61.142,
+        "endTime": 61.443,
+        "gloss": "small"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 61.443,
+        "endTime": 61.764,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "the little story of why I am afraid of birds."
+  },
+  {
+    "startTime": 62.766,
+    "endTime": 65.533,
+    "fullTextZH": "在我很小的时候",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 62.866,
+        "endTime": 63.107,
+        "gloss": "at"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 63.107,
+        "endTime": 63.448,
+        "gloss": "I"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 63.448,
+        "endTime": 64.45,
+        "gloss": "very young"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 64.45,
+        "endTime": 64.631,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 64.631,
+        "endTime": 64.911,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When I was very young,"
+  },
+  {
+    "startTime": 65.766,
+    "endTime": 69.8,
+    "fullTextZH": "我的妈妈常常去她的朋友家",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 65.826,
+        "endTime": 65.967,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 65.967,
+        "endTime": 66.147,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 66.147,
+        "endTime": 67.171,
+        "gloss": "mom"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 67.171,
+        "endTime": 68.014,
+        "gloss": "often"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 68.014,
+        "endTime": 68.214,
+        "gloss": "go"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 68.214,
+        "endTime": 68.435,
+        "gloss": "she"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 68.435,
+        "endTime": 68.656,
+        "gloss": "of"
+      },
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 68.656,
+        "endTime": 69.198,
+        "gloss": "friend's house"
+      }
+    ],
+    "fullTextEN": "my mom often went to her friend's house."
+  },
+  {
+    "startTime": 71.033,
+    "endTime": 74.833,
+    "fullTextZH": "这个朋友的家很大",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 71.154,
+        "endTime": 71.536,
+        "gloss": "this"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 71.536,
+        "endTime": 72.239,
+        "gloss": "friend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 72.239,
+        "endTime": 72.461,
+        "gloss": "possessive"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 72.461,
+        "endTime": 73.345,
+        "gloss": "house"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 73.345,
+        "endTime": 73.989,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This friend's house is very big."
+  },
+  {
+    "startTime": 75.533,
+    "endTime": 80.833,
+    "fullTextZH": "朋友家的前面有一个很大的地方",
+    "words": [
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 75.573,
+        "endTime": 76.216,
+        "gloss": "friend's house"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 76.216,
+        "endTime": 76.477,
+        "gloss": "possessive"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 76.477,
+        "endTime": 77.46,
+        "gloss": "front"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 77.46,
+        "endTime": 77.761,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 77.761,
+        "endTime": 78.283,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 78.283,
+        "endTime": 79.709,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 79.709,
+        "endTime": 79.869,
+        "gloss": "possessive"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 79.869,
+        "endTime": 80.251,
+        "gloss": "area"
+      }
+    ],
+    "fullTextEN": "In front of the friend's house, there is a very large area."
+  },
+  {
+    "startTime": 81.433,
+    "endTime": 83.4,
+    "fullTextZH": "然后这个地方呢",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 81.553,
+        "endTime": 82.035,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 82.035,
+        "endTime": 82.336,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 82.336,
+        "endTime": 82.918,
+        "gloss": "place"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 82.918,
+        "endTime": 82.938,
+        "gloss": "you know"
+      }
+    ],
+    "fullTextEN": "And then this place, you know,"
+  },
+  {
+    "startTime": 83.466,
+    "endTime": 86.933,
+    "fullTextZH": "有很多的火鸡",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 83.566,
+        "endTime": 84.107,
+        "gloss": "there is"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 84.107,
+        "endTime": 85.27,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 85.27,
+        "endTime": 85.931,
+        "gloss": "possessive"
+      },
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 85.931,
+        "endTime": 86.312,
+        "gloss": "turkeys"
+      }
+    ],
+    "fullTextEN": "There are many turkeys."
+  },
+  {
+    "startTime": 87.933,
+    "endTime": 90.2,
+    "fullTextZH": "火鸡是什么啊",
+    "words": [
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 88.073,
+        "endTime": 89.217,
+        "gloss": "turkeys"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 89.217,
+        "endTime": 89.398,
+        "gloss": "are"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 89.398,
+        "endTime": 89.779,
+        "gloss": "what"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 89.779,
+        "endTime": 89.799,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "What are turkeys?"
+  },
+  {
+    "startTime": 90.533,
+    "endTime": 95.633,
+    "fullTextZH": "火鸡就是这个很大的鸟",
+    "words": [
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 90.653,
+        "endTime": 91.075,
+        "gloss": "turkeys"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 91.075,
+        "endTime": 91.617,
+        "gloss": "are exactly"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 91.617,
+        "endTime": 93.143,
+        "gloss": "this"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 93.143,
+        "endTime": 94.83,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 94.83,
+        "endTime": 95.011,
+        "gloss": "possessive"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 95.011,
+        "endTime": 95.031,
+        "gloss": "bird"
+      }
+    ],
+    "fullTextEN": "Turkeys are these very large birds."
+  },
+  {
+    "startTime": 96.6,
+    "endTime": 102.766,
+    "fullTextZH": "然后火鸡的脖子前面有这样子的东西",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 96.68,
+        "endTime": 97.261,
+        "gloss": "then"
+      },
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 97.261,
+        "endTime": 98.422,
+        "gloss": "turkey"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 98.422,
+        "endTime": 98.742,
+        "gloss": "possessive"
+      },
+      {
+        "word": "脖子",
+        "pinyin": "bó zi",
+        "startTime": 98.742,
+        "endTime": 99.683,
+        "gloss": "neck"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 99.683,
+        "endTime": 100.744,
+        "gloss": "front"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 100.744,
+        "endTime": 101.024,
+        "gloss": "there is"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 101.024,
+        "endTime": 101.184,
+        "gloss": "this"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 101.184,
+        "endTime": 101.685,
+        "gloss": "kind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 101.685,
+        "endTime": 101.905,
+        "gloss": "possessive"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 101.905,
+        "endTime": 102.266,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "And then in front of the turkey's neck, there is something like this."
+  },
+  {
+    "startTime": 102.966,
+    "endTime": 105.933,
+    "fullTextZH": "看起来特别可怕",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 103.026,
+        "endTime": 104.109,
+        "gloss": "looks"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 104.109,
+        "endTime": 104.971,
+        "gloss": "especially"
+      },
+      {
+        "word": "可怕",
+        "pinyin": "kě pà",
+        "startTime": 104.971,
+        "endTime": 105.271,
+        "gloss": "scary"
+      }
+    ],
+    "fullTextEN": "It looks especially scary."
+  },
+  {
+    "startTime": 106.633,
+    "endTime": 108.5,
+    "fullTextZH": "我记得有一次",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 106.814,
+        "endTime": 107.014,
+        "gloss": "I"
+      },
+      {
+        "word": "记得",
+        "pinyin": "jì de",
+        "startTime": 107.014,
+        "endTime": 107.396,
+        "gloss": "remember"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 107.396,
+        "endTime": 107.657,
+        "gloss": "there is"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 107.657,
+        "endTime": 107.998,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "I remember once,"
+  },
+  {
+    "startTime": 108.6,
+    "endTime": 114.2,
+    "fullTextZH": "我的妈妈带我一起去她的朋友家",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 108.66,
+        "endTime": 108.781,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 108.781,
+        "endTime": 108.941,
+        "gloss": "possessive"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 108.941,
+        "endTime": 109.744,
+        "gloss": "mom"
+      },
+      {
+        "word": "带",
+        "pinyin": "dài",
+        "startTime": 109.744,
+        "endTime": 110.286,
+        "gloss": "took"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 110.286,
+        "endTime": 111.029,
+        "gloss": "me"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 111.029,
+        "endTime": 112.012,
+        "gloss": "together"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 112.012,
+        "endTime": 112.253,
+        "gloss": "to"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 112.253,
+        "endTime": 112.534,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 112.534,
+        "endTime": 113.096,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 113.096,
+        "endTime": 113.638,
+        "gloss": "friend's house"
+      }
+    ],
+    "fullTextEN": "My mom took me to her friend's house."
+  },
+  {
+    "startTime": 115.266,
+    "endTime": 117.633,
+    "fullTextZH": "到了这个地方以后",
+    "words": [
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 115.306,
+        "endTime": 115.567,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 115.567,
+        "endTime": 115.767,
+        "gloss": "completed"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 115.767,
+        "endTime": 116.129,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 116.129,
+        "endTime": 116.791,
+        "gloss": "place"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 116.791,
+        "endTime": 117.071,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After arriving at this place,"
+  },
+  {
+    "startTime": 117.8,
+    "endTime": 121.8,
+    "fullTextZH": "我的妈妈开门下车",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 117.86,
+        "endTime": 118.041,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 118.041,
+        "endTime": 118.222,
+        "gloss": "possessive"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 118.222,
+        "endTime": 118.423,
+        "gloss": "mom"
+      },
+      {
+        "word": "开门",
+        "pinyin": "kāi mén",
+        "startTime": 118.423,
+        "endTime": 118.504,
+        "gloss": "opened door"
+      },
+      {
+        "word": "下车",
+        "pinyin": "xià chē",
+        "startTime": 118.504,
+        "endTime": 118.705,
+        "gloss": "got out of car"
+      }
+    ],
+    "fullTextEN": "My mom opened the door and got out of the car."
+  },
+  {
+    "startTime": 122.133,
+    "endTime": 124.733,
+    "fullTextZH": "进去房子里面",
+    "words": [
+      {
+        "word": "进去",
+        "pinyin": "jìn qù",
+        "startTime": 122.234,
+        "endTime": 123.443,
+        "gloss": "went inside"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 123.443,
+        "endTime": 124.149,
+        "gloss": "house"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 124.149,
+        "endTime": 124.31,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "Went inside the house."
+  },
+  {
+    "startTime": 125.533,
+    "endTime": 128.833,
+    "fullTextZH": "我开门下车",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 125.654,
+        "endTime": 126.579,
+        "gloss": "I"
+      },
+      {
+        "word": "开门",
+        "pinyin": "kāi mén",
+        "startTime": 126.579,
+        "endTime": 127.787,
+        "gloss": "opened door"
+      },
+      {
+        "word": "下车",
+        "pinyin": "xià chē",
+        "startTime": 127.787,
+        "endTime": 128.189,
+        "gloss": "got out of car"
+      }
+    ],
+    "fullTextEN": "I opened the door and got out of the car."
+  },
+  {
+    "startTime": 129.033,
+    "endTime": 133.233,
+    "fullTextZH": "看到一个人也没有",
+    "words": [
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 129.133,
+        "endTime": 130.681,
+        "gloss": "saw"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 130.681,
+        "endTime": 131.324,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 131.324,
+        "endTime": 132.088,
+        "gloss": "person"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 132.088,
+        "endTime": 132.329,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 132.329,
+        "endTime": 132.731,
+        "gloss": "not have"
+      }
+    ],
+    "fullTextEN": "I saw no one."
+  },
+  {
+    "startTime": 133.633,
+    "endTime": 134.933,
+    "fullTextZH": "可是啊",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 133.755,
+        "endTime": 134.344,
+        "gloss": "but"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 134.344,
+        "endTime": 134.364,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "But, you know,"
+  },
+  {
+    "startTime": 135.033,
+    "endTime": 142.7,
+    "fullTextZH": "这些火鸡慢慢的慢慢的向我走过来",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 135.113,
+        "endTime": 135.934,
+        "gloss": "these"
+      },
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 135.934,
+        "endTime": 137.515,
+        "gloss": "turkeys"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 137.515,
+        "endTime": 138.376,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 138.376,
+        "endTime": 138.716,
+        "gloss": "particle"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 138.716,
+        "endTime": 139.397,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.397,
+        "endTime": 140.218,
+        "gloss": "particle"
+      },
+      {
+        "word": "向",
+        "pinyin": "xiàng",
+        "startTime": 140.218,
+        "endTime": 140.678,
+        "gloss": "towards"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 140.678,
+        "endTime": 141.419,
+        "gloss": "me"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 141.419,
+        "endTime": 141.839,
+        "gloss": "walk"
+      },
+      {
+        "word": "过来",
+        "pinyin": "guò lái",
+        "startTime": 141.839,
+        "endTime": 142.119,
+        "gloss": "come over"
+      }
+    ],
+    "fullTextEN": "These turkeys slowly, slowly walked towards me."
+  },
+  {
+    "startTime": 143.1,
+    "endTime": 145.9,
+    "fullTextZH": "那个时候我很矮",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 143.16,
+        "endTime": 143.604,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 143.604,
+        "endTime": 144.51,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 144.51,
+        "endTime": 144.792,
+        "gloss": "I"
+      },
+      {
+        "word": "很矮",
+        "pinyin": "hěn ǎi",
+        "startTime": 144.792,
+        "endTime": 145.316,
+        "gloss": "very short"
+      }
+    ],
+    "fullTextEN": "At that time, I was very short."
+  },
+  {
+    "startTime": 146.1,
+    "endTime": 150.666,
+    "fullTextZH": "这些火鸡都在我的旁边",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 146.16,
+        "endTime": 146.681,
+        "gloss": "these"
+      },
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 146.681,
+        "endTime": 147.902,
+        "gloss": "turkeys"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 147.902,
+        "endTime": 148.743,
+        "gloss": "all"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 148.743,
+        "endTime": 149.004,
+        "gloss": "at"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 149.004,
+        "endTime": 149.224,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 149.224,
+        "endTime": 149.424,
+        "gloss": "possessive"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 149.424,
+        "endTime": 149.925,
+        "gloss": "beside"
+      }
+    ],
+    "fullTextEN": "These turkeys were all beside me."
+  },
+  {
+    "startTime": 151.466,
+    "endTime": 155.566,
+    "fullTextZH": "他们发出咕噜咕噜的声音",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 151.566,
+        "endTime": 152.21,
+        "gloss": "they"
+      },
+      {
+        "word": "发出",
+        "pinyin": "fā chū",
+        "startTime": 152.21,
+        "endTime": 153.496,
+        "gloss": "made"
+      },
+      {
+        "word": "咕噜咕噜",
+        "pinyin": "gū lū gū lū",
+        "startTime": 153.496,
+        "endTime": 154.581,
+        "gloss": "gobbling"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 154.581,
+        "endTime": 154.762,
+        "gloss": "possessive"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 154.762,
+        "endTime": 155.023,
+        "gloss": "sound"
+      }
+    ],
+    "fullTextEN": "They made gobbling sounds."
+  },
+  {
+    "startTime": 156.0,
+    "endTime": 158.9,
+    "fullTextZH": "然后他们的脖子很长",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 156.081,
+        "endTime": 156.423,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 156.423,
+        "endTime": 156.745,
+        "gloss": "they"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 156.745,
+        "endTime": 157.027,
+        "gloss": "of"
+      },
+      {
+        "word": "脖子",
+        "pinyin": "bó zi",
+        "startTime": 157.027,
+        "endTime": 157.792,
+        "gloss": "necks"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 157.792,
+        "endTime": 158.256,
+        "gloss": "very long"
+      }
+    ],
+    "fullTextEN": "Then their necks are very long."
+  },
+  {
+    "startTime": 159.1,
+    "endTime": 161.966,
+    "fullTextZH": "眼睛很大的看着我",
+    "words": [
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 159.16,
+        "endTime": 160.062,
+        "gloss": "eyes"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 160.062,
+        "endTime": 160.723,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.723,
+        "endTime": 160.904,
+        "gloss": "de"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 160.904,
+        "endTime": 161.425,
+        "gloss": "looking"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 161.425,
+        "endTime": 161.445,
+        "gloss": "at me"
+      }
+    ],
+    "fullTextEN": "Eyes wide open looking at me."
+  },
+  {
+    "startTime": 162.366,
+    "endTime": 169.5,
+    "fullTextZH": "好像在说这个小孩看起来很好吃",
+    "words": [
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 162.526,
+        "endTime": 163.649,
+        "gloss": "as if"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 163.649,
+        "endTime": 163.869,
+        "gloss": "at"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 163.869,
+        "endTime": 165.151,
+        "gloss": "saying"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 165.151,
+        "endTime": 165.552,
+        "gloss": "this"
+      },
+      {
+        "word": "小孩",
+        "pinyin": "xiǎo hái",
+        "startTime": 165.552,
+        "endTime": 166.354,
+        "gloss": "child"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 166.354,
+        "endTime": 167.576,
+        "gloss": "looks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 167.576,
+        "endTime": 168.258,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 168.258,
+        "endTime": 168.939,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "As if saying this child looks delicious."
+  },
+  {
+    "startTime": 170.666,
+    "endTime": 173.133,
+    "fullTextZH": "那个时候我很小",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 170.726,
+        "endTime": 171.047,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 171.047,
+        "endTime": 171.789,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 171.789,
+        "endTime": 172.05,
+        "gloss": "I"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 172.05,
+        "endTime": 172.571,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "At that time, I was very small."
+  },
+  {
+    "startTime": 173.2,
+    "endTime": 176.133,
+    "fullTextZH": "所以我觉得很可怕",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 173.401,
+        "endTime": 173.762,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 173.762,
+        "endTime": 174.004,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 174.004,
+        "endTime": 174.646,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 174.646,
+        "endTime": 175.088,
+        "gloss": "very"
+      },
+      {
+        "word": "可怕",
+        "pinyin": "kě pà",
+        "startTime": 175.088,
+        "endTime": 175.47,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "So I felt very scared."
+  },
+  {
+    "startTime": 176.733,
+    "endTime": 180.966,
+    "fullTextZH": "然后我，开始大叫大哭",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 176.813,
+        "endTime": 177.134,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 177.134,
+        "endTime": 177.214,
+        "gloss": "I"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 177.495,
+        "endTime": 178.539,
+        "gloss": "start"
+      },
+      {
+        "word": "大叫",
+        "pinyin": "dà jiào",
+        "startTime": 178.539,
+        "endTime": 179.802,
+        "gloss": "scream"
+      },
+      {
+        "word": "大哭",
+        "pinyin": "dà kū",
+        "startTime": 179.802,
+        "endTime": 180.224,
+        "gloss": "cry"
+      }
+    ],
+    "fullTextEN": "Then I started to scream and cry."
+  },
+  {
+    "startTime": 182.466,
+    "endTime": 183.2,
+    "fullTextZH": "这个时候",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 182.527,
+        "endTime": 182.813,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 182.813,
+        "endTime": 183.017,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "At this time"
+  },
+  {
+    "startTime": 183.2,
+    "endTime": 184.966,
+    "fullTextZH": "我的妈妈听到",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 183.22,
+        "endTime": 183.361,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 183.361,
+        "endTime": 183.541,
+        "gloss": "de"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 183.541,
+        "endTime": 184.063,
+        "gloss": "mom"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 184.063,
+        "endTime": 184.444,
+        "gloss": "heard"
+      }
+    ],
+    "fullTextEN": "My mom heard it."
+  },
+  {
+    "startTime": 185.1,
+    "endTime": 187.866,
+    "fullTextZH": "她跑来帮我",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 185.18,
+        "endTime": 185.561,
+        "gloss": "she"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 185.561,
+        "endTime": 186.483,
+        "gloss": "ran"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 186.483,
+        "endTime": 186.864,
+        "gloss": "to"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 186.864,
+        "endTime": 187.225,
+        "gloss": "help"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 187.225,
+        "endTime": 187.245,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "She ran to help me."
+  },
+  {
+    "startTime": 188.366,
+    "endTime": 190.0,
+    "fullTextZH": "所以最后啊",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 188.628,
+        "endTime": 189.112,
+        "gloss": "so"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 189.112,
+        "endTime": 189.617,
+        "gloss": "finally"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 189.617,
+        "endTime": 189.637,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "So in the end,"
+  },
+  {
+    "startTime": 190.0,
+    "endTime": 193.266,
+    "fullTextZH": "我没有被火鸡吃掉",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 190.12,
+        "endTime": 190.461,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 190.461,
+        "endTime": 191.262,
+        "gloss": "not"
+      },
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 191.262,
+        "endTime": 191.503,
+        "gloss": "by"
+      },
+      {
+        "word": "火鸡",
+        "pinyin": "huǒ jī",
+        "startTime": 191.503,
+        "endTime": 192.424,
+        "gloss": "turkey"
+      },
+      {
+        "word": "吃掉",
+        "pinyin": "chī diào",
+        "startTime": 192.424,
+        "endTime": 192.665,
+        "gloss": "eaten"
+      }
+    ],
+    "fullTextEN": "I was not eaten by the turkey."
+  },
+  {
+    "startTime": 193.9,
+    "endTime": 197.0,
+    "fullTextZH": "可是从那个时候开始",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 193.981,
+        "endTime": 194.786,
+        "gloss": "but"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 194.786,
+        "endTime": 195.229,
+        "gloss": "since"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 195.229,
+        "endTime": 195.571,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 195.571,
+        "endTime": 196.175,
+        "gloss": "time"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 196.175,
+        "endTime": 196.597,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "But since that time,"
+  },
+  {
+    "startTime": 197.2,
+    "endTime": 198.866,
+    "fullTextZH": "我看到鸟",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 197.3,
+        "endTime": 197.501,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 197.501,
+        "endTime": 198.384,
+        "gloss": "see"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 198.384,
+        "endTime": 198.404,
+        "gloss": "birds"
+      }
+    ],
+    "fullTextEN": "When I see birds,"
+  },
+  {
+    "startTime": 198.866,
+    "endTime": 202.466,
+    "fullTextZH": "我都非常的害怕",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 198.967,
+        "endTime": 199.208,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 199.208,
+        "endTime": 199.912,
+        "gloss": "all"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 199.912,
+        "endTime": 200.917,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.917,
+        "endTime": 201.42,
+        "gloss": "de"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 201.42,
+        "endTime": 201.802,
+        "gloss": "afraid"
+      }
+    ],
+    "fullTextEN": "I am very afraid."
+  },
+  {
+    "startTime": 202.866,
+    "endTime": 205.5,
+    "fullTextZH": "最近啊，也有一件事情",
+    "words": [
+      {
+        "word": "最近",
+        "pinyin": "zuì jìn",
+        "startTime": 203.047,
+        "endTime": 203.61,
+        "gloss": "recently"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 203.61,
+        "endTime": 203.831,
+        "gloss": "ah"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 204.273,
+        "endTime": 204.515,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 204.515,
+        "endTime": 204.716,
+        "gloss": "have"
+      },
+      {
+        "word": "一件",
+        "pinyin": "yī jiàn",
+        "startTime": 204.716,
+        "endTime": 205.078,
+        "gloss": "one"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 205.078,
+        "endTime": 205.339,
+        "gloss": "incident"
+      }
+    ],
+    "fullTextEN": "Recently, there was also an incident,"
+  },
+  {
+    "startTime": 205.5,
+    "endTime": 208.2,
+    "fullTextZH": "让我更害怕鸟",
+    "words": [
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 205.581,
+        "endTime": 205.822,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 205.822,
+        "endTime": 206.366,
+        "gloss": "me"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 206.366,
+        "endTime": 206.971,
+        "gloss": "more"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 206.971,
+        "endTime": 207.596,
+        "gloss": "afraid"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 207.596,
+        "endTime": 207.616,
+        "gloss": "birds"
+      }
+    ],
+    "fullTextEN": "that made me even more afraid of birds."
+  },
+  {
+    "startTime": 209.066,
+    "endTime": 210.966,
+    "fullTextZH": "去年的时候",
+    "words": [
+      {
+        "word": "去年",
+        "pinyin": "qù nián",
+        "startTime": 209.268,
+        "endTime": 209.996,
+        "gloss": "last year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 209.996,
+        "endTime": 210.157,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 210.157,
+        "endTime": 210.44,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Last year,"
+  },
+  {
+    "startTime": 211.0,
+    "endTime": 214.3,
+    "fullTextZH": "我去了荷兰旅行",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 211.08,
+        "endTime": 211.423,
+        "gloss": "I"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 211.423,
+        "endTime": 211.704,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 211.704,
+        "endTime": 212.328,
+        "gloss": "le"
+      },
+      {
+        "word": "荷兰",
+        "pinyin": "hé lán",
+        "startTime": 212.328,
+        "endTime": 213.274,
+        "gloss": "Netherlands"
+      },
+      {
+        "word": "旅行",
+        "pinyin": "lǚ xíng",
+        "startTime": 213.274,
+        "endTime": 213.616,
+        "gloss": "travel"
+      }
+    ],
+    "fullTextEN": "I traveled to the Netherlands."
+  },
+  {
+    "startTime": 216.233,
+    "endTime": 218.466,
+    "fullTextZH": "在荷兰旅行的时候",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 216.334,
+        "endTime": 216.595,
+        "gloss": "at"
+      },
+      {
+        "word": "荷兰",
+        "pinyin": "hé lán",
+        "startTime": 216.595,
+        "endTime": 216.997,
+        "gloss": "Netherlands"
+      },
+      {
+        "word": "旅行",
+        "pinyin": "lǚ xíng",
+        "startTime": 216.997,
+        "endTime": 217.46,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 217.46,
+        "endTime": 217.621,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 217.621,
+        "endTime": 217.923,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "While traveling in the Netherlands,"
+  },
+  {
+    "startTime": 218.466,
+    "endTime": 223.9,
+    "fullTextZH": "有一天，我和我的朋友一起去了公园",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 218.566,
+        "endTime": 218.727,
+        "gloss": "have"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 218.727,
+        "endTime": 220.09,
+        "gloss": "one day"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 220.11,
+        "endTime": 220.251,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 220.251,
+        "endTime": 220.612,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 220.612,
+        "endTime": 220.772,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 220.772,
+        "endTime": 220.952,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 220.952,
+        "endTime": 221.694,
+        "gloss": "friend"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 221.694,
+        "endTime": 222.577,
+        "gloss": "together"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 222.577,
+        "endTime": 222.757,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 222.757,
+        "endTime": 222.998,
+        "gloss": "le"
+      },
+      {
+        "word": "公园",
+        "pinyin": "gōng yuán",
+        "startTime": 222.998,
+        "endTime": 223.339,
+        "gloss": "park"
+      }
+    ],
+    "fullTextEN": "One day, my friend and I went to the park together."
+  },
+  {
+    "startTime": 224.233,
+    "endTime": 226.033,
+    "fullTextZH": "这个公园里面呐",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 224.314,
+        "endTime": 224.698,
+        "gloss": "this"
+      },
+      {
+        "word": "公园",
+        "pinyin": "gōng yuán",
+        "startTime": 224.698,
+        "endTime": 225.264,
+        "gloss": "park"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 225.264,
+        "endTime": 225.689,
+        "gloss": "inside"
+      },
+      {
+        "word": "呐",
+        "pinyin": "nà",
+        "startTime": 225.689,
+        "endTime": 225.709,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Inside this park,"
+  },
+  {
+    "startTime": 226.033,
+    "endTime": 227.7,
+    "fullTextZH": "有一台车",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 226.073,
+        "endTime": 226.254,
+        "gloss": "there is"
+      },
+      {
+        "word": "一台",
+        "pinyin": "yī tái",
+        "startTime": 226.254,
+        "endTime": 227.118,
+        "gloss": "one"
+      },
+      {
+        "word": "车",
+        "pinyin": "chē",
+        "startTime": 227.118,
+        "endTime": 227.138,
+        "gloss": "car"
+      }
+    ],
+    "fullTextEN": "There is a car."
+  },
+  {
+    "startTime": 228.2,
+    "endTime": 229.7,
+    "fullTextZH": "这台车呢",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 228.301,
+        "endTime": 228.464,
+        "gloss": "this"
+      },
+      {
+        "word": "台车",
+        "pinyin": "tái chē",
+        "startTime": 228.464,
+        "endTime": 229.193,
+        "gloss": "car"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 229.193,
+        "endTime": 229.214,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "As for this car,"
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 232.633,
+    "fullTextZH": "卖越南的面包",
+    "words": [
+      {
+        "word": "卖",
+        "pinyin": "mài",
+        "startTime": 229.861,
+        "endTime": 230.624,
+        "gloss": "sell"
+      },
+      {
+        "word": "越南",
+        "pinyin": "yuè nán",
+        "startTime": 230.624,
+        "endTime": 231.247,
+        "gloss": "Vietnamese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 231.247,
+        "endTime": 231.729,
+        "gloss": "particle"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 231.729,
+        "endTime": 232.131,
+        "gloss": "sandwich"
+      }
+    ],
+    "fullTextEN": "It sells Vietnamese sandwiches."
+  },
+  {
+    "startTime": 233.333,
+    "endTime": 237.633,
+    "fullTextZH": "我和我的朋友看到觉得很好吃",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 233.454,
+        "endTime": 233.594,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 233.594,
+        "endTime": 233.876,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 233.876,
+        "endTime": 234.016,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 234.016,
+        "endTime": 234.177,
+        "gloss": "particle"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 234.177,
+        "endTime": 234.599,
+        "gloss": "friend"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 234.599,
+        "endTime": 235.583,
+        "gloss": "saw"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 235.583,
+        "endTime": 236.347,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 236.347,
+        "endTime": 236.387,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 236.387,
+        "endTime": 236.528,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "My friend and I saw it and thought it looked delicious."
+  },
+  {
+    "startTime": 237.633,
+    "endTime": 243.2,
+    "fullTextZH": "所以我们也想去买这个越南面包",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 237.893,
+        "endTime": 238.594,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 238.594,
+        "endTime": 238.955,
+        "gloss": "we"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 238.955,
+        "endTime": 239.475,
+        "gloss": "also"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 239.475,
+        "endTime": 240.056,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 240.056,
+        "endTime": 240.316,
+        "gloss": "to"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 240.316,
+        "endTime": 240.917,
+        "gloss": "buy"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 240.917,
+        "endTime": 241.598,
+        "gloss": "this"
+      },
+      {
+        "word": "越南",
+        "pinyin": "yuè nán",
+        "startTime": 241.598,
+        "endTime": 242.359,
+        "gloss": "Vietnamese"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 242.359,
+        "endTime": 242.679,
+        "gloss": "sandwich"
+      }
+    ],
+    "fullTextEN": "So we also wanted to buy this Vietnamese sandwich."
+  },
+  {
+    "startTime": 243.8,
+    "endTime": 244.766,
+    "fullTextZH": "所以呀",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 244.042,
+        "endTime": 244.444,
+        "gloss": "so"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 244.444,
+        "endTime": 244.464,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 244.766,
+    "endTime": 248.6,
+    "fullTextZH": "我和我的朋友就买了越南面包",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 244.786,
+        "endTime": 244.927,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 244.927,
+        "endTime": 245.188,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 245.188,
+        "endTime": 245.328,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 245.328,
+        "endTime": 245.549,
+        "gloss": "particle"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 245.549,
+        "endTime": 246.111,
+        "gloss": "friend"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 246.111,
+        "endTime": 246.372,
+        "gloss": "then"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 246.372,
+        "endTime": 246.813,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 246.813,
+        "endTime": 247.235,
+        "gloss": "particle"
+      },
+      {
+        "word": "越南",
+        "pinyin": "yuè nán",
+        "startTime": 247.235,
+        "endTime": 247.737,
+        "gloss": "Vietnamese"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 247.737,
+        "endTime": 248.098,
+        "gloss": "sandwich"
+      }
+    ],
+    "fullTextEN": "My friend and I bought the Vietnamese sandwich."
+  },
+  {
+    "startTime": 248.733,
+    "endTime": 251.433,
+    "fullTextZH": "我们坐在树的下面",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 248.834,
+        "endTime": 249.297,
+        "gloss": "we"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 249.297,
+        "endTime": 250.164,
+        "gloss": "sit under"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 250.164,
+        "endTime": 250.506,
+        "gloss": "tree"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 250.506,
+        "endTime": 250.687,
+        "gloss": "particle"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 250.687,
+        "endTime": 250.97,
+        "gloss": "under"
+      }
+    ],
+    "fullTextEN": "We sat under the tree."
+  },
+  {
+    "startTime": 251.833,
+    "endTime": 255.966,
+    "fullTextZH": "一边吃面包一边聊天",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 251.893,
+        "endTime": 252.736,
+        "gloss": "while"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 252.736,
+        "endTime": 253.037,
+        "gloss": "eat"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 253.037,
+        "endTime": 254.18,
+        "gloss": "sandwich"
+      },
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 254.18,
+        "endTime": 254.903,
+        "gloss": "while"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 254.903,
+        "endTime": 255.344,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "Eating sandwiches while chatting."
+  },
+  {
+    "startTime": 256.633,
+    "endTime": 262.666,
+    "fullTextZH": "这个时候我发现了一只鸟在上面",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 256.733,
+        "endTime": 257.014,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 257.014,
+        "endTime": 258.016,
+        "gloss": "moment"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 258.016,
+        "endTime": 258.357,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 258.357,
+        "endTime": 258.998,
+        "gloss": "discover"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 258.998,
+        "endTime": 259.72,
+        "gloss": "particle"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 259.72,
+        "endTime": 260.521,
+        "gloss": "one"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 260.521,
+        "endTime": 261.463,
+        "gloss": "bird"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 261.463,
+        "endTime": 261.904,
+        "gloss": "at"
+      },
+      {
+        "word": "上面",
+        "pinyin": "shàng miàn",
+        "startTime": 261.904,
+        "endTime": 262.245,
+        "gloss": "above"
+      }
+    ],
+    "fullTextEN": "At that moment, I noticed a bird above."
+  },
+  {
+    "startTime": 263.8,
+    "endTime": 265.266,
+    "fullTextZH": "什么鸟呢",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 264.021,
+        "endTime": 264.463,
+        "gloss": "what"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 264.463,
+        "endTime": 264.824,
+        "gloss": "bird"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 264.824,
+        "endTime": 264.844,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "What kind of bird?"
+  },
+  {
+    "startTime": 265.933,
+    "endTime": 268.833,
+    "fullTextZH": "这种鸟叫海鸥",
+    "words": [
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 265.993,
+        "endTime": 266.416,
+        "gloss": "this kind"
+      },
+      {
+        "word": "鸟叫",
+        "pinyin": "niǎo jiào",
+        "startTime": 266.416,
+        "endTime": 267.484,
+        "gloss": "bird called"
+      },
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 267.484,
+        "endTime": 268.249,
+        "gloss": "seagull"
+      }
+    ],
+    "fullTextEN": "This kind of bird is called a seagull."
+  },
+  {
+    "startTime": 269.366,
+    "endTime": 271.066,
+    "fullTextZH": "非常的大",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 269.71,
+        "endTime": 270.297,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.297,
+        "endTime": 270.54,
+        "gloss": "particle"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 270.54,
+        "endTime": 270.56,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "It's very big."
+  },
+  {
+    "startTime": 271.433,
+    "endTime": 276.133,
+    "fullTextZH": "你常常会看到这种鸟在海边",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 271.513,
+        "endTime": 271.734,
+        "gloss": "you"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 271.734,
+        "endTime": 272.357,
+        "gloss": "often"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 272.357,
+        "endTime": 272.558,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 272.558,
+        "endTime": 273.261,
+        "gloss": "see"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 273.261,
+        "endTime": 273.642,
+        "gloss": "this kind"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 273.642,
+        "endTime": 274.265,
+        "gloss": "bird"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 274.265,
+        "endTime": 274.787,
+        "gloss": "at"
+      },
+      {
+        "word": "海边",
+        "pinyin": "hǎi biān",
+        "startTime": 274.787,
+        "endTime": 275.47,
+        "gloss": "seaside"
+      }
+    ],
+    "fullTextEN": "You often see this kind of bird by the sea."
+  },
+  {
+    "startTime": 276.966,
+    "endTime": 281.233,
+    "fullTextZH": "可能你觉得海鸥不大",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 277.066,
+        "endTime": 278.028,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 278.028,
+        "endTime": 278.328,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 278.328,
+        "endTime": 279.45,
+        "gloss": "think"
+      },
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 279.45,
+        "endTime": 280.392,
+        "gloss": "seagull"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 280.392,
+        "endTime": 280.632,
+        "gloss": "not"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 280.632,
+        "endTime": 280.652,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Maybe you think seagulls aren't big,"
+  },
+  {
+    "startTime": 281.6,
+    "endTime": 284.933,
+    "fullTextZH": "可是我因为太害怕鸟了",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 281.66,
+        "endTime": 282.082,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 282.082,
+        "endTime": 282.504,
+        "gloss": "I"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 282.504,
+        "endTime": 283.166,
+        "gloss": "because"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 283.166,
+        "endTime": 283.648,
+        "gloss": "too"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 283.648,
+        "endTime": 284.21,
+        "gloss": "afraid of"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 284.21,
+        "endTime": 284.511,
+        "gloss": "birds"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 284.511,
+        "endTime": 284.531,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "but I am very afraid of birds,"
+  },
+  {
+    "startTime": 285.0,
+    "endTime": 287.233,
+    "fullTextZH": "所以对我来说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 285.181,
+        "endTime": 285.785,
+        "gloss": "so"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 285.785,
+        "endTime": 286.066,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 286.066,
+        "endTime": 286.267,
+        "gloss": "me"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 286.267,
+        "endTime": 286.65,
+        "gloss": "regarding"
+      }
+    ],
+    "fullTextEN": "so for me,"
+  },
+  {
+    "startTime": 287.366,
+    "endTime": 289.566,
+    "fullTextZH": "海鸥这么大",
+    "words": [
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 287.427,
+        "endTime": 288.496,
+        "gloss": "seagull"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 288.496,
+        "endTime": 288.88,
+        "gloss": "so"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 288.88,
+        "endTime": 288.9,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "seagulls are this big."
+  },
+  {
+    "startTime": 290.833,
+    "endTime": 292.766,
+    "fullTextZH": "所以那个时候啊",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 291.054,
+        "endTime": 291.497,
+        "gloss": "so"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 291.497,
+        "endTime": 291.86,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 291.86,
+        "endTime": 292.303,
+        "gloss": "time"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 292.303,
+        "endTime": 292.323,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So at that time,"
+  },
+  {
+    "startTime": 292.833,
+    "endTime": 295.033,
+    "fullTextZH": "我看到了海鸥",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 292.994,
+        "endTime": 293.216,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 293.216,
+        "endTime": 293.903,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 293.903,
+        "endTime": 294.044,
+        "gloss": "le"
+      },
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 294.044,
+        "endTime": 294.347,
+        "gloss": "seagull"
+      }
+    ],
+    "fullTextEN": "I saw a seagull."
+  },
+  {
+    "startTime": 295.166,
+    "endTime": 298.066,
+    "fullTextZH": "海鸥也在看我",
+    "words": [
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 295.408,
+        "endTime": 296.475,
+        "gloss": "seagull"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 296.475,
+        "endTime": 296.817,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 296.817,
+        "endTime": 297.14,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 297.14,
+        "endTime": 297.623,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 297.623,
+        "endTime": 297.643,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "The seagull is also looking at me."
+  },
+  {
+    "startTime": 298.466,
+    "endTime": 300.0,
+    "fullTextZH": "哦，不是",
+    "words": [
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 298.567,
+        "endTime": 298.728,
+        "gloss": "oh"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 299.213,
+        "endTime": 299.495,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "Oh, no."
+  },
+  {
+    "startTime": 300.233,
+    "endTime": 301.966,
+    "fullTextZH": "它不是在看我",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 300.273,
+        "endTime": 300.555,
+        "gloss": "it"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 300.555,
+        "endTime": 301.059,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 301.059,
+        "endTime": 301.261,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 301.261,
+        "endTime": 301.543,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 301.543,
+        "endTime": 301.563,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "It's not looking at me."
+  },
+  {
+    "startTime": 302.233,
+    "endTime": 305.033,
+    "fullTextZH": "它是在看我的面包",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 302.253,
+        "endTime": 302.475,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 302.475,
+        "endTime": 302.636,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 302.636,
+        "endTime": 302.878,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 302.878,
+        "endTime": 303.18,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 303.18,
+        "endTime": 303.522,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 303.522,
+        "endTime": 303.784,
+        "gloss": "bread"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 303.784,
+        "endTime": 304.308,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "It's looking at my bread."
+  },
+  {
+    "startTime": 305.733,
+    "endTime": 309.133,
+    "fullTextZH": "所以啊，我告诉了我的朋友",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 306.015,
+        "endTime": 306.397,
+        "gloss": "so"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 306.397,
+        "endTime": 306.638,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 307.021,
+        "endTime": 307.322,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 307.322,
+        "endTime": 308.006,
+        "gloss": "tell"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 308.006,
+        "endTime": 308.127,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 308.127,
+        "endTime": 308.248,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.248,
+        "endTime": 308.429,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 308.429,
+        "endTime": 308.67,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "So, I told my friend."
+  },
+  {
+    "startTime": 309.6,
+    "endTime": 313.7,
+    "fullTextZH": "呃，我们去其他的地方吧",
+    "words": [
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 309.741,
+        "endTime": 310.444,
+        "gloss": "uh"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 310.484,
+        "endTime": 311.027,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 311.027,
+        "endTime": 311.489,
+        "gloss": "go"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 311.489,
+        "endTime": 312.233,
+        "gloss": "other"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 312.233,
+        "endTime": 312.454,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 312.454,
+        "endTime": 313.137,
+        "gloss": "place"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 313.137,
+        "endTime": 313.157,
+        "gloss": "ba"
+      }
+    ],
+    "fullTextEN": "Uh, let's go somewhere else."
+  },
+  {
+    "startTime": 314.1,
+    "endTime": 316.533,
+    "fullTextZH": "所以我拿着我的面包",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 314.281,
+        "endTime": 314.643,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 314.643,
+        "endTime": 315.005,
+        "gloss": "I"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 315.005,
+        "endTime": 315.387,
+        "gloss": "take"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 315.387,
+        "endTime": 315.568,
+        "gloss": "zhe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 315.568,
+        "endTime": 315.688,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 315.688,
+        "endTime": 315.829,
+        "gloss": "de"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 315.829,
+        "endTime": 316.151,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "So I took my bread."
+  },
+  {
+    "startTime": 316.633,
+    "endTime": 319.433,
+    "fullTextZH": "想要去其他的地方",
+    "words": [
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 316.834,
+        "endTime": 317.801,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 317.801,
+        "endTime": 318.184,
+        "gloss": "go"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 318.184,
+        "endTime": 318.627,
+        "gloss": "other"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 318.627,
+        "endTime": 318.748,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 318.748,
+        "endTime": 319.01,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Want to go somewhere else."
+  },
+  {
+    "startTime": 319.7,
+    "endTime": 321.9,
+    "fullTextZH": "可是这个时候",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 319.781,
+        "endTime": 320.75,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 320.75,
+        "endTime": 321.052,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 321.052,
+        "endTime": 321.315,
+        "gloss": "moment"
+      }
+    ],
+    "fullTextEN": "But at this moment,"
+  },
+  {
+    "startTime": 322.2,
+    "endTime": 327.7,
+    "fullTextZH": "这只海鸥飞过来拿了我的食物",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 322.3,
+        "endTime": 322.461,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 322.461,
+        "endTime": 322.601,
+        "gloss": "zhi"
+      },
+      {
+        "word": "海鸥",
+        "pinyin": "hǎi ōu",
+        "startTime": 322.601,
+        "endTime": 324.087,
+        "gloss": "seagull"
+      },
+      {
+        "word": "飞过来",
+        "pinyin": "fēi guò lái",
+        "startTime": 324.087,
+        "endTime": 325.914,
+        "gloss": "fly over"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 325.914,
+        "endTime": 326.355,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 326.355,
+        "endTime": 326.516,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 326.516,
+        "endTime": 326.656,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 326.656,
+        "endTime": 326.857,
+        "gloss": "de"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 326.857,
+        "endTime": 327.118,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "This seagull flew over and took my food."
+  },
+  {
+    "startTime": 328.066,
+    "endTime": 330.033,
+    "fullTextZH": "啊！我大叫",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 328.307,
+        "endTime": 328.508,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 328.789,
+        "endTime": 329.11,
+        "gloss": "I"
+      },
+      {
+        "word": "大叫",
+        "pinyin": "dà jiào",
+        "startTime": 329.11,
+        "endTime": 329.471,
+        "gloss": "shout"
+      }
+    ],
+    "fullTextEN": "Ah! I shouted."
+  },
+  {
+    "startTime": 330.066,
+    "endTime": 333.866,
+    "fullTextZH": "我很快的把面包丢到别的地方",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 330.126,
+        "endTime": 330.327,
+        "gloss": "I"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 330.327,
+        "endTime": 330.89,
+        "gloss": "quickly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 330.89,
+        "endTime": 331.031,
+        "gloss": "de"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 331.031,
+        "endTime": 331.212,
+        "gloss": "ba"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 331.212,
+        "endTime": 332.298,
+        "gloss": "bread"
+      },
+      {
+        "word": "丢",
+        "pinyin": "diū",
+        "startTime": 332.298,
+        "endTime": 332.619,
+        "gloss": "throw"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 332.619,
+        "endTime": 332.881,
+        "gloss": "to"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 332.881,
+        "endTime": 333.182,
+        "gloss": "other"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 333.182,
+        "endTime": 333.424,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "I quickly threw the bread somewhere else."
+  },
+  {
+    "startTime": 334.033,
+    "endTime": 338.066,
+    "fullTextZH": "这只鸟也开始吃着我的面包",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 334.113,
+        "endTime": 334.274,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 334.274,
+        "endTime": 334.454,
+        "gloss": "zhi"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 334.454,
+        "endTime": 334.795,
+        "gloss": "bird"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 334.795,
+        "endTime": 335.076,
+        "gloss": "also"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 335.076,
+        "endTime": 336.481,
+        "gloss": "start"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 336.481,
+        "endTime": 336.742,
+        "gloss": "eat"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 336.742,
+        "endTime": 336.902,
+        "gloss": "zhe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 336.902,
+        "endTime": 337.083,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 337.083,
+        "endTime": 337.203,
+        "gloss": "de"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 337.203,
+        "endTime": 337.524,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "This bird also started eating my bread."
+  },
+  {
+    "startTime": 338.933,
+    "endTime": 341.166,
+    "fullTextZH": "我因为非常害怕",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 339.034,
+        "endTime": 339.295,
+        "gloss": "I"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 339.295,
+        "endTime": 339.858,
+        "gloss": "because"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 339.858,
+        "endTime": 340.442,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 340.442,
+        "endTime": 340.744,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "I was very scared."
+  },
+  {
+    "startTime": 341.166,
+    "endTime": 342.766,
+    "fullTextZH": "所以我跑了",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 341.267,
+        "endTime": 341.531,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 341.531,
+        "endTime": 341.875,
+        "gloss": "I"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 341.875,
+        "endTime": 342.401,
+        "gloss": "run"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 342.401,
+        "endTime": 342.422,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "So I ran."
+  },
+  {
+    "startTime": 342.9,
+    "endTime": 345.333,
+    "fullTextZH": "我跑到公园的外面",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 342.96,
+        "endTime": 343.182,
+        "gloss": "I"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 343.182,
+        "endTime": 343.523,
+        "gloss": "run"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 343.523,
+        "endTime": 343.885,
+        "gloss": "to"
+      },
+      {
+        "word": "公园",
+        "pinyin": "gōng yuán",
+        "startTime": 343.885,
+        "endTime": 344.448,
+        "gloss": "park"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 344.448,
+        "endTime": 344.569,
+        "gloss": "de"
+      },
+      {
+        "word": "外面",
+        "pinyin": "wài miàn",
+        "startTime": 344.569,
+        "endTime": 344.85,
+        "gloss": "outside"
+      }
+    ],
+    "fullTextEN": "I ran outside the park."
+  },
+  {
+    "startTime": 345.966,
+    "endTime": 349.133,
+    "fullTextZH": "因为我真的非常的害怕",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 346.046,
+        "endTime": 346.367,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 346.367,
+        "endTime": 346.587,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 346.587,
+        "endTime": 347.349,
+        "gloss": "really"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 347.349,
+        "endTime": 348.171,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 348.171,
+        "endTime": 348.251,
+        "gloss": "de"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 348.251,
+        "endTime": 348.572,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "Because I was really very scared."
+  },
+  {
+    "startTime": 349.3,
+    "endTime": 351.733,
+    "fullTextZH": "如果你去荷兰旅行的时候",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 349.36,
+        "endTime": 349.964,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 349.964,
+        "endTime": 350.145,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 350.145,
+        "endTime": 350.386,
+        "gloss": "go"
+      },
+      {
+        "word": "荷兰",
+        "pinyin": "hé lán",
+        "startTime": 350.386,
+        "endTime": 350.828,
+        "gloss": "Netherlands"
+      },
+      {
+        "word": "旅行",
+        "pinyin": "lǚ xíng",
+        "startTime": 350.828,
+        "endTime": 351.25,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 351.25,
+        "endTime": 351.391,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 351.391,
+        "endTime": 351.592,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "If you travel to the Netherlands,"
+  },
+  {
+    "startTime": 351.733,
+    "endTime": 353.833,
+    "fullTextZH": "看到这样子的照片",
+    "words": [
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 351.773,
+        "endTime": 352.197,
+        "gloss": "see"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 352.197,
+        "endTime": 352.319,
+        "gloss": "this"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 352.319,
+        "endTime": 352.521,
+        "gloss": "kind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.521,
+        "endTime": 352.722,
+        "gloss": "de"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 352.722,
+        "endTime": 353.106,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "and see such photos,"
+  },
+  {
+    "startTime": 353.9,
+    "endTime": 356.9,
+    "fullTextZH": "小心啊，这是在告诉你",
+    "words": [
+      {
+        "word": "小心",
+        "pinyin": "xiǎo xīn",
+        "startTime": 354.061,
+        "endTime": 354.705,
+        "gloss": "careful"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 354.705,
+        "endTime": 355.189,
+        "gloss": "ah"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 355.209,
+        "endTime": 355.35,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 355.35,
+        "endTime": 355.531,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 355.531,
+        "endTime": 355.752,
+        "gloss": "at"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 355.752,
+        "endTime": 356.437,
+        "gloss": "telling"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 356.437,
+        "endTime": 356.457,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "Be careful, this is telling you"
+  },
+  {
+    "startTime": 357.033,
+    "endTime": 359.4,
+    "fullTextZH": "要小心你的食物",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 357.113,
+        "endTime": 357.354,
+        "gloss": "need"
+      },
+      {
+        "word": "小心",
+        "pinyin": "xiǎo xīn",
+        "startTime": 357.354,
+        "endTime": 358.076,
+        "gloss": "careful"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 358.076,
+        "endTime": 358.277,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 358.277,
+        "endTime": 358.497,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 358.497,
+        "endTime": 358.838,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Be careful with your food"
+  },
+  {
+    "startTime": 359.566,
+    "endTime": 364.1,
+    "fullTextZH": "如果你不小心小鸟拿了你的食物",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 359.847,
+        "endTime": 360.429,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 360.429,
+        "endTime": 360.689,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 360.689,
+        "endTime": 360.85,
+        "gloss": "not"
+      },
+      {
+        "word": "小心",
+        "pinyin": "xiǎo xīn",
+        "startTime": 360.85,
+        "endTime": 362.014,
+        "gloss": "careful"
+      },
+      {
+        "word": "小鸟",
+        "pinyin": "xiǎo niǎo",
+        "startTime": 362.014,
+        "endTime": 362.756,
+        "gloss": "bird"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 362.756,
+        "endTime": 363.177,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 363.177,
+        "endTime": 363.338,
+        "gloss": "le"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 363.338,
+        "endTime": 363.438,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 363.438,
+        "endTime": 363.619,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 363.619,
+        "endTime": 363.839,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "If you're not careful, the bird might take your food"
+  },
+  {
+    "startTime": 364.133,
+    "endTime": 365.8,
+    "fullTextZH": "你可能会大哭",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 364.394,
+        "endTime": 364.595,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 364.595,
+        "endTime": 365.017,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 365.017,
+        "endTime": 365.218,
+        "gloss": "will"
+      },
+      {
+        "word": "大哭",
+        "pinyin": "dà kū",
+        "startTime": 365.218,
+        "endTime": 365.579,
+        "gloss": "cry a lot"
+      }
+    ],
+    "fullTextEN": "You might cry a lot"
+  },
+  {
+    "startTime": 365.8,
+    "endTime": 368.3,
+    "fullTextZH": "然后你可以去找你的妈妈",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 366.102,
+        "endTime": 366.405,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 366.405,
+        "endTime": 366.566,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 366.566,
+        "endTime": 366.869,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 366.869,
+        "endTime": 367.131,
+        "gloss": "go"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 367.131,
+        "endTime": 367.473,
+        "gloss": "find"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 367.473,
+        "endTime": 367.615,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 367.615,
+        "endTime": 367.715,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 367.715,
+        "endTime": 367.977,
+        "gloss": "mom"
+      }
+    ],
+    "fullTextEN": "Then you can go find your mom"
+  },
+  {
+    "startTime": 368.6,
+    "endTime": 371.0,
+    "fullTextZH": "好啦，现在你们知道",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 368.963,
+        "endTime": 369.225,
+        "gloss": "good"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 369.225,
+        "endTime": 369.487,
+        "gloss": "la"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 369.891,
+        "endTime": 370.556,
+        "gloss": "now"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 370.556,
+        "endTime": 370.859,
+        "gloss": "you all"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 370.859,
+        "endTime": 370.98,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "Alright, now you all know"
+  },
+  {
+    "startTime": 371.0,
+    "endTime": 374.5,
+    "fullTextZH": "为什么我会这么害怕鸟了",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 371.382,
+        "endTime": 372.167,
+        "gloss": "why"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 372.167,
+        "endTime": 372.73,
+        "gloss": "I will"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 372.73,
+        "endTime": 373.233,
+        "gloss": "so"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 373.233,
+        "endTime": 373.876,
+        "gloss": "afraid"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 373.876,
+        "endTime": 374.279,
+        "gloss": "bird"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 374.279,
+        "endTime": 374.299,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Why am I so afraid of birds"
+  },
+  {
+    "startTime": 375.0,
+    "endTime": 381.2,
+    "fullTextZH": "我觉得小的鸟可能有一点可爱",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 375.361,
+        "endTime": 375.562,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 375.562,
+        "endTime": 376.625,
+        "gloss": "think"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 376.625,
+        "endTime": 377.006,
+        "gloss": "small"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 377.006,
+        "endTime": 377.207,
+        "gloss": "of"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 377.207,
+        "endTime": 377.227,
+        "gloss": "bird"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 377.227,
+        "endTime": 377.468,
+        "gloss": "might"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 377.468,
+        "endTime": 377.488,
+        "gloss": "have"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 377.488,
+        "endTime": 377.99,
+        "gloss": "a little"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 377.99,
+        "endTime": 378.411,
+        "gloss": "cute"
+      }
+    ],
+    "fullTextEN": "I think small birds might be a little cute"
+  },
+  {
+    "startTime": 381.5,
+    "endTime": 386.966,
+    "fullTextZH": "可是大的鸟让我觉得非常害怕",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 381.78,
+        "endTime": 382.221,
+        "gloss": "but"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 382.221,
+        "endTime": 382.741,
+        "gloss": "big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 382.741,
+        "endTime": 382.882,
+        "gloss": "of"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 382.882,
+        "endTime": 383.602,
+        "gloss": "bird"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 383.602,
+        "endTime": 383.803,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 383.803,
+        "endTime": 384.043,
+        "gloss": "me"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 384.043,
+        "endTime": 385.204,
+        "gloss": "feel"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 385.204,
+        "endTime": 386.165,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 386.165,
+        "endTime": 386.586,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "But big birds make me feel very scared"
+  },
+  {
+    "startTime": 387.4,
+    "endTime": 390.9,
+    "fullTextZH": "你们呢？你们有没有害怕的动物呢",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 387.661,
+        "endTime": 388.024,
+        "gloss": "you all"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 388.024,
+        "endTime": 388.225,
+        "gloss": "ne"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 388.667,
+        "endTime": 389.009,
+        "gloss": "you all"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 389.009,
+        "endTime": 389.593,
+        "gloss": "have not"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 389.593,
+        "endTime": 390.116,
+        "gloss": "afraid"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 390.116,
+        "endTime": 390.256,
+        "gloss": "of"
+      },
+      {
+        "word": "动物",
+        "pinyin": "dòng wù",
+        "startTime": 390.256,
+        "endTime": 390.659,
+        "gloss": "animal"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 390.659,
+        "endTime": 390.679,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What about you? Do you have any animals you're afraid of?"
+  },
+  {
+    "startTime": 391.1,
+    "endTime": 393.966,
+    "fullTextZH": "比如说狗，猫",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 391.381,
+        "endTime": 392.162,
+        "gloss": "for example"
+      },
+      {
+        "word": "狗",
+        "pinyin": "gǒu",
+        "startTime": 392.162,
+        "endTime": 392.743,
+        "gloss": "dog"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 393.285,
+        "endTime": 393.305,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "For example, dogs, cats"
+  },
+  {
+    "startTime": 394.0,
+    "endTime": 398.8,
+    "fullTextZH": "还是你们跟我一样害怕鸟呢",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 394.362,
+        "endTime": 395.667,
+        "gloss": "or"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 395.667,
+        "endTime": 396.29,
+        "gloss": "you all"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 396.29,
+        "endTime": 396.531,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 396.531,
+        "endTime": 396.691,
+        "gloss": "me"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 396.691,
+        "endTime": 397.394,
+        "gloss": "same"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 397.394,
+        "endTime": 398.137,
+        "gloss": "afraid"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 398.137,
+        "endTime": 398.157,
+        "gloss": "bird"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 398.157,
+        "endTime": 398.177,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Or are you afraid of birds like me?"
+  },
+  {
+    "startTime": 399.166,
+    "endTime": 402.466,
+    "fullTextZH": "欢迎你在底下留言告诉我哦",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 399.548,
+        "endTime": 400.112,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 400.112,
+        "endTime": 400.293,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 400.293,
+        "endTime": 400.494,
+        "gloss": "at"
+      },
+      {
+        "word": "底下",
+        "pinyin": "dǐ xià",
+        "startTime": 400.494,
+        "endTime": 400.937,
+        "gloss": "below"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 400.937,
+        "endTime": 401.46,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 401.46,
+        "endTime": 401.882,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 401.882,
+        "endTime": 402.124,
+        "gloss": "me"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 402.124,
+        "endTime": 402.144,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "You're welcome to leave a comment below to tell me"
+  },
+  {
+    "startTime": 402.633,
+    "endTime": 405.866,
+    "fullTextZH": "还有啊，下次吃东西的时候",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 402.894,
+        "endTime": 403.396,
+        "gloss": "also"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 403.396,
+        "endTime": 404.019,
+        "gloss": "ah"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 404.039,
+        "endTime": 404.701,
+        "gloss": "next time"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 404.701,
+        "endTime": 404.902,
+        "gloss": "eat"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 404.902,
+        "endTime": 405.304,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 405.304,
+        "endTime": 405.484,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 405.484,
+        "endTime": 405.665,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Also, next time when eating"
+  },
+  {
+    "startTime": 405.966,
+    "endTime": 410.233,
+    "fullTextZH": "不要忘记看一下天上有什么哦",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 406.226,
+        "endTime": 406.527,
+        "gloss": "do not"
+      },
+      {
+        "word": "忘记",
+        "pinyin": "wàng jì",
+        "startTime": 406.527,
+        "endTime": 407.168,
+        "gloss": "forget"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 407.168,
+        "endTime": 407.749,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 407.749,
+        "endTime": 408.57,
+        "gloss": "a bit"
+      },
+      {
+        "word": "天上",
+        "pinyin": "tiān shàng",
+        "startTime": 408.57,
+        "endTime": 409.311,
+        "gloss": "sky"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 409.311,
+        "endTime": 409.552,
+        "gloss": "have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 409.552,
+        "endTime": 409.973,
+        "gloss": "what"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 409.973,
+        "endTime": 409.993,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Don't forget to look up at the sky"
+  },
+  {
+    "startTime": 410.5,
+    "endTime": 411.866,
+    "fullTextZH": "我是Bella老师",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 410.821,
+        "endTime": 410.962,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 410.962,
+        "endTime": 411.062,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 411.384,
+        "endTime": 411.625,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am Teacher Bella"
+  },
+  {
+    "startTime": 411.866,
+    "endTime": 415.133,
+    "fullTextZH": "我们下支影片见吧，拜拜",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 412.147,
+        "endTime": 412.427,
+        "gloss": "we"
+      },
+      {
+        "word": "下支",
+        "pinyin": "xià zhī",
+        "startTime": 412.427,
+        "endTime": 412.968,
+        "gloss": "next"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 412.968,
+        "endTime": 413.389,
+        "gloss": "video"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 413.389,
+        "endTime": 413.59,
+        "gloss": "see"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 413.59,
+        "endTime": 413.81,
+        "gloss": "ba"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 414.231,
+        "endTime": 414.271,
+        "gloss": "bye-bye"
+      }
+    ],
+    "fullTextEN": "See you in the next video, bye-bye"
+  }
+]

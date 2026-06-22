@@ -455,6 +455,103 @@ video#localVideo {
 /* MandarinSpot word wrappers inside captions */
 .current-sub-text ruby rt { font-size: 13px; color: rgba(255,255,255,.5); }
 
+/* ── Karaoke panel ───────────────────────────────── */
+.karaoke-panel {
+  display: none;
+  flex-shrink: 0;
+  position: relative;
+  height: 128px;
+  padding: 10px 20px;
+  background: #0b0e1a;
+  border-top: 1px solid var(--border);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 6px;
+  text-align: center;
+  overflow: hidden;
+}
+.karaoke-panel.active { display: flex; }
+
+.kk-controls {
+  position: absolute;
+  top: 6px; right: 10px;
+  display: flex;
+  gap: 4px;
+}
+.kk-pill {
+  font-size: 10px;
+  padding: 2px 7px;
+  border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: transparent;
+  color: rgba(255,255,255,0.3);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 120ms;
+  line-height: 1.6;
+}
+.kk-pill.active {
+  border-color: rgba(125,211,252,0.45);
+  color: #7dd3fc;
+  background: rgba(125,211,252,0.08);
+}
+.karaoke-panel.hide-py    .kk-py      { display: none; }
+.karaoke-panel.hide-gloss .kk-gloss   { display: none; }
+.karaoke-panel.hide-en    .karaoke-english { display: none; }
+
+.karaoke-sentence {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.kk-word {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  transition: opacity 80ms;
+}
+.kk-py {
+  font-size: 11px;
+  letter-spacing: 0.2px;
+  line-height: 1;
+  color: #7dd3fc;
+  opacity: 0.45;
+  transition: opacity 80ms, color 80ms;
+}
+.kk-hz {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.1;
+  color: rgba(255,255,255,0.2);
+  transition: color 80ms;
+}
+.kk-word.spoken .kk-py { opacity: 0.7; color: #bae6fd; }
+.kk-word.spoken .kk-hz { color: rgba(255,255,255,0.55); }
+.kk-word.current .kk-py { opacity: 1; color: #e0f2fe; }
+.kk-word.current .kk-hz { color: #ffffff; text-shadow: 0 0 18px rgba(125,211,252,0.45); }
+.kk-gloss {
+  font-size: 10px;
+  color: rgba(255,255,255,0.28);
+  line-height: 1;
+  font-style: italic;
+  transition: color 80ms;
+}
+.kk-word.spoken .kk-gloss  { color: rgba(255,255,255,0.5); }
+.kk-word.current .kk-gloss { color: rgba(255,255,255,0.85); }
+
+.karaoke-english {
+  font-size: 12px;
+  color: rgba(255,255,255,0.45);
+  font-style: italic;
+  min-height: 1em;
+  line-height: 1.4;
+}
+
 /* Transcript section */
 .transcript-section {
   display: none; flex: 1; flex-direction: column;
@@ -642,6 +739,7 @@ video#localVideo {
       <button class="pinyin-btn" id="captionsToggle">
         <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-2px;margin-right:4px"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M7 15h4M13 15h4M7 11h2M11 11h2M15 11h2"/></svg>Captions
       </button>
+      <button class="pinyin-btn" id="karaokeToggle" style="display:none">字 Karaoke</button>
       <select class="speed-select" id="speedSelect" title="Playback speed">
         <option value="0.5">0.5×</option>
         <option value="0.75">0.75×</option>
@@ -696,6 +794,17 @@ video#localVideo {
           <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
           <input type="file" id="localFileInput" accept="video/*" style="display:none">
         </div>
+      </div>
+
+      <!-- Karaoke panel — below video controls, inside player-col -->
+      <div class="karaoke-panel" id="karaokePanel">
+        <div class="kk-controls">
+          <button class="kk-pill active" id="kkPy">拼 Pin</button>
+          <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
+          <button class="kk-pill" id="kkEn">EN</button>
+        </div>
+        <div class="karaoke-sentence" id="karaokeSentence"></div>
+        <div class="karaoke-english" id="karaokeEnglish"></div>
       </div>
     </div>
 
@@ -765,11 +874,19 @@ let englishOn    = false;
 let englishByIdx = [];
 let englishPromise = null;
 
+// Karaoke state
+let karaokeOn       = false;
+let karaokeCues     = [];   // [{startTime, endTime, fullTextZH, fullTextEN, words:[{word,pinyin,gloss,startTime,endTime}]}]
+let karaokeRafId    = null;
+let karaokeSentIdx  = -1;
+let kkShowPy        = true;
+let kkShowGloss     = true;
+let kkShowEn        = false;
+
 /* ══════════════════════════════════════════════════════
    BOOT
 ══════════════════════════════════════════════════════ */
 async function boot() {
-  await migrateLocalStorage();
   try {
     const [catalog, xgCatalog, ws] = await Promise.all([
       fetch(`${BASE}/api/catalog`).then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); }),
@@ -797,24 +914,6 @@ async function boot() {
     el.style.display = "block";
     el.textContent = `Could not load data: ${err.message}`;
   }
-}
-
-/* ── One-time migration of localStorage watch history to server ── */
-async function migrateLocalStorage() {
-  if (localStorage.getItem('lc_migrated')) return;
-  let old = {};
-  try { old = JSON.parse(localStorage.getItem('lc_watch_history') || '{}'); } catch { /**/ }
-  const entries = Object.entries(old).filter(([, v]) => v?.history?.length);
-  for (const [id, v] of entries) {
-    for (const entry of v.history) {
-      await fetch(`${BASE}/api/watch-state/${id}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ watched: true, watchedAt: entry.ts }),
-      }).catch(() => {});
-    }
-  }
-  localStorage.setItem('lc_migrated', '1');
 }
 
 function populateTeachers() {
@@ -1074,15 +1173,16 @@ function openWatch(v) {
   document.getElementById("watchBody").classList.remove("english-on");
 
   setScript("simplified", false);
+  stopKaraoke();
   setupPlayer(v);
   loadSubtitles(v, scriptMode);
+  loadKaraoke(v);
   updateWatchedBtn(v.id);
   // reset speed
   const speedSel = document.getElementById("speedSelect");
   speedSel.value = "1";
   speedSel.classList.remove("fast");
   document.getElementById("localVideo").playbackRate = 1;
-  toggleCaptions();  // captions on by default
   // portrait mobile: auto-show script panel so video stays pinned above scrolling transcript
   if (window.innerWidth <= 760) {
     document.getElementById("watchBody").classList.add("transcript-visible");
@@ -1099,6 +1199,7 @@ function closeWatch() {
   vid.load(); // abort any pending fetch
   document.getElementById("remoteFrame").src = "";
   document.getElementById("unsupportedOverlay").classList.remove("active");
+  stopKaraoke();
 }
 
 // Safari (incl. iOS WebKit) cannot decode AV1; flag once at load.
@@ -1169,7 +1270,7 @@ function onTimeUpdate() {
 async function loadSubtitles(v, script) {
   const loadBar = document.getElementById("subLoadingBar");
   loadBar.classList.add("active");
-  subtitles = []; activeIdx = -1; englishPromise = null;
+  subtitles = []; activeIdx = -1;
   document.getElementById("transcriptText").innerHTML = "";
   document.getElementById("currentSubText").textContent = "—";
   document.getElementById("currentSubEnglish").textContent = "";
@@ -1316,6 +1417,7 @@ async function applyMandarinSpot() {
     if (popup) popup.style.display = "none";
   }, { once: false });
 
+
   // Mobile: auto-dismiss observer (runs once per applyMandarinSpot call)
   if (_msObserver) _msObserver.disconnect();
   _setupMSMobileDismiss();
@@ -1397,8 +1499,7 @@ async function ensureEnglishTranslations() {
   btn.textContent = "EN Loading...";
 
   englishPromise = (async () => {
-    const capturedSubs = subtitles;
-    const allLines = capturedSubs.map(s => s.text);
+    const allLines = subtitles.map(s => s.text);
     const CHUNK = 500;
     const translations = [];
     for (let i = 0; i < allLines.length; i += CHUNK) {
@@ -1412,9 +1513,7 @@ async function ensureEnglishTranslations() {
       const chunk = Array.isArray(data.translations) ? data.translations : [];
       translations.push(...chunk);
     }
-    if (subtitles === capturedSubs) {
-      englishByIdx = capturedSubs.map((_, i) => (translations[i] || "").trim());
-    }
+    englishByIdx = subtitles.map((_, i) => (translations[i] || "").trim());
   })();
 
   try {
@@ -1457,6 +1556,151 @@ async function toggleEnglish() {
     document.getElementById("watchBody").classList.remove("english-on");
     alert(err.message || "Could not load English translations");
   }
+}
+
+/* ══════════════════════════════════════════════════════
+   KARAOKE
+══════════════════════════════════════════════════════ */
+
+async function loadKaraoke(v) {
+  karaokeCues    = [];
+  karaokeSentIdx = -1;
+  document.getElementById("karaokePanel").classList.remove("active");
+  document.getElementById("karaokeSentence").innerHTML = "";
+  document.getElementById("karaokeEnglish").textContent = "";
+  document.getElementById("karaokeToggle").style.display = "none";
+
+  // Only works for locally-played videos (HTML5 video element gives currentTime)
+  if (!v.video_done) return;
+
+  try {
+    const r = await fetch(`${BASE}/api/karaoke/cues/${v.id}`);
+    if (!r.ok) return;
+    karaokeCues = await r.json();
+  } catch (_) { return; }
+
+  // Show the toggle button and auto-enable karaoke
+  document.getElementById("karaokeToggle").style.display = "";
+  if (!karaokeOn) toggleKaraoke();
+}
+
+function toggleKaraoke() {
+  karaokeOn = !karaokeOn;
+  document.getElementById("karaokeToggle").classList.toggle("active", karaokeOn);
+  const panel = document.getElementById("karaokePanel");
+
+  if (karaokeOn) {
+    panel.classList.add("active");
+    panel.classList.toggle("hide-py",    !kkShowPy);
+    panel.classList.toggle("hide-gloss", !kkShowGloss);
+    panel.classList.toggle("hide-en",    !kkShowEn);
+    karaokeRafId = requestAnimationFrame(karaokeRafTick);
+  } else {
+    panel.classList.remove("active");
+    if (karaokeRafId) { cancelAnimationFrame(karaokeRafId); karaokeRafId = null; }
+    karaokeSentIdx = -1;
+  }
+}
+
+function kkTogglePy() {
+  kkShowPy = !kkShowPy;
+  document.getElementById("kkPy").classList.toggle("active", kkShowPy);
+  document.getElementById("karaokePanel").classList.toggle("hide-py", !kkShowPy);
+}
+function kkToggleGloss() {
+  kkShowGloss = !kkShowGloss;
+  document.getElementById("kkGloss").classList.toggle("active", kkShowGloss);
+  document.getElementById("karaokePanel").classList.toggle("hide-gloss", !kkShowGloss);
+}
+function kkToggleEn() {
+  kkShowEn = !kkShowEn;
+  document.getElementById("kkEn").classList.toggle("active", kkShowEn);
+  document.getElementById("karaokePanel").classList.toggle("hide-en", !kkShowEn);
+}
+
+function stopKaraoke() {
+  karaokeOn = false;
+  if (karaokeRafId) { cancelAnimationFrame(karaokeRafId); karaokeRafId = null; }
+  karaokeCues    = [];
+  karaokeSentIdx = -1;
+  document.getElementById("karaokeToggle").classList.remove("active");
+  document.getElementById("karaokePanel").classList.remove("active");
+  document.getElementById("karaokeSentence").innerHTML = "";
+  document.getElementById("karaokeEnglish").textContent = "";
+}
+
+function karaokeRafTick() {
+  karaokeRafId = requestAnimationFrame(karaokeRafTick);
+  if (!karaokeCues.length) return;
+
+  const t   = document.getElementById("localVideo").currentTime;
+  const idx = karaokeFindSentence(t);
+
+  if (idx !== karaokeSentIdx) {
+    karaokeSentIdx = idx;
+    if (idx === -1) {
+      document.getElementById("karaokeSentence").innerHTML = "";
+      document.getElementById("karaokeEnglish").textContent = "";
+    } else {
+      buildKaraokeRow(karaokeCues[idx]);
+    }
+  }
+
+  if (idx !== -1) karaokeUpdateWords(t, karaokeCues[idx].words);
+}
+
+function karaokeFindSentence(t) {
+  // Binary search for sentence containing t
+  let lo = 0, hi = karaokeCues.length - 1;
+  while (lo <= hi) {
+    const mid = (lo + hi) >> 1;
+    const c   = karaokeCues[mid];
+    if      (t < c.startTime) hi = mid - 1;
+    else if (t > c.endTime)   lo = mid + 1;
+    else return mid;
+  }
+  return -1;
+}
+
+function buildKaraokeRow(cue) {
+  const container = document.getElementById("karaokeSentence");
+  container.innerHTML = "";
+  cue.words.forEach(w => {
+    const stack = document.createElement("span");
+    stack.className = "kk-word pending";
+
+    const py = document.createElement("span");
+    py.className  = "kk-py";
+    py.textContent = w.pinyin;
+
+    const hz = document.createElement("span");
+    hz.className  = "kk-hz";
+    hz.textContent = w.word;
+
+    stack.append(py, hz);
+
+    if (w.gloss) {
+      const gl = document.createElement("span");
+      gl.className   = "kk-gloss";
+      gl.textContent = w.gloss;
+      stack.appendChild(gl);
+    }
+
+    container.appendChild(stack);
+  });
+  document.getElementById("karaokeEnglish").textContent = cue.fullTextEN || "";
+}
+
+function karaokeUpdateWords(t, words) {
+  const stacks = document.getElementById("karaokeSentence").children;
+  words.forEach((w, i) => {
+    const el = stacks[i];
+    if (!el) return;
+    el.classList.remove("pending", "spoken", "current");
+    if      (t > w.endTime)        el.classList.add("spoken");
+    else if (t >= w.startTime)     el.classList.add("current");
+    else                           el.classList.add("pending");
+  });
 }
 
 /* ── Transcript toggle ──────────────────────────────── */
@@ -1542,6 +1786,10 @@ document.getElementById("backBtn").addEventListener("click", closeWatch);
 document.getElementById("watchedBtn").addEventListener("click", () => { if (currentVideo) logWatch(currentVideo); });
 document.getElementById("unwatchBtn").addEventListener("click", () => { if (currentVideo) removeWatch(currentVideo); });
 document.getElementById("captionsToggle").addEventListener("click", toggleCaptions);
+document.getElementById("karaokeToggle").addEventListener("click", toggleKaraoke);
+document.getElementById("kkPy").addEventListener("click", kkTogglePy);
+document.getElementById("kkGloss").addEventListener("click", kkToggleGloss);
+document.getElementById("kkEn").addEventListener("click", kkToggleEn);
 document.getElementById("pinyinToggle").addEventListener("click", togglePinyin);
 document.getElementById("englishToggle").addEventListener("click", toggleEnglish);
 document.getElementById("sidebarToggle").addEventListener("click", toggleTranscript);

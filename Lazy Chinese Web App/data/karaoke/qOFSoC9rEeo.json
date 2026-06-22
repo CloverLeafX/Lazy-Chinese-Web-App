@@ -1,0 +1,2070 @@
+[
+  {
+    "startTime": 0.733,
+    "endTime": 1.566,
+    "fullTextZH": "你好",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.753,
+        "endTime": 0.936,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello"
+  },
+  {
+    "startTime": 2.5,
+    "endTime": 8.133,
+    "fullTextZH": "你好！我有一个学生",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 2.58,
+        "endTime": 3.943,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.963,
+        "endTime": 4.926,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 4.926,
+        "endTime": 5.547,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 5.547,
+        "endTime": 6.83,
+        "gloss": "a"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 6.83,
+        "endTime": 7.512,
+        "gloss": "student"
+      }
+    ],
+    "fullTextEN": "Hello! I have a student."
+  },
+  {
+    "startTime": 8.566,
+    "endTime": 10.999,
+    "fullTextZH": "她叫Laura 。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 8.687,
+        "endTime": 9.471,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 9.471,
+        "endTime": 10.275,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "She is called Laura."
+  },
+  {
+    "startTime": 12.066,
+    "endTime": 18.466,
+    "fullTextZH": "一天Laura要搬家，",
+    "words": [
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 12.086,
+        "endTime": 13.21,
+        "gloss": "one day"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 14.293,
+        "endTime": 15.136,
+        "gloss": "needed"
+      },
+      {
+        "word": "搬家",
+        "pinyin": "bān jiā",
+        "startTime": 15.136,
+        "endTime": 18.426,
+        "gloss": "move"
+      }
+    ],
+    "fullTextEN": "One day, Laura needed to move."
+  },
+  {
+    "startTime": 18.466,
+    "endTime": 23.533,
+    "fullTextZH": "可是Laura没有车，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 18.987,
+        "endTime": 20.028,
+        "gloss": "but"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 21.11,
+        "endTime": 22.812,
+        "gloss": "didn't have"
+      },
+      {
+        "word": "车",
+        "pinyin": "chē",
+        "startTime": 22.812,
+        "endTime": 23.493,
+        "gloss": "car"
+      }
+    ],
+    "fullTextEN": "But Laura didn't have a car."
+  },
+  {
+    "startTime": 23.9,
+    "endTime": 27.7,
+    "fullTextZH": "所以她叫Uber 。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 24.081,
+        "endTime": 24.925,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 24.925,
+        "endTime": 25.971,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 25.971,
+        "endTime": 26.775,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "So she called an Uber."
+  },
+  {
+    "startTime": 28.7,
+    "endTime": 32.8,
+    "fullTextZH": "为什么Laura叫Uber ？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 28.72,
+        "endTime": 30.087,
+        "gloss": "why"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 31.112,
+        "endTime": 32.076,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "Why did Laura call an Uber?"
+  },
+  {
+    "startTime": 33.7,
+    "endTime": 39.4,
+    "fullTextZH": "因为她觉得Uber很便宜？",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 33.78,
+        "endTime": 34.744,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 34.744,
+        "endTime": 35.426,
+        "gloss": "she"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 35.426,
+        "endTime": 36.369,
+        "gloss": "thinks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 37.433,
+        "endTime": 38.156,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 38.156,
+        "endTime": 39.36,
+        "gloss": "cheap"
+      }
+    ],
+    "fullTextEN": "Because she thinks Uber is cheap."
+  },
+  {
+    "startTime": 39.933,
+    "endTime": 41.566,
+    "fullTextZH": "不不不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 40.074,
+        "endTime": 40.215,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 40.215,
+        "endTime": 40.598,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 40.598,
+        "endTime": 40.961,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no,"
+  },
+  {
+    "startTime": 41.8,
+    "endTime": 46.533,
+    "fullTextZH": "因为她没有车，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 41.9,
+        "endTime": 43.043,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 43.043,
+        "endTime": 43.986,
+        "gloss": "she"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 43.986,
+        "endTime": 45.631,
+        "gloss": "didn't have"
+      },
+      {
+        "word": "车",
+        "pinyin": "chē",
+        "startTime": 45.631,
+        "endTime": 46.493,
+        "gloss": "car"
+      }
+    ],
+    "fullTextEN": "Because she didn't have a car."
+  },
+  {
+    "startTime": 47.7,
+    "endTime": 53.5,
+    "fullTextZH": "可是Uber司机看起来",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 47.7,
+        "endTime": 49.085,
+        "gloss": "but"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 50.429,
+        "endTime": 51.834,
+        "gloss": "driver"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 51.834,
+        "endTime": 52.757,
+        "gloss": "looked"
+      }
+    ],
+    "fullTextEN": "But the Uber driver looked"
+  },
+  {
+    "startTime": 54.1,
+    "endTime": 56.133,
+    "fullTextZH": "不高兴，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 54.221,
+        "endTime": 54.825,
+        "gloss": "not"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 54.825,
+        "endTime": 56.093,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "unhappy,"
+  },
+  {
+    "startTime": 57.4,
+    "endTime": 63.166,
+    "fullTextZH": "为什么他看起来不高兴？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 57.5,
+        "endTime": 59.082,
+        "gloss": "why"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 59.082,
+        "endTime": 60.003,
+        "gloss": "he"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 60.003,
+        "endTime": 61.885,
+        "gloss": "looked"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 61.885,
+        "endTime": 62.165,
+        "gloss": "not"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 62.165,
+        "endTime": 63.126,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Why did he look unhappy?"
+  },
+  {
+    "startTime": 65.166,
+    "endTime": 70.699,
+    "fullTextZH": "因为Laura的东西很大很大，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 65.166,
+        "endTime": 66.168,
+        "gloss": "because"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 66.81,
+        "endTime": 67.05,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 67.05,
+        "endTime": 68.454,
+        "gloss": "things"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 68.454,
+        "endTime": 69.737,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 69.737,
+        "endTime": 70.659,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "Because Laura's things were very big,"
+  },
+  {
+    "startTime": 72.966,
+    "endTime": 78.333,
+    "fullTextZH": "司机看起来不高兴，",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 73.006,
+        "endTime": 74.448,
+        "gloss": "driver"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 74.448,
+        "endTime": 76.431,
+        "gloss": "looked"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 76.431,
+        "endTime": 77.131,
+        "gloss": "not"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 77.131,
+        "endTime": 78.293,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "The driver looked unhappy,"
+  },
+  {
+    "startTime": 78.966,
+    "endTime": 84.099,
+    "fullTextZH": "因为Laura的东西很贵很贵？",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 79.086,
+        "endTime": 80.289,
+        "gloss": "because"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 80.891,
+        "endTime": 81.051,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 81.051,
+        "endTime": 82.174,
+        "gloss": "things"
+      },
+      {
+        "word": "很贵",
+        "pinyin": "hěn guì",
+        "startTime": 82.174,
+        "endTime": 83.076,
+        "gloss": "very expensive"
+      },
+      {
+        "word": "很贵",
+        "pinyin": "hěn guì",
+        "startTime": 83.076,
+        "endTime": 84.059,
+        "gloss": "very expensive"
+      }
+    ],
+    "fullTextEN": "Because Laura's things were very expensive?"
+  },
+  {
+    "startTime": 84.533,
+    "endTime": 86.199,
+    "fullTextZH": "不不不 ，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 84.653,
+        "endTime": 85.175,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 85.175,
+        "endTime": 85.637,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 85.637,
+        "endTime": 86.159,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no,"
+  },
+  {
+    "startTime": 86.933,
+    "endTime": 91.799,
+    "fullTextZH": "司机看起来不高兴，",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 86.973,
+        "endTime": 88.275,
+        "gloss": "driver"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 88.275,
+        "endTime": 90.117,
+        "gloss": "looked"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 90.117,
+        "endTime": 90.618,
+        "gloss": "not"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 90.618,
+        "endTime": 91.759,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "The driver looked unhappy,"
+  },
+  {
+    "startTime": 92.066,
+    "endTime": 97.066,
+    "fullTextZH": "因为Laura的东西很大很大 。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 92.126,
+        "endTime": 93.13,
+        "gloss": "because"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 93.733,
+        "endTime": 93.974,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 93.974,
+        "endTime": 94.978,
+        "gloss": "things"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 94.978,
+        "endTime": 96.042,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 96.042,
+        "endTime": 97.026,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "Because Laura's things were very big."
+  },
+  {
+    "startTime": 99.7,
+    "endTime": 103.466,
+    "fullTextZH": "Laura觉得不好意思，",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 100.621,
+        "endTime": 102.084,
+        "gloss": "felt"
+      },
+      {
+        "word": "不好意思",
+        "pinyin": "bù hǎo yì sī",
+        "startTime": 102.084,
+        "endTime": 103.426,
+        "gloss": "embarrassed"
+      }
+    ],
+    "fullTextEN": "Laura felt embarrassed,"
+  },
+  {
+    "startTime": 104.133,
+    "endTime": 108.866,
+    "fullTextZH": "可是她不知道怎么办，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 104.253,
+        "endTime": 105.356,
+        "gloss": "but"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 105.356,
+        "endTime": 106.299,
+        "gloss": "she"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 106.299,
+        "endTime": 106.52,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 106.52,
+        "endTime": 107.502,
+        "gloss": "know"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 107.502,
+        "endTime": 108.826,
+        "gloss": "what to do"
+      }
+    ],
+    "fullTextEN": "But she doesn't know what to do,"
+  },
+  {
+    "startTime": 109.7,
+    "endTime": 112.966,
+    "fullTextZH": "她不说话，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 109.8,
+        "endTime": 110.662,
+        "gloss": "she"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 110.662,
+        "endTime": 111.824,
+        "gloss": "not"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 111.824,
+        "endTime": 112.926,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "She doesn't speak,"
+  },
+  {
+    "startTime": 113.333,
+    "endTime": 117.466,
+    "fullTextZH": "司机也不说话。",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 113.473,
+        "endTime": 114.757,
+        "gloss": "driver"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 114.757,
+        "endTime": 115.379,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 115.379,
+        "endTime": 116.342,
+        "gloss": "not"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 116.342,
+        "endTime": 117.426,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "The driver also doesn't speak."
+  },
+  {
+    "startTime": 119.266,
+    "endTime": 125.866,
+    "fullTextZH": "突然她看到司机用微信，",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 119.286,
+        "endTime": 120.51,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 120.51,
+        "endTime": 121.673,
+        "gloss": "she"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 121.673,
+        "endTime": 123.078,
+        "gloss": "see"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 123.078,
+        "endTime": 124.101,
+        "gloss": "driver"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 124.101,
+        "endTime": 124.943,
+        "gloss": "use"
+      },
+      {
+        "word": "微信",
+        "pinyin": "wēi xìn",
+        "startTime": 124.943,
+        "endTime": 125.826,
+        "gloss": "WeChat"
+      }
+    ],
+    "fullTextEN": "Suddenly she sees the driver using WeChat,"
+  },
+  {
+    "startTime": 129.3,
+    "endTime": 134.533,
+    "fullTextZH": "突然她看到司机吃",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 129.32,
+        "endTime": 130.483,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 130.483,
+        "endTime": 131.145,
+        "gloss": "she"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 131.145,
+        "endTime": 132.388,
+        "gloss": "see"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 132.388,
+        "endTime": 133.891,
+        "gloss": "driver"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 133.891,
+        "endTime": 133.911,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Suddenly she sees the driver eating"
+  },
+  {
+    "startTime": 135.4,
+    "endTime": 137.933,
+    "fullTextZH": "微信？不不不，",
+    "words": [
+      {
+        "word": "微信",
+        "pinyin": "wēi xìn",
+        "startTime": 135.42,
+        "endTime": 136.465,
+        "gloss": "WeChat"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 136.707,
+        "endTime": 137.069,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 137.069,
+        "endTime": 137.39,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 137.39,
+        "endTime": 137.893,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "WeChat? No, no, no,"
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 142.1,
+    "fullTextZH": "司机不吃微信，",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 138.121,
+        "endTime": 138.945,
+        "gloss": "driver"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 138.945,
+        "endTime": 141.095,
+        "gloss": "not eat"
+      },
+      {
+        "word": "微信",
+        "pinyin": "wēi xìn",
+        "startTime": 141.095,
+        "endTime": 142.06,
+        "gloss": "WeChat"
+      }
+    ],
+    "fullTextEN": "The driver doesn't eat WeChat,"
+  },
+  {
+    "startTime": 142.3,
+    "endTime": 145.3,
+    "fullTextZH": "司机用微信。",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 142.441,
+        "endTime": 143.568,
+        "gloss": "driver"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 143.568,
+        "endTime": 144.374,
+        "gloss": "use"
+      },
+      {
+        "word": "微信",
+        "pinyin": "wēi xìn",
+        "startTime": 144.374,
+        "endTime": 145.26,
+        "gloss": "WeChat"
+      }
+    ],
+    "fullTextEN": "The driver uses WeChat."
+  },
+  {
+    "startTime": 146.066,
+    "endTime": 153.533,
+    "fullTextZH": "所以Laura觉得司机是中国人，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 146.206,
+        "endTime": 147.227,
+        "gloss": "so"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 147.928,
+        "endTime": 149.209,
+        "gloss": "think"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 149.209,
+        "endTime": 150.55,
+        "gloss": "driver"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 150.55,
+        "endTime": 151.531,
+        "gloss": "is"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 151.531,
+        "endTime": 152.732,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 152.732,
+        "endTime": 153.493,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "So Laura thinks the driver is Chinese,"
+  },
+  {
+    "startTime": 154.266,
+    "endTime": 160.266,
+    "fullTextZH": "所以Laura开始说中文，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 154.286,
+        "endTime": 155.169,
+        "gloss": "so"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 156.192,
+        "endTime": 157.758,
+        "gloss": "start"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 157.758,
+        "endTime": 159.122,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 159.122,
+        "endTime": 160.226,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "So Laura starts speaking Chinese,"
+  },
+  {
+    "startTime": 160.266,
+    "endTime": 163.599,
+    "fullTextZH": "司机很高兴，",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 160.768,
+        "endTime": 161.732,
+        "gloss": "driver"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 161.732,
+        "endTime": 162.354,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 162.354,
+        "endTime": 163.559,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "The driver is very happy,"
+  },
+  {
+    "startTime": 163.6,
+    "endTime": 172.3,
+    "fullTextZH": "因为他没想到Laura会说中文，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 163.841,
+        "endTime": 164.923,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 164.923,
+        "endTime": 165.745,
+        "gloss": "he"
+      },
+      {
+        "word": "没想到",
+        "pinyin": "méi xiǎng dào",
+        "startTime": 165.745,
+        "endTime": 168.752,
+        "gloss": "didn't expect"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 169.894,
+        "endTime": 170.496,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 170.496,
+        "endTime": 171.458,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 171.458,
+        "endTime": 172.28,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Because he didn't expect Laura to speak Chinese,"
+  },
+  {
+    "startTime": 173.366,
+    "endTime": 177.666,
+    "fullTextZH": "所以他们用中文",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 173.406,
+        "endTime": 174.19,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 174.19,
+        "endTime": 176.079,
+        "gloss": "they"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 176.079,
+        "endTime": 176.722,
+        "gloss": "use"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 176.722,
+        "endTime": 177.164,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "So they use Chinese"
+  },
+  {
+    "startTime": 178.3,
+    "endTime": 179.533,
+    "fullTextZH": "聊天。",
+    "words": [
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 178.381,
+        "endTime": 179.493,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "to chat."
+  },
+  {
+    "startTime": 180.766,
+    "endTime": 185.766,
+    "fullTextZH": "司机说：“你有男朋友吗 ？”",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 180.826,
+        "endTime": 181.73,
+        "gloss": "driver"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 181.73,
+        "endTime": 182.734,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 182.814,
+        "endTime": 183.236,
+        "gloss": "you"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 183.236,
+        "endTime": 183.838,
+        "gloss": "have"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 183.838,
+        "endTime": 185.224,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 185.224,
+        "endTime": 185.726,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "The driver says, \"Do you have a boyfriend?\""
+  },
+  {
+    "startTime": 186.666,
+    "endTime": 190.999,
+    "fullTextZH": "Laura说：“我有男朋友。”",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 187.428,
+        "endTime": 187.448,
+        "gloss": "say"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 188.351,
+        "endTime": 188.772,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 188.772,
+        "endTime": 189.414,
+        "gloss": "have"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 189.414,
+        "endTime": 190.959,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "Laura says, \"I have a boyfriend.\""
+  },
+  {
+    "startTime": 191.7,
+    "endTime": 197.366,
+    "fullTextZH": "司机说：“他是中国人吗？”",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 191.84,
+        "endTime": 192.681,
+        "gloss": "driver"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 192.681,
+        "endTime": 194.303,
+        "gloss": "say"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 194.463,
+        "endTime": 194.643,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 194.643,
+        "endTime": 195.364,
+        "gloss": "is"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 195.364,
+        "endTime": 196.305,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 196.305,
+        "endTime": 196.745,
+        "gloss": "person"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 196.745,
+        "endTime": 197.326,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "The driver says, \"Is he Chinese?\""
+  },
+  {
+    "startTime": 198.166,
+    "endTime": 200.066,
+    "fullTextZH": "Laura说：“嗯～",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 198.873,
+        "endTime": 198.894,
+        "gloss": "say"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 199.52,
+        "endTime": 200.026,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Laura says, \"Hmm~"
+  },
+  {
+    "startTime": 200.066,
+    "endTime": 204.066,
+    "fullTextZH": "他不是中国人，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 200.126,
+        "endTime": 200.749,
+        "gloss": "he"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 200.749,
+        "endTime": 202.378,
+        "gloss": "not"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 202.378,
+        "endTime": 203.302,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 203.302,
+        "endTime": 204.026,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "He is not Chinese,"
+  },
+  {
+    "startTime": 204.166,
+    "endTime": 207.599,
+    "fullTextZH": "他是澳大利亚人。”",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 204.266,
+        "endTime": 204.628,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 204.628,
+        "endTime": 205.29,
+        "gloss": "is"
+      },
+      {
+        "word": "澳大利亚人",
+        "pinyin": "ào dà lì yà rén",
+        "startTime": 205.29,
+        "endTime": 207.559,
+        "gloss": "Australian"
+      }
+    ],
+    "fullTextEN": "He is Australian.\""
+  },
+  {
+    "startTime": 208.9,
+    "endTime": 210.466,
+    "fullTextZH": "司机说：“",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 208.94,
+        "endTime": 209.563,
+        "gloss": "driver"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 209.563,
+        "endTime": 210.426,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "The driver said:"
+  },
+  {
+    "startTime": 211.1,
+    "endTime": 216.5,
+    "fullTextZH": "为什么？为什么你不找",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 211.22,
+        "endTime": 212.726,
+        "gloss": "why"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 212.766,
+        "endTime": 213.73,
+        "gloss": "why"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 213.73,
+        "endTime": 214.633,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 214.633,
+        "endTime": 215.697,
+        "gloss": "not"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 215.697,
+        "endTime": 215.717,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "Why? Why don't you find"
+  },
+  {
+    "startTime": 217.1,
+    "endTime": 220.0,
+    "fullTextZH": "中国男朋友，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 217.261,
+        "endTime": 218.49,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 218.49,
+        "endTime": 219.96,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "a Chinese boyfriend,"
+  },
+  {
+    "startTime": 221.8,
+    "endTime": 227.2,
+    "fullTextZH": "如果你要提高你的中文，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 221.86,
+        "endTime": 222.764,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 222.764,
+        "endTime": 223.025,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 223.025,
+        "endTime": 223.807,
+        "gloss": "want"
+      },
+      {
+        "word": "提高",
+        "pinyin": "tí gāo",
+        "startTime": 223.807,
+        "endTime": 225.373,
+        "gloss": "improve"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 225.373,
+        "endTime": 225.714,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 225.714,
+        "endTime": 226.317,
+        "gloss": "of"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 226.317,
+        "endTime": 227.16,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "if you want to improve your Chinese,"
+  },
+  {
+    "startTime": 227.5,
+    "endTime": 230.266,
+    "fullTextZH": "你应该找",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 227.58,
+        "endTime": 228.482,
+        "gloss": "you"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 228.482,
+        "endTime": 229.484,
+        "gloss": "should"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 229.484,
+        "endTime": 229.504,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "you should find"
+  },
+  {
+    "startTime": 231.1,
+    "endTime": 233.566,
+    "fullTextZH": "中国男朋友。”",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 231.24,
+        "endTime": 232.263,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 232.263,
+        "endTime": 233.526,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "a Chinese boyfriend."
+  },
+  {
+    "startTime": 236.666,
+    "endTime": 240.566,
+    "fullTextZH": "所以司机觉得Laura",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 236.666,
+        "endTime": 237.671,
+        "gloss": "so"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 237.671,
+        "endTime": 238.636,
+        "gloss": "driver"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 238.636,
+        "endTime": 239.742,
+        "gloss": "thinks"
+      }
+    ],
+    "fullTextEN": "So the driver thinks Laura"
+  },
+  {
+    "startTime": 240.8,
+    "endTime": 247.4,
+    "fullTextZH": "有一个澳大利亚男朋友，很好，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 240.9,
+        "endTime": 241.763,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 241.763,
+        "endTime": 242.866,
+        "gloss": "a"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 242.866,
+        "endTime": 244.752,
+        "gloss": "Australian"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 244.752,
+        "endTime": 246.236,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 246.297,
+        "endTime": 246.738,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 246.738,
+        "endTime": 247.36,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "having an Australian boyfriend is good,"
+  },
+  {
+    "startTime": 248.133,
+    "endTime": 249.766,
+    "fullTextZH": "对不对？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 248.254,
+        "endTime": 248.96,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 248.96,
+        "endTime": 249.202,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 249.202,
+        "endTime": 249.726,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "right?"
+  },
+  {
+    "startTime": 250.933,
+    "endTime": 252.499,
+    "fullTextZH": "不对，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 251.134,
+        "endTime": 251.836,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 251.836,
+        "endTime": 252.459,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "No,"
+  },
+  {
+    "startTime": 253.266,
+    "endTime": 256.166,
+    "fullTextZH": "司机觉得Laura",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 253.447,
+        "endTime": 254.313,
+        "gloss": "driver"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 254.313,
+        "endTime": 255.34,
+        "gloss": "thinks"
+      }
+    ],
+    "fullTextEN": "the driver thinks Laura"
+  },
+  {
+    "startTime": 256.366,
+    "endTime": 262.299,
+    "fullTextZH": "有一个澳大利亚男朋友不好，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 256.446,
+        "endTime": 256.787,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 256.787,
+        "endTime": 257.789,
+        "gloss": "a"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 257.789,
+        "endTime": 259.473,
+        "gloss": "Australian"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 259.473,
+        "endTime": 260.836,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 260.836,
+        "endTime": 262.259,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "having an Australian boyfriend is not good,"
+  },
+  {
+    "startTime": 262.8,
+    "endTime": 263.9,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 262.902,
+        "endTime": 263.859,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 265.066,
+    "endTime": 273.999,
+    "fullTextZH": "因为澳大利亚男朋友不爱他？不不不，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 265.066,
+        "endTime": 266.328,
+        "gloss": "because"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 266.328,
+        "endTime": 268.07,
+        "gloss": "Australian"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 268.07,
+        "endTime": 269.573,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "不爱",
+        "pinyin": "bù ài",
+        "startTime": 269.573,
+        "endTime": 271.515,
+        "gloss": "not love"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 271.515,
+        "endTime": 271.836,
+        "gloss": "her"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 272.577,
+        "endTime": 273.098,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 273.098,
+        "endTime": 273.478,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 273.478,
+        "endTime": 273.959,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Because the Australian boyfriend doesn't love her? No no no,"
+  },
+  {
+    "startTime": 275.666,
+    "endTime": 280.966,
+    "fullTextZH": "司机觉得Laura应该找",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 275.706,
+        "endTime": 276.69,
+        "gloss": "driver"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 276.69,
+        "endTime": 277.854,
+        "gloss": "thinks"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 278.958,
+        "endTime": 280.163,
+        "gloss": "should"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 280.163,
+        "endTime": 280.183,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "the driver thinks Laura should find"
+  },
+  {
+    "startTime": 281.733,
+    "endTime": 285.599,
+    "fullTextZH": "一个中国男朋友，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 281.873,
+        "endTime": 282.915,
+        "gloss": "a"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 282.915,
+        "endTime": 284.137,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 284.137,
+        "endTime": 285.559,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "a Chinese boyfriend,"
+  },
+  {
+    "startTime": 286.4,
+    "endTime": 293.566,
+    "fullTextZH": "嗯～因为中国男朋友很有钱吗？",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 286.46,
+        "endTime": 286.5,
+        "gloss": "hmm"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 287.281,
+        "endTime": 288.242,
+        "gloss": "because"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 288.242,
+        "endTime": 289.302,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 289.302,
+        "endTime": 291.224,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 291.224,
+        "endTime": 291.704,
+        "gloss": "very"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 291.704,
+        "endTime": 293.006,
+        "gloss": "rich"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 293.006,
+        "endTime": 293.526,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "hmm~ because a Chinese boyfriend is very rich?"
+  },
+  {
+    "startTime": 294.5,
+    "endTime": 304.1,
+    "fullTextZH": "不不不，因为中国男朋友可以说中文。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 294.52,
+        "endTime": 294.861,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 294.861,
+        "endTime": 294.881,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 294.881,
+        "endTime": 295.201,
+        "gloss": "no"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 296.003,
+        "endTime": 297.085,
+        "gloss": "because"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 297.085,
+        "endTime": 298.328,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 298.328,
+        "endTime": 300.272,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 300.272,
+        "endTime": 301.555,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 301.555,
+        "endTime": 302.717,
+        "gloss": "speak"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 302.717,
+        "endTime": 304.08,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "No no no, because a Chinese boyfriend can speak Chinese."
+  },
+  {
+    "startTime": 304.7,
+    "endTime": 306.166,
+    "fullTextZH": "谢谢再见！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 304.82,
+        "endTime": 305.403,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 305.403,
+        "endTime": 306.126,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye!"
+  }
+]

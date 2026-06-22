@@ -1,0 +1,1520 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 1.366,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.353,
+        "endTime": 1.346,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 2.0,
+    "endTime": 4.666,
+    "fullTextZH": "你好，",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 3.664,
+        "endTime": 4.626,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 4.966,
+    "endTime": 9.299,
+    "fullTextZH": "一天他去超市。",
+    "words": [
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 5.126,
+        "endTime": 6.17,
+        "gloss": "one day"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 6.17,
+        "endTime": 7.153,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 7.153,
+        "endTime": 8.356,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 8.356,
+        "endTime": 8.858,
+        "gloss": "supermarket"
+      }
+    ],
+    "fullTextEN": "One day he went to the supermarket."
+  },
+  {
+    "startTime": 9.8,
+    "endTime": 17.066,
+    "fullTextZH": "你觉得他去超市做什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 9.96,
+        "endTime": 10.661,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 10.661,
+        "endTime": 12.002,
+        "gloss": "think"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 12.002,
+        "endTime": 12.843,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 12.843,
+        "endTime": 13.983,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 13.983,
+        "endTime": 15.405,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 15.405,
+        "endTime": 16.205,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 16.205,
+        "endTime": 17.026,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you think he went to the supermarket for?"
+  },
+  {
+    "startTime": 17.966,
+    "endTime": 23.133,
+    "fullTextZH": "他去超市喝啤酒？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 17.986,
+        "endTime": 18.787,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 18.787,
+        "endTime": 19.829,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 19.829,
+        "endTime": 21.09,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "喝啤酒",
+        "pinyin": "hē pí jiǔ",
+        "startTime": 21.09,
+        "endTime": 23.093,
+        "gloss": "drink beer"
+      }
+    ],
+    "fullTextEN": "Did he go to the supermarket to drink beer?"
+  },
+  {
+    "startTime": 23.4,
+    "endTime": 31.266,
+    "fullTextZH": "不不不，他不去超市喝啤酒。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 23.5,
+        "endTime": 23.52,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 23.52,
+        "endTime": 23.88,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 23.88,
+        "endTime": 24.201,
+        "gloss": "no"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 25.021,
+        "endTime": 25.842,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 25.842,
+        "endTime": 26.943,
+        "gloss": "not"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 26.943,
+        "endTime": 27.963,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 27.963,
+        "endTime": 29.184,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "喝啤酒",
+        "pinyin": "hē pí jiǔ",
+        "startTime": 29.184,
+        "endTime": 30.966,
+        "gloss": "drink beer"
+      }
+    ],
+    "fullTextEN": "No, no, no, he didn't go to the supermarket to drink beer."
+  },
+  {
+    "startTime": 32.1,
+    "endTime": 36.333,
+    "fullTextZH": "他去超市吃饭？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 32.1,
+        "endTime": 32.822,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 32.822,
+        "endTime": 33.966,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 33.966,
+        "endTime": 35.31,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 35.31,
+        "endTime": 36.293,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Did he go to the supermarket to eat?"
+  },
+  {
+    "startTime": 36.533,
+    "endTime": 39.799,
+    "fullTextZH": "不不不，他不",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 36.713,
+        "endTime": 36.954,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 36.954,
+        "endTime": 37.154,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 37.154,
+        "endTime": 37.515,
+        "gloss": "no"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 38.356,
+        "endTime": 39.118,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 39.118,
+        "endTime": 39.138,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "No, no, no, he didn't"
+  },
+  {
+    "startTime": 40.333,
+    "endTime": 43.666,
+    "fullTextZH": "去超市吃饭。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 40.413,
+        "endTime": 41.397,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 41.397,
+        "endTime": 42.702,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 42.702,
+        "endTime": 43.626,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "go to the supermarket to eat."
+  },
+  {
+    "startTime": 46.9,
+    "endTime": 51.466,
+    "fullTextZH": "他去超市跑步？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 46.9,
+        "endTime": 47.821,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 47.821,
+        "endTime": 49.083,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 49.083,
+        "endTime": 50.365,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "跑步",
+        "pinyin": "pǎo bù",
+        "startTime": 50.365,
+        "endTime": 51.426,
+        "gloss": "run"
+      }
+    ],
+    "fullTextEN": "Did he go to the supermarket to run?"
+  },
+  {
+    "startTime": 51.766,
+    "endTime": 53.366,
+    "fullTextZH": "不不不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 51.989,
+        "endTime": 52.455,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 52.455,
+        "endTime": 52.819,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 52.819,
+        "endTime": 53.325,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no,"
+  },
+  {
+    "startTime": 53.466,
+    "endTime": 58.566,
+    "fullTextZH": "他不去超市跑步。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 53.486,
+        "endTime": 54.149,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 54.149,
+        "endTime": 55.394,
+        "gloss": "not"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 55.394,
+        "endTime": 56.518,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 56.518,
+        "endTime": 57.602,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "跑步",
+        "pinyin": "pǎo bù",
+        "startTime": 57.602,
+        "endTime": 58.526,
+        "gloss": "run"
+      }
+    ],
+    "fullTextEN": "He didn't go to the supermarket to run."
+  },
+  {
+    "startTime": 59.066,
+    "endTime": 63.533,
+    "fullTextZH": "他去超市买",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 59.106,
+        "endTime": 60.088,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 60.088,
+        "endTime": 61.129,
+        "gloss": "go"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 61.129,
+        "endTime": 62.571,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 62.571,
+        "endTime": 62.592,
+        "gloss": "buy"
+      }
+    ],
+    "fullTextEN": "He went to the supermarket to buy"
+  },
+  {
+    "startTime": 64.166,
+    "endTime": 65.299,
+    "fullTextZH": "东西，",
+    "words": [
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 64.227,
+        "endTime": 65.279,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "things,"
+  },
+  {
+    "startTime": 66.933,
+    "endTime": 73.666,
+    "fullTextZH": "突然他的女朋友给他打电话，",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 66.973,
+        "endTime": 68.215,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 68.215,
+        "endTime": 68.516,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 68.516,
+        "endTime": 69.217,
+        "gloss": "of"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 69.217,
+        "endTime": 70.881,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 70.881,
+        "endTime": 71.301,
+        "gloss": "give"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 71.301,
+        "endTime": 72.203,
+        "gloss": "him"
+      },
+      {
+        "word": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "startTime": 72.203,
+        "endTime": 73.626,
+        "gloss": "call"
+      }
+    ],
+    "fullTextEN": "Suddenly his girlfriend called him,"
+  },
+  {
+    "startTime": 75.0,
+    "endTime": 78.333,
+    "fullTextZH": "他的女朋友说：“",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 75.0,
+        "endTime": 75.281,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 75.281,
+        "endTime": 75.944,
+        "gloss": "of"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 75.944,
+        "endTime": 77.369,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 77.369,
+        "endTime": 78.293,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "His girlfriend said:"
+  },
+  {
+    "startTime": 78.966,
+    "endTime": 83.899,
+    "fullTextZH": "我想吃小白菜",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 79.126,
+        "endTime": 80.33,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 80.33,
+        "endTime": 81.051,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 81.051,
+        "endTime": 82.094,
+        "gloss": "eat"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 82.094,
+        "endTime": 83.217,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "I want to eat bok choy"
+  },
+  {
+    "startTime": 84.166,
+    "endTime": 88.766,
+    "fullTextZH": "你可以给我买",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 84.287,
+        "endTime": 85.271,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 85.271,
+        "endTime": 86.436,
+        "gloss": "can"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 86.436,
+        "endTime": 86.898,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 86.898,
+        "endTime": 87.963,
+        "gloss": "me"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 87.963,
+        "endTime": 87.983,
+        "gloss": "buy"
+      }
+    ],
+    "fullTextEN": "Can you buy me"
+  },
+  {
+    "startTime": 89.3,
+    "endTime": 91.5,
+    "fullTextZH": "小白菜吗？”",
+    "words": [
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 89.441,
+        "endTime": 90.834,
+        "gloss": "bok choy"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 90.834,
+        "endTime": 91.46,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "bok choy?"
+  },
+  {
+    "startTime": 92.766,
+    "endTime": 101.933,
+    "fullTextZH": "他说：“可是我没有买过小白菜。”",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 92.766,
+        "endTime": 93.306,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 93.306,
+        "endTime": 93.827,
+        "gloss": "say"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 94.788,
+        "endTime": 95.808,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 95.808,
+        "endTime": 96.869,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 96.869,
+        "endTime": 98.791,
+        "gloss": "not"
+      },
+      {
+        "word": "买过",
+        "pinyin": "mǎi guò",
+        "startTime": 98.791,
+        "endTime": 100.532,
+        "gloss": "buy before"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 100.532,
+        "endTime": 101.893,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "He said: \"But I've never bought bok choy before.\""
+  },
+  {
+    "startTime": 103.3,
+    "endTime": 107.7,
+    "fullTextZH": "他的女朋友说：“嗯～",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 103.3,
+        "endTime": 103.601,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 103.601,
+        "endTime": 104.264,
+        "gloss": "possessive"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 104.264,
+        "endTime": 105.952,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 105.952,
+        "endTime": 105.972,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 106.997,
+        "endTime": 107.68,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "His girlfriend said, 'Hmm~'"
+  },
+  {
+    "startTime": 107.9,
+    "endTime": 112.333,
+    "fullTextZH": "我做过小白菜，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 108.0,
+        "endTime": 109.083,
+        "gloss": "I"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 109.083,
+        "endTime": 110.106,
+        "gloss": "make"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 110.106,
+        "endTime": 111.009,
+        "gloss": "past"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 111.009,
+        "endTime": 112.293,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "I have made bok choy,"
+  },
+  {
+    "startTime": 112.566,
+    "endTime": 117.733,
+    "fullTextZH": "所以你见过小白菜。”",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 112.706,
+        "endTime": 113.808,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 113.808,
+        "endTime": 114.929,
+        "gloss": "you"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 114.929,
+        "endTime": 115.69,
+        "gloss": "see"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 115.69,
+        "endTime": 116.411,
+        "gloss": "past"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 116.411,
+        "endTime": 117.693,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "so you have seen bok choy."
+  },
+  {
+    "startTime": 118.666,
+    "endTime": 120.199,
+    "fullTextZH": "他说：“",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 118.686,
+        "endTime": 119.291,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 119.291,
+        "endTime": 120.159,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said, '"
+  },
+  {
+    "startTime": 121.0,
+    "endTime": 126.866,
+    "fullTextZH": "好吧，我给你买小白菜。”",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 121.1,
+        "endTime": 121.32,
+        "gloss": "okay"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 121.32,
+        "endTime": 121.501,
+        "gloss": "particle"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 122.021,
+        "endTime": 123.002,
+        "gloss": "I"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 123.002,
+        "endTime": 123.422,
+        "gloss": "for"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 123.422,
+        "endTime": 124.323,
+        "gloss": "you"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 124.323,
+        "endTime": 125.605,
+        "gloss": "buy"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 125.605,
+        "endTime": 126.826,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "Okay, I'll buy you bok choy.'"
+  },
+  {
+    "startTime": 127.933,
+    "endTime": 132.066,
+    "fullTextZH": "所以他去找",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 128.053,
+        "endTime": 129.016,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 129.016,
+        "endTime": 129.919,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 129.919,
+        "endTime": 131.083,
+        "gloss": "go"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 131.083,
+        "endTime": 131.103,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "So he went to find"
+  },
+  {
+    "startTime": 132.6,
+    "endTime": 134.133,
+    "fullTextZH": "小白菜，",
+    "words": [
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 132.782,
+        "endTime": 134.093,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "bok choy,"
+  },
+  {
+    "startTime": 135.133,
+    "endTime": 140.899,
+    "fullTextZH": "他看到很多很多小白菜，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 135.153,
+        "endTime": 136.074,
+        "gloss": "he"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 136.074,
+        "endTime": 137.495,
+        "gloss": "saw"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 137.495,
+        "endTime": 139.638,
+        "gloss": "many many"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 139.638,
+        "endTime": 140.859,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "he saw lots and lots of bok choy,"
+  },
+  {
+    "startTime": 141.933,
+    "endTime": 144.733,
+    "fullTextZH": "他看到这个。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 141.933,
+        "endTime": 142.739,
+        "gloss": "he"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 142.739,
+        "endTime": 143.968,
+        "gloss": "saw"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 143.968,
+        "endTime": 144.693,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "he saw this."
+  },
+  {
+    "startTime": 145.166,
+    "endTime": 153.766,
+    "fullTextZH": "所以他觉得一颗小白菜一块钱，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 145.306,
+        "endTime": 146.289,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 146.289,
+        "endTime": 146.99,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 146.99,
+        "endTime": 148.193,
+        "gloss": "thought"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 148.193,
+        "endTime": 150.118,
+        "gloss": "one"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 150.118,
+        "endTime": 151.962,
+        "gloss": "bok choy"
+      },
+      {
+        "word": "一块钱",
+        "pinyin": "yī kuài qián",
+        "startTime": 151.962,
+        "endTime": 153.726,
+        "gloss": "one yuan"
+      }
+    ],
+    "fullTextEN": "So he thought one bok choy is one yuan,"
+  },
+  {
+    "startTime": 154.166,
+    "endTime": 158.133,
+    "fullTextZH": "所以他拿了一颗，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 154.346,
+        "endTime": 155.228,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 155.228,
+        "endTime": 156.049,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 156.049,
+        "endTime": 156.57,
+        "gloss": "took"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 156.57,
+        "endTime": 157.191,
+        "gloss": "particle"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 157.191,
+        "endTime": 158.093,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "so he took one,"
+  },
+  {
+    "startTime": 158.933,
+    "endTime": 162.333,
+    "fullTextZH": "然后他回家。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 158.953,
+        "endTime": 159.858,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 159.858,
+        "endTime": 160.703,
+        "gloss": "he"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 160.703,
+        "endTime": 162.293,
+        "gloss": "go home"
+      }
+    ],
+    "fullTextEN": "then he went home."
+  },
+  {
+    "startTime": 164.166,
+    "endTime": 167.066,
+    "fullTextZH": "他的女朋友说：“",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 164.186,
+        "endTime": 164.468,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 164.468,
+        "endTime": 165.032,
+        "gloss": "possessive"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 165.032,
+        "endTime": 166.2,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 166.2,
+        "endTime": 167.026,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "His girlfriend said, '"
+  },
+  {
+    "startTime": 167.466,
+    "endTime": 174.899,
+    "fullTextZH": "为什么你只买了一颗小白菜？”",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 167.566,
+        "endTime": 168.949,
+        "gloss": "why"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 168.949,
+        "endTime": 170.03,
+        "gloss": "you"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 170.03,
+        "endTime": 171.052,
+        "gloss": "only"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 171.052,
+        "endTime": 171.593,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 171.593,
+        "endTime": 172.234,
+        "gloss": "particle"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 172.234,
+        "endTime": 173.577,
+        "gloss": "one"
+      },
+      {
+        "word": "小白菜",
+        "pinyin": "xiǎo bái cài",
+        "startTime": 173.577,
+        "endTime": 174.859,
+        "gloss": "bok choy"
+      }
+    ],
+    "fullTextEN": "Why did you only buy one bok choy?'"
+  },
+  {
+    "startTime": 176.6,
+    "endTime": 185.5,
+    "fullTextZH": "他说：“因为超市说一颗1块钱，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 176.62,
+        "endTime": 177.241,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 177.241,
+        "endTime": 178.625,
+        "gloss": "said"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 178.865,
+        "endTime": 179.988,
+        "gloss": "because"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 179.988,
+        "endTime": 180.99,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 180.99,
+        "endTime": 182.072,
+        "gloss": "said"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 182.072,
+        "endTime": 183.556,
+        "gloss": "one"
+      },
+      {
+        "word": "块钱",
+        "pinyin": "kuài qián",
+        "startTime": 184.057,
+        "endTime": 185.46,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "He said, 'Because the supermarket said one is 1 yuan,"
+  },
+  {
+    "startTime": 185.666,
+    "endTime": 189.999,
+    "fullTextZH": "所以我买了一颗。”",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 185.806,
+        "endTime": 186.749,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 186.749,
+        "endTime": 187.471,
+        "gloss": "I"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 187.471,
+        "endTime": 187.953,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 187.953,
+        "endTime": 188.575,
+        "gloss": "particle"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 188.575,
+        "endTime": 189.959,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "so I bought one.'"
+  },
+  {
+    "startTime": 191.5,
+    "endTime": 194.166,
+    "fullTextZH": "她说：“不不不，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 191.5,
+        "endTime": 192.081,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 192.081,
+        "endTime": 192.863,
+        "gloss": "said"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 193.264,
+        "endTime": 193.505,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 193.505,
+        "endTime": 193.625,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 193.625,
+        "endTime": 194.126,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "She said, 'No no no,"
+  },
+  {
+    "startTime": 194.466,
+    "endTime": 200.299,
+    "fullTextZH": "超市说一把1块钱，",
+    "words": [
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 194.546,
+        "endTime": 195.749,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 195.749,
+        "endTime": 196.671,
+        "gloss": "said"
+      },
+      {
+        "word": "一把",
+        "pinyin": "yī bǎ",
+        "startTime": 196.671,
+        "endTime": 198.816,
+        "gloss": "one bunch"
+      },
+      {
+        "word": "块钱",
+        "pinyin": "kuài qián",
+        "startTime": 199.116,
+        "endTime": 200.259,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "the supermarket said one bunch is 1 yuan,"
+  },
+  {
+    "startTime": 200.333,
+    "endTime": 204.299,
+    "fullTextZH": "不是一颗一块钱，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 200.473,
+        "endTime": 201.695,
+        "gloss": "not"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 201.695,
+        "endTime": 202.957,
+        "gloss": "one piece"
+      },
+      {
+        "word": "一块钱",
+        "pinyin": "yī kuài qián",
+        "startTime": 202.957,
+        "endTime": 204.259,
+        "gloss": "one yuan"
+      }
+    ],
+    "fullTextEN": "not one piece one yuan,"
+  },
+  {
+    "startTime": 205.466,
+    "endTime": 206.366,
+    "fullTextZH": "笨蛋。”",
+    "words": [
+      {
+        "word": "笨蛋",
+        "pinyin": "bèn dàn",
+        "startTime": 205.568,
+        "endTime": 206.325,
+        "gloss": "dummy"
+      }
+    ],
+    "fullTextEN": "dummy.'"
+  },
+  {
+    "startTime": 208.866,
+    "endTime": 210.299,
+    "fullTextZH": "谢谢再见？",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 208.906,
+        "endTime": 209.431,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 209.431,
+        "endTime": 210.259,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye?"
+  }
+]

@@ -1,0 +1,3754 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 1.6,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.393,
+        "endTime": 1.56,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 2.4,
+    "endTime": 4.433,
+    "fullTextZH": "上一个视频，",
+    "words": [
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 2.581,
+        "endTime": 2.943,
+        "gloss": "previous"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 2.943,
+        "endTime": 3.507,
+        "gloss": "one"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 3.507,
+        "endTime": 4.393,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "The previous video,"
+  },
+  {
+    "startTime": 4.466,
+    "endTime": 9.0,
+    "fullTextZH": "我们说了一个奇怪的比赛。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 4.546,
+        "endTime": 5.349,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 5.349,
+        "endTime": 5.67,
+        "gloss": "talked"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 5.67,
+        "endTime": 5.951,
+        "gloss": "about"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 5.951,
+        "endTime": 6.893,
+        "gloss": "a"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 6.893,
+        "endTime": 7.616,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 7.616,
+        "endTime": 8.037,
+        "gloss": "of"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 8.037,
+        "endTime": 8.96,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "We talked about a strange competition."
+  },
+  {
+    "startTime": 9.2,
+    "endTime": 10.8,
+    "fullTextZH": "你记得吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 9.301,
+        "endTime": 9.787,
+        "gloss": "you"
+      },
+      {
+        "word": "记得",
+        "pinyin": "jì de",
+        "startTime": 9.787,
+        "endTime": 10.253,
+        "gloss": "remember"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 10.253,
+        "endTime": 10.759,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you remember?"
+  },
+  {
+    "startTime": 10.866,
+    "endTime": 13.7,
+    "fullTextZH": "哼，是什么比赛？",
+    "words": [
+      {
+        "word": "哼",
+        "pinyin": "hēng",
+        "startTime": 10.966,
+        "endTime": 11.208,
+        "gloss": "hmm"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 11.71,
+        "endTime": 12.012,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 12.012,
+        "endTime": 12.816,
+        "gloss": "what"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 12.816,
+        "endTime": 13.137,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "Hmm, what competition?"
+  },
+  {
+    "startTime": 14.333,
+    "endTime": 17.833,
+    "fullTextZH": "是空气吉他！",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 14.534,
+        "endTime": 15.922,
+        "gloss": "is"
+      },
+      {
+        "word": "空气",
+        "pinyin": "kōng qì",
+        "startTime": 15.922,
+        "endTime": 16.867,
+        "gloss": "air"
+      },
+      {
+        "word": "吉他",
+        "pinyin": "jí tā",
+        "startTime": 16.867,
+        "endTime": 17.793,
+        "gloss": "guitar"
+      }
+    ],
+    "fullTextEN": "It's air guitar!"
+  },
+  {
+    "startTime": 17.833,
+    "endTime": 20.466,
+    "fullTextZH": "对不对？不是真的吉他，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 17.873,
+        "endTime": 17.994,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 17.994,
+        "endTime": 18.094,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 18.094,
+        "endTime": 18.717,
+        "gloss": "right"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 18.838,
+        "endTime": 19.28,
+        "gloss": "not"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 19.28,
+        "endTime": 19.984,
+        "gloss": "real"
+      },
+      {
+        "word": "吉他",
+        "pinyin": "jí tā",
+        "startTime": 19.984,
+        "endTime": 20.426,
+        "gloss": "guitar"
+      }
+    ],
+    "fullTextEN": "Right? Not a real guitar,"
+  },
+  {
+    "startTime": 20.466,
+    "endTime": 23.933,
+    "fullTextZH": "是空气吉他，空气！",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 20.566,
+        "endTime": 20.827,
+        "gloss": "is"
+      },
+      {
+        "word": "空气",
+        "pinyin": "kōng qì",
+        "startTime": 20.827,
+        "endTime": 21.608,
+        "gloss": "air"
+      },
+      {
+        "word": "吉他",
+        "pinyin": "jí tā",
+        "startTime": 21.608,
+        "endTime": 22.751,
+        "gloss": "guitar"
+      },
+      {
+        "word": "空气",
+        "pinyin": "kōng qì",
+        "startTime": 22.951,
+        "endTime": 23.893,
+        "gloss": "air"
+      }
+    ],
+    "fullTextEN": "It's air guitar, air!"
+  },
+  {
+    "startTime": 24.7,
+    "endTime": 30.133,
+    "fullTextZH": "今天我也要说一个有意思的比赛！",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 24.78,
+        "endTime": 25.742,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 25.742,
+        "endTime": 25.963,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 25.963,
+        "endTime": 26.184,
+        "gloss": "also"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 26.184,
+        "endTime": 26.945,
+        "gloss": "want to talk"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 26.945,
+        "endTime": 27.747,
+        "gloss": "a"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 27.747,
+        "endTime": 28.77,
+        "gloss": "interesting"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 28.77,
+        "endTime": 29.231,
+        "gloss": "of"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 29.231,
+        "endTime": 30.093,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "Today I also want to talk about an interesting competition!"
+  },
+  {
+    "startTime": 30.7,
+    "endTime": 35.7,
+    "fullTextZH": "今天的比赛是英国的一个比赛。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 30.8,
+        "endTime": 31.363,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 31.363,
+        "endTime": 31.624,
+        "gloss": "of"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 31.624,
+        "endTime": 32.909,
+        "gloss": "competition"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.909,
+        "endTime": 33.431,
+        "gloss": "is"
+      },
+      {
+        "word": "英国",
+        "pinyin": "yīng guó",
+        "startTime": 33.431,
+        "endTime": 34.053,
+        "gloss": "British"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.053,
+        "endTime": 34.335,
+        "gloss": "of"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 34.335,
+        "endTime": 34.837,
+        "gloss": "a"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 34.837,
+        "endTime": 35.66,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "Today's competition is a British competition."
+  },
+  {
+    "startTime": 36.166,
+    "endTime": 37.5,
+    "fullTextZH": "这个比赛，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 36.267,
+        "endTime": 36.611,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 36.611,
+        "endTime": 37.48,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "This competition,"
+  },
+  {
+    "startTime": 37.533,
+    "endTime": 43.333,
+    "fullTextZH": "所有的人一起追一个奶酪！",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 37.834,
+        "endTime": 38.577,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.577,
+        "endTime": 38.737,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 38.737,
+        "endTime": 39.48,
+        "gloss": "people"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 39.48,
+        "endTime": 40.604,
+        "gloss": "together"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 40.604,
+        "endTime": 41.306,
+        "gloss": "chase"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 41.306,
+        "endTime": 42.189,
+        "gloss": "a"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 42.189,
+        "endTime": 43.293,
+        "gloss": "cheese"
+      }
+    ],
+    "fullTextEN": "Everyone chases a cheese together!"
+  },
+  {
+    "startTime": 44.4,
+    "endTime": 47.933,
+    "fullTextZH": "如果你追这个奶酪，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 44.5,
+        "endTime": 45.243,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 45.243,
+        "endTime": 45.725,
+        "gloss": "you"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 45.725,
+        "endTime": 46.468,
+        "gloss": "chase"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 46.468,
+        "endTime": 47.09,
+        "gloss": "this"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 47.09,
+        "endTime": 47.893,
+        "gloss": "cheese"
+      }
+    ],
+    "fullTextEN": "If you chase this cheese,"
+  },
+  {
+    "startTime": 47.933,
+    "endTime": 49.433,
+    "fullTextZH": "你追到了，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 47.994,
+        "endTime": 48.298,
+        "gloss": "you"
+      },
+      {
+        "word": "追到",
+        "pinyin": "zhuī dào",
+        "startTime": 48.298,
+        "endTime": 49.048,
+        "gloss": "catch"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 49.048,
+        "endTime": 49.392,
+        "gloss": "it"
+      }
+    ],
+    "fullTextEN": "You catch it,"
+  },
+  {
+    "startTime": 49.433,
+    "endTime": 52.733,
+    "fullTextZH": "那这个奶酪就是你的！",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 49.554,
+        "endTime": 49.996,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 49.996,
+        "endTime": 50.298,
+        "gloss": "this"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 50.298,
+        "endTime": 51.143,
+        "gloss": "cheese"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 51.143,
+        "endTime": 51.968,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 51.968,
+        "endTime": 52.25,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.25,
+        "endTime": 52.693,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Then this cheese is yours!"
+  },
+  {
+    "startTime": 53.066,
+    "endTime": 59.833,
+    "fullTextZH": "哼，你觉得这个比赛听起来有意思吗？",
+    "words": [
+      {
+        "word": "哼",
+        "pinyin": "hēng",
+        "startTime": 53.146,
+        "endTime": 53.366,
+        "gloss": "hmm"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 53.907,
+        "endTime": 54.087,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 54.087,
+        "endTime": 54.948,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 54.948,
+        "endTime": 55.669,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 55.669,
+        "endTime": 56.55,
+        "gloss": "competition"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 56.55,
+        "endTime": 56.91,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 56.91,
+        "endTime": 58.271,
+        "gloss": "like"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 58.271,
+        "endTime": 59.212,
+        "gloss": "interesting"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 59.212,
+        "endTime": 59.793,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Hmm, do you think this competition sounds interesting?"
+  },
+  {
+    "startTime": 60.666,
+    "endTime": 64.533,
+    "fullTextZH": "这个追奶酪的比赛，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 60.746,
+        "endTime": 61.548,
+        "gloss": "this"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 61.548,
+        "endTime": 62.429,
+        "gloss": "chase"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 62.429,
+        "endTime": 63.15,
+        "gloss": "cheese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 63.15,
+        "endTime": 63.591,
+        "gloss": "of"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 63.591,
+        "endTime": 64.493,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "This cheese-chasing competition,"
+  },
+  {
+    "startTime": 64.933,
+    "endTime": 73.866,
+    "fullTextZH": "可能是1826年或者更早以前开始的。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 65.033,
+        "endTime": 65.674,
+        "gloss": "might"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 65.674,
+        "endTime": 66.475,
+        "gloss": "be"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 69.079,
+        "endTime": 69.82,
+        "gloss": "year"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 69.82,
+        "endTime": 70.521,
+        "gloss": "or"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 70.521,
+        "endTime": 71.162,
+        "gloss": "even"
+      },
+      {
+        "word": "早",
+        "pinyin": "zǎo",
+        "startTime": 71.162,
+        "endTime": 71.783,
+        "gloss": "earlier"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 71.783,
+        "endTime": 72.804,
+        "gloss": "before"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 72.804,
+        "endTime": 73.465,
+        "gloss": "start"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 73.465,
+        "endTime": 73.826,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "It might have started in 1826 or even earlier."
+  },
+  {
+    "startTime": 74.466,
+    "endTime": 78.866,
+    "fullTextZH": "所以到现在差不多200年！",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 74.526,
+        "endTime": 74.948,
+        "gloss": "so"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 74.948,
+        "endTime": 75.31,
+        "gloss": "until"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 75.31,
+        "endTime": 76.194,
+        "gloss": "now"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 76.194,
+        "endTime": 76.957,
+        "gloss": "almost"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 78.163,
+        "endTime": 78.826,
+        "gloss": "year"
+      }
+    ],
+    "fullTextEN": "So it's been almost 200 years now!"
+  },
+  {
+    "startTime": 79.133,
+    "endTime": 83.433,
+    "fullTextZH": "这个比赛是在英国的一个地方，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 79.213,
+        "endTime": 79.575,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 79.575,
+        "endTime": 80.319,
+        "gloss": "competition"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 80.319,
+        "endTime": 80.72,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 80.72,
+        "endTime": 81.102,
+        "gloss": "in"
+      },
+      {
+        "word": "英国",
+        "pinyin": "yīng guó",
+        "startTime": 81.102,
+        "endTime": 81.725,
+        "gloss": "Britain"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 81.725,
+        "endTime": 82.006,
+        "gloss": "of"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 82.006,
+        "endTime": 82.589,
+        "gloss": "a"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 82.589,
+        "endTime": 83.393,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "This competition is in a place in Britain,"
+  },
+  {
+    "startTime": 83.633,
+    "endTime": 86.233,
+    "fullTextZH": "这个地方叫Cooper's Hill。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 83.693,
+        "endTime": 84.016,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 84.016,
+        "endTime": 84.681,
+        "gloss": "place"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 84.681,
+        "endTime": 85.124,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "This place is called Cooper's Hill."
+  },
+  {
+    "startTime": 87.233,
+    "endTime": 91.1,
+    "fullTextZH": "这个比赛在每年的5月。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 87.293,
+        "endTime": 87.674,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 87.674,
+        "endTime": 88.455,
+        "gloss": "competition"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 88.455,
+        "endTime": 89.096,
+        "gloss": "in"
+      },
+      {
+        "word": "每年",
+        "pinyin": "měi nián",
+        "startTime": 89.096,
+        "endTime": 89.778,
+        "gloss": "every year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 89.778,
+        "endTime": 90.198,
+        "gloss": "of"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 90.519,
+        "endTime": 91.06,
+        "gloss": "month"
+      }
+    ],
+    "fullTextEN": "This competition is in May every year."
+  },
+  {
+    "startTime": 91.966,
+    "endTime": 95.9,
+    "fullTextZH": "追奶酪，听起来有意思，",
+    "words": [
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 92.106,
+        "endTime": 92.769,
+        "gloss": "chase"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 92.769,
+        "endTime": 93.712,
+        "gloss": "cheese"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 93.873,
+        "endTime": 94.254,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 94.254,
+        "endTime": 94.977,
+        "gloss": "like"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 94.977,
+        "endTime": 95.86,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "Chasing cheese sounds interesting,"
+  },
+  {
+    "startTime": 95.9,
+    "endTime": 98.5,
+    "fullTextZH": "嗯，我觉得有意思！",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 95.96,
+        "endTime": 96.424,
+        "gloss": "hmm"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 96.444,
+        "endTime": 96.646,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 96.646,
+        "endTime": 97.452,
+        "gloss": "think"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 97.452,
+        "endTime": 98.46,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "Hmm, I think it's interesting!"
+  },
+  {
+    "startTime": 98.866,
+    "endTime": 101.866,
+    "fullTextZH": "可是，这个比赛，嗯，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 98.987,
+        "endTime": 99.47,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 99.893,
+        "endTime": 100.235,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 100.235,
+        "endTime": 101.161,
+        "gloss": "competition"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 101.403,
+        "endTime": 101.826,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "But, this competition, hmm,"
+  },
+  {
+    "startTime": 101.866,
+    "endTime": 105.066,
+    "fullTextZH": "很危险！为什么？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 102.047,
+        "endTime": 102.55,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 102.55,
+        "endTime": 103.235,
+        "gloss": "dangerous"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 104.16,
+        "endTime": 105.026,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Very dangerous! Why?"
+  },
+  {
+    "startTime": 105.633,
+    "endTime": 111.766,
+    "fullTextZH": "因为这个比赛是在一个山坡，嗯，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 105.733,
+        "endTime": 106.635,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 106.635,
+        "endTime": 106.976,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 106.976,
+        "endTime": 107.758,
+        "gloss": "competition"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 107.758,
+        "endTime": 108.138,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 108.138,
+        "endTime": 108.459,
+        "gloss": "on"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 108.459,
+        "endTime": 109.381,
+        "gloss": "a"
+      },
+      {
+        "word": "山坡",
+        "pinyin": "shān pō",
+        "startTime": 109.381,
+        "endTime": 110.343,
+        "gloss": "slope"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 111.185,
+        "endTime": 111.726,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Because this competition is on a slope, hmm,"
+  },
+  {
+    "startTime": 111.766,
+    "endTime": 114.0,
+    "fullTextZH": "在一个山坡上！",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 111.826,
+        "endTime": 112.088,
+        "gloss": "on"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 112.088,
+        "endTime": 112.531,
+        "gloss": "a"
+      },
+      {
+        "word": "山坡",
+        "pinyin": "shān pō",
+        "startTime": 112.531,
+        "endTime": 113.416,
+        "gloss": "slope"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 113.416,
+        "endTime": 113.96,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "On a slope!"
+  },
+  {
+    "startTime": 114.3,
+    "endTime": 116.433,
+    "fullTextZH": "这个山坡，嗯，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 114.38,
+        "endTime": 114.702,
+        "gloss": "this"
+      },
+      {
+        "word": "山坡",
+        "pinyin": "shān pō",
+        "startTime": 114.702,
+        "endTime": 115.487,
+        "gloss": "slope"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 115.99,
+        "endTime": 116.393,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "This slope, hmm,"
+  },
+  {
+    "startTime": 116.433,
+    "endTime": 120.2,
+    "fullTextZH": "是45度！45度！",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 116.593,
+        "endTime": 117.515,
+        "gloss": "is"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 118.296,
+        "endTime": 118.898,
+        "gloss": "45"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 119.659,
+        "endTime": 120.16,
+        "gloss": "degrees"
+      }
+    ],
+    "fullTextEN": "Is 45 degrees! 45 degrees!"
+  },
+  {
+    "startTime": 120.6,
+    "endTime": 122.1,
+    "fullTextZH": "不是90度，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 120.62,
+        "endTime": 121.391,
+        "gloss": "not"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 121.897,
+        "endTime": 122.059,
+        "gloss": "90"
+      }
+    ],
+    "fullTextEN": "Not 90 degrees,"
+  },
+  {
+    "startTime": 122.1,
+    "endTime": 122.666,
+    "fullTextZH": "嗯，嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 122.161,
+        "endTime": 122.242,
+        "gloss": "hmm"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 122.343,
+        "endTime": 122.646,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm, hmm,"
+  },
+  {
+    "startTime": 122.666,
+    "endTime": 124.166,
+    "fullTextZH": "不是90度,",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 122.767,
+        "endTime": 123.152,
+        "gloss": "not"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 123.68,
+        "endTime": 124.125,
+        "gloss": "90"
+      }
+    ],
+    "fullTextEN": "Not 90 degrees,"
+  },
+  {
+    "startTime": 124.166,
+    "endTime": 126.1,
+    "fullTextZH": "如果90度，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 124.267,
+        "endTime": 124.871,
+        "gloss": "if"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 125.677,
+        "endTime": 126.06,
+        "gloss": "90"
+      }
+    ],
+    "fullTextEN": "If 90 degrees,"
+  },
+  {
+    "startTime": 126.1,
+    "endTime": 127.666,
+    "fullTextZH": "可能你，呃，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 126.241,
+        "endTime": 126.742,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 126.742,
+        "endTime": 127.104,
+        "gloss": "you"
+      },
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 127.626,
+        "endTime": 127.646,
+        "gloss": "uh"
+      }
+    ],
+    "fullTextEN": "Maybe you, uh,"
+  },
+  {
+    "startTime": 128.266,
+    "endTime": 129.8,
+    "fullTextZH": "会死！可是，",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 128.387,
+        "endTime": 128.71,
+        "gloss": "would"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 128.71,
+        "endTime": 128.892,
+        "gloss": "die"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 129.336,
+        "endTime": 129.76,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "Would die! But,"
+  },
+  {
+    "startTime": 129.8,
+    "endTime": 131.766,
+    "fullTextZH": "45度，嗯，",
+    "words": [
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 130.302,
+        "endTime": 130.522,
+        "gloss": "45"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 130.903,
+        "endTime": 131.726,
+        "gloss": "degrees"
+      }
+    ],
+    "fullTextEN": "45 degrees, hmm,"
+  },
+  {
+    "startTime": 132.0,
+    "endTime": 133.833,
+    "fullTextZH": "还可以，好，",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 132.201,
+        "endTime": 132.423,
+        "gloss": "still"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 132.423,
+        "endTime": 132.866,
+        "gloss": "okay"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 133.289,
+        "endTime": 133.793,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "Still okay, well,"
+  },
+  {
+    "startTime": 133.833,
+    "endTime": 136.166,
+    "fullTextZH": "也不是平的，对，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 133.934,
+        "endTime": 134.175,
+        "gloss": "also"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 134.175,
+        "endTime": 134.678,
+        "gloss": "not"
+      },
+      {
+        "word": "平",
+        "pinyin": "píng",
+        "startTime": 134.678,
+        "endTime": 135.08,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 135.08,
+        "endTime": 135.703,
+        "gloss": "of"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 135.884,
+        "endTime": 136.126,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Also not flat, right,"
+  },
+  {
+    "startTime": 136.166,
+    "endTime": 137.766,
+    "fullTextZH": "如果平的，嗯，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 136.207,
+        "endTime": 136.551,
+        "gloss": "if"
+      },
+      {
+        "word": "平",
+        "pinyin": "píng",
+        "startTime": 136.551,
+        "endTime": 136.895,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 136.895,
+        "endTime": 137.118,
+        "gloss": "of"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 137.341,
+        "endTime": 137.725,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "If flat, hmm,"
+  },
+  {
+    "startTime": 137.766,
+    "endTime": 142.366,
+    "fullTextZH": "很简单，所有的人可以跑、追，对！",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 137.806,
+        "endTime": 138.067,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 138.067,
+        "endTime": 138.549,
+        "gloss": "simple"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 138.911,
+        "endTime": 139.293,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.293,
+        "endTime": 139.453,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 139.453,
+        "endTime": 139.775,
+        "gloss": "people"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 139.775,
+        "endTime": 140.156,
+        "gloss": "can"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 140.156,
+        "endTime": 140.699,
+        "gloss": "run"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 141.1,
+        "endTime": 141.462,
+        "gloss": "chase"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 141.884,
+        "endTime": 142.326,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "It's simple, everyone can run and chase, right!"
+  },
+  {
+    "startTime": 142.366,
+    "endTime": 144.366,
+    "fullTextZH": "是45度！",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 142.507,
+        "endTime": 142.972,
+        "gloss": "is"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 143.821,
+        "endTime": 144.326,
+        "gloss": "degrees"
+      }
+    ],
+    "fullTextEN": "It's 45 degrees!"
+  },
+  {
+    "startTime": 145.1,
+    "endTime": 148.8,
+    "fullTextZH": "好，你可以看这个视频，嗯，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 145.321,
+        "endTime": 145.341,
+        "gloss": "okay"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 145.583,
+        "endTime": 145.764,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 145.764,
+        "endTime": 146.146,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 146.146,
+        "endTime": 146.608,
+        "gloss": "watch"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 146.608,
+        "endTime": 147.191,
+        "gloss": "this"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 147.191,
+        "endTime": 147.795,
+        "gloss": "video"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 148.237,
+        "endTime": 148.478,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Okay, you can watch this video, um,"
+  },
+  {
+    "startTime": 148.866,
+    "endTime": 151.633,
+    "fullTextZH": "他们放一个奶酪，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 148.966,
+        "endTime": 149.468,
+        "gloss": "they"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 149.468,
+        "endTime": 149.788,
+        "gloss": "put"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 149.788,
+        "endTime": 150.791,
+        "gloss": "a"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 150.791,
+        "endTime": 151.593,
+        "gloss": "cheese"
+      }
+    ],
+    "fullTextEN": "They put a cheese,"
+  },
+  {
+    "startTime": 151.633,
+    "endTime": 155.266,
+    "fullTextZH": "然后所有的人追这个奶酪！",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 151.693,
+        "endTime": 152.195,
+        "gloss": "then"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 152.195,
+        "endTime": 152.857,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.857,
+        "endTime": 153.018,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 153.018,
+        "endTime": 153.54,
+        "gloss": "people"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 153.54,
+        "endTime": 153.981,
+        "gloss": "chase"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 153.981,
+        "endTime": 154.383,
+        "gloss": "this"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 154.383,
+        "endTime": 155.226,
+        "gloss": "cheese"
+      }
+    ],
+    "fullTextEN": "Then everyone chases this cheese!"
+  },
+  {
+    "startTime": 159.833,
+    "endTime": 161.566,
+    "fullTextZH": "我看这个视频，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 159.974,
+        "endTime": 160.256,
+        "gloss": "I"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 160.256,
+        "endTime": 160.639,
+        "gloss": "watch"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 160.639,
+        "endTime": 160.941,
+        "gloss": "this"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 160.941,
+        "endTime": 161.526,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "I watch this video,"
+  },
+  {
+    "startTime": 161.566,
+    "endTime": 162.833,
+    "fullTextZH": "我觉得，啊，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 161.606,
+        "endTime": 161.827,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 161.827,
+        "endTime": 162.189,
+        "gloss": "think"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 162.491,
+        "endTime": 162.793,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "I think, ah,"
+  },
+  {
+    "startTime": 162.833,
+    "endTime": 167.3,
+    "fullTextZH": "很害怕！因为看起来很危险！",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 162.873,
+        "endTime": 163.093,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 163.093,
+        "endTime": 163.654,
+        "gloss": "scary"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 164.115,
+        "endTime": 164.596,
+        "gloss": "because"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 164.596,
+        "endTime": 165.938,
+        "gloss": "looks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 165.938,
+        "endTime": 166.298,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 166.298,
+        "endTime": 167.26,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "Very scary! Because it looks very dangerous!"
+  },
+  {
+    "startTime": 167.566,
+    "endTime": 171.966,
+    "fullTextZH": "看起来他们很多很多人会受伤，",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 167.606,
+        "endTime": 168.49,
+        "gloss": "looks"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 168.49,
+        "endTime": 168.892,
+        "gloss": "they"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 168.892,
+        "endTime": 169.836,
+        "gloss": "many many"
+      },
+      {
+        "word": "人会",
+        "pinyin": "rén huì",
+        "startTime": 169.836,
+        "endTime": 171.203,
+        "gloss": "people will"
+      },
+      {
+        "word": "受伤",
+        "pinyin": "shòu shāng",
+        "startTime": 171.203,
+        "endTime": 171.926,
+        "gloss": "get hurt"
+      }
+    ],
+    "fullTextEN": "It looks like many of them will get hurt,"
+  },
+  {
+    "startTime": 171.966,
+    "endTime": 173.066,
+    "fullTextZH": "会，嗯，",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 172.088,
+        "endTime": 172.109,
+        "gloss": "will"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 172.862,
+        "endTime": 173.025,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Will, um,"
+  },
+  {
+    "startTime": 173.066,
+    "endTime": 178.166,
+    "fullTextZH": "手断、他们的腿可能会断，",
+    "words": [
+      {
+        "word": "手断",
+        "pinyin": "shǒu duàn",
+        "startTime": 173.227,
+        "endTime": 174.411,
+        "gloss": "hands broken"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 175.235,
+        "endTime": 175.596,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 175.596,
+        "endTime": 175.857,
+        "gloss": "of"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 175.857,
+        "endTime": 176.58,
+        "gloss": "legs"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 176.58,
+        "endTime": 177.283,
+        "gloss": "might"
+      },
+      {
+        "word": "会断",
+        "pinyin": "huì duàn",
+        "startTime": 177.283,
+        "endTime": 177.905,
+        "gloss": "break"
+      }
+    ],
+    "fullTextEN": "Hands broken, their legs might break,"
+  },
+  {
+    "startTime": 178.366,
+    "endTime": 181.066,
+    "fullTextZH": "他们的头可能会“嘣”！",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 178.426,
+        "endTime": 178.729,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 178.729,
+        "endTime": 178.93,
+        "gloss": "of"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 178.93,
+        "endTime": 179.635,
+        "gloss": "heads"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 179.635,
+        "endTime": 180.059,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 180.059,
+        "endTime": 180.482,
+        "gloss": "will"
+      },
+      {
+        "word": "嘣",
+        "pinyin": "bēng",
+        "startTime": 180.744,
+        "endTime": 181.026,
+        "gloss": "bang"
+      }
+    ],
+    "fullTextEN": "Their heads might go 'bang'!"
+  },
+  {
+    "startTime": 181.2,
+    "endTime": 183.866,
+    "fullTextZH": "撞到，可能会流血，",
+    "words": [
+      {
+        "word": "撞",
+        "pinyin": "zhuàng",
+        "startTime": 181.36,
+        "endTime": 181.781,
+        "gloss": "hit"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 181.781,
+        "endTime": 182.443,
+        "gloss": "to"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 182.543,
+        "endTime": 182.844,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 182.844,
+        "endTime": 183.124,
+        "gloss": "will"
+      },
+      {
+        "word": "流血",
+        "pinyin": "liú xiě",
+        "startTime": 183.124,
+        "endTime": 183.826,
+        "gloss": "bleed"
+      }
+    ],
+    "fullTextEN": "Hit, might bleed,"
+  },
+  {
+    "startTime": 183.866,
+    "endTime": 188.633,
+    "fullTextZH": "啊，我觉得看起来很危险！",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 184.307,
+        "endTime": 184.447,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.388,
+        "endTime": 185.569,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 185.569,
+        "endTime": 186.45,
+        "gloss": "think"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 186.45,
+        "endTime": 187.431,
+        "gloss": "looks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 187.431,
+        "endTime": 187.732,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 187.732,
+        "endTime": 188.593,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "Ah, I think it looks very dangerous!"
+  },
+  {
+    "startTime": 189.2,
+    "endTime": 190.9,
+    "fullTextZH": "对，每年，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 189.281,
+        "endTime": 189.827,
+        "gloss": "right"
+      },
+      {
+        "word": "每年",
+        "pinyin": "měi nián",
+        "startTime": 189.949,
+        "endTime": 190.86,
+        "gloss": "every year"
+      }
+    ],
+    "fullTextEN": "Right, every year,"
+  },
+  {
+    "startTime": 190.9,
+    "endTime": 195.933,
+    "fullTextZH": "这个比赛都有很多很多人去医院！",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 190.96,
+        "endTime": 191.502,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 191.502,
+        "endTime": 192.645,
+        "gloss": "competition"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 192.645,
+        "endTime": 192.905,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 192.905,
+        "endTime": 193.186,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 193.186,
+        "endTime": 194.128,
+        "gloss": "many many"
+      },
+      {
+        "word": "人去",
+        "pinyin": "rén qù",
+        "startTime": 194.128,
+        "endTime": 194.991,
+        "gloss": "people go"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yī yuàn",
+        "startTime": 194.991,
+        "endTime": 195.893,
+        "gloss": "hospital"
+      }
+    ],
+    "fullTextEN": "This competition has many people going to the hospital!"
+  },
+  {
+    "startTime": 196.633,
+    "endTime": 200.966,
+    "fullTextZH": "所以，在2009年的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 196.793,
+        "endTime": 197.054,
+        "gloss": "so"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 197.656,
+        "endTime": 198.077,
+        "gloss": "in"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 199.421,
+        "endTime": 199.782,
+        "gloss": "year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.782,
+        "endTime": 200.144,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 200.144,
+        "endTime": 200.926,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, in 2009,"
+  },
+  {
+    "startTime": 201.2,
+    "endTime": 203.2,
+    "fullTextZH": "这个比赛停了，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 201.261,
+        "endTime": 201.624,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 201.624,
+        "endTime": 202.372,
+        "gloss": "competition"
+      },
+      {
+        "word": "停",
+        "pinyin": "tíng",
+        "startTime": 202.372,
+        "endTime": 202.695,
+        "gloss": "stopped"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 202.695,
+        "endTime": 203.16,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "This competition stopped,"
+  },
+  {
+    "startTime": 203.6,
+    "endTime": 205.633,
+    "fullTextZH": "停了一年，嗯，",
+    "words": [
+      {
+        "word": "停",
+        "pinyin": "tíng",
+        "startTime": 203.681,
+        "endTime": 203.982,
+        "gloss": "stopped"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 203.982,
+        "endTime": 204.244,
+        "gloss": "le"
+      },
+      {
+        "word": "一年",
+        "pinyin": "yī nián",
+        "startTime": 204.244,
+        "endTime": 204.767,
+        "gloss": "a year"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 205.049,
+        "endTime": 205.593,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Stopped for a year, um,"
+  },
+  {
+    "startTime": 205.633,
+    "endTime": 210.066,
+    "fullTextZH": "可能因为他们觉得太危险了！",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 205.753,
+        "endTime": 206.355,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 206.355,
+        "endTime": 206.816,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 206.816,
+        "endTime": 207.258,
+        "gloss": "they"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 207.258,
+        "endTime": 208.341,
+        "gloss": "think"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 208.341,
+        "endTime": 208.742,
+        "gloss": "too"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 208.742,
+        "endTime": 209.424,
+        "gloss": "dangerous"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 209.424,
+        "endTime": 210.026,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Maybe because they thought it was too dangerous!"
+  },
+  {
+    "startTime": 210.2,
+    "endTime": 211.866,
+    "fullTextZH": "可能，嗯，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 210.32,
+        "endTime": 210.862,
+        "gloss": "maybe"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 211.404,
+        "endTime": 211.826,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Maybe, um,"
+  },
+  {
+    "startTime": 211.866,
+    "endTime": 213.866,
+    "fullTextZH": "很多人的手、",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 211.967,
+        "endTime": 212.432,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 212.432,
+        "endTime": 212.674,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 212.674,
+        "endTime": 213.058,
+        "gloss": "of"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 213.058,
+        "endTime": 213.826,
+        "gloss": "hands"
+      }
+    ],
+    "fullTextEN": "Many people's hands,"
+  },
+  {
+    "startTime": 214.0,
+    "endTime": 217.633,
+    "fullTextZH": "腿断了，我不知道，好，",
+    "words": [
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 214.12,
+        "endTime": 214.803,
+        "gloss": "leg"
+      },
+      {
+        "word": "断",
+        "pinyin": "duàn",
+        "startTime": 214.803,
+        "endTime": 214.984,
+        "gloss": "broken"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 214.984,
+        "endTime": 215.084,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 215.465,
+        "endTime": 215.626,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 215.626,
+        "endTime": 215.766,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 215.766,
+        "endTime": 216.067,
+        "gloss": "know"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 217.191,
+        "endTime": 217.593,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Legs are broken, I don't know, okay,"
+  },
+  {
+    "startTime": 217.633,
+    "endTime": 219.233,
+    "fullTextZH": "可是现在，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 217.755,
+        "endTime": 218.504,
+        "gloss": "but"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 218.504,
+        "endTime": 219.192,
+        "gloss": "now"
+      }
+    ],
+    "fullTextEN": "But now,"
+  },
+  {
+    "startTime": 219.233,
+    "endTime": 221.8,
+    "fullTextZH": "他们还有这个比赛！",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 219.313,
+        "endTime": 219.734,
+        "gloss": "they"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 219.734,
+        "endTime": 220.456,
+        "gloss": "still have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 220.456,
+        "endTime": 221.018,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 221.018,
+        "endTime": 221.78,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "They still have this competition!"
+  },
+  {
+    "startTime": 222.033,
+    "endTime": 223.5,
+    "fullTextZH": "所有的人，",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 222.294,
+        "endTime": 222.937,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 222.937,
+        "endTime": 223.098,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 223.098,
+        "endTime": 223.46,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "All the people,"
+  },
+  {
+    "startTime": 223.5,
+    "endTime": 224.666,
+    "fullTextZH": "可以去，",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 223.58,
+        "endTime": 224.043,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 224.043,
+        "endTime": 224.626,
+        "gloss": "go"
+      }
+    ],
+    "fullTextEN": "Can go,"
+  },
+  {
+    "startTime": 224.666,
+    "endTime": 227.333,
+    "fullTextZH": "可是，如果你要去，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 224.766,
+        "endTime": 225.127,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 225.608,
+        "endTime": 226.25,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 226.25,
+        "endTime": 226.391,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 226.391,
+        "endTime": 226.711,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 226.711,
+        "endTime": 227.293,
+        "gloss": "go"
+      }
+    ],
+    "fullTextEN": "But, if you want to go,"
+  },
+  {
+    "startTime": 227.333,
+    "endTime": 230.933,
+    "fullTextZH": "如果你要参加这个比赛，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 227.434,
+        "endTime": 227.876,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 227.876,
+        "endTime": 228.057,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 228.057,
+        "endTime": 228.499,
+        "gloss": "want"
+      },
+      {
+        "word": "参加",
+        "pinyin": "cān jiā",
+        "startTime": 228.499,
+        "endTime": 229.606,
+        "gloss": "participate"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 229.606,
+        "endTime": 230.149,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 230.149,
+        "endTime": 230.893,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "If you want to participate in this competition,"
+  },
+  {
+    "startTime": 231.066,
+    "endTime": 235.0,
+    "fullTextZH": "你要知道这个比赛很危险！",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 231.126,
+        "endTime": 231.247,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 231.247,
+        "endTime": 231.508,
+        "gloss": "need"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 231.508,
+        "endTime": 232.15,
+        "gloss": "know"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 232.15,
+        "endTime": 232.491,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 232.491,
+        "endTime": 233.796,
+        "gloss": "competition"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 233.796,
+        "endTime": 234.237,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 234.237,
+        "endTime": 234.96,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "You need to know this competition is very dangerous!"
+  },
+  {
+    "startTime": 235.0,
+    "endTime": 237.9,
+    "fullTextZH": "嗯，你可能，啊！受伤，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 235.081,
+        "endTime": 235.443,
+        "gloss": "um"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 235.584,
+        "endTime": 235.685,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 235.685,
+        "endTime": 236.228,
+        "gloss": "might"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 236.49,
+        "endTime": 236.812,
+        "gloss": "ah"
+      },
+      {
+        "word": "受伤",
+        "pinyin": "shòu shāng",
+        "startTime": 236.953,
+        "endTime": 237.86,
+        "gloss": "injured"
+      }
+    ],
+    "fullTextEN": "Um, you might, ah! Get injured,"
+  },
+  {
+    "startTime": 237.9,
+    "endTime": 240.5,
+    "fullTextZH": "你可能流血，呃……",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 237.981,
+        "endTime": 238.182,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 238.182,
+        "endTime": 238.747,
+        "gloss": "might"
+      },
+      {
+        "word": "流血",
+        "pinyin": "liú xiě",
+        "startTime": 238.747,
+        "endTime": 239.916,
+        "gloss": "bleed"
+      },
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 240.278,
+        "endTime": 240.298,
+        "gloss": "uh"
+      }
+    ],
+    "fullTextEN": "You might bleed, uh..."
+  },
+  {
+    "startTime": 241.366,
+    "endTime": 245.6,
+    "fullTextZH": "所以你要参加这个比赛吗？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 241.527,
+        "endTime": 242.289,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 242.289,
+        "endTime": 242.63,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 242.63,
+        "endTime": 243.032,
+        "gloss": "want"
+      },
+      {
+        "word": "参加",
+        "pinyin": "cān jiā",
+        "startTime": 243.032,
+        "endTime": 243.794,
+        "gloss": "participate"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 243.794,
+        "endTime": 244.456,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 244.456,
+        "endTime": 245.018,
+        "gloss": "competition"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 245.018,
+        "endTime": 245.56,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "So do you want to participate in this competition?"
+  },
+  {
+    "startTime": 246.0,
+    "endTime": 250.8,
+    "fullTextZH": "你觉得这个比赛听起来怎么样？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 246.08,
+        "endTime": 246.362,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 246.362,
+        "endTime": 247.265,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 247.265,
+        "endTime": 247.607,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 247.607,
+        "endTime": 248.29,
+        "gloss": "competition"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 248.29,
+        "endTime": 248.912,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 248.912,
+        "endTime": 249.876,
+        "gloss": "like"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 249.876,
+        "endTime": 250.76,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "What do you think this competition sounds like?"
+  },
+  {
+    "startTime": 251.0,
+    "endTime": 253.3,
+    "fullTextZH": "看起来怎么样？",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 251.081,
+        "endTime": 252.412,
+        "gloss": "look like"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 252.412,
+        "endTime": 253.26,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "What does it look like?"
+  },
+  {
+    "startTime": 254.133,
+    "endTime": 254.966,
+    "fullTextZH": "我，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 254.296,
+        "endTime": 254.946,
+        "gloss": "I"
+      }
+    ],
+    "fullTextEN": "I,"
+  },
+  {
+    "startTime": 255.7,
+    "endTime": 258.5,
+    "fullTextZH": "我不要参加这个比赛！",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 255.76,
+        "endTime": 255.962,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 255.962,
+        "endTime": 256.486,
+        "gloss": "don't want"
+      },
+      {
+        "word": "参加",
+        "pinyin": "cān jiā",
+        "startTime": 256.486,
+        "endTime": 257.231,
+        "gloss": "participate"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 257.231,
+        "endTime": 257.674,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 257.674,
+        "endTime": 258.46,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "I don't want to participate in this competition!"
+  },
+  {
+    "startTime": 258.533,
+    "endTime": 262.2,
+    "fullTextZH": "我觉得听起来很危险，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 258.653,
+        "endTime": 258.814,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 258.814,
+        "endTime": 259.916,
+        "gloss": "think"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 259.916,
+        "endTime": 260.276,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 260.276,
+        "endTime": 261.018,
+        "gloss": "like"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 261.018,
+        "endTime": 261.358,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 261.358,
+        "endTime": 262.16,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "I think it sounds very dangerous,"
+  },
+  {
+    "startTime": 262.2,
+    "endTime": 265.633,
+    "fullTextZH": "看起来非常、非常危险！",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 262.3,
+        "endTime": 263.525,
+        "gloss": "look like"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 263.525,
+        "endTime": 264.087,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 264.228,
+        "endTime": 264.75,
+        "gloss": "very"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 264.75,
+        "endTime": 265.593,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "It looks very, very dangerous!"
+  },
+  {
+    "startTime": 266.1,
+    "endTime": 269.133,
+    "fullTextZH": "我很喜欢吃奶酪，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 266.281,
+        "endTime": 266.743,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 266.743,
+        "endTime": 267.225,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 267.225,
+        "endTime": 267.928,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 267.928,
+        "endTime": 268.33,
+        "gloss": "eat"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 268.33,
+        "endTime": 269.093,
+        "gloss": "cheese"
+      }
+    ],
+    "fullTextEN": "I really like eating cheese,"
+  },
+  {
+    "startTime": 269.133,
+    "endTime": 273.1,
+    "fullTextZH": "可是我更喜欢我的头、",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 269.213,
+        "endTime": 269.995,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 269.995,
+        "endTime": 270.355,
+        "gloss": "I"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 270.355,
+        "endTime": 271.096,
+        "gloss": "more"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 271.096,
+        "endTime": 272.018,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 272.018,
+        "endTime": 272.138,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.138,
+        "endTime": 272.359,
+        "gloss": "of"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 272.359,
+        "endTime": 273.06,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "But I like my head more,"
+  },
+  {
+    "startTime": 273.1,
+    "endTime": 275.9,
+    "fullTextZH": "我的手、我的腿，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 273.181,
+        "endTime": 273.322,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 273.322,
+        "endTime": 273.865,
+        "gloss": "of"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 273.865,
+        "endTime": 274.691,
+        "gloss": "hands"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 274.812,
+        "endTime": 274.973,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 274.973,
+        "endTime": 275.175,
+        "gloss": "of"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 275.175,
+        "endTime": 275.86,
+        "gloss": "legs"
+      }
+    ],
+    "fullTextEN": "My hands, my legs,"
+  },
+  {
+    "startTime": 275.9,
+    "endTime": 279.633,
+    "fullTextZH": "我更喜欢我的身体，嗯！",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 275.96,
+        "endTime": 276.281,
+        "gloss": "I"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 276.281,
+        "endTime": 276.843,
+        "gloss": "more"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 276.843,
+        "endTime": 277.385,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 277.385,
+        "endTime": 277.586,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 277.586,
+        "endTime": 277.927,
+        "gloss": "of"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 277.927,
+        "endTime": 278.509,
+        "gloss": "body"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 279.071,
+        "endTime": 279.593,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "I like my body more, hmm!"
+  },
+  {
+    "startTime": 280.033,
+    "endTime": 283.366,
+    "fullTextZH": "英国没有很多很多人，",
+    "words": [
+      {
+        "word": "英国",
+        "pinyin": "yīng guó",
+        "startTime": 280.093,
+        "endTime": 281.157,
+        "gloss": "UK"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 281.157,
+        "endTime": 281.8,
+        "gloss": "not have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 281.8,
+        "endTime": 282.924,
+        "gloss": "many many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 282.924,
+        "endTime": 283.326,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "There aren't many people in the UK,"
+  },
+  {
+    "startTime": 283.366,
+    "endTime": 285.4,
+    "fullTextZH": "对不对？哼，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 283.426,
+        "endTime": 283.547,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 283.547,
+        "endTime": 283.648,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 283.648,
+        "endTime": 284.393,
+        "gloss": "right"
+      },
+      {
+        "word": "哼",
+        "pinyin": "hēng",
+        "startTime": 284.635,
+        "endTime": 285.36,
+        "gloss": "hmph"
+      }
+    ],
+    "fullTextEN": "Right? Hmph,"
+  },
+  {
+    "startTime": 286.633,
+    "endTime": 289.8,
+    "fullTextZH": "是因为这个比赛吗？",
+    "words": [
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 286.954,
+        "endTime": 287.856,
+        "gloss": "is because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 287.856,
+        "endTime": 288.357,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 288.357,
+        "endTime": 289.179,
+        "gloss": "competition"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 289.179,
+        "endTime": 289.76,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it because of this competition?"
+  },
+  {
+    "startTime": 290.666,
+    "endTime": 296.033,
+    "fullTextZH": "好的，那这就是今天的视频！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 291.067,
+        "endTime": 291.247,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 291.247,
+        "endTime": 291.287,
+        "gloss": "of"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 292.168,
+        "endTime": 292.709,
+        "gloss": "then"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 292.709,
+        "endTime": 293.089,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 293.089,
+        "endTime": 294.03,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 294.03,
+        "endTime": 294.691,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 294.691,
+        "endTime": 295.072,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 295.072,
+        "endTime": 295.993,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "Okay, so that's today's video!"
+  },
+  {
+    "startTime": 296.033,
+    "endTime": 301.266,
+    "fullTextZH": "嗯，今天我们说了追奶酪这个比赛。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 296.053,
+        "endTime": 296.073,
+        "gloss": "hmm"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 296.534,
+        "endTime": 297.076,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 297.076,
+        "endTime": 297.457,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 297.457,
+        "endTime": 297.757,
+        "gloss": "talked"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 297.757,
+        "endTime": 298.319,
+        "gloss": "particle"
+      },
+      {
+        "word": "追",
+        "pinyin": "zhuī",
+        "startTime": 298.319,
+        "endTime": 299.121,
+        "gloss": "chase"
+      },
+      {
+        "word": "奶酪",
+        "pinyin": "nǎi lào",
+        "startTime": 299.121,
+        "endTime": 299.863,
+        "gloss": "cheese"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 299.863,
+        "endTime": 300.424,
+        "gloss": "this"
+      },
+      {
+        "word": "比赛",
+        "pinyin": "bǐ sài",
+        "startTime": 300.424,
+        "endTime": 301.226,
+        "gloss": "competition"
+      }
+    ],
+    "fullTextEN": "Hmm, today we talked about the cheese chasing competition."
+  },
+  {
+    "startTime": 301.866,
+    "endTime": 306.566,
+    "fullTextZH": "好，那下一个视频我们会说什么？",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 302.067,
+        "endTime": 302.348,
+        "gloss": "good"
+      },
+      {
+        "word": "那下",
+        "pinyin": "nà xià",
+        "startTime": 302.549,
+        "endTime": 303.232,
+        "gloss": "then next"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 303.232,
+        "endTime": 303.593,
+        "gloss": "one"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 303.593,
+        "endTime": 304.457,
+        "gloss": "video"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 304.457,
+        "endTime": 304.899,
+        "gloss": "we"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 304.899,
+        "endTime": 305.301,
+        "gloss": "will"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 305.301,
+        "endTime": 305.823,
+        "gloss": "talk"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 305.823,
+        "endTime": 306.526,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Okay, so what will we talk about in the next video?"
+  },
+  {
+    "startTime": 306.6,
+    "endTime": 308.8,
+    "fullTextZH": "嗯，我也不知道，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 306.661,
+        "endTime": 306.782,
+        "gloss": "hmm"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 307.266,
+        "endTime": 307.428,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 307.428,
+        "endTime": 307.972,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 307.972,
+        "endTime": 308.134,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 308.134,
+        "endTime": 308.76,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "Hmm, I don't know either,"
+  },
+  {
+    "startTime": 308.8,
+    "endTime": 312.033,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 308.92,
+        "endTime": 309.443,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 309.443,
+        "endTime": 310.286,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 310.286,
+        "endTime": 310.748,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 311.109,
+        "endTime": 311.993,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

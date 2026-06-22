@@ -1,0 +1,4046 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 6.6,
+    "fullTextZH": "你好！今天我要说一种食物（food）。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.353,
+        "endTime": 0.473,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 1.815,
+        "endTime": 2.776,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.776,
+        "endTime": 3.336,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 3.336,
+        "endTime": 4.738,
+        "gloss": "want to say"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 4.738,
+        "endTime": 5.619,
+        "gloss": "a type of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 5.619,
+        "endTime": 6.18,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Hello! Today I want to talk about a type of food."
+  },
+  {
+    "startTime": 7.133,
+    "endTime": 9.466,
+    "fullTextZH": "对，一种食物",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 7.234,
+        "endTime": 8.118,
+        "gloss": "yes"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 8.219,
+        "endTime": 8.802,
+        "gloss": "a type of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 8.802,
+        "endTime": 9.124,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Yes, a type of food."
+  },
+  {
+    "startTime": 10.4,
+    "endTime": 11.6,
+    "fullTextZH": "吃的东西，",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 10.441,
+        "endTime": 10.664,
+        "gloss": "eat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 10.664,
+        "endTime": 10.807,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 10.807,
+        "endTime": 11.559,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Something to eat,"
+  },
+  {
+    "startTime": 12.1,
+    "endTime": 17.5,
+    "fullTextZH": "然后我会告诉你它的颜色，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 12.22,
+        "endTime": 13.124,
+        "gloss": "then"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 13.124,
+        "endTime": 14.007,
+        "gloss": "I will"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 14.007,
+        "endTime": 14.629,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 14.629,
+        "endTime": 15.653,
+        "gloss": "you"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 15.653,
+        "endTime": 15.994,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 15.994,
+        "endTime": 16.456,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 16.456,
+        "endTime": 17.46,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "Then I will tell you its color,"
+  },
+  {
+    "startTime": 17.666,
+    "endTime": 19.9,
+    "fullTextZH": "它的口感（texture）",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 17.706,
+        "endTime": 18.069,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 18.069,
+        "endTime": 18.592,
+        "gloss": "of"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 18.592,
+        "endTime": 19.377,
+        "gloss": "texture"
+      }
+    ],
+    "fullTextEN": "Its texture"
+  },
+  {
+    "startTime": 20.2,
+    "endTime": 22.066,
+    "fullTextZH": "它的味道（flavour） ，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 20.26,
+        "endTime": 20.581,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.581,
+        "endTime": 21.163,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 21.163,
+        "endTime": 21.705,
+        "gloss": "flavor"
+      }
+    ],
+    "fullTextEN": "Its flavor,"
+  },
+  {
+    "startTime": 23.1,
+    "endTime": 29.766,
+    "fullTextZH": "然后你可以猜猜我说的是什么东西。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 23.12,
+        "endTime": 23.981,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 23.981,
+        "endTime": 24.301,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 24.301,
+        "endTime": 24.962,
+        "gloss": "can"
+      },
+      {
+        "word": "猜猜",
+        "pinyin": "cāi cāi",
+        "startTime": 24.962,
+        "endTime": 26.243,
+        "gloss": "guess"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 26.243,
+        "endTime": 26.783,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 26.783,
+        "endTime": 27.164,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 27.164,
+        "endTime": 27.824,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 27.824,
+        "endTime": 28.485,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 28.485,
+        "endTime": 29.025,
+        "gloss": "what"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 29.025,
+        "endTime": 29.726,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Then you can guess what I'm talking about."
+  },
+  {
+    "startTime": 31.566,
+    "endTime": 33.666,
+    "fullTextZH": "好，第一点",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 31.566,
+        "endTime": 32.273,
+        "gloss": "okay"
+      },
+      {
+        "word": "第一点",
+        "pinyin": "dì yì diǎn",
+        "startTime": 32.434,
+        "endTime": 32.858,
+        "gloss": "first point"
+      }
+    ],
+    "fullTextEN": "Okay, the first point"
+  },
+  {
+    "startTime": 34.533,
+    "endTime": 36.566,
+    "fullTextZH": "这种食物，",
+    "words": [
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 34.734,
+        "endTime": 35.539,
+        "gloss": "this type of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 35.539,
+        "endTime": 36.526,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "This type of food,"
+  },
+  {
+    "startTime": 37.333,
+    "endTime": 39.866,
+    "fullTextZH": "不是水果，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 37.474,
+        "endTime": 38.76,
+        "gloss": "is not"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 38.76,
+        "endTime": 39.826,
+        "gloss": "fruit"
+      }
+    ],
+    "fullTextEN": "is not a fruit,"
+  },
+  {
+    "startTime": 40.333,
+    "endTime": 42.766,
+    "fullTextZH": "对，不是水果。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 40.434,
+        "endTime": 40.997,
+        "gloss": "yes"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 41.117,
+        "endTime": 41.821,
+        "gloss": "not"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 41.821,
+        "endTime": 42.726,
+        "gloss": "fruit"
+      }
+    ],
+    "fullTextEN": "Yes, not a fruit."
+  },
+  {
+    "startTime": 43.533,
+    "endTime": 45.6,
+    "fullTextZH": "不是饮料，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 43.573,
+        "endTime": 44.536,
+        "gloss": "is not"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 44.536,
+        "endTime": 45.56,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "is not a drink,"
+  },
+  {
+    "startTime": 45.866,
+    "endTime": 48.5,
+    "fullTextZH": "嗯～不是喝的东西，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 45.946,
+        "endTime": 46.71,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 46.731,
+        "endTime": 47.334,
+        "gloss": "not"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 47.334,
+        "endTime": 47.615,
+        "gloss": "drink"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 47.615,
+        "endTime": 47.776,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 47.776,
+        "endTime": 48.46,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Hmm, not something to drink,"
+  },
+  {
+    "startTime": 48.5,
+    "endTime": 49.533,
+    "fullTextZH": "不是不是。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 48.561,
+        "endTime": 48.905,
+        "gloss": "not"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 48.905,
+        "endTime": 49.492,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "No, not."
+  },
+  {
+    "startTime": 50.0,
+    "endTime": 53.333,
+    "fullTextZH": "好，不是甜品，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 50.08,
+        "endTime": 50.783,
+        "gloss": "okay"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 50.803,
+        "endTime": 51.767,
+        "gloss": "not"
+      },
+      {
+        "word": "甜品",
+        "pinyin": "tián pǐn",
+        "startTime": 51.767,
+        "endTime": 53.293,
+        "gloss": "dessert"
+      }
+    ],
+    "fullTextEN": "Okay, not a dessert,"
+  },
+  {
+    "startTime": 53.633,
+    "endTime": 55.833,
+    "fullTextZH": "甜品就是蛋糕，",
+    "words": [
+      {
+        "word": "甜品",
+        "pinyin": "tián pǐn",
+        "startTime": 53.734,
+        "endTime": 54.42,
+        "gloss": "dessert"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 54.42,
+        "endTime": 55.046,
+        "gloss": "means"
+      },
+      {
+        "word": "蛋糕",
+        "pinyin": "dàn gāo",
+        "startTime": 55.046,
+        "endTime": 55.793,
+        "gloss": "cake"
+      }
+    ],
+    "fullTextEN": "Dessert means cake,"
+  },
+  {
+    "startTime": 55.966,
+    "endTime": 58.066,
+    "fullTextZH": "不是，不是甜品。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 56.047,
+        "endTime": 56.309,
+        "gloss": "not"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 56.754,
+        "endTime": 57.198,
+        "gloss": "not"
+      },
+      {
+        "word": "甜品",
+        "pinyin": "tián pǐn",
+        "startTime": 57.198,
+        "endTime": 58.026,
+        "gloss": "dessert"
+      }
+    ],
+    "fullTextEN": "No, not a dessert."
+  },
+  {
+    "startTime": 58.466,
+    "endTime": 61.633,
+    "fullTextZH": "好，不是零食，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 58.486,
+        "endTime": 59.127,
+        "gloss": "okay"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 59.148,
+        "endTime": 60.591,
+        "gloss": "not"
+      },
+      {
+        "word": "零食",
+        "pinyin": "líng shí",
+        "startTime": 60.591,
+        "endTime": 61.593,
+        "gloss": "snack"
+      }
+    ],
+    "fullTextEN": "Okay, not a snack,"
+  },
+  {
+    "startTime": 61.633,
+    "endTime": 63.2,
+    "fullTextZH": "嗯～不是零食。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 61.693,
+        "endTime": 61.894,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 62.055,
+        "endTime": 62.376,
+        "gloss": "not"
+      },
+      {
+        "word": "零食",
+        "pinyin": "líng shí",
+        "startTime": 62.376,
+        "endTime": 63.16,
+        "gloss": "snack"
+      }
+    ],
+    "fullTextEN": "Hmm, not a snack."
+  },
+  {
+    "startTime": 63.2,
+    "endTime": 64.566,
+    "fullTextZH": "不是薯片、",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 63.28,
+        "endTime": 63.642,
+        "gloss": "not"
+      },
+      {
+        "word": "薯片",
+        "pinyin": "shǔ piàn",
+        "startTime": 63.642,
+        "endTime": 64.526,
+        "gloss": "chips"
+      }
+    ],
+    "fullTextEN": "Not chips,"
+  },
+  {
+    "startTime": 64.633,
+    "endTime": 66.7,
+    "fullTextZH": "不是糖果、",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 64.693,
+        "endTime": 65.616,
+        "gloss": "not"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 65.616,
+        "endTime": 66.66,
+        "gloss": "candy"
+      }
+    ],
+    "fullTextEN": "Not candy,"
+  },
+  {
+    "startTime": 66.7,
+    "endTime": 68.166,
+    "fullTextZH": "不是饼干，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 66.8,
+        "endTime": 67.403,
+        "gloss": "not"
+      },
+      {
+        "word": "饼干",
+        "pinyin": "bǐng gān",
+        "startTime": 67.403,
+        "endTime": 68.126,
+        "gloss": "cookies"
+      }
+    ],
+    "fullTextEN": "Not cookies,"
+  },
+  {
+    "startTime": 68.166,
+    "endTime": 69.266,
+    "fullTextZH": "都不是。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 68.288,
+        "endTime": 68.512,
+        "gloss": "all"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 68.512,
+        "endTime": 69.225,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "None of them."
+  },
+  {
+    "startTime": 70.2,
+    "endTime": 75.033,
+    "fullTextZH": "我说的这种食物是肉 ，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 70.22,
+        "endTime": 70.701,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 70.701,
+        "endTime": 71.062,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 71.062,
+        "endTime": 71.864,
+        "gloss": "of"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 71.864,
+        "endTime": 72.506,
+        "gloss": "this kind"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 72.506,
+        "endTime": 73.689,
+        "gloss": "food"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 73.689,
+        "endTime": 74.391,
+        "gloss": "is"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 74.391,
+        "endTime": 74.993,
+        "gloss": "meat"
+      }
+    ],
+    "fullTextEN": "The food I'm talking about is meat,"
+  },
+  {
+    "startTime": 76.033,
+    "endTime": 79.666,
+    "fullTextZH": "可是不是鸡肉，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 76.194,
+        "endTime": 77.679,
+        "gloss": "but"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 77.679,
+        "endTime": 78.703,
+        "gloss": "not"
+      },
+      {
+        "word": "鸡肉",
+        "pinyin": "jī ròu",
+        "startTime": 78.703,
+        "endTime": 79.626,
+        "gloss": "chicken"
+      }
+    ],
+    "fullTextEN": "But it's not chicken,"
+  },
+  {
+    "startTime": 79.7,
+    "endTime": 82.866,
+    "fullTextZH": "嗯～不是猪肉，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 79.78,
+        "endTime": 80.882,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 80.902,
+        "endTime": 81.804,
+        "gloss": "not"
+      },
+      {
+        "word": "猪肉",
+        "pinyin": "zhū ròu",
+        "startTime": 81.804,
+        "endTime": 82.826,
+        "gloss": "pork"
+      }
+    ],
+    "fullTextEN": "Hmm, not pork,"
+  },
+  {
+    "startTime": 83.966,
+    "endTime": 86.8,
+    "fullTextZH": "不是不是牛肉，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 83.986,
+        "endTime": 84.991,
+        "gloss": "not"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 84.991,
+        "endTime": 85.715,
+        "gloss": "not"
+      },
+      {
+        "word": "牛肉",
+        "pinyin": "niú ròu",
+        "startTime": 85.715,
+        "endTime": 86.76,
+        "gloss": "beef"
+      }
+    ],
+    "fullTextEN": "Not, not beef,"
+  },
+  {
+    "startTime": 87.266,
+    "endTime": 91.033,
+    "fullTextZH": "不是，不是羊肉，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 87.366,
+        "endTime": 87.647,
+        "gloss": "not"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 88.368,
+        "endTime": 90.071,
+        "gloss": "not"
+      },
+      {
+        "word": "羊肉",
+        "pinyin": "yáng ròu",
+        "startTime": 90.071,
+        "endTime": 90.993,
+        "gloss": "lamb"
+      }
+    ],
+    "fullTextEN": "Not, not lamb,"
+  },
+  {
+    "startTime": 92.066,
+    "endTime": 93.766,
+    "fullTextZH": "不是鱼肉。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 92.086,
+        "endTime": 92.855,
+        "gloss": "not"
+      },
+      {
+        "word": "鱼肉",
+        "pinyin": "yú ròu",
+        "startTime": 92.855,
+        "endTime": 93.726,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Not fish."
+  },
+  {
+    "startTime": 93.866,
+    "endTime": 95.6,
+    "fullTextZH": "对，都不是，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 93.947,
+        "endTime": 94.189,
+        "gloss": "right"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 94.31,
+        "endTime": 94.814,
+        "gloss": "all"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 94.814,
+        "endTime": 95.56,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "Right, none of them,"
+  },
+  {
+    "startTime": 96.233,
+    "endTime": 100.1,
+    "fullTextZH": "好，不是鸡肉、不是牛肉、不是羊肉、",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 96.333,
+        "endTime": 96.554,
+        "gloss": "okay"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 96.574,
+        "endTime": 97.054,
+        "gloss": "not"
+      },
+      {
+        "word": "鸡肉",
+        "pinyin": "jī ròu",
+        "startTime": 97.054,
+        "endTime": 97.415,
+        "gloss": "chicken"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 97.776,
+        "endTime": 98.136,
+        "gloss": "not"
+      },
+      {
+        "word": "牛肉",
+        "pinyin": "niú ròu",
+        "startTime": 98.136,
+        "endTime": 98.898,
+        "gloss": "beef"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 98.918,
+        "endTime": 99.258,
+        "gloss": "not"
+      },
+      {
+        "word": "羊肉",
+        "pinyin": "yáng ròu",
+        "startTime": 99.258,
+        "endTime": 100.06,
+        "gloss": "lamb"
+      }
+    ],
+    "fullTextEN": "Okay, not chicken, not beef, not lamb,"
+  },
+  {
+    "startTime": 100.266,
+    "endTime": 101.6,
+    "fullTextZH": "不是鱼肉、",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 100.347,
+        "endTime": 100.872,
+        "gloss": "not"
+      },
+      {
+        "word": "鱼肉",
+        "pinyin": "yú ròu",
+        "startTime": 100.872,
+        "endTime": 101.56,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Not fish,"
+  },
+  {
+    "startTime": 101.6,
+    "endTime": 103.866,
+    "fullTextZH": "不是猪肉，都不是。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 101.66,
+        "endTime": 102.121,
+        "gloss": "not"
+      },
+      {
+        "word": "猪肉",
+        "pinyin": "zhū ròu",
+        "startTime": 102.121,
+        "endTime": 102.643,
+        "gloss": "pork"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 102.743,
+        "endTime": 103.164,
+        "gloss": "all"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 103.164,
+        "endTime": 103.826,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "Not pork, none of them."
+  },
+  {
+    "startTime": 104.866,
+    "endTime": 111.4,
+    "fullTextZH": "我觉得在中国我们喜欢吃这种肉，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 104.866,
+        "endTime": 105.107,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 105.107,
+        "endTime": 106.008,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 106.008,
+        "endTime": 106.369,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 106.369,
+        "endTime": 107.291,
+        "gloss": "China"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 107.291,
+        "endTime": 108.073,
+        "gloss": "we"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 108.073,
+        "endTime": 109.055,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 109.055,
+        "endTime": 110.238,
+        "gloss": "eat"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 110.238,
+        "endTime": 110.979,
+        "gloss": "this kind"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 110.979,
+        "endTime": 111.36,
+        "gloss": "meat"
+      }
+    ],
+    "fullTextEN": "I think in China we like to eat this kind of meat,"
+  },
+  {
+    "startTime": 111.4,
+    "endTime": 113.833,
+    "fullTextZH": "可是在很多国家，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 111.44,
+        "endTime": 112.104,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 112.104,
+        "endTime": 112.425,
+        "gloss": "in"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 112.425,
+        "endTime": 113.049,
+        "gloss": "many"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 113.049,
+        "endTime": 113.793,
+        "gloss": "countries"
+      }
+    ],
+    "fullTextEN": "But in many countries,"
+  },
+  {
+    "startTime": 114.066,
+    "endTime": 118.0,
+    "fullTextZH": "嗯～这种肉不是很常见（common），",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 114.126,
+        "endTime": 114.668,
+        "gloss": "hmm"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 114.769,
+        "endTime": 115.13,
+        "gloss": "this kind"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 115.13,
+        "endTime": 115.792,
+        "gloss": "meat"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 115.792,
+        "endTime": 116.414,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 116.414,
+        "endTime": 116.936,
+        "gloss": "very"
+      },
+      {
+        "word": "常见",
+        "pinyin": "cháng jiàn",
+        "startTime": 116.936,
+        "endTime": 117.719,
+        "gloss": "common"
+      }
+    ],
+    "fullTextEN": "Hmm, this kind of meat is not very common,"
+  },
+  {
+    "startTime": 119.2,
+    "endTime": 122.466,
+    "fullTextZH": "好，所以它是一种肉。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 119.2,
+        "endTime": 119.901,
+        "gloss": "okay"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 119.961,
+        "endTime": 120.302,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 120.302,
+        "endTime": 120.542,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 120.542,
+        "endTime": 120.943,
+        "gloss": "is"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 120.943,
+        "endTime": 121.945,
+        "gloss": "a kind"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 121.945,
+        "endTime": 122.426,
+        "gloss": "meat"
+      }
+    ],
+    "fullTextEN": "Okay, so it's a kind of meat."
+  },
+  {
+    "startTime": 123.2,
+    "endTime": 127.666,
+    "fullTextZH": "第二点我要说说它的味道，",
+    "words": [
+      {
+        "word": "第二点",
+        "pinyin": "dì èr diǎn",
+        "startTime": 123.22,
+        "endTime": 124.462,
+        "gloss": "secondly"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 124.462,
+        "endTime": 124.682,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 124.682,
+        "endTime": 125.463,
+        "gloss": "want to"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 125.463,
+        "endTime": 125.824,
+        "gloss": "talk"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 125.824,
+        "endTime": 126.164,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 126.164,
+        "endTime": 126.725,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 126.725,
+        "endTime": 127.646,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "Secondly, I want to talk about its taste,"
+  },
+  {
+    "startTime": 127.7,
+    "endTime": 134.066,
+    "fullTextZH": "嗯～我觉得这个食物没有什么味道，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 127.78,
+        "endTime": 128.02,
+        "gloss": "hmm"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 128.781,
+        "endTime": 129.101,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 129.101,
+        "endTime": 130.403,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 130.403,
+        "endTime": 130.883,
+        "gloss": "this"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 130.883,
+        "endTime": 131.924,
+        "gloss": "food"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 131.924,
+        "endTime": 132.645,
+        "gloss": "not have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 132.645,
+        "endTime": 133.205,
+        "gloss": "any"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 133.205,
+        "endTime": 134.026,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "Hmm, I think this food doesn't have much taste,"
+  },
+  {
+    "startTime": 134.1,
+    "endTime": 136.533,
+    "fullTextZH": "对，没有什么味道。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 134.241,
+        "endTime": 134.683,
+        "gloss": "right"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 134.703,
+        "endTime": 135.065,
+        "gloss": "not have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 135.065,
+        "endTime": 135.407,
+        "gloss": "any"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 135.407,
+        "endTime": 136.493,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "Right, it doesn't have much taste."
+  },
+  {
+    "startTime": 136.533,
+    "endTime": 138.633,
+    "fullTextZH": "第三点嗯～",
+    "words": [
+      {
+        "word": "第三点",
+        "pinyin": "dì sān diǎn",
+        "startTime": 136.715,
+        "endTime": 138.249,
+        "gloss": "third point"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 138.249,
+        "endTime": 138.593,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "The third point, um~"
+  },
+  {
+    "startTime": 138.633,
+    "endTime": 142.466,
+    "fullTextZH": "是口感，对，口感。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 138.713,
+        "endTime": 139.235,
+        "gloss": "is"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 139.235,
+        "endTime": 140.961,
+        "gloss": "texture"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 141.162,
+        "endTime": 141.543,
+        "gloss": "yes"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 141.563,
+        "endTime": 142.426,
+        "gloss": "texture"
+      }
+    ],
+    "fullTextEN": "It's the texture, yes, the texture."
+  },
+  {
+    "startTime": 143.2,
+    "endTime": 148.5,
+    "fullTextZH": "我觉得这种食物的口感是脆的（crunchy/crispy），",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 143.2,
+        "endTime": 143.441,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 143.441,
+        "endTime": 144.324,
+        "gloss": "think"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 144.324,
+        "endTime": 144.886,
+        "gloss": "this kind"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 144.886,
+        "endTime": 145.569,
+        "gloss": "food"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 145.569,
+        "endTime": 145.95,
+        "gloss": "of"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 145.95,
+        "endTime": 146.814,
+        "gloss": "texture"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 146.814,
+        "endTime": 147.155,
+        "gloss": "is"
+      },
+      {
+        "word": "脆",
+        "pinyin": "cuì",
+        "startTime": 147.155,
+        "endTime": 147.295,
+        "gloss": "crunchy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 147.295,
+        "endTime": 147.316,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "I think the texture of this food is crunchy."
+  },
+  {
+    "startTime": 148.9,
+    "endTime": 150.7,
+    "fullTextZH": "对，脆脆的，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 148.981,
+        "endTime": 149.406,
+        "gloss": "yes"
+      },
+      {
+        "word": "脆脆",
+        "pinyin": "cuì cuì",
+        "startTime": 149.588,
+        "endTime": 150.215,
+        "gloss": "crunchy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 150.215,
+        "endTime": 150.66,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Yes, crunchy,"
+  },
+  {
+    "startTime": 152.333,
+    "endTime": 154.299,
+    "fullTextZH": "脆脆的嗯。",
+    "words": [
+      {
+        "word": "脆脆",
+        "pinyin": "cuì cuì",
+        "startTime": 152.493,
+        "endTime": 153.075,
+        "gloss": "crunchy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 153.075,
+        "endTime": 153.677,
+        "gloss": "is"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 153.677,
+        "endTime": 154.259,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Crunchy, um."
+  },
+  {
+    "startTime": 154.533,
+    "endTime": 156.8,
+    "fullTextZH": "所以很多人喜欢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 154.553,
+        "endTime": 155.155,
+        "gloss": "so"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 155.155,
+        "endTime": 155.677,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 155.677,
+        "endTime": 156.058,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 156.058,
+        "endTime": 156.76,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "So many people like it,"
+  },
+  {
+    "startTime": 156.8,
+    "endTime": 161.566,
+    "fullTextZH": "因为大部分的人喜欢脆脆的口感。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 156.9,
+        "endTime": 157.341,
+        "gloss": "because"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 157.341,
+        "endTime": 158.342,
+        "gloss": "most"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.342,
+        "endTime": 158.482,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 158.482,
+        "endTime": 159.183,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 159.183,
+        "endTime": 160.064,
+        "gloss": "like"
+      },
+      {
+        "word": "脆脆",
+        "pinyin": "cuì cuì",
+        "startTime": 160.064,
+        "endTime": 160.645,
+        "gloss": "crunchy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.645,
+        "endTime": 160.805,
+        "gloss": "of"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 160.805,
+        "endTime": 161.526,
+        "gloss": "texture"
+      }
+    ],
+    "fullTextEN": "because most people like crunchy textures."
+  },
+  {
+    "startTime": 162.866,
+    "endTime": 167.233,
+    "fullTextZH": "现在你知道我说的是什么吗？",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 162.906,
+        "endTime": 163.687,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 163.687,
+        "endTime": 163.928,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 163.928,
+        "endTime": 164.629,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 164.629,
+        "endTime": 165.15,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 165.15,
+        "endTime": 165.51,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 165.51,
+        "endTime": 165.911,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 165.911,
+        "endTime": 166.312,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 166.312,
+        "endTime": 166.712,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 166.712,
+        "endTime": 167.193,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Now do you know what I'm talking about?"
+  },
+  {
+    "startTime": 168.5,
+    "endTime": 170.9,
+    "fullTextZH": "如果你还不知道，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 168.54,
+        "endTime": 169.004,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 169.004,
+        "endTime": 169.307,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 169.307,
+        "endTime": 170.013,
+        "gloss": "still"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 170.013,
+        "endTime": 170.194,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 170.194,
+        "endTime": 170.86,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "If you still don't know,"
+  },
+  {
+    "startTime": 171.0,
+    "endTime": 173.666,
+    "fullTextZH": "那我再告诉你",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 171.08,
+        "endTime": 171.361,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 171.361,
+        "endTime": 171.842,
+        "gloss": "I"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 171.842,
+        "endTime": 172.423,
+        "gloss": "again"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 172.423,
+        "endTime": 172.984,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 172.984,
+        "endTime": 173.005,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "then I'll tell you again"
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 179.8,
+    "fullTextZH": "第四点。这个食物的颜色，",
+    "words": [
+      {
+        "word": "第四点",
+        "pinyin": "dì sì diǎn",
+        "startTime": 174.14,
+        "endTime": 175.606,
+        "gloss": "fourth point"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 175.887,
+        "endTime": 177.231,
+        "gloss": "this"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 177.231,
+        "endTime": 177.913,
+        "gloss": "food"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 177.913,
+        "endTime": 178.596,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 178.596,
+        "endTime": 179.76,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "The fourth point. The color of this food,"
+  },
+  {
+    "startTime": 180.166,
+    "endTime": 184.466,
+    "fullTextZH": "嗯～它是金黄色的，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 180.266,
+        "endTime": 180.548,
+        "gloss": "um"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 180.99,
+        "endTime": 181.291,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 181.291,
+        "endTime": 182.276,
+        "gloss": "is"
+      },
+      {
+        "word": "金黄色",
+        "pinyin": "jīn huáng sè",
+        "startTime": 182.276,
+        "endTime": 183.903,
+        "gloss": "golden yellow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 183.903,
+        "endTime": 184.426,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Um~ it's golden yellow,"
+  },
+  {
+    "startTime": 185.3,
+    "endTime": 187.266,
+    "fullTextZH": "金黄色啊，",
+    "words": [
+      {
+        "word": "金黄色",
+        "pinyin": "jīn huáng sè",
+        "startTime": 185.32,
+        "endTime": 186.805,
+        "gloss": "golden yellow"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 186.805,
+        "endTime": 187.226,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Golden yellow, ah,"
+  },
+  {
+    "startTime": 187.266,
+    "endTime": 190.633,
+    "fullTextZH": "所以看起来非常非常好吃。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 187.366,
+        "endTime": 187.707,
+        "gloss": "so"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 187.707,
+        "endTime": 188.609,
+        "gloss": "looks"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 188.609,
+        "endTime": 189.17,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 189.17,
+        "endTime": 189.771,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 189.771,
+        "endTime": 190.593,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "so it looks very, very delicious."
+  },
+  {
+    "startTime": 191.1,
+    "endTime": 193.9,
+    "fullTextZH": "然后这种食物多大",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 191.12,
+        "endTime": 192.248,
+        "gloss": "and then"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 192.248,
+        "endTime": 192.712,
+        "gloss": "this kind"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 192.712,
+        "endTime": 193.336,
+        "gloss": "food"
+      },
+      {
+        "word": "多大",
+        "pinyin": "duō dà",
+        "startTime": 193.336,
+        "endTime": 193.638,
+        "gloss": "how big"
+      }
+    ],
+    "fullTextEN": "And how big is this food"
+  },
+  {
+    "startTime": 193.9,
+    "endTime": 194.9,
+    "fullTextZH": "呢？嗯～",
+    "words": [
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 193.9,
+        "endTime": 193.92,
+        "gloss": "question"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 194.329,
+        "endTime": 194.859,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "hmm? Um~"
+  },
+  {
+    "startTime": 194.9,
+    "endTime": 198.166,
+    "fullTextZH": "差不多这么大这么大。",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 195.06,
+        "endTime": 196.022,
+        "gloss": "about"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 196.022,
+        "endTime": 196.343,
+        "gloss": "this"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 196.343,
+        "endTime": 197.385,
+        "gloss": "big"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 197.385,
+        "endTime": 197.685,
+        "gloss": "this"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 197.685,
+        "endTime": 198.126,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "It's about this big, this big."
+  },
+  {
+    "startTime": 199.266,
+    "endTime": 202.233,
+    "fullTextZH": "现在你知道是什么吗？",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 199.286,
+        "endTime": 199.948,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 199.948,
+        "endTime": 200.208,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 200.208,
+        "endTime": 200.79,
+        "gloss": "know"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 200.79,
+        "endTime": 201.271,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 201.271,
+        "endTime": 201.672,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 201.672,
+        "endTime": 202.193,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Now do you know what it is?"
+  },
+  {
+    "startTime": 203.3,
+    "endTime": 205.433,
+    "fullTextZH": "如果你还不知道，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 203.441,
+        "endTime": 203.783,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 203.783,
+        "endTime": 204.004,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 204.004,
+        "endTime": 204.568,
+        "gloss": "still"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 204.568,
+        "endTime": 204.769,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 204.769,
+        "endTime": 205.393,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "If you still don't know,"
+  },
+  {
+    "startTime": 205.5,
+    "endTime": 207.333,
+    "fullTextZH": "那我告诉你",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 205.56,
+        "endTime": 206.004,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 206.004,
+        "endTime": 206.286,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 206.286,
+        "endTime": 206.85,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 206.85,
+        "endTime": 206.87,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "then I'll tell you"
+  },
+  {
+    "startTime": 207.566,
+    "endTime": 213.866,
+    "fullTextZH": "这个食物在中国北京很常见？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 207.686,
+        "endTime": 208.048,
+        "gloss": "this"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 208.048,
+        "endTime": 209.111,
+        "gloss": "food"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 209.111,
+        "endTime": 209.913,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 209.913,
+        "endTime": 210.756,
+        "gloss": "China"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 210.756,
+        "endTime": 211.779,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 211.779,
+        "endTime": 212.462,
+        "gloss": "very"
+      },
+      {
+        "word": "常见",
+        "pinyin": "cháng jiàn",
+        "startTime": 212.462,
+        "endTime": 213.826,
+        "gloss": "common"
+      }
+    ],
+    "fullTextEN": "This food is very common in Beijing, China."
+  },
+  {
+    "startTime": 214.5,
+    "endTime": 218.033,
+    "fullTextZH": "可能在别的地方不常见，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 214.5,
+        "endTime": 215.122,
+        "gloss": "might"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 215.122,
+        "endTime": 215.464,
+        "gloss": "in"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 215.464,
+        "endTime": 215.865,
+        "gloss": "other"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 215.865,
+        "endTime": 216.608,
+        "gloss": "places"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 216.608,
+        "endTime": 217.009,
+        "gloss": "not"
+      },
+      {
+        "word": "常见",
+        "pinyin": "cháng jiàn",
+        "startTime": 217.009,
+        "endTime": 218.013,
+        "gloss": "common"
+      }
+    ],
+    "fullTextEN": "It might not be common in other places,"
+  },
+  {
+    "startTime": 218.066,
+    "endTime": 222.1,
+    "fullTextZH": "可是在中国北京很常见。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 218.166,
+        "endTime": 218.989,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 218.989,
+        "endTime": 219.31,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 219.31,
+        "endTime": 220.013,
+        "gloss": "China"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 220.013,
+        "endTime": 220.836,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 220.836,
+        "endTime": 221.237,
+        "gloss": "very"
+      },
+      {
+        "word": "常见",
+        "pinyin": "cháng jiàn",
+        "startTime": 221.237,
+        "endTime": 222.06,
+        "gloss": "common"
+      }
+    ],
+    "fullTextEN": "but it is very common in Beijing, China."
+  },
+  {
+    "startTime": 224.566,
+    "endTime": 229.633,
+    "fullTextZH": "然后我说的这个食物是鸭肉，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 224.606,
+        "endTime": 225.728,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 225.728,
+        "endTime": 226.028,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 226.028,
+        "endTime": 226.308,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 226.308,
+        "endTime": 226.629,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 226.629,
+        "endTime": 226.989,
+        "gloss": "this"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 226.989,
+        "endTime": 227.63,
+        "gloss": "food"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.63,
+        "endTime": 228.391,
+        "gloss": "is"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 228.391,
+        "endTime": 229.593,
+        "gloss": "duck meat"
+      }
+    ],
+    "fullTextEN": "Then the food I'm talking about is duck meat,"
+  },
+  {
+    "startTime": 229.833,
+    "endTime": 231.3,
+    "fullTextZH": "对，鸭肉。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 229.913,
+        "endTime": 230.074,
+        "gloss": "yes"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 230.295,
+        "endTime": 231.26,
+        "gloss": "duck meat"
+      }
+    ],
+    "fullTextEN": "Yes, duck meat."
+  },
+  {
+    "startTime": 232.133,
+    "endTime": 236.566,
+    "fullTextZH": "现在你应该知道我说的是什么了，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 232.273,
+        "endTime": 232.996,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 232.996,
+        "endTime": 233.216,
+        "gloss": "you"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 233.216,
+        "endTime": 233.778,
+        "gloss": "should"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 233.778,
+        "endTime": 234.48,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 234.48,
+        "endTime": 234.821,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 234.821,
+        "endTime": 235.122,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.122,
+        "endTime": 235.463,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 235.463,
+        "endTime": 235.703,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 235.703,
+        "endTime": 236.125,
+        "gloss": "what"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 236.125,
+        "endTime": 236.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Now you should know what I'm talking about,"
+  },
+  {
+    "startTime": 237.166,
+    "endTime": 241.933,
+    "fullTextZH": "对，我说的就是北京烤鸭。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 237.286,
+        "endTime": 237.827,
+        "gloss": "yes"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 237.967,
+        "endTime": 238.348,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 238.348,
+        "endTime": 238.628,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 238.628,
+        "endTime": 238.909,
+        "gloss": "of"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 238.909,
+        "endTime": 240.03,
+        "gloss": "exactly"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 240.03,
+        "endTime": 241.893,
+        "gloss": "Peking duck"
+      }
+    ],
+    "fullTextEN": "Yes, I'm talking about Peking duck."
+  },
+  {
+    "startTime": 243.633,
+    "endTime": 247.066,
+    "fullTextZH": "你吃过北京烤鸭吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 243.653,
+        "endTime": 244.336,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 244.336,
+        "endTime": 244.657,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 244.657,
+        "endTime": 245.179,
+        "gloss": "ever"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 245.179,
+        "endTime": 246.544,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 246.544,
+        "endTime": 247.026,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Have you eaten Peking duck?"
+  },
+  {
+    "startTime": 247.566,
+    "endTime": 249.566,
+    "fullTextZH": "如果你吃过",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 247.707,
+        "endTime": 248.414,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 248.414,
+        "endTime": 248.819,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 248.819,
+        "endTime": 249.122,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 249.122,
+        "endTime": 249.142,
+        "gloss": "ever"
+      }
+    ],
+    "fullTextEN": "If you have eaten"
+  },
+  {
+    "startTime": 249.566,
+    "endTime": 253.766,
+    "fullTextZH": "你觉得北京烤鸭好吃不好吃？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 249.606,
+        "endTime": 249.827,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 249.827,
+        "endTime": 250.671,
+        "gloss": "think"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 250.671,
+        "endTime": 251.977,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 251.977,
+        "endTime": 252.761,
+        "gloss": "delicious"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 252.761,
+        "endTime": 252.902,
+        "gloss": "not"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 252.902,
+        "endTime": 253.726,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "do you think Peking duck is delicious or not?"
+  },
+  {
+    "startTime": 254.6,
+    "endTime": 257.2,
+    "fullTextZH": "如果你没有吃过，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 254.62,
+        "endTime": 255.346,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 255.346,
+        "endTime": 255.588,
+        "gloss": "you"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 255.588,
+        "endTime": 256.414,
+        "gloss": "not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 256.414,
+        "endTime": 256.696,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 256.696,
+        "endTime": 257.16,
+        "gloss": "ever"
+      }
+    ],
+    "fullTextEN": "If you haven't eaten it,"
+  },
+  {
+    "startTime": 257.433,
+    "endTime": 261.633,
+    "fullTextZH": "你要不要试试北京烤鸭？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 257.533,
+        "endTime": 258.337,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 258.337,
+        "endTime": 258.679,
+        "gloss": "want"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 258.679,
+        "endTime": 259.402,
+        "gloss": "not"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 259.402,
+        "endTime": 260.367,
+        "gloss": "try"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 260.367,
+        "endTime": 261.593,
+        "gloss": "Peking duck"
+      }
+    ],
+    "fullTextEN": "do you want to try Peking duck?"
+  },
+  {
+    "startTime": 262.8,
+    "endTime": 265.766,
+    "fullTextZH": "现在你看北京烤鸭，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 262.84,
+        "endTime": 263.562,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 263.562,
+        "endTime": 263.902,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 263.902,
+        "endTime": 264.483,
+        "gloss": "look"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 264.483,
+        "endTime": 265.726,
+        "gloss": "Peking duck"
+      }
+    ],
+    "fullTextEN": "Now you look at Peking duck,"
+  },
+  {
+    "startTime": 266.866,
+    "endTime": 270.033,
+    "fullTextZH": "你看它是金黄色的，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 266.886,
+        "endTime": 267.026,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 267.026,
+        "endTime": 267.427,
+        "gloss": "see"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 267.427,
+        "endTime": 267.688,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 267.688,
+        "endTime": 268.209,
+        "gloss": "is"
+      },
+      {
+        "word": "金黄色",
+        "pinyin": "jīn huáng sè",
+        "startTime": 268.209,
+        "endTime": 269.572,
+        "gloss": "golden yellow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 269.572,
+        "endTime": 269.993,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "you see it is golden yellow,"
+  },
+  {
+    "startTime": 270.433,
+    "endTime": 274.033,
+    "fullTextZH": "然后它看起来很脆。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 270.554,
+        "endTime": 270.976,
+        "gloss": "then"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 270.976,
+        "endTime": 271.579,
+        "gloss": "it"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 271.579,
+        "endTime": 273.007,
+        "gloss": "looks"
+      },
+      {
+        "word": "很脆",
+        "pinyin": "hěn cuì",
+        "startTime": 273.007,
+        "endTime": 273.993,
+        "gloss": "very crispy"
+      }
+    ],
+    "fullTextEN": "and it looks very crispy."
+  },
+  {
+    "startTime": 274.633,
+    "endTime": 277.066,
+    "fullTextZH": "我吃过北京烤鸭",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 274.653,
+        "endTime": 275.035,
+        "gloss": "I"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 275.035,
+        "endTime": 275.297,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 275.297,
+        "endTime": 275.679,
+        "gloss": "ever"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 275.679,
+        "endTime": 276.543,
+        "gloss": "Peking duck"
+      }
+    ],
+    "fullTextEN": "I have eaten Peking duck"
+  },
+  {
+    "startTime": 277.1,
+    "endTime": 281.666,
+    "fullTextZH": "所以我觉得北京烤鸭没有什么味道，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 277.18,
+        "endTime": 277.581,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 277.581,
+        "endTime": 277.921,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 277.921,
+        "endTime": 278.802,
+        "gloss": "think"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 278.802,
+        "endTime": 280.044,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 280.044,
+        "endTime": 280.605,
+        "gloss": "no"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 280.605,
+        "endTime": 280.985,
+        "gloss": "any"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 280.985,
+        "endTime": 281.626,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "so I think Peking duck has no taste,"
+  },
+  {
+    "startTime": 282.333,
+    "endTime": 288.6,
+    "fullTextZH": "可是你可以把北京烤鸭拿去蘸（*zhàn：to dip）糖，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 282.373,
+        "endTime": 283.134,
+        "gloss": "but"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 283.134,
+        "endTime": 283.374,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 283.374,
+        "endTime": 284.435,
+        "gloss": "can"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 284.435,
+        "endTime": 284.876,
+        "gloss": "take"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 284.876,
+        "endTime": 286.197,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 286.197,
+        "endTime": 286.558,
+        "gloss": "take"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 286.558,
+        "endTime": 286.838,
+        "gloss": "go"
+      },
+      {
+        "word": "蘸",
+        "pinyin": "zhàn",
+        "startTime": 286.838,
+        "endTime": 287.018,
+        "gloss": "dip"
+      },
+      {
+        "word": "糖",
+        "pinyin": "táng",
+        "startTime": 288.3,
+        "endTime": 288.56,
+        "gloss": "sugar"
+      }
+    ],
+    "fullTextEN": "but you can dip Peking duck in sugar,"
+  },
+  {
+    "startTime": 288.733,
+    "endTime": 290.533,
+    "fullTextZH": "那就很甜。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 288.794,
+        "endTime": 289.117,
+        "gloss": "then"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 289.117,
+        "endTime": 289.623,
+        "gloss": "just"
+      },
+      {
+        "word": "很甜",
+        "pinyin": "hěn tián",
+        "startTime": 289.623,
+        "endTime": 290.493,
+        "gloss": "very sweet"
+      }
+    ],
+    "fullTextEN": "then it becomes very sweet."
+  },
+  {
+    "startTime": 290.833,
+    "endTime": 295.8,
+    "fullTextZH": "你可以把北京烤鸭放在一个饼里，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 290.913,
+        "endTime": 291.093,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 291.093,
+        "endTime": 291.494,
+        "gloss": "can"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 291.494,
+        "endTime": 291.894,
+        "gloss": "take"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 291.894,
+        "endTime": 293.216,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 293.216,
+        "endTime": 293.937,
+        "gloss": "put"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 293.937,
+        "endTime": 294.839,
+        "gloss": "a"
+      },
+      {
+        "word": "饼",
+        "pinyin": "bǐng",
+        "startTime": 294.839,
+        "endTime": 295.299,
+        "gloss": "pancake"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 295.299,
+        "endTime": 295.76,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "You can put Peking duck in a pancake,"
+  },
+  {
+    "startTime": 295.833,
+    "endTime": 298.0,
+    "fullTextZH": "然后放一点点酱 (sauce) ，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 295.893,
+        "endTime": 296.375,
+        "gloss": "then"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 296.375,
+        "endTime": 296.555,
+        "gloss": "put"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 296.555,
+        "endTime": 297.398,
+        "gloss": "a little"
+      },
+      {
+        "word": "酱",
+        "pinyin": "jiàng",
+        "startTime": 297.398,
+        "endTime": 297.599,
+        "gloss": "sauce"
+      }
+    ],
+    "fullTextEN": "Then add a little bit of sauce,"
+  },
+  {
+    "startTime": 298.666,
+    "endTime": 302.6,
+    "fullTextZH": "对，可是我觉得北京烤鸭这个东西",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 298.686,
+        "endTime": 299.208,
+        "gloss": "yes"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 299.308,
+        "endTime": 299.629,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 299.629,
+        "endTime": 299.81,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 299.81,
+        "endTime": 300.252,
+        "gloss": "think"
+      },
+      {
+        "word": "北京烤鸭",
+        "pinyin": "běi jīng kǎo yā",
+        "startTime": 300.252,
+        "endTime": 301.576,
+        "gloss": "Peking duck"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 301.576,
+        "endTime": 301.837,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 301.837,
+        "endTime": 302.179,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Yes, but I think Peking duck is something"
+  },
+  {
+    "startTime": 302.666,
+    "endTime": 304.333,
+    "fullTextZH": "没有什么味道。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 302.726,
+        "endTime": 303.289,
+        "gloss": "not have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 303.289,
+        "endTime": 303.63,
+        "gloss": "any"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 303.63,
+        "endTime": 304.293,
+        "gloss": "flavor"
+      }
+    ],
+    "fullTextEN": "doesn't have much flavor."
+  },
+  {
+    "startTime": 305.1,
+    "endTime": 305.9,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 305.121,
+        "endTime": 305.859,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 305.966,
+    "endTime": 312.166,
+    "fullTextZH": "我不知道在你的国家你们吃鸭肉吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 306.066,
+        "endTime": 307.11,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 307.11,
+        "endTime": 307.571,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 307.571,
+        "endTime": 308.133,
+        "gloss": "know"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 308.133,
+        "endTime": 308.354,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 308.354,
+        "endTime": 308.574,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.574,
+        "endTime": 308.755,
+        "gloss": "country"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 308.755,
+        "endTime": 309.538,
+        "gloss": "you"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 309.538,
+        "endTime": 310.38,
+        "gloss": "eat"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 310.38,
+        "endTime": 310.982,
+        "gloss": "duck"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 310.982,
+        "endTime": 311.684,
+        "gloss": "meat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 311.684,
+        "endTime": 312.126,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "I don't know if you eat duck in your country?"
+  },
+  {
+    "startTime": 312.633,
+    "endTime": 317.666,
+    "fullTextZH": "可是在中国我们吃很多很多鸭肉。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 312.733,
+        "endTime": 313.435,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 313.435,
+        "endTime": 313.756,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 313.756,
+        "endTime": 314.458,
+        "gloss": "China"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 314.458,
+        "endTime": 315.119,
+        "gloss": "we"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 315.119,
+        "endTime": 315.641,
+        "gloss": "eat"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 315.641,
+        "endTime": 316.804,
+        "gloss": "a lot"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 316.804,
+        "endTime": 317.626,
+        "gloss": "duck"
+      }
+    ],
+    "fullTextEN": "But in China, we eat a lot of duck."
+  },
+  {
+    "startTime": 318.133,
+    "endTime": 320.766,
+    "fullTextZH": "现在我在澳大利亚",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 318.133,
+        "endTime": 318.816,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 318.816,
+        "endTime": 319.078,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 319.078,
+        "endTime": 319.439,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 319.439,
+        "endTime": 320.243,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "Now I am in Australia"
+  },
+  {
+    "startTime": 320.9,
+    "endTime": 324.7,
+    "fullTextZH": "所以我不常常吃鸭肉，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 320.98,
+        "endTime": 321.322,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 321.322,
+        "endTime": 321.905,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 321.905,
+        "endTime": 322.448,
+        "gloss": "not"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 322.448,
+        "endTime": 323.313,
+        "gloss": "often"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 323.313,
+        "endTime": 323.815,
+        "gloss": "eat"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 323.815,
+        "endTime": 324.66,
+        "gloss": "duck"
+      }
+    ],
+    "fullTextEN": "so I don't often eat duck,"
+  },
+  {
+    "startTime": 325.133,
+    "endTime": 329.933,
+    "fullTextZH": "所以现在我发现鸭肉有一点点臭。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 325.254,
+        "endTime": 325.655,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 325.655,
+        "endTime": 326.479,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 326.479,
+        "endTime": 326.8,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 326.8,
+        "endTime": 327.784,
+        "gloss": "find"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 327.784,
+        "endTime": 328.366,
+        "gloss": "duck"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 328.366,
+        "endTime": 328.527,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 328.527,
+        "endTime": 329.471,
+        "gloss": "a bit"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 329.471,
+        "endTime": 329.893,
+        "gloss": "smelly"
+      }
+    ],
+    "fullTextEN": "so now I find duck a bit smelly."
+  },
+  {
+    "startTime": 329.933,
+    "endTime": 331.933,
+    "fullTextZH": "嗯～鸭子的味道，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 330.014,
+        "endTime": 330.478,
+        "gloss": "hmm"
+      },
+      {
+        "word": "鸭子",
+        "pinyin": "yā zi",
+        "startTime": 330.559,
+        "endTime": 331.064,
+        "gloss": "duck"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 331.064,
+        "endTime": 331.186,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 331.186,
+        "endTime": 331.893,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "Hmm, the taste of duck,"
+  },
+  {
+    "startTime": 333.2,
+    "endTime": 338.266,
+    "fullTextZH": "我觉得我的衣服也有鸭子的味道。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 333.24,
+        "endTime": 333.38,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 333.38,
+        "endTime": 333.761,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 333.761,
+        "endTime": 333.901,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 333.901,
+        "endTime": 334.101,
+        "gloss": "clothes"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 334.101,
+        "endTime": 334.842,
+        "gloss": "also"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 334.842,
+        "endTime": 335.122,
+        "gloss": "have"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 335.122,
+        "endTime": 335.423,
+        "gloss": "duck"
+      },
+      {
+        "word": "鸭子",
+        "pinyin": "yā zi",
+        "startTime": 335.423,
+        "endTime": 335.943,
+        "gloss": "of"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 335.943,
+        "endTime": 336.063,
+        "gloss": "smell"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 336.063,
+        "endTime": 338.226,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I think my clothes also have the smell of duck."
+  },
+  {
+    "startTime": 338.733,
+    "endTime": 343.766,
+    "fullTextZH": "对，因为我很长时间没有吃鸭肉，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 338.753,
+        "endTime": 338.974,
+        "gloss": "yes"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 339.054,
+        "endTime": 339.435,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 339.435,
+        "endTime": 339.836,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 339.836,
+        "endTime": 340.397,
+        "gloss": "very"
+      },
+      {
+        "word": "长时间",
+        "pinyin": "zhǎng shí jiān",
+        "startTime": 340.397,
+        "endTime": 341.901,
+        "gloss": "long time"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 341.901,
+        "endTime": 342.483,
+        "gloss": "not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 342.483,
+        "endTime": 342.924,
+        "gloss": "eat"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 342.924,
+        "endTime": 343.726,
+        "gloss": "duck"
+      }
+    ],
+    "fullTextEN": "Yes, because I haven't eaten duck for a long time,"
+  },
+  {
+    "startTime": 343.8,
+    "endTime": 349.933,
+    "fullTextZH": "所以可能慢慢地我不是很喜欢吃鸭肉。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 343.92,
+        "endTime": 344.461,
+        "gloss": "so"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 344.461,
+        "endTime": 345.363,
+        "gloss": "maybe"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 345.363,
+        "endTime": 346.025,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 346.025,
+        "endTime": 346.506,
+        "gloss": "particle"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 346.506,
+        "endTime": 346.706,
+        "gloss": "I"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 346.706,
+        "endTime": 347.327,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 347.327,
+        "endTime": 347.788,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 347.788,
+        "endTime": 348.53,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 348.53,
+        "endTime": 349.091,
+        "gloss": "eat"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 349.091,
+        "endTime": 349.893,
+        "gloss": "duck"
+      }
+    ],
+    "fullTextEN": "so maybe slowly I don't really like eating duck."
+  },
+  {
+    "startTime": 350.666,
+    "endTime": 356.666,
+    "fullTextZH": "你觉得鸭肉最好吃的做法是什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 350.686,
+        "endTime": 350.927,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 350.927,
+        "endTime": 351.91,
+        "gloss": "think"
+      },
+      {
+        "word": "鸭肉",
+        "pinyin": "yā ròu",
+        "startTime": 351.91,
+        "endTime": 352.793,
+        "gloss": "duck"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 352.793,
+        "endTime": 353.255,
+        "gloss": "most"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 353.255,
+        "endTime": 353.977,
+        "gloss": "delicious"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.977,
+        "endTime": 354.639,
+        "gloss": "way"
+      },
+      {
+        "word": "做法",
+        "pinyin": "zuò fǎ",
+        "startTime": 354.639,
+        "endTime": 355.582,
+        "gloss": "is"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 355.582,
+        "endTime": 355.924,
+        "gloss": "what"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 355.924,
+        "endTime": 356.626,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "What do you think is the best way to cook duck?"
+  },
+  {
+    "startTime": 357.433,
+    "endTime": 359.266,
+    "fullTextZH": "留言告诉我。",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 357.534,
+        "endTime": 358.319,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 358.319,
+        "endTime": 358.762,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 358.762,
+        "endTime": 359.226,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment and tell me."
+  },
+  {
+    "startTime": 360.6,
+    "endTime": 364.733,
+    "fullTextZH": "好，那我们下次见拜拜！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 360.64,
+        "endTime": 360.66,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 361.041,
+        "endTime": 361.242,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 361.242,
+        "endTime": 362.446,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 362.446,
+        "endTime": 363.268,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 363.268,
+        "endTime": 363.529,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 363.529,
+        "endTime": 364.693,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time, bye!"
+  }
+]

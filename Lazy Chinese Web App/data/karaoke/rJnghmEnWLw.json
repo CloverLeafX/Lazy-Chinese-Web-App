@@ -1,0 +1,5125 @@
+[
+  {
+    "startTime": 1.466,
+    "endTime": 5.666,
+    "fullTextZH": "你好，今天我很激动！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 1.466,
+        "endTime": 2.531,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.873,
+        "endTime": 3.938,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.938,
+        "endTime": 4.641,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 4.641,
+        "endTime": 5.023,
+        "gloss": "very"
+      },
+      {
+        "word": "激动",
+        "pinyin": "jī dòng",
+        "startTime": 5.023,
+        "endTime": 5.626,
+        "gloss": "excited"
+      }
+    ],
+    "fullTextEN": "Hello, today I am very excited!"
+  },
+  {
+    "startTime": 5.666,
+    "endTime": 7.999,
+    "fullTextZH": "很激动，为什么？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 5.666,
+        "endTime": 5.887,
+        "gloss": "very"
+      },
+      {
+        "word": "激动",
+        "pinyin": "jī dòng",
+        "startTime": 5.887,
+        "endTime": 6.752,
+        "gloss": "excited"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 7.195,
+        "endTime": 7.959,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Very excited, why?"
+  },
+  {
+    "startTime": 8.2,
+    "endTime": 13.466,
+    "fullTextZH": "因为我发现了一本、一本书，对。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 8.32,
+        "endTime": 8.881,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 8.881,
+        "endTime": 9.622,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 9.622,
+        "endTime": 10.403,
+        "gloss": "found"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 10.403,
+        "endTime": 10.763,
+        "gloss": "le"
+      },
+      {
+        "word": "一本",
+        "pinyin": "yī běn",
+        "startTime": 10.763,
+        "endTime": 11.464,
+        "gloss": "a"
+      },
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 11.964,
+        "endTime": 12.124,
+        "gloss": "a"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 12.124,
+        "endTime": 12.705,
+        "gloss": "book"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 13.005,
+        "endTime": 13.426,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Because I found a book, a book, yes."
+  },
+  {
+    "startTime": 13.466,
+    "endTime": 16.499,
+    "fullTextZH": "一本很好很好的书。",
+    "words": [
+      {
+        "word": "一本",
+        "pinyin": "yī běn",
+        "startTime": 13.546,
+        "endTime": 14.41,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 14.41,
+        "endTime": 14.832,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 14.832,
+        "endTime": 15.153,
+        "gloss": "good"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 15.153,
+        "endTime": 15.434,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 15.434,
+        "endTime": 15.696,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 15.696,
+        "endTime": 15.937,
+        "gloss": "de"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 15.937,
+        "endTime": 16.459,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "A very, very good book."
+  },
+  {
+    "startTime": 16.566,
+    "endTime": 19.566,
+    "fullTextZH": "我觉得非常好看，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 16.687,
+        "endTime": 16.989,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 16.989,
+        "endTime": 18.036,
+        "gloss": "think"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 18.036,
+        "endTime": 18.68,
+        "gloss": "very"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 18.68,
+        "endTime": 19.526,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think it's very interesting,"
+  },
+  {
+    "startTime": 19.733,
+    "endTime": 21.333,
+    "fullTextZH": "非常有意思，",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 19.753,
+        "endTime": 20.422,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 20.422,
+        "endTime": 21.292,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "Very interesting,"
+  },
+  {
+    "startTime": 21.6,
+    "endTime": 26.266,
+    "fullTextZH": "非常适合你们学习中文。",
+    "words": [
+      {
+        "word": "非常适合",
+        "pinyin": "fēi cháng shì hé",
+        "startTime": 21.76,
+        "endTime": 23.603,
+        "gloss": "very suitable"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 23.603,
+        "endTime": 24.524,
+        "gloss": "you"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 24.524,
+        "endTime": 25.425,
+        "gloss": "learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 25.425,
+        "endTime": 26.226,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Very suitable for you to learn Chinese."
+  },
+  {
+    "startTime": 26.533,
+    "endTime": 28.966,
+    "fullTextZH": "然后我觉得不太难，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 26.634,
+        "endTime": 27.217,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 27.217,
+        "endTime": 27.418,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 27.418,
+        "endTime": 27.961,
+        "gloss": "think"
+      },
+      {
+        "word": "不太难",
+        "pinyin": "bù tài nán",
+        "startTime": 27.961,
+        "endTime": 28.926,
+        "gloss": "not too difficult"
+      }
+    ],
+    "fullTextEN": "And I think it's not too difficult,"
+  },
+  {
+    "startTime": 29.166,
+    "endTime": 33.999,
+    "fullTextZH": "我觉得很多的中文学生都可以看。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 29.286,
+        "endTime": 29.507,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 29.507,
+        "endTime": 30.068,
+        "gloss": "think"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 30.068,
+        "endTime": 30.61,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 30.61,
+        "endTime": 30.991,
+        "gloss": "de"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 30.991,
+        "endTime": 31.512,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 31.512,
+        "endTime": 32.495,
+        "gloss": "students"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 32.495,
+        "endTime": 32.896,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 32.896,
+        "endTime": 33.357,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 33.357,
+        "endTime": 33.959,
+        "gloss": "read"
+      }
+    ],
+    "fullTextEN": "I think many Chinese students can read it."
+  },
+  {
+    "startTime": 34.9,
+    "endTime": 36.733,
+    "fullTextZH": "我是在Reddit，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 34.92,
+        "endTime": 35.222,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 35.222,
+        "endTime": 35.524,
+        "gloss": "am"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 35.524,
+        "endTime": 35.947,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "I was on Reddit,"
+  },
+  {
+    "startTime": 36.8,
+    "endTime": 40.966,
+    "fullTextZH": "看到有一个人推荐了这本书。",
+    "words": [
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 36.86,
+        "endTime": 37.601,
+        "gloss": "saw"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 37.601,
+        "endTime": 37.862,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 37.862,
+        "endTime": 38.262,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 38.262,
+        "endTime": 38.883,
+        "gloss": "person"
+      },
+      {
+        "word": "推荐",
+        "pinyin": "tuī jiàn",
+        "startTime": 38.883,
+        "endTime": 39.544,
+        "gloss": "recommend"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 39.544,
+        "endTime": 39.904,
+        "gloss": "le"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 39.904,
+        "endTime": 40.105,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 40.105,
+        "endTime": 40.926,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "saw someone recommend this book."
+  },
+  {
+    "startTime": 41.466,
+    "endTime": 43.199,
+    "fullTextZH": "谢谢这个人！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 41.587,
+        "endTime": 42.232,
+        "gloss": "thank"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 42.232,
+        "endTime": 42.534,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 42.534,
+        "endTime": 43.159,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Thank you to this person!"
+  },
+  {
+    "startTime": 43.8,
+    "endTime": 47.6,
+    "fullTextZH": "这本书叫《秃秃大王》。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 43.961,
+        "endTime": 44.162,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 44.162,
+        "endTime": 44.946,
+        "gloss": "book"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 44.946,
+        "endTime": 45.549,
+        "gloss": "called"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 46.052,
+        "endTime": 46.494,
+        "gloss": "Bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 46.494,
+        "endTime": 47.56,
+        "gloss": "King"
+      }
+    ],
+    "fullTextEN": "This book is called 'Bald King'."
+  },
+  {
+    "startTime": 48.9,
+    "endTime": 52.7,
+    "fullTextZH": "那这本书说的是什么呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 48.9,
+        "endTime": 49.543,
+        "gloss": "so"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 49.543,
+        "endTime": 49.785,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 49.785,
+        "endTime": 50.77,
+        "gloss": "book"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 50.77,
+        "endTime": 51.112,
+        "gloss": "talk"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 51.112,
+        "endTime": 51.413,
+        "gloss": "de"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 51.413,
+        "endTime": 51.654,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 51.654,
+        "endTime": 52.077,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 52.077,
+        "endTime": 52.66,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "So what does this book talk about?"
+  },
+  {
+    "startTime": 53.133,
+    "endTime": 56.899,
+    "fullTextZH": "这本书说的是一个人，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 53.233,
+        "endTime": 53.433,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 53.433,
+        "endTime": 54.435,
+        "gloss": "book"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 54.435,
+        "endTime": 54.816,
+        "gloss": "talk"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 54.816,
+        "endTime": 55.296,
+        "gloss": "de"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 55.296,
+        "endTime": 55.637,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 55.637,
+        "endTime": 56.118,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 56.118,
+        "endTime": 56.859,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "This book talks about a person,"
+  },
+  {
+    "startTime": 57.066,
+    "endTime": 60.199,
+    "fullTextZH": "他叫秃秃大王。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 57.166,
+        "endTime": 57.468,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 57.468,
+        "endTime": 58.03,
+        "gloss": "called"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 58.03,
+        "endTime": 59.054,
+        "gloss": "Bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 59.054,
+        "endTime": 60.159,
+        "gloss": "King"
+      }
+    ],
+    "fullTextEN": "He is called Bald King."
+  },
+  {
+    "startTime": 61.066,
+    "endTime": 64.933,
+    "fullTextZH": "为什么他叫秃秃大王？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 61.086,
+        "endTime": 62.088,
+        "gloss": "why"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 62.088,
+        "endTime": 62.408,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 62.408,
+        "endTime": 63.01,
+        "gloss": "called"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 63.01,
+        "endTime": 63.791,
+        "gloss": "Bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 63.791,
+        "endTime": 64.472,
+        "gloss": "King"
+      }
+    ],
+    "fullTextEN": "Why is he called Bald King?"
+  },
+  {
+    "startTime": 65.3,
+    "endTime": 68.2,
+    "fullTextZH": "因为他秃了，对。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 65.421,
+        "endTime": 66.367,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 66.367,
+        "endTime": 66.81,
+        "gloss": "he"
+      },
+      {
+        "word": "秃",
+        "pinyin": "tū",
+        "startTime": 66.81,
+        "endTime": 67.112,
+        "gloss": "bald"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 67.112,
+        "endTime": 67.133,
+        "gloss": "le"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 67.898,
+        "endTime": 68.18,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Because he is bald, yes."
+  },
+  {
+    "startTime": 68.2,
+    "endTime": 70.4,
+    "fullTextZH": "他没有头发，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 68.22,
+        "endTime": 68.442,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 68.442,
+        "endTime": 69.33,
+        "gloss": "no"
+      },
+      {
+        "word": "头发",
+        "pinyin": "tóu fà",
+        "startTime": 69.33,
+        "endTime": 70.36,
+        "gloss": "hair"
+      }
+    ],
+    "fullTextEN": "He has no hair,"
+  },
+  {
+    "startTime": 70.533,
+    "endTime": 74.199,
+    "fullTextZH": "所以我们叫他秃秃大王。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 70.693,
+        "endTime": 71.254,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 71.254,
+        "endTime": 71.635,
+        "gloss": "we"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 71.635,
+        "endTime": 71.915,
+        "gloss": "call"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 71.915,
+        "endTime": 72.456,
+        "gloss": "him"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 72.456,
+        "endTime": 73.338,
+        "gloss": "Bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 73.338,
+        "endTime": 74.159,
+        "gloss": "King"
+      }
+    ],
+    "fullTextEN": "so we call him Bald King."
+  },
+  {
+    "startTime": 75.1,
+    "endTime": 78.6,
+    "fullTextZH": "这个秃秃大王不高，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 75.12,
+        "endTime": 75.804,
+        "gloss": "this"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 75.804,
+        "endTime": 76.387,
+        "gloss": "bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 76.387,
+        "endTime": 77.453,
+        "gloss": "king"
+      },
+      {
+        "word": "不高",
+        "pinyin": "bù gāo",
+        "startTime": 77.453,
+        "endTime": 78.56,
+        "gloss": "not tall"
+      }
+    ],
+    "fullTextEN": "This Bald King is not tall,"
+  },
+  {
+    "startTime": 78.6,
+    "endTime": 82.866,
+    "fullTextZH": "他很矮，差不多1米，对。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 78.66,
+        "endTime": 78.94,
+        "gloss": "he"
+      },
+      {
+        "word": "很矮",
+        "pinyin": "hěn ǎi",
+        "startTime": 78.94,
+        "endTime": 79.421,
+        "gloss": "very short"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 80.483,
+        "endTime": 81.584,
+        "gloss": "almost"
+      },
+      {
+        "word": "米",
+        "pinyin": "mǐ",
+        "startTime": 81.825,
+        "endTime": 82.325,
+        "gloss": "meter"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 82.485,
+        "endTime": 82.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He is very short, almost 1 meter, right."
+  },
+  {
+    "startTime": 82.866,
+    "endTime": 84.566,
+    "fullTextZH": "差不多1米。",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 82.886,
+        "endTime": 83.615,
+        "gloss": "almost"
+      },
+      {
+        "word": "米",
+        "pinyin": "mǐ",
+        "startTime": 83.837,
+        "endTime": 84.526,
+        "gloss": "meter"
+      }
+    ],
+    "fullTextEN": "Almost 1 meter."
+  },
+  {
+    "startTime": 84.8,
+    "endTime": 87.966,
+    "fullTextZH": "然后呢，他没有头发，对。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 84.92,
+        "endTime": 85.381,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 85.381,
+        "endTime": 85.401,
+        "gloss": "particle"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 85.722,
+        "endTime": 85.962,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 85.962,
+        "endTime": 86.603,
+        "gloss": "no"
+      },
+      {
+        "word": "头发",
+        "pinyin": "tóu fà",
+        "startTime": 86.603,
+        "endTime": 87.285,
+        "gloss": "hair"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 87.585,
+        "endTime": 87.926,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Then, he has no hair, right."
+  },
+  {
+    "startTime": 87.966,
+    "endTime": 89.666,
+    "fullTextZH": "因为他秃了。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 88.027,
+        "endTime": 88.391,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 88.391,
+        "endTime": 88.715,
+        "gloss": "he"
+      },
+      {
+        "word": "秃",
+        "pinyin": "tū",
+        "startTime": 88.715,
+        "endTime": 89.099,
+        "gloss": "bald"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 89.099,
+        "endTime": 89.626,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Because he is bald."
+  },
+  {
+    "startTime": 90.2,
+    "endTime": 95.733,
+    "fullTextZH": "然后他的眼睛是红色的，呃，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 90.22,
+        "endTime": 91.002,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 91.002,
+        "endTime": 91.182,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 91.182,
+        "endTime": 91.383,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 91.383,
+        "endTime": 92.405,
+        "gloss": "eyes"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 92.405,
+        "endTime": 92.906,
+        "gloss": "are"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 92.906,
+        "endTime": 93.869,
+        "gloss": "red"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 93.869,
+        "endTime": 95.071,
+        "gloss": "particle"
+      },
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 95.693,
+        "endTime": 95.713,
+        "gloss": "uh"
+      }
+    ],
+    "fullTextEN": "Then his eyes are red, uh,"
+  },
+  {
+    "startTime": 95.733,
+    "endTime": 97.733,
+    "fullTextZH": "红色的眼睛。",
+    "words": [
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 95.834,
+        "endTime": 96.602,
+        "gloss": "red"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 96.602,
+        "endTime": 96.743,
+        "gloss": "particle"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 96.743,
+        "endTime": 97.693,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "Red eyes."
+  },
+  {
+    "startTime": 98.333,
+    "endTime": 103.533,
+    "fullTextZH": "然后他的脸上有很多毛，对。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 98.333,
+        "endTime": 98.915,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 98.915,
+        "endTime": 99.096,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 99.096,
+        "endTime": 99.297,
+        "gloss": "of"
+      },
+      {
+        "word": "脸上",
+        "pinyin": "liǎn shàng",
+        "startTime": 99.297,
+        "endTime": 100.501,
+        "gloss": "face"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 100.501,
+        "endTime": 100.843,
+        "gloss": "has"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 100.843,
+        "endTime": 101.666,
+        "gloss": "many"
+      },
+      {
+        "word": "毛",
+        "pinyin": "máo",
+        "startTime": 101.666,
+        "endTime": 102.108,
+        "gloss": "hair"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 103.091,
+        "endTime": 103.493,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Then his face has a lot of hair, right."
+  },
+  {
+    "startTime": 103.533,
+    "endTime": 107.699,
+    "fullTextZH": "很多毛，绿色的毛，嗯。",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 103.573,
+        "endTime": 104.234,
+        "gloss": "many"
+      },
+      {
+        "word": "毛",
+        "pinyin": "máo",
+        "startTime": 104.234,
+        "endTime": 105.195,
+        "gloss": "hair"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 105.336,
+        "endTime": 106.157,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 106.157,
+        "endTime": 106.337,
+        "gloss": "particle"
+      },
+      {
+        "word": "毛",
+        "pinyin": "máo",
+        "startTime": 106.337,
+        "endTime": 107.078,
+        "gloss": "hair"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 107.258,
+        "endTime": 107.659,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "A lot of hair, green hair, um."
+  },
+  {
+    "startTime": 107.966,
+    "endTime": 109.566,
+    "fullTextZH": "绿色的毛。",
+    "words": [
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 108.209,
+        "endTime": 108.695,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 108.695,
+        "endTime": 108.918,
+        "gloss": "particle"
+      },
+      {
+        "word": "毛",
+        "pinyin": "máo",
+        "startTime": 108.918,
+        "endTime": 109.525,
+        "gloss": "hair"
+      }
+    ],
+    "fullTextEN": "Green hair."
+  },
+  {
+    "startTime": 109.933,
+    "endTime": 115.966,
+    "fullTextZH": "为什么他的脸上有很多绿色的毛？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 110.013,
+        "endTime": 111.136,
+        "gloss": "why"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 111.136,
+        "endTime": 111.416,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.416,
+        "endTime": 111.877,
+        "gloss": "of"
+      },
+      {
+        "word": "脸上",
+        "pinyin": "liǎn shàng",
+        "startTime": 111.877,
+        "endTime": 112.799,
+        "gloss": "face"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 112.799,
+        "endTime": 113.08,
+        "gloss": "has"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 113.08,
+        "endTime": 114.122,
+        "gloss": "many"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 114.122,
+        "endTime": 114.884,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 114.884,
+        "endTime": 115.124,
+        "gloss": "particle"
+      },
+      {
+        "word": "毛",
+        "pinyin": "máo",
+        "startTime": 115.124,
+        "endTime": 115.926,
+        "gloss": "hair"
+      }
+    ],
+    "fullTextEN": "Why does his face have a lot of green hair?"
+  },
+  {
+    "startTime": 116.966,
+    "endTime": 119.866,
+    "fullTextZH": "因为他的脸，呃，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 116.986,
+        "endTime": 117.812,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 117.812,
+        "endTime": 118.033,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 118.033,
+        "endTime": 118.275,
+        "gloss": "of"
+      },
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 118.275,
+        "endTime": 118.436,
+        "gloss": "face"
+      },
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 119.826,
+        "endTime": 119.846,
+        "gloss": "uh"
+      }
+    ],
+    "fullTextEN": "Because his face, uh,"
+  },
+  {
+    "startTime": 120.133,
+    "endTime": 124.566,
+    "fullTextZH": "很脏，所以他的脸发霉了。",
+    "words": [
+      {
+        "word": "很脏",
+        "pinyin": "hěn zāng",
+        "startTime": 120.213,
+        "endTime": 121.557,
+        "gloss": "very dirty"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 121.577,
+        "endTime": 121.938,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 121.938,
+        "endTime": 122.119,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 122.119,
+        "endTime": 122.279,
+        "gloss": "of"
+      },
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 122.279,
+        "endTime": 122.821,
+        "gloss": "face"
+      },
+      {
+        "word": "发霉",
+        "pinyin": "fā méi",
+        "startTime": 122.821,
+        "endTime": 124.024,
+        "gloss": "moldy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 124.024,
+        "endTime": 124.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Very dirty, so his face got moldy."
+  },
+  {
+    "startTime": 124.666,
+    "endTime": 127.499,
+    "fullTextZH": "所以有很多绿毛。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 124.827,
+        "endTime": 125.249,
+        "gloss": "so"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 125.249,
+        "endTime": 125.51,
+        "gloss": "there is"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 125.51,
+        "endTime": 126.374,
+        "gloss": "many"
+      },
+      {
+        "word": "绿毛",
+        "pinyin": "lǜ máo",
+        "startTime": 126.374,
+        "endTime": 127.459,
+        "gloss": "green hair"
+      }
+    ],
+    "fullTextEN": "So there is a lot of green hair."
+  },
+  {
+    "startTime": 128.6,
+    "endTime": 132.733,
+    "fullTextZH": "秃秃大王不喜欢洗脸，",
+    "words": [
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 128.64,
+        "endTime": 129.082,
+        "gloss": "bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 129.082,
+        "endTime": 130.065,
+        "gloss": "king"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 130.065,
+        "endTime": 130.466,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 130.466,
+        "endTime": 131.469,
+        "gloss": "like"
+      },
+      {
+        "word": "洗脸",
+        "pinyin": "xǐ liǎn",
+        "startTime": 131.469,
+        "endTime": 132.693,
+        "gloss": "wash face"
+      }
+    ],
+    "fullTextEN": "Bald King doesn't like washing his face,"
+  },
+  {
+    "startTime": 132.966,
+    "endTime": 136.466,
+    "fullTextZH": "他也不喜欢洗澡。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 133.067,
+        "endTime": 133.71,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 133.71,
+        "endTime": 134.193,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 134.193,
+        "endTime": 134.575,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 134.575,
+        "endTime": 135.42,
+        "gloss": "like"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 135.42,
+        "endTime": 136.426,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "He also doesn't like taking a bath."
+  },
+  {
+    "startTime": 136.666,
+    "endTime": 140.366,
+    "fullTextZH": "所以秃秃大王很脏，嗯，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 136.787,
+        "endTime": 137.189,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 137.189,
+        "endTime": 137.611,
+        "gloss": "bald"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 137.611,
+        "endTime": 138.536,
+        "gloss": "king"
+      },
+      {
+        "word": "很脏",
+        "pinyin": "hěn zāng",
+        "startTime": 138.536,
+        "endTime": 139.924,
+        "gloss": "very dirty"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 140.084,
+        "endTime": 140.326,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "So Bald King is very dirty, um,"
+  },
+  {
+    "startTime": 140.366,
+    "endTime": 142.999,
+    "fullTextZH": "很脏，不干净。",
+    "words": [
+      {
+        "word": "很脏",
+        "pinyin": "hěn zāng",
+        "startTime": 140.406,
+        "endTime": 141.069,
+        "gloss": "very dirty"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 141.632,
+        "endTime": 142.014,
+        "gloss": "not"
+      },
+      {
+        "word": "干净",
+        "pinyin": "gān jìng",
+        "startTime": 142.014,
+        "endTime": 142.959,
+        "gloss": "clean"
+      }
+    ],
+    "fullTextEN": "Very dirty, not clean."
+  },
+  {
+    "startTime": 144.0,
+    "endTime": 147.1,
+    "fullTextZH": "现在我们一起读，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 144.02,
+        "endTime": 144.745,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 144.745,
+        "endTime": 145.59,
+        "gloss": "we"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 145.59,
+        "endTime": 146.436,
+        "gloss": "together"
+      },
+      {
+        "word": "读",
+        "pinyin": "dú",
+        "startTime": 146.436,
+        "endTime": 147.06,
+        "gloss": "read"
+      }
+    ],
+    "fullTextEN": "Now let's read together,"
+  },
+  {
+    "startTime": 147.4,
+    "endTime": 149.066,
+    "fullTextZH": "一段一段。",
+    "words": [
+      {
+        "word": "一段",
+        "pinyin": "yī duàn",
+        "startTime": 147.48,
+        "endTime": 148.363,
+        "gloss": "section"
+      },
+      {
+        "word": "一段",
+        "pinyin": "yī duàn",
+        "startTime": 148.363,
+        "endTime": 149.026,
+        "gloss": "section"
+      }
+    ],
+    "fullTextEN": "Section by section."
+  },
+  {
+    "startTime": 150.4,
+    "endTime": 155.866,
+    "fullTextZH": "可是秃秃大王只有3尺高（1尺=0.333 meter），",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 150.4,
+        "endTime": 151.401,
+        "gloss": "but"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 151.401,
+        "endTime": 152.002,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 152.002,
+        "endTime": 153.003,
+        "gloss": "king"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 153.003,
+        "endTime": 154.104,
+        "gloss": "only"
+      },
+      {
+        "word": "尺高",
+        "pinyin": "chǐ gāo",
+        "startTime": 154.464,
+        "endTime": 154.545,
+        "gloss": "feet tall"
+      },
+      {
+        "word": "尺",
+        "pinyin": "chǐ",
+        "startTime": 154.765,
+        "endTime": 154.965,
+        "gloss": "feet"
+      }
+    ],
+    "fullTextEN": "But King Tutu is only 3 feet tall (1 foot = 0.333 meter),"
+  },
+  {
+    "startTime": 156.3,
+    "endTime": 159.533,
+    "fullTextZH": "脑顶上光溜溜的（smooth/bare），",
+    "words": [
+      {
+        "word": "脑",
+        "pinyin": "nǎo",
+        "startTime": 156.38,
+        "endTime": 156.822,
+        "gloss": "head"
+      },
+      {
+        "word": "顶上",
+        "pinyin": "dǐng shàng",
+        "startTime": 156.822,
+        "endTime": 157.806,
+        "gloss": "top"
+      },
+      {
+        "word": "光溜溜",
+        "pinyin": "guāng liū liū",
+        "startTime": 157.806,
+        "endTime": 158.127,
+        "gloss": "smooth"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.127,
+        "endTime": 158.268,
+        "gloss": "bare"
+      }
+    ],
+    "fullTextEN": "The top of his head is smooth and bare,"
+  },
+  {
+    "startTime": 159.666,
+    "endTime": 164.766,
+    "fullTextZH": "一根头发也没有。",
+    "words": [
+      {
+        "word": "一根",
+        "pinyin": "yī gēn",
+        "startTime": 159.807,
+        "endTime": 161.192,
+        "gloss": "a single"
+      },
+      {
+        "word": "头发",
+        "pinyin": "tóu fà",
+        "startTime": 161.192,
+        "endTime": 162.678,
+        "gloss": "hair"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 162.678,
+        "endTime": 163.481,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 163.481,
+        "endTime": 164.726,
+        "gloss": "not have"
+      }
+    ],
+    "fullTextEN": "He doesn't have a single hair."
+  },
+  {
+    "startTime": 165.733,
+    "endTime": 168.533,
+    "fullTextZH": "眼睛是红的，",
+    "words": [
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 165.733,
+        "endTime": 166.821,
+        "gloss": "eyes"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 166.821,
+        "endTime": 167.385,
+        "gloss": "are"
+      },
+      {
+        "word": "红",
+        "pinyin": "hóng",
+        "startTime": 167.385,
+        "endTime": 167.848,
+        "gloss": "red"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 167.848,
+        "endTime": 168.493,
+        "gloss": "are"
+      }
+    ],
+    "fullTextEN": "His eyes are red,"
+  },
+  {
+    "startTime": 168.8,
+    "endTime": 172.866,
+    "fullTextZH": "脸上还长着绿毛。",
+    "words": [
+      {
+        "word": "脸上",
+        "pinyin": "liǎn shàng",
+        "startTime": 168.92,
+        "endTime": 169.902,
+        "gloss": "face"
+      },
+      {
+        "word": "还长",
+        "pinyin": "hái zhǎng",
+        "startTime": 169.902,
+        "endTime": 171.083,
+        "gloss": "also has"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 171.083,
+        "endTime": 171.624,
+        "gloss": "growing"
+      },
+      {
+        "word": "绿毛",
+        "pinyin": "lǜ máo",
+        "startTime": 171.624,
+        "endTime": 172.826,
+        "gloss": "green hair"
+      }
+    ],
+    "fullTextEN": "And his face has green hair growing on it."
+  },
+  {
+    "startTime": 173.533,
+    "endTime": 177.333,
+    "fullTextZH": "原来他的脸上发了霉，",
+    "words": [
+      {
+        "word": "原来",
+        "pinyin": "yuán lái",
+        "startTime": 173.634,
+        "endTime": 174.8,
+        "gloss": "turns out"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 174.8,
+        "endTime": 175.021,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 175.021,
+        "endTime": 175.182,
+        "gloss": "face"
+      },
+      {
+        "word": "脸上",
+        "pinyin": "liǎn shàng",
+        "startTime": 175.182,
+        "endTime": 176.247,
+        "gloss": "on"
+      },
+      {
+        "word": "发了",
+        "pinyin": "fā le",
+        "startTime": 176.247,
+        "endTime": 176.79,
+        "gloss": "developed"
+      },
+      {
+        "word": "霉",
+        "pinyin": "méi",
+        "startTime": 176.79,
+        "endTime": 177.313,
+        "gloss": "mold"
+      }
+    ],
+    "fullTextEN": "It turns out his face is moldy,"
+  },
+  {
+    "startTime": 178.666,
+    "endTime": 184.733,
+    "fullTextZH": "耳朵附近还生出了几个小菌子（fungus）。",
+    "words": [
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 178.726,
+        "endTime": 179.647,
+        "gloss": "ears"
+      },
+      {
+        "word": "附近",
+        "pinyin": "fù jìn",
+        "startTime": 179.647,
+        "endTime": 180.488,
+        "gloss": "nearby"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 180.488,
+        "endTime": 181.049,
+        "gloss": "also"
+      },
+      {
+        "word": "生出",
+        "pinyin": "shēng chū",
+        "startTime": 181.049,
+        "endTime": 181.79,
+        "gloss": "grown"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 181.79,
+        "endTime": 182.25,
+        "gloss": "out"
+      },
+      {
+        "word": "几个",
+        "pinyin": "jǐ gè",
+        "startTime": 182.25,
+        "endTime": 183.291,
+        "gloss": "a few"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 183.291,
+        "endTime": 183.732,
+        "gloss": "small"
+      },
+      {
+        "word": "菌子",
+        "pinyin": "jūn zi",
+        "startTime": 183.732,
+        "endTime": 184.212,
+        "gloss": "fungi"
+      }
+    ],
+    "fullTextEN": "Near his ears, a few small fungi have grown."
+  },
+  {
+    "startTime": 185.733,
+    "endTime": 189.466,
+    "fullTextZH": "对，所以秃秃大王不高，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 185.733,
+        "endTime": 185.813,
+        "gloss": "yes"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 186.456,
+        "endTime": 186.997,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 186.997,
+        "endTime": 187.479,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 187.479,
+        "endTime": 188.342,
+        "gloss": "king"
+      },
+      {
+        "word": "不高",
+        "pinyin": "bù gāo",
+        "startTime": 188.342,
+        "endTime": 189.426,
+        "gloss": "not tall"
+      }
+    ],
+    "fullTextEN": "Yes, so King Tutu is not tall,"
+  },
+  {
+    "startTime": 189.466,
+    "endTime": 193.533,
+    "fullTextZH": "他很矮，他不好看，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 189.526,
+        "endTime": 189.726,
+        "gloss": "he"
+      },
+      {
+        "word": "很矮",
+        "pinyin": "hěn ǎi",
+        "startTime": 189.726,
+        "endTime": 190.388,
+        "gloss": "very short"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 191.089,
+        "endTime": 192.07,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 192.07,
+        "endTime": 192.391,
+        "gloss": "not"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 192.391,
+        "endTime": 193.493,
+        "gloss": "good-looking"
+      }
+    ],
+    "fullTextEN": "He is very short, he is not good-looking,"
+  },
+  {
+    "startTime": 193.6,
+    "endTime": 198.6,
+    "fullTextZH": "因为他的脸很脏，然后他",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 193.68,
+        "endTime": 194.102,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 194.102,
+        "endTime": 194.283,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 194.283,
+        "endTime": 194.524,
+        "gloss": "face"
+      },
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 194.524,
+        "endTime": 195.287,
+        "gloss": "very dirty"
+      },
+      {
+        "word": "很脏",
+        "pinyin": "hěn zāng",
+        "startTime": 195.287,
+        "endTime": 196.251,
+        "gloss": "then"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 196.973,
+        "endTime": 197.978,
+        "gloss": "he"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 197.978,
+        "endTime": 197.998,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Because his face is very dirty, and then he"
+  },
+  {
+    "startTime": 200.7,
+    "endTime": 202.8,
+    "fullTextZH": "没有头发，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 200.7,
+        "endTime": 201.548,
+        "gloss": "not have"
+      },
+      {
+        "word": "头发",
+        "pinyin": "tóu fà",
+        "startTime": 201.548,
+        "endTime": 202.76,
+        "gloss": "hair"
+      }
+    ],
+    "fullTextEN": "has no hair,"
+  },
+  {
+    "startTime": 203.333,
+    "endTime": 206.566,
+    "fullTextZH": "所以他叫秃秃大王。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 203.474,
+        "endTime": 203.935,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 203.935,
+        "endTime": 204.196,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 204.196,
+        "endTime": 204.638,
+        "gloss": "called"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 204.638,
+        "endTime": 205.522,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 205.522,
+        "endTime": 206.526,
+        "gloss": "king"
+      }
+    ],
+    "fullTextEN": "so he is called King Tutu."
+  },
+  {
+    "startTime": 207.733,
+    "endTime": 210.866,
+    "fullTextZH": "可是他很有钱，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 207.753,
+        "endTime": 208.677,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 208.677,
+        "endTime": 209.239,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 209.239,
+        "endTime": 209.741,
+        "gloss": "very"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 209.741,
+        "endTime": 210.826,
+        "gloss": "rich"
+      }
+    ],
+    "fullTextEN": "But he is very rich,"
+  },
+  {
+    "startTime": 210.9,
+    "endTime": 213.7,
+    "fullTextZH": "他有很多很多地，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 210.981,
+        "endTime": 211.182,
+        "gloss": "he"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 211.182,
+        "endTime": 211.484,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 211.484,
+        "endTime": 213.055,
+        "gloss": "many many"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 213.055,
+        "endTime": 213.66,
+        "gloss": "land"
+      }
+    ],
+    "fullTextEN": "He has a lot of land,"
+  },
+  {
+    "startTime": 214.0,
+    "endTime": 218.066,
+    "fullTextZH": "他也住在一个很大的宫殿。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 214.08,
+        "endTime": 214.461,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 214.461,
+        "endTime": 214.921,
+        "gloss": "also"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 214.921,
+        "endTime": 215.222,
+        "gloss": "lives"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 215.222,
+        "endTime": 215.582,
+        "gloss": "in"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 215.582,
+        "endTime": 216.203,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 216.203,
+        "endTime": 217.125,
+        "gloss": "very large"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 217.125,
+        "endTime": 217.345,
+        "gloss": "of"
+      },
+      {
+        "word": "宫殿",
+        "pinyin": "gōng diàn",
+        "startTime": 217.345,
+        "endTime": 218.026,
+        "gloss": "palace"
+      }
+    ],
+    "fullTextEN": "He also lives in a very large palace."
+  },
+  {
+    "startTime": 218.666,
+    "endTime": 222.999,
+    "fullTextZH": "世界上最大最大的宫殿。",
+    "words": [
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 218.786,
+        "endTime": 219.549,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 219.549,
+        "endTime": 220.231,
+        "gloss": "in"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 220.231,
+        "endTime": 221.294,
+        "gloss": "largest"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 221.294,
+        "endTime": 221.916,
+        "gloss": "largest"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 221.916,
+        "endTime": 222.217,
+        "gloss": "of"
+      },
+      {
+        "word": "宫殿",
+        "pinyin": "gōng diàn",
+        "startTime": 222.217,
+        "endTime": 222.959,
+        "gloss": "palace"
+      }
+    ],
+    "fullTextEN": "The largest palace in the world."
+  },
+  {
+    "startTime": 224.266,
+    "endTime": 226.099,
+    "fullTextZH": "这个秃秃大王，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 224.266,
+        "endTime": 224.669,
+        "gloss": "this"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 224.669,
+        "endTime": 225.213,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 225.213,
+        "endTime": 226.059,
+        "gloss": "king"
+      }
+    ],
+    "fullTextEN": "This King Tutu,"
+  },
+  {
+    "startTime": 226.133,
+    "endTime": 228.533,
+    "fullTextZH": "他的脾气不好，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 226.214,
+        "endTime": 226.395,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 226.395,
+        "endTime": 226.718,
+        "gloss": "of"
+      },
+      {
+        "word": "脾气",
+        "pinyin": "pí qì",
+        "startTime": 226.718,
+        "endTime": 227.686,
+        "gloss": "temper"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 227.686,
+        "endTime": 228.493,
+        "gloss": "bad"
+      }
+    ],
+    "fullTextEN": "His temper is bad,"
+  },
+  {
+    "startTime": 228.566,
+    "endTime": 231.066,
+    "fullTextZH": "他常常生气。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 228.626,
+        "endTime": 229.07,
+        "gloss": "he"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 229.07,
+        "endTime": 229.997,
+        "gloss": "often"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 229.997,
+        "endTime": 231.026,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "He often gets angry."
+  },
+  {
+    "startTime": 232.3,
+    "endTime": 238.566,
+    "fullTextZH": "而且他生气的时候，他的牙齿会变长。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 232.4,
+        "endTime": 233.341,
+        "gloss": "moreover"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 233.341,
+        "endTime": 233.821,
+        "gloss": "he"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 233.821,
+        "endTime": 234.522,
+        "gloss": "angry"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 234.522,
+        "endTime": 234.722,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 234.722,
+        "endTime": 235.003,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 235.383,
+        "endTime": 235.603,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.603,
+        "endTime": 235.803,
+        "gloss": "of"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 235.803,
+        "endTime": 237.005,
+        "gloss": "teeth"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 237.005,
+        "endTime": 237.365,
+        "gloss": "will"
+      },
+      {
+        "word": "变长",
+        "pinyin": "biàn zhǎng",
+        "startTime": 237.365,
+        "endTime": 238.526,
+        "gloss": "grow longer"
+      }
+    ],
+    "fullTextEN": "Moreover, when he gets angry, his teeth grow longer."
+  },
+  {
+    "startTime": 238.766,
+    "endTime": 240.933,
+    "fullTextZH": "对，很奇怪，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 238.906,
+        "endTime": 239.428,
+        "gloss": "yes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 239.809,
+        "endTime": 240.191,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 240.191,
+        "endTime": 240.893,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Yes, very strange,"
+  },
+  {
+    "startTime": 240.933,
+    "endTime": 243.499,
+    "fullTextZH": "他的牙齿会变长。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 240.993,
+        "endTime": 241.174,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.174,
+        "endTime": 241.314,
+        "gloss": "possessive"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 241.314,
+        "endTime": 242.116,
+        "gloss": "teeth"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 242.116,
+        "endTime": 242.437,
+        "gloss": "will"
+      },
+      {
+        "word": "变长",
+        "pinyin": "biàn zhǎng",
+        "startTime": 242.437,
+        "endTime": 243.459,
+        "gloss": "grow longer"
+      }
+    ],
+    "fullTextEN": "His teeth will grow longer."
+  },
+  {
+    "startTime": 244.2,
+    "endTime": 246.366,
+    "fullTextZH": "如果他很高兴，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 244.26,
+        "endTime": 244.902,
+        "gloss": "if"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 244.902,
+        "endTime": 245.062,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 245.062,
+        "endTime": 245.443,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 245.443,
+        "endTime": 246.326,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "If he is happy,"
+  },
+  {
+    "startTime": 246.4,
+    "endTime": 250.366,
+    "fullTextZH": "他的牙齿会变短，对。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 246.48,
+        "endTime": 246.68,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 246.68,
+        "endTime": 246.821,
+        "gloss": "possessive"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 246.821,
+        "endTime": 247.662,
+        "gloss": "teeth"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 247.662,
+        "endTime": 247.962,
+        "gloss": "will"
+      },
+      {
+        "word": "变短",
+        "pinyin": "biàn duǎn",
+        "startTime": 247.962,
+        "endTime": 249.665,
+        "gloss": "become shorter"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 249.865,
+        "endTime": 250.326,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "His teeth will become shorter, yes."
+  },
+  {
+    "startTime": 250.4,
+    "endTime": 256.0,
+    "fullTextZH": "所以他的牙齿有时候变长，有时候变短，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 250.52,
+        "endTime": 250.922,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 250.922,
+        "endTime": 251.123,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 251.123,
+        "endTime": 251.444,
+        "gloss": "possessive"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 251.444,
+        "endTime": 252.347,
+        "gloss": "teeth"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 252.347,
+        "endTime": 253.25,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "变",
+        "pinyin": "biàn",
+        "startTime": 253.25,
+        "endTime": 253.551,
+        "gloss": "grow"
+      },
+      {
+        "word": "长",
+        "pinyin": "zhǎng",
+        "startTime": 253.551,
+        "endTime": 254.133,
+        "gloss": "long"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 254.254,
+        "endTime": 254.956,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "变短",
+        "pinyin": "biàn duǎn",
+        "startTime": 254.956,
+        "endTime": 255.96,
+        "gloss": "shorten"
+      }
+    ],
+    "fullTextEN": "So sometimes his teeth grow longer, sometimes shorter,"
+  },
+  {
+    "startTime": 256.266,
+    "endTime": 258.466,
+    "fullTextZH": "要看他的心情。",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 256.347,
+        "endTime": 256.609,
+        "gloss": "depends"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 256.609,
+        "endTime": 256.932,
+        "gloss": "on"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 256.932,
+        "endTime": 257.174,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 257.174,
+        "endTime": 257.457,
+        "gloss": "possessive"
+      },
+      {
+        "word": "心情",
+        "pinyin": "xīn qíng",
+        "startTime": 257.457,
+        "endTime": 258.426,
+        "gloss": "mood"
+      }
+    ],
+    "fullTextEN": "It depends on his mood."
+  },
+  {
+    "startTime": 258.533,
+    "endTime": 260.699,
+    "fullTextZH": "如果高兴，变短；如果",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 258.613,
+        "endTime": 258.994,
+        "gloss": "if"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 258.994,
+        "endTime": 259.536,
+        "gloss": "happy"
+      },
+      {
+        "word": "变短",
+        "pinyin": "biàn duǎn",
+        "startTime": 259.817,
+        "endTime": 260.077,
+        "gloss": "shorten"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 260.539,
+        "endTime": 260.619,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If happy, they shorten; if"
+  },
+  {
+    "startTime": 260.733,
+    "endTime": 261.533,
+    "fullTextZH": "如果",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 260.815,
+        "endTime": 261.02,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If"
+  },
+  {
+    "startTime": 262.1,
+    "endTime": 263.566,
+    "fullTextZH": "不对，如果",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 262.12,
+        "endTime": 262.2,
+        "gloss": "no"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 262.2,
+        "endTime": 262.602,
+        "gloss": "correct"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 262.883,
+        "endTime": 263.164,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "No, if"
+  },
+  {
+    "startTime": 264.2,
+    "endTime": 269.066,
+    "fullTextZH": "生气就变长，如果高兴就变短。",
+    "words": [
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 264.24,
+        "endTime": 265.001,
+        "gloss": "angry"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 265.001,
+        "endTime": 265.381,
+        "gloss": "then"
+      },
+      {
+        "word": "变长",
+        "pinyin": "biàn zhǎng",
+        "startTime": 265.381,
+        "endTime": 266.182,
+        "gloss": "grow longer"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 266.383,
+        "endTime": 266.803,
+        "gloss": "if"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 266.803,
+        "endTime": 267.584,
+        "gloss": "happy"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 267.584,
+        "endTime": 267.965,
+        "gloss": "then"
+      },
+      {
+        "word": "变短",
+        "pinyin": "biàn duǎn",
+        "startTime": 267.965,
+        "endTime": 269.026,
+        "gloss": "shorten"
+      }
+    ],
+    "fullTextEN": "If angry, they grow longer; if happy, they shorten."
+  },
+  {
+    "startTime": 269.9,
+    "endTime": 273.7,
+    "fullTextZH": "对，他有很特别的牙齿。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 269.9,
+        "endTime": 270.021,
+        "gloss": "yes"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 270.563,
+        "endTime": 270.865,
+        "gloss": "he"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 270.865,
+        "endTime": 271.086,
+        "gloss": "has"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 271.086,
+        "endTime": 271.529,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 271.529,
+        "endTime": 272.313,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.313,
+        "endTime": 272.755,
+        "gloss": "possessive"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 272.755,
+        "endTime": 273.66,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "Yes, he has very special teeth."
+  },
+  {
+    "startTime": 274.6,
+    "endTime": 278.5,
+    "fullTextZH": "有一次，秃秃大王在睡觉，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 274.721,
+        "endTime": 274.922,
+        "gloss": "once"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 274.922,
+        "endTime": 275.665,
+        "gloss": "time"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 275.806,
+        "endTime": 276.289,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 276.289,
+        "endTime": 277.073,
+        "gloss": "king"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 277.073,
+        "endTime": 277.615,
+        "gloss": "was"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 277.615,
+        "endTime": 278.46,
+        "gloss": "sleeping"
+      }
+    ],
+    "fullTextEN": "Once, King Tutu was sleeping,"
+  },
+  {
+    "startTime": 278.733,
+    "endTime": 280.899,
+    "fullTextZH": "突然他醒了，",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 278.873,
+        "endTime": 279.635,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "他醒",
+        "pinyin": "tā xǐng",
+        "startTime": 279.635,
+        "endTime": 280.378,
+        "gloss": "he woke"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 280.378,
+        "endTime": 280.859,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Suddenly he woke up,"
+  },
+  {
+    "startTime": 280.966,
+    "endTime": 282.966,
+    "fullTextZH": "然后他跳起来，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 281.067,
+        "endTime": 281.431,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 281.431,
+        "endTime": 281.835,
+        "gloss": "he"
+      },
+      {
+        "word": "跳",
+        "pinyin": "tiào",
+        "startTime": 281.835,
+        "endTime": 282.198,
+        "gloss": "jumped"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 282.198,
+        "endTime": 282.926,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Then he jumped up,"
+  },
+  {
+    "startTime": 283.066,
+    "endTime": 285.599,
+    "fullTextZH": "他很生气，他说：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 283.167,
+        "endTime": 283.307,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 283.307,
+        "endTime": 283.709,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 283.709,
+        "endTime": 284.393,
+        "gloss": "angry"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 284.795,
+        "endTime": 285.016,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 285.016,
+        "endTime": 285.559,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He was very angry, he said:"
+  },
+  {
+    "startTime": 288.666,
+    "endTime": 291.466,
+    "fullTextZH": "他说他要抓一个人。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 288.666,
+        "endTime": 288.847,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 288.847,
+        "endTime": 289.391,
+        "gloss": "said"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 289.391,
+        "endTime": 289.532,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 289.532,
+        "endTime": 289.915,
+        "gloss": "wants"
+      },
+      {
+        "word": "抓",
+        "pinyin": "zhuā",
+        "startTime": 289.915,
+        "endTime": 290.398,
+        "gloss": "to catch"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 290.398,
+        "endTime": 290.781,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 290.781,
+        "endTime": 291.426,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "He said he wanted to catch someone."
+  },
+  {
+    "startTime": 291.733,
+    "endTime": 296.699,
+    "fullTextZH": "为什么？因为秃秃大王做梦了，",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 291.813,
+        "endTime": 293.015,
+        "gloss": "why"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 293.115,
+        "endTime": 293.595,
+        "gloss": "because"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 293.595,
+        "endTime": 293.956,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 293.956,
+        "endTime": 295.257,
+        "gloss": "king"
+      },
+      {
+        "word": "做梦",
+        "pinyin": "zuò mèng",
+        "startTime": 295.257,
+        "endTime": 296.178,
+        "gloss": "dreamed"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 296.178,
+        "endTime": 296.659,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "Why? Because King Tutu had a dream,"
+  },
+  {
+    "startTime": 296.9,
+    "endTime": 301.8,
+    "fullTextZH": "他梦到有一个人偷了他的钱。",
+    "words": [
+      {
+        "word": "他梦到",
+        "pinyin": "tā mèng dào",
+        "startTime": 297.0,
+        "endTime": 298.527,
+        "gloss": "he dreamed"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 298.527,
+        "endTime": 298.808,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 298.808,
+        "endTime": 299.25,
+        "gloss": "a"
+      },
+      {
+        "word": "人偷",
+        "pinyin": "rén tōu",
+        "startTime": 299.25,
+        "endTime": 300.394,
+        "gloss": "person stole"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 300.394,
+        "endTime": 300.675,
+        "gloss": "past"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 300.675,
+        "endTime": 300.916,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 300.916,
+        "endTime": 301.137,
+        "gloss": "possessive"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 301.137,
+        "endTime": 301.76,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "He dreamed that someone stole his money."
+  },
+  {
+    "startTime": 302.0,
+    "endTime": 305.166,
+    "fullTextZH": "所以秃秃大王很生气，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 302.14,
+        "endTime": 302.902,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 302.902,
+        "endTime": 303.262,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 303.262,
+        "endTime": 303.823,
+        "gloss": "king"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 303.823,
+        "endTime": 304.224,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 304.224,
+        "endTime": 305.126,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So King Tutu was very angry,"
+  },
+  {
+    "startTime": 305.166,
+    "endTime": 305.966,
+    "fullTextZH": "他说：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 305.248,
+        "endTime": 305.535,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 305.535,
+        "endTime": 305.945,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said:"
+  },
+  {
+    "startTime": 306.0,
+    "endTime": 308.366,
+    "fullTextZH": "“我要把他抓起来！”",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 306.02,
+        "endTime": 306.381,
+        "gloss": "I want"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 306.381,
+        "endTime": 306.581,
+        "gloss": "to"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 306.581,
+        "endTime": 306.942,
+        "gloss": "him"
+      },
+      {
+        "word": "抓",
+        "pinyin": "zhuā",
+        "startTime": 306.942,
+        "endTime": 307.424,
+        "gloss": "catch"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 307.424,
+        "endTime": 308.326,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "\"I want to catch him!\""
+  },
+  {
+    "startTime": 309.666,
+    "endTime": 312.133,
+    "fullTextZH": "可是抓谁？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 309.726,
+        "endTime": 310.589,
+        "gloss": "but"
+      },
+      {
+        "word": "抓",
+        "pinyin": "zhuā",
+        "startTime": 310.589,
+        "endTime": 311.271,
+        "gloss": "catch"
+      },
+      {
+        "word": "谁",
+        "pinyin": "shuí",
+        "startTime": 311.271,
+        "endTime": 312.093,
+        "gloss": "who"
+      }
+    ],
+    "fullTextEN": "But catch who?"
+  },
+  {
+    "startTime": 312.733,
+    "endTime": 316.199,
+    "fullTextZH": "不知道，秃秃大王也不知道。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 312.833,
+        "endTime": 312.973,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 312.973,
+        "endTime": 313.474,
+        "gloss": "know"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 313.594,
+        "endTime": 313.975,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 313.975,
+        "endTime": 314.917,
+        "gloss": "king"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 314.917,
+        "endTime": 315.197,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 315.197,
+        "endTime": 315.398,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 315.398,
+        "endTime": 316.159,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "I don't know, and King Tutu doesn't know either."
+  },
+  {
+    "startTime": 318.966,
+    "endTime": 322.466,
+    "fullTextZH": "对，所以秃秃大王很有钱，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 318.966,
+        "endTime": 319.006,
+        "gloss": "yes"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 319.63,
+        "endTime": 320.072,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 320.072,
+        "endTime": 320.414,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 320.414,
+        "endTime": 321.199,
+        "gloss": "king"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 321.199,
+        "endTime": 321.521,
+        "gloss": "very"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 321.521,
+        "endTime": 322.426,
+        "gloss": "rich"
+      }
+    ],
+    "fullTextEN": "Yes, so King Tutu is very rich,"
+  },
+  {
+    "startTime": 322.466,
+    "endTime": 325.466,
+    "fullTextZH": "可是他的脾气不好，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 322.526,
+        "endTime": 323.332,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 323.332,
+        "endTime": 323.493,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 323.493,
+        "endTime": 323.714,
+        "gloss": "‘s"
+      },
+      {
+        "word": "脾气",
+        "pinyin": "pí qì",
+        "startTime": 323.714,
+        "endTime": 324.56,
+        "gloss": "temper"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 324.56,
+        "endTime": 325.426,
+        "gloss": "bad"
+      }
+    ],
+    "fullTextEN": "but he has a bad temper,"
+  },
+  {
+    "startTime": 325.533,
+    "endTime": 327.799,
+    "fullTextZH": "他常常生气。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 325.593,
+        "endTime": 325.914,
+        "gloss": "he"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 325.914,
+        "endTime": 326.796,
+        "gloss": "often"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 326.796,
+        "endTime": 327.759,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "He often gets angry."
+  },
+  {
+    "startTime": 328.5,
+    "endTime": 333.566,
+    "fullTextZH": "这个秃秃大王有很多很多妻子，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 328.5,
+        "endTime": 328.8,
+        "gloss": "this"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 328.8,
+        "endTime": 329.281,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 329.281,
+        "endTime": 330.182,
+        "gloss": "king"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 330.182,
+        "endTime": 330.623,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 330.623,
+        "endTime": 332.485,
+        "gloss": "many many"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 332.485,
+        "endTime": 333.526,
+        "gloss": "wives"
+      }
+    ],
+    "fullTextEN": "This King Tutu has many, many wives,"
+  },
+  {
+    "startTime": 333.9,
+    "endTime": 335.266,
+    "fullTextZH": "可能",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 334.081,
+        "endTime": 334.523,
+        "gloss": "maybe"
+      }
+    ],
+    "fullTextEN": "Maybe"
+  },
+  {
+    "startTime": 335.5,
+    "endTime": 339.466,
+    "fullTextZH": "可能有几千个妻子，对。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 335.52,
+        "endTime": 335.841,
+        "gloss": "maybe"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 335.841,
+        "endTime": 336.301,
+        "gloss": "has"
+      },
+      {
+        "word": "几千个",
+        "pinyin": "jǐ qiān gè",
+        "startTime": 336.301,
+        "endTime": 337.904,
+        "gloss": "thousands of"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 337.904,
+        "endTime": 338.525,
+        "gloss": "wives"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 338.865,
+        "endTime": 339.426,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Maybe he has thousands of wives, yes."
+  },
+  {
+    "startTime": 339.766,
+    "endTime": 343.866,
+    "fullTextZH": "可是秃秃大王对她们不好，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 339.887,
+        "endTime": 340.791,
+        "gloss": "but"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 340.791,
+        "endTime": 341.113,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 341.113,
+        "endTime": 341.816,
+        "gloss": "king"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 341.816,
+        "endTime": 342.117,
+        "gloss": "to"
+      },
+      {
+        "word": "她们",
+        "pinyin": "tā men",
+        "startTime": 342.117,
+        "endTime": 342.921,
+        "gloss": "them"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 342.921,
+        "endTime": 343.826,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "But King Tutu is not good to them,"
+  },
+  {
+    "startTime": 344.0,
+    "endTime": 349.366,
+    "fullTextZH": "秃秃大王有时候他会吃掉他的妻子，",
+    "words": [
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 344.1,
+        "endTime": 344.44,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 344.44,
+        "endTime": 345.362,
+        "gloss": "king"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 345.362,
+        "endTime": 346.463,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 346.463,
+        "endTime": 347.123,
+        "gloss": "would"
+      },
+      {
+        "word": "吃掉",
+        "pinyin": "chī diào",
+        "startTime": 347.123,
+        "endTime": 347.944,
+        "gloss": "eat"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 347.944,
+        "endTime": 348.185,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 348.185,
+        "endTime": 348.465,
+        "gloss": "wives"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 348.465,
+        "endTime": 349.326,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Sometimes King Tutu would eat his wives,"
+  },
+  {
+    "startTime": 349.466,
+    "endTime": 354.166,
+    "fullTextZH": "有时候他会卖掉他的妻子。",
+    "words": [
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 349.526,
+        "endTime": 350.51,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 350.51,
+        "endTime": 351.294,
+        "gloss": "would"
+      },
+      {
+        "word": "卖掉",
+        "pinyin": "mài diào",
+        "startTime": 351.294,
+        "endTime": 352.74,
+        "gloss": "sell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 352.74,
+        "endTime": 352.961,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.961,
+        "endTime": 353.222,
+        "gloss": "wives"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 353.222,
+        "endTime": 354.126,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Sometimes he would sell his wives."
+  },
+  {
+    "startTime": 355.1,
+    "endTime": 355.9,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 355.264,
+        "endTime": 355.859,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 356.766,
+    "endTime": 360.466,
+    "fullTextZH": "所以秃秃大王的妻子们",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 356.867,
+        "endTime": 357.389,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 357.389,
+        "endTime": 357.792,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 357.792,
+        "endTime": 358.294,
+        "gloss": "king"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 358.294,
+        "endTime": 358.797,
+        "gloss": "‘s"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 358.797,
+        "endTime": 359.38,
+        "gloss": "wives"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 359.38,
+        "endTime": 359.4,
+        "gloss": "plural"
+      }
+    ],
+    "fullTextEN": "So King Tutu's wives"
+  },
+  {
+    "startTime": 360.5,
+    "endTime": 361.866,
+    "fullTextZH": "很可怜，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 360.6,
+        "endTime": 361.203,
+        "gloss": "very"
+      },
+      {
+        "word": "可怜",
+        "pinyin": "kě lián",
+        "startTime": 361.203,
+        "endTime": 361.826,
+        "gloss": "pitiful"
+      }
+    ],
+    "fullTextEN": "are very pitiful,"
+  },
+  {
+    "startTime": 362.066,
+    "endTime": 363.266,
+    "fullTextZH": "对不对？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 362.168,
+        "endTime": 362.351,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 362.351,
+        "endTime": 362.473,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 362.473,
+        "endTime": 363.225,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right?"
+  },
+  {
+    "startTime": 364.133,
+    "endTime": 366.166,
+    "fullTextZH": "对，她们很可怜。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 364.314,
+        "endTime": 364.737,
+        "gloss": "yes"
+      },
+      {
+        "word": "她们",
+        "pinyin": "tā men",
+        "startTime": 364.757,
+        "endTime": 365.119,
+        "gloss": "they"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 365.119,
+        "endTime": 365.502,
+        "gloss": "very"
+      },
+      {
+        "word": "可怜",
+        "pinyin": "kě lián",
+        "startTime": 365.502,
+        "endTime": 366.126,
+        "gloss": "pitiful"
+      }
+    ],
+    "fullTextEN": "Yes, they are very pitiful."
+  },
+  {
+    "startTime": 366.333,
+    "endTime": 366.866,
+    "fullTextZH": "哎，",
+    "words": [
+      {
+        "word": "哎",
+        "pinyin": "āi",
+        "startTime": 366.354,
+        "endTime": 366.846,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Ah,"
+  },
+  {
+    "startTime": 366.866,
+    "endTime": 370.999,
+    "fullTextZH": "所以秃秃大王是一个很坏很坏的人，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 366.966,
+        "endTime": 367.287,
+        "gloss": "so"
+      },
+      {
+        "word": "秃秃",
+        "pinyin": "tū tū",
+        "startTime": 367.287,
+        "endTime": 367.628,
+        "gloss": "Tutu"
+      },
+      {
+        "word": "大王",
+        "pinyin": "dà wáng",
+        "startTime": 367.628,
+        "endTime": 368.25,
+        "gloss": "king"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 368.25,
+        "endTime": 368.451,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 368.451,
+        "endTime": 368.973,
+        "gloss": "a"
+      },
+      {
+        "word": "很坏",
+        "pinyin": "hěn huài",
+        "startTime": 368.973,
+        "endTime": 369.675,
+        "gloss": "very bad"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 369.675,
+        "endTime": 370.016,
+        "gloss": "very"
+      },
+      {
+        "word": "坏",
+        "pinyin": "huài",
+        "startTime": 370.016,
+        "endTime": 370.277,
+        "gloss": "bad"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 370.277,
+        "endTime": 370.437,
+        "gloss": "‘s"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 370.437,
+        "endTime": 370.457,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "So King Tutu is a very, very bad person,"
+  },
+  {
+    "startTime": 371.0,
+    "endTime": 374.466,
+    "fullTextZH": "他做了很多很多坏事。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 371.08,
+        "endTime": 371.401,
+        "gloss": "he"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 371.401,
+        "endTime": 371.641,
+        "gloss": "did"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 371.641,
+        "endTime": 371.962,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 371.962,
+        "endTime": 373.444,
+        "gloss": "many many"
+      },
+      {
+        "word": "坏事",
+        "pinyin": "huài shì",
+        "startTime": 373.444,
+        "endTime": 374.426,
+        "gloss": "bad things"
+      }
+    ],
+    "fullTextEN": "He did many, many bad things."
+  },
+  {
+    "startTime": 374.866,
+    "endTime": 377.766,
+    "fullTextZH": "很多很多人都怕他。",
+    "words": [
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 374.886,
+        "endTime": 375.873,
+        "gloss": "many, many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 375.873,
+        "endTime": 376.235,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 376.235,
+        "endTime": 376.618,
+        "gloss": "all"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 376.618,
+        "endTime": 377.061,
+        "gloss": "afraid"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 377.061,
+        "endTime": 377.726,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Many, many people are afraid of him."
+  },
+  {
+    "startTime": 378.366,
+    "endTime": 382.366,
+    "fullTextZH": "我觉得这本书真的很有意思，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 378.386,
+        "endTime": 378.708,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 378.708,
+        "endTime": 379.411,
+        "gloss": "think"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 379.411,
+        "endTime": 379.632,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 379.632,
+        "endTime": 380.396,
+        "gloss": "book"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 380.396,
+        "endTime": 381.039,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 381.039,
+        "endTime": 381.301,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 381.301,
+        "endTime": 382.326,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think this book is really interesting."
+  },
+  {
+    "startTime": 382.366,
+    "endTime": 385.366,
+    "fullTextZH": "如果你是中级水平，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 382.447,
+        "endTime": 383.091,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 383.091,
+        "endTime": 383.332,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 383.332,
+        "endTime": 383.715,
+        "gloss": "are"
+      },
+      {
+        "word": "中级",
+        "pinyin": "zhōng jí",
+        "startTime": 383.715,
+        "endTime": 384.44,
+        "gloss": "intermediate"
+      },
+      {
+        "word": "水平",
+        "pinyin": "shuǐ píng",
+        "startTime": 384.44,
+        "endTime": 385.326,
+        "gloss": "level"
+      }
+    ],
+    "fullTextEN": "If you are at an intermediate level,"
+  },
+  {
+    "startTime": 386.6,
+    "endTime": 388.0,
+    "fullTextZH": "不是初级，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 386.722,
+        "endTime": 387.371,
+        "gloss": "not"
+      },
+      {
+        "word": "初级",
+        "pinyin": "chū jí",
+        "startTime": 387.371,
+        "endTime": 387.959,
+        "gloss": "beginner"
+      }
+    ],
+    "fullTextEN": "not a beginner,"
+  },
+  {
+    "startTime": 388.0,
+    "endTime": 390.966,
+    "fullTextZH": "如果你是中高级水平，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 388.08,
+        "endTime": 388.401,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 388.401,
+        "endTime": 388.541,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 388.541,
+        "endTime": 388.782,
+        "gloss": "are"
+      },
+      {
+        "word": "中高级",
+        "pinyin": "zhōng gāo jí",
+        "startTime": 388.782,
+        "endTime": 390.104,
+        "gloss": "upper-intermediate"
+      },
+      {
+        "word": "水平",
+        "pinyin": "shuǐ píng",
+        "startTime": 390.104,
+        "endTime": 390.926,
+        "gloss": "level"
+      }
+    ],
+    "fullTextEN": "If you are at an upper-intermediate level,"
+  },
+  {
+    "startTime": 391.066,
+    "endTime": 393.733,
+    "fullTextZH": "你都可以读这本书。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 391.106,
+        "endTime": 391.307,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 391.307,
+        "endTime": 391.607,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 391.607,
+        "endTime": 392.189,
+        "gloss": "can"
+      },
+      {
+        "word": "读",
+        "pinyin": "dú",
+        "startTime": 392.189,
+        "endTime": 392.69,
+        "gloss": "read"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 392.69,
+        "endTime": 392.851,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 392.851,
+        "endTime": 393.713,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "you can read this book."
+  },
+  {
+    "startTime": 394.133,
+    "endTime": 396.866,
+    "fullTextZH": "如果你有一个中文老师，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 394.173,
+        "endTime": 394.716,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 394.716,
+        "endTime": 394.877,
+        "gloss": "you"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 394.877,
+        "endTime": 395.057,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 395.057,
+        "endTime": 395.56,
+        "gloss": "a"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 395.56,
+        "endTime": 396.002,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 396.002,
+        "endTime": 396.826,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "If you have a Chinese teacher,"
+  },
+  {
+    "startTime": 396.866,
+    "endTime": 400.899,
+    "fullTextZH": "你可以和你的中文老师一起读。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 396.926,
+        "endTime": 397.167,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 397.167,
+        "endTime": 397.649,
+        "gloss": "can"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 397.649,
+        "endTime": 398.15,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 398.15,
+        "endTime": 398.351,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 398.351,
+        "endTime": 398.531,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 398.531,
+        "endTime": 398.973,
+        "gloss": "teacher"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 398.973,
+        "endTime": 399.615,
+        "gloss": "together"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 399.615,
+        "endTime": 400.337,
+        "gloss": "read"
+      },
+      {
+        "word": "读",
+        "pinyin": "dú",
+        "startTime": 400.337,
+        "endTime": 400.859,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "you can read it with your Chinese teacher."
+  },
+  {
+    "startTime": 401.066,
+    "endTime": 406.533,
+    "fullTextZH": "真的是非常非常适合学习中文的书！",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 401.126,
+        "endTime": 401.587,
+        "gloss": "really"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 401.587,
+        "endTime": 401.967,
+        "gloss": "is"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 401.967,
+        "endTime": 402.588,
+        "gloss": "very"
+      },
+      {
+        "word": "非常适合",
+        "pinyin": "fēi cháng shì hé",
+        "startTime": 402.588,
+        "endTime": 404.31,
+        "gloss": "very suitable"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 404.31,
+        "endTime": 405.171,
+        "gloss": "learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 405.171,
+        "endTime": 405.732,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 405.732,
+        "endTime": 405.972,
+        "gloss": "de"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 405.972,
+        "endTime": 406.493,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "It really is a very suitable book for learning Chinese!"
+  },
+  {
+    "startTime": 407.4,
+    "endTime": 410.766,
+    "fullTextZH": "希望你们去读这本书，",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 407.44,
+        "endTime": 408.101,
+        "gloss": "hope"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 408.101,
+        "endTime": 408.782,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 408.782,
+        "endTime": 409.143,
+        "gloss": "go"
+      },
+      {
+        "word": "读",
+        "pinyin": "dú",
+        "startTime": 409.143,
+        "endTime": 409.744,
+        "gloss": "read"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 409.744,
+        "endTime": 409.925,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 409.925,
+        "endTime": 410.726,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "I hope you go read this book,"
+  },
+  {
+    "startTime": 410.8,
+    "endTime": 415.2,
+    "fullTextZH": "然后告诉我你喜欢不喜欢。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 410.921,
+        "endTime": 411.644,
+        "gloss": "then"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 411.644,
+        "endTime": 412.206,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 412.206,
+        "endTime": 412.749,
+        "gloss": "me"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 412.749,
+        "endTime": 413.332,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 413.332,
+        "endTime": 414.175,
+        "gloss": "like"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 414.175,
+        "endTime": 414.396,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 414.396,
+        "endTime": 415.16,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "and then tell me whether you like it or not."
+  },
+  {
+    "startTime": 416.566,
+    "endTime": 420.299,
+    "fullTextZH": "希望你们喜欢这本书！",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 416.767,
+        "endTime": 417.509,
+        "gloss": "hope"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 417.509,
+        "endTime": 418.533,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 418.533,
+        "endTime": 419.376,
+        "gloss": "like"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 419.376,
+        "endTime": 419.556,
+        "gloss": "this"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 419.556,
+        "endTime": 420.259,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "I hope you like this book!"
+  },
+  {
+    "startTime": 420.933,
+    "endTime": 426.066,
+    "fullTextZH": "如果你要和我学习中文，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 420.973,
+        "endTime": 421.755,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 421.755,
+        "endTime": 422.076,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 422.076,
+        "endTime": 422.878,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 422.878,
+        "endTime": 423.359,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 423.359,
+        "endTime": 424.081,
+        "gloss": "me"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 424.081,
+        "endTime": 425.264,
+        "gloss": "learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 425.264,
+        "endTime": 426.026,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "If you want to learn Chinese with me,"
+  },
+  {
+    "startTime": 426.2,
+    "endTime": 429.366,
+    "fullTextZH": "你可以看看我的description。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 426.3,
+        "endTime": 426.521,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 426.521,
+        "endTime": 426.961,
+        "gloss": "can"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 426.961,
+        "endTime": 427.683,
+        "gloss": "check out"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 427.683,
+        "endTime": 428.043,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 428.043,
+        "endTime": 428.404,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "you can check out my description."
+  },
+  {
+    "startTime": 430.466,
+    "endTime": 432.299,
+    "fullTextZH": "我有1对1（one on one），",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 430.486,
+        "endTime": 430.647,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 430.647,
+        "endTime": 430.869,
+        "gloss": "have"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 430.889,
+        "endTime": 430.99,
+        "gloss": "one-on-one"
+      }
+    ],
+    "fullTextEN": "I have one-on-one lessons,"
+  },
+  {
+    "startTime": 432.3,
+    "endTime": 434.2,
+    "fullTextZH": "也有班课（group class）。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 432.421,
+        "endTime": 432.745,
+        "gloss": "also"
+      },
+      {
+        "word": "有班课",
+        "pinyin": "yǒu bān kè",
+        "startTime": 432.745,
+        "endTime": 433.836,
+        "gloss": "have group class"
+      }
+    ],
+    "fullTextEN": "and also group classes."
+  },
+  {
+    "startTime": 434.366,
+    "endTime": 437.999,
+    "fullTextZH": "希望你来和我学习中文！",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 434.486,
+        "endTime": 435.169,
+        "gloss": "hope"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 435.169,
+        "endTime": 435.41,
+        "gloss": "you"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 435.41,
+        "endTime": 435.891,
+        "gloss": "come"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 435.891,
+        "endTime": 436.253,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 436.253,
+        "endTime": 436.714,
+        "gloss": "me"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 436.714,
+        "endTime": 437.176,
+        "gloss": "learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 437.176,
+        "endTime": 437.959,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "I hope you come to learn Chinese with me!"
+  },
+  {
+    "startTime": 438.733,
+    "endTime": 442.666,
+    "fullTextZH": "好，那我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 438.793,
+        "endTime": 439.596,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 439.776,
+        "endTime": 439.797,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 439.797,
+        "endTime": 440.419,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 440.419,
+        "endTime": 441.121,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 441.121,
+        "endTime": 441.382,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 441.683,
+        "endTime": 442.626,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time, bye!"
+  }
+]

@@ -1,0 +1,3056 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 1.2,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.32,
+        "endTime": 1.18,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 1.966,
+    "endTime": 8.966,
+    "fullTextZH": "你工作的地方会叫你化妆吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 2.086,
+        "endTime": 2.989,
+        "gloss": "you"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 2.989,
+        "endTime": 3.851,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 3.851,
+        "endTime": 4.072,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 4.072,
+        "endTime": 4.914,
+        "gloss": "place"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 4.914,
+        "endTime": 5.757,
+        "gloss": "will"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 5.757,
+        "endTime": 6.499,
+        "gloss": "ask"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 6.499,
+        "endTime": 7.422,
+        "gloss": "you"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 7.422,
+        "endTime": 8.424,
+        "gloss": "makeup"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 8.424,
+        "endTime": 8.926,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Does your workplace require you to wear makeup?"
+  },
+  {
+    "startTime": 10.266,
+    "endTime": 15.199,
+    "fullTextZH": "我在很多地方工作过。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 10.286,
+        "endTime": 11.229,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 11.229,
+        "endTime": 11.83,
+        "gloss": "at"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 11.83,
+        "endTime": 12.712,
+        "gloss": "many"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 12.712,
+        "endTime": 13.735,
+        "gloss": "places"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 13.735,
+        "endTime": 14.617,
+        "gloss": "work"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 14.617,
+        "endTime": 15.159,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "I have worked in many places."
+  },
+  {
+    "startTime": 15.533,
+    "endTime": 21.799,
+    "fullTextZH": "可是有3个地方叫我化妆。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 15.653,
+        "endTime": 16.634,
+        "gloss": "but"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 16.634,
+        "endTime": 17.375,
+        "gloss": "there"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 17.995,
+        "endTime": 18.416,
+        "gloss": "three"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 18.416,
+        "endTime": 19.317,
+        "gloss": "places"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 19.317,
+        "endTime": 19.817,
+        "gloss": "ask"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 19.817,
+        "endTime": 20.698,
+        "gloss": "me"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 20.698,
+        "endTime": 21.759,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "But there were three places that asked me to wear makeup."
+  },
+  {
+    "startTime": 22.8,
+    "endTime": 30.533,
+    "fullTextZH": "第一个地方是我在北京教中文的时候。",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 22.84,
+        "endTime": 23.982,
+        "gloss": "first"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 23.982,
+        "endTime": 24.763,
+        "gloss": "place"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 24.763,
+        "endTime": 25.605,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 25.605,
+        "endTime": 26.326,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 26.326,
+        "endTime": 26.947,
+        "gloss": "in"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 26.947,
+        "endTime": 27.929,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "教",
+        "pinyin": "jiào",
+        "startTime": 27.929,
+        "endTime": 28.449,
+        "gloss": "teach"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 28.449,
+        "endTime": 29.451,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 29.451,
+        "endTime": 29.672,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 29.672,
+        "endTime": 30.493,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "The first place was when I taught Chinese in Beijing."
+  },
+  {
+    "startTime": 30.9,
+    "endTime": 37.2,
+    "fullTextZH": "我在一个教韩国人的学校工作。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 31.0,
+        "endTime": 31.341,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 31.341,
+        "endTime": 31.803,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 31.803,
+        "endTime": 32.846,
+        "gloss": "a"
+      },
+      {
+        "word": "教",
+        "pinyin": "jiào",
+        "startTime": 32.846,
+        "endTime": 33.468,
+        "gloss": "teach"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 33.468,
+        "endTime": 34.431,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 34.431,
+        "endTime": 34.792,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.792,
+        "endTime": 35.454,
+        "gloss": "of"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 35.454,
+        "endTime": 36.277,
+        "gloss": "school"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 36.277,
+        "endTime": 37.16,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I worked at a school teaching Koreans."
+  },
+  {
+    "startTime": 38.1,
+    "endTime": 44.066,
+    "fullTextZH": "我的学生大部分是韩国人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 38.12,
+        "endTime": 38.44,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.44,
+        "endTime": 39.041,
+        "gloss": "of"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 39.041,
+        "endTime": 39.942,
+        "gloss": "students"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 39.942,
+        "endTime": 41.764,
+        "gloss": "most"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 41.764,
+        "endTime": 42.384,
+        "gloss": "are"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 42.384,
+        "endTime": 43.325,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 43.325,
+        "endTime": 44.026,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "Most of my students were Korean."
+  },
+  {
+    "startTime": 44.7,
+    "endTime": 49.1,
+    "fullTextZH": "大部分的学生，他们化妆。",
+    "words": [
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 44.8,
+        "endTime": 45.905,
+        "gloss": "most"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 45.905,
+        "endTime": 46.126,
+        "gloss": "of"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 46.126,
+        "endTime": 46.789,
+        "gloss": "students"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 47.051,
+        "endTime": 47.854,
+        "gloss": "they"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 47.854,
+        "endTime": 49.06,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "Most of the students wore makeup."
+  },
+  {
+    "startTime": 50.1,
+    "endTime": 54.333,
+    "fullTextZH": "所以我的校长叫，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 50.12,
+        "endTime": 50.983,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 50.983,
+        "endTime": 51.444,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 51.444,
+        "endTime": 52.146,
+        "gloss": "of"
+      },
+      {
+        "word": "校长",
+        "pinyin": "xiào zhǎng",
+        "startTime": 52.146,
+        "endTime": 53.771,
+        "gloss": "principal"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 53.771,
+        "endTime": 54.293,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "So my principal said,"
+  },
+  {
+    "startTime": 54.766,
+    "endTime": 59.133,
+    "fullTextZH": "我们所有人要化妆。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 54.826,
+        "endTime": 56.228,
+        "gloss": "we"
+      },
+      {
+        "word": "所有人",
+        "pinyin": "suǒ yǒu rén",
+        "startTime": 56.228,
+        "endTime": 57.831,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 57.831,
+        "endTime": 58.292,
+        "gloss": "must"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 58.292,
+        "endTime": 59.093,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "all of us had to wear makeup."
+  },
+  {
+    "startTime": 59.9,
+    "endTime": 63.133,
+    "fullTextZH": "我不喜欢化妆。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 59.92,
+        "endTime": 60.964,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 60.964,
+        "endTime": 61.386,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 61.386,
+        "endTime": 62.129,
+        "gloss": "like"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 62.129,
+        "endTime": 63.093,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "I don't like wearing makeup."
+  },
+  {
+    "startTime": 63.266,
+    "endTime": 67.566,
+    "fullTextZH": "我也不喜欢那个学校。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 63.346,
+        "endTime": 63.668,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 63.668,
+        "endTime": 64.331,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 64.331,
+        "endTime": 64.773,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 64.773,
+        "endTime": 65.798,
+        "gloss": "like"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 65.798,
+        "endTime": 66.622,
+        "gloss": "that"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 66.622,
+        "endTime": 67.526,
+        "gloss": "school"
+      }
+    ],
+    "fullTextEN": "I also didn't like that school."
+  },
+  {
+    "startTime": 67.733,
+    "endTime": 71.099,
+    "fullTextZH": "所以我没有听。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 67.913,
+        "endTime": 68.454,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 68.454,
+        "endTime": 69.276,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 69.276,
+        "endTime": 70.438,
+        "gloss": "didn't"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 70.438,
+        "endTime": 71.059,
+        "gloss": "listen"
+      }
+    ],
+    "fullTextEN": "So I didn't listen."
+  },
+  {
+    "startTime": 71.533,
+    "endTime": 74.066,
+    "fullTextZH": "我没有化妆。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 71.654,
+        "endTime": 72.196,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 72.196,
+        "endTime": 73.041,
+        "gloss": "didn't"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 73.041,
+        "endTime": 74.026,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "I didn't wear makeup."
+  },
+  {
+    "startTime": 76.366,
+    "endTime": 83.666,
+    "fullTextZH": "第二个地方是我在悉尼的第一个工作。",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 76.406,
+        "endTime": 77.248,
+        "gloss": "second"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 77.248,
+        "endTime": 77.99,
+        "gloss": "place"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 77.99,
+        "endTime": 78.692,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 78.692,
+        "endTime": 79.234,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 79.234,
+        "endTime": 80.116,
+        "gloss": "in"
+      },
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 80.116,
+        "endTime": 80.918,
+        "gloss": "Sydney"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 80.918,
+        "endTime": 81.62,
+        "gloss": "of"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 81.62,
+        "endTime": 82.784,
+        "gloss": "first"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 82.784,
+        "endTime": 83.626,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "The second place was my first job in Sydney."
+  },
+  {
+    "startTime": 85.133,
+    "endTime": 90.266,
+    "fullTextZH": "3年前我来悉尼的时候，",
+    "words": [
+      {
+        "word": "年前",
+        "pinyin": "nián qián",
+        "startTime": 85.434,
+        "endTime": 86.537,
+        "gloss": "three years"
+      },
+      {
+        "word": "我来",
+        "pinyin": "wǒ lái",
+        "startTime": 86.537,
+        "endTime": 88.321,
+        "gloss": "I came"
+      },
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 88.321,
+        "endTime": 89.103,
+        "gloss": "Sydney"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 89.103,
+        "endTime": 89.324,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 89.324,
+        "endTime": 90.246,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Three years ago when I came to Sydney,"
+  },
+  {
+    "startTime": 90.466,
+    "endTime": 94.666,
+    "fullTextZH": "我在一个日本饭店工作。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 90.566,
+        "endTime": 90.928,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 90.928,
+        "endTime": 91.27,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 91.27,
+        "endTime": 92.033,
+        "gloss": "a"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 92.033,
+        "endTime": 92.998,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 92.998,
+        "endTime": 93.722,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 93.722,
+        "endTime": 94.626,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I worked at a Japanese restaurant."
+  },
+  {
+    "startTime": 95.866,
+    "endTime": 101.466,
+    "fullTextZH": "我知道大部分日本人工作的时候，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 95.886,
+        "endTime": 96.328,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 96.328,
+        "endTime": 97.07,
+        "gloss": "know"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 97.07,
+        "endTime": 98.475,
+        "gloss": "most"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 98.475,
+        "endTime": 98.957,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 98.957,
+        "endTime": 99.7,
+        "gloss": "people"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 99.7,
+        "endTime": 100.322,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 100.322,
+        "endTime": 100.543,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 100.543,
+        "endTime": 101.426,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "I know that most Japanese people wear makeup at work,"
+  },
+  {
+    "startTime": 101.5,
+    "endTime": 107.166,
+    "fullTextZH": "要化妆，所以我也化妆。",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 101.56,
+        "endTime": 102.061,
+        "gloss": "must"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 102.061,
+        "endTime": 102.781,
+        "gloss": "makeup"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 103.522,
+        "endTime": 104.463,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 104.463,
+        "endTime": 105.044,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 105.044,
+        "endTime": 106.065,
+        "gloss": "also"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 106.065,
+        "endTime": 107.126,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "so I wore makeup too."
+  },
+  {
+    "startTime": 107.2,
+    "endTime": 109.266,
+    "fullTextZH": "去面试。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 107.34,
+        "endTime": 108.243,
+        "gloss": "for"
+      },
+      {
+        "word": "面试",
+        "pinyin": "miàn shì",
+        "startTime": 108.243,
+        "endTime": 109.226,
+        "gloss": "interview"
+      }
+    ],
+    "fullTextEN": "for the interview."
+  },
+  {
+    "startTime": 110.1,
+    "endTime": 112.5,
+    "fullTextZH": "我的经理说，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 110.12,
+        "endTime": 110.362,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 110.362,
+        "endTime": 110.826,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 110.826,
+        "endTime": 111.653,
+        "gloss": "manager"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 111.653,
+        "endTime": 112.46,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "My manager said,"
+  },
+  {
+    "startTime": 113.066,
+    "endTime": 116.599,
+    "fullTextZH": "工作的时候你要化妆。",
+    "words": [
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 113.207,
+        "endTime": 113.728,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 113.728,
+        "endTime": 113.929,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 113.929,
+        "endTime": 114.692,
+        "gloss": "time"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 114.692,
+        "endTime": 115.013,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 115.013,
+        "endTime": 115.595,
+        "gloss": "need"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 115.595,
+        "endTime": 116.559,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "You need to wear makeup at work."
+  },
+  {
+    "startTime": 117.133,
+    "endTime": 121.733,
+    "fullTextZH": "我说我化妆了，嗯。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 117.133,
+        "endTime": 117.615,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 117.615,
+        "endTime": 118.599,
+        "gloss": "said"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 118.599,
+        "endTime": 119.564,
+        "gloss": "I"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 119.564,
+        "endTime": 120.287,
+        "gloss": "makeup"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 120.287,
+        "endTime": 120.528,
+        "gloss": "did"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 121.15,
+        "endTime": 121.693,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "I said I put on makeup, hmm."
+  },
+  {
+    "startTime": 121.733,
+    "endTime": 128.733,
+    "fullTextZH": "他说，嗯，你这里这里要红一点儿。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 121.833,
+        "endTime": 122.174,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 122.174,
+        "endTime": 122.435,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 122.555,
+        "endTime": 123.017,
+        "gloss": "hmm"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 123.558,
+        "endTime": 123.859,
+        "gloss": "you"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 123.859,
+        "endTime": 125.123,
+        "gloss": "here"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 125.123,
+        "endTime": 126.186,
+        "gloss": "here"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 126.186,
+        "endTime": 126.848,
+        "gloss": "need"
+      },
+      {
+        "word": "红",
+        "pinyin": "hóng",
+        "startTime": 126.848,
+        "endTime": 127.61,
+        "gloss": "red"
+      },
+      {
+        "word": "一点儿",
+        "pinyin": "yì diǎn ér",
+        "startTime": 127.61,
+        "endTime": 128.693,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "He said, hmm, you need a bit more red here and here."
+  },
+  {
+    "startTime": 129.366,
+    "endTime": 137.166,
+    "fullTextZH": "所以我工作的时候，我常常化妆成这样。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 129.406,
+        "endTime": 130.349,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 130.349,
+        "endTime": 130.93,
+        "gloss": "I"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 130.93,
+        "endTime": 131.491,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 131.491,
+        "endTime": 131.732,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 131.732,
+        "endTime": 132.514,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 132.534,
+        "endTime": 132.975,
+        "gloss": "I"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 132.975,
+        "endTime": 134.84,
+        "gloss": "often"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 134.84,
+        "endTime": 135.662,
+        "gloss": "makeup"
+      },
+      {
+        "word": "成",
+        "pinyin": "chéng",
+        "startTime": 135.662,
+        "endTime": 136.204,
+        "gloss": "become"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 136.204,
+        "endTime": 136.885,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "So when I work, I often do my makeup like this."
+  },
+  {
+    "startTime": 137.933,
+    "endTime": 142.466,
+    "fullTextZH": "然后我的室友常常笑我，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 137.953,
+        "endTime": 138.515,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 138.515,
+        "endTime": 138.816,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 138.816,
+        "endTime": 139.197,
+        "gloss": "of"
+      },
+      {
+        "word": "室友",
+        "pinyin": "shì yǒu",
+        "startTime": 139.197,
+        "endTime": 139.939,
+        "gloss": "roommate"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 139.939,
+        "endTime": 140.922,
+        "gloss": "often"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 140.922,
+        "endTime": 141.644,
+        "gloss": "laugh"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 141.644,
+        "endTime": 142.165,
+        "gloss": "at me"
+      }
+    ],
+    "fullTextEN": "Then my roommate often laughs at me,"
+  },
+  {
+    "startTime": 142.566,
+    "endTime": 148.999,
+    "fullTextZH": "因为他觉得我化妆化的很可爱，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 142.646,
+        "endTime": 143.328,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 143.328,
+        "endTime": 143.849,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 143.849,
+        "endTime": 144.811,
+        "gloss": "thinks"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 144.811,
+        "endTime": 145.873,
+        "gloss": "I"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 145.873,
+        "endTime": 146.714,
+        "gloss": "makeup"
+      },
+      {
+        "word": "化",
+        "pinyin": "huà",
+        "startTime": 146.714,
+        "endTime": 147.055,
+        "gloss": "do"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 147.055,
+        "endTime": 147.696,
+        "gloss": "de"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 147.696,
+        "endTime": 148.157,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 148.157,
+        "endTime": 148.979,
+        "gloss": "cute"
+      }
+    ],
+    "fullTextEN": "because he thinks my makeup is very cute,"
+  },
+  {
+    "startTime": 149.066,
+    "endTime": 150.499,
+    "fullTextZH": "很奇怪。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 149.086,
+        "endTime": 149.571,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 149.571,
+        "endTime": 150.459,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "very strange."
+  },
+  {
+    "startTime": 151.8,
+    "endTime": 157.9,
+    "fullTextZH": "那个时候我很喜欢在日本饭店工作，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 151.8,
+        "endTime": 152.282,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 152.282,
+        "endTime": 153.164,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 153.164,
+        "endTime": 153.506,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 153.506,
+        "endTime": 154.168,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 154.168,
+        "endTime": 155.211,
+        "gloss": "like"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 155.211,
+        "endTime": 155.693,
+        "gloss": "at"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 155.693,
+        "endTime": 156.375,
+        "gloss": "Japan"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 156.375,
+        "endTime": 157.037,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 157.037,
+        "endTime": 157.88,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "At that time, I really liked working at a Japanese restaurant,"
+  },
+  {
+    "startTime": 158.0,
+    "endTime": 162.566,
+    "fullTextZH": "因为我的同事非常非常好。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 158.1,
+        "endTime": 159.061,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 159.061,
+        "endTime": 159.362,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 159.362,
+        "endTime": 159.522,
+        "gloss": "of"
+      },
+      {
+        "word": "同事",
+        "pinyin": "tóng shì",
+        "startTime": 159.522,
+        "endTime": 160.423,
+        "gloss": "colleagues"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 160.423,
+        "endTime": 161.304,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 161.304,
+        "endTime": 161.985,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 161.985,
+        "endTime": 162.526,
+        "gloss": "nice"
+      }
+    ],
+    "fullTextEN": "because my colleagues were very, very nice."
+  },
+  {
+    "startTime": 163.133,
+    "endTime": 169.099,
+    "fullTextZH": "虽然我的经理非常非常刻薄，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 163.153,
+        "endTime": 164.314,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 164.314,
+        "endTime": 164.594,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 164.594,
+        "endTime": 164.835,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 164.835,
+        "endTime": 165.936,
+        "gloss": "manager"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 165.936,
+        "endTime": 166.837,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 166.837,
+        "endTime": 167.838,
+        "gloss": "very"
+      },
+      {
+        "word": "刻薄",
+        "pinyin": "kè bó",
+        "startTime": 167.838,
+        "endTime": 168.518,
+        "gloss": "harsh"
+      }
+    ],
+    "fullTextEN": "Although my manager was very, very harsh,"
+  },
+  {
+    "startTime": 169.366,
+    "endTime": 175.166,
+    "fullTextZH": "可是我很想练习我的日语，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 169.506,
+        "endTime": 170.47,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 170.47,
+        "endTime": 171.413,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 171.413,
+        "endTime": 171.895,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 171.895,
+        "endTime": 172.356,
+        "gloss": "want"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 172.356,
+        "endTime": 173.36,
+        "gloss": "practice"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 173.36,
+        "endTime": 173.761,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 173.761,
+        "endTime": 174.343,
+        "gloss": "of"
+      },
+      {
+        "word": "日语",
+        "pinyin": "rì yǔ",
+        "startTime": 174.343,
+        "endTime": 175.126,
+        "gloss": "Japanese"
+      }
+    ],
+    "fullTextEN": "I really wanted to practice my Japanese,"
+  },
+  {
+    "startTime": 175.366,
+    "endTime": 178.499,
+    "fullTextZH": "所以我觉得没关系。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 175.487,
+        "endTime": 176.33,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 176.33,
+        "endTime": 176.611,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 176.611,
+        "endTime": 177.314,
+        "gloss": "think"
+      },
+      {
+        "word": "没关系",
+        "pinyin": "méi guān xì",
+        "startTime": 177.314,
+        "endTime": 178.459,
+        "gloss": "no problem"
+      }
+    ],
+    "fullTextEN": "so I thought it was okay."
+  },
+  {
+    "startTime": 178.5,
+    "endTime": 181.133,
+    "fullTextZH": "我可以化妆。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 178.58,
+        "endTime": 179.264,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 179.264,
+        "endTime": 180.128,
+        "gloss": "can"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 180.128,
+        "endTime": 181.093,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "I can wear makeup."
+  },
+  {
+    "startTime": 181.966,
+    "endTime": 187.066,
+    "fullTextZH": "第三个工作是我在悉尼的一个，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 182.006,
+        "endTime": 183.311,
+        "gloss": "third"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 183.311,
+        "endTime": 183.954,
+        "gloss": "job"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 183.954,
+        "endTime": 184.496,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 184.496,
+        "endTime": 184.817,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 184.817,
+        "endTime": 185.279,
+        "gloss": "in"
+      },
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 185.279,
+        "endTime": 185.901,
+        "gloss": "Sydney"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.901,
+        "endTime": 186.303,
+        "gloss": "of"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 186.303,
+        "endTime": 187.026,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "The third job was one I had in Sydney,"
+  },
+  {
+    "startTime": 187.2,
+    "endTime": 189.4,
+    "fullTextZH": "酒店工作。",
+    "words": [
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 187.301,
+        "endTime": 188.451,
+        "gloss": "hotel"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 188.451,
+        "endTime": 189.36,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "working at a hotel."
+  },
+  {
+    "startTime": 190.066,
+    "endTime": 193.966,
+    "fullTextZH": "有一天一个客人投诉，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 190.167,
+        "endTime": 190.408,
+        "gloss": "have"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 190.408,
+        "endTime": 191.453,
+        "gloss": "one day"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 191.453,
+        "endTime": 192.056,
+        "gloss": "a"
+      },
+      {
+        "word": "客人",
+        "pinyin": "kè rén",
+        "startTime": 192.056,
+        "endTime": 193.001,
+        "gloss": "guest"
+      },
+      {
+        "word": "投诉",
+        "pinyin": "tóu sù",
+        "startTime": 193.001,
+        "endTime": 193.926,
+        "gloss": "complained"
+      }
+    ],
+    "fullTextEN": "One day a guest complained,"
+  },
+  {
+    "startTime": 194.1,
+    "endTime": 199.866,
+    "fullTextZH": "他说有一个服务员没有化妆。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 194.18,
+        "endTime": 194.5,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 194.5,
+        "endTime": 195.321,
+        "gloss": "said"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 195.321,
+        "endTime": 195.562,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 195.562,
+        "endTime": 196.322,
+        "gloss": "a"
+      },
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 196.322,
+        "endTime": 197.764,
+        "gloss": "waiter"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 197.764,
+        "endTime": 198.865,
+        "gloss": "not"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 198.865,
+        "endTime": 199.826,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "saying a waiter wasn't wearing makeup."
+  },
+  {
+    "startTime": 200.733,
+    "endTime": 205.333,
+    "fullTextZH": "然后经理给我们写邮件，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 200.733,
+        "endTime": 201.577,
+        "gloss": "then"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 201.577,
+        "endTime": 202.782,
+        "gloss": "manager"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 202.782,
+        "endTime": 203.164,
+        "gloss": "to"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 203.164,
+        "endTime": 204.027,
+        "gloss": "us"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 204.027,
+        "endTime": 204.509,
+        "gloss": "write"
+      },
+      {
+        "word": "邮件",
+        "pinyin": "yóu jiàn",
+        "startTime": 204.509,
+        "endTime": 205.293,
+        "gloss": "email"
+      }
+    ],
+    "fullTextEN": "Then the manager emailed us,"
+  },
+  {
+    "startTime": 205.6,
+    "endTime": 210.466,
+    "fullTextZH": "经理说，你们都要化妆。",
+    "words": [
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 205.68,
+        "endTime": 206.541,
+        "gloss": "manager"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 206.541,
+        "endTime": 207.262,
+        "gloss": "said"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 207.422,
+        "endTime": 208.564,
+        "gloss": "you all"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 208.564,
+        "endTime": 209.084,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 209.084,
+        "endTime": 209.525,
+        "gloss": "need"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 209.525,
+        "endTime": 210.426,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "saying we all need to wear makeup."
+  },
+  {
+    "startTime": 211.1,
+    "endTime": 215.133,
+    "fullTextZH": "那个时候我想，嗯，好。",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 211.12,
+        "endTime": 211.602,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 211.602,
+        "endTime": 212.484,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 212.484,
+        "endTime": 213.066,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 213.066,
+        "endTime": 213.407,
+        "gloss": "thought"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 213.749,
+        "endTime": 214.11,
+        "gloss": "hmm"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 214.471,
+        "endTime": 215.093,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "At that time, I thought, hmm, okay."
+  },
+  {
+    "startTime": 215.2,
+    "endTime": 219.1,
+    "fullTextZH": "如果经理叫我化妆，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 215.341,
+        "endTime": 216.165,
+        "gloss": "if"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 216.165,
+        "endTime": 216.989,
+        "gloss": "manager"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 216.989,
+        "endTime": 217.532,
+        "gloss": "asks"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 217.532,
+        "endTime": 218.135,
+        "gloss": "me"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 218.135,
+        "endTime": 219.06,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "If the manager asks me to wear makeup,"
+  },
+  {
+    "startTime": 219.133,
+    "endTime": 222.399,
+    "fullTextZH": "我当然要化妆。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 219.213,
+        "endTime": 219.995,
+        "gloss": "I"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 219.995,
+        "endTime": 220.856,
+        "gloss": "of course"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 220.856,
+        "endTime": 221.517,
+        "gloss": "will"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 221.517,
+        "endTime": 222.359,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "Of course, I will wear makeup."
+  },
+  {
+    "startTime": 222.966,
+    "endTime": 227.366,
+    "fullTextZH": "可是我有一个同事，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 222.986,
+        "endTime": 224.151,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 224.151,
+        "endTime": 224.975,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 224.975,
+        "endTime": 225.759,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 225.759,
+        "endTime": 226.361,
+        "gloss": "a"
+      },
+      {
+        "word": "同事",
+        "pinyin": "tóng shì",
+        "startTime": 226.361,
+        "endTime": 227.346,
+        "gloss": "colleague"
+      }
+    ],
+    "fullTextEN": "But I have a colleague,"
+  },
+  {
+    "startTime": 227.6,
+    "endTime": 230.266,
+    "fullTextZH": "我很喜欢她。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 227.68,
+        "endTime": 228.001,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 228.001,
+        "endTime": 228.783,
+        "gloss": "really"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 228.783,
+        "endTime": 229.625,
+        "gloss": "like"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 229.625,
+        "endTime": 230.226,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "I really like her."
+  },
+  {
+    "startTime": 230.3,
+    "endTime": 233.666,
+    "fullTextZH": "她是我的好朋友。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 230.4,
+        "endTime": 230.721,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 230.721,
+        "endTime": 231.021,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 231.021,
+        "endTime": 231.362,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 231.362,
+        "endTime": 232.003,
+        "gloss": "of"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 232.003,
+        "endTime": 232.504,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 232.504,
+        "endTime": 233.626,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "She is my good friend."
+  },
+  {
+    "startTime": 234.4,
+    "endTime": 237.8,
+    "fullTextZH": "她是一个阿根廷人，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 234.4,
+        "endTime": 234.762,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 234.762,
+        "endTime": 235.024,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 235.024,
+        "endTime": 235.828,
+        "gloss": "an"
+      },
+      {
+        "word": "阿根廷",
+        "pinyin": "ā gēn tíng",
+        "startTime": 235.828,
+        "endTime": 237.136,
+        "gloss": "Argentina"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 237.136,
+        "endTime": 237.76,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "She is an Argentinian,"
+  },
+  {
+    "startTime": 238.166,
+    "endTime": 242.499,
+    "fullTextZH": "她是一个女权主义者。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 238.266,
+        "endTime": 238.567,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 238.567,
+        "endTime": 238.788,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 238.788,
+        "endTime": 239.65,
+        "gloss": "a"
+      },
+      {
+        "word": "女权主义者",
+        "pinyin": "nǚ quán zhǔ yì zhě",
+        "startTime": 239.65,
+        "endTime": 242.459,
+        "gloss": "feminist"
+      }
+    ],
+    "fullTextEN": "She is a feminist."
+  },
+  {
+    "startTime": 243.166,
+    "endTime": 248.166,
+    "fullTextZH": "她听到经理叫我们化妆，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 243.186,
+        "endTime": 243.809,
+        "gloss": "she"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 243.809,
+        "endTime": 245.154,
+        "gloss": "heard"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 245.154,
+        "endTime": 246.017,
+        "gloss": "manager"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 246.017,
+        "endTime": 246.459,
+        "gloss": "ask"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 246.459,
+        "endTime": 247.282,
+        "gloss": "us"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 247.282,
+        "endTime": 248.126,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "When she heard the manager ask us to wear makeup,"
+  },
+  {
+    "startTime": 248.366,
+    "endTime": 250.733,
+    "fullTextZH": "她说，嗯，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 248.426,
+        "endTime": 248.908,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 248.908,
+        "endTime": 249.409,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 249.991,
+        "endTime": 250.693,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "She said, hmm,"
+  },
+  {
+    "startTime": 250.733,
+    "endTime": 257.299,
+    "fullTextZH": "为什么我觉得经理性别歧视？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 250.833,
+        "endTime": 251.814,
+        "gloss": "why"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 251.814,
+        "endTime": 252.334,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 252.334,
+        "endTime": 253.295,
+        "gloss": "feel"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 253.295,
+        "endTime": 254.777,
+        "gloss": "manager"
+      },
+      {
+        "word": "性别歧视",
+        "pinyin": "xìng bié qí shì",
+        "startTime": 254.777,
+        "endTime": 257.259,
+        "gloss": "sexist"
+      }
+    ],
+    "fullTextEN": "Why do I feel the manager is sexist?"
+  },
+  {
+    "startTime": 258.566,
+    "endTime": 263.166,
+    "fullTextZH": "所以她决定她不要化妆。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 258.606,
+        "endTime": 259.209,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 259.209,
+        "endTime": 259.811,
+        "gloss": "she"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 259.811,
+        "endTime": 260.535,
+        "gloss": "decided"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 260.535,
+        "endTime": 261.137,
+        "gloss": "she"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 261.137,
+        "endTime": 262.182,
+        "gloss": "wouldn't"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 262.182,
+        "endTime": 263.126,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "So she decided she wouldn't wear makeup."
+  },
+  {
+    "startTime": 263.466,
+    "endTime": 265.766,
+    "fullTextZH": "所以我们，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 263.567,
+        "endTime": 264.596,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 264.596,
+        "endTime": 265.726,
+        "gloss": "we"
+      }
+    ],
+    "fullTextEN": "So we,"
+  },
+  {
+    "startTime": 265.766,
+    "endTime": 269.733,
+    "fullTextZH": "都决定我们不要化妆。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 265.886,
+        "endTime": 266.267,
+        "gloss": "all"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 266.267,
+        "endTime": 267.108,
+        "gloss": "decided"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 267.108,
+        "endTime": 267.99,
+        "gloss": "we"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 267.99,
+        "endTime": 269.012,
+        "gloss": "wouldn't"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 269.012,
+        "endTime": 269.693,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "All decided we wouldn't wear makeup."
+  },
+  {
+    "startTime": 270.333,
+    "endTime": 271.533,
+    "fullTextZH": "你觉得，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 270.353,
+        "endTime": 270.719,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 270.719,
+        "endTime": 271.492,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Do you think,"
+  },
+  {
+    "startTime": 271.7,
+    "endTime": 278.1,
+    "fullTextZH": "我们的经理有没有炒我们的鱿鱼？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 271.76,
+        "endTime": 272.182,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.182,
+        "endTime": 272.543,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 272.543,
+        "endTime": 273.466,
+        "gloss": "manager"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 273.466,
+        "endTime": 274.85,
+        "gloss": "didn't"
+      },
+      {
+        "word": "炒",
+        "pinyin": "chǎo",
+        "startTime": 274.85,
+        "endTime": 275.713,
+        "gloss": "fire"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 275.713,
+        "endTime": 276.314,
+        "gloss": "us"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 276.314,
+        "endTime": 276.936,
+        "gloss": "of"
+      },
+      {
+        "word": "鱿鱼",
+        "pinyin": "yóu yú",
+        "startTime": 276.936,
+        "endTime": 278.06,
+        "gloss": "squid"
+      }
+    ],
+    "fullTextEN": "Did our manager fire us?"
+  },
+  {
+    "startTime": 278.7,
+    "endTime": 279.6,
+    "fullTextZH": "没有。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 278.761,
+        "endTime": 279.559,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No."
+  },
+  {
+    "startTime": 280.333,
+    "endTime": 285.266,
+    "fullTextZH": "经理最喜欢我和我的好朋友，",
+    "words": [
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 280.433,
+        "endTime": 281.035,
+        "gloss": "manager"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 281.035,
+        "endTime": 281.496,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 281.496,
+        "endTime": 282.278,
+        "gloss": "likes"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 282.278,
+        "endTime": 282.84,
+        "gloss": "me"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 282.84,
+        "endTime": 283.14,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 283.14,
+        "endTime": 283.421,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 283.421,
+        "endTime": 283.963,
+        "gloss": "of"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 283.963,
+        "endTime": 284.344,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 284.344,
+        "endTime": 285.226,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "The manager likes me and my good friend the most,"
+  },
+  {
+    "startTime": 285.4,
+    "endTime": 289.6,
+    "fullTextZH": "所以我们没有化妆。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 285.5,
+        "endTime": 286.385,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 286.385,
+        "endTime": 287.57,
+        "gloss": "we"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 287.57,
+        "endTime": 288.595,
+        "gloss": "didn't"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 288.595,
+        "endTime": 289.56,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "So we didn't wear makeup."
+  },
+  {
+    "startTime": 289.6,
+    "endTime": 294.966,
+    "fullTextZH": "我们继续在这个酒店工作。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 289.7,
+        "endTime": 290.521,
+        "gloss": "we"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 290.521,
+        "endTime": 291.722,
+        "gloss": "continued"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 291.722,
+        "endTime": 292.263,
+        "gloss": "at"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 292.263,
+        "endTime": 293.044,
+        "gloss": "this"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 293.044,
+        "endTime": 293.965,
+        "gloss": "hotel"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 293.965,
+        "endTime": 294.926,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "We continued working at this hotel."
+  },
+  {
+    "startTime": 295.333,
+    "endTime": 298.933,
+    "fullTextZH": "你呢？你在工作的时候，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 295.434,
+        "endTime": 295.635,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 295.635,
+        "endTime": 295.916,
+        "gloss": "呢"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 296.721,
+        "endTime": 297.083,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 297.083,
+        "endTime": 297.485,
+        "gloss": "at"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 297.485,
+        "endTime": 298.008,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 298.008,
+        "endTime": 298.229,
+        "gloss": "的"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 298.229,
+        "endTime": 298.893,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "What about you? When you are working,"
+  },
+  {
+    "startTime": 298.933,
+    "endTime": 303.466,
+    "fullTextZH": "有没有人叫你必须化妆？",
+    "words": [
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 299.013,
+        "endTime": 299.735,
+        "gloss": "is there"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 299.735,
+        "endTime": 300.217,
+        "gloss": "person"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 300.217,
+        "endTime": 300.798,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 300.798,
+        "endTime": 301.581,
+        "gloss": "you"
+      },
+      {
+        "word": "必须",
+        "pinyin": "bì xū",
+        "startTime": 301.581,
+        "endTime": 302.543,
+        "gloss": "must"
+      },
+      {
+        "word": "化妆",
+        "pinyin": "huà zhuāng",
+        "startTime": 302.543,
+        "endTime": 303.426,
+        "gloss": "makeup"
+      }
+    ],
+    "fullTextEN": "Is there anyone who tells you that you must wear makeup?"
+  },
+  {
+    "startTime": 303.7,
+    "endTime": 308.8,
+    "fullTextZH": "你觉得这个公平不公平？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 303.82,
+        "endTime": 304.322,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 304.322,
+        "endTime": 305.367,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 305.367,
+        "endTime": 306.451,
+        "gloss": "this"
+      },
+      {
+        "word": "公平",
+        "pinyin": "gōng píng",
+        "startTime": 306.451,
+        "endTime": 307.716,
+        "gloss": "fair"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 307.716,
+        "endTime": 307.917,
+        "gloss": "not"
+      },
+      {
+        "word": "公平",
+        "pinyin": "gōng píng",
+        "startTime": 307.917,
+        "endTime": 308.76,
+        "gloss": "fair"
+      }
+    ],
+    "fullTextEN": "Do you think this is fair or unfair?"
+  },
+  {
+    "startTime": 309.333,
+    "endTime": 312.466,
+    "fullTextZH": "请留言告诉我。",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 309.373,
+        "endTime": 309.956,
+        "gloss": "please"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 309.956,
+        "endTime": 311.04,
+        "gloss": "leave message"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 311.04,
+        "endTime": 311.783,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 311.783,
+        "endTime": 312.426,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Please leave a message and tell me."
+  },
+  {
+    "startTime": 312.966,
+    "endTime": 314.566,
+    "fullTextZH": "谢谢，再见。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 313.027,
+        "endTime": 313.574,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 313.736,
+        "endTime": 314.525,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye."
+  }
+]

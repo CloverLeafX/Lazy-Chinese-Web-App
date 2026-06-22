@@ -1,0 +1,7526 @@
+[
+  {
+    "startTime": 0.233,
+    "endTime": 2.3,
+    "fullTextZH": "大家好，我是Yvonne，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.293,
+        "endTime": 0.594,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 0.594,
+        "endTime": 0.935,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.196,
+        "endTime": 1.417,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.417,
+        "endTime": 1.598,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "Hello everyone, I am Yvonne,"
+  },
+  {
+    "startTime": 2.366,
+    "endTime": 3.9,
+    "fullTextZH": "我是台湾人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.386,
+        "endTime": 2.527,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.527,
+        "endTime": 2.81,
+        "gloss": "am"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 2.81,
+        "endTime": 3.86,
+        "gloss": "Taiwanese"
+      }
+    ],
+    "fullTextEN": "I am Taiwanese."
+  },
+  {
+    "startTime": 4.033,
+    "endTime": 7.233,
+    "fullTextZH": "欢迎来到中医小教室。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 4.114,
+        "endTime": 4.536,
+        "gloss": "welcome"
+      },
+      {
+        "word": "来到",
+        "pinyin": "lái dào",
+        "startTime": 4.536,
+        "endTime": 5.402,
+        "gloss": "to"
+      },
+      {
+        "word": "中医",
+        "pinyin": "zhōng yī",
+        "startTime": 5.402,
+        "endTime": 5.985,
+        "gloss": "Chinese medicine"
+      },
+      {
+        "word": "小教室",
+        "pinyin": "xiǎo jiào shì",
+        "startTime": 5.985,
+        "endTime": 7.213,
+        "gloss": "mini-class"
+      }
+    ],
+    "fullTextEN": "Welcome to the Chinese medicine mini-class."
+  },
+  {
+    "startTime": 7.7,
+    "endTime": 11.466,
+    "fullTextZH": "今天我想跟大家聊聊太极。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 7.88,
+        "endTime": 8.361,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 8.361,
+        "endTime": 8.541,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 8.541,
+        "endTime": 8.802,
+        "gloss": "want"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 8.802,
+        "endTime": 9.002,
+        "gloss": "with"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 9.002,
+        "endTime": 9.443,
+        "gloss": "everyone"
+      },
+      {
+        "word": "聊聊",
+        "pinyin": "liáo liáo",
+        "startTime": 9.443,
+        "endTime": 10.244,
+        "gloss": "talk"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 10.244,
+        "endTime": 11.426,
+        "gloss": "Tai Chi"
+      }
+    ],
+    "fullTextEN": "Today I want to talk with everyone about Tai Chi."
+  },
+  {
+    "startTime": 12.033,
+    "endTime": 13.466,
+    "fullTextZH": "在中医里，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 12.235,
+        "endTime": 12.558,
+        "gloss": "in"
+      },
+      {
+        "word": "中医",
+        "pinyin": "zhōng yī",
+        "startTime": 12.558,
+        "endTime": 13.062,
+        "gloss": "Chinese medicine"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 13.062,
+        "endTime": 13.426,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "In Chinese medicine,"
+  },
+  {
+    "startTime": 13.466,
+    "endTime": 16.566,
+    "fullTextZH": "医生会用阴阳，",
+    "words": [
+      {
+        "word": "医生",
+        "pinyin": "yī shēng",
+        "startTime": 13.547,
+        "endTime": 14.13,
+        "gloss": "doctors"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 14.13,
+        "endTime": 14.311,
+        "gloss": "will"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 14.311,
+        "endTime": 14.855,
+        "gloss": "use"
+      },
+      {
+        "word": "阴阳",
+        "pinyin": "yīn yáng",
+        "startTime": 14.855,
+        "endTime": 16.526,
+        "gloss": "yin and yang"
+      }
+    ],
+    "fullTextEN": "Doctors use yin and yang,"
+  },
+  {
+    "startTime": 16.666,
+    "endTime": 21.166,
+    "fullTextZH": "来看病人的身体有什么问题。",
+    "words": [
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 16.726,
+        "endTime": 17.972,
+        "gloss": "to see"
+      },
+      {
+        "word": "病人",
+        "pinyin": "bìng rén",
+        "startTime": 17.972,
+        "endTime": 18.494,
+        "gloss": "patient"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 18.494,
+        "endTime": 18.755,
+        "gloss": "'s"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 18.755,
+        "endTime": 19.8,
+        "gloss": "body"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 19.8,
+        "endTime": 20.081,
+        "gloss": "has"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 20.081,
+        "endTime": 20.403,
+        "gloss": "what"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 20.403,
+        "endTime": 21.126,
+        "gloss": "problems"
+      }
+    ],
+    "fullTextEN": "to see what problems the patient's body has."
+  },
+  {
+    "startTime": 22.066,
+    "endTime": 24.233,
+    "fullTextZH": "欸，那什么是阴，",
+    "words": [
+      {
+        "word": "欸",
+        "pinyin": "āi",
+        "startTime": 22.086,
+        "endTime": 22.367,
+        "gloss": "so"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 22.548,
+        "endTime": 22.969,
+        "gloss": "then"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 22.969,
+        "endTime": 23.31,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 23.31,
+        "endTime": 23.671,
+        "gloss": "is"
+      },
+      {
+        "word": "阴",
+        "pinyin": "yīn",
+        "startTime": 23.671,
+        "endTime": 24.193,
+        "gloss": "yin"
+      }
+    ],
+    "fullTextEN": "So, what is yin,"
+  },
+  {
+    "startTime": 24.233,
+    "endTime": 25.733,
+    "fullTextZH": "什么是阳呢？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 24.334,
+        "endTime": 24.638,
+        "gloss": "what"
+      },
+      {
+        "word": "是阳",
+        "pinyin": "shì yáng",
+        "startTime": 24.638,
+        "endTime": 25.348,
+        "gloss": "is yang"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 25.348,
+        "endTime": 25.692,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "and what is yang?"
+  },
+  {
+    "startTime": 26.966,
+    "endTime": 29.933,
+    "fullTextZH": "阴阳，它们是相反，",
+    "words": [
+      {
+        "word": "阴阳",
+        "pinyin": "yīn yáng",
+        "startTime": 27.046,
+        "endTime": 27.768,
+        "gloss": "yin and yang"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 28.029,
+        "endTime": 28.409,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 28.409,
+        "endTime": 28.951,
+        "gloss": "are"
+      },
+      {
+        "word": "相反",
+        "pinyin": "xiāng fǎn",
+        "startTime": 28.951,
+        "endTime": 29.893,
+        "gloss": "opposite"
+      }
+    ],
+    "fullTextEN": "Yin and yang, they are opposites,"
+  },
+  {
+    "startTime": 30.466,
+    "endTime": 32.733,
+    "fullTextZH": "它们是相反的东西。",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 30.486,
+        "endTime": 30.787,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 30.787,
+        "endTime": 31.228,
+        "gloss": "are"
+      },
+      {
+        "word": "相反",
+        "pinyin": "xiāng fǎn",
+        "startTime": 31.228,
+        "endTime": 31.89,
+        "gloss": "opposite"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 31.89,
+        "endTime": 32.011,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 32.011,
+        "endTime": 32.693,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "they are opposite things."
+  },
+  {
+    "startTime": 33.233,
+    "endTime": 36.266,
+    "fullTextZH": "比如说，阴代表晚上，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 33.313,
+        "endTime": 33.896,
+        "gloss": "for example"
+      },
+      {
+        "word": "阴",
+        "pinyin": "yīn",
+        "startTime": 34.036,
+        "endTime": 34.739,
+        "gloss": "yin"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 34.739,
+        "endTime": 35.362,
+        "gloss": "represents"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 35.362,
+        "endTime": 36.226,
+        "gloss": "night"
+      }
+    ],
+    "fullTextEN": "For example, yin represents night,"
+  },
+  {
+    "startTime": 36.733,
+    "endTime": 38.966,
+    "fullTextZH": "阳代表早上，",
+    "words": [
+      {
+        "word": "阳",
+        "pinyin": "yáng",
+        "startTime": 36.813,
+        "endTime": 37.477,
+        "gloss": "yang"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 37.477,
+        "endTime": 38.041,
+        "gloss": "represents"
+      },
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 38.041,
+        "endTime": 38.926,
+        "gloss": "morning"
+      }
+    ],
+    "fullTextEN": "yang represents morning,"
+  },
+  {
+    "startTime": 39.733,
+    "endTime": 42.033,
+    "fullTextZH": "阴代表水，",
+    "words": [
+      {
+        "word": "阴",
+        "pinyin": "yīn",
+        "startTime": 39.794,
+        "endTime": 40.399,
+        "gloss": "yin"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 40.399,
+        "endTime": 41.085,
+        "gloss": "represents"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 41.085,
+        "endTime": 41.993,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "yin represents water,"
+  },
+  {
+    "startTime": 42.4,
+    "endTime": 45.066,
+    "fullTextZH": "阳代表火，",
+    "words": [
+      {
+        "word": "阳",
+        "pinyin": "yáng",
+        "startTime": 42.5,
+        "endTime": 43.142,
+        "gloss": "yang"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 43.142,
+        "endTime": 44.124,
+        "gloss": "represents"
+      },
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 44.124,
+        "endTime": 45.026,
+        "gloss": "fire"
+      }
+    ],
+    "fullTextEN": "yang represents fire,"
+  },
+  {
+    "startTime": 45.9,
+    "endTime": 47.933,
+    "fullTextZH": "阴代表冷，",
+    "words": [
+      {
+        "word": "阴",
+        "pinyin": "yīn",
+        "startTime": 46.021,
+        "endTime": 46.584,
+        "gloss": "yin"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 46.584,
+        "endTime": 47.269,
+        "gloss": "represents"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 47.269,
+        "endTime": 47.893,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "yin represents cold,"
+  },
+  {
+    "startTime": 48.566,
+    "endTime": 50.333,
+    "fullTextZH": "阳代表热。",
+    "words": [
+      {
+        "word": "阳",
+        "pinyin": "yáng",
+        "startTime": 48.566,
+        "endTime": 49.128,
+        "gloss": "yang"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 49.128,
+        "endTime": 49.65,
+        "gloss": "represents"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 49.65,
+        "endTime": 50.293,
+        "gloss": "heat"
+      }
+    ],
+    "fullTextEN": "yang represents heat."
+  },
+  {
+    "startTime": 51.333,
+    "endTime": 55.066,
+    "fullTextZH": "所以，阴阳它们是相反的，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 51.433,
+        "endTime": 51.775,
+        "gloss": "so"
+      },
+      {
+        "word": "阴阳",
+        "pinyin": "yīn yáng",
+        "startTime": 51.895,
+        "endTime": 52.979,
+        "gloss": "yin and yang"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 52.979,
+        "endTime": 53.38,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 53.38,
+        "endTime": 54.022,
+        "gloss": "are"
+      },
+      {
+        "word": "相反",
+        "pinyin": "xiāng fǎn",
+        "startTime": 54.022,
+        "endTime": 54.645,
+        "gloss": "opposite"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 54.645,
+        "endTime": 55.026,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "So, yin and yang are opposites,"
+  },
+  {
+    "startTime": 55.266,
+    "endTime": 57.666,
+    "fullTextZH": "它们是相反的，对吧？",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 55.306,
+        "endTime": 55.649,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 55.649,
+        "endTime": 55.992,
+        "gloss": "are"
+      },
+      {
+        "word": "相反",
+        "pinyin": "xiāng fǎn",
+        "startTime": 55.992,
+        "endTime": 56.557,
+        "gloss": "opposite"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 56.557,
+        "endTime": 56.96,
+        "gloss": "of"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 57.061,
+        "endTime": 57.202,
+        "gloss": "right"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 57.202,
+        "endTime": 57.626,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "they are opposites, right?"
+  },
+  {
+    "startTime": 58.166,
+    "endTime": 60.5,
+    "fullTextZH": "就像太极这个图，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 58.267,
+        "endTime": 58.428,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 58.428,
+        "endTime": 58.89,
+        "gloss": "like"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 58.89,
+        "endTime": 59.615,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 59.615,
+        "endTime": 59.916,
+        "gloss": "this"
+      },
+      {
+        "word": "图",
+        "pinyin": "tú",
+        "startTime": 59.916,
+        "endTime": 60.46,
+        "gloss": "symbol"
+      }
+    ],
+    "fullTextEN": "Just like the Tai Chi symbol,"
+  },
+  {
+    "startTime": 60.666,
+    "endTime": 63.9,
+    "fullTextZH": "太极有黑色也有白色，",
+    "words": [
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 60.706,
+        "endTime": 61.429,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 61.429,
+        "endTime": 61.69,
+        "gloss": "has"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 61.69,
+        "endTime": 62.655,
+        "gloss": "black"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 62.655,
+        "endTime": 62.795,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 62.795,
+        "endTime": 63.056,
+        "gloss": "has"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 63.056,
+        "endTime": 63.86,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "Tai Chi has black and also has white,"
+  },
+  {
+    "startTime": 64.266,
+    "endTime": 68.466,
+    "fullTextZH": "那黑色、白色，它们是相反的颜色，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 64.306,
+        "endTime": 64.487,
+        "gloss": "that"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 64.487,
+        "endTime": 65.03,
+        "gloss": "black"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 65.15,
+        "endTime": 65.693,
+        "gloss": "white"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 66.055,
+        "endTime": 66.396,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 66.396,
+        "endTime": 66.838,
+        "gloss": "are"
+      },
+      {
+        "word": "相反",
+        "pinyin": "xiāng fǎn",
+        "startTime": 66.838,
+        "endTime": 67.501,
+        "gloss": "opposite"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 67.501,
+        "endTime": 67.642,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 67.642,
+        "endTime": 68.426,
+        "gloss": "colors"
+      }
+    ],
+    "fullTextEN": "The black and white, they are opposite colors,"
+  },
+  {
+    "startTime": 68.466,
+    "endTime": 69.433,
+    "fullTextZH": "对吧？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 68.567,
+        "endTime": 68.667,
+        "gloss": "right"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 68.667,
+        "endTime": 69.393,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Right?"
+  },
+  {
+    "startTime": 69.433,
+    "endTime": 73.466,
+    "fullTextZH": "所以太极的黑色就代表阴，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 69.553,
+        "endTime": 70.055,
+        "gloss": "so"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 70.055,
+        "endTime": 70.657,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 70.657,
+        "endTime": 70.938,
+        "gloss": "of"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 70.938,
+        "endTime": 72.001,
+        "gloss": "black"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 72.001,
+        "endTime": 72.182,
+        "gloss": "then"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 72.182,
+        "endTime": 72.924,
+        "gloss": "represents"
+      },
+      {
+        "word": "阴",
+        "pinyin": "yīn",
+        "startTime": 72.924,
+        "endTime": 73.426,
+        "gloss": "yin"
+      }
+    ],
+    "fullTextEN": "So the black in Tai Chi represents yin,"
+  },
+  {
+    "startTime": 73.766,
+    "endTime": 77.4,
+    "fullTextZH": "太极的白色是代表阳。",
+    "words": [
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 73.846,
+        "endTime": 74.408,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 74.408,
+        "endTime": 74.71,
+        "gloss": "of"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 74.71,
+        "endTime": 75.673,
+        "gloss": "white"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 75.673,
+        "endTime": 75.834,
+        "gloss": "is"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 75.834,
+        "endTime": 76.677,
+        "gloss": "represents"
+      },
+      {
+        "word": "阳",
+        "pinyin": "yáng",
+        "startTime": 76.677,
+        "endTime": 77.36,
+        "gloss": "yang"
+      }
+    ],
+    "fullTextEN": "The white in Tai Chi represents yang."
+  },
+  {
+    "startTime": 77.8,
+    "endTime": 82.066,
+    "fullTextZH": "那这个跟中医有什么关系呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 77.86,
+        "endTime": 78.241,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 78.241,
+        "endTime": 78.761,
+        "gloss": "this"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 78.761,
+        "endTime": 79.182,
+        "gloss": "with"
+      },
+      {
+        "word": "中医",
+        "pinyin": "zhōng yī",
+        "startTime": 79.182,
+        "endTime": 80.304,
+        "gloss": "Chinese medicine"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 80.304,
+        "endTime": 80.584,
+        "gloss": "has"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 80.584,
+        "endTime": 80.984,
+        "gloss": "what"
+      },
+      {
+        "word": "关系",
+        "pinyin": "guān xì",
+        "startTime": 80.984,
+        "endTime": 81.525,
+        "gloss": "relation"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 81.525,
+        "endTime": 82.026,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So what does this have to do with Chinese medicine?"
+  },
+  {
+    "startTime": 82.9,
+    "endTime": 85.766,
+    "fullTextZH": "我们之后会跟大家说。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 82.98,
+        "endTime": 83.421,
+        "gloss": "we"
+      },
+      {
+        "word": "之后",
+        "pinyin": "zhī hòu",
+        "startTime": 83.421,
+        "endTime": 84.143,
+        "gloss": "later"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 84.143,
+        "endTime": 84.323,
+        "gloss": "will"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 84.323,
+        "endTime": 84.584,
+        "gloss": "with"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 84.584,
+        "endTime": 85.125,
+        "gloss": "everyone"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 85.125,
+        "endTime": 85.726,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "We will tell everyone later."
+  },
+  {
+    "startTime": 86.033,
+    "endTime": 89.0,
+    "fullTextZH": "今天我们要先来看看，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 86.073,
+        "endTime": 86.835,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 86.835,
+        "endTime": 87.116,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 87.116,
+        "endTime": 87.396,
+        "gloss": "will"
+      },
+      {
+        "word": "先来",
+        "pinyin": "xiān lái",
+        "startTime": 87.396,
+        "endTime": 87.998,
+        "gloss": "first"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 87.998,
+        "endTime": 88.96,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Today we will first take a look,"
+  },
+  {
+    "startTime": 89.266,
+    "endTime": 92.433,
+    "fullTextZH": "为什么太极是圆形的。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 89.366,
+        "endTime": 90.068,
+        "gloss": "why"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 90.068,
+        "endTime": 90.649,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 90.649,
+        "endTime": 91.331,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 91.331,
+        "endTime": 92.012,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 92.012,
+        "endTime": 92.393,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "why Tai Chi is circular."
+  },
+  {
+    "startTime": 93.533,
+    "endTime": 97.633,
+    "fullTextZH": "可能大部分的人都看过太极，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 93.593,
+        "endTime": 94.156,
+        "gloss": "perhaps"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 94.156,
+        "endTime": 94.92,
+        "gloss": "most"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 94.92,
+        "endTime": 95.081,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 95.081,
+        "endTime": 95.462,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 95.462,
+        "endTime": 95.864,
+        "gloss": "all"
+      },
+      {
+        "word": "看过",
+        "pinyin": "kàn guò",
+        "startTime": 95.864,
+        "endTime": 96.548,
+        "gloss": "have seen"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 96.548,
+        "endTime": 97.593,
+        "gloss": "Tai Chi"
+      }
+    ],
+    "fullTextEN": "Perhaps most people have seen Tai Chi,"
+  },
+  {
+    "startTime": 97.966,
+    "endTime": 99.966,
+    "fullTextZH": "那你们有想过，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 98.027,
+        "endTime": 98.41,
+        "gloss": "so"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 98.41,
+        "endTime": 98.734,
+        "gloss": "you all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 98.734,
+        "endTime": 99.037,
+        "gloss": "have"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 99.037,
+        "endTime": 99.421,
+        "gloss": "thought"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 99.421,
+        "endTime": 99.926,
+        "gloss": "about"
+      }
+    ],
+    "fullTextEN": "Have you ever thought,"
+  },
+  {
+    "startTime": 100.033,
+    "endTime": 103.6,
+    "fullTextZH": "为什么太极它是圆形的呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 100.113,
+        "endTime": 100.835,
+        "gloss": "why"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 100.835,
+        "endTime": 101.756,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 101.756,
+        "endTime": 101.917,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 101.917,
+        "endTime": 102.217,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 102.217,
+        "endTime": 102.979,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.979,
+        "endTime": 103.179,
+        "gloss": "particle"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 103.179,
+        "endTime": 103.56,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "why Tai Chi is circular?"
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 106.833,
+    "fullTextZH": "它不是长方形的，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 104.04,
+        "endTime": 104.402,
+        "gloss": "it"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 104.402,
+        "endTime": 105.406,
+        "gloss": "is not"
+      },
+      {
+        "word": "长方形",
+        "pinyin": "cháng fāng xíng",
+        "startTime": 105.406,
+        "endTime": 106.471,
+        "gloss": "rectangular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 106.471,
+        "endTime": 106.793,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "It is not rectangular,"
+  },
+  {
+    "startTime": 107.233,
+    "endTime": 109.966,
+    "fullTextZH": "也不是三角形的，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 107.313,
+        "endTime": 107.675,
+        "gloss": "also"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 107.675,
+        "endTime": 108.62,
+        "gloss": "is not"
+      },
+      {
+        "word": "三角形",
+        "pinyin": "sān jiǎo xíng",
+        "startTime": 108.62,
+        "endTime": 109.584,
+        "gloss": "triangular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 109.584,
+        "endTime": 109.926,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "nor is it triangular,"
+  },
+  {
+    "startTime": 110.9,
+    "endTime": 113.8,
+    "fullTextZH": "可是为什么是圆形的呢？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 110.96,
+        "endTime": 111.464,
+        "gloss": "but"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 111.464,
+        "endTime": 112.209,
+        "gloss": "why"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 112.209,
+        "endTime": 112.592,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 112.592,
+        "endTime": 113.236,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 113.236,
+        "endTime": 113.397,
+        "gloss": "particle"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 113.397,
+        "endTime": 113.76,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "but why is it circular?"
+  },
+  {
+    "startTime": 114.066,
+    "endTime": 116.033,
+    "fullTextZH": "有三个原因。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 114.146,
+        "endTime": 114.588,
+        "gloss": "there are"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 114.588,
+        "endTime": 115.09,
+        "gloss": "three"
+      },
+      {
+        "word": "原因",
+        "pinyin": "yuán yīn",
+        "startTime": 115.09,
+        "endTime": 115.993,
+        "gloss": "reasons"
+      }
+    ],
+    "fullTextEN": "There are three reasons."
+  },
+  {
+    "startTime": 116.9,
+    "endTime": 122.2,
+    "fullTextZH": "第一个是因为圆形在中国的文化里面，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 116.98,
+        "endTime": 117.783,
+        "gloss": "first"
+      },
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 117.783,
+        "endTime": 118.928,
+        "gloss": "is because"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 118.928,
+        "endTime": 120.112,
+        "gloss": "circle"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 120.112,
+        "endTime": 120.554,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 120.554,
+        "endTime": 121.176,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 121.176,
+        "endTime": 121.297,
+        "gloss": "of"
+      },
+      {
+        "word": "文化",
+        "pinyin": "wén huà",
+        "startTime": 121.297,
+        "endTime": 121.798,
+        "gloss": "culture"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 121.798,
+        "endTime": 122.14,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "The first is because circles are very important in Chinese culture,"
+  },
+  {
+    "startTime": 122.2,
+    "endTime": 124.4,
+    "fullTextZH": "非常非常的重要。",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 122.462,
+        "endTime": 123.149,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 123.149,
+        "endTime": 123.572,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 123.572,
+        "endTime": 123.734,
+        "gloss": "of"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 123.734,
+        "endTime": 124.38,
+        "gloss": "important"
+      }
+    ],
+    "fullTextEN": "very, very important."
+  },
+  {
+    "startTime": 124.433,
+    "endTime": 125.533,
+    "fullTextZH": "你们看，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 124.82,
+        "endTime": 125.085,
+        "gloss": "you all"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 125.085,
+        "endTime": 125.492,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look,"
+  },
+  {
+    "startTime": 125.533,
+    "endTime": 129.566,
+    "fullTextZH": "像这种大家一起吃饭的桌子，",
+    "words": [
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 125.613,
+        "endTime": 125.934,
+        "gloss": "like"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 125.934,
+        "endTime": 126.556,
+        "gloss": "this kind"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 126.556,
+        "endTime": 127.238,
+        "gloss": "everyone"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 127.238,
+        "endTime": 128.101,
+        "gloss": "together"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 128.101,
+        "endTime": 128.663,
+        "gloss": "eat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 128.663,
+        "endTime": 128.904,
+        "gloss": "of"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 128.904,
+        "endTime": 129.526,
+        "gloss": "table"
+      }
+    ],
+    "fullTextEN": "like these tables where everyone eats together,"
+  },
+  {
+    "startTime": 129.9,
+    "endTime": 131.833,
+    "fullTextZH": "它也是圆形的，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 129.94,
+        "endTime": 130.142,
+        "gloss": "it"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 130.142,
+        "endTime": 130.323,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 130.323,
+        "endTime": 130.705,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 130.705,
+        "endTime": 131.43,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 131.43,
+        "endTime": 131.793,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "It is also round,"
+  },
+  {
+    "startTime": 132.566,
+    "endTime": 137.733,
+    "fullTextZH": "还有中国以前的镜子也是圆形的。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 132.626,
+        "endTime": 133.187,
+        "gloss": "also"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 133.187,
+        "endTime": 133.888,
+        "gloss": "China"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 133.888,
+        "endTime": 134.429,
+        "gloss": "ancient"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 134.429,
+        "endTime": 134.689,
+        "gloss": "de"
+      },
+      {
+        "word": "镜子",
+        "pinyin": "jìng zi",
+        "startTime": 134.689,
+        "endTime": 135.85,
+        "gloss": "mirrors"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 135.85,
+        "endTime": 136.091,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 136.091,
+        "endTime": 136.491,
+        "gloss": "are"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 136.491,
+        "endTime": 137.292,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 137.292,
+        "endTime": 137.693,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Also, ancient Chinese mirrors were round."
+  },
+  {
+    "startTime": 138.0,
+    "endTime": 141.2,
+    "fullTextZH": "嗯，我的镜子也是圆形的。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 138.04,
+        "endTime": 138.141,
+        "gloss": "hmm"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 138.865,
+        "endTime": 139.006,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.006,
+        "endTime": 139.208,
+        "gloss": "de"
+      },
+      {
+        "word": "镜子",
+        "pinyin": "jìng zi",
+        "startTime": 139.208,
+        "endTime": 139.751,
+        "gloss": "mirror"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 139.751,
+        "endTime": 139.932,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 139.932,
+        "endTime": 140.153,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 140.153,
+        "endTime": 140.797,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 140.797,
+        "endTime": 141.16,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Hmm, my mirror is also round."
+  },
+  {
+    "startTime": 141.766,
+    "endTime": 144.366,
+    "fullTextZH": "中国以前的钱，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 141.826,
+        "endTime": 142.512,
+        "gloss": "China"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 142.512,
+        "endTime": 143.016,
+        "gloss": "ancient"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 143.016,
+        "endTime": 143.499,
+        "gloss": "de"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 143.499,
+        "endTime": 144.326,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "Ancient Chinese money,"
+  },
+  {
+    "startTime": 144.766,
+    "endTime": 147.233,
+    "fullTextZH": "钱也是圆形的，",
+    "words": [
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 144.846,
+        "endTime": 145.548,
+        "gloss": "money"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 145.548,
+        "endTime": 145.789,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 145.789,
+        "endTime": 146.27,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 146.27,
+        "endTime": 146.912,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 146.912,
+        "endTime": 147.193,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Money is also round,"
+  },
+  {
+    "startTime": 147.233,
+    "endTime": 148.933,
+    "fullTextZH": "小小的圆形。",
+    "words": [
+      {
+        "word": "小小的",
+        "pinyin": "xiǎo xiǎo de",
+        "startTime": 147.415,
+        "endTime": 148.083,
+        "gloss": "small"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 148.083,
+        "endTime": 148.913,
+        "gloss": "round"
+      }
+    ],
+    "fullTextEN": "Small round shape."
+  },
+  {
+    "startTime": 149.133,
+    "endTime": 155.333,
+    "fullTextZH": "还有我们喜欢吃的汤圆也是圆形的。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 149.233,
+        "endTime": 149.755,
+        "gloss": "also"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 149.755,
+        "endTime": 150.357,
+        "gloss": "we"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 150.357,
+        "endTime": 151.22,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 151.22,
+        "endTime": 151.581,
+        "gloss": "eat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 151.581,
+        "endTime": 152.243,
+        "gloss": "de"
+      },
+      {
+        "word": "汤圆",
+        "pinyin": "tāng yuán",
+        "startTime": 152.243,
+        "endTime": 153.868,
+        "gloss": "tangyuan"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 153.868,
+        "endTime": 154.109,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 154.109,
+        "endTime": 154.29,
+        "gloss": "are"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 154.29,
+        "endTime": 154.932,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 154.932,
+        "endTime": 155.172,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Also, the tangyuan we like to eat are round."
+  },
+  {
+    "startTime": 155.666,
+    "endTime": 158.5,
+    "fullTextZH": "所以圆形代表什么呢？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 155.787,
+        "endTime": 156.249,
+        "gloss": "so"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 156.249,
+        "endTime": 157.314,
+        "gloss": "circle"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 157.314,
+        "endTime": 157.756,
+        "gloss": "represent"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 157.756,
+        "endTime": 158.078,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 158.078,
+        "endTime": 158.46,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "So what does the circle represent?"
+  },
+  {
+    "startTime": 158.733,
+    "endTime": 161.166,
+    "fullTextZH": "圆形，它代表的是，",
+    "words": [
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 158.813,
+        "endTime": 159.437,
+        "gloss": "circle"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 159.779,
+        "endTime": 160.08,
+        "gloss": "it"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 160.08,
+        "endTime": 160.543,
+        "gloss": "represents"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.543,
+        "endTime": 160.724,
+        "gloss": "de"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 160.724,
+        "endTime": 161.126,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "The circle, it represents,"
+  },
+  {
+    "startTime": 161.166,
+    "endTime": 165.633,
+    "fullTextZH": "我们想要所有的事情都很好，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 161.386,
+        "endTime": 161.847,
+        "gloss": "we"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 161.847,
+        "endTime": 162.949,
+        "gloss": "want"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 162.949,
+        "endTime": 163.51,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 163.51,
+        "endTime": 163.67,
+        "gloss": "de"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 163.67,
+        "endTime": 164.611,
+        "gloss": "things"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 164.611,
+        "endTime": 164.812,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 164.812,
+        "endTime": 165.092,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 165.092,
+        "endTime": 165.353,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "We want everything to be good,"
+  },
+  {
+    "startTime": 165.633,
+    "endTime": 166.933,
+    "fullTextZH": "都没问题，",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 165.653,
+        "endTime": 165.836,
+        "gloss": "all"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 165.836,
+        "endTime": 166.06,
+        "gloss": "no"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 166.06,
+        "endTime": 166.892,
+        "gloss": "problems"
+      }
+    ],
+    "fullTextEN": "No problems at all,"
+  },
+  {
+    "startTime": 167.1,
+    "endTime": 168.9,
+    "fullTextZH": "都是圆满的。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 167.161,
+        "endTime": 167.322,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 167.322,
+        "endTime": 167.727,
+        "gloss": "are"
+      },
+      {
+        "word": "圆满",
+        "pinyin": "yuán mǎn",
+        "startTime": 167.727,
+        "endTime": 168.516,
+        "gloss": "perfect"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 168.516,
+        "endTime": 168.86,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Everything is perfect."
+  },
+  {
+    "startTime": 169.366,
+    "endTime": 173.333,
+    "fullTextZH": "我们想要大家一起开开心心的。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 169.506,
+        "endTime": 169.887,
+        "gloss": "we"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 169.887,
+        "endTime": 170.708,
+        "gloss": "want"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 170.708,
+        "endTime": 171.35,
+        "gloss": "everyone"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 171.35,
+        "endTime": 171.931,
+        "gloss": "together"
+      },
+      {
+        "word": "开开心心",
+        "pinyin": "kāi kāi xīn xīn",
+        "startTime": 171.931,
+        "endTime": 172.932,
+        "gloss": "happy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 172.932,
+        "endTime": 172.952,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "We want everyone to be happy together."
+  },
+  {
+    "startTime": 173.633,
+    "endTime": 175.9,
+    "fullTextZH": "对，所以这是第一个原因，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 173.653,
+        "endTime": 173.693,
+        "gloss": "yes"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 173.954,
+        "endTime": 174.215,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 174.215,
+        "endTime": 174.676,
+        "gloss": "this is"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 174.676,
+        "endTime": 175.158,
+        "gloss": "first"
+      },
+      {
+        "word": "原因",
+        "pinyin": "yuán yīn",
+        "startTime": 175.158,
+        "endTime": 175.86,
+        "gloss": "reason"
+      }
+    ],
+    "fullTextEN": "Yes, so this is the first reason,"
+  },
+  {
+    "startTime": 176.1,
+    "endTime": 177.3,
+    "fullTextZH": "因为圆形，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 176.181,
+        "endTime": 176.669,
+        "gloss": "because"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 176.669,
+        "endTime": 177.259,
+        "gloss": "circle"
+      }
+    ],
+    "fullTextEN": "Because the circle,"
+  },
+  {
+    "startTime": 177.3,
+    "endTime": 181.566,
+    "fullTextZH": "在我们的文化是非常非常重要的，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 177.36,
+        "endTime": 177.681,
+        "gloss": "in"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 177.681,
+        "endTime": 178.061,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 178.061,
+        "endTime": 178.201,
+        "gloss": "de"
+      },
+      {
+        "word": "文化",
+        "pinyin": "wén huà",
+        "startTime": 178.201,
+        "endTime": 178.982,
+        "gloss": "culture"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 178.982,
+        "endTime": 179.483,
+        "gloss": "is"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 179.483,
+        "endTime": 180.164,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 180.164,
+        "endTime": 180.725,
+        "gloss": "very"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 180.725,
+        "endTime": 181.226,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 181.226,
+        "endTime": 181.366,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "is very, very important in our culture,"
+  },
+  {
+    "startTime": 181.7,
+    "endTime": 184.733,
+    "fullTextZH": "而且我们很喜欢圆形。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 181.76,
+        "endTime": 182.262,
+        "gloss": "and"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 182.262,
+        "endTime": 182.684,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 182.684,
+        "endTime": 183.086,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 183.086,
+        "endTime": 183.849,
+        "gloss": "like"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 183.849,
+        "endTime": 184.693,
+        "gloss": "circle"
+      }
+    ],
+    "fullTextEN": "and we really like circles."
+  },
+  {
+    "startTime": 185.3,
+    "endTime": 187.266,
+    "fullTextZH": "第二个是因为，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 185.38,
+        "endTime": 186.283,
+        "gloss": "second"
+      },
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 186.283,
+        "endTime": 187.226,
+        "gloss": "is because"
+      }
+    ],
+    "fullTextEN": "The second reason is because,"
+  },
+  {
+    "startTime": 187.333,
+    "endTime": 191.033,
+    "fullTextZH": "这个世界上全部的东西，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 187.413,
+        "endTime": 187.976,
+        "gloss": "this"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 187.976,
+        "endTime": 188.499,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 188.499,
+        "endTime": 189.505,
+        "gloss": "on"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 189.505,
+        "endTime": 190.028,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 190.028,
+        "endTime": 190.148,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 190.148,
+        "endTime": 190.993,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "everything in this world,"
+  },
+  {
+    "startTime": 191.133,
+    "endTime": 194.066,
+    "fullTextZH": "都是一直一直在改变的。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 191.193,
+        "endTime": 191.374,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 191.374,
+        "endTime": 191.655,
+        "gloss": "are"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 191.655,
+        "endTime": 192.379,
+        "gloss": "always"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 192.379,
+        "endTime": 192.82,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 192.82,
+        "endTime": 193.142,
+        "gloss": "changing"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 193.142,
+        "endTime": 193.644,
+        "gloss": "de"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 193.644,
+        "endTime": 194.026,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "is constantly changing."
+  },
+  {
+    "startTime": 194.433,
+    "endTime": 197.233,
+    "fullTextZH": "没有东西是不会改变的。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 194.473,
+        "endTime": 194.836,
+        "gloss": "not have"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 194.836,
+        "endTime": 195.42,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 195.42,
+        "endTime": 195.783,
+        "gloss": "is"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 195.783,
+        "endTime": 196.306,
+        "gloss": "not"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 196.306,
+        "endTime": 196.81,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 196.81,
+        "endTime": 197.213,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "There is nothing that doesn't change."
+  },
+  {
+    "startTime": 197.566,
+    "endTime": 199.3,
+    "fullTextZH": "像是天气，",
+    "words": [
+      {
+        "word": "像是",
+        "pinyin": "xiàng shì",
+        "startTime": 197.667,
+        "endTime": 198.473,
+        "gloss": "like"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 198.473,
+        "endTime": 199.26,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "Like the weather,"
+  },
+  {
+    "startTime": 199.433,
+    "endTime": 202.9,
+    "fullTextZH": "我们的天气有冷也有热，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 199.493,
+        "endTime": 199.834,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.834,
+        "endTime": 200.134,
+        "gloss": "particle"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 200.134,
+        "endTime": 201.076,
+        "gloss": "weather"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 201.076,
+        "endTime": 201.337,
+        "gloss": "have"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 201.337,
+        "endTime": 202.018,
+        "gloss": "cold"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 202.018,
+        "endTime": 202.138,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 202.138,
+        "endTime": 202.359,
+        "gloss": "have"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 202.359,
+        "endTime": 202.86,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Our weather can be cold or hot,"
+  },
+  {
+    "startTime": 203.366,
+    "endTime": 207.833,
+    "fullTextZH": "还有春天、夏天、秋天、冬天。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 203.406,
+        "endTime": 204.027,
+        "gloss": "also have"
+      },
+      {
+        "word": "春天",
+        "pinyin": "chūn tiān",
+        "startTime": 204.027,
+        "endTime": 204.528,
+        "gloss": "spring"
+      },
+      {
+        "word": "夏天",
+        "pinyin": "xià tiān",
+        "startTime": 205.209,
+        "endTime": 205.85,
+        "gloss": "summer"
+      },
+      {
+        "word": "秋天",
+        "pinyin": "qiū tiān",
+        "startTime": 206.13,
+        "endTime": 206.611,
+        "gloss": "autumn"
+      },
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 206.952,
+        "endTime": 207.793,
+        "gloss": "winter"
+      }
+    ],
+    "fullTextEN": "and also spring, summer, autumn, winter."
+  },
+  {
+    "startTime": 208.0,
+    "endTime": 211.733,
+    "fullTextZH": "所以天气一直在改变，对吧？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 208.08,
+        "endTime": 208.442,
+        "gloss": "so"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 208.442,
+        "endTime": 209.184,
+        "gloss": "weather"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 209.184,
+        "endTime": 209.947,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 209.947,
+        "endTime": 210.228,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 210.228,
+        "endTime": 210.99,
+        "gloss": "change"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 211.151,
+        "endTime": 211.312,
+        "gloss": "right"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 211.312,
+        "endTime": 211.693,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So the weather is always changing, right?"
+  },
+  {
+    "startTime": 211.966,
+    "endTime": 213.666,
+    "fullTextZH": "或是时间，",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 212.087,
+        "endTime": 212.755,
+        "gloss": "or"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 212.755,
+        "endTime": 213.626,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Or time,"
+  },
+  {
+    "startTime": 213.8,
+    "endTime": 217.233,
+    "fullTextZH": "时间也是一直在改变的，",
+    "words": [
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 213.961,
+        "endTime": 214.703,
+        "gloss": "time"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 214.703,
+        "endTime": 214.844,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 214.844,
+        "endTime": 215.105,
+        "gloss": "is"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 215.105,
+        "endTime": 215.928,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 215.928,
+        "endTime": 216.33,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 216.33,
+        "endTime": 216.811,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 216.811,
+        "endTime": 217.193,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Time is also always changing,"
+  },
+  {
+    "startTime": 217.233,
+    "endTime": 218.133,
+    "fullTextZH": "对不对？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 217.315,
+        "endTime": 217.417,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 217.417,
+        "endTime": 217.499,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 217.499,
+        "endTime": 218.113,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Isn't it?"
+  },
+  {
+    "startTime": 218.333,
+    "endTime": 218.766,
+    "fullTextZH": "啊，",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 218.457,
+        "endTime": 218.745,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Ah,"
+  },
+  {
+    "startTime": 218.766,
+    "endTime": 220.4,
+    "fullTextZH": "还有月亮，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 218.847,
+        "endTime": 219.432,
+        "gloss": "also have"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 219.432,
+        "endTime": 220.36,
+        "gloss": "moon"
+      }
+    ],
+    "fullTextEN": "and the moon,"
+  },
+  {
+    "startTime": 220.766,
+    "endTime": 224.333,
+    "fullTextZH": "月亮，晚上在天空的月亮，",
+    "words": [
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 220.886,
+        "endTime": 221.307,
+        "gloss": "moon"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 221.447,
+        "endTime": 222.149,
+        "gloss": "night"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 222.149,
+        "endTime": 222.85,
+        "gloss": "at"
+      },
+      {
+        "word": "天空",
+        "pinyin": "tiān kōng",
+        "startTime": 222.85,
+        "endTime": 223.351,
+        "gloss": "sky"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 223.351,
+        "endTime": 223.612,
+        "gloss": "particle"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 223.612,
+        "endTime": 224.293,
+        "gloss": "moon"
+      }
+    ],
+    "fullTextEN": "The moon, the moon in the sky at night,"
+  },
+  {
+    "startTime": 224.566,
+    "endTime": 229.333,
+    "fullTextZH": "月亮也是一直在改变的，对不对？",
+    "words": [
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 224.626,
+        "endTime": 225.147,
+        "gloss": "moon"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 225.147,
+        "endTime": 225.407,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 225.407,
+        "endTime": 225.928,
+        "gloss": "is"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 225.928,
+        "endTime": 226.929,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 226.929,
+        "endTime": 227.55,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 227.55,
+        "endTime": 228.031,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 228.031,
+        "endTime": 228.652,
+        "gloss": "particle"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 228.772,
+        "endTime": 228.792,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 228.792,
+        "endTime": 228.852,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 228.852,
+        "endTime": 229.293,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "The moon is also always changing, isn't it?"
+  },
+  {
+    "startTime": 229.533,
+    "endTime": 232.9,
+    "fullTextZH": "虽然他们都一直在改变，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 229.794,
+        "endTime": 230.415,
+        "gloss": "although"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 230.415,
+        "endTime": 230.816,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 230.816,
+        "endTime": 231.156,
+        "gloss": "all"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 231.156,
+        "endTime": 231.778,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 231.778,
+        "endTime": 232.098,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 232.098,
+        "endTime": 232.88,
+        "gloss": "change"
+      }
+    ],
+    "fullTextEN": "Although they are always changing,"
+  },
+  {
+    "startTime": 233.266,
+    "endTime": 237.333,
+    "fullTextZH": "但是他们改变的方法都是一样的。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 233.326,
+        "endTime": 233.907,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 233.907,
+        "endTime": 234.528,
+        "gloss": "they"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 234.528,
+        "endTime": 235.029,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.029,
+        "endTime": 235.209,
+        "gloss": "particle"
+      },
+      {
+        "word": "方法",
+        "pinyin": "fāng fǎ",
+        "startTime": 235.209,
+        "endTime": 236.071,
+        "gloss": "method"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 236.071,
+        "endTime": 236.271,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 236.271,
+        "endTime": 236.472,
+        "gloss": "is"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 236.472,
+        "endTime": 236.892,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 236.892,
+        "endTime": 237.293,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "but the way they change is the same."
+  },
+  {
+    "startTime": 238.0,
+    "endTime": 239.566,
+    "fullTextZH": "嗯，为什么呢？",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 238.08,
+        "endTime": 238.582,
+        "gloss": "hmm"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 238.642,
+        "endTime": 239.144,
+        "gloss": "why"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 239.144,
+        "endTime": 239.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Hmm, why is that?"
+  },
+  {
+    "startTime": 240.166,
+    "endTime": 243.3,
+    "fullTextZH": "这是因为以前的中国人，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 240.206,
+        "endTime": 240.407,
+        "gloss": "this"
+      },
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 240.407,
+        "endTime": 241.371,
+        "gloss": "is because"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 241.371,
+        "endTime": 241.934,
+        "gloss": "before"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.934,
+        "endTime": 242.255,
+        "gloss": "particle"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 242.255,
+        "endTime": 242.737,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 242.737,
+        "endTime": 243.26,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "This is because ancient Chinese people,"
+  },
+  {
+    "startTime": 243.533,
+    "endTime": 247.6,
+    "fullTextZH": "他们发现他们看着天空，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 243.613,
+        "endTime": 244.154,
+        "gloss": "they"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 244.154,
+        "endTime": 245.176,
+        "gloss": "discover"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 245.176,
+        "endTime": 245.777,
+        "gloss": "they"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 245.777,
+        "endTime": 246.538,
+        "gloss": "looking at"
+      },
+      {
+        "word": "天空",
+        "pinyin": "tiān kōng",
+        "startTime": 246.538,
+        "endTime": 247.56,
+        "gloss": "sky"
+      }
+    ],
+    "fullTextEN": "they discovered by looking at the sky,"
+  },
+  {
+    "startTime": 247.666,
+    "endTime": 249.3,
+    "fullTextZH": "看着天气，",
+    "words": [
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 247.727,
+        "endTime": 248.352,
+        "gloss": "looking at"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 248.352,
+        "endTime": 249.26,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "looking at the weather,"
+  },
+  {
+    "startTime": 249.466,
+    "endTime": 251.133,
+    "fullTextZH": "或是看着月亮，",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 249.546,
+        "endTime": 249.908,
+        "gloss": "or"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 249.908,
+        "endTime": 250.35,
+        "gloss": "looking at"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 250.35,
+        "endTime": 251.093,
+        "gloss": "moon"
+      }
+    ],
+    "fullTextEN": "or looking at the moon,"
+  },
+  {
+    "startTime": 251.566,
+    "endTime": 255.933,
+    "fullTextZH": "他们发现这个世界一直在改变，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 251.646,
+        "endTime": 251.967,
+        "gloss": "they"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 251.967,
+        "endTime": 253.068,
+        "gloss": "discover"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 253.068,
+        "endTime": 253.469,
+        "gloss": "this"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 253.469,
+        "endTime": 254.431,
+        "gloss": "world"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 254.431,
+        "endTime": 254.911,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 254.911,
+        "endTime": 255.152,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 255.152,
+        "endTime": 255.893,
+        "gloss": "change"
+      }
+    ],
+    "fullTextEN": "they discovered that the world is always changing,"
+  },
+  {
+    "startTime": 256.333,
+    "endTime": 260.333,
+    "fullTextZH": "而且这个世界是像圆形一样，",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 256.434,
+        "endTime": 257.217,
+        "gloss": "moreover"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 257.217,
+        "endTime": 257.539,
+        "gloss": "this"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 257.539,
+        "endTime": 258.323,
+        "gloss": "world"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 258.323,
+        "endTime": 258.464,
+        "gloss": "is"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 258.464,
+        "endTime": 258.825,
+        "gloss": "like"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 258.825,
+        "endTime": 259.65,
+        "gloss": "circle"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 259.65,
+        "endTime": 260.293,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "Moreover, this world is like a circle,"
+  },
+  {
+    "startTime": 260.333,
+    "endTime": 262.133,
+    "fullTextZH": "一直在改变。",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 260.394,
+        "endTime": 261.0,
+        "gloss": "constantly"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 261.0,
+        "endTime": 261.385,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 261.385,
+        "endTime": 262.093,
+        "gloss": "change"
+      }
+    ],
+    "fullTextEN": "It is constantly changing."
+  },
+  {
+    "startTime": 262.333,
+    "endTime": 264.433,
+    "fullTextZH": "还是很难懂吗？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 262.535,
+        "endTime": 263.161,
+        "gloss": "still"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 263.161,
+        "endTime": 263.343,
+        "gloss": "very"
+      },
+      {
+        "word": "难懂",
+        "pinyin": "nán dǒng",
+        "startTime": 263.343,
+        "endTime": 263.827,
+        "gloss": "hard to understand"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 263.827,
+        "endTime": 264.393,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it still hard to understand?"
+  },
+  {
+    "startTime": 264.566,
+    "endTime": 267.366,
+    "fullTextZH": "你看！这个小老鼠，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.667,
+        "endTime": 264.788,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 264.788,
+        "endTime": 264.989,
+        "gloss": "look"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 265.916,
+        "endTime": 266.359,
+        "gloss": "this"
+      },
+      {
+        "word": "小老鼠",
+        "pinyin": "xiǎo lǎo shǔ",
+        "startTime": 266.359,
+        "endTime": 267.326,
+        "gloss": "little mouse"
+      }
+    ],
+    "fullTextEN": "Look! This little mouse,"
+  },
+  {
+    "startTime": 267.566,
+    "endTime": 269.3,
+    "fullTextZH": "小老鼠是不是，",
+    "words": [
+      {
+        "word": "小老鼠",
+        "pinyin": "xiǎo lǎo shǔ",
+        "startTime": 267.667,
+        "endTime": 268.373,
+        "gloss": "little mouse"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 268.373,
+        "endTime": 269.26,
+        "gloss": "isn't"
+      }
+    ],
+    "fullTextEN": "Isn't the little mouse,"
+  },
+  {
+    "startTime": 269.3,
+    "endTime": 274.133,
+    "fullTextZH": "他们都喜欢在一个圆形的东西里面，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 269.36,
+        "endTime": 269.942,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 269.942,
+        "endTime": 270.222,
+        "gloss": "all"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 270.222,
+        "endTime": 270.944,
+        "gloss": "like"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 270.944,
+        "endTime": 271.646,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 271.646,
+        "endTime": 272.047,
+        "gloss": "a"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 272.047,
+        "endTime": 272.709,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.709,
+        "endTime": 273.09,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 273.09,
+        "endTime": 273.531,
+        "gloss": "thing"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 273.531,
+        "endTime": 273.692,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "They all like to be inside a circular thing,"
+  },
+  {
+    "startTime": 274.233,
+    "endTime": 275.666,
+    "fullTextZH": "一直跑、一直跑。",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 274.273,
+        "endTime": 274.596,
+        "gloss": "constantly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 274.596,
+        "endTime": 274.798,
+        "gloss": "run"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 274.859,
+        "endTime": 275.141,
+        "gloss": "constantly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 275.141,
+        "endTime": 275.626,
+        "gloss": "run"
+      }
+    ],
+    "fullTextEN": "Running and running."
+  },
+  {
+    "startTime": 276.333,
+    "endTime": 279.933,
+    "fullTextZH": "对，它在圆形的东西里面一直跑，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 276.413,
+        "endTime": 276.715,
+        "gloss": "yes"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 276.816,
+        "endTime": 276.856,
+        "gloss": "it"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 276.856,
+        "endTime": 277.158,
+        "gloss": "at"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 277.158,
+        "endTime": 277.761,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 277.761,
+        "endTime": 278.123,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 278.123,
+        "endTime": 278.565,
+        "gloss": "thing"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 278.565,
+        "endTime": 279.048,
+        "gloss": "inside"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 279.048,
+        "endTime": 279.591,
+        "gloss": "constantly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 279.591,
+        "endTime": 279.893,
+        "gloss": "run"
+      }
+    ],
+    "fullTextEN": "Yes, it keeps running inside the circular thing,"
+  },
+  {
+    "startTime": 279.933,
+    "endTime": 283.066,
+    "fullTextZH": "一直跑，所以我们的世界，",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 280.013,
+        "endTime": 280.355,
+        "gloss": "constantly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 280.355,
+        "endTime": 281.138,
+        "gloss": "run"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 281.198,
+        "endTime": 281.821,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 281.821,
+        "endTime": 282.122,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 282.122,
+        "endTime": 282.323,
+        "gloss": "of"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 282.323,
+        "endTime": 283.026,
+        "gloss": "world"
+      }
+    ],
+    "fullTextEN": "Keeps running, so our world,"
+  },
+  {
+    "startTime": 283.066,
+    "endTime": 285.266,
+    "fullTextZH": "就像小老鼠，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 283.147,
+        "endTime": 283.328,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 283.328,
+        "endTime": 284.257,
+        "gloss": "like"
+      },
+      {
+        "word": "小老鼠",
+        "pinyin": "xiǎo lǎo shǔ",
+        "startTime": 284.257,
+        "endTime": 285.226,
+        "gloss": "little mouse"
+      }
+    ],
+    "fullTextEN": "Is like a little mouse,"
+  },
+  {
+    "startTime": 285.266,
+    "endTime": 289.1,
+    "fullTextZH": "在圆形的东西里面一直跑一样，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 285.366,
+        "endTime": 286.209,
+        "gloss": "at"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 286.209,
+        "endTime": 286.792,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 286.792,
+        "endTime": 286.932,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 286.932,
+        "endTime": 287.374,
+        "gloss": "thing"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 287.374,
+        "endTime": 287.775,
+        "gloss": "inside"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 287.775,
+        "endTime": 288.096,
+        "gloss": "constantly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 288.096,
+        "endTime": 288.558,
+        "gloss": "run"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 288.558,
+        "endTime": 289.08,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "Running inside a circular thing,"
+  },
+  {
+    "startTime": 289.3,
+    "endTime": 290.966,
+    "fullTextZH": "一直在改变。",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 289.34,
+        "endTime": 289.862,
+        "gloss": "constantly"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 289.862,
+        "endTime": 290.183,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 290.183,
+        "endTime": 290.926,
+        "gloss": "change"
+      }
+    ],
+    "fullTextEN": "Constantly changing."
+  },
+  {
+    "startTime": 291.633,
+    "endTime": 293.833,
+    "fullTextZH": "第三个，刚刚说了，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 291.673,
+        "endTime": 292.763,
+        "gloss": "third"
+      },
+      {
+        "word": "刚刚",
+        "pinyin": "gāng gāng",
+        "startTime": 292.925,
+        "endTime": 293.227,
+        "gloss": "just"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 293.227,
+        "endTime": 293.47,
+        "gloss": "said"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 293.47,
+        "endTime": 293.793,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "The third one, as just mentioned,"
+  },
+  {
+    "startTime": 293.833,
+    "endTime": 298.333,
+    "fullTextZH": "我们的世界是一直一直在改变的。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 293.994,
+        "endTime": 294.315,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 294.315,
+        "endTime": 294.536,
+        "gloss": "of"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 294.536,
+        "endTime": 295.159,
+        "gloss": "world"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 295.159,
+        "endTime": 295.44,
+        "gloss": "is"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 295.44,
+        "endTime": 296.485,
+        "gloss": "constantly"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 296.485,
+        "endTime": 297.148,
+        "gloss": "constantly"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 297.148,
+        "endTime": 297.489,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 297.489,
+        "endTime": 297.971,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 297.971,
+        "endTime": 298.132,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Our world is constantly changing."
+  },
+  {
+    "startTime": 298.4,
+    "endTime": 302.8,
+    "fullTextZH": "因为我们的世界一直一直在改变，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 298.48,
+        "endTime": 299.043,
+        "gloss": "because"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 299.043,
+        "endTime": 299.364,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 299.364,
+        "endTime": 299.786,
+        "gloss": "of"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 299.786,
+        "endTime": 300.731,
+        "gloss": "world"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 300.731,
+        "endTime": 301.514,
+        "gloss": "constantly"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 301.514,
+        "endTime": 301.836,
+        "gloss": "constantly"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 301.836,
+        "endTime": 302.097,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 302.097,
+        "endTime": 302.76,
+        "gloss": "change"
+      }
+    ],
+    "fullTextEN": "Because our world is constantly changing,"
+  },
+  {
+    "startTime": 303.166,
+    "endTime": 307.3,
+    "fullTextZH": "所以它没有一个真正的开始，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 303.306,
+        "endTime": 304.129,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 304.129,
+        "endTime": 304.45,
+        "gloss": "it"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 304.45,
+        "endTime": 304.912,
+        "gloss": "no"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 304.912,
+        "endTime": 305.454,
+        "gloss": "a"
+      },
+      {
+        "word": "真正",
+        "pinyin": "zhēn zhèng",
+        "startTime": 305.454,
+        "endTime": 305.976,
+        "gloss": "real"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 305.976,
+        "endTime": 306.517,
+        "gloss": "of"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 306.517,
+        "endTime": 307.26,
+        "gloss": "beginning"
+      }
+    ],
+    "fullTextEN": "So it has no real beginning,"
+  },
+  {
+    "startTime": 307.5,
+    "endTime": 310.433,
+    "fullTextZH": "也没有一个真正的结束。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 307.54,
+        "endTime": 307.681,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 307.681,
+        "endTime": 308.103,
+        "gloss": "no"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 308.103,
+        "endTime": 308.665,
+        "gloss": "a"
+      },
+      {
+        "word": "真正",
+        "pinyin": "zhēn zhèng",
+        "startTime": 308.665,
+        "endTime": 309.167,
+        "gloss": "real"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 309.167,
+        "endTime": 309.65,
+        "gloss": "of"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 309.65,
+        "endTime": 310.393,
+        "gloss": "end"
+      }
+    ],
+    "fullTextEN": "Nor a real end."
+  },
+  {
+    "startTime": 311.3,
+    "endTime": 313.333,
+    "fullTextZH": "嗯，这是什么意思呢？",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 311.34,
+        "endTime": 311.36,
+        "gloss": "hmm"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 311.743,
+        "endTime": 312.145,
+        "gloss": "this"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 312.145,
+        "endTime": 312.427,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 312.427,
+        "endTime": 312.89,
+        "gloss": "meaning"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 312.89,
+        "endTime": 313.293,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Hmm, what does this mean?"
+  },
+  {
+    "startTime": 313.833,
+    "endTime": 319.566,
+    "fullTextZH": "你想想，我们在一个圆形的路上走路，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 313.893,
+        "endTime": 314.013,
+        "gloss": "you"
+      },
+      {
+        "word": "想想",
+        "pinyin": "xiǎng xiǎng",
+        "startTime": 314.013,
+        "endTime": 314.274,
+        "gloss": "think"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 315.076,
+        "endTime": 315.637,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 315.637,
+        "endTime": 316.058,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 316.058,
+        "endTime": 316.98,
+        "gloss": "a"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 316.98,
+        "endTime": 317.762,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 317.762,
+        "endTime": 317.982,
+        "gloss": "of"
+      },
+      {
+        "word": "路上",
+        "pinyin": "lù shàng",
+        "startTime": 317.982,
+        "endTime": 318.884,
+        "gloss": "path"
+      },
+      {
+        "word": "走路",
+        "pinyin": "zǒu lù",
+        "startTime": 318.884,
+        "endTime": 319.526,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "Think about it, we are walking on a circular path,"
+  },
+  {
+    "startTime": 321.6,
+    "endTime": 325.666,
+    "fullTextZH": "好，我们在一个圆形的路上走路，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 321.72,
+        "endTime": 322.101,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 322.121,
+        "endTime": 322.401,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 322.401,
+        "endTime": 322.601,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 322.601,
+        "endTime": 323.042,
+        "gloss": "a"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 323.042,
+        "endTime": 323.623,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 323.623,
+        "endTime": 323.803,
+        "gloss": "of"
+      },
+      {
+        "word": "路上",
+        "pinyin": "lù shàng",
+        "startTime": 323.803,
+        "endTime": 324.905,
+        "gloss": "path"
+      },
+      {
+        "word": "走路",
+        "pinyin": "zǒu lù",
+        "startTime": 324.905,
+        "endTime": 325.626,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "Okay, we are walking on a circular path,"
+  },
+  {
+    "startTime": 326.866,
+    "endTime": 332.066,
+    "fullTextZH": "那可能今天我想要从这里开始，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 326.926,
+        "endTime": 327.508,
+        "gloss": "then"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 327.508,
+        "endTime": 328.332,
+        "gloss": "maybe"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 328.332,
+        "endTime": 328.914,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 328.914,
+        "endTime": 329.275,
+        "gloss": "I"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 329.275,
+        "endTime": 329.797,
+        "gloss": "want"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 329.797,
+        "endTime": 330.339,
+        "gloss": "from"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 330.339,
+        "endTime": 331.283,
+        "gloss": "here"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 331.283,
+        "endTime": 332.026,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "Then maybe today I want to start from here,"
+  },
+  {
+    "startTime": 332.866,
+    "endTime": 334.8,
+    "fullTextZH": "或是，嗯，",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 332.987,
+        "endTime": 333.39,
+        "gloss": "or"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 334.196,
+        "endTime": 334.76,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "Or, um,"
+  },
+  {
+    "startTime": 334.8,
+    "endTime": 338.366,
+    "fullTextZH": "改天我想要从这里开始也可以。",
+    "words": [
+      {
+        "word": "改天",
+        "pinyin": "gǎi tiān",
+        "startTime": 334.88,
+        "endTime": 335.341,
+        "gloss": "another day"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 335.341,
+        "endTime": 335.541,
+        "gloss": "I"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 335.541,
+        "endTime": 335.962,
+        "gloss": "want"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 335.962,
+        "endTime": 336.323,
+        "gloss": "from"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 336.323,
+        "endTime": 336.763,
+        "gloss": "here"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 336.763,
+        "endTime": 337.485,
+        "gloss": "start"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 337.485,
+        "endTime": 337.725,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 337.725,
+        "endTime": 338.326,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "Another day I want to start from here is also fine."
+  },
+  {
+    "startTime": 338.966,
+    "endTime": 344.466,
+    "fullTextZH": "好，那如果我今天从这里开始走路，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 339.046,
+        "endTime": 339.227,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 339.689,
+        "endTime": 339.97,
+        "gloss": "then"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 339.97,
+        "endTime": 340.672,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 340.672,
+        "endTime": 340.873,
+        "gloss": "I"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 340.873,
+        "endTime": 341.395,
+        "gloss": "today"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 341.395,
+        "endTime": 342.158,
+        "gloss": "from"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 342.158,
+        "endTime": 343.242,
+        "gloss": "here"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 343.242,
+        "endTime": 343.784,
+        "gloss": "start"
+      },
+      {
+        "word": "走路",
+        "pinyin": "zǒu lù",
+        "startTime": 343.784,
+        "endTime": 344.426,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "Okay, so if I start walking from here today,"
+  },
+  {
+    "startTime": 344.666,
+    "endTime": 347.166,
+    "fullTextZH": "我这样走走走走走，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 344.747,
+        "endTime": 344.888,
+        "gloss": "I"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 344.888,
+        "endTime": 345.472,
+        "gloss": "like this"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 345.472,
+        "endTime": 346.077,
+        "gloss": "walk"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 346.077,
+        "endTime": 346.642,
+        "gloss": "walk"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 346.642,
+        "endTime": 347.126,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "I walk and walk and walk,"
+  },
+  {
+    "startTime": 347.166,
+    "endTime": 351.666,
+    "fullTextZH": "一直走，走到开始的地方，",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 347.206,
+        "endTime": 347.728,
+        "gloss": "continuously"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 347.728,
+        "endTime": 348.412,
+        "gloss": "walk"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 348.492,
+        "endTime": 348.974,
+        "gloss": "walk"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 348.974,
+        "endTime": 350.199,
+        "gloss": "to"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 350.199,
+        "endTime": 350.742,
+        "gloss": "start"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.742,
+        "endTime": 350.883,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 350.883,
+        "endTime": 351.626,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Keep walking, walk to the starting place,"
+  },
+  {
+    "startTime": 352.566,
+    "endTime": 354.366,
+    "fullTextZH": "然后我想，耶！",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 352.647,
+        "endTime": 352.97,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 352.97,
+        "endTime": 353.173,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 353.173,
+        "endTime": 353.618,
+        "gloss": "think"
+      },
+      {
+        "word": "耶",
+        "pinyin": "yé",
+        "startTime": 353.881,
+        "endTime": 354.326,
+        "gloss": "yay"
+      }
+    ],
+    "fullTextEN": "Then I think, yay!"
+  },
+  {
+    "startTime": 354.366,
+    "endTime": 355.533,
+    "fullTextZH": "我走完了，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 354.406,
+        "endTime": 354.648,
+        "gloss": "I"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 354.648,
+        "endTime": 354.809,
+        "gloss": "walk"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 354.809,
+        "endTime": 355.05,
+        "gloss": "finished"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 355.05,
+        "endTime": 355.493,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I finished walking,"
+  },
+  {
+    "startTime": 355.533,
+    "endTime": 356.466,
+    "fullTextZH": "结束了。",
+    "words": [
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 355.614,
+        "endTime": 356.081,
+        "gloss": "end"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 356.081,
+        "endTime": 356.446,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "It's over."
+  },
+  {
+    "startTime": 357.533,
+    "endTime": 360.366,
+    "fullTextZH": "欸？可是你们再想想，",
+    "words": [
+      {
+        "word": "欸",
+        "pinyin": "āi",
+        "startTime": 357.533,
+        "endTime": 357.734,
+        "gloss": "eh"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 358.136,
+        "endTime": 358.698,
+        "gloss": "but"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 358.698,
+        "endTime": 359.12,
+        "gloss": "you all"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 359.12,
+        "endTime": 359.562,
+        "gloss": "again"
+      },
+      {
+        "word": "想想",
+        "pinyin": "xiǎng xiǎng",
+        "startTime": 359.562,
+        "endTime": 360.346,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Eh? But think again,"
+  },
+  {
+    "startTime": 361.366,
+    "endTime": 363.266,
+    "fullTextZH": "虽然我走完了，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 361.528,
+        "endTime": 362.013,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 362.013,
+        "endTime": 362.336,
+        "gloss": "I"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 362.336,
+        "endTime": 362.559,
+        "gloss": "walk"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 362.559,
+        "endTime": 362.821,
+        "gloss": "finished"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 362.821,
+        "endTime": 363.226,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Although I finished walking,"
+  },
+  {
+    "startTime": 363.633,
+    "endTime": 369.133,
+    "fullTextZH": "可是是不是代表我又要开始走了呢？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 363.693,
+        "endTime": 364.295,
+        "gloss": "but"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 364.295,
+        "endTime": 365.138,
+        "gloss": "is it"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 365.138,
+        "endTime": 366.022,
+        "gloss": "mean"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 366.022,
+        "endTime": 366.503,
+        "gloss": "I"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 366.503,
+        "endTime": 366.865,
+        "gloss": "again"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 366.865,
+        "endTime": 367.467,
+        "gloss": "have to"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 367.467,
+        "endTime": 368.25,
+        "gloss": "start"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 368.25,
+        "endTime": 368.491,
+        "gloss": "walk"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 368.491,
+        "endTime": 368.671,
+        "gloss": "le"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 368.671,
+        "endTime": 369.093,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "But does it mean I have to start walking again?"
+  },
+  {
+    "startTime": 369.866,
+    "endTime": 373.1,
+    "fullTextZH": "所以，你要在哪里开始，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 370.007,
+        "endTime": 370.449,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 370.569,
+        "endTime": 370.75,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 370.75,
+        "endTime": 371.011,
+        "gloss": "want"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 371.011,
+        "endTime": 371.332,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 371.332,
+        "endTime": 372.116,
+        "gloss": "where"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 372.116,
+        "endTime": 373.06,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "So, where do you want to start,"
+  },
+  {
+    "startTime": 374.066,
+    "endTime": 377.266,
+    "fullTextZH": "或是你要在哪里结束，",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 374.207,
+        "endTime": 374.831,
+        "gloss": "or"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 374.831,
+        "endTime": 375.012,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 375.012,
+        "endTime": 375.233,
+        "gloss": "want"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 375.233,
+        "endTime": 375.495,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 375.495,
+        "endTime": 376.3,
+        "gloss": "where"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 376.3,
+        "endTime": 377.226,
+        "gloss": "end"
+      }
+    ],
+    "fullTextEN": "Or where do you want to end,"
+  },
+  {
+    "startTime": 377.866,
+    "endTime": 380.666,
+    "fullTextZH": "你要在哪里结束都可以。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 377.906,
+        "endTime": 378.047,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 378.047,
+        "endTime": 378.148,
+        "gloss": "want"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 378.148,
+        "endTime": 378.329,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 378.329,
+        "endTime": 378.712,
+        "gloss": "where"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 378.712,
+        "endTime": 379.598,
+        "gloss": "end"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 379.598,
+        "endTime": 379.901,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 379.901,
+        "endTime": 380.626,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "You can end wherever you want."
+  },
+  {
+    "startTime": 381.3,
+    "endTime": 385.1,
+    "fullTextZH": "那因为结束一个东西，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 381.38,
+        "endTime": 382.748,
+        "gloss": "then"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 382.748,
+        "endTime": 383.311,
+        "gloss": "because"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 383.311,
+        "endTime": 384.014,
+        "gloss": "end"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 384.014,
+        "endTime": 384.256,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 384.256,
+        "endTime": 385.08,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Because ending something,"
+  },
+  {
+    "startTime": 385.133,
+    "endTime": 389.4,
+    "fullTextZH": "就代表有一个新的东西要开始。",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 385.213,
+        "endTime": 385.474,
+        "gloss": "then"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 385.474,
+        "endTime": 386.235,
+        "gloss": "means"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 386.235,
+        "endTime": 386.615,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 386.615,
+        "endTime": 387.096,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 387.096,
+        "endTime": 387.337,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 387.337,
+        "endTime": 387.477,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 387.477,
+        "endTime": 388.278,
+        "gloss": "thing"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 388.278,
+        "endTime": 388.559,
+        "gloss": "to"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 388.559,
+        "endTime": 389.36,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "Means there's a new thing to start."
+  },
+  {
+    "startTime": 389.5,
+    "endTime": 393.733,
+    "fullTextZH": "对不对？结束就是一个新的开始。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 389.56,
+        "endTime": 389.66,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 389.66,
+        "endTime": 389.761,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 389.761,
+        "endTime": 390.704,
+        "gloss": "right"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 390.924,
+        "endTime": 391.566,
+        "gloss": "end"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 391.566,
+        "endTime": 391.988,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 391.988,
+        "endTime": 392.489,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 392.489,
+        "endTime": 392.79,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 392.79,
+        "endTime": 392.951,
+        "gloss": "of"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 392.951,
+        "endTime": 393.693,
+        "gloss": "beginning"
+      }
+    ],
+    "fullTextEN": "Right? Ending is a new beginning."
+  },
+  {
+    "startTime": 393.9,
+    "endTime": 395.933,
+    "fullTextZH": "所以在太极里面，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 394.041,
+        "endTime": 394.484,
+        "gloss": "so"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 394.484,
+        "endTime": 394.806,
+        "gloss": "in"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 394.806,
+        "endTime": 395.329,
+        "gloss": "Tai Chi"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 395.329,
+        "endTime": 395.893,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "So in Tai Chi,"
+  },
+  {
+    "startTime": 396.0,
+    "endTime": 399.433,
+    "fullTextZH": "是没有一个真正的开始，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 396.1,
+        "endTime": 396.381,
+        "gloss": "is"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 396.381,
+        "endTime": 396.984,
+        "gloss": "no"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 396.984,
+        "endTime": 397.686,
+        "gloss": "a"
+      },
+      {
+        "word": "真正",
+        "pinyin": "zhēn zhèng",
+        "startTime": 397.686,
+        "endTime": 398.309,
+        "gloss": "real"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 398.309,
+        "endTime": 398.67,
+        "gloss": "of"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 398.67,
+        "endTime": 399.393,
+        "gloss": "beginning"
+      }
+    ],
+    "fullTextEN": "There is no real beginning,"
+  },
+  {
+    "startTime": 399.7,
+    "endTime": 402.533,
+    "fullTextZH": "也没有一个真正的结束。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 399.78,
+        "endTime": 400.001,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 400.001,
+        "endTime": 400.544,
+        "gloss": "not have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 400.544,
+        "endTime": 400.966,
+        "gloss": "a"
+      },
+      {
+        "word": "真正",
+        "pinyin": "zhēn zhèng",
+        "startTime": 400.966,
+        "endTime": 401.448,
+        "gloss": "real"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 401.448,
+        "endTime": 401.83,
+        "gloss": "of"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 401.83,
+        "endTime": 402.493,
+        "gloss": "end"
+      }
+    ],
+    "fullTextEN": "There is also no real end."
+  },
+  {
+    "startTime": 402.733,
+    "endTime": 406.166,
+    "fullTextZH": "我很喜欢“结束就是一个新的开始”，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 402.793,
+        "endTime": 402.894,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 402.894,
+        "endTime": 403.135,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 403.135,
+        "endTime": 403.315,
+        "gloss": "like"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 403.677,
+        "endTime": 404.319,
+        "gloss": "end"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 404.319,
+        "endTime": 404.66,
+        "gloss": "just is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 404.66,
+        "endTime": 405.182,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 405.182,
+        "endTime": 405.443,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 405.443,
+        "endTime": 405.604,
+        "gloss": "of"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 405.604,
+        "endTime": 406.126,
+        "gloss": "beginning"
+      }
+    ],
+    "fullTextEN": "I really like 'an end is just a new beginning',"
+  },
+  {
+    "startTime": 406.433,
+    "endTime": 408.466,
+    "fullTextZH": "因为它可以告诉我，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 406.473,
+        "endTime": 406.896,
+        "gloss": "because"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 406.896,
+        "endTime": 407.138,
+        "gloss": "it"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 407.138,
+        "endTime": 407.56,
+        "gloss": "can"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 407.56,
+        "endTime": 408.023,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 408.023,
+        "endTime": 408.426,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "because it can tell me,"
+  },
+  {
+    "startTime": 408.733,
+    "endTime": 413.666,
+    "fullTextZH": "虽然有时候我们因为一些事情的结束，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 408.893,
+        "endTime": 409.535,
+        "gloss": "although"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 409.535,
+        "endTime": 410.117,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 410.117,
+        "endTime": 411.119,
+        "gloss": "we"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 411.119,
+        "endTime": 411.701,
+        "gloss": "because"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 411.701,
+        "endTime": 412.182,
+        "gloss": "some"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 412.182,
+        "endTime": 412.744,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 412.744,
+        "endTime": 412.924,
+        "gloss": "of"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 412.924,
+        "endTime": 413.646,
+        "gloss": "end"
+      }
+    ],
+    "fullTextEN": "although sometimes we feel sad because of the end of something,"
+  },
+  {
+    "startTime": 413.833,
+    "endTime": 415.866,
+    "fullTextZH": "觉得很难过，",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 413.893,
+        "endTime": 414.699,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 414.699,
+        "endTime": 414.92,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 414.92,
+        "endTime": 415.826,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "we feel very sad,"
+  },
+  {
+    "startTime": 416.333,
+    "endTime": 417.5,
+    "fullTextZH": "不开心，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 416.373,
+        "endTime": 416.514,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 416.514,
+        "endTime": 417.46,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "unhappy,"
+  },
+  {
+    "startTime": 417.966,
+    "endTime": 422.8,
+    "fullTextZH": "可是这也代表我们有另一个新的开始。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 418.046,
+        "endTime": 418.828,
+        "gloss": "but"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 418.828,
+        "endTime": 418.969,
+        "gloss": "this"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 418.969,
+        "endTime": 419.23,
+        "gloss": "also"
+      },
+      {
+        "word": "代表",
+        "pinyin": "dài biǎo",
+        "startTime": 419.23,
+        "endTime": 420.012,
+        "gloss": "means"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 420.012,
+        "endTime": 420.313,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 420.313,
+        "endTime": 420.634,
+        "gloss": "have"
+      },
+      {
+        "word": "另",
+        "pinyin": "lìng",
+        "startTime": 420.634,
+        "endTime": 420.935,
+        "gloss": "another"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 420.935,
+        "endTime": 421.556,
+        "gloss": "new"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 421.556,
+        "endTime": 421.817,
+        "gloss": "of"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 421.817,
+        "endTime": 421.978,
+        "gloss": "beginning"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 421.978,
+        "endTime": 422.76,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "but this also means we have another new beginning."
+  },
+  {
+    "startTime": 423.233,
+    "endTime": 426.666,
+    "fullTextZH": "可能会有更好的事情发生，对吧？",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 423.253,
+        "endTime": 423.675,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 423.675,
+        "endTime": 423.795,
+        "gloss": "will"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 423.795,
+        "endTime": 424.056,
+        "gloss": "have"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 424.056,
+        "endTime": 424.458,
+        "gloss": "better"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 424.458,
+        "endTime": 424.578,
+        "gloss": "of"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 424.578,
+        "endTime": 425.16,
+        "gloss": "things"
+      },
+      {
+        "word": "发生",
+        "pinyin": "fā shēng",
+        "startTime": 425.16,
+        "endTime": 425.622,
+        "gloss": "happen"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 426.003,
+        "endTime": 426.144,
+        "gloss": "right"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 426.144,
+        "endTime": 426.626,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "There might be better things happening, right?"
+  },
+  {
+    "startTime": 426.933,
+    "endTime": 432.4,
+    "fullTextZH": "然后呢，我们把这三个想法放在一起，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 427.033,
+        "endTime": 427.434,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 427.434,
+        "endTime": 427.454,
+        "gloss": "particle"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 427.854,
+        "endTime": 428.175,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 428.175,
+        "endTime": 428.475,
+        "gloss": "put"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 428.475,
+        "endTime": 428.875,
+        "gloss": "these"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 428.875,
+        "endTime": 429.536,
+        "gloss": "three"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 429.536,
+        "endTime": 430.738,
+        "gloss": "ideas"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 430.738,
+        "endTime": 431.699,
+        "gloss": "put"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 431.699,
+        "endTime": 432.38,
+        "gloss": "together"
+      }
+    ],
+    "fullTextEN": "Then, we put these three ideas together,"
+  },
+  {
+    "startTime": 432.833,
+    "endTime": 435.0,
+    "fullTextZH": "它会变成一个圆，",
+    "words": [
+      {
+        "word": "它会",
+        "pinyin": "tā huì",
+        "startTime": 432.893,
+        "endTime": 433.274,
+        "gloss": "it will"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 433.274,
+        "endTime": 433.716,
+        "gloss": "become"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 433.716,
+        "endTime": 434.318,
+        "gloss": "a"
+      },
+      {
+        "word": "圆",
+        "pinyin": "yuán",
+        "startTime": 434.318,
+        "endTime": 434.96,
+        "gloss": "circle"
+      }
+    ],
+    "fullTextEN": "it becomes a circle,"
+  },
+  {
+    "startTime": 435.0,
+    "endTime": 436.666,
+    "fullTextZH": "变成一个太极，",
+    "words": [
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 435.04,
+        "endTime": 435.442,
+        "gloss": "become"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 435.442,
+        "endTime": 435.803,
+        "gloss": "a"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 435.803,
+        "endTime": 436.646,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "becomes a Taiji,"
+  },
+  {
+    "startTime": 436.966,
+    "endTime": 441.166,
+    "fullTextZH": "而且他是一个一直在转动，",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 437.006,
+        "endTime": 437.488,
+        "gloss": "and"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 437.488,
+        "endTime": 437.73,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 437.73,
+        "endTime": 437.931,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 437.931,
+        "endTime": 438.714,
+        "gloss": "a"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 438.714,
+        "endTime": 439.619,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 439.619,
+        "endTime": 440.262,
+        "gloss": "at"
+      },
+      {
+        "word": "转动",
+        "pinyin": "zhuǎn dòng",
+        "startTime": 440.262,
+        "endTime": 441.126,
+        "gloss": "rotating"
+      }
+    ],
+    "fullTextEN": "and it is one that is always rotating,"
+  },
+  {
+    "startTime": 441.766,
+    "endTime": 444.333,
+    "fullTextZH": "一直在转动的太极，",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 441.826,
+        "endTime": 442.207,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 442.207,
+        "endTime": 442.548,
+        "gloss": "at"
+      },
+      {
+        "word": "转动",
+        "pinyin": "zhuǎn dòng",
+        "startTime": 442.548,
+        "endTime": 443.15,
+        "gloss": "rotating"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 443.15,
+        "endTime": 443.491,
+        "gloss": "of"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 443.491,
+        "endTime": 444.293,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "always rotating Taiji,"
+  },
+  {
+    "startTime": 444.333,
+    "endTime": 446.7,
+    "fullTextZH": "一直在改变的太极。",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 444.373,
+        "endTime": 444.694,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 444.694,
+        "endTime": 445.035,
+        "gloss": "at"
+      },
+      {
+        "word": "改变",
+        "pinyin": "gǎi biàn",
+        "startTime": 445.035,
+        "endTime": 445.677,
+        "gloss": "changing"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 445.677,
+        "endTime": 445.817,
+        "gloss": "of"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 445.817,
+        "endTime": 446.66,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "always changing Taiji."
+  },
+  {
+    "startTime": 447.066,
+    "endTime": 452.9,
+    "fullTextZH": "你们看，就像这些正在做太极，太极的人，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 447.106,
+        "endTime": 447.307,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 447.307,
+        "endTime": 447.567,
+        "gloss": "see"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 447.788,
+        "endTime": 447.968,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 447.968,
+        "endTime": 448.269,
+        "gloss": "like"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 448.269,
+        "endTime": 449.151,
+        "gloss": "these"
+      },
+      {
+        "word": "正在",
+        "pinyin": "zhèng zài",
+        "startTime": 449.151,
+        "endTime": 449.632,
+        "gloss": "currently"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 449.632,
+        "endTime": 450.073,
+        "gloss": "doing"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 450.073,
+        "endTime": 451.537,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 451.737,
+        "endTime": 452.339,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 452.339,
+        "endTime": 452.499,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 452.499,
+        "endTime": 452.86,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "You see, just like those doing Taiji, Taiji people,"
+  },
+  {
+    "startTime": 453.166,
+    "endTime": 454.466,
+    "fullTextZH": "我不会做，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 453.247,
+        "endTime": 453.41,
+        "gloss": "I"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 453.41,
+        "endTime": 453.857,
+        "gloss": "cannot"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 453.857,
+        "endTime": 454.425,
+        "gloss": "do"
+      }
+    ],
+    "fullTextEN": "I can't do it,"
+  },
+  {
+    "startTime": 454.866,
+    "endTime": 459.733,
+    "fullTextZH": "因为他们想要让他们的身体健健康康，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 454.906,
+        "endTime": 455.407,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 455.407,
+        "endTime": 455.847,
+        "gloss": "they"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 455.847,
+        "endTime": 456.468,
+        "gloss": "want"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 456.468,
+        "endTime": 456.869,
+        "gloss": "let"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 456.869,
+        "endTime": 457.269,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 457.269,
+        "endTime": 457.53,
+        "gloss": "of"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 457.53,
+        "endTime": 458.331,
+        "gloss": "bodies"
+      },
+      {
+        "word": "健健康康",
+        "pinyin": "jiàn jiàn kāng kāng",
+        "startTime": 458.331,
+        "endTime": 459.693,
+        "gloss": "healthy"
+      }
+    ],
+    "fullTextEN": "because they want to keep their bodies healthy,"
+  },
+  {
+    "startTime": 460.066,
+    "endTime": 463.066,
+    "fullTextZH": "所以他们在做太极拳。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 460.147,
+        "endTime": 460.569,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 460.569,
+        "endTime": 461.032,
+        "gloss": "they"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 461.032,
+        "endTime": 461.274,
+        "gloss": "at"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 461.274,
+        "endTime": 461.677,
+        "gloss": "doing"
+      },
+      {
+        "word": "太极拳",
+        "pinyin": "tài jí quán",
+        "startTime": 461.677,
+        "endTime": 463.026,
+        "gloss": "Taijiquan"
+      }
+    ],
+    "fullTextEN": "so they are doing Taijiquan."
+  },
+  {
+    "startTime": 463.633,
+    "endTime": 466.966,
+    "fullTextZH": "让身体一直一直在动，",
+    "words": [
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 463.733,
+        "endTime": 464.115,
+        "gloss": "let"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 464.115,
+        "endTime": 464.798,
+        "gloss": "body"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 464.798,
+        "endTime": 465.781,
+        "gloss": "always"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 465.781,
+        "endTime": 466.203,
+        "gloss": "always"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 466.203,
+        "endTime": 466.484,
+        "gloss": "at"
+      },
+      {
+        "word": "动",
+        "pinyin": "dòng",
+        "startTime": 466.484,
+        "endTime": 466.926,
+        "gloss": "move"
+      }
+    ],
+    "fullTextEN": "to keep the body moving continuously,"
+  },
+  {
+    "startTime": 467.3,
+    "endTime": 469.5,
+    "fullTextZH": "身体才会健康。",
+    "words": [
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 467.421,
+        "endTime": 468.047,
+        "gloss": "body"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 468.047,
+        "endTime": 468.289,
+        "gloss": "only"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 468.289,
+        "endTime": 468.632,
+        "gloss": "will"
+      },
+      {
+        "word": "健康",
+        "pinyin": "jiàn kāng",
+        "startTime": 468.632,
+        "endTime": 469.46,
+        "gloss": "healthy"
+      }
+    ],
+    "fullTextEN": "only then will the body be healthy."
+  },
+  {
+    "startTime": 470.333,
+    "endTime": 473.1,
+    "fullTextZH": "好啦，这就是今天的故事。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 470.413,
+        "endTime": 470.554,
+        "gloss": "good"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 470.554,
+        "endTime": 470.734,
+        "gloss": "particle"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 470.935,
+        "endTime": 471.075,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 471.075,
+        "endTime": 471.576,
+        "gloss": "exactly"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 471.576,
+        "endTime": 472.138,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 472.138,
+        "endTime": 472.318,
+        "gloss": "possessive"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 472.318,
+        "endTime": 473.06,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Alright, this is today's story."
+  },
+  {
+    "startTime": 473.4,
+    "endTime": 478.7,
+    "fullTextZH": "你们的身上有太极的刺青吗？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 473.48,
+        "endTime": 474.002,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 474.002,
+        "endTime": 474.364,
+        "gloss": "possessive"
+      },
+      {
+        "word": "身上",
+        "pinyin": "shēn shàng",
+        "startTime": 474.364,
+        "endTime": 475.488,
+        "gloss": "body"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 475.488,
+        "endTime": 476.11,
+        "gloss": "have"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 476.11,
+        "endTime": 476.833,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 476.833,
+        "endTime": 477.435,
+        "gloss": "possessive"
+      },
+      {
+        "word": "刺青",
+        "pinyin": "cì qīng",
+        "startTime": 477.435,
+        "endTime": 478.118,
+        "gloss": "tattoo"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 478.118,
+        "endTime": 478.66,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you have a Taiji tattoo on your body?"
+  },
+  {
+    "startTime": 479.0,
+    "endTime": 483.566,
+    "fullTextZH": "或是你们喜欢太极这个图吗？",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 479.24,
+        "endTime": 480.041,
+        "gloss": "or"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 480.041,
+        "endTime": 480.462,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 480.462,
+        "endTime": 481.203,
+        "gloss": "like"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 481.203,
+        "endTime": 482.304,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 482.304,
+        "endTime": 482.665,
+        "gloss": "this"
+      },
+      {
+        "word": "图",
+        "pinyin": "tú",
+        "startTime": 482.665,
+        "endTime": 483.025,
+        "gloss": "symbol"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 483.025,
+        "endTime": 483.526,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Or do you like the Taiji symbol?"
+  },
+  {
+    "startTime": 483.9,
+    "endTime": 488.366,
+    "fullTextZH": "希望今天的故事有让你们更明白，",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 484.06,
+        "endTime": 484.561,
+        "gloss": "hope"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 484.561,
+        "endTime": 485.001,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 485.001,
+        "endTime": 485.202,
+        "gloss": "possessive"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 485.202,
+        "endTime": 486.103,
+        "gloss": "story"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 486.103,
+        "endTime": 486.403,
+        "gloss": "have"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 486.403,
+        "endTime": 486.644,
+        "gloss": "make"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 486.644,
+        "endTime": 487.285,
+        "gloss": "you"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 487.285,
+        "endTime": 487.525,
+        "gloss": "more"
+      },
+      {
+        "word": "明白",
+        "pinyin": "míng bái",
+        "startTime": 487.525,
+        "endTime": 488.326,
+        "gloss": "understand"
+      }
+    ],
+    "fullTextEN": "I hope today's story made you understand better,"
+  },
+  {
+    "startTime": 488.5,
+    "endTime": 491.633,
+    "fullTextZH": "为什么太极是圆形的。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 488.56,
+        "endTime": 489.283,
+        "gloss": "why"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 489.283,
+        "endTime": 490.046,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 490.046,
+        "endTime": 490.548,
+        "gloss": "is"
+      },
+      {
+        "word": "圆形",
+        "pinyin": "yuán xíng",
+        "startTime": 490.548,
+        "endTime": 491.231,
+        "gloss": "circular"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 491.231,
+        "endTime": 491.593,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "why Taiji is circular."
+  },
+  {
+    "startTime": 492.033,
+    "endTime": 495.266,
+    "fullTextZH": "你从哪里知道太极的呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 492.093,
+        "endTime": 492.314,
+        "gloss": "you"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 492.314,
+        "endTime": 492.696,
+        "gloss": "from"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 492.696,
+        "endTime": 493.278,
+        "gloss": "where"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 493.278,
+        "endTime": 494.041,
+        "gloss": "know"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 494.041,
+        "endTime": 494.664,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 494.664,
+        "endTime": 494.804,
+        "gloss": "particle"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 494.804,
+        "endTime": 495.226,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Where did you learn about Taiji?"
+  },
+  {
+    "startTime": 495.7,
+    "endTime": 498.7,
+    "fullTextZH": "你喜欢太极的想法吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 495.76,
+        "endTime": 495.982,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 495.982,
+        "endTime": 496.586,
+        "gloss": "like"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 496.586,
+        "endTime": 497.23,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 497.23,
+        "endTime": 497.613,
+        "gloss": "possessive"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 497.613,
+        "endTime": 498.197,
+        "gloss": "idea"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 498.197,
+        "endTime": 498.66,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like the idea of Taiji?"
+  },
+  {
+    "startTime": 499.133,
+    "endTime": 502.5,
+    "fullTextZH": "或是你想学太极拳吗？",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 499.273,
+        "endTime": 499.834,
+        "gloss": "or"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 499.834,
+        "endTime": 499.995,
+        "gloss": "you"
+      },
+      {
+        "word": "想学",
+        "pinyin": "xiǎng xué",
+        "startTime": 499.995,
+        "endTime": 500.776,
+        "gloss": "want to learn"
+      },
+      {
+        "word": "太极拳",
+        "pinyin": "tài jí quán",
+        "startTime": 500.776,
+        "endTime": 502.019,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 502.019,
+        "endTime": 502.46,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Or do you want to learn Taiji?"
+  },
+  {
+    "startTime": 503.133,
+    "endTime": 506.466,
+    "fullTextZH": "在台湾，有很多很多老人，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 503.213,
+        "endTime": 503.414,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 503.414,
+        "endTime": 503.916,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 504.237,
+        "endTime": 504.478,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 504.478,
+        "endTime": 505.663,
+        "gloss": "many many"
+      },
+      {
+        "word": "老人",
+        "pinyin": "lǎo rén",
+        "startTime": 505.663,
+        "endTime": 506.426,
+        "gloss": "elderly"
+      }
+    ],
+    "fullTextEN": "In Taiwan, there are many, many elderly people,"
+  },
+  {
+    "startTime": 506.566,
+    "endTime": 509.3,
+    "fullTextZH": "他们喜欢做太极拳。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 506.667,
+        "endTime": 507.089,
+        "gloss": "they"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 507.089,
+        "endTime": 507.712,
+        "gloss": "like"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 507.712,
+        "endTime": 508.134,
+        "gloss": "do"
+      },
+      {
+        "word": "太极拳",
+        "pinyin": "tài jí quán",
+        "startTime": 508.134,
+        "endTime": 509.26,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "who like to practice Taiji."
+  },
+  {
+    "startTime": 510.266,
+    "endTime": 514.566,
+    "fullTextZH": "其实现在也越来越多年轻人，",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 510.407,
+        "endTime": 511.05,
+        "gloss": "actually"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 511.05,
+        "endTime": 511.914,
+        "gloss": "now"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 511.914,
+        "endTime": 512.295,
+        "gloss": "also"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 512.295,
+        "endTime": 513.32,
+        "gloss": "more and more"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 513.32,
+        "endTime": 513.581,
+        "gloss": "many"
+      },
+      {
+        "word": "年轻人",
+        "pinyin": "nián qīng rén",
+        "startTime": 513.581,
+        "endTime": 514.526,
+        "gloss": "young people"
+      }
+    ],
+    "fullTextEN": "Actually, more and more young people now,"
+  },
+  {
+    "startTime": 514.633,
+    "endTime": 517.0,
+    "fullTextZH": "他们想要学太极。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 514.693,
+        "endTime": 515.215,
+        "gloss": "they"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 515.215,
+        "endTime": 515.736,
+        "gloss": "want to"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 515.736,
+        "endTime": 516.097,
+        "gloss": "learn"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 516.097,
+        "endTime": 516.96,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "want to learn Taiji."
+  },
+  {
+    "startTime": 517.1,
+    "endTime": 520.266,
+    "fullTextZH": "就像我，我也想要学太极，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 517.14,
+        "endTime": 517.26,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 517.26,
+        "endTime": 517.501,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 517.501,
+        "endTime": 518.022,
+        "gloss": "I"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 518.062,
+        "endTime": 518.222,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 518.222,
+        "endTime": 518.583,
+        "gloss": "also"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 518.583,
+        "endTime": 519.044,
+        "gloss": "want to"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 519.044,
+        "endTime": 519.384,
+        "gloss": "learn"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 519.384,
+        "endTime": 520.226,
+        "gloss": "Taiji"
+      }
+    ],
+    "fullTextEN": "Just like me, I also want to learn Taiji,"
+  },
+  {
+    "startTime": 520.633,
+    "endTime": 525.833,
+    "fullTextZH": "因为我很喜欢做比较慢的运动，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 520.653,
+        "endTime": 521.436,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 521.436,
+        "endTime": 521.737,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 521.737,
+        "endTime": 522.038,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 522.038,
+        "endTime": 522.621,
+        "gloss": "like"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 522.621,
+        "endTime": 523.604,
+        "gloss": "do"
+      },
+      {
+        "word": "比较慢",
+        "pinyin": "bǐ jiào màn",
+        "startTime": 523.604,
+        "endTime": 524.789,
+        "gloss": "slower"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 524.789,
+        "endTime": 525.03,
+        "gloss": "particle"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 525.03,
+        "endTime": 525.793,
+        "gloss": "exercise"
+      }
+    ],
+    "fullTextEN": "because I really like doing slower exercises,"
+  },
+  {
+    "startTime": 526.166,
+    "endTime": 530.1,
+    "fullTextZH": "会让我觉得很舒服、很放松。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 526.226,
+        "endTime": 526.447,
+        "gloss": "can"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 526.447,
+        "endTime": 526.728,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 526.728,
+        "endTime": 526.949,
+        "gloss": "me"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 526.949,
+        "endTime": 527.631,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 527.631,
+        "endTime": 528.093,
+        "gloss": "very"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 528.093,
+        "endTime": 528.555,
+        "gloss": "comfortable"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 528.856,
+        "endTime": 529.197,
+        "gloss": "very"
+      },
+      {
+        "word": "放松",
+        "pinyin": "fàng sōng",
+        "startTime": 529.197,
+        "endTime": 530.06,
+        "gloss": "relaxed"
+      }
+    ],
+    "fullTextEN": "which make me feel very comfortable and relaxed."
+  },
+  {
+    "startTime": 530.633,
+    "endTime": 535.3,
+    "fullTextZH": "好，欢迎留言跟我们说说你的想法。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 530.713,
+        "endTime": 530.833,
+        "gloss": "okay"
+      },
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 531.194,
+        "endTime": 531.955,
+        "gloss": "welcome"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 531.955,
+        "endTime": 532.796,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 532.796,
+        "endTime": 532.956,
+        "gloss": "with"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 532.956,
+        "endTime": 533.337,
+        "gloss": "us"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 533.337,
+        "endTime": 533.557,
+        "gloss": "say"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 533.557,
+        "endTime": 533.938,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 533.938,
+        "endTime": 534.138,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 534.138,
+        "endTime": 534.339,
+        "gloss": "possessive"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 534.339,
+        "endTime": 535.26,
+        "gloss": "thoughts"
+      }
+    ],
+    "fullTextEN": "Okay, feel free to leave a comment and tell us your thoughts."
+  },
+  {
+    "startTime": 535.566,
+    "endTime": 538.866,
+    "fullTextZH": "那下次我会跟大家说，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 535.626,
+        "endTime": 535.888,
+        "gloss": "then"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 535.888,
+        "endTime": 536.854,
+        "gloss": "next time"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 536.854,
+        "endTime": 537.276,
+        "gloss": "I will"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 537.276,
+        "endTime": 537.699,
+        "gloss": "with"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 537.699,
+        "endTime": 538.282,
+        "gloss": "everyone"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 538.282,
+        "endTime": 538.826,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Next time, I will tell everyone,"
+  },
+  {
+    "startTime": 538.9,
+    "endTime": 541.233,
+    "fullTextZH": "为什么太极是黑色，",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 538.98,
+        "endTime": 539.604,
+        "gloss": "why"
+      },
+      {
+        "word": "太极",
+        "pinyin": "tài jí",
+        "startTime": 539.604,
+        "endTime": 540.207,
+        "gloss": "Taiji"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 540.207,
+        "endTime": 540.529,
+        "gloss": "is"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 540.529,
+        "endTime": 541.193,
+        "gloss": "black"
+      }
+    ],
+    "fullTextEN": "why Taiji is black,"
+  },
+  {
+    "startTime": 541.233,
+    "endTime": 542.566,
+    "fullTextZH": "还有白色的。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 541.314,
+        "endTime": 541.657,
+        "gloss": "also"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 541.657,
+        "endTime": 542.182,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 542.182,
+        "endTime": 542.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "and also white."
+  },
+  {
+    "startTime": 542.9,
+    "endTime": 545.5,
+    "fullTextZH": "那我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 542.96,
+        "endTime": 543.122,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 543.122,
+        "endTime": 543.484,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 543.484,
+        "endTime": 543.968,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 543.968,
+        "endTime": 544.291,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 544.452,
+        "endTime": 545.46,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

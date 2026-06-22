@@ -1,0 +1,5340 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 3.166,
+    "fullTextZH": "欸，你想吃蛋糕吗？",
+    "words": [
+      {
+        "word": "欸",
+        "pinyin": "āi",
+        "startTime": 0.956,
+        "endTime": 1.84,
+        "gloss": "hey"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 1.92,
+        "endTime": 2.101,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 2.101,
+        "endTime": 2.423,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 2.423,
+        "endTime": 2.704,
+        "gloss": "eat"
+      },
+      {
+        "word": "蛋糕",
+        "pinyin": "dàn gāo",
+        "startTime": 2.704,
+        "endTime": 3.126,
+        "gloss": "cake"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 3.126,
+        "endTime": 3.146,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Hey, do you want to eat cake?"
+  },
+  {
+    "startTime": 3.466,
+    "endTime": 8.733,
+    "fullTextZH": "我们买一块蛋糕一起吃，要不要？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 4.107,
+        "endTime": 4.387,
+        "gloss": "we"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 4.387,
+        "endTime": 4.668,
+        "gloss": "buy"
+      },
+      {
+        "word": "一块",
+        "pinyin": "yī kuài",
+        "startTime": 4.668,
+        "endTime": 5.168,
+        "gloss": "a piece"
+      },
+      {
+        "word": "蛋糕",
+        "pinyin": "dàn gāo",
+        "startTime": 5.168,
+        "endTime": 6.17,
+        "gloss": "cake"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 6.17,
+        "endTime": 6.75,
+        "gloss": "together"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 6.75,
+        "endTime": 7.491,
+        "gloss": "eat"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 7.511,
+        "endTime": 7.692,
+        "gloss": "want"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 7.692,
+        "endTime": 8.713,
+        "gloss": "not want"
+      }
+    ],
+    "fullTextEN": "Shall we buy a piece of cake to eat together?"
+  },
+  {
+    "startTime": 9.066,
+    "endTime": 12.1,
+    "fullTextZH": "可是这块蛋糕45元，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 9.187,
+        "endTime": 9.609,
+        "gloss": "but"
+      },
+      {
+        "word": "这块",
+        "pinyin": "zhè kuài",
+        "startTime": 9.609,
+        "endTime": 10.051,
+        "gloss": "this piece"
+      },
+      {
+        "word": "蛋糕",
+        "pinyin": "dàn gāo",
+        "startTime": 10.051,
+        "endTime": 10.874,
+        "gloss": "cake"
+      },
+      {
+        "word": "元",
+        "pinyin": "yuán",
+        "startTime": 11.417,
+        "endTime": 12.06,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "But this piece of cake is 45 yuan,"
+  },
+  {
+    "startTime": 12.1,
+    "endTime": 15.933,
+    "fullTextZH": "一个人22.5，怎么分？",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 12.16,
+        "endTime": 12.481,
+        "gloss": "one"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 12.481,
+        "endTime": 12.843,
+        "gloss": "person"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 14.388,
+        "endTime": 14.729,
+        "gloss": "how"
+      },
+      {
+        "word": "分",
+        "pinyin": "fēn",
+        "startTime": 14.729,
+        "endTime": 15.15,
+        "gloss": "split"
+      }
+    ],
+    "fullTextEN": "22.5 per person, how to split?"
+  },
+  {
+    "startTime": 16.4,
+    "endTime": 18.433,
+    "fullTextZH": "我付23块，",
+    "words": [
+      {
+        "word": "我付",
+        "pinyin": "wǒ fù",
+        "startTime": 16.46,
+        "endTime": 17.245,
+        "gloss": "I pay"
+      },
+      {
+        "word": "块",
+        "pinyin": "kuài",
+        "startTime": 17.809,
+        "endTime": 18.393,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "I'll pay 23 yuan,"
+  },
+  {
+    "startTime": 18.433,
+    "endTime": 20.433,
+    "fullTextZH": "你付22块，",
+    "words": [
+      {
+        "word": "你付",
+        "pinyin": "nǐ fù",
+        "startTime": 18.494,
+        "endTime": 19.362,
+        "gloss": "you pay"
+      },
+      {
+        "word": "块",
+        "pinyin": "kuài",
+        "startTime": 19.867,
+        "endTime": 20.393,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "You pay 22 yuan,"
+  },
+  {
+    "startTime": 20.6,
+    "endTime": 22.766,
+    "fullTextZH": "这样可以吗？",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 20.7,
+        "endTime": 21.262,
+        "gloss": "this way"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 21.262,
+        "endTime": 21.723,
+        "gloss": "okay"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 21.723,
+        "endTime": 22.184,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is that okay?"
+  },
+  {
+    "startTime": 23.3,
+    "endTime": 25.4,
+    "fullTextZH": "你要付23元？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 23.361,
+        "endTime": 23.542,
+        "gloss": "you"
+      },
+      {
+        "word": "要付",
+        "pinyin": "yào fù",
+        "startTime": 23.542,
+        "endTime": 24.047,
+        "gloss": "want to pay"
+      },
+      {
+        "word": "元",
+        "pinyin": "yuán",
+        "startTime": 24.653,
+        "endTime": 25.36,
+        "gloss": "yuan"
+      }
+    ],
+    "fullTextEN": "You want to pay 23 yuan?"
+  },
+  {
+    "startTime": 25.4,
+    "endTime": 27.366,
+    "fullTextZH": "好好好，可以！",
+    "words": [
+      {
+        "word": "好好",
+        "pinyin": "hǎo hǎo",
+        "startTime": 25.46,
+        "endTime": 25.881,
+        "gloss": "okay"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 25.881,
+        "endTime": 26.263,
+        "gloss": "okay"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 26.403,
+        "endTime": 27.326,
+        "gloss": "fine"
+      }
+    ],
+    "fullTextEN": "Okay, okay, that's fine!"
+  },
+  {
+    "startTime": 29.233,
+    "endTime": 30.8,
+    "fullTextZH": "吃吧，吃吧！",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 29.554,
+        "endTime": 29.755,
+        "gloss": "eat"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 29.755,
+        "endTime": 29.896,
+        "gloss": "particle"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 30.037,
+        "endTime": 30.217,
+        "gloss": "eat"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 30.217,
+        "endTime": 30.438,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Eat, eat!"
+  },
+  {
+    "startTime": 30.8,
+    "endTime": 31.633,
+    "fullTextZH": "等一下！",
+    "words": [
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 30.8,
+        "endTime": 30.82,
+        "gloss": "wait"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 30.82,
+        "endTime": 31.592,
+        "gloss": "a moment"
+      }
+    ],
+    "fullTextEN": "Wait a moment!"
+  },
+  {
+    "startTime": 32.133,
+    "endTime": 35.566,
+    "fullTextZH": "你的是不是比较大块啊？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 32.153,
+        "endTime": 32.374,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.374,
+        "endTime": 33.518,
+        "gloss": "one"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 33.518,
+        "endTime": 34.06,
+        "gloss": "isn't it"
+      },
+      {
+        "word": "比较",
+        "pinyin": "bǐ jiào",
+        "startTime": 34.06,
+        "endTime": 34.422,
+        "gloss": "comparatively"
+      },
+      {
+        "word": "大块",
+        "pinyin": "dà kuài",
+        "startTime": 34.422,
+        "endTime": 34.944,
+        "gloss": "bigger piece"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 34.944,
+        "endTime": 35.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Is yours a bigger piece?"
+  },
+  {
+    "startTime": 40.166,
+    "endTime": 42.666,
+    "fullTextZH": "Hello，我是西卡，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 41.214,
+        "endTime": 41.436,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 41.436,
+        "endTime": 41.698,
+        "gloss": "am"
+      },
+      {
+        "word": "西卡",
+        "pinyin": "xī kǎ",
+        "startTime": 41.698,
+        "endTime": 42.646,
+        "gloss": "Xika"
+      }
+    ],
+    "fullTextEN": "Hello, I am Xika,"
+  },
+  {
+    "startTime": 42.7,
+    "endTime": 44.333,
+    "fullTextZH": "我是台湾人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 42.7,
+        "endTime": 42.821,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 42.821,
+        "endTime": 43.063,
+        "gloss": "am"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 43.063,
+        "endTime": 44.293,
+        "gloss": "Taiwanese"
+      }
+    ],
+    "fullTextEN": "I am Taiwanese."
+  },
+  {
+    "startTime": 44.366,
+    "endTime": 48.166,
+    "fullTextZH": "你好吗？欢迎来到Lazy Chinese。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 44.366,
+        "endTime": 44.668,
+        "gloss": "you good"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 44.668,
+        "endTime": 45.733,
+        "gloss": "question"
+      },
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 45.854,
+        "endTime": 46.155,
+        "gloss": "welcome"
+      },
+      {
+        "word": "来到",
+        "pinyin": "lái dào",
+        "startTime": 46.155,
+        "endTime": 46.638,
+        "gloss": "come to"
+      }
+    ],
+    "fullTextEN": "How are you? Welcome to Lazy Chinese."
+  },
+  {
+    "startTime": 49.1,
+    "endTime": 52.633,
+    "fullTextZH": "你认识像她的人吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 49.1,
+        "endTime": 49.662,
+        "gloss": "you"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 49.662,
+        "endTime": 50.806,
+        "gloss": "know"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 50.806,
+        "endTime": 51.127,
+        "gloss": "like"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 51.127,
+        "endTime": 51.549,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 51.549,
+        "endTime": 51.69,
+        "gloss": "particle"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 51.69,
+        "endTime": 51.93,
+        "gloss": "person"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 51.93,
+        "endTime": 52.593,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know someone like her?"
+  },
+  {
+    "startTime": 53.7,
+    "endTime": 57.033,
+    "fullTextZH": "她不喜欢花钱，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 53.7,
+        "endTime": 54.282,
+        "gloss": "she"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 54.282,
+        "endTime": 54.764,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 54.764,
+        "endTime": 55.848,
+        "gloss": "like"
+      },
+      {
+        "word": "花钱",
+        "pinyin": "huā qián",
+        "startTime": 55.848,
+        "endTime": 56.993,
+        "gloss": "spend money"
+      }
+    ],
+    "fullTextEN": "She doesn't like to spend money,"
+  },
+  {
+    "startTime": 57.7,
+    "endTime": 61.866,
+    "fullTextZH": "不喜欢别人用她的东西。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 57.74,
+        "endTime": 58.081,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 58.081,
+        "endTime": 59.022,
+        "gloss": "like"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 59.022,
+        "endTime": 60.023,
+        "gloss": "others"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 60.023,
+        "endTime": 60.304,
+        "gloss": "use"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 60.304,
+        "endTime": 60.664,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 60.664,
+        "endTime": 60.825,
+        "gloss": "particle"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 60.825,
+        "endTime": 61.826,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "and doesn't like others using her things."
+  },
+  {
+    "startTime": 62.666,
+    "endTime": 67.1,
+    "fullTextZH": "她很怕别人拿太多，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 62.666,
+        "endTime": 63.027,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 63.027,
+        "endTime": 63.549,
+        "gloss": "very"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 63.549,
+        "endTime": 64.211,
+        "gloss": "afraid"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 64.211,
+        "endTime": 65.194,
+        "gloss": "others"
+      },
+      {
+        "word": "拿太多",
+        "pinyin": "ná tài duō",
+        "startTime": 65.194,
+        "endTime": 67.06,
+        "gloss": "take too much"
+      }
+    ],
+    "fullTextEN": "She is afraid others will take too much,"
+  },
+  {
+    "startTime": 67.5,
+    "endTime": 70.5,
+    "fullTextZH": "自己拿太少。",
+    "words": [
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 67.54,
+        "endTime": 68.567,
+        "gloss": "self"
+      },
+      {
+        "word": "拿太少",
+        "pinyin": "ná tài shǎo",
+        "startTime": 68.567,
+        "endTime": 70.46,
+        "gloss": "take too little"
+      }
+    ],
+    "fullTextEN": "and she will take too little."
+  },
+  {
+    "startTime": 71.533,
+    "endTime": 76.033,
+    "fullTextZH": "这种人，我们说她很小气。",
+    "words": [
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 71.533,
+        "endTime": 71.935,
+        "gloss": "this kind"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 71.935,
+        "endTime": 72.758,
+        "gloss": "person"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 72.779,
+        "endTime": 73.261,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 73.261,
+        "endTime": 73.582,
+        "gloss": "say"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 73.582,
+        "endTime": 74.265,
+        "gloss": "she"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 74.265,
+        "endTime": 75.169,
+        "gloss": "very"
+      },
+      {
+        "word": "气",
+        "pinyin": "qì",
+        "startTime": 75.169,
+        "endTime": 75.993,
+        "gloss": "stingy"
+      }
+    ],
+    "fullTextEN": "We call this kind of person stingy."
+  },
+  {
+    "startTime": 76.933,
+    "endTime": 82.0,
+    "fullTextZH": "今天我要说一个小气鬼的故事。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 76.933,
+        "endTime": 77.954,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 77.954,
+        "endTime": 78.135,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 78.135,
+        "endTime": 79.196,
+        "gloss": "want to say"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 79.196,
+        "endTime": 79.717,
+        "gloss": "a"
+      },
+      {
+        "word": "小气鬼",
+        "pinyin": "xiǎo qì guǐ",
+        "startTime": 79.717,
+        "endTime": 80.878,
+        "gloss": "cheapskate"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 80.878,
+        "endTime": 81.059,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 81.059,
+        "endTime": 81.96,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Today I want to tell a story about a cheapskate."
+  },
+  {
+    "startTime": 82.633,
+    "endTime": 84.2,
+    "fullTextZH": "请你听听，",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 82.653,
+        "endTime": 82.834,
+        "gloss": "please"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 82.834,
+        "endTime": 83.095,
+        "gloss": "you"
+      },
+      {
+        "word": "听听",
+        "pinyin": "tīng tīng",
+        "startTime": 83.095,
+        "endTime": 84.16,
+        "gloss": "listen"
+      }
+    ],
+    "fullTextEN": "Please listen,"
+  },
+  {
+    "startTime": 84.5,
+    "endTime": 88.3,
+    "fullTextZH": "你看过这么小气的人吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 84.5,
+        "endTime": 84.741,
+        "gloss": "you"
+      },
+      {
+        "word": "看过",
+        "pinyin": "kàn guò",
+        "startTime": 84.741,
+        "endTime": 85.767,
+        "gloss": "seen"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 85.767,
+        "endTime": 86.39,
+        "gloss": "such"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 86.39,
+        "endTime": 87.214,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 87.214,
+        "endTime": 87.375,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 87.375,
+        "endTime": 87.596,
+        "gloss": "person"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 87.596,
+        "endTime": 88.26,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you ever seen such a stingy person?"
+  },
+  {
+    "startTime": 88.966,
+    "endTime": 91.2,
+    "fullTextZH": "有一个餐厅老板，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 88.966,
+        "endTime": 89.147,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 89.147,
+        "endTime": 89.691,
+        "gloss": "a"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 89.691,
+        "endTime": 90.274,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 90.274,
+        "endTime": 91.16,
+        "gloss": "owner"
+      }
+    ],
+    "fullTextEN": "There was a restaurant owner,"
+  },
+  {
+    "startTime": 91.666,
+    "endTime": 94.733,
+    "fullTextZH": "他的餐厅很有名，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 91.666,
+        "endTime": 91.907,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 91.907,
+        "endTime": 92.107,
+        "gloss": "of"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 92.107,
+        "endTime": 93.149,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 93.149,
+        "endTime": 93.651,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 93.651,
+        "endTime": 94.693,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "His restaurant was very famous,"
+  },
+  {
+    "startTime": 95.266,
+    "endTime": 97.466,
+    "fullTextZH": "很多人喜欢。",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 95.266,
+        "endTime": 96.013,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 96.013,
+        "endTime": 96.457,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 96.457,
+        "endTime": 97.426,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Many people liked it."
+  },
+  {
+    "startTime": 98.333,
+    "endTime": 99.533,
+    "fullTextZH": "为什么呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 98.333,
+        "endTime": 98.841,
+        "gloss": "why"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 98.841,
+        "endTime": 99.492,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 100.266,
+    "endTime": 105.833,
+    "fullTextZH": "因为餐厅的菜非常好吃，嗯！",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 100.266,
+        "endTime": 101.187,
+        "gloss": "because"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 101.187,
+        "endTime": 101.808,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 101.808,
+        "endTime": 102.108,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 102.108,
+        "endTime": 103.15,
+        "gloss": "dishes"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 103.15,
+        "endTime": 103.931,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 103.931,
+        "endTime": 104.852,
+        "gloss": "delicious"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 105.132,
+        "endTime": 105.793,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Because the restaurant's dishes were very delicious, hmm!"
+  },
+  {
+    "startTime": 106.633,
+    "endTime": 110.866,
+    "fullTextZH": "每天从早上到晚上，",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 106.633,
+        "endTime": 107.817,
+        "gloss": "every day"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 107.817,
+        "endTime": 108.278,
+        "gloss": "from"
+      },
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 108.278,
+        "endTime": 109.442,
+        "gloss": "morning"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 109.442,
+        "endTime": 109.783,
+        "gloss": "to"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 109.783,
+        "endTime": 110.826,
+        "gloss": "night"
+      }
+    ],
+    "fullTextEN": "Every day from morning to night,"
+  },
+  {
+    "startTime": 111.2,
+    "endTime": 116.333,
+    "fullTextZH": "在餐厅里面和餐厅外面，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 111.2,
+        "endTime": 111.601,
+        "gloss": "in"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 111.601,
+        "endTime": 112.443,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 112.443,
+        "endTime": 113.807,
+        "gloss": "inside"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 113.807,
+        "endTime": 114.268,
+        "gloss": "and"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 114.268,
+        "endTime": 115.23,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "外面",
+        "pinyin": "wài miàn",
+        "startTime": 115.23,
+        "endTime": 116.293,
+        "gloss": "outside"
+      }
+    ],
+    "fullTextEN": "Inside and outside the restaurant,"
+  },
+  {
+    "startTime": 116.833,
+    "endTime": 122.666,
+    "fullTextZH": "都可以闻到很香很香的食物味道。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 116.833,
+        "endTime": 117.114,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 117.114,
+        "endTime": 117.655,
+        "gloss": "can"
+      },
+      {
+        "word": "闻到",
+        "pinyin": "wén dào",
+        "startTime": 117.655,
+        "endTime": 118.797,
+        "gloss": "smell"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 118.797,
+        "endTime": 119.92,
+        "gloss": "very fragrant"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 119.92,
+        "endTime": 120.361,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 120.361,
+        "endTime": 120.722,
+        "gloss": "fragrant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 120.722,
+        "endTime": 121.143,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 121.143,
+        "endTime": 121.744,
+        "gloss": "food"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 121.744,
+        "endTime": 122.626,
+        "gloss": "smell"
+      }
+    ],
+    "fullTextEN": "You could smell the very fragrant food aroma."
+  },
+  {
+    "startTime": 123.3,
+    "endTime": 125.633,
+    "fullTextZH": "嗯，很香很香！",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 123.38,
+        "endTime": 123.702,
+        "gloss": "hmm"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 123.823,
+        "endTime": 124.587,
+        "gloss": "very fragrant"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 124.587,
+        "endTime": 124.889,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 124.889,
+        "endTime": 125.593,
+        "gloss": "fragrant"
+      }
+    ],
+    "fullTextEN": "Hmm, very fragrant!"
+  },
+  {
+    "startTime": 126.333,
+    "endTime": 130.533,
+    "fullTextZH": "因为很多人来餐厅吃饭，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 126.333,
+        "endTime": 127.036,
+        "gloss": "because"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 127.036,
+        "endTime": 127.8,
+        "gloss": "many"
+      },
+      {
+        "word": "人来",
+        "pinyin": "rén lái",
+        "startTime": 127.8,
+        "endTime": 128.684,
+        "gloss": "people come"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 128.684,
+        "endTime": 129.568,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 129.568,
+        "endTime": 130.513,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Because many people came to the restaurant to eat,"
+  },
+  {
+    "startTime": 131.1,
+    "endTime": 136.4,
+    "fullTextZH": "所以这个餐厅老板赚了很多钱。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 131.12,
+        "endTime": 131.762,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 131.762,
+        "endTime": 132.264,
+        "gloss": "this"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 132.264,
+        "endTime": 132.806,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 132.806,
+        "endTime": 133.891,
+        "gloss": "owner"
+      },
+      {
+        "word": "赚",
+        "pinyin": "zhuàn",
+        "startTime": 133.891,
+        "endTime": 134.433,
+        "gloss": "earn"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 134.433,
+        "endTime": 134.995,
+        "gloss": "particle"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 134.995,
+        "endTime": 135.697,
+        "gloss": "many"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 135.697,
+        "endTime": 136.36,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "So this restaurant owner made a lot of money."
+  },
+  {
+    "startTime": 137.933,
+    "endTime": 142.933,
+    "fullTextZH": "在餐厅的旁边有一间鞋店。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 137.933,
+        "endTime": 138.435,
+        "gloss": "at"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 138.435,
+        "endTime": 139.319,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.319,
+        "endTime": 139.539,
+        "gloss": "of"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 139.539,
+        "endTime": 140.905,
+        "gloss": "beside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 140.905,
+        "endTime": 141.126,
+        "gloss": "there is"
+      },
+      {
+        "word": "一间",
+        "pinyin": "yī jiān",
+        "startTime": 141.126,
+        "endTime": 141.869,
+        "gloss": "a"
+      },
+      {
+        "word": "鞋店",
+        "pinyin": "xié diàn",
+        "startTime": 141.869,
+        "endTime": 142.893,
+        "gloss": "shoe store"
+      }
+    ],
+    "fullTextEN": "Next to the restaurant, there was a shoe store."
+  },
+  {
+    "startTime": 143.9,
+    "endTime": 149.233,
+    "fullTextZH": "鞋店老板做的鞋子很好穿，",
+    "words": [
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 143.98,
+        "endTime": 144.301,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 144.301,
+        "endTime": 145.524,
+        "gloss": "store owner"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 145.524,
+        "endTime": 145.925,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 145.925,
+        "endTime": 146.306,
+        "gloss": "of"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 146.306,
+        "endTime": 147.589,
+        "gloss": "shoes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 147.589,
+        "endTime": 148.01,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 148.01,
+        "endTime": 148.391,
+        "gloss": "good"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 148.391,
+        "endTime": 149.193,
+        "gloss": "wear"
+      }
+    ],
+    "fullTextEN": "The shoe store owner made shoes that were very comfortable to wear,"
+  },
+  {
+    "startTime": 149.433,
+    "endTime": 154.033,
+    "fullTextZH": "很舒服，可是不好看，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 149.433,
+        "endTime": 149.754,
+        "gloss": "very"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 149.754,
+        "endTime": 151.201,
+        "gloss": "comfortable"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 151.402,
+        "endTime": 152.788,
+        "gloss": "but"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 152.788,
+        "endTime": 153.009,
+        "gloss": "not"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 153.009,
+        "endTime": 153.993,
+        "gloss": "good-looking"
+      }
+    ],
+    "fullTextEN": "Very comfortable, but not good-looking,"
+  },
+  {
+    "startTime": 154.433,
+    "endTime": 155.666,
+    "fullTextZH": "不漂亮。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 154.433,
+        "endTime": 154.595,
+        "gloss": "not"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 154.595,
+        "endTime": 155.626,
+        "gloss": "pretty"
+      }
+    ],
+    "fullTextEN": "Not pretty."
+  },
+  {
+    "startTime": 156.866,
+    "endTime": 161.066,
+    "fullTextZH": "因为没有很多人来买鞋子，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 156.866,
+        "endTime": 157.69,
+        "gloss": "because"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 157.69,
+        "endTime": 158.333,
+        "gloss": "not"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 158.333,
+        "endTime": 158.956,
+        "gloss": "many"
+      },
+      {
+        "word": "人来",
+        "pinyin": "rén lái",
+        "startTime": 158.956,
+        "endTime": 159.72,
+        "gloss": "people come"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 159.72,
+        "endTime": 160.142,
+        "gloss": "buy"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 160.142,
+        "endTime": 161.026,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "Because not many people came to buy shoes,"
+  },
+  {
+    "startTime": 161.666,
+    "endTime": 164.933,
+    "fullTextZH": "所以鞋店老板不赚钱。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 161.666,
+        "endTime": 162.267,
+        "gloss": "so"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 162.267,
+        "endTime": 162.488,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 162.488,
+        "endTime": 163.55,
+        "gloss": "store owner"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 163.55,
+        "endTime": 163.811,
+        "gloss": "not"
+      },
+      {
+        "word": "赚钱",
+        "pinyin": "zhuàn qián",
+        "startTime": 163.811,
+        "endTime": 164.893,
+        "gloss": "make money"
+      }
+    ],
+    "fullTextEN": "So the shoe store owner doesn't make money."
+  },
+  {
+    "startTime": 166.333,
+    "endTime": 168.133,
+    "fullTextZH": "这个鞋店老板，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 166.333,
+        "endTime": 166.717,
+        "gloss": "this"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 166.717,
+        "endTime": 166.98,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 166.98,
+        "endTime": 168.093,
+        "gloss": "store owner"
+      }
+    ],
+    "fullTextEN": "This shoe store owner,"
+  },
+  {
+    "startTime": 168.466,
+    "endTime": 175.466,
+    "fullTextZH": "每天都可以闻到很香很香的食物味道，",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 168.466,
+        "endTime": 169.369,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 169.369,
+        "endTime": 169.73,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 169.73,
+        "endTime": 170.231,
+        "gloss": "can"
+      },
+      {
+        "word": "闻到",
+        "pinyin": "wén dào",
+        "startTime": 170.231,
+        "endTime": 172.076,
+        "gloss": "smell"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 172.076,
+        "endTime": 172.939,
+        "gloss": "very fragrant"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 172.939,
+        "endTime": 173.32,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 173.32,
+        "endTime": 173.661,
+        "gloss": "fragrant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 173.661,
+        "endTime": 174.002,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 174.002,
+        "endTime": 174.503,
+        "gloss": "food"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 174.503,
+        "endTime": 175.426,
+        "gloss": "aroma"
+      }
+    ],
+    "fullTextEN": "Every day he can smell very fragrant food aromas,"
+  },
+  {
+    "startTime": 175.833,
+    "endTime": 179.5,
+    "fullTextZH": "是从旁边的餐厅来的。",
+    "words": [
+      {
+        "word": "是从",
+        "pinyin": "shì cóng",
+        "startTime": 175.853,
+        "endTime": 176.534,
+        "gloss": "come from"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 176.534,
+        "endTime": 177.296,
+        "gloss": "next door"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 177.296,
+        "endTime": 177.536,
+        "gloss": "of"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 177.536,
+        "endTime": 178.518,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 178.518,
+        "endTime": 178.919,
+        "gloss": "come"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 178.919,
+        "endTime": 179.46,
+        "gloss": "from"
+      }
+    ],
+    "fullTextEN": "which come from the restaurant next door."
+  },
+  {
+    "startTime": 180.7,
+    "endTime": 185.666,
+    "fullTextZH": "可是他没有钱去餐厅吃饭，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 180.7,
+        "endTime": 181.521,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 181.521,
+        "endTime": 181.821,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 181.821,
+        "endTime": 182.522,
+        "gloss": "not have"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 182.522,
+        "endTime": 183.443,
+        "gloss": "money"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 183.443,
+        "endTime": 183.844,
+        "gloss": "to"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 183.844,
+        "endTime": 184.665,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 184.665,
+        "endTime": 185.626,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "But he doesn't have money to eat at the restaurant,"
+  },
+  {
+    "startTime": 186.633,
+    "endTime": 189.8,
+    "fullTextZH": "那里的菜太贵了。",
+    "words": [
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 186.633,
+        "endTime": 187.014,
+        "gloss": "there"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 187.014,
+        "endTime": 187.294,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 187.294,
+        "endTime": 188.096,
+        "gloss": "food"
+      },
+      {
+        "word": "太贵",
+        "pinyin": "tài guì",
+        "startTime": 188.096,
+        "endTime": 188.978,
+        "gloss": "too expensive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 188.978,
+        "endTime": 189.76,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "the food there is too expensive."
+  },
+  {
+    "startTime": 190.733,
+    "endTime": 192.633,
+    "fullTextZH": "他常常想，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 190.733,
+        "endTime": 191.157,
+        "gloss": "he"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 191.157,
+        "endTime": 192.027,
+        "gloss": "often"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 192.027,
+        "endTime": 192.613,
+        "gloss": "thinks"
+      }
+    ],
+    "fullTextEN": "He often thinks,"
+  },
+  {
+    "startTime": 193.433,
+    "endTime": 197.933,
+    "fullTextZH": "有一天，他赚很多钱的时候，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 193.433,
+        "endTime": 193.614,
+        "gloss": "one"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 193.614,
+        "endTime": 194.136,
+        "gloss": "day"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 194.478,
+        "endTime": 194.779,
+        "gloss": "he"
+      },
+      {
+        "word": "赚",
+        "pinyin": "zhuàn",
+        "startTime": 194.779,
+        "endTime": 195.321,
+        "gloss": "make"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 195.321,
+        "endTime": 196.225,
+        "gloss": "a lot"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 196.225,
+        "endTime": 196.667,
+        "gloss": "money"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 196.667,
+        "endTime": 196.888,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 196.888,
+        "endTime": 197.913,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "One day, when he makes a lot of money,"
+  },
+  {
+    "startTime": 198.266,
+    "endTime": 201.933,
+    "fullTextZH": "他要去旁边的餐厅吃饭。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 198.266,
+        "endTime": 198.446,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 198.446,
+        "endTime": 198.747,
+        "gloss": "will"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 198.747,
+        "endTime": 199.188,
+        "gloss": "go"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 199.188,
+        "endTime": 199.849,
+        "gloss": "next door"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.849,
+        "endTime": 200.069,
+        "gloss": "of"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 200.069,
+        "endTime": 200.951,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 200.951,
+        "endTime": 201.893,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "he will go to the restaurant next door to eat."
+  },
+  {
+    "startTime": 203.133,
+    "endTime": 207.566,
+    "fullTextZH": "有一天，鞋店老板要吃午餐了。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 203.133,
+        "endTime": 203.293,
+        "gloss": "one"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 203.293,
+        "endTime": 203.775,
+        "gloss": "day"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 204.377,
+        "endTime": 204.637,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 204.637,
+        "endTime": 205.68,
+        "gloss": "store owner"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 205.68,
+        "endTime": 206.062,
+        "gloss": "about to"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 206.062,
+        "endTime": 206.383,
+        "gloss": "eat"
+      },
+      {
+        "word": "午餐",
+        "pinyin": "wǔ cān",
+        "startTime": 206.383,
+        "endTime": 206.964,
+        "gloss": "lunch"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 206.964,
+        "endTime": 207.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "One day, the shoe store owner was about to have lunch."
+  },
+  {
+    "startTime": 208.6,
+    "endTime": 211.966,
+    "fullTextZH": "他的午餐是一块面包。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 208.6,
+        "endTime": 208.78,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 208.78,
+        "endTime": 208.981,
+        "gloss": "of"
+      },
+      {
+        "word": "午餐",
+        "pinyin": "wǔ cān",
+        "startTime": 208.981,
+        "endTime": 209.982,
+        "gloss": "lunch"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 209.982,
+        "endTime": 210.303,
+        "gloss": "is"
+      },
+      {
+        "word": "一块",
+        "pinyin": "yī kuài",
+        "startTime": 210.303,
+        "endTime": 210.824,
+        "gloss": "a piece"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 210.824,
+        "endTime": 211.926,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "His lunch was a piece of bread."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 218.433,
+    "fullTextZH": "这个时候，他又闻到很香的味道了。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 213.0,
+        "endTime": 213.321,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 213.321,
+        "endTime": 214.724,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 214.905,
+        "endTime": 214.985,
+        "gloss": "he"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 214.985,
+        "endTime": 215.285,
+        "gloss": "again"
+      },
+      {
+        "word": "闻到",
+        "pinyin": "wén dào",
+        "startTime": 215.285,
+        "endTime": 216.308,
+        "gloss": "smell"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 216.308,
+        "endTime": 217.19,
+        "gloss": "very fragrant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 217.19,
+        "endTime": 217.33,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 217.33,
+        "endTime": 217.892,
+        "gloss": "aroma"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 217.892,
+        "endTime": 218.393,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "At this time, he smelled the fragrant aroma again."
+  },
+  {
+    "startTime": 219.133,
+    "endTime": 223.666,
+    "fullTextZH": "嗯，所以他坐在家门口，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 219.133,
+        "endTime": 219.654,
+        "gloss": "hmm"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 220.798,
+        "endTime": 221.56,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 221.56,
+        "endTime": 221.861,
+        "gloss": "he"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 221.861,
+        "endTime": 222.483,
+        "gloss": "sit at"
+      },
+      {
+        "word": "家门口",
+        "pinyin": "jiā mén kǒu",
+        "startTime": 222.483,
+        "endTime": 223.626,
+        "gloss": "doorstep"
+      }
+    ],
+    "fullTextEN": "Hmm, so he sat at the doorstep,"
+  },
+  {
+    "startTime": 224.233,
+    "endTime": 225.8,
+    "fullTextZH": "闻那个味道，",
+    "words": [
+      {
+        "word": "闻",
+        "pinyin": "wén",
+        "startTime": 224.273,
+        "endTime": 224.474,
+        "gloss": "smell"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 224.474,
+        "endTime": 224.796,
+        "gloss": "that"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 224.796,
+        "endTime": 225.76,
+        "gloss": "aroma"
+      }
+    ],
+    "fullTextEN": "smelling that aroma,"
+  },
+  {
+    "startTime": 226.133,
+    "endTime": 227.766,
+    "fullTextZH": "闻那个香味，",
+    "words": [
+      {
+        "word": "闻",
+        "pinyin": "wén",
+        "startTime": 226.153,
+        "endTime": 226.335,
+        "gloss": "smell"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 226.335,
+        "endTime": 226.758,
+        "gloss": "that"
+      },
+      {
+        "word": "香味",
+        "pinyin": "xiāng wèi",
+        "startTime": 226.758,
+        "endTime": 227.726,
+        "gloss": "fragrance"
+      }
+    ],
+    "fullTextEN": "smelling that fragrance,"
+  },
+  {
+    "startTime": 228.8,
+    "endTime": 230.833,
+    "fullTextZH": "然后吃面包。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 228.8,
+        "endTime": 229.484,
+        "gloss": "then"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 229.484,
+        "endTime": 229.766,
+        "gloss": "eat"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 229.766,
+        "endTime": 230.793,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "then eating bread."
+  },
+  {
+    "startTime": 232.566,
+    "endTime": 234.866,
+    "fullTextZH": "他闭着眼睛，",
+    "words": [
+      {
+        "word": "他闭",
+        "pinyin": "tā bì",
+        "startTime": 232.566,
+        "endTime": 233.514,
+        "gloss": "he close"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 233.514,
+        "endTime": 233.716,
+        "gloss": "with"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 233.716,
+        "endTime": 234.826,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "He closed his eyes,"
+  },
+  {
+    "startTime": 235.4,
+    "endTime": 239.166,
+    "fullTextZH": "一边闻一边吃饭。",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 235.4,
+        "endTime": 235.841,
+        "gloss": "while"
+      },
+      {
+        "word": "闻",
+        "pinyin": "wén",
+        "startTime": 235.841,
+        "endTime": 237.463,
+        "gloss": "smell"
+      },
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 237.463,
+        "endTime": 238.064,
+        "gloss": "while"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 238.064,
+        "endTime": 239.126,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "smelling while eating."
+  },
+  {
+    "startTime": 241.466,
+    "endTime": 243.366,
+    "fullTextZH": "这样子吃饭，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 241.466,
+        "endTime": 241.648,
+        "gloss": "this"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 241.648,
+        "endTime": 242.335,
+        "gloss": "way"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 242.335,
+        "endTime": 243.326,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Eating like this,"
+  },
+  {
+    "startTime": 243.666,
+    "endTime": 247.966,
+    "fullTextZH": "他觉得他不是在吃面包，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 243.666,
+        "endTime": 243.947,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 243.947,
+        "endTime": 244.952,
+        "gloss": "feels"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 244.952,
+        "endTime": 245.394,
+        "gloss": "he"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 245.394,
+        "endTime": 246.097,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 246.097,
+        "endTime": 246.479,
+        "gloss": "is"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 246.479,
+        "endTime": 246.821,
+        "gloss": "eating"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 246.821,
+        "endTime": 247.926,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "he feels like he's not eating bread,"
+  },
+  {
+    "startTime": 248.633,
+    "endTime": 253.233,
+    "fullTextZH": "他觉得他在吃餐厅的菜。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 248.633,
+        "endTime": 248.954,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 248.954,
+        "endTime": 249.959,
+        "gloss": "feels"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 249.959,
+        "endTime": 250.26,
+        "gloss": "he"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 250.26,
+        "endTime": 250.662,
+        "gloss": "at"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 250.662,
+        "endTime": 251.405,
+        "gloss": "eat"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 251.405,
+        "endTime": 252.188,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 252.188,
+        "endTime": 252.47,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 252.47,
+        "endTime": 253.193,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "He feels like he is eating the restaurant's food."
+  },
+  {
+    "startTime": 254.266,
+    "endTime": 255.266,
+    "fullTextZH": "嗯！",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 254.348,
+        "endTime": 255.225,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm!"
+  },
+  {
+    "startTime": 255.966,
+    "endTime": 258.733,
+    "fullTextZH": "鞋店老板很高兴，",
+    "words": [
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 256.006,
+        "endTime": 256.267,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 256.267,
+        "endTime": 257.289,
+        "gloss": "store owner"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 257.289,
+        "endTime": 257.67,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 257.67,
+        "endTime": 258.693,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "The shoe store owner is very happy,"
+  },
+  {
+    "startTime": 259.233,
+    "endTime": 262.333,
+    "fullTextZH": "他觉得这个方法很好。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 259.233,
+        "endTime": 259.454,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 259.454,
+        "endTime": 260.179,
+        "gloss": "thinks"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 260.179,
+        "endTime": 260.541,
+        "gloss": "this"
+      },
+      {
+        "word": "方法",
+        "pinyin": "fāng fǎ",
+        "startTime": 260.541,
+        "endTime": 261.246,
+        "gloss": "method"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 261.246,
+        "endTime": 261.628,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 261.628,
+        "endTime": 262.293,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "He thinks this method is very good."
+  },
+  {
+    "startTime": 263.166,
+    "endTime": 267.733,
+    "fullTextZH": "以后，他每天都坐在门口吃饭，",
+    "words": [
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 263.166,
+        "endTime": 263.326,
+        "gloss": "afterwards"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 264.007,
+        "endTime": 264.288,
+        "gloss": "he"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 264.288,
+        "endTime": 265.009,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 265.009,
+        "endTime": 265.269,
+        "gloss": "all"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 265.269,
+        "endTime": 265.89,
+        "gloss": "sit at"
+      },
+      {
+        "word": "门口",
+        "pinyin": "mén kǒu",
+        "startTime": 265.89,
+        "endTime": 266.711,
+        "gloss": "door"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 266.711,
+        "endTime": 267.693,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Afterwards, he sat at the door to eat every day,"
+  },
+  {
+    "startTime": 268.4,
+    "endTime": 271.766,
+    "fullTextZH": "一边闻餐厅的香味，",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 268.4,
+        "endTime": 268.761,
+        "gloss": "while"
+      },
+      {
+        "word": "闻",
+        "pinyin": "wén",
+        "startTime": 268.761,
+        "endTime": 269.903,
+        "gloss": "smell"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 269.903,
+        "endTime": 270.564,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.564,
+        "endTime": 270.764,
+        "gloss": "of"
+      },
+      {
+        "word": "香味",
+        "pinyin": "xiāng wèi",
+        "startTime": 270.764,
+        "endTime": 271.726,
+        "gloss": "aroma"
+      }
+    ],
+    "fullTextEN": "smelling the restaurant's aroma,"
+  },
+  {
+    "startTime": 271.833,
+    "endTime": 273.433,
+    "fullTextZH": "一边吃饭。",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 271.833,
+        "endTime": 272.38,
+        "gloss": "while"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 272.38,
+        "endTime": 273.392,
+        "gloss": "eating"
+      }
+    ],
+    "fullTextEN": "while eating."
+  },
+  {
+    "startTime": 274.566,
+    "endTime": 278.333,
+    "fullTextZH": "餐厅老板觉得很奇怪，",
+    "words": [
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 274.566,
+        "endTime": 275.087,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 275.087,
+        "endTime": 275.969,
+        "gloss": "owner"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 275.969,
+        "endTime": 276.83,
+        "gloss": "thinks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 276.83,
+        "endTime": 277.271,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 277.271,
+        "endTime": 278.293,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "The restaurant owner found it very strange,"
+  },
+  {
+    "startTime": 278.8,
+    "endTime": 279.733,
+    "fullTextZH": "他想，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 278.8,
+        "endTime": 279.084,
+        "gloss": "he"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 279.084,
+        "endTime": 279.692,
+        "gloss": "thought"
+      }
+    ],
+    "fullTextEN": "He thought,"
+  },
+  {
+    "startTime": 280.533,
+    "endTime": 281.333,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 280.595,
+        "endTime": 281.292,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 281.733,
+    "endTime": 288.066,
+    "fullTextZH": "为什么鞋店老板每天坐在门口吃饭呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 281.733,
+        "endTime": 282.595,
+        "gloss": "why"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 282.595,
+        "endTime": 282.855,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 282.855,
+        "endTime": 284.118,
+        "gloss": "store owner"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 284.118,
+        "endTime": 285.18,
+        "gloss": "every day"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 285.18,
+        "endTime": 285.781,
+        "gloss": "sit at"
+      },
+      {
+        "word": "门口",
+        "pinyin": "mén kǒu",
+        "startTime": 285.781,
+        "endTime": 286.783,
+        "gloss": "door"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 286.783,
+        "endTime": 287.345,
+        "gloss": "eat"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 287.345,
+        "endTime": 288.026,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Why does the shoe store owner sit at the door to eat every day?"
+  },
+  {
+    "startTime": 288.4,
+    "endTime": 289.333,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 288.542,
+        "endTime": 289.292,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 290.4,
+    "endTime": 293.066,
+    "fullTextZH": "他看了很久，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 290.4,
+        "endTime": 290.761,
+        "gloss": "he"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 290.761,
+        "endTime": 291.122,
+        "gloss": "watched"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 291.122,
+        "endTime": 291.603,
+        "gloss": "le"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 291.603,
+        "endTime": 292.304,
+        "gloss": "very"
+      },
+      {
+        "word": "久",
+        "pinyin": "jiǔ",
+        "startTime": 292.304,
+        "endTime": 293.026,
+        "gloss": "long"
+      }
+    ],
+    "fullTextEN": "He watched for a long time,"
+  },
+  {
+    "startTime": 293.666,
+    "endTime": 295.3,
+    "fullTextZH": "他知道，啊！",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 293.848,
+        "endTime": 293.969,
+        "gloss": "he"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 293.969,
+        "endTime": 294.493,
+        "gloss": "knew"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 294.614,
+        "endTime": 295.26,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "He knew, ah!"
+  },
+  {
+    "startTime": 295.566,
+    "endTime": 297.066,
+    "fullTextZH": "为什么了。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 295.586,
+        "endTime": 296.519,
+        "gloss": "why"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 296.519,
+        "endTime": 297.025,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Why."
+  },
+  {
+    "startTime": 297.866,
+    "endTime": 299.766,
+    "fullTextZH": "所以有一天，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 297.906,
+        "endTime": 298.573,
+        "gloss": "so"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 298.573,
+        "endTime": 298.796,
+        "gloss": "have"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 298.796,
+        "endTime": 299.746,
+        "gloss": "one day"
+      }
+    ],
+    "fullTextEN": "So one day,"
+  },
+  {
+    "startTime": 300.033,
+    "endTime": 303.833,
+    "fullTextZH": "餐厅老板去鞋店老板的家，",
+    "words": [
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 300.033,
+        "endTime": 300.556,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 300.556,
+        "endTime": 301.36,
+        "gloss": "owner"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 301.36,
+        "endTime": 301.843,
+        "gloss": "go"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 301.843,
+        "endTime": 302.124,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 302.124,
+        "endTime": 302.868,
+        "gloss": "store owner"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.868,
+        "endTime": 303.089,
+        "gloss": "of"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 303.089,
+        "endTime": 303.793,
+        "gloss": "house"
+      }
+    ],
+    "fullTextEN": "The restaurant owner went to the shoe store owner's house,"
+  },
+  {
+    "startTime": 304.466,
+    "endTime": 307.033,
+    "fullTextZH": "拿这张纸给他。",
+    "words": [
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 304.486,
+        "endTime": 304.847,
+        "gloss": "give"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 304.847,
+        "endTime": 305.088,
+        "gloss": "this"
+      },
+      {
+        "word": "张纸",
+        "pinyin": "zhāng zhǐ",
+        "startTime": 305.088,
+        "endTime": 306.03,
+        "gloss": "piece of paper"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 306.03,
+        "endTime": 306.271,
+        "gloss": "to"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 306.271,
+        "endTime": 306.993,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "and gave him this piece of paper."
+  },
+  {
+    "startTime": 308.033,
+    "endTime": 312.166,
+    "fullTextZH": "你猜猜这张纸是什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 308.033,
+        "endTime": 308.354,
+        "gloss": "you"
+      },
+      {
+        "word": "猜猜",
+        "pinyin": "cāi cāi",
+        "startTime": 308.354,
+        "endTime": 309.839,
+        "gloss": "guess"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 309.839,
+        "endTime": 309.999,
+        "gloss": "this"
+      },
+      {
+        "word": "张纸",
+        "pinyin": "zhāng zhǐ",
+        "startTime": 309.999,
+        "endTime": 311.042,
+        "gloss": "piece of paper"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 311.042,
+        "endTime": 311.243,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 311.243,
+        "endTime": 312.126,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Can you guess what this piece of paper is?"
+  },
+  {
+    "startTime": 314.3,
+    "endTime": 317.633,
+    "fullTextZH": "这张纸是一张账单。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 314.3,
+        "endTime": 314.441,
+        "gloss": "this"
+      },
+      {
+        "word": "张纸",
+        "pinyin": "zhāng zhǐ",
+        "startTime": 314.441,
+        "endTime": 315.424,
+        "gloss": "piece of paper"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 315.424,
+        "endTime": 315.665,
+        "gloss": "is"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 315.665,
+        "endTime": 316.448,
+        "gloss": "a"
+      },
+      {
+        "word": "账单",
+        "pinyin": "zhàng dān",
+        "startTime": 316.448,
+        "endTime": 317.593,
+        "gloss": "bill"
+      }
+    ],
+    "fullTextEN": "This piece of paper is a bill."
+  },
+  {
+    "startTime": 318.566,
+    "endTime": 324.433,
+    "fullTextZH": "账单就是你用东西、吃东西以后，",
+    "words": [
+      {
+        "word": "账单",
+        "pinyin": "zhàng dān",
+        "startTime": 318.566,
+        "endTime": 319.487,
+        "gloss": "bill"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 319.487,
+        "endTime": 320.248,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 320.248,
+        "endTime": 320.648,
+        "gloss": "you"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 320.648,
+        "endTime": 320.969,
+        "gloss": "use"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 320.969,
+        "endTime": 322.25,
+        "gloss": "things"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 322.411,
+        "endTime": 322.691,
+        "gloss": "eat"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 322.691,
+        "endTime": 323.392,
+        "gloss": "things"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 323.392,
+        "endTime": 324.393,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "A bill is what you get after using or eating things,"
+  },
+  {
+    "startTime": 325.033,
+    "endTime": 329.3,
+    "fullTextZH": "告诉你要付多少钱的纸。",
+    "words": [
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 325.033,
+        "endTime": 325.514,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 325.514,
+        "endTime": 326.155,
+        "gloss": "you"
+      },
+      {
+        "word": "要付",
+        "pinyin": "yào fù",
+        "startTime": 326.155,
+        "endTime": 327.217,
+        "gloss": "need to pay"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 327.217,
+        "endTime": 327.898,
+        "gloss": "how much"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 327.898,
+        "endTime": 328.419,
+        "gloss": "money"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 328.419,
+        "endTime": 328.659,
+        "gloss": "of"
+      },
+      {
+        "word": "纸",
+        "pinyin": "zhǐ",
+        "startTime": 328.659,
+        "endTime": 329.26,
+        "gloss": "paper"
+      }
+    ],
+    "fullTextEN": "telling you how much money you need to pay."
+  },
+  {
+    "startTime": 329.466,
+    "endTime": 335.266,
+    "fullTextZH": "对，餐厅老板给鞋店老板一张账单。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 329.486,
+        "endTime": 329.586,
+        "gloss": "right"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 330.55,
+        "endTime": 331.092,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 331.092,
+        "endTime": 331.874,
+        "gloss": "owner"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 331.874,
+        "endTime": 332.195,
+        "gloss": "give"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 332.195,
+        "endTime": 332.496,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 332.496,
+        "endTime": 333.58,
+        "gloss": "store owner"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 333.58,
+        "endTime": 334.242,
+        "gloss": "a"
+      },
+      {
+        "word": "账单",
+        "pinyin": "zhàng dān",
+        "startTime": 334.242,
+        "endTime": 335.226,
+        "gloss": "bill"
+      }
+    ],
+    "fullTextEN": "Right, the restaurant owner gave the shoe store owner a bill."
+  },
+  {
+    "startTime": 336.2,
+    "endTime": 341.366,
+    "fullTextZH": "可是为什么要给他一张账单呢？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 336.5,
+        "endTime": 337.441,
+        "gloss": "but"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 337.441,
+        "endTime": 338.222,
+        "gloss": "why"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 338.222,
+        "endTime": 338.483,
+        "gloss": "need"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 338.483,
+        "endTime": 338.703,
+        "gloss": "give"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 338.703,
+        "endTime": 339.344,
+        "gloss": "him"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 339.344,
+        "endTime": 339.864,
+        "gloss": "a"
+      },
+      {
+        "word": "账单",
+        "pinyin": "zhàng dān",
+        "startTime": 339.864,
+        "endTime": 340.485,
+        "gloss": "bill"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 340.485,
+        "endTime": 341.326,
+        "gloss": "呢"
+      }
+    ],
+    "fullTextEN": "But why give him a bill?"
+  },
+  {
+    "startTime": 341.7,
+    "endTime": 346.0,
+    "fullTextZH": "鞋店老板没有去餐厅吃饭啊！",
+    "words": [
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 341.861,
+        "endTime": 342.122,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 342.122,
+        "endTime": 343.167,
+        "gloss": "store owner"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 343.167,
+        "endTime": 343.81,
+        "gloss": "did not"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 343.81,
+        "endTime": 344.151,
+        "gloss": "go"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 344.151,
+        "endTime": 344.955,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 344.955,
+        "endTime": 345.437,
+        "gloss": "eat"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 345.437,
+        "endTime": 345.96,
+        "gloss": "啊"
+      }
+    ],
+    "fullTextEN": "The shoe store owner didn't go to the restaurant to eat!"
+  },
+  {
+    "startTime": 347.2,
+    "endTime": 348.833,
+    "fullTextZH": "你猜到了吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 347.482,
+        "endTime": 347.865,
+        "gloss": "you"
+      },
+      {
+        "word": "猜",
+        "pinyin": "cāi",
+        "startTime": 347.865,
+        "endTime": 348.148,
+        "gloss": "guess"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 348.148,
+        "endTime": 348.369,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 348.369,
+        "endTime": 348.51,
+        "gloss": "了"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 348.51,
+        "endTime": 348.813,
+        "gloss": "吗"
+      }
+    ],
+    "fullTextEN": "Did you guess it?"
+  },
+  {
+    "startTime": 349.933,
+    "endTime": 356.6,
+    "fullTextZH": "因为鞋店老板每天闻食物的香味，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 350.193,
+        "endTime": 351.094,
+        "gloss": "because"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 351.094,
+        "endTime": 351.395,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 351.395,
+        "endTime": 352.536,
+        "gloss": "store owner"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 352.536,
+        "endTime": 353.777,
+        "gloss": "every day"
+      },
+      {
+        "word": "闻",
+        "pinyin": "wén",
+        "startTime": 353.777,
+        "endTime": 355.138,
+        "gloss": "smell"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 355.138,
+        "endTime": 355.719,
+        "gloss": "food"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 355.719,
+        "endTime": 355.939,
+        "gloss": "of"
+      },
+      {
+        "word": "香味",
+        "pinyin": "xiāng wèi",
+        "startTime": 355.939,
+        "endTime": 356.56,
+        "gloss": "aroma"
+      }
+    ],
+    "fullTextEN": "Because the shoe store owner smells the food aroma every day,"
+  },
+  {
+    "startTime": 356.966,
+    "endTime": 360.966,
+    "fullTextZH": "所以餐厅老板要他付钱。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 357.308,
+        "endTime": 357.991,
+        "gloss": "so"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 357.991,
+        "endTime": 358.554,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 358.554,
+        "endTime": 359.318,
+        "gloss": "owner"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 359.318,
+        "endTime": 359.579,
+        "gloss": "want"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 359.579,
+        "endTime": 360.222,
+        "gloss": "him"
+      },
+      {
+        "word": "付钱",
+        "pinyin": "fù qián",
+        "startTime": 360.222,
+        "endTime": 360.926,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "so the restaurant owner wants him to pay."
+  },
+  {
+    "startTime": 362.833,
+    "endTime": 366.2,
+    "fullTextZH": "你看过这么小气的人吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 363.114,
+        "endTime": 363.414,
+        "gloss": "you"
+      },
+      {
+        "word": "看过",
+        "pinyin": "kàn guò",
+        "startTime": 363.414,
+        "endTime": 364.416,
+        "gloss": "seen"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 364.416,
+        "endTime": 364.877,
+        "gloss": "such"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 364.877,
+        "endTime": 365.458,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 365.458,
+        "endTime": 365.599,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 365.599,
+        "endTime": 365.819,
+        "gloss": "person"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 365.819,
+        "endTime": 366.16,
+        "gloss": "吗"
+      }
+    ],
+    "fullTextEN": "Have you seen such a stingy person?"
+  },
+  {
+    "startTime": 366.666,
+    "endTime": 369.066,
+    "fullTextZH": "如果你遇到这种人，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 366.989,
+        "endTime": 367.392,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 367.392,
+        "endTime": 367.674,
+        "gloss": "you"
+      },
+      {
+        "word": "遇到",
+        "pinyin": "yù dào",
+        "startTime": 367.674,
+        "endTime": 368.279,
+        "gloss": "encounter"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 368.279,
+        "endTime": 368.723,
+        "gloss": "such"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 368.723,
+        "endTime": 369.026,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "If you encounter such a person,"
+  },
+  {
+    "startTime": 369.433,
+    "endTime": 372.2,
+    "fullTextZH": "你会不会很生气？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 369.734,
+        "endTime": 369.994,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 369.994,
+        "endTime": 370.195,
+        "gloss": "would"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 370.195,
+        "endTime": 370.897,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 370.897,
+        "endTime": 371.358,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 371.358,
+        "endTime": 372.16,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "wouldn't you be very angry?"
+  },
+  {
+    "startTime": 372.6,
+    "endTime": 373.4,
+    "fullTextZH": "嗯！",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 372.887,
+        "endTime": 373.359,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm!"
+  },
+  {
+    "startTime": 374.266,
+    "endTime": 378.166,
+    "fullTextZH": "现在鞋店老板拿到账单，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 374.668,
+        "endTime": 375.593,
+        "gloss": "now"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 375.593,
+        "endTime": 375.814,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 375.814,
+        "endTime": 376.719,
+        "gloss": "store owner"
+      },
+      {
+        "word": "拿到",
+        "pinyin": "ná dào",
+        "startTime": 376.719,
+        "endTime": 377.442,
+        "gloss": "received"
+      },
+      {
+        "word": "账单",
+        "pinyin": "zhàng dān",
+        "startTime": 377.442,
+        "endTime": 378.126,
+        "gloss": "bill"
+      }
+    ],
+    "fullTextEN": "Now the shoe store owner received the bill,"
+  },
+  {
+    "startTime": 378.466,
+    "endTime": 381.4,
+    "fullTextZH": "你觉得他要怎么办？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 378.767,
+        "endTime": 379.009,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 379.009,
+        "endTime": 380.074,
+        "gloss": "think"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 380.074,
+        "endTime": 380.315,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 380.315,
+        "endTime": 380.717,
+        "gloss": "should"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 380.717,
+        "endTime": 381.36,
+        "gloss": "do what"
+      }
+    ],
+    "fullTextEN": "what do you think he should do?"
+  },
+  {
+    "startTime": 383.3,
+    "endTime": 386.033,
+    "fullTextZH": "鞋店老板很生气，",
+    "words": [
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 383.32,
+        "endTime": 383.541,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 383.541,
+        "endTime": 384.486,
+        "gloss": "store owner"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 384.486,
+        "endTime": 384.888,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 384.888,
+        "endTime": 386.013,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "The shoe store owner is very angry,"
+  },
+  {
+    "startTime": 386.733,
+    "endTime": 390.033,
+    "fullTextZH": "他也觉得很好笑，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 386.733,
+        "endTime": 386.894,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 386.894,
+        "endTime": 387.135,
+        "gloss": "also"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 387.135,
+        "endTime": 388.584,
+        "gloss": "finds"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 388.584,
+        "endTime": 388.906,
+        "gloss": "very"
+      },
+      {
+        "word": "好笑",
+        "pinyin": "hǎo xiào",
+        "startTime": 388.906,
+        "endTime": 389.993,
+        "gloss": "funny"
+      }
+    ],
+    "fullTextEN": "he also finds it very funny,"
+  },
+  {
+    "startTime": 390.466,
+    "endTime": 395.366,
+    "fullTextZH": "因为他第一次看到这么小气的人。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 390.466,
+        "endTime": 391.109,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 391.109,
+        "endTime": 391.49,
+        "gloss": "he"
+      },
+      {
+        "word": "第一次",
+        "pinyin": "dì yī cì",
+        "startTime": 391.49,
+        "endTime": 392.675,
+        "gloss": "first time"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 392.675,
+        "endTime": 393.257,
+        "gloss": "see"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 393.257,
+        "endTime": 393.759,
+        "gloss": "such"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 393.759,
+        "endTime": 394.462,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 394.462,
+        "endTime": 394.603,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 394.603,
+        "endTime": 395.326,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "because it's the first time he's seen such a stingy person."
+  },
+  {
+    "startTime": 395.833,
+    "endTime": 398.166,
+    "fullTextZH": "他拿了一个杯子，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 395.833,
+        "endTime": 396.014,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 396.014,
+        "endTime": 396.356,
+        "gloss": "took"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 396.356,
+        "endTime": 396.879,
+        "gloss": "了"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 396.879,
+        "endTime": 397.221,
+        "gloss": "a"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 397.221,
+        "endTime": 398.126,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "He took a cup,"
+  },
+  {
+    "startTime": 398.766,
+    "endTime": 402.266,
+    "fullTextZH": "在里面放一些钱币，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 398.766,
+        "endTime": 398.927,
+        "gloss": "in"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 398.927,
+        "endTime": 399.973,
+        "gloss": "inside"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 399.973,
+        "endTime": 400.234,
+        "gloss": "put"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 400.234,
+        "endTime": 401.119,
+        "gloss": "some"
+      },
+      {
+        "word": "钱币",
+        "pinyin": "qián bì",
+        "startTime": 401.119,
+        "endTime": 402.226,
+        "gloss": "coins"
+      }
+    ],
+    "fullTextEN": "put some coins inside,"
+  },
+  {
+    "startTime": 406.766,
+    "endTime": 408.766,
+    "fullTextZH": "然后开始摇。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 406.766,
+        "endTime": 407.372,
+        "gloss": "then"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 407.372,
+        "endTime": 408.039,
+        "gloss": "started"
+      },
+      {
+        "word": "摇",
+        "pinyin": "yáo",
+        "startTime": 408.039,
+        "endTime": 408.726,
+        "gloss": "shake"
+      }
+    ],
+    "fullTextEN": "and started shaking it."
+  },
+  {
+    "startTime": 411.433,
+    "endTime": 413.466,
+    "fullTextZH": "钱在杯子里，",
+    "words": [
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 411.433,
+        "endTime": 412.017,
+        "gloss": "money"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 412.017,
+        "endTime": 412.319,
+        "gloss": "in"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 412.319,
+        "endTime": 412.761,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 412.761,
+        "endTime": 413.365,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "The money is in the cup,"
+  },
+  {
+    "startTime": 413.466,
+    "endTime": 414.666,
+    "fullTextZH": "叮铃，叮铃！",
+    "words": [
+      {
+        "word": "叮铃",
+        "pinyin": "dīng líng",
+        "startTime": 413.486,
+        "endTime": 413.629,
+        "gloss": "ding-a-ling"
+      },
+      {
+        "word": "叮铃",
+        "pinyin": "dīng líng",
+        "startTime": 413.873,
+        "endTime": 414.137,
+        "gloss": "ding-a-ling"
+      }
+    ],
+    "fullTextEN": "Ding-a-ling, ding-a-ling!"
+  },
+  {
+    "startTime": 416.6,
+    "endTime": 417.933,
+    "fullTextZH": "他摇了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 416.6,
+        "endTime": 416.903,
+        "gloss": "he"
+      },
+      {
+        "word": "摇",
+        "pinyin": "yáo",
+        "startTime": 416.903,
+        "endTime": 417.267,
+        "gloss": "shook"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 417.267,
+        "endTime": 417.893,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "He shook it,"
+  },
+  {
+    "startTime": 418.666,
+    "endTime": 420.466,
+    "fullTextZH": "摇了一分钟。",
+    "words": [
+      {
+        "word": "摇",
+        "pinyin": "yáo",
+        "startTime": 418.666,
+        "endTime": 418.909,
+        "gloss": "shake"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 418.909,
+        "endTime": 419.111,
+        "gloss": "particle"
+      },
+      {
+        "word": "一分钟",
+        "pinyin": "yì fēn zhōng",
+        "startTime": 419.111,
+        "endTime": 420.426,
+        "gloss": "one minute"
+      }
+    ],
+    "fullTextEN": "Shook it for a minute."
+  },
+  {
+    "startTime": 422.333,
+    "endTime": 428.233,
+    "fullTextZH": "然后他问餐厅老板：这样够了吗？",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 422.333,
+        "endTime": 423.136,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 423.136,
+        "endTime": 423.537,
+        "gloss": "he"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 423.537,
+        "endTime": 424.36,
+        "gloss": "ask"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 424.36,
+        "endTime": 424.902,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 424.902,
+        "endTime": 425.383,
+        "gloss": "owner"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 426.587,
+        "endTime": 427.21,
+        "gloss": "this way"
+      },
+      {
+        "word": "够",
+        "pinyin": "gòu",
+        "startTime": 427.21,
+        "endTime": 427.43,
+        "gloss": "enough"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 427.43,
+        "endTime": 427.551,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 427.551,
+        "endTime": 428.193,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Then he asked the restaurant owner: Is this enough?"
+  },
+  {
+    "startTime": 429.733,
+    "endTime": 435.233,
+    "fullTextZH": "餐厅老板不知道鞋店老板是什么意思。",
+    "words": [
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 429.733,
+        "endTime": 430.175,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 430.175,
+        "endTime": 431.078,
+        "gloss": "owner"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 431.078,
+        "endTime": 431.319,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 431.319,
+        "endTime": 432.262,
+        "gloss": "know"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 432.262,
+        "endTime": 432.603,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 432.603,
+        "endTime": 433.647,
+        "gloss": "store owner"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 433.647,
+        "endTime": 433.888,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 433.888,
+        "endTime": 434.269,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 434.269,
+        "endTime": 435.193,
+        "gloss": "meaning"
+      }
+    ],
+    "fullTextEN": "The restaurant owner didn't know what the shoe store owner meant."
+  },
+  {
+    "startTime": 436.266,
+    "endTime": 438.9,
+    "fullTextZH": "所以鞋店老板说，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 436.266,
+        "endTime": 437.01,
+        "gloss": "so"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 437.01,
+        "endTime": 437.251,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 437.251,
+        "endTime": 438.015,
+        "gloss": "store owner"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 438.015,
+        "endTime": 438.86,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "So the shoe store owner said,"
+  },
+  {
+    "startTime": 439.233,
+    "endTime": 443.3,
+    "fullTextZH": "因为我闻了食物的味道，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 439.233,
+        "endTime": 440.175,
+        "gloss": "because"
+      },
+      {
+        "word": "我闻",
+        "pinyin": "wǒ wén",
+        "startTime": 440.175,
+        "endTime": 440.756,
+        "gloss": "I smelled"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 440.756,
+        "endTime": 441.537,
+        "gloss": "particle"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 441.537,
+        "endTime": 442.038,
+        "gloss": "food"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 442.038,
+        "endTime": 442.178,
+        "gloss": "possessive"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 442.178,
+        "endTime": 443.26,
+        "gloss": "smell"
+      }
+    ],
+    "fullTextEN": "Because I smelled the food,"
+  },
+  {
+    "startTime": 443.4,
+    "endTime": 445.4,
+    "fullTextZH": "你要我付钱。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 443.42,
+        "endTime": 443.642,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 443.642,
+        "endTime": 443.905,
+        "gloss": "want"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 443.905,
+        "endTime": 444.309,
+        "gloss": "me"
+      },
+      {
+        "word": "付钱",
+        "pinyin": "fù qián",
+        "startTime": 444.309,
+        "endTime": 445.36,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "you want me to pay."
+  },
+  {
+    "startTime": 446.2,
+    "endTime": 450.1,
+    "fullTextZH": "现在我给你听钱的声音，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 446.2,
+        "endTime": 446.884,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 446.884,
+        "endTime": 447.185,
+        "gloss": "I"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 447.185,
+        "endTime": 447.426,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 447.426,
+        "endTime": 447.748,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 447.748,
+        "endTime": 448.452,
+        "gloss": "hear"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 448.452,
+        "endTime": 448.854,
+        "gloss": "money"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 448.854,
+        "endTime": 449.035,
+        "gloss": "possessive"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 449.035,
+        "endTime": 450.06,
+        "gloss": "sound"
+      }
+    ],
+    "fullTextEN": "Now I let you hear the sound of money,"
+  },
+  {
+    "startTime": 451.8,
+    "endTime": 454.333,
+    "fullTextZH": "如果你觉得不够，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 451.82,
+        "endTime": 452.323,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 452.323,
+        "endTime": 452.564,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 452.564,
+        "endTime": 453.368,
+        "gloss": "think"
+      },
+      {
+        "word": "不够",
+        "pinyin": "bù gòu",
+        "startTime": 453.368,
+        "endTime": 454.293,
+        "gloss": "not enough"
+      }
+    ],
+    "fullTextEN": "If you think it's not enough,"
+  },
+  {
+    "startTime": 454.633,
+    "endTime": 456.733,
+    "fullTextZH": "我可以继续摇。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 454.633,
+        "endTime": 454.815,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 454.815,
+        "endTime": 455.38,
+        "gloss": "can"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 455.38,
+        "endTime": 455.905,
+        "gloss": "continue"
+      },
+      {
+        "word": "摇",
+        "pinyin": "yáo",
+        "startTime": 455.905,
+        "endTime": 456.693,
+        "gloss": "shake"
+      }
+    ],
+    "fullTextEN": "I can keep shaking."
+  },
+  {
+    "startTime": 459.133,
+    "endTime": 461.333,
+    "fullTextZH": "餐厅老板听了，",
+    "words": [
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 459.133,
+        "endTime": 459.577,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 459.577,
+        "endTime": 460.324,
+        "gloss": "owner"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 460.324,
+        "endTime": 460.687,
+        "gloss": "listened"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 460.687,
+        "endTime": 461.293,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "The restaurant owner listened,"
+  },
+  {
+    "startTime": 461.866,
+    "endTime": 466.933,
+    "fullTextZH": "现在他知道鞋店老板在笑他，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 461.886,
+        "endTime": 462.587,
+        "gloss": "now"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 462.587,
+        "endTime": 462.968,
+        "gloss": "he"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 462.968,
+        "endTime": 464.149,
+        "gloss": "knows"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 464.149,
+        "endTime": 464.41,
+        "gloss": "shoe"
+      },
+      {
+        "word": "店老板",
+        "pinyin": "diàn lǎo bǎn",
+        "startTime": 464.41,
+        "endTime": 465.471,
+        "gloss": "store owner"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 465.471,
+        "endTime": 465.912,
+        "gloss": "is"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 465.912,
+        "endTime": 466.232,
+        "gloss": "laughing"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 466.232,
+        "endTime": 466.893,
+        "gloss": "at"
+      }
+    ],
+    "fullTextEN": "Now he knows the shoe store owner is laughing at him,"
+  },
+  {
+    "startTime": 469.133,
+    "endTime": 471.733,
+    "fullTextZH": "也不会付钱给他。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 469.133,
+        "endTime": 469.355,
+        "gloss": "also"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 469.355,
+        "endTime": 470.04,
+        "gloss": "won't"
+      },
+      {
+        "word": "付钱",
+        "pinyin": "fù qián",
+        "startTime": 470.04,
+        "endTime": 470.745,
+        "gloss": "pay"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 470.745,
+        "endTime": 470.947,
+        "gloss": "to"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 470.947,
+        "endTime": 471.693,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "and won't pay him."
+  },
+  {
+    "startTime": 472.366,
+    "endTime": 475.2,
+    "fullTextZH": "所以他跑回家了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 472.426,
+        "endTime": 473.17,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 473.17,
+        "endTime": 473.492,
+        "gloss": "he"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 473.492,
+        "endTime": 473.934,
+        "gloss": "ran"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 473.934,
+        "endTime": 474.476,
+        "gloss": "home"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 474.476,
+        "endTime": 475.16,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So he ran back home."
+  },
+  {
+    "startTime": 475.633,
+    "endTime": 478.133,
+    "fullTextZH": "今天的故事说完了。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 475.976,
+        "endTime": 476.439,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 476.439,
+        "endTime": 476.621,
+        "gloss": "possessive"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 476.621,
+        "endTime": 477.468,
+        "gloss": "story"
+      },
+      {
+        "word": "说完",
+        "pinyin": "shuō wán",
+        "startTime": 477.468,
+        "endTime": 478.012,
+        "gloss": "finished"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 478.012,
+        "endTime": 478.113,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Today's story is finished."
+  },
+  {
+    "startTime": 478.666,
+    "endTime": 480.466,
+    "fullTextZH": "换你说说看，",
+    "words": [
+      {
+        "word": "换",
+        "pinyin": "huàn",
+        "startTime": 479.111,
+        "endTime": 479.333,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 479.333,
+        "endTime": 479.697,
+        "gloss": "you"
+      },
+      {
+        "word": "说说看",
+        "pinyin": "shuō shuō kàn",
+        "startTime": 479.697,
+        "endTime": 480.446,
+        "gloss": "try to tell"
+      }
+    ],
+    "fullTextEN": "Now it's your turn to tell,"
+  },
+  {
+    "startTime": 481.133,
+    "endTime": 484.1,
+    "fullTextZH": "你看过小气的人吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 481.494,
+        "endTime": 481.935,
+        "gloss": "you"
+      },
+      {
+        "word": "看过",
+        "pinyin": "kàn guò",
+        "startTime": 481.935,
+        "endTime": 482.857,
+        "gloss": "seen"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 482.857,
+        "endTime": 483.479,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 483.479,
+        "endTime": 483.619,
+        "gloss": "possessive"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 483.619,
+        "endTime": 483.839,
+        "gloss": "people"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 483.839,
+        "endTime": 484.08,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you seen stingy people?"
+  },
+  {
+    "startTime": 485.1,
+    "endTime": 488.2,
+    "fullTextZH": "他们做了什么小气的事呢？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 485.462,
+        "endTime": 486.187,
+        "gloss": "they"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 486.187,
+        "endTime": 486.449,
+        "gloss": "did"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 486.449,
+        "endTime": 486.59,
+        "gloss": "particle"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 486.59,
+        "endTime": 487.032,
+        "gloss": "what"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 487.032,
+        "endTime": 487.576,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 487.576,
+        "endTime": 487.777,
+        "gloss": "possessive"
+      },
+      {
+        "word": "事",
+        "pinyin": "shì",
+        "startTime": 487.777,
+        "endTime": 487.999,
+        "gloss": "things"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 487.999,
+        "endTime": 488.18,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What stingy things did they do?"
+  },
+  {
+    "startTime": 489.266,
+    "endTime": 494.1,
+    "fullTextZH": "我们遇到小气的人应该怎么办呢？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 489.627,
+        "endTime": 490.169,
+        "gloss": "we"
+      },
+      {
+        "word": "遇到",
+        "pinyin": "yù dào",
+        "startTime": 490.169,
+        "endTime": 490.75,
+        "gloss": "encounter"
+      },
+      {
+        "word": "小气",
+        "pinyin": "xiǎo qì",
+        "startTime": 490.75,
+        "endTime": 491.332,
+        "gloss": "stingy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 491.332,
+        "endTime": 491.452,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 491.452,
+        "endTime": 492.796,
+        "gloss": "people"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 492.796,
+        "endTime": 493.258,
+        "gloss": "should"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 493.258,
+        "endTime": 493.859,
+        "gloss": "do what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 493.859,
+        "endTime": 494.08,
+        "gloss": "呢"
+      }
+    ],
+    "fullTextEN": "What should we do when we encounter stingy people?"
+  },
+  {
+    "startTime": 494.9,
+    "endTime": 497.633,
+    "fullTextZH": "欢迎你留言告诉我！",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 495.322,
+        "endTime": 495.684,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 495.684,
+        "endTime": 496.146,
+        "gloss": "you"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 496.146,
+        "endTime": 496.829,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 496.829,
+        "endTime": 497.271,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 497.271,
+        "endTime": 497.613,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You're welcome to leave a comment and tell me!"
+  },
+  {
+    "startTime": 498.066,
+    "endTime": 501.433,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 498.387,
+        "endTime": 498.808,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 498.808,
+        "endTime": 499.429,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 499.429,
+        "endTime": 500.331,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 500.351,
+        "endTime": 501.413,
+        "gloss": "bye bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

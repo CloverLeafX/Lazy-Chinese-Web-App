@@ -1,0 +1,7750 @@
+[
+  {
+    "startTime": 0.233,
+    "endTime": 2.0,
+    "fullTextZH": "哈喽大家好",
+    "words": [
+      {
+        "word": "哈",
+        "pinyin": "hā",
+        "startTime": 0.313,
+        "endTime": 0.454,
+        "gloss": "ha"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 0.454,
+        "endTime": 0.936,
+        "gloss": "lo"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.936,
+        "endTime": 1.317,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.317,
+        "endTime": 1.337,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello everyone"
+  },
+  {
+    "startTime": 2.0,
+    "endTime": 3.3,
+    "fullTextZH": "我是Yvonne",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.061,
+        "endTime": 2.345,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.345,
+        "endTime": 2.548,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "I am Yvonne"
+  },
+  {
+    "startTime": 3.533,
+    "endTime": 5.633,
+    "fullTextZH": "我是台湾人",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.594,
+        "endTime": 3.796,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 3.796,
+        "endTime": 4.26,
+        "gloss": "am"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 4.26,
+        "endTime": 4.866,
+        "gloss": "Taiwanese"
+      }
+    ],
+    "fullTextEN": "I am Taiwanese"
+  },
+  {
+    "startTime": 5.966,
+    "endTime": 11.9,
+    "fullTextZH": "今天我要给你们看一个东西",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 6.026,
+        "endTime": 7.349,
+        "gloss": "today"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 7.349,
+        "endTime": 8.412,
+        "gloss": "I want"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 8.412,
+        "endTime": 8.672,
+        "gloss": "to"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 8.672,
+        "endTime": 9.113,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 9.113,
+        "endTime": 10.096,
+        "gloss": "show"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 10.096,
+        "endTime": 10.898,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 10.898,
+        "endTime": 11.218,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Today I want to show you something"
+  },
+  {
+    "startTime": 13.6,
+    "endTime": 16.9,
+    "fullTextZH": "当当这是豆腐",
+    "words": [
+      {
+        "word": "当当",
+        "pinyin": "dāng dāng",
+        "startTime": 13.68,
+        "endTime": 15.21,
+        "gloss": "ta-da"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 15.21,
+        "endTime": 15.31,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 15.31,
+        "endTime": 15.632,
+        "gloss": "is"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 15.632,
+        "endTime": 16.115,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Ta-da, this is tofu"
+  },
+  {
+    "startTime": 16.966,
+    "endTime": 18.2,
+    "fullTextZH": "这是豆腐",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 17.027,
+        "endTime": 17.31,
+        "gloss": "this is"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 17.31,
+        "endTime": 17.694,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "This is tofu"
+  },
+  {
+    "startTime": 19.033,
+    "endTime": 24.633,
+    "fullTextZH": "你们喜欢吃豆腐吗",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 19.133,
+        "endTime": 19.916,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 19.916,
+        "endTime": 21.482,
+        "gloss": "like"
+      },
+      {
+        "word": "吃豆腐",
+        "pinyin": "chī dòu fǔ",
+        "startTime": 21.482,
+        "endTime": 23.971,
+        "gloss": "eat tofu"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 23.971,
+        "endTime": 23.991,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like eating tofu?"
+  },
+  {
+    "startTime": 25.433,
+    "endTime": 29.5,
+    "fullTextZH": "我们台湾人很喜欢",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 25.573,
+        "endTime": 26.475,
+        "gloss": "we"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 26.475,
+        "endTime": 27.777,
+        "gloss": "Taiwanese"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 27.777,
+        "endTime": 28.438,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 28.438,
+        "endTime": 28.779,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "We Taiwanese really like it"
+  },
+  {
+    "startTime": 29.833,
+    "endTime": 32.9,
+    "fullTextZH": "我们很喜欢吃豆腐",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 29.933,
+        "endTime": 30.254,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 30.254,
+        "endTime": 30.695,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 30.695,
+        "endTime": 31.356,
+        "gloss": "like"
+      },
+      {
+        "word": "吃豆腐",
+        "pinyin": "chī dòu fǔ",
+        "startTime": 31.356,
+        "endTime": 32.419,
+        "gloss": "eat tofu"
+      }
+    ],
+    "fullTextEN": "We really like eating tofu"
+  },
+  {
+    "startTime": 33.566,
+    "endTime": 41.233,
+    "fullTextZH": "你知道我们台湾人喜欢用豆腐做",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 33.626,
+        "endTime": 34.006,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 34.006,
+        "endTime": 35.007,
+        "gloss": "know"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 35.007,
+        "endTime": 35.648,
+        "gloss": "we"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 35.648,
+        "endTime": 37.169,
+        "gloss": "Taiwanese"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 37.169,
+        "endTime": 37.99,
+        "gloss": "like"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 37.99,
+        "endTime": 38.971,
+        "gloss": "use"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 38.971,
+        "endTime": 40.432,
+        "gloss": "tofu"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 40.432,
+        "endTime": 40.452,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "Do you know what we Taiwanese like to make with tofu?"
+  },
+  {
+    "startTime": 41.633,
+    "endTime": 44.033,
+    "fullTextZH": "做什么菜吗",
+    "words": [
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 41.714,
+        "endTime": 42.339,
+        "gloss": "make"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 42.339,
+        "endTime": 42.984,
+        "gloss": "what"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 42.984,
+        "endTime": 43.367,
+        "gloss": "dish"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 43.367,
+        "endTime": 43.388,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What dish do we make?"
+  },
+  {
+    "startTime": 44.7,
+    "endTime": 47.933,
+    "fullTextZH": "今天我要跟你说",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 44.76,
+        "endTime": 45.724,
+        "gloss": "today"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 45.724,
+        "endTime": 46.608,
+        "gloss": "I want"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 46.608,
+        "endTime": 46.849,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 46.849,
+        "endTime": 47.17,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 47.17,
+        "endTime": 47.19,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Today I want to tell you"
+  },
+  {
+    "startTime": 48.966,
+    "endTime": 55.7,
+    "fullTextZH": "今天我要教你们怎么做一道台湾的菜",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 49.006,
+        "endTime": 50.048,
+        "gloss": "today"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 50.048,
+        "endTime": 50.77,
+        "gloss": "I want"
+      },
+      {
+        "word": "教",
+        "pinyin": "jiào",
+        "startTime": 50.77,
+        "endTime": 51.11,
+        "gloss": "teach"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 51.11,
+        "endTime": 51.992,
+        "gloss": "you"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 51.992,
+        "endTime": 52.413,
+        "gloss": "how"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 52.413,
+        "endTime": 53.034,
+        "gloss": "make"
+      },
+      {
+        "word": "一道",
+        "pinyin": "yī dào",
+        "startTime": 53.034,
+        "endTime": 54.077,
+        "gloss": "a"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 54.077,
+        "endTime": 54.758,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 54.758,
+        "endTime": 55.079,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 55.079,
+        "endTime": 55.099,
+        "gloss": "dish"
+      }
+    ],
+    "fullTextEN": "Today I want to teach you how to make a Taiwanese dish"
+  },
+  {
+    "startTime": 56.066,
+    "endTime": 58.966,
+    "fullTextZH": "用豆腐做的菜",
+    "words": [
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 56.126,
+        "endTime": 56.67,
+        "gloss": "use"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 56.67,
+        "endTime": 57.838,
+        "gloss": "tofu"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 57.838,
+        "endTime": 58.181,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.181,
+        "endTime": 58.402,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 58.402,
+        "endTime": 58.422,
+        "gloss": "dish"
+      }
+    ],
+    "fullTextEN": "A dish made with tofu"
+  },
+  {
+    "startTime": 58.966,
+    "endTime": 61.8,
+    "fullTextZH": "如果你在台湾",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 59.308,
+        "endTime": 60.152,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 60.152,
+        "endTime": 60.453,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 60.453,
+        "endTime": 60.896,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 60.896,
+        "endTime": 61.177,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "If you are in Taiwan"
+  },
+  {
+    "startTime": 62.033,
+    "endTime": 63.433,
+    "fullTextZH": "你可以在",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 62.074,
+        "endTime": 62.276,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 62.276,
+        "endTime": 62.703,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 62.703,
+        "endTime": 62.723,
+        "gloss": "at"
+      }
+    ],
+    "fullTextEN": "You can at"
+  },
+  {
+    "startTime": 63.433,
+    "endTime": 69.466,
+    "fullTextZH": "台湾的热炒店或是快炒店看到",
+    "words": [
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 63.473,
+        "endTime": 64.054,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 64.054,
+        "endTime": 64.575,
+        "gloss": "of"
+      },
+      {
+        "word": "热炒",
+        "pinyin": "rè chǎo",
+        "startTime": 64.575,
+        "endTime": 65.297,
+        "gloss": "stir-fry"
+      },
+      {
+        "word": "店",
+        "pinyin": "diàn",
+        "startTime": 65.297,
+        "endTime": 66.099,
+        "gloss": "shop"
+      },
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 66.099,
+        "endTime": 66.78,
+        "gloss": "or"
+      },
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 66.78,
+        "endTime": 67.121,
+        "gloss": "quick"
+      },
+      {
+        "word": "炒店",
+        "pinyin": "chǎo diàn",
+        "startTime": 67.121,
+        "endTime": 68.504,
+        "gloss": "fry shop"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 68.504,
+        "endTime": 68.965,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "See it at Taiwan's stir-fry or quick-fry restaurants"
+  },
+  {
+    "startTime": 69.466,
+    "endTime": 73.1,
+    "fullTextZH": "这道菜它叫三杯豆腐",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 69.526,
+        "endTime": 69.687,
+        "gloss": "this"
+      },
+      {
+        "word": "道菜",
+        "pinyin": "dào cài",
+        "startTime": 69.687,
+        "endTime": 70.871,
+        "gloss": "dish"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 70.871,
+        "endTime": 71.032,
+        "gloss": "it"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 71.032,
+        "endTime": 71.414,
+        "gloss": "called"
+      },
+      {
+        "word": "三杯",
+        "pinyin": "sān bēi",
+        "startTime": 71.414,
+        "endTime": 72.257,
+        "gloss": "three cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 72.257,
+        "endTime": 72.658,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "This dish is called Three Cup Tofu"
+  },
+  {
+    "startTime": 73.6,
+    "endTime": 75.466,
+    "fullTextZH": "真的很好吃",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 73.64,
+        "endTime": 74.041,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 74.041,
+        "endTime": 74.423,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 74.423,
+        "endTime": 74.904,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "It's really delicious"
+  },
+  {
+    "startTime": 76.633,
+    "endTime": 81.766,
+    "fullTextZH": "这些是我们今天要用的菜",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 76.693,
+        "endTime": 77.736,
+        "gloss": "these"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 77.736,
+        "endTime": 78.077,
+        "gloss": "are"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 78.077,
+        "endTime": 78.819,
+        "gloss": "we"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 78.819,
+        "endTime": 80.082,
+        "gloss": "today"
+      },
+      {
+        "word": "要用",
+        "pinyin": "yào yòng",
+        "startTime": 80.082,
+        "endTime": 80.904,
+        "gloss": "will use"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 80.904,
+        "endTime": 81.205,
+        "gloss": "of"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 81.205,
+        "endTime": 81.225,
+        "gloss": "ingredients"
+      }
+    ],
+    "fullTextEN": "These are the ingredients we will use today"
+  },
+  {
+    "startTime": 82.966,
+    "endTime": 85.433,
+    "fullTextZH": "这个是九层塔",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 83.026,
+        "endTime": 83.427,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 83.427,
+        "endTime": 84.029,
+        "gloss": "is"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 84.029,
+        "endTime": 84.651,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 84.651,
+        "endTime": 84.671,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "This is basil."
+  },
+  {
+    "startTime": 86.4,
+    "endTime": 87.6,
+    "fullTextZH": "九层塔",
+    "words": [
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 86.441,
+        "endTime": 87.01,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 87.01,
+        "endTime": 87.031,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "Basil."
+  },
+  {
+    "startTime": 88.866,
+    "endTime": 90.533,
+    "fullTextZH": "这个是姜",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 88.946,
+        "endTime": 89.268,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 89.268,
+        "endTime": 89.77,
+        "gloss": "is"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 89.77,
+        "endTime": 89.79,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "This is ginger."
+  },
+  {
+    "startTime": 91.8,
+    "endTime": 92.633,
+    "fullTextZH": "姜",
+    "words": [
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 91.902,
+        "endTime": 91.922,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "Ginger."
+  },
+  {
+    "startTime": 94.033,
+    "endTime": 96.0,
+    "fullTextZH": "还有蒜头",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 94.133,
+        "endTime": 94.756,
+        "gloss": "also"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 94.756,
+        "endTime": 95.177,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "And garlic."
+  },
+  {
+    "startTime": 96.766,
+    "endTime": 97.8,
+    "fullTextZH": "蒜头",
+    "words": [
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 96.847,
+        "endTime": 97.192,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Garlic."
+  },
+  {
+    "startTime": 99.133,
+    "endTime": 102.4,
+    "fullTextZH": "还有一条辣椒",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 99.153,
+        "endTime": 100.376,
+        "gloss": "also"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 100.376,
+        "endTime": 101.217,
+        "gloss": "one"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 101.217,
+        "endTime": 101.658,
+        "gloss": "chili"
+      }
+    ],
+    "fullTextEN": "And a chili."
+  },
+  {
+    "startTime": 103.566,
+    "endTime": 106.266,
+    "fullTextZH": "要一条辣椒",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 103.626,
+        "endTime": 104.715,
+        "gloss": "need"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 104.715,
+        "endTime": 105.279,
+        "gloss": "one"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 105.279,
+        "endTime": 105.662,
+        "gloss": "chili"
+      }
+    ],
+    "fullTextEN": "Need a chili."
+  },
+  {
+    "startTime": 108.133,
+    "endTime": 113.4,
+    "fullTextZH": "还有很重要的豆腐豆腐",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 108.213,
+        "endTime": 109.435,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 109.435,
+        "endTime": 109.835,
+        "gloss": "very"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 109.835,
+        "endTime": 110.376,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 110.376,
+        "endTime": 110.736,
+        "gloss": "of"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 110.736,
+        "endTime": 112.559,
+        "gloss": "tofu"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 112.559,
+        "endTime": 112.879,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "And very important tofu."
+  },
+  {
+    "startTime": 114.766,
+    "endTime": 116.233,
+    "fullTextZH": "第一步",
+    "words": [
+      {
+        "word": "第一步",
+        "pinyin": "dì yī bù",
+        "startTime": 115.349,
+        "endTime": 115.751,
+        "gloss": "first step"
+      }
+    ],
+    "fullTextEN": "First step."
+  },
+  {
+    "startTime": 116.233,
+    "endTime": 119.133,
+    "fullTextZH": "我们先切豆腐",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 116.293,
+        "endTime": 116.877,
+        "gloss": "we"
+      },
+      {
+        "word": "先切",
+        "pinyin": "xiān qiè",
+        "startTime": 116.877,
+        "endTime": 118.166,
+        "gloss": "first cut"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 118.166,
+        "endTime": 118.529,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "We first cut the tofu."
+  },
+  {
+    "startTime": 119.566,
+    "endTime": 123.233,
+    "fullTextZH": "好我们来切豆腐",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 119.666,
+        "endTime": 120.327,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 120.327,
+        "endTime": 120.808,
+        "gloss": "we"
+      },
+      {
+        "word": "来切",
+        "pinyin": "lái qiè",
+        "startTime": 120.808,
+        "endTime": 122.251,
+        "gloss": "let's cut"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 122.251,
+        "endTime": 122.692,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Okay, let's cut the tofu."
+  },
+  {
+    "startTime": 131.0,
+    "endTime": 133.566,
+    "fullTextZH": "我在切豆腐",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 131.08,
+        "endTime": 131.301,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 131.301,
+        "endTime": 131.862,
+        "gloss": "am"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 131.862,
+        "endTime": 132.644,
+        "gloss": "cutting"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 132.644,
+        "endTime": 133.085,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "I am cutting the tofu."
+  },
+  {
+    "startTime": 134.8,
+    "endTime": 137.533,
+    "fullTextZH": "我很喜欢切豆腐",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 134.9,
+        "endTime": 135.021,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 135.021,
+        "endTime": 135.423,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 135.423,
+        "endTime": 136.006,
+        "gloss": "like"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 136.006,
+        "endTime": 136.347,
+        "gloss": "cutting"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 136.347,
+        "endTime": 136.749,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "I really like cutting tofu."
+  },
+  {
+    "startTime": 139.766,
+    "endTime": 143.433,
+    "fullTextZH": "豆腐切成切这样",
+    "words": [
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 139.766,
+        "endTime": 140.407,
+        "gloss": "tofu"
+      },
+      {
+        "word": "切成",
+        "pinyin": "qiè chéng",
+        "startTime": 140.407,
+        "endTime": 142.351,
+        "gloss": "cut into"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 142.351,
+        "endTime": 142.852,
+        "gloss": "cut"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 142.852,
+        "endTime": 143.012,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "Cut the tofu like this."
+  },
+  {
+    "startTime": 144.5,
+    "endTime": 145.3,
+    "fullTextZH": "这样",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 144.541,
+        "endTime": 144.705,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "Like this."
+  },
+  {
+    "startTime": 145.833,
+    "endTime": 148.5,
+    "fullTextZH": "薄薄的薄薄的",
+    "words": [
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 145.853,
+        "endTime": 147.598,
+        "gloss": "thin"
+      },
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 147.598,
+        "endTime": 148.159,
+        "gloss": "thin"
+      }
+    ],
+    "fullTextEN": "Thin, thin."
+  },
+  {
+    "startTime": 148.7,
+    "endTime": 150.866,
+    "fullTextZH": "不是厚厚的",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 148.76,
+        "endTime": 149.723,
+        "gloss": "not"
+      },
+      {
+        "word": "厚厚的",
+        "pinyin": "hòu hòu de",
+        "startTime": 149.723,
+        "endTime": 150.565,
+        "gloss": "thick"
+      }
+    ],
+    "fullTextEN": "Not thick."
+  },
+  {
+    "startTime": 150.866,
+    "endTime": 152.766,
+    "fullTextZH": "是薄薄的",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 150.967,
+        "endTime": 151.594,
+        "gloss": "is"
+      },
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 151.594,
+        "endTime": 152.301,
+        "gloss": "thin"
+      }
+    ],
+    "fullTextEN": "It's thin."
+  },
+  {
+    "startTime": 155.166,
+    "endTime": 163.133,
+    "fullTextZH": "好现在我们把豆腐放到盘子上",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 155.306,
+        "endTime": 156.707,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 156.707,
+        "endTime": 157.848,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 157.848,
+        "endTime": 158.269,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 158.269,
+        "endTime": 158.689,
+        "gloss": "put"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 158.689,
+        "endTime": 159.87,
+        "gloss": "tofu"
+      },
+      {
+        "word": "放到",
+        "pinyin": "fàng dào",
+        "startTime": 159.87,
+        "endTime": 161.932,
+        "gloss": "onto"
+      },
+      {
+        "word": "盘子",
+        "pinyin": "pán zi",
+        "startTime": 161.932,
+        "endTime": 162.633,
+        "gloss": "plate"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 162.633,
+        "endTime": 162.653,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Okay, now we put the tofu on the plate."
+  },
+  {
+    "startTime": 164.066,
+    "endTime": 166.5,
+    "fullTextZH": "我们要用一张纸巾",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 164.146,
+        "endTime": 164.428,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 164.428,
+        "endTime": 164.629,
+        "gloss": "need"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 164.629,
+        "endTime": 164.931,
+        "gloss": "use"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 164.931,
+        "endTime": 165.474,
+        "gloss": "a"
+      },
+      {
+        "word": "纸巾",
+        "pinyin": "zhǐ jīn",
+        "startTime": 165.474,
+        "endTime": 165.756,
+        "gloss": "tissue"
+      }
+    ],
+    "fullTextEN": "We need to use a tissue."
+  },
+  {
+    "startTime": 166.966,
+    "endTime": 172.166,
+    "fullTextZH": "因为豆腐的水水很多",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 167.006,
+        "endTime": 167.97,
+        "gloss": "because"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 167.97,
+        "endTime": 168.572,
+        "gloss": "tofu"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 168.572,
+        "endTime": 169.074,
+        "gloss": "of"
+      },
+      {
+        "word": "水水",
+        "pinyin": "shuǐ shuǐ",
+        "startTime": 169.074,
+        "endTime": 171.122,
+        "gloss": "water"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 171.122,
+        "endTime": 171.524,
+        "gloss": "very much"
+      }
+    ],
+    "fullTextEN": "Because the tofu is very watery."
+  },
+  {
+    "startTime": 173.633,
+    "endTime": 177.033,
+    "fullTextZH": "好我把豆腐放上去",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 173.713,
+        "endTime": 174.136,
+        "gloss": "okay"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 174.136,
+        "endTime": 174.277,
+        "gloss": "I"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 174.277,
+        "endTime": 174.599,
+        "gloss": "put"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 174.599,
+        "endTime": 175.725,
+        "gloss": "tofu"
+      },
+      {
+        "word": "放上去",
+        "pinyin": "fàng shàng qù",
+        "startTime": 175.725,
+        "endTime": 176.59,
+        "gloss": "put on"
+      }
+    ],
+    "fullTextEN": "Okay, I'll put the tofu on."
+  },
+  {
+    "startTime": 182.166,
+    "endTime": 186.366,
+    "fullTextZH": "好那另外一面",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 182.226,
+        "endTime": 183.01,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 183.01,
+        "endTime": 184.638,
+        "gloss": "then"
+      },
+      {
+        "word": "另外",
+        "pinyin": "lìng wài",
+        "startTime": 184.638,
+        "endTime": 185.703,
+        "gloss": "other"
+      },
+      {
+        "word": "一面",
+        "pinyin": "yí miàn",
+        "startTime": 185.703,
+        "endTime": 185.864,
+        "gloss": "side"
+      }
+    ],
+    "fullTextEN": "Okay, now the other side."
+  },
+  {
+    "startTime": 187.866,
+    "endTime": 188.966,
+    "fullTextZH": "也要",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 187.947,
+        "endTime": 188.294,
+        "gloss": "also"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 188.294,
+        "endTime": 188.314,
+        "gloss": "need"
+      }
+    ],
+    "fullTextEN": "Also need to."
+  },
+  {
+    "startTime": 194.433,
+    "endTime": 198.066,
+    "fullTextZH": "现在我们要切姜",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 194.654,
+        "endTime": 195.517,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 195.517,
+        "endTime": 195.958,
+        "gloss": "we"
+      },
+      {
+        "word": "要切",
+        "pinyin": "yào qiè",
+        "startTime": 195.958,
+        "endTime": 197.384,
+        "gloss": "need to cut"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 197.384,
+        "endTime": 197.404,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "Now we need to cut the ginger."
+  },
+  {
+    "startTime": 199.0,
+    "endTime": 202.033,
+    "fullTextZH": "我们要切姜",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 199.04,
+        "endTime": 199.301,
+        "gloss": "we"
+      },
+      {
+        "word": "要切",
+        "pinyin": "yào qiè",
+        "startTime": 199.301,
+        "endTime": 201.029,
+        "gloss": "need to cut"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 201.029,
+        "endTime": 201.049,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "We need to cut the ginger."
+  },
+  {
+    "startTime": 203.3,
+    "endTime": 206.866,
+    "fullTextZH": "姜也是切薄薄的",
+    "words": [
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 203.36,
+        "endTime": 204.041,
+        "gloss": "ginger"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 204.041,
+        "endTime": 204.302,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 204.302,
+        "endTime": 204.662,
+        "gloss": "is"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 204.662,
+        "endTime": 205.784,
+        "gloss": "cut"
+      },
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 205.784,
+        "endTime": 206.425,
+        "gloss": "thinly"
+      }
+    ],
+    "fullTextEN": "The ginger should also be cut thinly."
+  },
+  {
+    "startTime": 207.9,
+    "endTime": 210.533,
+    "fullTextZH": "像这样薄薄的",
+    "words": [
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 207.94,
+        "endTime": 208.181,
+        "gloss": "like"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 208.181,
+        "endTime": 209.448,
+        "gloss": "this"
+      },
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 209.448,
+        "endTime": 210.151,
+        "gloss": "thin"
+      }
+    ],
+    "fullTextEN": "Thin like this."
+  },
+  {
+    "startTime": 215.533,
+    "endTime": 217.433,
+    "fullTextZH": "姜切好了",
+    "words": [
+      {
+        "word": "姜切",
+        "pinyin": "jiāng qiè",
+        "startTime": 215.594,
+        "endTime": 216.665,
+        "gloss": "ginger cut"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 216.665,
+        "endTime": 216.968,
+        "gloss": "done"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 216.968,
+        "endTime": 216.988,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The ginger is cut."
+  },
+  {
+    "startTime": 221.0,
+    "endTime": 225.266,
+    "fullTextZH": "现在我们要来切",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 221.1,
+        "endTime": 222.923,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 222.923,
+        "endTime": 223.463,
+        "gloss": "we"
+      },
+      {
+        "word": "要来切",
+        "pinyin": "yào lái qiè",
+        "startTime": 223.463,
+        "endTime": 224.245,
+        "gloss": "need to cut"
+      }
+    ],
+    "fullTextEN": "Now we need to cut."
+  },
+  {
+    "startTime": 225.733,
+    "endTime": 227.533,
+    "fullTextZH": "嗯蒜头",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 225.814,
+        "endTime": 226.36,
+        "gloss": "hmm"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 226.36,
+        "endTime": 226.744,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Hmm, garlic."
+  },
+  {
+    "startTime": 227.9,
+    "endTime": 230.066,
+    "fullTextZH": "我们来切蒜头",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 227.9,
+        "endTime": 228.141,
+        "gloss": "we"
+      },
+      {
+        "word": "来切",
+        "pinyin": "lái qiè",
+        "startTime": 228.141,
+        "endTime": 228.863,
+        "gloss": "cut"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 228.863,
+        "endTime": 229.364,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Let's cut the garlic."
+  },
+  {
+    "startTime": 231.933,
+    "endTime": 234.0,
+    "fullTextZH": "一瓣蒜头",
+    "words": [
+      {
+        "word": "一瓣",
+        "pinyin": "yī bàn",
+        "startTime": 231.973,
+        "endTime": 232.816,
+        "gloss": "one clove"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 232.816,
+        "endTime": 233.197,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "One clove of garlic."
+  },
+  {
+    "startTime": 235.033,
+    "endTime": 236.933,
+    "fullTextZH": "两瓣蒜头",
+    "words": [
+      {
+        "word": "两瓣",
+        "pinyin": "liǎng bàn",
+        "startTime": 235.073,
+        "endTime": 235.943,
+        "gloss": "two cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 235.943,
+        "endTime": 236.327,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Two cloves of garlic."
+  },
+  {
+    "startTime": 238.1,
+    "endTime": 240.3,
+    "fullTextZH": "3瓣蒜头",
+    "words": [
+      {
+        "word": "瓣",
+        "pinyin": "bàn",
+        "startTime": 238.584,
+        "endTime": 239.331,
+        "gloss": "cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 239.331,
+        "endTime": 239.674,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Three cloves of garlic."
+  },
+  {
+    "startTime": 241.4,
+    "endTime": 243.3,
+    "fullTextZH": "4瓣蒜头",
+    "words": [
+      {
+        "word": "瓣",
+        "pinyin": "bàn",
+        "startTime": 241.966,
+        "endTime": 242.37,
+        "gloss": "cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 242.37,
+        "endTime": 242.714,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Four cloves of garlic."
+  },
+  {
+    "startTime": 244.933,
+    "endTime": 249.433,
+    "fullTextZH": "好我们今天用4瓣蒜头",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 245.033,
+        "endTime": 245.556,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 245.556,
+        "endTime": 246.138,
+        "gloss": "we"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 246.138,
+        "endTime": 246.841,
+        "gloss": "today"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 246.841,
+        "endTime": 247.645,
+        "gloss": "use"
+      },
+      {
+        "word": "瓣",
+        "pinyin": "bàn",
+        "startTime": 248.047,
+        "endTime": 248.509,
+        "gloss": "cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 248.509,
+        "endTime": 248.87,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Okay, today we use four cloves of garlic."
+  },
+  {
+    "startTime": 254.1,
+    "endTime": 257.933,
+    "fullTextZH": "我不喜欢切蒜头",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 254.18,
+        "endTime": 254.481,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 254.481,
+        "endTime": 254.843,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 254.843,
+        "endTime": 255.685,
+        "gloss": "like"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 255.685,
+        "endTime": 256.93,
+        "gloss": "cut"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 256.93,
+        "endTime": 257.271,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "I don't like cutting garlic."
+  },
+  {
+    "startTime": 258.233,
+    "endTime": 262.833,
+    "fullTextZH": "因为手会很臭",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 258.253,
+        "endTime": 259.338,
+        "gloss": "because"
+      },
+      {
+        "word": "手会",
+        "pinyin": "shǒu huì",
+        "startTime": 259.338,
+        "endTime": 261.306,
+        "gloss": "hands will"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 261.306,
+        "endTime": 262.03,
+        "gloss": "very"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 262.03,
+        "endTime": 262.05,
+        "gloss": "smelly"
+      }
+    ],
+    "fullTextEN": "Because hands will smell bad."
+  },
+  {
+    "startTime": 263.633,
+    "endTime": 269.9,
+    "fullTextZH": "手会有蒜头的味道很臭",
+    "words": [
+      {
+        "word": "手会",
+        "pinyin": "shǒu huì",
+        "startTime": 263.853,
+        "endTime": 265.075,
+        "gloss": "hands will"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 265.075,
+        "endTime": 265.976,
+        "gloss": "have"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 265.976,
+        "endTime": 267.137,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 267.137,
+        "endTime": 267.277,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 267.277,
+        "endTime": 268.518,
+        "gloss": "smell"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 268.518,
+        "endTime": 269.099,
+        "gloss": "very"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 269.099,
+        "endTime": 269.119,
+        "gloss": "stinky"
+      }
+    ],
+    "fullTextEN": "Hands will have the smell of garlic, which is very stinky."
+  },
+  {
+    "startTime": 275.5,
+    "endTime": 278.1,
+    "fullTextZH": "这是蒜头的皮",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 275.581,
+        "endTime": 276.266,
+        "gloss": "this is"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 276.266,
+        "endTime": 276.871,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 276.871,
+        "endTime": 277.294,
+        "gloss": "of"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 277.294,
+        "endTime": 277.314,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "This is garlic skin."
+  },
+  {
+    "startTime": 278.866,
+    "endTime": 280.2,
+    "fullTextZH": "蒜头的皮",
+    "words": [
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 278.947,
+        "endTime": 279.351,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 279.351,
+        "endTime": 279.553,
+        "gloss": "of"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 279.553,
+        "endTime": 279.573,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "Garlic skin."
+  },
+  {
+    "startTime": 280.4,
+    "endTime": 282.466,
+    "fullTextZH": "我们不要",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 280.5,
+        "endTime": 281.403,
+        "gloss": "we"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 281.403,
+        "endTime": 281.784,
+        "gloss": "don't want"
+      }
+    ],
+    "fullTextEN": "We don't want it."
+  },
+  {
+    "startTime": 282.466,
+    "endTime": 284.133,
+    "fullTextZH": "蒜头的皮",
+    "words": [
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 282.607,
+        "endTime": 283.189,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 283.189,
+        "endTime": 283.39,
+        "gloss": "of"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 283.39,
+        "endTime": 283.41,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "Garlic skin."
+  },
+  {
+    "startTime": 285.066,
+    "endTime": 291.333,
+    "fullTextZH": "你们觉得蒜头的味道很香吗",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 285.086,
+        "endTime": 285.506,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 285.506,
+        "endTime": 286.247,
+        "gloss": "think"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 286.247,
+        "endTime": 287.689,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 287.689,
+        "endTime": 288.33,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 288.33,
+        "endTime": 289.591,
+        "gloss": "smell"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 289.591,
+        "endTime": 290.672,
+        "gloss": "fragrant"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 290.672,
+        "endTime": 290.692,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you think the smell of garlic is fragrant?"
+  },
+  {
+    "startTime": 292.5,
+    "endTime": 297.6,
+    "fullTextZH": "嗯有时候我觉得很香",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 292.54,
+        "endTime": 293.644,
+        "gloss": "hmm"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 293.644,
+        "endTime": 295.15,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 295.15,
+        "endTime": 295.331,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 295.331,
+        "endTime": 296.456,
+        "gloss": "think"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 296.456,
+        "endTime": 296.837,
+        "gloss": "fragrant"
+      }
+    ],
+    "fullTextEN": "Hmm, sometimes I think it's fragrant."
+  },
+  {
+    "startTime": 298.666,
+    "endTime": 305.933,
+    "fullTextZH": "可是我不喜欢我的手有蒜头的味道",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 298.706,
+        "endTime": 299.727,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 299.727,
+        "endTime": 299.887,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 299.887,
+        "endTime": 300.147,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 300.147,
+        "endTime": 301.489,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 301.489,
+        "endTime": 301.889,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 301.889,
+        "endTime": 302.53,
+        "gloss": "of"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 302.53,
+        "endTime": 303.731,
+        "gloss": "hands"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 303.731,
+        "endTime": 304.131,
+        "gloss": "have"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 304.131,
+        "endTime": 304.832,
+        "gloss": "garlic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 304.832,
+        "endTime": 305.012,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 305.012,
+        "endTime": 305.392,
+        "gloss": "smell"
+      }
+    ],
+    "fullTextEN": "But I don't like my hands having the smell of garlic."
+  },
+  {
+    "startTime": 306.8,
+    "endTime": 308.866,
+    "fullTextZH": "我觉得很臭",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 306.9,
+        "endTime": 307.081,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 307.081,
+        "endTime": 307.763,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 307.763,
+        "endTime": 308.204,
+        "gloss": "very"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 308.204,
+        "endTime": 308.224,
+        "gloss": "stinky"
+      }
+    ],
+    "fullTextEN": "I think it's very stinky."
+  },
+  {
+    "startTime": 313.266,
+    "endTime": 314.633,
+    "fullTextZH": "哇好了",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 313.407,
+        "endTime": 313.909,
+        "gloss": "wow"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 313.909,
+        "endTime": 314.11,
+        "gloss": "done"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 314.11,
+        "endTime": 314.13,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Wow, it's done."
+  },
+  {
+    "startTime": 315.6,
+    "endTime": 320.8,
+    "fullTextZH": "好现在我们有四瓣蒜头",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 315.66,
+        "endTime": 316.544,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 316.544,
+        "endTime": 317.166,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 317.166,
+        "endTime": 317.588,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 317.588,
+        "endTime": 318.451,
+        "gloss": "have"
+      },
+      {
+        "word": "四瓣",
+        "pinyin": "sì bàn",
+        "startTime": 318.451,
+        "endTime": 319.816,
+        "gloss": "four cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 319.816,
+        "endTime": 320.158,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Okay, now we have four cloves of garlic."
+  },
+  {
+    "startTime": 321.266,
+    "endTime": 322.833,
+    "fullTextZH": "四瓣蒜头",
+    "words": [
+      {
+        "word": "四瓣",
+        "pinyin": "sì bàn",
+        "startTime": 321.467,
+        "endTime": 322.029,
+        "gloss": "four cloves"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 322.029,
+        "endTime": 322.331,
+        "gloss": "garlic"
+      }
+    ],
+    "fullTextEN": "Four cloves of garlic."
+  },
+  {
+    "startTime": 323.266,
+    "endTime": 328.466,
+    "fullTextZH": "我们要把蒜头切小小的",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 323.366,
+        "endTime": 323.688,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 323.688,
+        "endTime": 323.929,
+        "gloss": "need"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 323.929,
+        "endTime": 324.29,
+        "gloss": "to"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 324.29,
+        "endTime": 325.715,
+        "gloss": "garlic"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 325.715,
+        "endTime": 327.482,
+        "gloss": "cut"
+      },
+      {
+        "word": "小小的",
+        "pinyin": "xiǎo xiǎo de",
+        "startTime": 327.482,
+        "endTime": 328.064,
+        "gloss": "small"
+      }
+    ],
+    "fullTextEN": "We need to cut the garlic into small pieces."
+  },
+  {
+    "startTime": 331.4,
+    "endTime": 332.433,
+    "fullTextZH": "像这样",
+    "words": [
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 331.522,
+        "endTime": 331.825,
+        "gloss": "like"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 331.825,
+        "endTime": 331.947,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "Like this."
+  },
+  {
+    "startTime": 335.9,
+    "endTime": 338.466,
+    "fullTextZH": "好蒜头切好了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 335.96,
+        "endTime": 336.702,
+        "gloss": "okay"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 336.702,
+        "endTime": 337.504,
+        "gloss": "garlic"
+      },
+      {
+        "word": "切好",
+        "pinyin": "qiè hǎo",
+        "startTime": 337.504,
+        "endTime": 338.025,
+        "gloss": "cut"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 338.025,
+        "endTime": 338.045,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "Okay, the garlic is cut."
+  },
+  {
+    "startTime": 339.266,
+    "endTime": 343.666,
+    "fullTextZH": "我们把蒜头放到这里",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 339.306,
+        "endTime": 339.708,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 339.708,
+        "endTime": 340.11,
+        "gloss": "put"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 340.11,
+        "endTime": 341.155,
+        "gloss": "garlic"
+      },
+      {
+        "word": "放到",
+        "pinyin": "fàng dào",
+        "startTime": 341.155,
+        "endTime": 343.003,
+        "gloss": "to"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 343.003,
+        "endTime": 343.184,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "We put the garlic here."
+  },
+  {
+    "startTime": 344.766,
+    "endTime": 348.433,
+    "fullTextZH": "现在我们要切辣椒",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 344.906,
+        "endTime": 345.668,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 345.668,
+        "endTime": 345.948,
+        "gloss": "we"
+      },
+      {
+        "word": "要切",
+        "pinyin": "yào qiè",
+        "startTime": 345.948,
+        "endTime": 347.03,
+        "gloss": "need to cut"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 347.03,
+        "endTime": 347.471,
+        "gloss": "chili"
+      }
+    ],
+    "fullTextEN": "Now we need to cut the chili."
+  },
+  {
+    "startTime": 349.866,
+    "endTime": 353.733,
+    "fullTextZH": "这个辣椒很大很大",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 349.926,
+        "endTime": 350.287,
+        "gloss": "this"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 350.287,
+        "endTime": 351.309,
+        "gloss": "chili"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 351.309,
+        "endTime": 352.811,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 352.811,
+        "endTime": 353.212,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This chili is very big."
+  },
+  {
+    "startTime": 354.433,
+    "endTime": 356.666,
+    "fullTextZH": "但是在台湾",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 354.493,
+        "endTime": 355.379,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 355.379,
+        "endTime": 355.761,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 355.761,
+        "endTime": 356.062,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "But in Taiwan,"
+  },
+  {
+    "startTime": 356.866,
+    "endTime": 360.866,
+    "fullTextZH": "很大的辣椒不会辣",
+    "words": [
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 356.926,
+        "endTime": 358.152,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 358.152,
+        "endTime": 358.293,
+        "gloss": "of"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 358.293,
+        "endTime": 359.278,
+        "gloss": "chili"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 359.278,
+        "endTime": 360.223,
+        "gloss": "not"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 360.223,
+        "endTime": 360.243,
+        "gloss": "spicy"
+      }
+    ],
+    "fullTextEN": "Big chilies are not spicy."
+  },
+  {
+    "startTime": 361.533,
+    "endTime": 364.8,
+    "fullTextZH": "很小的辣椒很辣",
+    "words": [
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 361.613,
+        "endTime": 362.415,
+        "gloss": "very small"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 362.415,
+        "endTime": 362.575,
+        "gloss": "of"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 362.575,
+        "endTime": 363.557,
+        "gloss": "chili pepper"
+      },
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 363.557,
+        "endTime": 364.119,
+        "gloss": "very spicy"
+      }
+    ],
+    "fullTextEN": "Very small chili peppers are very spicy."
+  },
+  {
+    "startTime": 365.2,
+    "endTime": 370.266,
+    "fullTextZH": "所以我买很大的辣椒",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 365.36,
+        "endTime": 366.261,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 366.261,
+        "endTime": 366.682,
+        "gloss": "I"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 366.682,
+        "endTime": 367.503,
+        "gloss": "buy"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 367.503,
+        "endTime": 369.365,
+        "gloss": "very large"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 369.365,
+        "endTime": 369.485,
+        "gloss": "of"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 369.485,
+        "endTime": 369.765,
+        "gloss": "chili pepper"
+      }
+    ],
+    "fullTextEN": "So I buy very large chili peppers."
+  },
+  {
+    "startTime": 370.833,
+    "endTime": 372.833,
+    "fullTextZH": "我不喜欢吃",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 370.894,
+        "endTime": 371.055,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 371.055,
+        "endTime": 371.338,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 371.338,
+        "endTime": 372.086,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 372.086,
+        "endTime": 372.106,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "I don't like to eat."
+  },
+  {
+    "startTime": 372.933,
+    "endTime": 374.866,
+    "fullTextZH": "很辣很辣",
+    "words": [
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 372.993,
+        "endTime": 373.859,
+        "gloss": "very spicy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 373.859,
+        "endTime": 374.202,
+        "gloss": "very"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 374.202,
+        "endTime": 374.222,
+        "gloss": "spicy"
+      }
+    ],
+    "fullTextEN": "Very spicy, very spicy."
+  },
+  {
+    "startTime": 375.466,
+    "endTime": 378.866,
+    "fullTextZH": "好辣椒也切薄薄的",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 375.526,
+        "endTime": 376.029,
+        "gloss": "good"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 376.029,
+        "endTime": 376.633,
+        "gloss": "chili pepper"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 376.633,
+        "endTime": 376.995,
+        "gloss": "also"
+      },
+      {
+        "word": "切",
+        "pinyin": "qiè",
+        "startTime": 376.995,
+        "endTime": 377.86,
+        "gloss": "cut"
+      },
+      {
+        "word": "薄薄的",
+        "pinyin": "báo báo de",
+        "startTime": 377.86,
+        "endTime": 378.524,
+        "gloss": "thinly"
+      }
+    ],
+    "fullTextEN": "Good chili peppers are also sliced thinly."
+  },
+  {
+    "startTime": 381.766,
+    "endTime": 383.933,
+    "fullTextZH": "好我觉得",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 381.967,
+        "endTime": 382.85,
+        "gloss": "okay"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 382.85,
+        "endTime": 383.03,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 383.03,
+        "endTime": 383.351,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Okay, I think."
+  },
+  {
+    "startTime": 383.933,
+    "endTime": 390.933,
+    "fullTextZH": "我用一半一半的辣椒就可以了",
+    "words": [
+      {
+        "word": "我用",
+        "pinyin": "wǒ yòng",
+        "startTime": 384.134,
+        "endTime": 385.718,
+        "gloss": "I use"
+      },
+      {
+        "word": "一半一半",
+        "pinyin": "yí bàn yí bàn",
+        "startTime": 385.718,
+        "endTime": 386.019,
+        "gloss": "half and half"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 386.019,
+        "endTime": 386.079,
+        "gloss": "of"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 386.079,
+        "endTime": 386.119,
+        "gloss": "chili pepper"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 386.119,
+        "endTime": 386.34,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 386.34,
+        "endTime": 386.38,
+        "gloss": "enough"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 386.38,
+        "endTime": 386.4,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I use half and half of the chili peppers, that's enough."
+  },
+  {
+    "startTime": 391.266,
+    "endTime": 395.533,
+    "fullTextZH": "我不要用全部的辣椒",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 391.306,
+        "endTime": 391.546,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 391.546,
+        "endTime": 392.007,
+        "gloss": "don't want"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 392.007,
+        "endTime": 392.809,
+        "gloss": "use"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 392.809,
+        "endTime": 394.571,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 394.571,
+        "endTime": 394.692,
+        "gloss": "of"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 394.692,
+        "endTime": 394.972,
+        "gloss": "chili pepper"
+      }
+    ],
+    "fullTextEN": "I don't want to use all of the chili peppers."
+  },
+  {
+    "startTime": 395.8,
+    "endTime": 396.866,
+    "fullTextZH": "嗯不要",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 395.84,
+        "endTime": 396.343,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 396.343,
+        "endTime": 396.444,
+        "gloss": "don't want"
+      }
+    ],
+    "fullTextEN": "Hmm, don't want."
+  },
+  {
+    "startTime": 401.233,
+    "endTime": 402.9,
+    "fullTextZH": "那这个是",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 401.293,
+        "endTime": 401.675,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 401.675,
+        "endTime": 402.097,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 402.097,
+        "endTime": 402.117,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "So this is"
+  },
+  {
+    "startTime": 403.166,
+    "endTime": 404.833,
+    "fullTextZH": "嗯九层塔",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 403.226,
+        "endTime": 403.628,
+        "gloss": "hmm"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 403.628,
+        "endTime": 404.11,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 404.11,
+        "endTime": 404.13,
+        "gloss": "tower"
+      }
+    ],
+    "fullTextEN": "Hmm, basil."
+  },
+  {
+    "startTime": 404.966,
+    "endTime": 409.0,
+    "fullTextZH": "在台湾我们很喜欢用九层塔",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 405.026,
+        "endTime": 405.227,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 405.227,
+        "endTime": 406.15,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 406.15,
+        "endTime": 406.531,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 406.531,
+        "endTime": 406.812,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 406.812,
+        "endTime": 407.455,
+        "gloss": "like"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 407.455,
+        "endTime": 407.936,
+        "gloss": "use"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 407.936,
+        "endTime": 408.478,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 408.478,
+        "endTime": 408.498,
+        "gloss": "tower"
+      }
+    ],
+    "fullTextEN": "In Taiwan, we really like to use basil."
+  },
+  {
+    "startTime": 409.5,
+    "endTime": 414.666,
+    "fullTextZH": "如果在你的国家没有九层塔",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 409.56,
+        "endTime": 410.601,
+        "gloss": "if"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 410.601,
+        "endTime": 411.062,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 411.062,
+        "endTime": 411.382,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 411.382,
+        "endTime": 411.783,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 411.783,
+        "endTime": 412.804,
+        "gloss": "country"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 412.804,
+        "endTime": 413.605,
+        "gloss": "not have"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 413.605,
+        "endTime": 414.145,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 414.145,
+        "endTime": 414.165,
+        "gloss": "tower"
+      }
+    ],
+    "fullTextEN": "If there is no basil in your country,"
+  },
+  {
+    "startTime": 414.966,
+    "endTime": 417.266,
+    "fullTextZH": "你可以买罗勒",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 415.006,
+        "endTime": 415.248,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 415.248,
+        "endTime": 415.712,
+        "gloss": "can"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 415.712,
+        "endTime": 416.398,
+        "gloss": "buy"
+      },
+      {
+        "word": "罗勒",
+        "pinyin": "luó lè",
+        "startTime": 416.398,
+        "endTime": 416.782,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "You can buy basil."
+  },
+  {
+    "startTime": 418.033,
+    "endTime": 423.766,
+    "fullTextZH": "罗勒它的味道跟九层塔很像",
+    "words": [
+      {
+        "word": "罗勒",
+        "pinyin": "luó lè",
+        "startTime": 418.113,
+        "endTime": 418.715,
+        "gloss": "basil"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 418.715,
+        "endTime": 418.975,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 418.975,
+        "endTime": 419.717,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 419.717,
+        "endTime": 420.779,
+        "gloss": "taste"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 420.779,
+        "endTime": 421.381,
+        "gloss": "with"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 421.381,
+        "endTime": 421.641,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 421.641,
+        "endTime": 421.802,
+        "gloss": "tower"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 421.802,
+        "endTime": 421.822,
+        "gloss": "very"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 421.822,
+        "endTime": 421.842,
+        "gloss": "similar"
+      }
+    ],
+    "fullTextEN": "Basil's taste is very similar to basil."
+  },
+  {
+    "startTime": 423.966,
+    "endTime": 426.966,
+    "fullTextZH": "这是九层塔的叶子",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 424.187,
+        "endTime": 424.751,
+        "gloss": "this is"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 424.751,
+        "endTime": 425.295,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 425.295,
+        "endTime": 425.577,
+        "gloss": "tower"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 425.577,
+        "endTime": 426.06,
+        "gloss": "of"
+      },
+      {
+        "word": "叶子",
+        "pinyin": "yè zi",
+        "startTime": 426.06,
+        "endTime": 426.523,
+        "gloss": "leaf"
+      }
+    ],
+    "fullTextEN": "These are basil leaves."
+  },
+  {
+    "startTime": 427.633,
+    "endTime": 431.5,
+    "fullTextZH": "我们把叶子摘下来",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 427.673,
+        "endTime": 428.074,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 428.074,
+        "endTime": 428.394,
+        "gloss": "take"
+      },
+      {
+        "word": "叶子",
+        "pinyin": "yè zi",
+        "startTime": 428.394,
+        "endTime": 430.338,
+        "gloss": "leaf"
+      },
+      {
+        "word": "摘下来",
+        "pinyin": "zhāi xià lái",
+        "startTime": 430.338,
+        "endTime": 430.979,
+        "gloss": "pick off"
+      }
+    ],
+    "fullTextEN": "We pick the leaves off."
+  },
+  {
+    "startTime": 434.433,
+    "endTime": 437.9,
+    "fullTextZH": "在台湾我们很喜欢",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 434.513,
+        "endTime": 434.754,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 434.754,
+        "endTime": 435.635,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 435.635,
+        "endTime": 436.297,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 436.297,
+        "endTime": 436.858,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 436.858,
+        "endTime": 437.199,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "In Taiwan, we really like"
+  },
+  {
+    "startTime": 438.166,
+    "endTime": 439.9,
+    "fullTextZH": "我们很喜欢",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 438.247,
+        "endTime": 438.489,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 438.489,
+        "endTime": 438.852,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 438.852,
+        "endTime": 439.114,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "We really like"
+  },
+  {
+    "startTime": 440.133,
+    "endTime": 441.9,
+    "fullTextZH": "做菜的时候",
+    "words": [
+      {
+        "word": "做菜",
+        "pinyin": "zuò cài",
+        "startTime": 440.193,
+        "endTime": 441.016,
+        "gloss": "cook"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 441.016,
+        "endTime": 441.217,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 441.217,
+        "endTime": 441.458,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When cooking,"
+  },
+  {
+    "startTime": 441.9,
+    "endTime": 443.9,
+    "fullTextZH": "放九层塔",
+    "words": [
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 442.062,
+        "endTime": 442.688,
+        "gloss": "add"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 442.688,
+        "endTime": 443.334,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 443.334,
+        "endTime": 443.355,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "Add basil."
+  },
+  {
+    "startTime": 444.366,
+    "endTime": 448.233,
+    "fullTextZH": "因为很香很香",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 444.406,
+        "endTime": 445.749,
+        "gloss": "because"
+      },
+      {
+        "word": "很香",
+        "pinyin": "hěn xiāng",
+        "startTime": 445.749,
+        "endTime": 447.211,
+        "gloss": "very fragrant"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 447.211,
+        "endTime": 447.552,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 447.552,
+        "endTime": 447.572,
+        "gloss": "fragrant"
+      }
+    ],
+    "fullTextEN": "Because it's very fragrant."
+  },
+  {
+    "startTime": 451.633,
+    "endTime": 454.133,
+    "fullTextZH": "嗯很香",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 451.794,
+        "endTime": 452.943,
+        "gloss": "hmm"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 452.943,
+        "endTime": 453.427,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 453.427,
+        "endTime": 453.448,
+        "gloss": "fragrant"
+      }
+    ],
+    "fullTextEN": "Hmm, very fragrant."
+  },
+  {
+    "startTime": 456.8,
+    "endTime": 457.6,
+    "fullTextZH": "好了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 456.821,
+        "endTime": 456.985,
+        "gloss": "okay"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 456.985,
+        "endTime": 457.005,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 458.433,
+    "endTime": 462.1,
+    "fullTextZH": "我们的菜切好了",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 458.533,
+        "endTime": 458.854,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 458.854,
+        "endTime": 459.094,
+        "gloss": "of"
+      },
+      {
+        "word": "菜切",
+        "pinyin": "cài qiè",
+        "startTime": 459.094,
+        "endTime": 461.258,
+        "gloss": "ingredients"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 461.258,
+        "endTime": 461.599,
+        "gloss": "ready"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 461.599,
+        "endTime": 461.619,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "Our ingredients are chopped."
+  },
+  {
+    "startTime": 462.266,
+    "endTime": 464.866,
+    "fullTextZH": "有豆腐辣椒",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 462.326,
+        "endTime": 462.669,
+        "gloss": "there is"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 462.669,
+        "endTime": 463.798,
+        "gloss": "tofu"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 463.798,
+        "endTime": 464.1,
+        "gloss": "chili"
+      }
+    ],
+    "fullTextEN": "There is tofu and chili."
+  },
+  {
+    "startTime": 465.066,
+    "endTime": 467.233,
+    "fullTextZH": "蒜头姜",
+    "words": [
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 465.146,
+        "endTime": 466.37,
+        "gloss": "garlic"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 466.37,
+        "endTime": 466.39,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "Garlic and ginger."
+  },
+  {
+    "startTime": 467.266,
+    "endTime": 469.066,
+    "fullTextZH": "还有九层塔",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 467.327,
+        "endTime": 467.913,
+        "gloss": "also"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 467.913,
+        "endTime": 468.54,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 468.54,
+        "endTime": 468.56,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "And also basil."
+  },
+  {
+    "startTime": 469.933,
+    "endTime": 473.6,
+    "fullTextZH": "现在我们要做酱汁",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 470.033,
+        "endTime": 470.895,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 470.895,
+        "endTime": 471.256,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 471.256,
+        "endTime": 471.736,
+        "gloss": "need"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 471.736,
+        "endTime": 472.438,
+        "gloss": "make"
+      },
+      {
+        "word": "酱汁",
+        "pinyin": "jiàng zhī",
+        "startTime": 472.438,
+        "endTime": 472.999,
+        "gloss": "sauce"
+      }
+    ],
+    "fullTextEN": "Now we need to make the sauce."
+  },
+  {
+    "startTime": 474.5,
+    "endTime": 480.6,
+    "fullTextZH": "我们今天要用的调味料有酱油膏",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 474.5,
+        "endTime": 474.861,
+        "gloss": "we"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 474.861,
+        "endTime": 475.363,
+        "gloss": "today"
+      },
+      {
+        "word": "要用",
+        "pinyin": "yào yòng",
+        "startTime": 475.363,
+        "endTime": 476.025,
+        "gloss": "will use"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 476.025,
+        "endTime": 476.587,
+        "gloss": "of"
+      },
+      {
+        "word": "调味料",
+        "pinyin": "tiáo wèi liào",
+        "startTime": 476.587,
+        "endTime": 477.851,
+        "gloss": "seasonings"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 477.851,
+        "endTime": 479.095,
+        "gloss": "include"
+      },
+      {
+        "word": "酱油膏",
+        "pinyin": "jiàng yóu gāo",
+        "startTime": 479.095,
+        "endTime": 479.697,
+        "gloss": "soy paste"
+      }
+    ],
+    "fullTextEN": "The seasonings we will use today include soy paste."
+  },
+  {
+    "startTime": 481.133,
+    "endTime": 486.1,
+    "fullTextZH": "酱油膏或是素蚝油都可以",
+    "words": [
+      {
+        "word": "酱油膏",
+        "pinyin": "jiàng yóu gāo",
+        "startTime": 481.153,
+        "endTime": 482.335,
+        "gloss": "soy paste"
+      },
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 482.335,
+        "endTime": 483.717,
+        "gloss": "or"
+      },
+      {
+        "word": "素",
+        "pinyin": "sù",
+        "startTime": 483.717,
+        "endTime": 484.077,
+        "gloss": "vegetarian"
+      },
+      {
+        "word": "蚝油",
+        "pinyin": "háo yóu",
+        "startTime": 484.077,
+        "endTime": 485.279,
+        "gloss": "oyster sauce"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 485.279,
+        "endTime": 485.459,
+        "gloss": "both"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 485.459,
+        "endTime": 485.679,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Soy paste or vegetarian oyster sauce both work."
+  },
+  {
+    "startTime": 487.0,
+    "endTime": 487.8,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 487.041,
+        "endTime": 487.062,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 488.833,
+    "endTime": 494.533,
+    "fullTextZH": "我们要一匙一匙的酱油膏",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 488.873,
+        "endTime": 489.154,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 489.154,
+        "endTime": 489.676,
+        "gloss": "need"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 489.676,
+        "endTime": 491.462,
+        "gloss": "one spoon"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 491.462,
+        "endTime": 492.104,
+        "gloss": "one spoon"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 492.104,
+        "endTime": 493.309,
+        "gloss": "of"
+      },
+      {
+        "word": "酱油膏",
+        "pinyin": "jiàng yóu gāo",
+        "startTime": 493.309,
+        "endTime": 493.911,
+        "gloss": "soy paste"
+      }
+    ],
+    "fullTextEN": "We need spoonfuls of soy paste."
+  },
+  {
+    "startTime": 496.866,
+    "endTime": 502.366,
+    "fullTextZH": "我们还要一匙的酱油",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 496.886,
+        "endTime": 498.111,
+        "gloss": "we"
+      },
+      {
+        "word": "还要",
+        "pinyin": "hái yào",
+        "startTime": 498.111,
+        "endTime": 499.215,
+        "gloss": "also need"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 499.215,
+        "endTime": 500.138,
+        "gloss": "one spoon"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 500.138,
+        "endTime": 501.362,
+        "gloss": "of"
+      },
+      {
+        "word": "酱油",
+        "pinyin": "jiàng yóu",
+        "startTime": 501.362,
+        "endTime": 501.744,
+        "gloss": "soy sauce"
+      }
+    ],
+    "fullTextEN": "We also need a spoonful of soy sauce."
+  },
+  {
+    "startTime": 505.433,
+    "endTime": 509.133,
+    "fullTextZH": "还有一匙的米酒",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 505.433,
+        "endTime": 506.298,
+        "gloss": "also"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 506.298,
+        "endTime": 507.042,
+        "gloss": "one spoon"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 507.042,
+        "endTime": 507.826,
+        "gloss": "of"
+      },
+      {
+        "word": "米酒",
+        "pinyin": "mǐ jiǔ",
+        "startTime": 507.826,
+        "endTime": 508.288,
+        "gloss": "rice wine"
+      }
+    ],
+    "fullTextEN": "And a spoonful of rice wine."
+  },
+  {
+    "startTime": 509.433,
+    "endTime": 510.666,
+    "fullTextZH": "这是米酒",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 509.453,
+        "endTime": 509.756,
+        "gloss": "this is"
+      },
+      {
+        "word": "米酒",
+        "pinyin": "mǐ jiǔ",
+        "startTime": 509.756,
+        "endTime": 510.161,
+        "gloss": "rice wine"
+      }
+    ],
+    "fullTextEN": "This is rice wine."
+  },
+  {
+    "startTime": 512.033,
+    "endTime": 514.433,
+    "fullTextZH": "喝酒的酒米酒",
+    "words": [
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 512.073,
+        "endTime": 512.638,
+        "gloss": "drinking wine"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 512.638,
+        "endTime": 512.82,
+        "gloss": "of"
+      },
+      {
+        "word": "酒",
+        "pinyin": "jiǔ",
+        "startTime": 512.82,
+        "endTime": 513.445,
+        "gloss": "wine"
+      },
+      {
+        "word": "米酒",
+        "pinyin": "mǐ jiǔ",
+        "startTime": 513.445,
+        "endTime": 513.909,
+        "gloss": "rice wine"
+      }
+    ],
+    "fullTextEN": "Drinking wine, rice wine."
+  },
+  {
+    "startTime": 516.4,
+    "endTime": 518.7,
+    "fullTextZH": "米酒也是一匙",
+    "words": [
+      {
+        "word": "米酒",
+        "pinyin": "mǐ jiǔ",
+        "startTime": 516.42,
+        "endTime": 517.187,
+        "gloss": "rice wine"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 517.187,
+        "endTime": 517.449,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 517.449,
+        "endTime": 517.792,
+        "gloss": "is"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 517.792,
+        "endTime": 518.095,
+        "gloss": "one spoon"
+      }
+    ],
+    "fullTextEN": "Rice wine is also a spoonful."
+  },
+  {
+    "startTime": 521.866,
+    "endTime": 523.8,
+    "fullTextZH": "好然后",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 521.886,
+        "endTime": 522.692,
+        "gloss": "okay"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 522.692,
+        "endTime": 522.934,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Okay, then."
+  },
+  {
+    "startTime": 524.5,
+    "endTime": 525.333,
+    "fullTextZH": "糖",
+    "words": [
+      {
+        "word": "糖",
+        "pinyin": "táng",
+        "startTime": 524.561,
+        "endTime": 524.581,
+        "gloss": "sugar"
+      }
+    ],
+    "fullTextEN": "Sugar."
+  },
+  {
+    "startTime": 527.133,
+    "endTime": 529.166,
+    "fullTextZH": "也是一匙",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 527.173,
+        "endTime": 527.395,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 527.395,
+        "endTime": 528.341,
+        "gloss": "is"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 528.341,
+        "endTime": 528.582,
+        "gloss": "a spoon"
+      }
+    ],
+    "fullTextEN": "Also a spoonful"
+  },
+  {
+    "startTime": 529.6,
+    "endTime": 531.9,
+    "fullTextZH": "好一匙的糖",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 529.943,
+        "endTime": 530.528,
+        "gloss": "good"
+      },
+      {
+        "word": "一匙",
+        "pinyin": "yī shi",
+        "startTime": 530.528,
+        "endTime": 530.952,
+        "gloss": "a spoon"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 530.952,
+        "endTime": 531.113,
+        "gloss": "of"
+      },
+      {
+        "word": "糖",
+        "pinyin": "táng",
+        "startTime": 531.113,
+        "endTime": 531.133,
+        "gloss": "sugar"
+      }
+    ],
+    "fullTextEN": "A good spoonful of sugar"
+  },
+  {
+    "startTime": 532.8,
+    "endTime": 536.233,
+    "fullTextZH": "还有一点点的水",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 532.84,
+        "endTime": 534.466,
+        "gloss": "and"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 534.466,
+        "endTime": 535.229,
+        "gloss": "a little bit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 535.229,
+        "endTime": 535.53,
+        "gloss": "of"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 535.53,
+        "endTime": 535.55,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "And a little bit of water"
+  },
+  {
+    "startTime": 536.4,
+    "endTime": 538.233,
+    "fullTextZH": "一点点的水",
+    "words": [
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 536.4,
+        "endTime": 537.145,
+        "gloss": "a little bit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 537.145,
+        "endTime": 537.427,
+        "gloss": "of"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 537.427,
+        "endTime": 537.447,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "A little bit of water"
+  },
+  {
+    "startTime": 541.1,
+    "endTime": 544.366,
+    "fullTextZH": "然后搅拌搅拌",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 541.16,
+        "endTime": 542.162,
+        "gloss": "then"
+      },
+      {
+        "word": "搅拌",
+        "pinyin": "jiǎo bàn",
+        "startTime": 542.162,
+        "endTime": 543.484,
+        "gloss": "stir"
+      },
+      {
+        "word": "搅拌",
+        "pinyin": "jiǎo bàn",
+        "startTime": 543.484,
+        "endTime": 543.885,
+        "gloss": "stir"
+      }
+    ],
+    "fullTextEN": "Then stir and stir"
+  },
+  {
+    "startTime": 548.633,
+    "endTime": 551.233,
+    "fullTextZH": "好我们准备好了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 548.653,
+        "endTime": 549.137,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 549.137,
+        "endTime": 550.104,
+        "gloss": "we"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 550.104,
+        "endTime": 550.608,
+        "gloss": "prepare"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 550.608,
+        "endTime": 550.81,
+        "gloss": "ready"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 550.81,
+        "endTime": 550.83,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Okay, we are ready"
+  },
+  {
+    "startTime": 551.833,
+    "endTime": 554.2,
+    "fullTextZH": "我们的菜切好了",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 551.853,
+        "endTime": 552.214,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 552.214,
+        "endTime": 552.495,
+        "gloss": "of"
+      },
+      {
+        "word": "菜切",
+        "pinyin": "cài qiè",
+        "startTime": 552.495,
+        "endTime": 553.538,
+        "gloss": "vegetables cut"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 553.538,
+        "endTime": 553.759,
+        "gloss": "ready"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 553.759,
+        "endTime": 553.779,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Our vegetables are cut"
+  },
+  {
+    "startTime": 554.633,
+    "endTime": 556.733,
+    "fullTextZH": "酱汁也好了",
+    "words": [
+      {
+        "word": "酱汁",
+        "pinyin": "jiàng zhī",
+        "startTime": 554.653,
+        "endTime": 555.744,
+        "gloss": "sauce"
+      },
+      {
+        "word": "也好",
+        "pinyin": "yě hǎo",
+        "startTime": 555.744,
+        "endTime": 556.289,
+        "gloss": "also ready"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 556.289,
+        "endTime": 556.309,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The sauce is also ready"
+  },
+  {
+    "startTime": 557.7,
+    "endTime": 560.566,
+    "fullTextZH": "现在我在哪里呢",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 557.82,
+        "endTime": 558.542,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 558.542,
+        "endTime": 558.943,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 558.943,
+        "endTime": 559.624,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 559.624,
+        "endTime": 560.105,
+        "gloss": "where"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 560.105,
+        "endTime": 560.125,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Where am I now?"
+  },
+  {
+    "startTime": 560.966,
+    "endTime": 564.366,
+    "fullTextZH": "我在我的厨房",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 561.067,
+        "endTime": 561.348,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 561.348,
+        "endTime": 561.811,
+        "gloss": "am"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 561.811,
+        "endTime": 562.073,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 562.073,
+        "endTime": 562.877,
+        "gloss": "of"
+      },
+      {
+        "word": "厨房",
+        "pinyin": "chú fáng",
+        "startTime": 562.877,
+        "endTime": 563.239,
+        "gloss": "kitchen"
+      }
+    ],
+    "fullTextEN": "I am in my kitchen"
+  },
+  {
+    "startTime": 565.433,
+    "endTime": 569.233,
+    "fullTextZH": "我们要做三杯豆腐喽",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 565.534,
+        "endTime": 565.895,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 565.895,
+        "endTime": 566.418,
+        "gloss": "want"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 566.418,
+        "endTime": 567.323,
+        "gloss": "make"
+      },
+      {
+        "word": "三杯",
+        "pinyin": "sān bēi",
+        "startTime": 567.323,
+        "endTime": 568.087,
+        "gloss": "three-cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 568.087,
+        "endTime": 568.791,
+        "gloss": "tofu"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 568.791,
+        "endTime": 568.811,
+        "gloss": "lo"
+      }
+    ],
+    "fullTextEN": "We are going to make three-cup tofu"
+  },
+  {
+    "startTime": 570.466,
+    "endTime": 574.5,
+    "fullTextZH": "现在我们开火",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 570.627,
+        "endTime": 571.349,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 571.349,
+        "endTime": 572.031,
+        "gloss": "we"
+      },
+      {
+        "word": "开火",
+        "pinyin": "kāi huǒ",
+        "startTime": 572.031,
+        "endTime": 573.557,
+        "gloss": "turn on heat"
+      }
+    ],
+    "fullTextEN": "Now we turn on the heat"
+  },
+  {
+    "startTime": 576.8,
+    "endTime": 577.833,
+    "fullTextZH": "开火",
+    "words": [
+      {
+        "word": "开火",
+        "pinyin": "kāi huǒ",
+        "startTime": 576.881,
+        "endTime": 577.367,
+        "gloss": "turn on heat"
+      }
+    ],
+    "fullTextEN": "Turn on the heat"
+  },
+  {
+    "startTime": 578.666,
+    "endTime": 581.1,
+    "fullTextZH": "我们的锅子",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 578.988,
+        "endTime": 579.451,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 579.451,
+        "endTime": 580.275,
+        "gloss": "of"
+      },
+      {
+        "word": "锅子",
+        "pinyin": "guō zi",
+        "startTime": 580.275,
+        "endTime": 580.617,
+        "gloss": "pot"
+      }
+    ],
+    "fullTextEN": "Our pot"
+  },
+  {
+    "startTime": 581.166,
+    "endTime": 582.333,
+    "fullTextZH": "这是锅子",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 581.246,
+        "endTime": 581.689,
+        "gloss": "this is"
+      },
+      {
+        "word": "锅子",
+        "pinyin": "guō zi",
+        "startTime": 581.689,
+        "endTime": 581.951,
+        "gloss": "pot"
+      }
+    ],
+    "fullTextEN": "This is a pot"
+  },
+  {
+    "startTime": 583.333,
+    "endTime": 587.566,
+    "fullTextZH": "我们的锅子要很热很热",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 583.353,
+        "endTime": 583.634,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 583.634,
+        "endTime": 583.935,
+        "gloss": "of"
+      },
+      {
+        "word": "锅子",
+        "pinyin": "guō zi",
+        "startTime": 583.935,
+        "endTime": 584.818,
+        "gloss": "pot"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 584.818,
+        "endTime": 585.72,
+        "gloss": "need"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 585.72,
+        "endTime": 586.142,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 586.142,
+        "endTime": 586.663,
+        "gloss": "hot"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 586.663,
+        "endTime": 587.004,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 587.004,
+        "endTime": 587.024,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Our pot needs to be very hot"
+  },
+  {
+    "startTime": 588.366,
+    "endTime": 593.6,
+    "fullTextZH": "现在我们加一点点的油",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 588.526,
+        "endTime": 590.231,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 590.231,
+        "endTime": 590.692,
+        "gloss": "we"
+      },
+      {
+        "word": "加",
+        "pinyin": "jiā",
+        "startTime": 590.692,
+        "endTime": 591.354,
+        "gloss": "add"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 591.354,
+        "endTime": 592.176,
+        "gloss": "a little bit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 592.176,
+        "endTime": 592.758,
+        "gloss": "of"
+      },
+      {
+        "word": "油",
+        "pinyin": "yóu",
+        "startTime": 592.758,
+        "endTime": 592.778,
+        "gloss": "oil"
+      }
+    ],
+    "fullTextEN": "Now we add a little bit of oil"
+  },
+  {
+    "startTime": 598.633,
+    "endTime": 604.033,
+    "fullTextZH": "现在我们要先煎豆腐",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 598.733,
+        "endTime": 599.536,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 599.536,
+        "endTime": 600.359,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 600.359,
+        "endTime": 600.861,
+        "gloss": "want"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 600.861,
+        "endTime": 602.146,
+        "gloss": "first"
+      },
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 602.146,
+        "endTime": 603.09,
+        "gloss": "fry"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 603.09,
+        "endTime": 603.511,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Now we will first fry the tofu"
+  },
+  {
+    "startTime": 604.766,
+    "endTime": 606.533,
+    "fullTextZH": "煎豆腐",
+    "words": [
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 604.927,
+        "endTime": 605.629,
+        "gloss": "fry"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 605.629,
+        "endTime": 606.031,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Fry the tofu"
+  },
+  {
+    "startTime": 615.1,
+    "endTime": 623.166,
+    "fullTextZH": "用个汤匙跟筷子或是叉子都可以这样",
+    "words": [
+      {
+        "word": "用个",
+        "pinyin": "yòng gè",
+        "startTime": 615.16,
+        "endTime": 616.161,
+        "gloss": "use a"
+      },
+      {
+        "word": "汤匙",
+        "pinyin": "tāng chí",
+        "startTime": 616.161,
+        "endTime": 617.402,
+        "gloss": "spoon"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 617.402,
+        "endTime": 618.322,
+        "gloss": "and"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 618.322,
+        "endTime": 619.123,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 619.123,
+        "endTime": 619.703,
+        "gloss": "or"
+      },
+      {
+        "word": "叉子",
+        "pinyin": "chā zi",
+        "startTime": 619.703,
+        "endTime": 620.544,
+        "gloss": "fork"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 620.544,
+        "endTime": 620.724,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 620.724,
+        "endTime": 622.445,
+        "gloss": "can"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 622.445,
+        "endTime": 622.626,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "Use a spoon and chopsticks or a fork, all are okay like this"
+  },
+  {
+    "startTime": 624.433,
+    "endTime": 628.466,
+    "fullTextZH": "这样翻豆腐很好翻",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 624.433,
+        "endTime": 625.256,
+        "gloss": "this way"
+      },
+      {
+        "word": "翻",
+        "pinyin": "fān",
+        "startTime": 625.256,
+        "endTime": 625.838,
+        "gloss": "flip"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 625.838,
+        "endTime": 627.282,
+        "gloss": "tofu"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 627.282,
+        "endTime": 627.503,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 627.503,
+        "endTime": 627.884,
+        "gloss": "good"
+      },
+      {
+        "word": "翻",
+        "pinyin": "fān",
+        "startTime": 627.884,
+        "endTime": 627.904,
+        "gloss": "flip"
+      }
+    ],
+    "fullTextEN": "It's easy to flip tofu this way."
+  },
+  {
+    "startTime": 629.166,
+    "endTime": 634.133,
+    "fullTextZH": "现在我要翻翻豆腐",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 629.226,
+        "endTime": 629.707,
+        "gloss": "now"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 629.707,
+        "endTime": 630.428,
+        "gloss": "I want"
+      },
+      {
+        "word": "翻翻",
+        "pinyin": "fān fān",
+        "startTime": 630.428,
+        "endTime": 633.372,
+        "gloss": "flip"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 633.372,
+        "endTime": 633.692,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Now I want to flip the tofu."
+  },
+  {
+    "startTime": 636.766,
+    "endTime": 638.266,
+    "fullTextZH": "翻好了",
+    "words": [
+      {
+        "word": "翻好",
+        "pinyin": "fān hǎo",
+        "startTime": 636.969,
+        "endTime": 637.759,
+        "gloss": "flip well"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 637.759,
+        "endTime": 637.78,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Flipped well."
+  },
+  {
+    "startTime": 639.133,
+    "endTime": 642.0,
+    "fullTextZH": "这个颜色很漂亮吧",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 639.173,
+        "endTime": 639.474,
+        "gloss": "this"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 639.474,
+        "endTime": 640.416,
+        "gloss": "color"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 640.416,
+        "endTime": 641.519,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 641.519,
+        "endTime": 641.539,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "This color is very beautiful, right?"
+  },
+  {
+    "startTime": 642.433,
+    "endTime": 648.433,
+    "fullTextZH": "好现在我们把豆腐拿到",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 642.513,
+        "endTime": 643.175,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 643.175,
+        "endTime": 644.62,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 644.62,
+        "endTime": 645.162,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 645.162,
+        "endTime": 645.784,
+        "gloss": "take"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 645.784,
+        "endTime": 646.808,
+        "gloss": "tofu"
+      },
+      {
+        "word": "拿到",
+        "pinyin": "ná dào",
+        "startTime": 646.808,
+        "endTime": 647.851,
+        "gloss": "to"
+      }
+    ],
+    "fullTextEN": "Okay, now we take the tofu."
+  },
+  {
+    "startTime": 649.9,
+    "endTime": 652.366,
+    "fullTextZH": "盘子盘子上",
+    "words": [
+      {
+        "word": "盘子",
+        "pinyin": "pán zi",
+        "startTime": 649.92,
+        "endTime": 651.323,
+        "gloss": "plate"
+      },
+      {
+        "word": "盘子",
+        "pinyin": "pán zi",
+        "startTime": 651.323,
+        "endTime": 651.905,
+        "gloss": "plate"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 651.905,
+        "endTime": 651.925,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Onto the plate."
+  },
+  {
+    "startTime": 655.8,
+    "endTime": 659.533,
+    "fullTextZH": "我们把豆腐拿到盘子上",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 655.8,
+        "endTime": 656.161,
+        "gloss": "we"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 656.161,
+        "endTime": 656.482,
+        "gloss": "take"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 656.482,
+        "endTime": 657.345,
+        "gloss": "tofu"
+      },
+      {
+        "word": "拿到",
+        "pinyin": "ná dào",
+        "startTime": 657.345,
+        "endTime": 658.289,
+        "gloss": "to"
+      },
+      {
+        "word": "盘子",
+        "pinyin": "pán zi",
+        "startTime": 658.289,
+        "endTime": 659.031,
+        "gloss": "plate"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 659.031,
+        "endTime": 659.051,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "We put the tofu onto the plate."
+  },
+  {
+    "startTime": 660.1,
+    "endTime": 660.9,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 660.203,
+        "endTime": 660.223,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 662.4,
+    "endTime": 668.3,
+    "fullTextZH": "现在我们要先炒姜",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 662.54,
+        "endTime": 663.885,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 663.885,
+        "endTime": 664.306,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 664.306,
+        "endTime": 665.651,
+        "gloss": "want"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 665.651,
+        "endTime": 667.056,
+        "gloss": "first"
+      },
+      {
+        "word": "炒",
+        "pinyin": "chǎo",
+        "startTime": 667.056,
+        "endTime": 667.678,
+        "gloss": "fry"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 667.678,
+        "endTime": 667.698,
+        "gloss": "ginger"
+      }
+    ],
+    "fullTextEN": "Now we first fry the ginger."
+  },
+  {
+    "startTime": 668.9,
+    "endTime": 671.233,
+    "fullTextZH": "把姜放进来",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 668.92,
+        "endTime": 669.101,
+        "gloss": "put"
+      },
+      {
+        "word": "姜",
+        "pinyin": "jiāng",
+        "startTime": 669.101,
+        "endTime": 669.926,
+        "gloss": "ginger"
+      },
+      {
+        "word": "放进来",
+        "pinyin": "fàng jìn lái",
+        "startTime": 669.926,
+        "endTime": 670.71,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "Put the ginger in."
+  },
+  {
+    "startTime": 675.466,
+    "endTime": 676.833,
+    "fullTextZH": "来你们看",
+    "words": [
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 675.546,
+        "endTime": 676.089,
+        "gloss": "come"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 676.089,
+        "endTime": 676.33,
+        "gloss": "you all"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 676.33,
+        "endTime": 676.351,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Come, you all look."
+  },
+  {
+    "startTime": 678.066,
+    "endTime": 680.2,
+    "fullTextZH": "要煎到这样",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 678.126,
+        "endTime": 678.851,
+        "gloss": "should"
+      },
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 678.851,
+        "endTime": 679.214,
+        "gloss": "fry"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 679.214,
+        "endTime": 679.495,
+        "gloss": "to"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 679.495,
+        "endTime": 679.717,
+        "gloss": "this way"
+      }
+    ],
+    "fullTextEN": "It should be fried like this."
+  },
+  {
+    "startTime": 681.266,
+    "endTime": 686.166,
+    "fullTextZH": "姜它是卷卷的卷卷的",
+    "words": [
+      {
+        "word": "姜它",
+        "pinyin": "jiāng tā",
+        "startTime": 681.326,
+        "endTime": 682.29,
+        "gloss": "ginger"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 682.29,
+        "endTime": 683.154,
+        "gloss": "is"
+      },
+      {
+        "word": "卷",
+        "pinyin": "juǎn",
+        "startTime": 683.154,
+        "endTime": 683.676,
+        "gloss": "curly"
+      },
+      {
+        "word": "卷",
+        "pinyin": "juǎn",
+        "startTime": 683.676,
+        "endTime": 684.037,
+        "gloss": "curly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 684.037,
+        "endTime": 685.061,
+        "gloss": "particle"
+      },
+      {
+        "word": "卷",
+        "pinyin": "juǎn",
+        "startTime": 685.061,
+        "endTime": 685.443,
+        "gloss": "curly"
+      },
+      {
+        "word": "卷",
+        "pinyin": "juǎn",
+        "startTime": 685.443,
+        "endTime": 685.784,
+        "gloss": "curly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 685.784,
+        "endTime": 685.805,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "The ginger is curly, curly."
+  },
+  {
+    "startTime": 686.8,
+    "endTime": 691.966,
+    "fullTextZH": "现在我们放蒜头到锅子里",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 686.86,
+        "endTime": 687.541,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 687.541,
+        "endTime": 688.041,
+        "gloss": "we"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 688.041,
+        "endTime": 688.542,
+        "gloss": "put"
+      },
+      {
+        "word": "蒜头",
+        "pinyin": "suàn tóu",
+        "startTime": 688.542,
+        "endTime": 689.743,
+        "gloss": "garlic"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 689.743,
+        "endTime": 690.324,
+        "gloss": "into"
+      },
+      {
+        "word": "锅子",
+        "pinyin": "guō zi",
+        "startTime": 690.324,
+        "endTime": 691.345,
+        "gloss": "pot"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 691.345,
+        "endTime": 691.365,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "Now we put the garlic into the pot."
+  },
+  {
+    "startTime": 698.2,
+    "endTime": 701.8,
+    "fullTextZH": "火不可以太大",
+    "words": [
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 698.341,
+        "endTime": 699.648,
+        "gloss": "heat"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 699.648,
+        "endTime": 700.091,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 700.091,
+        "endTime": 700.915,
+        "gloss": "can"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 700.915,
+        "endTime": 701.257,
+        "gloss": "too"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 701.257,
+        "endTime": 701.277,
+        "gloss": "high"
+      }
+    ],
+    "fullTextEN": "The heat shouldn't be too high."
+  },
+  {
+    "startTime": 702.866,
+    "endTime": 705.633,
+    "fullTextZH": "火要很小很小",
+    "words": [
+      {
+        "word": "火要",
+        "pinyin": "huǒ yào",
+        "startTime": 703.026,
+        "endTime": 703.929,
+        "gloss": "heat should"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 703.929,
+        "endTime": 704.831,
+        "gloss": "very low"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 704.831,
+        "endTime": 705.172,
+        "gloss": "very low"
+      }
+    ],
+    "fullTextEN": "The heat should be very low."
+  },
+  {
+    "startTime": 708.8,
+    "endTime": 710.433,
+    "fullTextZH": "很漂亮吧",
+    "words": [
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 708.84,
+        "endTime": 709.748,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 709.748,
+        "endTime": 709.768,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Very beautiful, right?"
+  },
+  {
+    "startTime": 710.433,
+    "endTime": 712.2,
+    "fullTextZH": "嗯嗯好香哦",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 710.553,
+        "endTime": 710.835,
+        "gloss": "hmm"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 710.835,
+        "endTime": 711.096,
+        "gloss": "hmm"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 711.096,
+        "endTime": 711.457,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 711.457,
+        "endTime": 711.798,
+        "gloss": "fragrant"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 711.798,
+        "endTime": 711.818,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Hmm, hmm, smells good."
+  },
+  {
+    "startTime": 713.0,
+    "endTime": 717.466,
+    "fullTextZH": "好现在火小一点",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 713.08,
+        "endTime": 713.701,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 713.701,
+        "endTime": 715.163,
+        "gloss": "now"
+      },
+      {
+        "word": "火小",
+        "pinyin": "huǒ xiǎo",
+        "startTime": 715.163,
+        "endTime": 716.425,
+        "gloss": "heat"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 716.425,
+        "endTime": 716.625,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "Okay, now lower the heat a bit."
+  },
+  {
+    "startTime": 719.066,
+    "endTime": 719.866,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 719.189,
+        "endTime": 719.21,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 720.566,
+    "endTime": 723.833,
+    "fullTextZH": "现在我要放辣椒",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 720.666,
+        "endTime": 721.348,
+        "gloss": "now"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 721.348,
+        "endTime": 721.749,
+        "gloss": "I want to"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 721.749,
+        "endTime": 722.811,
+        "gloss": "add"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 722.811,
+        "endTime": 723.152,
+        "gloss": "chili peppers"
+      }
+    ],
+    "fullTextEN": "Now I will add chili peppers."
+  },
+  {
+    "startTime": 726.666,
+    "endTime": 728.2,
+    "fullTextZH": "然后炒炒",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 726.727,
+        "endTime": 727.352,
+        "gloss": "then"
+      },
+      {
+        "word": "炒炒",
+        "pinyin": "chǎo chǎo",
+        "startTime": 727.352,
+        "endTime": 727.574,
+        "gloss": "stir-fry"
+      }
+    ],
+    "fullTextEN": "Then stir-fry."
+  },
+  {
+    "startTime": 728.2,
+    "endTime": 729.933,
+    "fullTextZH": "炒炒",
+    "words": [
+      {
+        "word": "炒炒",
+        "pinyin": "chǎo chǎo",
+        "startTime": 728.704,
+        "endTime": 728.986,
+        "gloss": "stir-fry"
+      }
+    ],
+    "fullTextEN": "Stir-fry."
+  },
+  {
+    "startTime": 731.333,
+    "endTime": 735.5,
+    "fullTextZH": "现在我要把豆腐放回来",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 731.393,
+        "endTime": 732.395,
+        "gloss": "now"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 732.395,
+        "endTime": 732.775,
+        "gloss": "I want to"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 732.775,
+        "endTime": 733.156,
+        "gloss": "put"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 733.156,
+        "endTime": 734.178,
+        "gloss": "tofu"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 734.178,
+        "endTime": 734.659,
+        "gloss": "back"
+      },
+      {
+        "word": "回来",
+        "pinyin": "huí lái",
+        "startTime": 734.659,
+        "endTime": 734.999,
+        "gloss": "return"
+      }
+    ],
+    "fullTextEN": "Now I will put the tofu back."
+  },
+  {
+    "startTime": 743.633,
+    "endTime": 749.1,
+    "fullTextZH": "好现在我要加我们的酱汁",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 743.753,
+        "endTime": 744.334,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 744.334,
+        "endTime": 744.955,
+        "gloss": "now"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 744.955,
+        "endTime": 745.636,
+        "gloss": "I want to"
+      },
+      {
+        "word": "加",
+        "pinyin": "jiā",
+        "startTime": 745.636,
+        "endTime": 746.777,
+        "gloss": "add"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 746.777,
+        "endTime": 747.198,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 747.198,
+        "endTime": 747.598,
+        "gloss": "of"
+      },
+      {
+        "word": "酱汁",
+        "pinyin": "jiàng zhī",
+        "startTime": 747.598,
+        "endTime": 748.119,
+        "gloss": "sauce"
+      }
+    ],
+    "fullTextEN": "Okay, now I will add our sauce."
+  },
+  {
+    "startTime": 749.766,
+    "endTime": 755.433,
+    "fullTextZH": "321 呜",
+    "words": [
+      {
+        "word": "呜",
+        "pinyin": "wū",
+        "startTime": 755.413,
+        "endTime": 755.433,
+        "gloss": "woo"
+      }
+    ],
+    "fullTextEN": "3, 2, 1, woo!"
+  },
+  {
+    "startTime": 760.466,
+    "endTime": 764.666,
+    "fullTextZH": "然后现在火开",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 760.546,
+        "endTime": 761.37,
+        "gloss": "then"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 761.37,
+        "endTime": 762.837,
+        "gloss": "now"
+      },
+      {
+        "word": "火开",
+        "pinyin": "huǒ kāi",
+        "startTime": 762.837,
+        "endTime": 763.802,
+        "gloss": "heat on"
+      }
+    ],
+    "fullTextEN": "Then now turn on the heat."
+  },
+  {
+    "startTime": 766.1,
+    "endTime": 767.666,
+    "fullTextZH": "大一点点",
+    "words": [
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 766.16,
+        "endTime": 766.783,
+        "gloss": "big"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 766.783,
+        "endTime": 767.164,
+        "gloss": "a little"
+      }
+    ],
+    "fullTextEN": "A little bigger."
+  },
+  {
+    "startTime": 773.466,
+    "endTime": 779.033,
+    "fullTextZH": "现在我们让豆腐喝很多很多的水",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 773.526,
+        "endTime": 774.087,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 774.087,
+        "endTime": 774.447,
+        "gloss": "we"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 774.447,
+        "endTime": 774.928,
+        "gloss": "let"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 774.928,
+        "endTime": 776.27,
+        "gloss": "tofu"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 776.27,
+        "endTime": 776.79,
+        "gloss": "drink"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 776.79,
+        "endTime": 777.952,
+        "gloss": "a lot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 777.952,
+        "endTime": 778.192,
+        "gloss": "of"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 778.192,
+        "endTime": 778.212,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "Now we let the tofu absorb a lot of water."
+  },
+  {
+    "startTime": 779.466,
+    "endTime": 782.366,
+    "fullTextZH": "让他们喝这些水",
+    "words": [
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 779.486,
+        "endTime": 779.587,
+        "gloss": "let"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 779.587,
+        "endTime": 780.07,
+        "gloss": "them"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 780.07,
+        "endTime": 781.158,
+        "gloss": "drink"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 781.158,
+        "endTime": 781.621,
+        "gloss": "these"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 781.621,
+        "endTime": 781.641,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "Let them absorb this water."
+  },
+  {
+    "startTime": 782.833,
+    "endTime": 785.2,
+    "fullTextZH": "如果你有盖子",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 783.054,
+        "endTime": 783.716,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 783.716,
+        "endTime": 783.916,
+        "gloss": "you"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 783.916,
+        "endTime": 784.358,
+        "gloss": "have"
+      },
+      {
+        "word": "盖子",
+        "pinyin": "gài zi",
+        "startTime": 784.358,
+        "endTime": 784.719,
+        "gloss": "lid"
+      }
+    ],
+    "fullTextEN": "If you have a lid."
+  },
+  {
+    "startTime": 785.833,
+    "endTime": 789.2,
+    "fullTextZH": "你可以盖盖盖子",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 785.873,
+        "endTime": 786.033,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 786.033,
+        "endTime": 786.635,
+        "gloss": "can"
+      },
+      {
+        "word": "盖盖",
+        "pinyin": "gài gài",
+        "startTime": 786.635,
+        "endTime": 788.398,
+        "gloss": "cover"
+      },
+      {
+        "word": "盖子",
+        "pinyin": "gài zi",
+        "startTime": 788.398,
+        "endTime": 788.739,
+        "gloss": "lid"
+      }
+    ],
+    "fullTextEN": "You can cover with a lid."
+  },
+  {
+    "startTime": 790.266,
+    "endTime": 792.633,
+    "fullTextZH": "可是我没有盖子",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 790.326,
+        "endTime": 790.948,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 790.948,
+        "endTime": 791.409,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 791.409,
+        "endTime": 791.891,
+        "gloss": "don't have"
+      },
+      {
+        "word": "盖子",
+        "pinyin": "gài zi",
+        "startTime": 791.891,
+        "endTime": 792.212,
+        "gloss": "lid"
+      }
+    ],
+    "fullTextEN": "But I don't have a lid."
+  },
+  {
+    "startTime": 793.2,
+    "endTime": 796.066,
+    "fullTextZH": "这个盖子太小了",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 793.26,
+        "endTime": 793.621,
+        "gloss": "this"
+      },
+      {
+        "word": "盖子",
+        "pinyin": "gài zi",
+        "startTime": 793.621,
+        "endTime": 794.503,
+        "gloss": "lid"
+      },
+      {
+        "word": "太小",
+        "pinyin": "tài xiǎo",
+        "startTime": 794.503,
+        "endTime": 795.585,
+        "gloss": "too small"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 795.585,
+        "endTime": 795.605,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "This lid is too small."
+  },
+  {
+    "startTime": 798.4,
+    "endTime": 804.1,
+    "fullTextZH": "现在我们让豆腐再煮2分钟",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 798.52,
+        "endTime": 799.123,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 799.123,
+        "endTime": 799.845,
+        "gloss": "we"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 799.845,
+        "endTime": 800.347,
+        "gloss": "let"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 800.347,
+        "endTime": 801.511,
+        "gloss": "tofu"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 801.511,
+        "endTime": 801.973,
+        "gloss": "again"
+      },
+      {
+        "word": "煮",
+        "pinyin": "zhǔ",
+        "startTime": 801.973,
+        "endTime": 802.856,
+        "gloss": "cook"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 803.197,
+        "endTime": 803.498,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "Now we let the tofu cook for 2 more minutes."
+  },
+  {
+    "startTime": 808.4,
+    "endTime": 814.166,
+    "fullTextZH": "我们翻翻一下豆腐",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 808.44,
+        "endTime": 809.481,
+        "gloss": "we"
+      },
+      {
+        "word": "翻翻",
+        "pinyin": "fān fān",
+        "startTime": 809.481,
+        "endTime": 812.244,
+        "gloss": "flip"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 812.244,
+        "endTime": 813.325,
+        "gloss": "a bit"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 813.325,
+        "endTime": 813.686,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "We flip the tofu."
+  },
+  {
+    "startTime": 818.9,
+    "endTime": 820.5,
+    "fullTextZH": "好现在呢",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 818.941,
+        "endTime": 819.406,
+        "gloss": "okay"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 819.406,
+        "endTime": 819.933,
+        "gloss": "now"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 819.933,
+        "endTime": 819.953,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Okay, now then."
+  },
+  {
+    "startTime": 820.8,
+    "endTime": 822.9,
+    "fullTextZH": "我们放九层塔",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 820.8,
+        "endTime": 821.184,
+        "gloss": "we"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 821.184,
+        "endTime": 821.668,
+        "gloss": "add"
+      },
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 821.668,
+        "endTime": 822.234,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 822.234,
+        "endTime": 822.254,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "We add basil."
+  },
+  {
+    "startTime": 825.366,
+    "endTime": 830.266,
+    "fullTextZH": "然后加一点点香油",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 825.406,
+        "endTime": 826.129,
+        "gloss": "then"
+      },
+      {
+        "word": "加",
+        "pinyin": "jiā",
+        "startTime": 826.129,
+        "endTime": 827.173,
+        "gloss": "add"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 827.173,
+        "endTime": 829.081,
+        "gloss": "a little"
+      },
+      {
+        "word": "香油",
+        "pinyin": "xiāng yóu",
+        "startTime": 829.081,
+        "endTime": 829.583,
+        "gloss": "sesame oil"
+      }
+    ],
+    "fullTextEN": "Then add a little sesame oil."
+  },
+  {
+    "startTime": 831.033,
+    "endTime": 832.233,
+    "fullTextZH": "一点点哦",
+    "words": [
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 831.053,
+        "endTime": 831.664,
+        "gloss": "a little"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 831.664,
+        "endTime": 831.684,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Just a little, okay?"
+  },
+  {
+    "startTime": 836.566,
+    "endTime": 837.366,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 836.587,
+        "endTime": 836.607,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 844.4,
+    "endTime": 844.933,
+    "fullTextZH": "吼",
+    "words": [
+      {
+        "word": "吼",
+        "pinyin": "hǒu",
+        "startTime": 844.564,
+        "endTime": 844.584,
+        "gloss": "roar"
+      }
+    ],
+    "fullTextEN": "Roar"
+  },
+  {
+    "startTime": 847.3,
+    "endTime": 849.133,
+    "fullTextZH": "OK好了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 848.529,
+        "endTime": 848.69,
+        "gloss": "okay"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 848.69,
+        "endTime": 848.71,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "Okay, done"
+  },
+  {
+    "startTime": 849.533,
+    "endTime": 853.466,
+    "fullTextZH": "现在我们关火",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 849.613,
+        "endTime": 850.777,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 850.777,
+        "endTime": 852.322,
+        "gloss": "we"
+      },
+      {
+        "word": "关火",
+        "pinyin": "guān huǒ",
+        "startTime": 852.322,
+        "endTime": 852.583,
+        "gloss": "turn off heat"
+      }
+    ],
+    "fullTextEN": "Now we turn off the heat"
+  },
+  {
+    "startTime": 854.533,
+    "endTime": 855.333,
+    "fullTextZH": "没有",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 854.574,
+        "endTime": 854.8,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No"
+  },
+  {
+    "startTime": 856.033,
+    "endTime": 857.2,
+    "fullTextZH": "没有火了",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 856.053,
+        "endTime": 856.496,
+        "gloss": "no"
+      },
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 856.496,
+        "endTime": 856.777,
+        "gloss": "fire"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 856.777,
+        "endTime": 856.798,
+        "gloss": "anymore"
+      }
+    ],
+    "fullTextEN": "No more fire"
+  },
+  {
+    "startTime": 858.133,
+    "endTime": 862.8,
+    "fullTextZH": "我们的3杯豆腐做好喽",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 858.193,
+        "endTime": 858.554,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 858.554,
+        "endTime": 858.914,
+        "gloss": "of"
+      },
+      {
+        "word": "杯",
+        "pinyin": "bēi",
+        "startTime": 859.275,
+        "endTime": 859.615,
+        "gloss": "cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 859.615,
+        "endTime": 861.057,
+        "gloss": "tofu"
+      },
+      {
+        "word": "做好",
+        "pinyin": "zuò hǎo",
+        "startTime": 861.057,
+        "endTime": 861.718,
+        "gloss": "ready"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 861.718,
+        "endTime": 861.738,
+        "gloss": "exclamation"
+      }
+    ],
+    "fullTextEN": "Our three-cup tofu is ready"
+  },
+  {
+    "startTime": 863.966,
+    "endTime": 865.3,
+    "fullTextZH": "好吃吗",
+    "words": [
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 864.209,
+        "endTime": 864.694,
+        "gloss": "delicious"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 864.694,
+        "endTime": 864.714,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it delicious?"
+  },
+  {
+    "startTime": 865.566,
+    "endTime": 868.3,
+    "fullTextZH": "我试吃看看",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 865.606,
+        "endTime": 866.672,
+        "gloss": "I"
+      },
+      {
+        "word": "试吃",
+        "pinyin": "shì chī",
+        "startTime": 866.672,
+        "endTime": 867.516,
+        "gloss": "try"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 867.516,
+        "endTime": 867.757,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "I'll try a bite"
+  },
+  {
+    "startTime": 871.3,
+    "endTime": 872.933,
+    "fullTextZH": "嗯",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 871.441,
+        "endTime": 871.461,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm"
+  },
+  {
+    "startTime": 873.566,
+    "endTime": 874.7,
+    "fullTextZH": "嗯很好吃",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 873.566,
+        "endTime": 873.708,
+        "gloss": "hmm"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 873.708,
+        "endTime": 873.89,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 873.89,
+        "endTime": 874.173,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Hmm, very delicious"
+  },
+  {
+    "startTime": 878.766,
+    "endTime": 880.766,
+    "fullTextZH": "哇你看看这个",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 878.847,
+        "endTime": 879.291,
+        "gloss": "wow"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 879.291,
+        "endTime": 879.453,
+        "gloss": "you"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 879.453,
+        "endTime": 880.12,
+        "gloss": "look"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 880.12,
+        "endTime": 880.281,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "Wow, look at this"
+  },
+  {
+    "startTime": 881.066,
+    "endTime": 885.2,
+    "fullTextZH": "3杯豆腐做好了",
+    "words": [
+      {
+        "word": "杯",
+        "pinyin": "bēi",
+        "startTime": 881.668,
+        "endTime": 881.989,
+        "gloss": "cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 881.989,
+        "endTime": 883.735,
+        "gloss": "tofu"
+      },
+      {
+        "word": "做好",
+        "pinyin": "zuò hǎo",
+        "startTime": 883.735,
+        "endTime": 884.337,
+        "gloss": "ready"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 884.337,
+        "endTime": 884.357,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "The three-cup tofu is ready"
+  },
+  {
+    "startTime": 885.666,
+    "endTime": 892.2,
+    "fullTextZH": "吃三杯豆腐一定要白饭",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 885.806,
+        "endTime": 886.227,
+        "gloss": "eat"
+      },
+      {
+        "word": "三杯",
+        "pinyin": "sān bēi",
+        "startTime": 886.227,
+        "endTime": 886.808,
+        "gloss": "three-cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 886.808,
+        "endTime": 888.191,
+        "gloss": "tofu"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 888.191,
+        "endTime": 889.153,
+        "gloss": "must"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 889.153,
+        "endTime": 890.476,
+        "gloss": "have"
+      },
+      {
+        "word": "白饭",
+        "pinyin": "bái fàn",
+        "startTime": 890.476,
+        "endTime": 891.038,
+        "gloss": "rice"
+      }
+    ],
+    "fullTextEN": "Eating three-cup tofu must have rice"
+  },
+  {
+    "startTime": 892.933,
+    "endTime": 895.233,
+    "fullTextZH": "我先煮了白饭",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 892.973,
+        "endTime": 893.397,
+        "gloss": "I"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 893.397,
+        "endTime": 893.841,
+        "gloss": "first"
+      },
+      {
+        "word": "煮",
+        "pinyin": "zhǔ",
+        "startTime": 893.841,
+        "endTime": 894.103,
+        "gloss": "cook"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 894.103,
+        "endTime": 894.386,
+        "gloss": "done"
+      },
+      {
+        "word": "白饭",
+        "pinyin": "bái fàn",
+        "startTime": 894.386,
+        "endTime": 894.729,
+        "gloss": "rice"
+      }
+    ],
+    "fullTextEN": "I cooked rice first"
+  },
+  {
+    "startTime": 895.4,
+    "endTime": 900.466,
+    "fullTextZH": "嗯吃三杯豆腐一定要有白饭",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 895.52,
+        "endTime": 896.481,
+        "gloss": "hmm"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 896.481,
+        "endTime": 896.742,
+        "gloss": "eat"
+      },
+      {
+        "word": "三杯",
+        "pinyin": "sān bēi",
+        "startTime": 896.742,
+        "endTime": 897.242,
+        "gloss": "three-cup"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 897.242,
+        "endTime": 898.123,
+        "gloss": "tofu"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 898.123,
+        "endTime": 898.644,
+        "gloss": "must"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 898.644,
+        "endTime": 898.944,
+        "gloss": "have"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 898.944,
+        "endTime": 899.485,
+        "gloss": "have"
+      },
+      {
+        "word": "白饭",
+        "pinyin": "bái fàn",
+        "startTime": 899.485,
+        "endTime": 899.965,
+        "gloss": "rice"
+      }
+    ],
+    "fullTextEN": "Hmm, eating three-cup tofu must have rice"
+  },
+  {
+    "startTime": 901.0,
+    "endTime": 903.866,
+    "fullTextZH": "我拿一个小碗",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 901.04,
+        "endTime": 901.241,
+        "gloss": "I"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 901.241,
+        "endTime": 901.541,
+        "gloss": "get"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 901.541,
+        "endTime": 902.563,
+        "gloss": "a"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 902.563,
+        "endTime": 902.984,
+        "gloss": "small"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 902.984,
+        "endTime": 903.004,
+        "gloss": "bowl"
+      }
+    ],
+    "fullTextEN": "I'll get a small bowl"
+  },
+  {
+    "startTime": 904.133,
+    "endTime": 905.533,
+    "fullTextZH": "这个是碗",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 904.174,
+        "endTime": 904.437,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 904.437,
+        "endTime": 904.579,
+        "gloss": "is"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 904.579,
+        "endTime": 904.6,
+        "gloss": "bowl"
+      }
+    ],
+    "fullTextEN": "This is a bowl"
+  },
+  {
+    "startTime": 906.366,
+    "endTime": 909.766,
+    "fullTextZH": "我喜欢用小碗吃饭",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 906.406,
+        "endTime": 906.668,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 906.668,
+        "endTime": 907.13,
+        "gloss": "like"
+      },
+      {
+        "word": "用小碗",
+        "pinyin": "yòng xiǎo wǎn",
+        "startTime": 907.13,
+        "endTime": 908.941,
+        "gloss": "use small bowl"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 908.941,
+        "endTime": 909.344,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "I like to eat with a small bowl"
+  },
+  {
+    "startTime": 915.5,
+    "endTime": 917.566,
+    "fullTextZH": "好饭装好了",
+    "words": [
+      {
+        "word": "好饭",
+        "pinyin": "hǎo fàn",
+        "startTime": 915.54,
+        "endTime": 916.703,
+        "gloss": "okay rice"
+      },
+      {
+        "word": "装好",
+        "pinyin": "zhuāng hǎo",
+        "startTime": 916.703,
+        "endTime": 917.165,
+        "gloss": "served"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 917.165,
+        "endTime": 917.185,
+        "gloss": "done"
+      }
+    ],
+    "fullTextEN": "Okay, the rice is served"
+  },
+  {
+    "startTime": 917.566,
+    "endTime": 922.566,
+    "fullTextZH": "好我要吃我的晚餐了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 917.666,
+        "endTime": 918.891,
+        "gloss": "okay"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 918.891,
+        "endTime": 919.012,
+        "gloss": "I"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 919.012,
+        "endTime": 919.454,
+        "gloss": "going to"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 919.454,
+        "endTime": 919.976,
+        "gloss": "eat"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 919.976,
+        "endTime": 920.297,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 920.297,
+        "endTime": 920.98,
+        "gloss": "of"
+      },
+      {
+        "word": "晚餐",
+        "pinyin": "wǎn cān",
+        "startTime": 920.98,
+        "endTime": 921.883,
+        "gloss": "dinner"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 921.883,
+        "endTime": 921.903,
+        "gloss": "now"
+      }
+    ],
+    "fullTextEN": "Okay, I'm going to eat my dinner now."
+  },
+  {
+    "startTime": 923.5,
+    "endTime": 926.766,
+    "fullTextZH": "白饭三杯豆腐",
+    "words": [
+      {
+        "word": "白饭",
+        "pinyin": "bái fàn",
+        "startTime": 923.52,
+        "endTime": 924.842,
+        "gloss": "rice"
+      },
+      {
+        "word": "三杯",
+        "pinyin": "sān bēi",
+        "startTime": 924.842,
+        "endTime": 925.464,
+        "gloss": "three cups"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 925.464,
+        "endTime": 925.884,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "Three cups of tofu with rice."
+  },
+  {
+    "startTime": 929.733,
+    "endTime": 932.9,
+    "fullTextZH": "我好饿我好饿",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 929.793,
+        "endTime": 930.034,
+        "gloss": "I"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 930.034,
+        "endTime": 930.495,
+        "gloss": "so"
+      },
+      {
+        "word": "饿",
+        "pinyin": "è",
+        "startTime": 930.495,
+        "endTime": 931.818,
+        "gloss": "hungry"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 931.818,
+        "endTime": 931.958,
+        "gloss": "I"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 931.958,
+        "endTime": 932.319,
+        "gloss": "so"
+      },
+      {
+        "word": "饿",
+        "pinyin": "è",
+        "startTime": 932.319,
+        "endTime": 932.339,
+        "gloss": "hungry"
+      }
+    ],
+    "fullTextEN": "I'm so hungry, I'm so hungry."
+  },
+  {
+    "startTime": 945.766,
+    "endTime": 946.8,
+    "fullTextZH": "嗯",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 945.867,
+        "endTime": 945.888,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm."
+  },
+  {
+    "startTime": 948.466,
+    "endTime": 949.5,
+    "fullTextZH": "很好吃",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 948.466,
+        "endTime": 948.689,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 948.689,
+        "endTime": 949.034,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Very delicious."
+  },
+  {
+    "startTime": 952.1,
+    "endTime": 955.4,
+    "fullTextZH": "你们吃的时候要把豆腐",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 952.18,
+        "endTime": 952.603,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 952.603,
+        "endTime": 952.824,
+        "gloss": "eat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 952.824,
+        "endTime": 953.005,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 953.005,
+        "endTime": 953.83,
+        "gloss": "when"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 953.83,
+        "endTime": 954.012,
+        "gloss": "should"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 954.012,
+        "endTime": 954.394,
+        "gloss": "add"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 954.394,
+        "endTime": 954.796,
+        "gloss": "tofu"
+      }
+    ],
+    "fullTextEN": "When you eat, you should add tofu."
+  },
+  {
+    "startTime": 956.166,
+    "endTime": 957.366,
+    "fullTextZH": "九层塔",
+    "words": [
+      {
+        "word": "九层",
+        "pinyin": "jiǔ céng",
+        "startTime": 956.227,
+        "endTime": 956.797,
+        "gloss": "nine-layer"
+      },
+      {
+        "word": "塔",
+        "pinyin": "tǎ",
+        "startTime": 956.797,
+        "endTime": 956.817,
+        "gloss": "basil"
+      }
+    ],
+    "fullTextEN": "Basil."
+  },
+  {
+    "startTime": 958.066,
+    "endTime": 964.6,
+    "fullTextZH": "还有姜姜这样一起吃",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 958.106,
+        "endTime": 959.048,
+        "gloss": "also"
+      },
+      {
+        "word": "姜姜",
+        "pinyin": "jiāng jiāng",
+        "startTime": 959.048,
+        "endTime": 962.977,
+        "gloss": "ginger"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 962.977,
+        "endTime": 963.678,
+        "gloss": "like this"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 963.678,
+        "endTime": 964.079,
+        "gloss": "together"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 964.079,
+        "endTime": 964.099,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "And ginger, eat them together like this."
+  },
+  {
+    "startTime": 964.866,
+    "endTime": 967.5,
+    "fullTextZH": "哇很好吃",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 964.946,
+        "endTime": 965.932,
+        "gloss": "wow"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 965.932,
+        "endTime": 966.394,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 966.394,
+        "endTime": 966.877,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Wow, very delicious."
+  },
+  {
+    "startTime": 967.5,
+    "endTime": 968.9,
+    "fullTextZH": "真的很好吃",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 967.581,
+        "endTime": 967.906,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 967.906,
+        "endTime": 968.109,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 968.109,
+        "endTime": 968.474,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Really very delicious."
+  },
+  {
+    "startTime": 970.366,
+    "endTime": 972.566,
+    "fullTextZH": "嗯很好吃",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 970.447,
+        "endTime": 971.456,
+        "gloss": "hmm"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 971.456,
+        "endTime": 971.658,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 971.658,
+        "endTime": 971.981,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Hmm, very delicious."
+  },
+  {
+    "startTime": 974.233,
+    "endTime": 977.033,
+    "fullTextZH": "如果你也喜欢吃豆腐",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 974.293,
+        "endTime": 974.797,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 974.797,
+        "endTime": 974.978,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 974.978,
+        "endTime": 975.28,
+        "gloss": "also"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 975.28,
+        "endTime": 975.845,
+        "gloss": "like"
+      },
+      {
+        "word": "吃豆腐",
+        "pinyin": "chī dòu fǔ",
+        "startTime": 975.845,
+        "endTime": 976.529,
+        "gloss": "eat tofu"
+      }
+    ],
+    "fullTextEN": "If you also like to eat tofu."
+  },
+  {
+    "startTime": 977.6,
+    "endTime": 979.1,
+    "fullTextZH": "你也可以做做看",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 977.661,
+        "endTime": 977.782,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 977.782,
+        "endTime": 977.965,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 977.965,
+        "endTime": 978.309,
+        "gloss": "can"
+      },
+      {
+        "word": "做做",
+        "pinyin": "zuò zuò",
+        "startTime": 978.309,
+        "endTime": 978.735,
+        "gloss": "try"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 978.735,
+        "endTime": 978.755,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "You can also try making it."
+  },
+  {
+    "startTime": 979.1,
+    "endTime": 981.2,
+    "fullTextZH": "3杯豆腐哦",
+    "words": [
+      {
+        "word": "杯",
+        "pinyin": "bēi",
+        "startTime": 979.544,
+        "endTime": 979.908,
+        "gloss": "cups"
+      },
+      {
+        "word": "豆腐",
+        "pinyin": "dòu fǔ",
+        "startTime": 979.908,
+        "endTime": 980.473,
+        "gloss": "tofu"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 980.473,
+        "endTime": 980.493,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Three cups of tofu, oh."
+  },
+  {
+    "startTime": 983.1,
+    "endTime": 983.9,
+    "fullTextZH": "嗯",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 983.162,
+        "endTime": 983.182,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm."
+  },
+  {
+    "startTime": 985.133,
+    "endTime": 986.566,
+    "fullTextZH": "好拜拜",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 985.234,
+        "endTime": 985.638,
+        "gloss": "okay"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 985.638,
+        "endTime": 985.779,
+        "gloss": "bye-bye"
+      }
+    ],
+    "fullTextEN": "Okay, bye-bye."
+  }
+]

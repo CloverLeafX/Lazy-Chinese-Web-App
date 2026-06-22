@@ -1,0 +1,5620 @@
+[
+  {
+    "startTime": 0.5,
+    "endTime": 1.333,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.723,
+        "endTime": 1.292,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 1.966,
+    "endTime": 7.433,
+    "fullTextZH": "你喜欢尝试新的食物吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 2.146,
+        "endTime": 2.967,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 2.967,
+        "endTime": 4.029,
+        "gloss": "like"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 4.029,
+        "endTime": 5.631,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 5.631,
+        "endTime": 6.031,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 6.031,
+        "endTime": 6.352,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 6.352,
+        "endTime": 6.972,
+        "gloss": "food"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 6.972,
+        "endTime": 7.393,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like trying new foods?"
+  },
+  {
+    "startTime": 8.333,
+    "endTime": 12.666,
+    "fullTextZH": "如果你看到一个新的食物，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 8.554,
+        "endTime": 9.657,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 9.657,
+        "endTime": 9.918,
+        "gloss": "you"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 9.918,
+        "endTime": 10.58,
+        "gloss": "see"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 10.58,
+        "endTime": 11.302,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 11.302,
+        "endTime": 11.663,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 11.663,
+        "endTime": 11.924,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 11.924,
+        "endTime": 12.626,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "If you see a new food,"
+  },
+  {
+    "startTime": 12.933,
+    "endTime": 15.933,
+    "fullTextZH": "你觉得很害怕，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 13.094,
+        "endTime": 13.456,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 13.456,
+        "endTime": 14.705,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 14.705,
+        "endTime": 15.148,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 15.148,
+        "endTime": 15.893,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "Do you feel scared,"
+  },
+  {
+    "startTime": 15.933,
+    "endTime": 20.3,
+    "fullTextZH": "很害怕😨，还是很兴奋🤩？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 16.133,
+        "endTime": 16.294,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 16.294,
+        "endTime": 16.854,
+        "gloss": "scared"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 17.295,
+        "endTime": 18.958,
+        "gloss": "or"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 18.958,
+        "endTime": 19.439,
+        "gloss": "very"
+      },
+      {
+        "word": "兴奋",
+        "pinyin": "xīng fèn",
+        "startTime": 19.439,
+        "endTime": 20.26,
+        "gloss": "excited"
+      }
+    ],
+    "fullTextEN": "very scared 😨, or very excited 🤩?"
+  },
+  {
+    "startTime": 21.266,
+    "endTime": 23.8,
+    "fullTextZH": "今天我要说说，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 21.427,
+        "endTime": 22.372,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 22.372,
+        "endTime": 22.634,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 22.634,
+        "endTime": 23.378,
+        "gloss": "want"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 23.378,
+        "endTime": 23.76,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "Today I want to talk about,"
+  },
+  {
+    "startTime": 23.933,
+    "endTime": 29.366,
+    "fullTextZH": "为什么我喜欢尝试新的食物。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 24.113,
+        "endTime": 25.256,
+        "gloss": "why"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 25.256,
+        "endTime": 25.697,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 25.697,
+        "endTime": 26.599,
+        "gloss": "like"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 26.599,
+        "endTime": 27.943,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 27.943,
+        "endTime": 28.303,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 28.303,
+        "endTime": 28.604,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 28.604,
+        "endTime": 29.326,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "why I like trying new foods."
+  },
+  {
+    "startTime": 29.733,
+    "endTime": 36.766,
+    "fullTextZH": "然后，我也会说说我怎么说服我自己，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 29.913,
+        "endTime": 30.615,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 30.795,
+        "endTime": 30.995,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 30.995,
+        "endTime": 31.296,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 31.296,
+        "endTime": 31.697,
+        "gloss": "will"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 31.697,
+        "endTime": 31.997,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 31.997,
+        "endTime": 32.678,
+        "gloss": "talk"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 32.678,
+        "endTime": 33.28,
+        "gloss": "I"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 33.28,
+        "endTime": 34.201,
+        "gloss": "how"
+      },
+      {
+        "word": "说服",
+        "pinyin": "shuō fú",
+        "startTime": 34.201,
+        "endTime": 35.003,
+        "gloss": "convince"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 35.003,
+        "endTime": 35.464,
+        "gloss": "I"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 35.464,
+        "endTime": 36.726,
+        "gloss": "myself"
+      }
+    ],
+    "fullTextEN": "Then, I will also talk about how I convince myself,"
+  },
+  {
+    "startTime": 36.9,
+    "endTime": 39.366,
+    "fullTextZH": "尝试新的食物，",
+    "words": [
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 37.04,
+        "endTime": 38.183,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 38.183,
+        "endTime": 38.484,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.484,
+        "endTime": 38.724,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 38.724,
+        "endTime": 39.326,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "to try new foods,"
+  },
+  {
+    "startTime": 39.366,
+    "endTime": 43.4,
+    "fullTextZH": "然后爱上新的食物。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 39.527,
+        "endTime": 40.43,
+        "gloss": "then"
+      },
+      {
+        "word": "爱上",
+        "pinyin": "ài shàng",
+        "startTime": 40.43,
+        "endTime": 42.075,
+        "gloss": "fall in love"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 42.075,
+        "endTime": 42.417,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 42.417,
+        "endTime": 42.677,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 42.677,
+        "endTime": 43.36,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "and then fall in love with new foods."
+  },
+  {
+    "startTime": 44.266,
+    "endTime": 44.833,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 44.448,
+        "endTime": 44.792,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 44.833,
+    "endTime": 50.333,
+    "fullTextZH": "我先说说为什么我要尝试新的食物。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 45.034,
+        "endTime": 45.194,
+        "gloss": "I"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 45.194,
+        "endTime": 45.515,
+        "gloss": "first"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 45.515,
+        "endTime": 45.797,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 45.797,
+        "endTime": 46.278,
+        "gloss": "talk"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 46.278,
+        "endTime": 47.222,
+        "gloss": "why"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 47.222,
+        "endTime": 47.904,
+        "gloss": "I want"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 47.904,
+        "endTime": 49.068,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 49.068,
+        "endTime": 49.39,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 49.39,
+        "endTime": 49.63,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 49.63,
+        "endTime": 50.293,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "First, I'll talk about why I want to try new foods."
+  },
+  {
+    "startTime": 51.4,
+    "endTime": 58.533,
+    "fullTextZH": "因为我很喜欢去很多很多地方旅游。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 51.6,
+        "endTime": 52.562,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 52.562,
+        "endTime": 52.803,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 52.803,
+        "endTime": 53.544,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 53.544,
+        "endTime": 54.686,
+        "gloss": "like"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 54.686,
+        "endTime": 55.447,
+        "gloss": "go"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 55.447,
+        "endTime": 56.75,
+        "gloss": "many many"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 56.75,
+        "endTime": 57.691,
+        "gloss": "places"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 57.691,
+        "endTime": 58.493,
+        "gloss": "travel"
+      }
+    ],
+    "fullTextEN": "Because I really like to travel to many, many places."
+  },
+  {
+    "startTime": 60.066,
+    "endTime": 64.333,
+    "fullTextZH": "如果我只吃一种菜，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 60.266,
+        "endTime": 61.048,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 61.048,
+        "endTime": 61.468,
+        "gloss": "I"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 61.468,
+        "endTime": 62.129,
+        "gloss": "only"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 62.129,
+        "endTime": 62.79,
+        "gloss": "eat"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 62.79,
+        "endTime": 63.852,
+        "gloss": "one type"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 63.852,
+        "endTime": 64.293,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "If I only eat one type of cuisine,"
+  },
+  {
+    "startTime": 64.533,
+    "endTime": 68.333,
+    "fullTextZH": "比如说我只吃中国菜，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 64.734,
+        "endTime": 65.699,
+        "gloss": "for example"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 65.699,
+        "endTime": 66.061,
+        "gloss": "I"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 66.061,
+        "endTime": 66.463,
+        "gloss": "only"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 66.463,
+        "endTime": 66.966,
+        "gloss": "eat"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 66.966,
+        "endTime": 67.891,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 67.891,
+        "endTime": 67.911,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "for example, if I only eat Chinese food,"
+  },
+  {
+    "startTime": 68.666,
+    "endTime": 73.166,
+    "fullTextZH": "那我去别的地方，我吃什么？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 68.827,
+        "endTime": 69.349,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 69.349,
+        "endTime": 69.67,
+        "gloss": "I"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 69.67,
+        "endTime": 70.112,
+        "gloss": "go"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 70.112,
+        "endTime": 70.675,
+        "gloss": "other"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 70.675,
+        "endTime": 71.679,
+        "gloss": "places"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 71.699,
+        "endTime": 72.141,
+        "gloss": "I"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 72.141,
+        "endTime": 72.523,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 72.523,
+        "endTime": 73.126,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "then when I go to other places, what do I eat?"
+  },
+  {
+    "startTime": 74.233,
+    "endTime": 77.166,
+    "fullTextZH": "我要找中国菜，",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 74.414,
+        "endTime": 75.016,
+        "gloss": "I want"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 75.016,
+        "endTime": 75.941,
+        "gloss": "find"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 75.941,
+        "endTime": 76.724,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 76.724,
+        "endTime": 77.126,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "I have to find Chinese food,"
+  },
+  {
+    "startTime": 78.166,
+    "endTime": 80.433,
+    "fullTextZH": "这个很麻烦。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 78.387,
+        "endTime": 79.109,
+        "gloss": "this"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 79.109,
+        "endTime": 79.55,
+        "gloss": "very"
+      },
+      {
+        "word": "麻烦",
+        "pinyin": "má fán",
+        "startTime": 79.55,
+        "endTime": 80.393,
+        "gloss": "troublesome"
+      }
+    ],
+    "fullTextEN": "which is very troublesome."
+  },
+  {
+    "startTime": 80.6,
+    "endTime": 85.833,
+    "fullTextZH": "而且，有的国家没有很好的中国菜，",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 80.8,
+        "endTime": 81.442,
+        "gloss": "moreover"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 81.843,
+        "endTime": 82.064,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 82.064,
+        "endTime": 82.264,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 82.264,
+        "endTime": 83.066,
+        "gloss": "countries"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 83.066,
+        "endTime": 83.968,
+        "gloss": "not have"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 83.968,
+        "endTime": 84.329,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 84.329,
+        "endTime": 84.63,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 84.63,
+        "endTime": 84.81,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 84.81,
+        "endTime": 85.412,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 85.412,
+        "endTime": 85.793,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "Moreover, some countries don't have good Chinese food,"
+  },
+  {
+    "startTime": 85.966,
+    "endTime": 93.033,
+    "fullTextZH": "所以，可能我找，找，找不到好的中国菜。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 86.166,
+        "endTime": 86.927,
+        "gloss": "so"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 86.967,
+        "endTime": 87.928,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 87.928,
+        "endTime": 88.448,
+        "gloss": "I"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 88.448,
+        "endTime": 89.469,
+        "gloss": "search"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 89.489,
+        "endTime": 90.09,
+        "gloss": "search"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 90.11,
+        "endTime": 90.591,
+        "gloss": "search"
+      },
+      {
+        "word": "不到",
+        "pinyin": "bú dào",
+        "startTime": 90.591,
+        "endTime": 91.592,
+        "gloss": "not find"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 91.592,
+        "endTime": 91.932,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 91.932,
+        "endTime": 92.092,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 92.092,
+        "endTime": 92.633,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 92.633,
+        "endTime": 92.913,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "so maybe I search and search, but can't find good Chinese food."
+  },
+  {
+    "startTime": 93.333,
+    "endTime": 95.9,
+    "fullTextZH": "那我吃什么？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 93.433,
+        "endTime": 94.155,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 94.155,
+        "endTime": 94.777,
+        "gloss": "I"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 94.777,
+        "endTime": 95.198,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 95.198,
+        "endTime": 95.86,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Then what do I eat?"
+  },
+  {
+    "startTime": 96.566,
+    "endTime": 100.133,
+    "fullTextZH": "我知道很多很多中国人，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 96.746,
+        "endTime": 97.047,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 97.047,
+        "endTime": 97.849,
+        "gloss": "know"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 97.849,
+        "endTime": 99.091,
+        "gloss": "many many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 99.091,
+        "endTime": 99.652,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 99.652,
+        "endTime": 100.093,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "I know many, many Chinese people,"
+  },
+  {
+    "startTime": 100.3,
+    "endTime": 104.9,
+    "fullTextZH": "可能他们会带泡面，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 100.461,
+        "endTime": 101.485,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 101.485,
+        "endTime": 101.927,
+        "gloss": "they"
+      },
+      {
+        "word": "会带",
+        "pinyin": "huì dài",
+        "startTime": 101.927,
+        "endTime": 103.634,
+        "gloss": "will bring"
+      },
+      {
+        "word": "泡面",
+        "pinyin": "pào miàn",
+        "startTime": 103.634,
+        "endTime": 104.86,
+        "gloss": "instant noodles"
+      }
+    ],
+    "fullTextEN": "Maybe they will bring instant noodles,"
+  },
+  {
+    "startTime": 104.9,
+    "endTime": 109.466,
+    "fullTextZH": "对，泡面，去别的国家。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 105.06,
+        "endTime": 105.701,
+        "gloss": "yes"
+      },
+      {
+        "word": "泡面",
+        "pinyin": "pào miàn",
+        "startTime": 105.821,
+        "endTime": 106.242,
+        "gloss": "instant noodles"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 107.143,
+        "endTime": 108.124,
+        "gloss": "go"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 108.124,
+        "endTime": 108.685,
+        "gloss": "other"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 108.685,
+        "endTime": 109.426,
+        "gloss": "countries"
+      }
+    ],
+    "fullTextEN": "Yes, instant noodles, to other countries."
+  },
+  {
+    "startTime": 110.366,
+    "endTime": 115.966,
+    "fullTextZH": "可是，我不要每天吃泡面。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 110.607,
+        "endTime": 110.908,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 111.269,
+        "endTime": 112.152,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 112.152,
+        "endTime": 113.076,
+        "gloss": "don't want"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 113.076,
+        "endTime": 114.461,
+        "gloss": "every day"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 114.461,
+        "endTime": 115.103,
+        "gloss": "eat"
+      },
+      {
+        "word": "泡面",
+        "pinyin": "pào miàn",
+        "startTime": 115.103,
+        "endTime": 115.946,
+        "gloss": "instant noodles"
+      }
+    ],
+    "fullTextEN": "But I don't want to eat instant noodles every day."
+  },
+  {
+    "startTime": 116.2,
+    "endTime": 120.566,
+    "fullTextZH": "所以，如果我尝试新的食物，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 116.36,
+        "endTime": 116.661,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 117.081,
+        "endTime": 117.542,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 117.542,
+        "endTime": 118.063,
+        "gloss": "I"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 118.063,
+        "endTime": 119.144,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 119.144,
+        "endTime": 119.505,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 119.505,
+        "endTime": 119.825,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 119.825,
+        "endTime": 120.526,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "So, if I try new foods,"
+  },
+  {
+    "startTime": 120.7,
+    "endTime": 123.866,
+    "fullTextZH": "那我去别的国家，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 120.8,
+        "endTime": 121.261,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 121.261,
+        "endTime": 121.702,
+        "gloss": "I"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 121.702,
+        "endTime": 122.584,
+        "gloss": "go"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 122.584,
+        "endTime": 123.145,
+        "gloss": "other"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 123.145,
+        "endTime": 123.826,
+        "gloss": "countries"
+      }
+    ],
+    "fullTextEN": "Then I go to other countries,"
+  },
+  {
+    "startTime": 123.966,
+    "endTime": 127.433,
+    "fullTextZH": "我就可以吃新的食物。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 124.146,
+        "endTime": 124.407,
+        "gloss": "I"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 124.407,
+        "endTime": 124.707,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 124.707,
+        "endTime": 125.349,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 125.349,
+        "endTime": 126.09,
+        "gloss": "eat"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 126.09,
+        "endTime": 126.431,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 126.431,
+        "endTime": 126.671,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 126.671,
+        "endTime": 127.393,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "I can eat new foods."
+  },
+  {
+    "startTime": 128.166,
+    "endTime": 133.633,
+    "fullTextZH": "所以，我喜欢尝试新的食物，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 128.366,
+        "endTime": 128.867,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 129.247,
+        "endTime": 130.068,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 130.068,
+        "endTime": 131.01,
+        "gloss": "like"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 131.01,
+        "endTime": 132.251,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 132.251,
+        "endTime": 132.612,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 132.612,
+        "endTime": 132.892,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 132.892,
+        "endTime": 133.593,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "So, I like to try new foods,"
+  },
+  {
+    "startTime": 133.733,
+    "endTime": 138.633,
+    "fullTextZH": "因为我要让我的嘴更包容。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 133.914,
+        "endTime": 134.817,
+        "gloss": "because"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 134.817,
+        "endTime": 135.319,
+        "gloss": "I want"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 135.319,
+        "endTime": 135.601,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 135.601,
+        "endTime": 135.822,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 135.822,
+        "endTime": 136.183,
+        "gloss": "of"
+      },
+      {
+        "word": "嘴",
+        "pinyin": "zuǐ",
+        "startTime": 136.183,
+        "endTime": 137.006,
+        "gloss": "mouth"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 137.006,
+        "endTime": 137.769,
+        "gloss": "more"
+      },
+      {
+        "word": "包容",
+        "pinyin": "bāo róng",
+        "startTime": 137.769,
+        "endTime": 138.593,
+        "gloss": "accepting"
+      }
+    ],
+    "fullTextEN": "Because I want to make my mouth more accepting."
+  },
+  {
+    "startTime": 138.766,
+    "endTime": 142.6,
+    "fullTextZH": "这样，我可以在旅游的时候，",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 138.967,
+        "endTime": 139.81,
+        "gloss": "this way"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 139.83,
+        "endTime": 140.071,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 140.071,
+        "endTime": 140.693,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 140.693,
+        "endTime": 141.355,
+        "gloss": "during"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 141.355,
+        "endTime": 141.918,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 141.918,
+        "endTime": 142.138,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 142.138,
+        "endTime": 142.56,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "This way, I can, when traveling,"
+  },
+  {
+    "startTime": 142.766,
+    "endTime": 145.633,
+    "fullTextZH": "吃很多新的食物，",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 142.987,
+        "endTime": 143.528,
+        "gloss": "eat"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 143.528,
+        "endTime": 144.27,
+        "gloss": "many"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 144.27,
+        "endTime": 144.59,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 144.59,
+        "endTime": 144.891,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 144.891,
+        "endTime": 145.593,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Eat a lot of new foods,"
+  },
+  {
+    "startTime": 146.533,
+    "endTime": 149.433,
+    "fullTextZH": "这样我不会饿死。",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 146.694,
+        "endTime": 147.157,
+        "gloss": "this way"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 147.157,
+        "endTime": 147.459,
+        "gloss": "I"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 147.459,
+        "endTime": 148.245,
+        "gloss": "won't"
+      },
+      {
+        "word": "饿死",
+        "pinyin": "è sǐ",
+        "startTime": 148.245,
+        "endTime": 149.413,
+        "gloss": "starve"
+      }
+    ],
+    "fullTextEN": "This way I won't starve."
+  },
+  {
+    "startTime": 150.466,
+    "endTime": 156.733,
+    "fullTextZH": "好，然后我要说说我怎么说服我自己，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 150.606,
+        "endTime": 151.367,
+        "gloss": "okay"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 151.387,
+        "endTime": 151.828,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 151.828,
+        "endTime": 152.008,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 152.008,
+        "endTime": 152.688,
+        "gloss": "want to"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 152.688,
+        "endTime": 153.429,
+        "gloss": "talk"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 153.429,
+        "endTime": 154.15,
+        "gloss": "I"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 154.15,
+        "endTime": 155.211,
+        "gloss": "how"
+      },
+      {
+        "word": "说服",
+        "pinyin": "shuō fú",
+        "startTime": 155.211,
+        "endTime": 155.912,
+        "gloss": "persuade"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 155.912,
+        "endTime": 156.272,
+        "gloss": "myself"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 156.272,
+        "endTime": 156.713,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Okay, then I want to talk about how I persuade myself,"
+  },
+  {
+    "startTime": 157.233,
+    "endTime": 159.533,
+    "fullTextZH": "去尝试新的东西，",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 157.374,
+        "endTime": 157.758,
+        "gloss": "to"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 157.758,
+        "endTime": 158.605,
+        "gloss": "try"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 158.605,
+        "endTime": 158.887,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.887,
+        "endTime": 159.069,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 159.069,
+        "endTime": 159.513,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "To try new things,"
+  },
+  {
+    "startTime": 159.766,
+    "endTime": 164.566,
+    "fullTextZH": "然后说服我自己爱上新的东西。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 159.967,
+        "endTime": 160.589,
+        "gloss": "then"
+      },
+      {
+        "word": "说服",
+        "pinyin": "shuō fú",
+        "startTime": 160.589,
+        "endTime": 161.112,
+        "gloss": "persuade"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 161.112,
+        "endTime": 161.413,
+        "gloss": "myself"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 161.413,
+        "endTime": 162.698,
+        "gloss": "fall in love"
+      },
+      {
+        "word": "爱上",
+        "pinyin": "ài shàng",
+        "startTime": 162.698,
+        "endTime": 163.622,
+        "gloss": "new"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 163.622,
+        "endTime": 163.943,
+        "gloss": "of"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 163.943,
+        "endTime": 164.104,
+        "gloss": "things"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 164.104,
+        "endTime": 164.546,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Then persuade myself to fall in love with new things."
+  },
+  {
+    "startTime": 165.466,
+    "endTime": 169.766,
+    "fullTextZH": "今天我要说两个食物。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 165.667,
+        "endTime": 166.591,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 166.591,
+        "endTime": 166.792,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 166.792,
+        "endTime": 168.179,
+        "gloss": "want to"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 168.179,
+        "endTime": 169.083,
+        "gloss": "talk about"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 169.083,
+        "endTime": 169.726,
+        "gloss": "two"
+      }
+    ],
+    "fullTextEN": "Today I want to talk about two foods."
+  },
+  {
+    "startTime": 170.4,
+    "endTime": 173.633,
+    "fullTextZH": "第一个是纳豆。",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 170.601,
+        "endTime": 171.464,
+        "gloss": "first one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 171.464,
+        "endTime": 172.649,
+        "gloss": "is"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 172.649,
+        "endTime": 173.593,
+        "gloss": "natto"
+      }
+    ],
+    "fullTextEN": "The first one is natto."
+  },
+  {
+    "startTime": 174.233,
+    "endTime": 177.133,
+    "fullTextZH": "纳豆是日本的食物。",
+    "words": [
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 174.354,
+        "endTime": 175.321,
+        "gloss": "natto"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 175.321,
+        "endTime": 175.683,
+        "gloss": "is"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 175.683,
+        "endTime": 176.227,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 176.227,
+        "endTime": 176.428,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 176.428,
+        "endTime": 177.093,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Natto is a Japanese food."
+  },
+  {
+    "startTime": 178.1,
+    "endTime": 182.6,
+    "fullTextZH": "我知道，喜欢纳豆的人很喜欢，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 178.281,
+        "endTime": 178.482,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 178.482,
+        "endTime": 179.165,
+        "gloss": "know"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 179.185,
+        "endTime": 179.928,
+        "gloss": "like"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 179.928,
+        "endTime": 180.45,
+        "gloss": "natto"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 180.45,
+        "endTime": 180.611,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 180.611,
+        "endTime": 181.154,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 181.154,
+        "endTime": 181.917,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 181.917,
+        "endTime": 182.56,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I know, people who like natto really like it,"
+  },
+  {
+    "startTime": 182.666,
+    "endTime": 187.366,
+    "fullTextZH": "可是讨厌纳豆的人很讨厌。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 182.847,
+        "endTime": 183.771,
+        "gloss": "but"
+      },
+      {
+        "word": "讨厌",
+        "pinyin": "tǎo yàn",
+        "startTime": 183.771,
+        "endTime": 184.594,
+        "gloss": "dislike"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 184.594,
+        "endTime": 185.116,
+        "gloss": "natto"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.116,
+        "endTime": 185.257,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 185.257,
+        "endTime": 186.04,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 186.04,
+        "endTime": 186.603,
+        "gloss": "very"
+      },
+      {
+        "word": "讨厌",
+        "pinyin": "tǎo yàn",
+        "startTime": 186.603,
+        "endTime": 187.326,
+        "gloss": "dislike"
+      }
+    ],
+    "fullTextEN": "But people who dislike natto really dislike it."
+  },
+  {
+    "startTime": 188.033,
+    "endTime": 192.233,
+    "fullTextZH": "所以，第一次吃纳豆的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 188.174,
+        "endTime": 188.877,
+        "gloss": "so"
+      },
+      {
+        "word": "第一次",
+        "pinyin": "dì yī cì",
+        "startTime": 188.897,
+        "endTime": 190.103,
+        "gloss": "first time"
+      },
+      {
+        "word": "吃纳豆",
+        "pinyin": "chī nà dòu",
+        "startTime": 190.103,
+        "endTime": 191.51,
+        "gloss": "eat natto"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 191.51,
+        "endTime": 191.771,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 191.771,
+        "endTime": 192.213,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, when I ate natto for the first time,"
+  },
+  {
+    "startTime": 192.233,
+    "endTime": 194.9,
+    "fullTextZH": "我有一点点担心。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 192.393,
+        "endTime": 192.594,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 192.594,
+        "endTime": 192.855,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 192.855,
+        "endTime": 194.058,
+        "gloss": "a little"
+      },
+      {
+        "word": "担心",
+        "pinyin": "dān xīn",
+        "startTime": 194.058,
+        "endTime": 194.88,
+        "gloss": "worried"
+      }
+    ],
+    "fullTextEN": "I was a little worried."
+  },
+  {
+    "startTime": 196.233,
+    "endTime": 198.5,
+    "fullTextZH": "纳豆闻起来，",
+    "words": [
+      {
+        "word": "纳豆闻",
+        "pinyin": "nà dòu wén",
+        "startTime": 196.353,
+        "endTime": 197.858,
+        "gloss": "natto smell"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 197.858,
+        "endTime": 198.46,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Natto smells,"
+  },
+  {
+    "startTime": 199.2,
+    "endTime": 200.133,
+    "fullTextZH": "很臭，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 199.301,
+        "endTime": 199.748,
+        "gloss": "very"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 199.748,
+        "endTime": 200.092,
+        "gloss": "stinky"
+      }
+    ],
+    "fullTextEN": "very stinky,"
+  },
+  {
+    "startTime": 200.4,
+    "endTime": 204.433,
+    "fullTextZH": "有的人觉得是袜子的味道。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 200.54,
+        "endTime": 200.761,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.761,
+        "endTime": 200.922,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 200.922,
+        "endTime": 201.303,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 201.303,
+        "endTime": 201.905,
+        "gloss": "think"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 201.905,
+        "endTime": 202.206,
+        "gloss": "is"
+      },
+      {
+        "word": "袜子",
+        "pinyin": "wà zi",
+        "startTime": 202.206,
+        "endTime": 202.888,
+        "gloss": "socks"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 202.888,
+        "endTime": 203.008,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 203.008,
+        "endTime": 203.691,
+        "gloss": "smell"
+      }
+    ],
+    "fullTextEN": "some people think it smells like socks."
+  },
+  {
+    "startTime": 205.4,
+    "endTime": 208.066,
+    "fullTextZH": "然后，纳豆吃起来，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 205.54,
+        "endTime": 206.061,
+        "gloss": "then"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 206.122,
+        "endTime": 206.984,
+        "gloss": "natto"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 206.984,
+        "endTime": 207.445,
+        "gloss": "eat"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 207.445,
+        "endTime": 208.026,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Then, when you eat natto,"
+  },
+  {
+    "startTime": 208.933,
+    "endTime": 211.933,
+    "fullTextZH": "滑滑的，非常非常滑。",
+    "words": [
+      {
+        "word": "滑滑",
+        "pinyin": "huá huá",
+        "startTime": 209.074,
+        "endTime": 209.738,
+        "gloss": "slippery"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 209.738,
+        "endTime": 209.819,
+        "gloss": "de"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 210.302,
+        "endTime": 210.906,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 210.906,
+        "endTime": 211.55,
+        "gloss": "very"
+      },
+      {
+        "word": "滑",
+        "pinyin": "huá",
+        "startTime": 211.55,
+        "endTime": 211.893,
+        "gloss": "slippery"
+      }
+    ],
+    "fullTextEN": "it's slippery, very, very slippery."
+  },
+  {
+    "startTime": 212.533,
+    "endTime": 218.933,
+    "fullTextZH": "我觉得，可能有的人真的讨厌它的口感。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 212.673,
+        "endTime": 212.814,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 212.814,
+        "endTime": 213.075,
+        "gloss": "think"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 213.717,
+        "endTime": 214.62,
+        "gloss": "might"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 214.62,
+        "endTime": 214.86,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 214.86,
+        "endTime": 215.041,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 215.041,
+        "endTime": 215.482,
+        "gloss": "people"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 215.482,
+        "endTime": 216.405,
+        "gloss": "really"
+      },
+      {
+        "word": "讨厌",
+        "pinyin": "tǎo yàn",
+        "startTime": 216.405,
+        "endTime": 217.147,
+        "gloss": "dislike"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 217.147,
+        "endTime": 217.428,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 217.428,
+        "endTime": 218.09,
+        "gloss": "of"
+      },
+      {
+        "word": "口感",
+        "pinyin": "kǒu gǎn",
+        "startTime": 218.09,
+        "endTime": 218.893,
+        "gloss": "texture"
+      }
+    ],
+    "fullTextEN": "I think some people might really dislike its texture."
+  },
+  {
+    "startTime": 220.033,
+    "endTime": 224.866,
+    "fullTextZH": "所以，我第一次吃纳豆的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 220.213,
+        "endTime": 220.755,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 220.875,
+        "endTime": 221.677,
+        "gloss": "I"
+      },
+      {
+        "word": "第一次",
+        "pinyin": "dì yī cì",
+        "startTime": 221.677,
+        "endTime": 222.921,
+        "gloss": "first time"
+      },
+      {
+        "word": "吃纳豆",
+        "pinyin": "chī nà dòu",
+        "startTime": 222.921,
+        "endTime": 224.184,
+        "gloss": "eat natto"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 224.184,
+        "endTime": 224.405,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 224.405,
+        "endTime": 224.826,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, when I ate natto for the first time,"
+  },
+  {
+    "startTime": 225.2,
+    "endTime": 227.733,
+    "fullTextZH": "我告诉我自己，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 225.361,
+        "endTime": 225.944,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 225.944,
+        "endTime": 226.909,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 226.909,
+        "endTime": 227.23,
+        "gloss": "myself"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 227.23,
+        "endTime": 227.693,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I told myself,"
+  },
+  {
+    "startTime": 228.966,
+    "endTime": 233.166,
+    "fullTextZH": "纳豆对身体非常好，",
+    "words": [
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 229.127,
+        "endTime": 229.951,
+        "gloss": "natto"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 229.951,
+        "endTime": 230.493,
+        "gloss": "for"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 230.493,
+        "endTime": 231.88,
+        "gloss": "body"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 231.88,
+        "endTime": 232.684,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 232.684,
+        "endTime": 233.126,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Natto is very good for the body,"
+  },
+  {
+    "startTime": 233.866,
+    "endTime": 238.266,
+    "fullTextZH": "然后，很多日本人喜欢纳豆，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 234.047,
+        "endTime": 234.589,
+        "gloss": "then"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 234.71,
+        "endTime": 235.493,
+        "gloss": "many"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 235.493,
+        "endTime": 235.976,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 235.976,
+        "endTime": 236.558,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 236.558,
+        "endTime": 237.523,
+        "gloss": "like"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 237.523,
+        "endTime": 238.226,
+        "gloss": "natto"
+      }
+    ],
+    "fullTextEN": "and many Japanese people like natto,"
+  },
+  {
+    "startTime": 238.566,
+    "endTime": 241.966,
+    "fullTextZH": "所以，一定一定不难吃。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 238.707,
+        "endTime": 239.31,
+        "gloss": "so"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 239.451,
+        "endTime": 240.015,
+        "gloss": "must"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 240.015,
+        "endTime": 240.779,
+        "gloss": "must"
+      },
+      {
+        "word": "不难",
+        "pinyin": "bù nán",
+        "startTime": 240.779,
+        "endTime": 241.564,
+        "gloss": "not bad"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 241.564,
+        "endTime": 241.926,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "so it must not taste bad."
+  },
+  {
+    "startTime": 243.2,
+    "endTime": 245.866,
+    "fullTextZH": "所以，我试了纳豆，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 243.34,
+        "endTime": 244.002,
+        "gloss": "so"
+      },
+      {
+        "word": "我试",
+        "pinyin": "wǒ shì",
+        "startTime": 244.022,
+        "endTime": 244.743,
+        "gloss": "I try"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 244.743,
+        "endTime": 245.144,
+        "gloss": "le"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 245.144,
+        "endTime": 245.826,
+        "gloss": "natto"
+      }
+    ],
+    "fullTextEN": "So, I tried natto,"
+  },
+  {
+    "startTime": 246.033,
+    "endTime": 247.366,
+    "fullTextZH": "我觉得，嗯，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 246.215,
+        "endTime": 246.376,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 246.376,
+        "endTime": 246.922,
+        "gloss": "think"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 246.942,
+        "endTime": 247.326,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "I thought, hmm,"
+  },
+  {
+    "startTime": 247.4,
+    "endTime": 249.866,
+    "fullTextZH": "有一点点奇怪，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 247.56,
+        "endTime": 247.761,
+        "gloss": "a"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 247.761,
+        "endTime": 249.104,
+        "gloss": "little"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 249.104,
+        "endTime": 249.826,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "a little strange,"
+  },
+  {
+    "startTime": 250.266,
+    "endTime": 252.6,
+    "fullTextZH": "可是很有意思。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 250.467,
+        "endTime": 251.795,
+        "gloss": "but"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 251.795,
+        "endTime": 251.956,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 251.956,
+        "endTime": 252.56,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "but very interesting."
+  },
+  {
+    "startTime": 253.333,
+    "endTime": 260.1,
+    "fullTextZH": "因为我没有吃过这么滑的食物，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 253.473,
+        "endTime": 253.954,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 253.954,
+        "endTime": 254.294,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 254.294,
+        "endTime": 255.275,
+        "gloss": "not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 255.275,
+        "endTime": 255.575,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 255.575,
+        "endTime": 255.996,
+        "gloss": "guo"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 255.996,
+        "endTime": 257.197,
+        "gloss": "such"
+      },
+      {
+        "word": "滑",
+        "pinyin": "huá",
+        "startTime": 257.197,
+        "endTime": 259.159,
+        "gloss": "slippery"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 259.159,
+        "endTime": 259.399,
+        "gloss": "de"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 259.399,
+        "endTime": 260.06,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Because I had never eaten such a slippery food,"
+  },
+  {
+    "startTime": 260.1,
+    "endTime": 262.5,
+    "fullTextZH": "所以我觉得非常有意思。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 260.221,
+        "endTime": 260.524,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 260.524,
+        "endTime": 260.725,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 260.725,
+        "endTime": 261.229,
+        "gloss": "think"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 261.229,
+        "endTime": 261.855,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 261.855,
+        "endTime": 262.48,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "so I found it very interesting."
+  },
+  {
+    "startTime": 263.966,
+    "endTime": 267.566,
+    "fullTextZH": "如果你喜欢吃，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 264.147,
+        "endTime": 264.75,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.75,
+        "endTime": 265.233,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 265.233,
+        "endTime": 266.178,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 266.178,
+        "endTime": 267.526,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "If you like to eat,"
+  },
+  {
+    "startTime": 267.8,
+    "endTime": 272.266,
+    "fullTextZH": "秋葵，秋葵也是滑滑的，",
+    "words": [
+      {
+        "word": "秋葵",
+        "pinyin": "qiū kuí",
+        "startTime": 267.96,
+        "endTime": 268.901,
+        "gloss": "okra"
+      },
+      {
+        "word": "秋葵",
+        "pinyin": "qiū kuí",
+        "startTime": 269.322,
+        "endTime": 269.943,
+        "gloss": "okra"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 269.943,
+        "endTime": 270.183,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 270.183,
+        "endTime": 271.225,
+        "gloss": "is"
+      },
+      {
+        "word": "滑",
+        "pinyin": "huá",
+        "startTime": 271.225,
+        "endTime": 271.525,
+        "gloss": "slippery"
+      },
+      {
+        "word": "滑",
+        "pinyin": "huá",
+        "startTime": 271.525,
+        "endTime": 271.865,
+        "gloss": "slippery"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 271.865,
+        "endTime": 272.226,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "okra, okra is also slippery,"
+  },
+  {
+    "startTime": 272.266,
+    "endTime": 276.066,
+    "fullTextZH": "然后你不介意很臭的东西，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 272.467,
+        "endTime": 272.929,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 272.929,
+        "endTime": 273.472,
+        "gloss": "you"
+      },
+      {
+        "word": "不介意",
+        "pinyin": "bù jiè yì",
+        "startTime": 273.472,
+        "endTime": 274.799,
+        "gloss": "don't mind"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 274.799,
+        "endTime": 275.201,
+        "gloss": "very"
+      },
+      {
+        "word": "臭",
+        "pinyin": "chòu",
+        "startTime": 275.201,
+        "endTime": 275.483,
+        "gloss": "smelly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 275.483,
+        "endTime": 275.624,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 275.624,
+        "endTime": 276.046,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "and you don't mind very smelly things,"
+  },
+  {
+    "startTime": 276.4,
+    "endTime": 280.866,
+    "fullTextZH": "那我觉得你可以试试纳豆。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 276.54,
+        "endTime": 276.861,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 276.861,
+        "endTime": 277.081,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 277.081,
+        "endTime": 277.782,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 277.782,
+        "endTime": 278.182,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 278.182,
+        "endTime": 279.204,
+        "gloss": "can"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 279.204,
+        "endTime": 280.085,
+        "gloss": "try"
+      },
+      {
+        "word": "纳豆",
+        "pinyin": "nà dòu",
+        "startTime": 280.085,
+        "endTime": 280.726,
+        "gloss": "natto"
+      }
+    ],
+    "fullTextEN": "then I think you can try natto."
+  },
+  {
+    "startTime": 281.7,
+    "endTime": 285.766,
+    "fullTextZH": "第二个食物是一种饮料，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 281.88,
+        "endTime": 282.822,
+        "gloss": "second"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 282.822,
+        "endTime": 283.563,
+        "gloss": "food"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 283.563,
+        "endTime": 283.923,
+        "gloss": "is"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 283.923,
+        "endTime": 284.925,
+        "gloss": "a kind of"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 284.925,
+        "endTime": 285.726,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "The second food is a kind of drink,"
+  },
+  {
+    "startTime": 285.9,
+    "endTime": 287.466,
+    "fullTextZH": "喝的。",
+    "words": [
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 286.783,
+        "endTime": 287.064,
+        "gloss": "drink"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 287.064,
+        "endTime": 287.426,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "a drink."
+  },
+  {
+    "startTime": 287.966,
+    "endTime": 294.233,
+    "fullTextZH": "上个星期，我去了一个香港🇭🇰的饭店，",
+    "words": [
+      {
+        "word": "上个星期",
+        "pinyin": "shàng gè xīng qī",
+        "startTime": 288.126,
+        "endTime": 289.648,
+        "gloss": "last week"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 289.668,
+        "endTime": 290.229,
+        "gloss": "I"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 290.229,
+        "endTime": 290.689,
+        "gloss": "went"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 290.689,
+        "endTime": 291.049,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 291.049,
+        "endTime": 292.071,
+        "gloss": "a"
+      },
+      {
+        "word": "香港",
+        "pinyin": "xiāng gǎng",
+        "startTime": 292.071,
+        "endTime": 292.972,
+        "gloss": "Hong Kong"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 293.312,
+        "endTime": 293.472,
+        "gloss": "de"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 293.472,
+        "endTime": 294.193,
+        "gloss": "restaurant"
+      }
+    ],
+    "fullTextEN": "Last week, I went to a Hong Kong restaurant,"
+  },
+  {
+    "startTime": 294.7,
+    "endTime": 301.666,
+    "fullTextZH": "然后，我看到一个饮料叫“咸柠七”。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 294.82,
+        "endTime": 295.12,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 295.381,
+        "endTime": 295.661,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 295.661,
+        "endTime": 296.482,
+        "gloss": "saw"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 296.482,
+        "endTime": 297.082,
+        "gloss": "a"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 297.082,
+        "endTime": 298.223,
+        "gloss": "drink"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 298.223,
+        "endTime": 298.884,
+        "gloss": "called"
+      },
+      {
+        "word": "咸柠七",
+        "pinyin": "xián níng qī",
+        "startTime": 299.404,
+        "endTime": 301.626,
+        "gloss": "Salty Lemon Seven"
+      }
+    ],
+    "fullTextEN": "then, I saw a drink called 'Salty Lemon Seven'."
+  },
+  {
+    "startTime": 302.666,
+    "endTime": 304.6,
+    "fullTextZH": "这个饮料，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 302.867,
+        "endTime": 303.149,
+        "gloss": "this"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 303.149,
+        "endTime": 304.096,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "This drink,"
+  },
+  {
+    "startTime": 304.6,
+    "endTime": 311.433,
+    "fullTextZH": "是咸的青柠和雪碧放在一起。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 304.6,
+        "endTime": 304.901,
+        "gloss": "is"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 304.901,
+        "endTime": 305.442,
+        "gloss": "salty"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 305.442,
+        "endTime": 306.023,
+        "gloss": "de"
+      },
+      {
+        "word": "青",
+        "pinyin": "qīng",
+        "startTime": 306.023,
+        "endTime": 306.403,
+        "gloss": "lime"
+      },
+      {
+        "word": "柠和雪",
+        "pinyin": "níng hé xuě",
+        "startTime": 306.403,
+        "endTime": 309.349,
+        "gloss": "and Sprite"
+      },
+      {
+        "word": "碧",
+        "pinyin": "bì",
+        "startTime": 309.349,
+        "endTime": 310.211,
+        "gloss": "put"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 310.211,
+        "endTime": 310.732,
+        "gloss": "together"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 310.732,
+        "endTime": 311.393,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "is salty lime and Sprite mixed together."
+  },
+  {
+    "startTime": 312.233,
+    "endTime": 315.766,
+    "fullTextZH": "这个青柠很咸很咸，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 312.454,
+        "endTime": 312.976,
+        "gloss": "this"
+      },
+      {
+        "word": "青柠",
+        "pinyin": "qīng níng",
+        "startTime": 312.976,
+        "endTime": 313.899,
+        "gloss": "lime"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 313.899,
+        "endTime": 314.481,
+        "gloss": "very"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 314.481,
+        "endTime": 314.903,
+        "gloss": "salty"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 314.903,
+        "endTime": 315.304,
+        "gloss": "very"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 315.304,
+        "endTime": 315.726,
+        "gloss": "salty"
+      }
+    ],
+    "fullTextEN": "This lime is very salty,"
+  },
+  {
+    "startTime": 315.966,
+    "endTime": 319.533,
+    "fullTextZH": "可能它们放在盐里，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 316.126,
+        "endTime": 316.667,
+        "gloss": "maybe"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 316.667,
+        "endTime": 317.249,
+        "gloss": "they"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 317.249,
+        "endTime": 318.09,
+        "gloss": "put in"
+      },
+      {
+        "word": "盐里",
+        "pinyin": "yán lǐ",
+        "startTime": 318.09,
+        "endTime": 319.493,
+        "gloss": "salt"
+      }
+    ],
+    "fullTextEN": "maybe they put it in salt,"
+  },
+  {
+    "startTime": 319.733,
+    "endTime": 321.4,
+    "fullTextZH": "三年四年，",
+    "words": [
+      {
+        "word": "三年",
+        "pinyin": "sān nián",
+        "startTime": 319.914,
+        "endTime": 320.777,
+        "gloss": "three years"
+      },
+      {
+        "word": "四年",
+        "pinyin": "sì nián",
+        "startTime": 320.777,
+        "endTime": 321.36,
+        "gloss": "four years"
+      }
+    ],
+    "fullTextEN": "for three or four years,"
+  },
+  {
+    "startTime": 321.566,
+    "endTime": 323.2,
+    "fullTextZH": "很咸很咸。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 321.727,
+        "endTime": 322.131,
+        "gloss": "very"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 322.131,
+        "endTime": 322.454,
+        "gloss": "salty"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 322.454,
+        "endTime": 322.756,
+        "gloss": "very"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 322.756,
+        "endTime": 323.16,
+        "gloss": "salty"
+      }
+    ],
+    "fullTextEN": "very salty."
+  },
+  {
+    "startTime": 324.133,
+    "endTime": 327.833,
+    "fullTextZH": "我常常听到这个饮料，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 324.294,
+        "endTime": 324.716,
+        "gloss": "I"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 324.716,
+        "endTime": 325.701,
+        "gloss": "often"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 325.701,
+        "endTime": 326.707,
+        "gloss": "hear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 326.707,
+        "endTime": 327.109,
+        "gloss": "this"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 327.109,
+        "endTime": 327.793,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "I often hear about this drink,"
+  },
+  {
+    "startTime": 327.9,
+    "endTime": 330.766,
+    "fullTextZH": "可是我没有喝过。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 328.06,
+        "endTime": 328.822,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 328.822,
+        "endTime": 329.082,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 329.082,
+        "endTime": 329.924,
+        "gloss": "never"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 329.924,
+        "endTime": 330.345,
+        "gloss": "drink"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 330.345,
+        "endTime": 330.726,
+        "gloss": "guo"
+      }
+    ],
+    "fullTextEN": "but I have never drunk it."
+  },
+  {
+    "startTime": 331.466,
+    "endTime": 333.033,
+    "fullTextZH": "所以，我想，嗯，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 331.627,
+        "endTime": 331.948,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 332.008,
+        "endTime": 332.25,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 332.25,
+        "endTime": 332.591,
+        "gloss": "think"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 332.651,
+        "endTime": 332.993,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "So, I thought, um,"
+  },
+  {
+    "startTime": 333.533,
+    "endTime": 337.633,
+    "fullTextZH": "咸的饮料听起来很特别，",
+    "words": [
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 333.674,
+        "endTime": 334.116,
+        "gloss": "salty"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 334.116,
+        "endTime": 334.317,
+        "gloss": "de"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 334.317,
+        "endTime": 335.282,
+        "gloss": "drink"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 335.282,
+        "endTime": 335.663,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 335.663,
+        "endTime": 336.528,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 336.528,
+        "endTime": 336.889,
+        "gloss": "special"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 336.889,
+        "endTime": 337.613,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "a salty drink sounds very special,"
+  },
+  {
+    "startTime": 337.833,
+    "endTime": 338.9,
+    "fullTextZH": "很有意思。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 337.954,
+        "endTime": 338.175,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 338.175,
+        "endTime": 338.88,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "very interesting."
+  },
+  {
+    "startTime": 340.033,
+    "endTime": 343.8,
+    "fullTextZH": "我觉得，我喜欢雪碧，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 340.213,
+        "endTime": 340.414,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 340.414,
+        "endTime": 340.875,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 341.295,
+        "endTime": 341.716,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 341.716,
+        "endTime": 343.019,
+        "gloss": "like"
+      },
+      {
+        "word": "雪碧",
+        "pinyin": "xuě bì",
+        "startTime": 343.019,
+        "endTime": 343.76,
+        "gloss": "Sprite"
+      }
+    ],
+    "fullTextEN": "I think I like Sprite,"
+  },
+  {
+    "startTime": 343.8,
+    "endTime": 346.033,
+    "fullTextZH": "我喜欢青柠，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 344.001,
+        "endTime": 344.363,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 344.363,
+        "endTime": 345.269,
+        "gloss": "like"
+      },
+      {
+        "word": "青柠",
+        "pinyin": "qīng níng",
+        "startTime": 345.269,
+        "endTime": 345.993,
+        "gloss": "lime"
+      }
+    ],
+    "fullTextEN": "I like lime,"
+  },
+  {
+    "startTime": 346.166,
+    "endTime": 352.466,
+    "fullTextZH": "那雪碧和青柠在一起听起来很好。",
+    "words": [
+      {
+        "word": "那雪碧和青",
+        "pinyin": "nà xuě bì hé qīng",
+        "startTime": 346.347,
+        "endTime": 348.253,
+        "gloss": "that Sprite and lime"
+      },
+      {
+        "word": "柠在",
+        "pinyin": "níng zài",
+        "startTime": 348.253,
+        "endTime": 349.236,
+        "gloss": "together"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 349.236,
+        "endTime": 350.239,
+        "gloss": "sound"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 350.239,
+        "endTime": 350.62,
+        "gloss": "up"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 350.62,
+        "endTime": 351.744,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 351.744,
+        "endTime": 352.005,
+        "gloss": "good"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 352.005,
+        "endTime": 352.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Sprite and lime together sound great."
+  },
+  {
+    "startTime": 352.766,
+    "endTime": 357.466,
+    "fullTextZH": "所以，我点了一杯咸柠七，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 352.927,
+        "endTime": 353.389,
+        "gloss": "so"
+      },
+      {
+        "word": "我点",
+        "pinyin": "wǒ diǎn",
+        "startTime": 353.449,
+        "endTime": 354.192,
+        "gloss": "I ordered"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 354.192,
+        "endTime": 354.694,
+        "gloss": "le"
+      },
+      {
+        "word": "一杯",
+        "pinyin": "yī bēi",
+        "startTime": 354.694,
+        "endTime": 355.919,
+        "gloss": "a glass"
+      },
+      {
+        "word": "咸柠七",
+        "pinyin": "xián níng qī",
+        "startTime": 355.919,
+        "endTime": 357.426,
+        "gloss": "salted lime seven"
+      }
+    ],
+    "fullTextEN": "So, I ordered a salted lime seven,"
+  },
+  {
+    "startTime": 358.6,
+    "endTime": 360.533,
+    "fullTextZH": "然后我喝了。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 358.801,
+        "endTime": 359.405,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 359.405,
+        "endTime": 359.768,
+        "gloss": "I"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 359.768,
+        "endTime": 360.13,
+        "gloss": "drank"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 360.13,
+        "endTime": 360.493,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Then I drank it."
+  },
+  {
+    "startTime": 361.166,
+    "endTime": 364.633,
+    "fullTextZH": "我觉得非常非常咸，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 361.346,
+        "endTime": 361.547,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 361.547,
+        "endTime": 362.268,
+        "gloss": "feel"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 362.268,
+        "endTime": 363.15,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 363.15,
+        "endTime": 364.152,
+        "gloss": "very"
+      },
+      {
+        "word": "咸",
+        "pinyin": "xián",
+        "startTime": 364.152,
+        "endTime": 364.613,
+        "gloss": "salty"
+      }
+    ],
+    "fullTextEN": "I found it very, very salty,"
+  },
+  {
+    "startTime": 365.766,
+    "endTime": 370.466,
+    "fullTextZH": "然后还有一点点药的味道。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 365.927,
+        "endTime": 367.252,
+        "gloss": "then"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 367.252,
+        "endTime": 367.734,
+        "gloss": "also"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 367.734,
+        "endTime": 369.261,
+        "gloss": "a little"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 369.261,
+        "endTime": 369.562,
+        "gloss": "medicine"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 369.562,
+        "endTime": 369.743,
+        "gloss": "de"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 369.743,
+        "endTime": 370.426,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "and it also had a bit of a medicinal taste."
+  },
+  {
+    "startTime": 370.833,
+    "endTime": 374.5,
+    "fullTextZH": "对，是中药的味道，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 371.013,
+        "endTime": 371.254,
+        "gloss": "yes"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 371.675,
+        "endTime": 372.135,
+        "gloss": "is"
+      },
+      {
+        "word": "中药",
+        "pinyin": "zhōng yào",
+        "startTime": 372.135,
+        "endTime": 373.017,
+        "gloss": "herbal medicine"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 373.017,
+        "endTime": 373.137,
+        "gloss": "de"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 373.137,
+        "endTime": 374.46,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "Yes, it was a herbal medicine taste,"
+  },
+  {
+    "startTime": 374.5,
+    "endTime": 379.266,
+    "fullTextZH": "所以非常特别、非常奇怪。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 374.68,
+        "endTime": 375.221,
+        "gloss": "so"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 375.221,
+        "endTime": 375.982,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 375.982,
+        "endTime": 376.643,
+        "gloss": "special"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 376.883,
+        "endTime": 378.525,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 378.525,
+        "endTime": 379.226,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "so it was very special, very strange."
+  },
+  {
+    "startTime": 379.466,
+    "endTime": 381.866,
+    "fullTextZH": "可是，我告诉自己，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 379.688,
+        "endTime": 380.091,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 380.555,
+        "endTime": 380.817,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 380.817,
+        "endTime": 381.402,
+        "gloss": "told"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 381.402,
+        "endTime": 381.826,
+        "gloss": "myself"
+      }
+    ],
+    "fullTextEN": "But, I told myself,"
+  },
+  {
+    "startTime": 382.166,
+    "endTime": 387.133,
+    "fullTextZH": "很多香港人喜欢这个饮料，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 382.266,
+        "endTime": 383.368,
+        "gloss": "many"
+      },
+      {
+        "word": "香港",
+        "pinyin": "xiāng gǎng",
+        "startTime": 383.368,
+        "endTime": 384.109,
+        "gloss": "Hong Kong"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 384.109,
+        "endTime": 384.71,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 384.71,
+        "endTime": 385.751,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 385.751,
+        "endTime": 386.392,
+        "gloss": "this"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 386.392,
+        "endTime": 387.093,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "many Hong Kong people like this drink,"
+  },
+  {
+    "startTime": 387.3,
+    "endTime": 391.066,
+    "fullTextZH": "所以应该不难喝，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 387.52,
+        "endTime": 388.161,
+        "gloss": "so"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 388.161,
+        "endTime": 389.183,
+        "gloss": "should"
+      },
+      {
+        "word": "不难",
+        "pinyin": "bù nán",
+        "startTime": 389.183,
+        "endTime": 390.605,
+        "gloss": "not hard"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 390.605,
+        "endTime": 391.026,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "so it shouldn't be hard to drink,"
+  },
+  {
+    "startTime": 391.566,
+    "endTime": 393.7,
+    "fullTextZH": "应该还可以。",
+    "words": [
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 391.727,
+        "endTime": 392.492,
+        "gloss": "should"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 392.492,
+        "endTime": 392.875,
+        "gloss": "still"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 392.875,
+        "endTime": 393.66,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "it should be okay."
+  },
+  {
+    "startTime": 393.766,
+    "endTime": 398.3,
+    "fullTextZH": "所以，我继续喝，继续喝，继续喝，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 393.926,
+        "endTime": 394.187,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 394.288,
+        "endTime": 394.769,
+        "gloss": "I"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 394.769,
+        "endTime": 395.351,
+        "gloss": "continue"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 395.351,
+        "endTime": 396.073,
+        "gloss": "drink"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 396.093,
+        "endTime": 396.615,
+        "gloss": "continue"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 396.615,
+        "endTime": 397.197,
+        "gloss": "drink"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 397.297,
+        "endTime": 397.859,
+        "gloss": "continue"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 397.859,
+        "endTime": 398.26,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "So, I kept drinking, kept drinking, kept drinking,"
+  },
+  {
+    "startTime": 398.666,
+    "endTime": 403.0,
+    "fullTextZH": "然后，到最后我觉得，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 398.867,
+        "endTime": 399.83,
+        "gloss": "then"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 399.97,
+        "endTime": 400.452,
+        "gloss": "to"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 400.452,
+        "endTime": 401.395,
+        "gloss": "end"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 401.395,
+        "endTime": 401.636,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 401.636,
+        "endTime": 402.96,
+        "gloss": "feel"
+      }
+    ],
+    "fullTextEN": "then, in the end, I felt,"
+  },
+  {
+    "startTime": 406.766,
+    "endTime": 408.466,
+    "fullTextZH": "真的还可以。",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 406.867,
+        "endTime": 407.393,
+        "gloss": "really"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 407.393,
+        "endTime": 407.717,
+        "gloss": "still"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 407.717,
+        "endTime": 408.426,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "it was actually okay."
+  },
+  {
+    "startTime": 409.866,
+    "endTime": 412.866,
+    "fullTextZH": "如果我去香港，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 410.067,
+        "endTime": 410.913,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 410.913,
+        "endTime": 411.376,
+        "gloss": "I"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 411.376,
+        "endTime": 412.0,
+        "gloss": "go"
+      },
+      {
+        "word": "香港",
+        "pinyin": "xiāng gǎng",
+        "startTime": 412.0,
+        "endTime": 412.826,
+        "gloss": "Hong Kong"
+      }
+    ],
+    "fullTextEN": "If I go to Hong Kong,"
+  },
+  {
+    "startTime": 413.0,
+    "endTime": 417.8,
+    "fullTextZH": "我觉得我会再点这个饮料。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 413.181,
+        "endTime": 413.562,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 413.562,
+        "endTime": 414.366,
+        "gloss": "think"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 414.366,
+        "endTime": 415.089,
+        "gloss": "I would"
+      },
+      {
+        "word": "再点",
+        "pinyin": "zài diǎn",
+        "startTime": 415.089,
+        "endTime": 416.474,
+        "gloss": "order again"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 416.474,
+        "endTime": 416.977,
+        "gloss": "this"
+      },
+      {
+        "word": "饮料",
+        "pinyin": "yǐn liào",
+        "startTime": 416.977,
+        "endTime": 417.76,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "I think I would order this drink again."
+  },
+  {
+    "startTime": 419.066,
+    "endTime": 419.866,
+    "fullTextZH": "当然，",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 419.21,
+        "endTime": 419.845,
+        "gloss": "of course"
+      }
+    ],
+    "fullTextEN": "Of course,"
+  },
+  {
+    "startTime": 419.866,
+    "endTime": 424.833,
+    "fullTextZH": "我还吃过很多很多别的奇怪的东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 419.986,
+        "endTime": 420.146,
+        "gloss": "I"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 420.146,
+        "endTime": 420.507,
+        "gloss": "also"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 420.507,
+        "endTime": 420.747,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 420.747,
+        "endTime": 421.068,
+        "gloss": "guo"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 421.068,
+        "endTime": 422.57,
+        "gloss": "many many"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 422.57,
+        "endTime": 423.691,
+        "gloss": "other"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 423.691,
+        "endTime": 424.272,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 424.272,
+        "endTime": 424.432,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 424.432,
+        "endTime": 424.773,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "I have also eaten many, many other strange things."
+  },
+  {
+    "startTime": 425.9,
+    "endTime": 429.5,
+    "fullTextZH": "我在吃奇怪的东西的时候，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 425.98,
+        "endTime": 426.141,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 426.141,
+        "endTime": 426.604,
+        "gloss": "at"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 426.604,
+        "endTime": 427.569,
+        "gloss": "eat"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 427.569,
+        "endTime": 428.153,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 428.153,
+        "endTime": 428.313,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 428.313,
+        "endTime": 428.877,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 428.877,
+        "endTime": 429.058,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 429.058,
+        "endTime": 429.48,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When I eat strange things,"
+  },
+  {
+    "startTime": 429.8,
+    "endTime": 432.6,
+    "fullTextZH": "我告诉我自己，嗯，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 429.941,
+        "endTime": 430.324,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 430.324,
+        "endTime": 430.988,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 430.988,
+        "endTime": 431.291,
+        "gloss": "myself"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 431.291,
+        "endTime": 432.177,
+        "gloss": "um"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 432.399,
+        "endTime": 432.56,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I tell myself, um,"
+  },
+  {
+    "startTime": 432.733,
+    "endTime": 435.266,
+    "fullTextZH": "很多人喜欢这个，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 432.813,
+        "endTime": 433.537,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 433.537,
+        "endTime": 434.02,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 434.02,
+        "endTime": 434.663,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 434.663,
+        "endTime": 435.226,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "Many people like this,"
+  },
+  {
+    "startTime": 435.366,
+    "endTime": 438.5,
+    "fullTextZH": "所以它一定不难吃。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 435.527,
+        "endTime": 435.929,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 435.929,
+        "endTime": 436.33,
+        "gloss": "it"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 436.33,
+        "endTime": 437.194,
+        "gloss": "must"
+      },
+      {
+        "word": "不难",
+        "pinyin": "bù nán",
+        "startTime": 437.194,
+        "endTime": 438.158,
+        "gloss": "not bad"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 438.158,
+        "endTime": 438.46,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "so it must not taste bad."
+  },
+  {
+    "startTime": 439.666,
+    "endTime": 443.5,
+    "fullTextZH": "如果你尝试一个新的东西，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 439.807,
+        "endTime": 440.489,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 440.489,
+        "endTime": 441.272,
+        "gloss": "you"
+      },
+      {
+        "word": "尝试",
+        "pinyin": "cháng shì",
+        "startTime": 441.272,
+        "endTime": 441.995,
+        "gloss": "try"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 441.995,
+        "endTime": 442.577,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 442.577,
+        "endTime": 442.878,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 442.878,
+        "endTime": 443.058,
+        "gloss": "thing"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 443.058,
+        "endTime": 443.48,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "If you try something new,"
+  },
+  {
+    "startTime": 443.9,
+    "endTime": 446.2,
+    "fullTextZH": "然后你想着，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 444.061,
+        "endTime": 444.626,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 444.626,
+        "endTime": 445.03,
+        "gloss": "you"
+      },
+      {
+        "word": "想着",
+        "pinyin": "xiǎng zhe",
+        "startTime": 445.03,
+        "endTime": 446.16,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "then you think,"
+  },
+  {
+    "startTime": 446.433,
+    "endTime": 451.166,
+    "fullTextZH": "“这个很可怕😨、很恶心🤮，啊，我不要吃，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 446.593,
+        "endTime": 447.195,
+        "gloss": "this"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 447.195,
+        "endTime": 447.456,
+        "gloss": "very"
+      },
+      {
+        "word": "可怕",
+        "pinyin": "kě pà",
+        "startTime": 447.456,
+        "endTime": 448.017,
+        "gloss": "scary"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 448.338,
+        "endTime": 448.739,
+        "gloss": "very"
+      },
+      {
+        "word": "恶心",
+        "pinyin": "ě xīn",
+        "startTime": 448.739,
+        "endTime": 449.421,
+        "gloss": "disgusting"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 449.782,
+        "endTime": 449.983,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 450.043,
+        "endTime": 450.264,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 450.264,
+        "endTime": 450.805,
+        "gloss": "don't want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 450.805,
+        "endTime": 451.026,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "\"This is very scary, very disgusting, ah, I don't want to eat,"
+  },
+  {
+    "startTime": 451.566,
+    "endTime": 452.866,
+    "fullTextZH": "我真的很怕，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 451.708,
+        "endTime": 451.871,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 451.871,
+        "endTime": 452.135,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 452.135,
+        "endTime": 452.46,
+        "gloss": "very"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 452.46,
+        "endTime": 452.825,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "I'm really scared,"
+  },
+  {
+    "startTime": 453.266,
+    "endTime": 455.5,
+    "fullTextZH": "这个一定很难吃”，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 453.387,
+        "endTime": 453.749,
+        "gloss": "this"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 453.749,
+        "endTime": 454.373,
+        "gloss": "must"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 454.373,
+        "endTime": 454.655,
+        "gloss": "very"
+      },
+      {
+        "word": "难吃",
+        "pinyin": "nán chī",
+        "startTime": 454.655,
+        "endTime": 455.46,
+        "gloss": "bad taste"
+      }
+    ],
+    "fullTextEN": "this must taste bad,\""
+  },
+  {
+    "startTime": 455.766,
+    "endTime": 461.3,
+    "fullTextZH": "那我觉得你很难很难喜欢这个东西。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 455.886,
+        "endTime": 456.508,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 456.508,
+        "endTime": 456.769,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 456.769,
+        "endTime": 457.51,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 457.51,
+        "endTime": 457.771,
+        "gloss": "you"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 457.771,
+        "endTime": 458.192,
+        "gloss": "very"
+      },
+      {
+        "word": "难",
+        "pinyin": "nán",
+        "startTime": 458.192,
+        "endTime": 458.613,
+        "gloss": "hard"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 458.613,
+        "endTime": 458.874,
+        "gloss": "very"
+      },
+      {
+        "word": "难",
+        "pinyin": "nán",
+        "startTime": 458.874,
+        "endTime": 459.776,
+        "gloss": "hard"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 459.776,
+        "endTime": 460.518,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 460.518,
+        "endTime": 460.859,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 460.859,
+        "endTime": 461.26,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "then I think it will be very hard for you to like this thing."
+  },
+  {
+    "startTime": 462.733,
+    "endTime": 468.133,
+    "fullTextZH": "所以，如果你想真的接受这个东西，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 462.914,
+        "endTime": 463.355,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 463.676,
+        "endTime": 464.178,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 464.178,
+        "endTime": 464.58,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 464.58,
+        "endTime": 465.483,
+        "gloss": "want"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 465.483,
+        "endTime": 466.246,
+        "gloss": "really"
+      },
+      {
+        "word": "接受",
+        "pinyin": "jiē shòu",
+        "startTime": 466.246,
+        "endTime": 467.33,
+        "gloss": "accept"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 467.33,
+        "endTime": 467.671,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 467.671,
+        "endTime": 468.113,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "So, if you really want to accept this thing,"
+  },
+  {
+    "startTime": 468.433,
+    "endTime": 471.3,
+    "fullTextZH": "你要告诉自己，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 468.593,
+        "endTime": 468.734,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 468.734,
+        "endTime": 469.135,
+        "gloss": "need"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 469.135,
+        "endTime": 470.117,
+        "gloss": "tell"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 470.117,
+        "endTime": 471.26,
+        "gloss": "yourself"
+      }
+    ],
+    "fullTextEN": "you need to tell yourself,"
+  },
+  {
+    "startTime": 471.3,
+    "endTime": 474.5,
+    "fullTextZH": "“这个东西一定有意思，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 471.501,
+        "endTime": 471.803,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 471.803,
+        "endTime": 472.689,
+        "gloss": "thing"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 472.689,
+        "endTime": 473.755,
+        "gloss": "must"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 473.755,
+        "endTime": 474.46,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "\"This thing must be interesting,"
+  },
+  {
+    "startTime": 474.766,
+    "endTime": 476.566,
+    "fullTextZH": "一定很好吃，",
+    "words": [
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 474.948,
+        "endTime": 475.656,
+        "gloss": "must"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 475.656,
+        "endTime": 475.878,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 475.878,
+        "endTime": 476.526,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "must be delicious,"
+  },
+  {
+    "startTime": 477.066,
+    "endTime": 477.933,
+    "fullTextZH": "一定",
+    "words": [
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 477.247,
+        "endTime": 477.469,
+        "gloss": "must"
+      }
+    ],
+    "fullTextEN": "must"
+  },
+  {
+    "startTime": 479.066,
+    "endTime": 482.066,
+    "fullTextZH": "一定不难吃。”",
+    "words": [
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 479.267,
+        "endTime": 480.173,
+        "gloss": "must"
+      },
+      {
+        "word": "不难",
+        "pinyin": "bù nán",
+        "startTime": 480.173,
+        "endTime": 481.583,
+        "gloss": "not bad"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 481.583,
+        "endTime": 482.026,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "must not taste bad.\""
+  },
+  {
+    "startTime": 482.833,
+    "endTime": 486.666,
+    "fullTextZH": "好，这就是今天的视频。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 482.973,
+        "endTime": 483.214,
+        "gloss": "okay"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 483.656,
+        "endTime": 484.057,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 484.057,
+        "endTime": 484.88,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 484.88,
+        "endTime": 485.562,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 485.562,
+        "endTime": 485.964,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 485.964,
+        "endTime": 486.626,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "Okay, this is today's video."
+  },
+  {
+    "startTime": 487.466,
+    "endTime": 491.0,
+    "fullTextZH": "你的国家有没有奇怪的东西？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 487.566,
+        "endTime": 487.787,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 487.787,
+        "endTime": 487.988,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 487.988,
+        "endTime": 488.731,
+        "gloss": "country"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 488.731,
+        "endTime": 489.876,
+        "gloss": "have"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 489.876,
+        "endTime": 490.458,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 490.458,
+        "endTime": 490.598,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 490.598,
+        "endTime": 490.98,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Does your country have strange things?"
+  },
+  {
+    "startTime": 491.466,
+    "endTime": 493.766,
+    "fullTextZH": "你可以推荐给我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 491.587,
+        "endTime": 491.829,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 491.829,
+        "endTime": 492.334,
+        "gloss": "can"
+      },
+      {
+        "word": "推荐",
+        "pinyin": "tuī jiàn",
+        "startTime": 492.334,
+        "endTime": 493.12,
+        "gloss": "recommend"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 493.12,
+        "endTime": 493.383,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 493.383,
+        "endTime": 493.726,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You can recommend to me,"
+  },
+  {
+    "startTime": 493.866,
+    "endTime": 496.666,
+    "fullTextZH": "我可以去试试。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 493.987,
+        "endTime": 494.208,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 494.208,
+        "endTime": 494.873,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 494.873,
+        "endTime": 496.001,
+        "gloss": "go"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 496.001,
+        "endTime": 496.626,
+        "gloss": "try"
+      }
+    ],
+    "fullTextEN": "I can go try it."
+  },
+  {
+    "startTime": 497.266,
+    "endTime": 499.733,
+    "fullTextZH": "你也可以告诉我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 497.406,
+        "endTime": 497.547,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 497.547,
+        "endTime": 497.848,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 497.848,
+        "endTime": 498.449,
+        "gloss": "can"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 498.449,
+        "endTime": 499.232,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 499.232,
+        "endTime": 499.693,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You can also tell me,"
+  },
+  {
+    "startTime": 500.2,
+    "endTime": 507.0,
+    "fullTextZH": "什么食物打开了你的新世界？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 500.36,
+        "endTime": 501.042,
+        "gloss": "what"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 501.042,
+        "endTime": 502.126,
+        "gloss": "food"
+      },
+      {
+        "word": "打开",
+        "pinyin": "dǎ kāi",
+        "startTime": 502.126,
+        "endTime": 503.028,
+        "gloss": "open"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 503.028,
+        "endTime": 504.894,
+        "gloss": "up"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 504.894,
+        "endTime": 505.195,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 505.195,
+        "endTime": 505.776,
+        "gloss": "of"
+      },
+      {
+        "word": "新世界",
+        "pinyin": "xīn shì jiè",
+        "startTime": 505.776,
+        "endTime": 506.96,
+        "gloss": "new world"
+      }
+    ],
+    "fullTextEN": "What food opened up your new world?"
+  },
+  {
+    "startTime": 507.833,
+    "endTime": 510.633,
+    "fullTextZH": "谢谢你看我的视频！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 507.994,
+        "endTime": 508.598,
+        "gloss": "thank"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 508.598,
+        "endTime": 509.082,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 509.082,
+        "endTime": 509.445,
+        "gloss": "watch"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 509.445,
+        "endTime": 509.727,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 509.727,
+        "endTime": 509.928,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 509.928,
+        "endTime": 510.593,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "Thank you for watching my video!"
+  },
+  {
+    "startTime": 510.633,
+    "endTime": 513.7,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 510.813,
+        "endTime": 511.535,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 511.535,
+        "endTime": 512.618,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 512.618,
+        "endTime": 513.018,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 513.159,
+        "endTime": 513.66,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

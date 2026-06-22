@@ -1,0 +1,5034 @@
+[
+  {
+    "startTime": 0.5,
+    "endTime": 1.3,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.541,
+        "endTime": 1.259,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 2.033,
+    "endTime": 4.433,
+    "fullTextZH": "今天我要说说，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.053,
+        "endTime": 3.062,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.062,
+        "endTime": 3.263,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 3.263,
+        "endTime": 3.969,
+        "gloss": "want to talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 3.969,
+        "endTime": 4.413,
+        "gloss": "about"
+      }
+    ],
+    "fullTextEN": "Today I want to talk about,"
+  },
+  {
+    "startTime": 4.733,
+    "endTime": 9.933,
+    "fullTextZH": "在中国最大最大的火锅店。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 4.753,
+        "endTime": 5.014,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 5.014,
+        "endTime": 6.339,
+        "gloss": "China"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 6.339,
+        "endTime": 7.223,
+        "gloss": "largest"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 7.223,
+        "endTime": 7.885,
+        "gloss": "largest"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 7.885,
+        "endTime": 8.608,
+        "gloss": "of"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 8.608,
+        "endTime": 9.893,
+        "gloss": "hot pot restaurant"
+      }
+    ],
+    "fullTextEN": "the largest hot pot restaurant in China."
+  },
+  {
+    "startTime": 10.866,
+    "endTime": 16.366,
+    "fullTextZH": "你知道，中国人很喜欢吃火锅。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 10.926,
+        "endTime": 11.067,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 11.067,
+        "endTime": 11.428,
+        "gloss": "know"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 11.91,
+        "endTime": 12.412,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 12.412,
+        "endTime": 13.014,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 13.014,
+        "endTime": 13.596,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 13.596,
+        "endTime": 14.62,
+        "gloss": "like"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 14.62,
+        "endTime": 16.326,
+        "gloss": "eat hot pot"
+      }
+    ],
+    "fullTextEN": "You know, Chinese people really like to eat hot pot."
+  },
+  {
+    "startTime": 16.633,
+    "endTime": 18.733,
+    "fullTextZH": "咕噜咕噜，很好吃。",
+    "words": [
+      {
+        "word": "咕噜咕噜",
+        "pinyin": "gū lū gū lū",
+        "startTime": 16.653,
+        "endTime": 17.32,
+        "gloss": "gurgle gurgle"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 17.683,
+        "endTime": 17.885,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 17.885,
+        "endTime": 18.713,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Gurgle gurgle, very delicious."
+  },
+  {
+    "startTime": 18.733,
+    "endTime": 21.166,
+    "fullTextZH": "我们很喜欢吃。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 18.894,
+        "endTime": 19.658,
+        "gloss": "we"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 19.658,
+        "endTime": 20.08,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 20.08,
+        "endTime": 20.683,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 20.683,
+        "endTime": 21.126,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "We really like to eat."
+  },
+  {
+    "startTime": 21.766,
+    "endTime": 26.433,
+    "fullTextZH": "在中国有很多很多火锅店。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 21.806,
+        "endTime": 22.006,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 22.006,
+        "endTime": 23.008,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 23.008,
+        "endTime": 23.328,
+        "gloss": "there are"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 23.328,
+        "endTime": 25.171,
+        "gloss": "many many"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 25.171,
+        "endTime": 26.393,
+        "gloss": "hot pot restaurants"
+      }
+    ],
+    "fullTextEN": "There are many, many hot pot restaurants in China."
+  },
+  {
+    "startTime": 27.333,
+    "endTime": 29.366,
+    "fullTextZH": "可是最近，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 27.353,
+        "endTime": 28.661,
+        "gloss": "but"
+      },
+      {
+        "word": "最近",
+        "pinyin": "zuì jìn",
+        "startTime": 28.661,
+        "endTime": 29.326,
+        "gloss": "recently"
+      }
+    ],
+    "fullTextEN": "But recently,"
+  },
+  {
+    "startTime": 29.366,
+    "endTime": 34.333,
+    "fullTextZH": "我看到了一个最大最大的火锅店。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 29.546,
+        "endTime": 29.787,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 29.787,
+        "endTime": 30.468,
+        "gloss": "saw"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 30.468,
+        "endTime": 30.968,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 30.968,
+        "endTime": 31.95,
+        "gloss": "a"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 31.95,
+        "endTime": 32.711,
+        "gloss": "largest"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 32.711,
+        "endTime": 33.191,
+        "gloss": "largest"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 33.191,
+        "endTime": 33.392,
+        "gloss": "of"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 33.392,
+        "endTime": 34.293,
+        "gloss": "hot pot restaurant"
+      }
+    ],
+    "fullTextEN": "I saw the largest hot pot restaurant."
+  },
+  {
+    "startTime": 35.466,
+    "endTime": 39.966,
+    "fullTextZH": "这个火锅店在中国的重庆。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 35.506,
+        "endTime": 35.848,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 35.848,
+        "endTime": 37.033,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 37.033,
+        "endTime": 37.475,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 37.475,
+        "endTime": 38.118,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.118,
+        "endTime": 38.781,
+        "gloss": "of"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 38.781,
+        "endTime": 39.946,
+        "gloss": "Chongqing"
+      }
+    ],
+    "fullTextEN": "This hot pot restaurant is in Chongqing, China."
+  },
+  {
+    "startTime": 41.033,
+    "endTime": 44.233,
+    "fullTextZH": "嗯，可能你听过四川，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 41.033,
+        "endTime": 41.436,
+        "gloss": "hmm"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 41.677,
+        "endTime": 42.16,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 42.16,
+        "endTime": 42.402,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 42.402,
+        "endTime": 42.724,
+        "gloss": "heard"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 42.724,
+        "endTime": 43.267,
+        "gloss": "of"
+      },
+      {
+        "word": "四川",
+        "pinyin": "sì chuān",
+        "startTime": 43.267,
+        "endTime": 44.193,
+        "gloss": "Sichuan"
+      }
+    ],
+    "fullTextEN": "Hmm, maybe you've heard of Sichuan,"
+  },
+  {
+    "startTime": 44.833,
+    "endTime": 46.566,
+    "fullTextZH": "四川、重庆，",
+    "words": [
+      {
+        "word": "四川",
+        "pinyin": "sì chuān",
+        "startTime": 44.893,
+        "endTime": 45.538,
+        "gloss": "Sichuan"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 45.76,
+        "endTime": 46.546,
+        "gloss": "Chongqing"
+      }
+    ],
+    "fullTextEN": "Sichuan, Chongqing,"
+  },
+  {
+    "startTime": 46.733,
+    "endTime": 48.3,
+    "fullTextZH": "它们很近很近。",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 46.773,
+        "endTime": 47.095,
+        "gloss": "they"
+      },
+      {
+        "word": "很近",
+        "pinyin": "hěn jìn",
+        "startTime": 47.095,
+        "endTime": 47.577,
+        "gloss": "very close"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 47.577,
+        "endTime": 47.838,
+        "gloss": "very"
+      },
+      {
+        "word": "近",
+        "pinyin": "jìn",
+        "startTime": 47.838,
+        "endTime": 48.26,
+        "gloss": "close"
+      }
+    ],
+    "fullTextEN": "They are very, very close."
+  },
+  {
+    "startTime": 48.5,
+    "endTime": 49.3,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 48.541,
+        "endTime": 49.259,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 50.033,
+    "endTime": 55.133,
+    "fullTextZH": "对，这个火锅店，它在重庆，好。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 50.033,
+        "endTime": 50.294,
+        "gloss": "yes"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 50.535,
+        "endTime": 50.836,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 50.836,
+        "endTime": 51.539,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 51.88,
+        "endTime": 52.181,
+        "gloss": "it"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 52.181,
+        "endTime": 52.985,
+        "gloss": "in"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 52.985,
+        "endTime": 53.788,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 54.591,
+        "endTime": 55.113,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Yes, this hot pot restaurant, it is in Chongqing, okay."
+  },
+  {
+    "startTime": 55.266,
+    "endTime": 56.1,
+    "fullTextZH": "那为什么，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 55.327,
+        "endTime": 55.551,
+        "gloss": "so"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 55.551,
+        "endTime": 56.059,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "So why,"
+  },
+  {
+    "startTime": 56.1,
+    "endTime": 60.166,
+    "fullTextZH": "这个火锅店是最大最大的火锅店呢？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 56.1,
+        "endTime": 56.38,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 56.38,
+        "endTime": 57.101,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 57.101,
+        "endTime": 57.442,
+        "gloss": "is"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 57.442,
+        "endTime": 58.123,
+        "gloss": "largest"
+      },
+      {
+        "word": "最大",
+        "pinyin": "zuì dà",
+        "startTime": 58.123,
+        "endTime": 58.684,
+        "gloss": "largest"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.684,
+        "endTime": 58.944,
+        "gloss": "of"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 58.944,
+        "endTime": 59.725,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 59.725,
+        "endTime": 60.126,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "is this hot pot restaurant the largest?"
+  },
+  {
+    "startTime": 60.8,
+    "endTime": 65.8,
+    "fullTextZH": "因为这个火锅店在一座山上。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 60.8,
+        "endTime": 61.784,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 61.784,
+        "endTime": 62.105,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 62.105,
+        "endTime": 63.31,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 63.31,
+        "endTime": 63.651,
+        "gloss": "on"
+      },
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 63.651,
+        "endTime": 64.535,
+        "gloss": "a"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 64.535,
+        "endTime": 65.76,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "Because this hot pot restaurant is on a mountain."
+  },
+  {
+    "startTime": 66.733,
+    "endTime": 69.633,
+    "fullTextZH": "这座山叫枇杷园。",
+    "words": [
+      {
+        "word": "这座",
+        "pinyin": "zhè zuò",
+        "startTime": 66.733,
+        "endTime": 67.277,
+        "gloss": "this"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 67.277,
+        "endTime": 67.982,
+        "gloss": "mountain"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 67.982,
+        "endTime": 68.425,
+        "gloss": "called"
+      },
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 68.425,
+        "endTime": 69.15,
+        "gloss": "Pipa"
+      },
+      {
+        "word": "园",
+        "pinyin": "yuán",
+        "startTime": 69.15,
+        "endTime": 69.593,
+        "gloss": "Garden"
+      }
+    ],
+    "fullTextEN": "This mountain is called Pipa Garden."
+  },
+  {
+    "startTime": 70.033,
+    "endTime": 73.166,
+    "fullTextZH": "嗯，为什么叫枇杷园？",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 70.093,
+        "endTime": 70.415,
+        "gloss": "hmm"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 70.736,
+        "endTime": 71.298,
+        "gloss": "why"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 71.298,
+        "endTime": 71.7,
+        "gloss": "called"
+      },
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 71.7,
+        "endTime": 72.664,
+        "gloss": "Pipa"
+      },
+      {
+        "word": "园",
+        "pinyin": "yuán",
+        "startTime": 72.664,
+        "endTime": 73.126,
+        "gloss": "Garden"
+      }
+    ],
+    "fullTextEN": "Hmm, why is it called Pipa Garden?"
+  },
+  {
+    "startTime": 73.8,
+    "endTime": 78.366,
+    "fullTextZH": "因为这座山上有很多枇杷。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 73.8,
+        "endTime": 74.581,
+        "gloss": "because"
+      },
+      {
+        "word": "这座",
+        "pinyin": "zhè zuò",
+        "startTime": 74.581,
+        "endTime": 75.142,
+        "gloss": "this"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 75.142,
+        "endTime": 76.083,
+        "gloss": "mountain"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 76.083,
+        "endTime": 76.283,
+        "gloss": "has"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 76.283,
+        "endTime": 77.645,
+        "gloss": "many"
+      },
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 77.645,
+        "endTime": 78.326,
+        "gloss": "loquats"
+      }
+    ],
+    "fullTextEN": "Because there are many loquats on this mountain."
+  },
+  {
+    "startTime": 78.833,
+    "endTime": 80.333,
+    "fullTextZH": "枇杷是什么？",
+    "words": [
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 78.874,
+        "endTime": 79.522,
+        "gloss": "loquats"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 79.522,
+        "endTime": 79.705,
+        "gloss": "are"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 79.705,
+        "endTime": 80.292,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What are loquats?"
+  },
+  {
+    "startTime": 80.633,
+    "endTime": 83.166,
+    "fullTextZH": "枇杷是一种水果，",
+    "words": [
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 80.693,
+        "endTime": 81.256,
+        "gloss": "loquats"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 81.256,
+        "endTime": 81.497,
+        "gloss": "are"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 81.497,
+        "endTime": 82.302,
+        "gloss": "a type"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 82.302,
+        "endTime": 83.126,
+        "gloss": "fruit"
+      }
+    ],
+    "fullTextEN": "Loquats are a type of fruit,"
+  },
+  {
+    "startTime": 83.233,
+    "endTime": 85.266,
+    "fullTextZH": "嗯，很好吃，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 83.314,
+        "endTime": 83.756,
+        "gloss": "hmm"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 84.099,
+        "endTime": 84.4,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 84.4,
+        "endTime": 85.226,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Hmm, very delicious,"
+  },
+  {
+    "startTime": 85.466,
+    "endTime": 87.533,
+    "fullTextZH": "酸酸甜甜的，",
+    "words": [
+      {
+        "word": "酸酸甜甜",
+        "pinyin": "suān suān tián tián",
+        "startTime": 85.486,
+        "endTime": 87.031,
+        "gloss": "sweet and sour"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 87.031,
+        "endTime": 87.513,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Sweet and sour,"
+  },
+  {
+    "startTime": 87.8,
+    "endTime": 89.733,
+    "fullTextZH": "很好吃，好。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 87.82,
+        "endTime": 88.021,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 88.021,
+        "endTime": 88.525,
+        "gloss": "delicious"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 89.189,
+        "endTime": 89.693,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Very delicious, okay."
+  },
+  {
+    "startTime": 89.833,
+    "endTime": 94.866,
+    "fullTextZH": "所以呢，这个火锅店叫枇杷园。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 89.913,
+        "endTime": 90.234,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 90.234,
+        "endTime": 91.056,
+        "gloss": "ne"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 91.136,
+        "endTime": 91.738,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 91.738,
+        "endTime": 92.781,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 92.781,
+        "endTime": 93.422,
+        "gloss": "called"
+      },
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 93.422,
+        "endTime": 94.405,
+        "gloss": "loquat"
+      },
+      {
+        "word": "园",
+        "pinyin": "yuán",
+        "startTime": 94.405,
+        "endTime": 94.826,
+        "gloss": "garden"
+      }
+    ],
+    "fullTextEN": "So, this hot pot restaurant is called Loquat Garden."
+  },
+  {
+    "startTime": 95.666,
+    "endTime": 98.633,
+    "fullTextZH": "这个火锅店非常非常大，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 95.666,
+        "endTime": 95.947,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 95.947,
+        "endTime": 96.809,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 96.809,
+        "endTime": 97.57,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 97.57,
+        "endTime": 98.152,
+        "gloss": "very"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 98.152,
+        "endTime": 98.593,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "This hot pot restaurant is very, very big,"
+  },
+  {
+    "startTime": 98.766,
+    "endTime": 100.533,
+    "fullTextZH": "它是一座山。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 98.806,
+        "endTime": 99.007,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 99.007,
+        "endTime": 99.248,
+        "gloss": "is"
+      },
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 99.248,
+        "endTime": 100.011,
+        "gloss": "a"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 100.011,
+        "endTime": 100.493,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "It is a mountain."
+  },
+  {
+    "startTime": 101.033,
+    "endTime": 104.4,
+    "fullTextZH": "那这个火锅店有多大？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 101.093,
+        "endTime": 101.815,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 101.815,
+        "endTime": 102.135,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 102.135,
+        "endTime": 103.198,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 103.198,
+        "endTime": 103.558,
+        "gloss": "has"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 103.558,
+        "endTime": 103.939,
+        "gloss": "how"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 103.939,
+        "endTime": 104.36,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "So how big is this hot pot restaurant?"
+  },
+  {
+    "startTime": 104.566,
+    "endTime": 107.2,
+    "fullTextZH": "有多少张桌子？",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 104.586,
+        "endTime": 104.807,
+        "gloss": "has"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 104.807,
+        "endTime": 105.491,
+        "gloss": "how many"
+      },
+      {
+        "word": "张",
+        "pinyin": "zhāng",
+        "startTime": 105.491,
+        "endTime": 106.094,
+        "gloss": "measure word"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 106.094,
+        "endTime": 107.16,
+        "gloss": "tables"
+      }
+    ],
+    "fullTextEN": "How many tables are there?"
+  },
+  {
+    "startTime": 107.5,
+    "endTime": 109.1,
+    "fullTextZH": "有多少个人，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 107.52,
+        "endTime": 108.087,
+        "gloss": "has"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 108.087,
+        "endTime": 108.573,
+        "gloss": "how many"
+      },
+      {
+        "word": "个人",
+        "pinyin": "gè rén",
+        "startTime": 108.573,
+        "endTime": 109.08,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "How many people,"
+  },
+  {
+    "startTime": 109.1,
+    "endTime": 113.1,
+    "fullTextZH": "可以一起在这个火锅店里吃饭呢？",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 109.12,
+        "endTime": 109.482,
+        "gloss": "can"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 109.482,
+        "endTime": 110.266,
+        "gloss": "together"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 110.266,
+        "endTime": 110.547,
+        "gloss": "in"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 110.547,
+        "endTime": 110.909,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 110.909,
+        "endTime": 111.693,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 111.693,
+        "endTime": 112.095,
+        "gloss": "inside"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 112.095,
+        "endTime": 112.658,
+        "gloss": "eat"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 112.658,
+        "endTime": 113.06,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "can eat together in this hot pot restaurant?"
+  },
+  {
+    "startTime": 113.9,
+    "endTime": 117.766,
+    "fullTextZH": "我听说，这个火锅店有，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 113.94,
+        "endTime": 114.301,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 114.301,
+        "endTime": 115.462,
+        "gloss": "heard"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 115.543,
+        "endTime": 115.883,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 115.883,
+        "endTime": 117.205,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 117.205,
+        "endTime": 117.726,
+        "gloss": "has"
+      }
+    ],
+    "fullTextEN": "I heard that this hot pot restaurant has,"
+  },
+  {
+    "startTime": 118.866,
+    "endTime": 121.533,
+    "fullTextZH": "800张桌子，",
+    "words": [
+      {
+        "word": "张",
+        "pinyin": "zhāng",
+        "startTime": 119.909,
+        "endTime": 120.611,
+        "gloss": "measure word"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 120.611,
+        "endTime": 121.493,
+        "gloss": "tables"
+      }
+    ],
+    "fullTextEN": "800 tables,"
+  },
+  {
+    "startTime": 122.066,
+    "endTime": 127.133,
+    "fullTextZH": "然后可以让6,000个人一起吃饭。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 122.066,
+        "endTime": 122.487,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 122.487,
+        "endTime": 122.887,
+        "gloss": "can"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 122.887,
+        "endTime": 122.907,
+        "gloss": "allow"
+      },
+      {
+        "word": "个人",
+        "pinyin": "gè rén",
+        "startTime": 124.469,
+        "endTime": 125.511,
+        "gloss": "people"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 125.511,
+        "endTime": 126.412,
+        "gloss": "together"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 126.412,
+        "endTime": 127.093,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "and can accommodate 6,000 people eating together."
+  },
+  {
+    "startTime": 127.2,
+    "endTime": 129.7,
+    "fullTextZH": "嗯，同时吃饭。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 127.281,
+        "endTime": 127.583,
+        "gloss": "hmm"
+      },
+      {
+        "word": "同时",
+        "pinyin": "tóng shí",
+        "startTime": 127.926,
+        "endTime": 128.994,
+        "gloss": "simultaneously"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 128.994,
+        "endTime": 129.66,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Hmm, eating at the same time."
+  },
+  {
+    "startTime": 130.433,
+    "endTime": 132.833,
+    "fullTextZH": "非常非常大的火锅店。",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 130.494,
+        "endTime": 130.978,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 130.978,
+        "endTime": 131.441,
+        "gloss": "very"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 131.441,
+        "endTime": 131.663,
+        "gloss": "big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 131.663,
+        "endTime": 131.885,
+        "gloss": "de"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 131.885,
+        "endTime": 132.793,
+        "gloss": "hot pot restaurant"
+      }
+    ],
+    "fullTextEN": "A very, very large hot pot restaurant."
+  },
+  {
+    "startTime": 133.0,
+    "endTime": 135.833,
+    "fullTextZH": "嗯，你可以看照片，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 133.04,
+        "endTime": 133.362,
+        "gloss": "hmm"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 133.824,
+        "endTime": 134.005,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 134.005,
+        "endTime": 134.406,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 134.406,
+        "endTime": 134.969,
+        "gloss": "look"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 134.969,
+        "endTime": 135.793,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "Hmm, you can look at the photos,"
+  },
+  {
+    "startTime": 136.466,
+    "endTime": 140.5,
+    "fullTextZH": "一座山都是吃火锅的人。",
+    "words": [
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 136.566,
+        "endTime": 137.289,
+        "gloss": "a"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 137.289,
+        "endTime": 137.991,
+        "gloss": "mountain"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 137.991,
+        "endTime": 138.453,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 138.453,
+        "endTime": 138.975,
+        "gloss": "are"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 138.975,
+        "endTime": 139.717,
+        "gloss": "eating hot pot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.717,
+        "endTime": 139.878,
+        "gloss": "de"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 139.878,
+        "endTime": 140.46,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "A whole mountain full of people eating hot pot."
+  },
+  {
+    "startTime": 140.8,
+    "endTime": 143.9,
+    "fullTextZH": "看起来非常有意思，对不对？",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 140.82,
+        "endTime": 141.746,
+        "gloss": "looks"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 141.746,
+        "endTime": 142.29,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 142.29,
+        "endTime": 143.055,
+        "gloss": "interesting"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 143.256,
+        "endTime": 143.377,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 143.377,
+        "endTime": 143.477,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 143.477,
+        "endTime": 143.86,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "It looks very interesting, doesn't it?"
+  },
+  {
+    "startTime": 144.333,
+    "endTime": 146.4,
+    "fullTextZH": "可是有一个问题，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 144.333,
+        "endTime": 145.116,
+        "gloss": "but"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 145.116,
+        "endTime": 145.296,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 145.296,
+        "endTime": 145.577,
+        "gloss": "a"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 145.577,
+        "endTime": 146.38,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "But there is a problem,"
+  },
+  {
+    "startTime": 146.733,
+    "endTime": 149.3,
+    "fullTextZH": "如果你要吃火锅，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 146.833,
+        "endTime": 147.656,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 147.656,
+        "endTime": 147.796,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 147.796,
+        "endTime": 148.177,
+        "gloss": "want"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 148.177,
+        "endTime": 149.26,
+        "gloss": "eat hot pot"
+      }
+    ],
+    "fullTextEN": "If you want to eat hot pot,"
+  },
+  {
+    "startTime": 149.566,
+    "endTime": 152.6,
+    "fullTextZH": "那你要先爬山，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 149.586,
+        "endTime": 150.229,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 150.229,
+        "endTime": 150.39,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 150.39,
+        "endTime": 150.691,
+        "gloss": "need"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 150.691,
+        "endTime": 151.254,
+        "gloss": "first"
+      },
+      {
+        "word": "爬山",
+        "pinyin": "pá shān",
+        "startTime": 151.254,
+        "endTime": 152.56,
+        "gloss": "climb mountain"
+      }
+    ],
+    "fullTextEN": "Then you need to climb the mountain first,"
+  },
+  {
+    "startTime": 152.966,
+    "endTime": 156.466,
+    "fullTextZH": "因为这个火锅店在山上。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 152.966,
+        "endTime": 153.67,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 153.67,
+        "endTime": 153.972,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 153.972,
+        "endTime": 154.897,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 154.897,
+        "endTime": 155.319,
+        "gloss": "on"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 155.319,
+        "endTime": 156.426,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "Because this hot pot restaurant is on the mountain."
+  },
+  {
+    "startTime": 156.9,
+    "endTime": 160.033,
+    "fullTextZH": "所以呢，你要先爬山，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 156.96,
+        "endTime": 157.302,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 157.302,
+        "endTime": 158.045,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 158.125,
+        "endTime": 158.266,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 158.266,
+        "endTime": 158.507,
+        "gloss": "need"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 158.507,
+        "endTime": 158.848,
+        "gloss": "first"
+      },
+      {
+        "word": "爬山",
+        "pinyin": "pá shān",
+        "startTime": 158.848,
+        "endTime": 159.993,
+        "gloss": "climb mountain"
+      }
+    ],
+    "fullTextEN": "So, you need to climb the mountain first,"
+  },
+  {
+    "startTime": 160.033,
+    "endTime": 162.666,
+    "fullTextZH": "然后你才可以吃火锅。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 160.073,
+        "endTime": 160.777,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 160.777,
+        "endTime": 161.018,
+        "gloss": "you"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 161.018,
+        "endTime": 161.279,
+        "gloss": "only then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 161.279,
+        "endTime": 161.701,
+        "gloss": "can"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 161.701,
+        "endTime": 162.626,
+        "gloss": "eat hot pot"
+      }
+    ],
+    "fullTextEN": "Then you can eat hot pot."
+  },
+  {
+    "startTime": 163.633,
+    "endTime": 166.866,
+    "fullTextZH": "如果你担心，嗯，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 163.713,
+        "endTime": 164.376,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 164.376,
+        "endTime": 165.079,
+        "gloss": "you"
+      },
+      {
+        "word": "担心",
+        "pinyin": "dān xīn",
+        "startTime": 165.079,
+        "endTime": 165.922,
+        "gloss": "worried"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 166.023,
+        "endTime": 166.826,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "If you are worried, um,"
+  },
+  {
+    "startTime": 167.0,
+    "endTime": 168.966,
+    "fullTextZH": "吃火锅变胖，",
+    "words": [
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 167.04,
+        "endTime": 168.164,
+        "gloss": "eat hot pot"
+      },
+      {
+        "word": "变胖",
+        "pinyin": "biàn pàng",
+        "startTime": 168.164,
+        "endTime": 168.926,
+        "gloss": "get fat"
+      }
+    ],
+    "fullTextEN": "Eating hot pot makes you fat,"
+  },
+  {
+    "startTime": 169.0,
+    "endTime": 170.266,
+    "fullTextZH": "哎呀，变胖，",
+    "words": [
+      {
+        "word": "哎呀",
+        "pinyin": "āi yā",
+        "startTime": 169.0,
+        "endTime": 169.1,
+        "gloss": "oh"
+      },
+      {
+        "word": "变胖",
+        "pinyin": "biàn pàng",
+        "startTime": 169.543,
+        "endTime": 170.226,
+        "gloss": "get fat"
+      }
+    ],
+    "fullTextEN": "Oh, getting fat,"
+  },
+  {
+    "startTime": 170.666,
+    "endTime": 174.566,
+    "fullTextZH": "那这个火锅店，你不用担心，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 170.726,
+        "endTime": 171.309,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 171.309,
+        "endTime": 171.611,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 171.611,
+        "endTime": 172.495,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 172.656,
+        "endTime": 172.918,
+        "gloss": "you"
+      },
+      {
+        "word": "不用",
+        "pinyin": "bù yòng",
+        "startTime": 172.918,
+        "endTime": 173.641,
+        "gloss": "don't need"
+      },
+      {
+        "word": "担心",
+        "pinyin": "dān xīn",
+        "startTime": 173.641,
+        "endTime": 174.526,
+        "gloss": "worry"
+      }
+    ],
+    "fullTextEN": "Then at this hot pot restaurant, you don't need to worry,"
+  },
+  {
+    "startTime": 174.8,
+    "endTime": 177.7,
+    "fullTextZH": "因为你一定要先运动，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 174.82,
+        "endTime": 175.243,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 175.243,
+        "endTime": 175.525,
+        "gloss": "you"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 175.525,
+        "endTime": 176.31,
+        "gloss": "definitely"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 176.31,
+        "endTime": 176.572,
+        "gloss": "need"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 176.572,
+        "endTime": 176.995,
+        "gloss": "first"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 176.995,
+        "endTime": 177.66,
+        "gloss": "exercise"
+      }
+    ],
+    "fullTextEN": "Because you definitely need to exercise first,"
+  },
+  {
+    "startTime": 177.833,
+    "endTime": 178.633,
+    "fullTextZH": "爬山。",
+    "words": [
+      {
+        "word": "爬山",
+        "pinyin": "pá shān",
+        "startTime": 177.895,
+        "endTime": 178.612,
+        "gloss": "climb mountain"
+      }
+    ],
+    "fullTextEN": "Climb the mountain."
+  },
+  {
+    "startTime": 179.3,
+    "endTime": 183.2,
+    "fullTextZH": "爬山，然后你才可以吃火锅。",
+    "words": [
+      {
+        "word": "爬山",
+        "pinyin": "pá shān",
+        "startTime": 179.3,
+        "endTime": 179.421,
+        "gloss": "climb mountain"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 180.124,
+        "endTime": 180.828,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 180.828,
+        "endTime": 181.049,
+        "gloss": "you"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 181.049,
+        "endTime": 181.33,
+        "gloss": "only then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 181.33,
+        "endTime": 181.974,
+        "gloss": "can"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 181.974,
+        "endTime": 183.18,
+        "gloss": "eat hot pot"
+      }
+    ],
+    "fullTextEN": "Climb the mountain, then you can eat hot pot."
+  },
+  {
+    "startTime": 184.133,
+    "endTime": 186.1,
+    "fullTextZH": "吃火锅的时候呢，",
+    "words": [
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 184.173,
+        "endTime": 184.956,
+        "gloss": "eat hot pot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 184.956,
+        "endTime": 185.157,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 185.157,
+        "endTime": 185.618,
+        "gloss": "time"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 185.618,
+        "endTime": 186.06,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "When eating hot pot,"
+  },
+  {
+    "startTime": 186.1,
+    "endTime": 189.133,
+    "fullTextZH": "你还可以看夜景，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 186.18,
+        "endTime": 186.301,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 186.301,
+        "endTime": 186.622,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 186.622,
+        "endTime": 187.225,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 187.225,
+        "endTime": 188.028,
+        "gloss": "see"
+      },
+      {
+        "word": "夜景",
+        "pinyin": "yè jǐng",
+        "startTime": 188.028,
+        "endTime": 189.093,
+        "gloss": "night view"
+      }
+    ],
+    "fullTextEN": "You can also enjoy the night view,"
+  },
+  {
+    "startTime": 189.466,
+    "endTime": 192.9,
+    "fullTextZH": "嗯，很漂亮的夜景。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 190.008,
+        "endTime": 190.028,
+        "gloss": "um"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 190.711,
+        "endTime": 191.755,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 191.755,
+        "endTime": 191.936,
+        "gloss": "of"
+      },
+      {
+        "word": "夜景",
+        "pinyin": "yè jǐng",
+        "startTime": 191.936,
+        "endTime": 192.86,
+        "gloss": "night view"
+      }
+    ],
+    "fullTextEN": "Um, a very beautiful night view."
+  },
+  {
+    "startTime": 193.4,
+    "endTime": 198.0,
+    "fullTextZH": "夜景就是夜晚的景色啊，",
+    "words": [
+      {
+        "word": "夜景",
+        "pinyin": "yè jǐng",
+        "startTime": 193.4,
+        "endTime": 194.846,
+        "gloss": "night view"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 194.846,
+        "endTime": 196.011,
+        "gloss": "is"
+      },
+      {
+        "word": "夜晚",
+        "pinyin": "yè wǎn",
+        "startTime": 196.011,
+        "endTime": 196.634,
+        "gloss": "night"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 196.634,
+        "endTime": 196.875,
+        "gloss": "of"
+      },
+      {
+        "word": "景色",
+        "pinyin": "jǐng sè",
+        "startTime": 196.875,
+        "endTime": 197.638,
+        "gloss": "scenery"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 197.638,
+        "endTime": 197.96,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "The night view is the scenery at night,"
+  },
+  {
+    "startTime": 198.0,
+    "endTime": 201.266,
+    "fullTextZH": "你可以看看重庆的夜景。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 198.04,
+        "endTime": 198.18,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 198.18,
+        "endTime": 198.441,
+        "gloss": "can"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 198.441,
+        "endTime": 199.443,
+        "gloss": "take a look"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 199.443,
+        "endTime": 200.144,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.144,
+        "endTime": 200.344,
+        "gloss": "of"
+      },
+      {
+        "word": "夜景",
+        "pinyin": "yè jǐng",
+        "startTime": 200.344,
+        "endTime": 201.226,
+        "gloss": "night view"
+      }
+    ],
+    "fullTextEN": "You can take a look at Chongqing's night view."
+  },
+  {
+    "startTime": 201.266,
+    "endTime": 203.7,
+    "fullTextZH": "因为你在很高的地方，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 201.447,
+        "endTime": 201.729,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 201.729,
+        "endTime": 201.97,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 201.97,
+        "endTime": 202.252,
+        "gloss": "at"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 202.252,
+        "endTime": 202.594,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 202.594,
+        "endTime": 202.855,
+        "gloss": "high"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 202.855,
+        "endTime": 202.996,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 202.996,
+        "endTime": 203.68,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Because you are in a very high place,"
+  },
+  {
+    "startTime": 203.766,
+    "endTime": 205.1,
+    "fullTextZH": "所以你可以看看，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 203.827,
+        "endTime": 204.069,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 204.069,
+        "endTime": 204.211,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 204.211,
+        "endTime": 204.453,
+        "gloss": "can"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 204.453,
+        "endTime": 205.06,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "So you can take a look,"
+  },
+  {
+    "startTime": 205.1,
+    "endTime": 207.8,
+    "fullTextZH": "哇哦，重庆很漂亮。",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 205.14,
+        "endTime": 205.382,
+        "gloss": "wow"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 205.382,
+        "endTime": 205.402,
+        "gloss": "oh"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 205.926,
+        "endTime": 206.732,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 206.732,
+        "endTime": 207.76,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Wow, Chongqing is very beautiful."
+  },
+  {
+    "startTime": 208.566,
+    "endTime": 210.533,
+    "fullTextZH": "如果你有孩子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 208.606,
+        "endTime": 209.048,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 209.048,
+        "endTime": 209.228,
+        "gloss": "you"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 209.228,
+        "endTime": 209.449,
+        "gloss": "have"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 209.449,
+        "endTime": 210.493,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "If you have children,"
+  },
+  {
+    "startTime": 210.566,
+    "endTime": 213.333,
+    "fullTextZH": "你的孩子可以自己玩。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 210.646,
+        "endTime": 210.767,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 210.767,
+        "endTime": 210.927,
+        "gloss": "of"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 210.927,
+        "endTime": 211.548,
+        "gloss": "children"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 211.548,
+        "endTime": 212.09,
+        "gloss": "can"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 212.09,
+        "endTime": 212.872,
+        "gloss": "self"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 212.872,
+        "endTime": 213.293,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "Your children can play by themselves."
+  },
+  {
+    "startTime": 214.066,
+    "endTime": 215.566,
+    "fullTextZH": "在这个火锅店，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 214.066,
+        "endTime": 214.248,
+        "gloss": "at"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 214.248,
+        "endTime": 214.613,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 214.613,
+        "endTime": 215.525,
+        "gloss": "hot pot restaurant"
+      }
+    ],
+    "fullTextEN": "At this hot pot restaurant,"
+  },
+  {
+    "startTime": 215.633,
+    "endTime": 219.433,
+    "fullTextZH": "他们给孩子很多很多好玩的东西。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 215.673,
+        "endTime": 216.075,
+        "gloss": "they"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 216.075,
+        "endTime": 216.317,
+        "gloss": "give"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 216.317,
+        "endTime": 216.98,
+        "gloss": "children"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 216.98,
+        "endTime": 217.985,
+        "gloss": "many many"
+      },
+      {
+        "word": "好玩",
+        "pinyin": "hǎo wán",
+        "startTime": 217.985,
+        "endTime": 218.548,
+        "gloss": "fun"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 218.548,
+        "endTime": 218.689,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 218.689,
+        "endTime": 219.393,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "They give children lots of fun things."
+  },
+  {
+    "startTime": 219.6,
+    "endTime": 221.4,
+    "fullTextZH": "对，所以你的孩子，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 219.64,
+        "endTime": 219.742,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 220.207,
+        "endTime": 220.449,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 220.449,
+        "endTime": 220.611,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 220.611,
+        "endTime": 220.773,
+        "gloss": "of"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 220.773,
+        "endTime": 221.36,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "Right, so your children,"
+  },
+  {
+    "startTime": 221.4,
+    "endTime": 222.366,
+    "fullTextZH": "你可以说，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 221.42,
+        "endTime": 221.561,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 221.561,
+        "endTime": 221.843,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 221.843,
+        "endTime": 222.326,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "You can say,"
+  },
+  {
+    "startTime": 222.366,
+    "endTime": 224.466,
+    "fullTextZH": "“你自己去玩，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 222.427,
+        "endTime": 223.113,
+        "gloss": "you"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 223.113,
+        "endTime": 223.759,
+        "gloss": "self"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 223.759,
+        "endTime": 223.981,
+        "gloss": "go"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 223.981,
+        "endTime": 224.426,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "\"You go play by yourself,"
+  },
+  {
+    "startTime": 224.6,
+    "endTime": 227.2,
+    "fullTextZH": "我要吃火锅”，嗯。",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 224.822,
+        "endTime": 225.426,
+        "gloss": "I want"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 225.426,
+        "endTime": 226.152,
+        "gloss": "eat hot pot"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 226.555,
+        "endTime": 227.16,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "I want to eat hot pot,\" hmm."
+  },
+  {
+    "startTime": 227.7,
+    "endTime": 231.033,
+    "fullTextZH": "对，所以爸爸妈妈也可以去。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 227.72,
+        "endTime": 228.041,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 228.102,
+        "endTime": 228.523,
+        "gloss": "so"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 228.523,
+        "endTime": 229.628,
+        "gloss": "parents"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 229.628,
+        "endTime": 229.969,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 229.969,
+        "endTime": 230.511,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 230.511,
+        "endTime": 230.993,
+        "gloss": "go"
+      }
+    ],
+    "fullTextEN": "Right, so parents can also go."
+  },
+  {
+    "startTime": 231.366,
+    "endTime": 235.133,
+    "fullTextZH": "那这个火锅店的东西怎么样呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 231.406,
+        "endTime": 231.987,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 231.987,
+        "endTime": 232.308,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 232.308,
+        "endTime": 233.009,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 233.009,
+        "endTime": 233.169,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 233.169,
+        "endTime": 234.091,
+        "gloss": "food"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 234.091,
+        "endTime": 234.692,
+        "gloss": "how"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 234.692,
+        "endTime": 235.093,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "So how is the food at this hot pot restaurant?"
+  },
+  {
+    "startTime": 235.133,
+    "endTime": 236.933,
+    "fullTextZH": "好吃不好吃？",
+    "words": [
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 235.173,
+        "endTime": 235.982,
+        "gloss": "tasty"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 235.982,
+        "endTime": 236.104,
+        "gloss": "not"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 236.104,
+        "endTime": 236.893,
+        "gloss": "tasty"
+      }
+    ],
+    "fullTextEN": "Is it tasty or not?"
+  },
+  {
+    "startTime": 237.333,
+    "endTime": 240.733,
+    "fullTextZH": "我听说，这个火锅店的东西，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 237.434,
+        "endTime": 237.776,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 237.776,
+        "endTime": 238.822,
+        "gloss": "heard"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 238.922,
+        "endTime": 239.244,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 239.244,
+        "endTime": 239.868,
+        "gloss": "hot pot restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 239.868,
+        "endTime": 240.009,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 240.009,
+        "endTime": 240.693,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "I heard that the food at this hot pot restaurant,"
+  },
+  {
+    "startTime": 240.866,
+    "endTime": 243.3,
+    "fullTextZH": "非常非常新鲜。",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 240.906,
+        "endTime": 241.63,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 241.63,
+        "endTime": 242.435,
+        "gloss": "very"
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "startTime": 242.435,
+        "endTime": 243.26,
+        "gloss": "fresh"
+      }
+    ],
+    "fullTextEN": "is very, very fresh."
+  },
+  {
+    "startTime": 243.466,
+    "endTime": 247.0,
+    "fullTextZH": "嗯，非常新鲜，好。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 243.506,
+        "endTime": 244.129,
+        "gloss": "hmm"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 244.611,
+        "endTime": 245.193,
+        "gloss": "very"
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "startTime": 245.193,
+        "endTime": 245.715,
+        "gloss": "fresh"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 246.498,
+        "endTime": 246.96,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Hmm, very fresh, okay."
+  },
+  {
+    "startTime": 247.666,
+    "endTime": 248.733,
+    "fullTextZH": "味道怎么样？",
+    "words": [
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 247.666,
+        "endTime": 248.089,
+        "gloss": "taste"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 248.089,
+        "endTime": 248.713,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "How is the taste?"
+  },
+  {
+    "startTime": 248.733,
+    "endTime": 253.333,
+    "fullTextZH": "我觉得，每个人的想法、看法不一样，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 248.793,
+        "endTime": 248.934,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 248.934,
+        "endTime": 249.155,
+        "gloss": "think"
+      },
+      {
+        "word": "每个",
+        "pinyin": "měi gè",
+        "startTime": 249.436,
+        "endTime": 249.958,
+        "gloss": "every"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 249.958,
+        "endTime": 250.219,
+        "gloss": "person"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 250.219,
+        "endTime": 250.742,
+        "gloss": "of"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 250.742,
+        "endTime": 251.445,
+        "gloss": "opinions"
+      },
+      {
+        "word": "看法",
+        "pinyin": "kàn fǎ",
+        "startTime": 251.746,
+        "endTime": 252.61,
+        "gloss": "views"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 252.61,
+        "endTime": 252.771,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 252.771,
+        "endTime": 253.293,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "I think everyone's opinions and views are different,"
+  },
+  {
+    "startTime": 253.533,
+    "endTime": 255.533,
+    "fullTextZH": "有的人觉得好吃，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 253.553,
+        "endTime": 253.735,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 253.735,
+        "endTime": 253.876,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 253.876,
+        "endTime": 254.159,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 254.159,
+        "endTime": 254.725,
+        "gloss": "think"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 254.725,
+        "endTime": 255.493,
+        "gloss": "tasty"
+      }
+    ],
+    "fullTextEN": "Some people think it's tasty,"
+  },
+  {
+    "startTime": 255.533,
+    "endTime": 257.1,
+    "fullTextZH": "有的人觉得，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 255.593,
+        "endTime": 255.754,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 255.754,
+        "endTime": 255.895,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 255.895,
+        "endTime": 256.136,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 256.136,
+        "endTime": 257.06,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Some people think,"
+  },
+  {
+    "startTime": 257.1,
+    "endTime": 258.933,
+    "fullTextZH": "一般般，对。",
+    "words": [
+      {
+        "word": "一般般",
+        "pinyin": "yì bān bān",
+        "startTime": 257.16,
+        "endTime": 258.409,
+        "gloss": "so-so"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 258.53,
+        "endTime": 258.893,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "So-so, right."
+  },
+  {
+    "startTime": 258.933,
+    "endTime": 260.766,
+    "fullTextZH": "但是我听说，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 258.953,
+        "endTime": 259.557,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 259.557,
+        "endTime": 259.839,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 259.839,
+        "endTime": 260.726,
+        "gloss": "heard"
+      }
+    ],
+    "fullTextEN": "But I heard,"
+  },
+  {
+    "startTime": 260.866,
+    "endTime": 265.166,
+    "fullTextZH": "这个火锅店的东西非常非常新鲜。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 260.906,
+        "endTime": 261.228,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 261.228,
+        "endTime": 261.871,
+        "gloss": "hotpot restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 261.871,
+        "endTime": 262.011,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 262.011,
+        "endTime": 262.855,
+        "gloss": "food"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 262.855,
+        "endTime": 263.619,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 263.619,
+        "endTime": 264.322,
+        "gloss": "very"
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "startTime": 264.322,
+        "endTime": 265.126,
+        "gloss": "fresh"
+      }
+    ],
+    "fullTextEN": "The food at this hotpot restaurant is very, very fresh."
+  },
+  {
+    "startTime": 265.9,
+    "endTime": 268.8,
+    "fullTextZH": "那这个火锅店这么大，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 265.96,
+        "endTime": 266.383,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 266.383,
+        "endTime": 266.685,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 266.685,
+        "endTime": 267.531,
+        "gloss": "hotpot restaurant"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 267.531,
+        "endTime": 268.297,
+        "gloss": "so"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 268.297,
+        "endTime": 268.76,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "So this hotpot restaurant is so big,"
+  },
+  {
+    "startTime": 269.033,
+    "endTime": 271.2,
+    "fullTextZH": "这么多好玩的东西，",
+    "words": [
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 269.053,
+        "endTime": 269.515,
+        "gloss": "so"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 269.515,
+        "endTime": 269.755,
+        "gloss": "many"
+      },
+      {
+        "word": "好玩",
+        "pinyin": "hǎo wán",
+        "startTime": 269.755,
+        "endTime": 270.257,
+        "gloss": "fun"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.257,
+        "endTime": 270.417,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 270.417,
+        "endTime": 271.16,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "So many fun things,"
+  },
+  {
+    "startTime": 271.5,
+    "endTime": 273.1,
+    "fullTextZH": "贵不贵呢？",
+    "words": [
+      {
+        "word": "贵不贵",
+        "pinyin": "guì bù guì",
+        "startTime": 271.541,
+        "endTime": 272.614,
+        "gloss": "expensive or not"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 272.614,
+        "endTime": 273.059,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it expensive?"
+  },
+  {
+    "startTime": 273.6,
+    "endTime": 275.5,
+    "fullTextZH": "我查了一下，",
+    "words": [
+      {
+        "word": "我查",
+        "pinyin": "wǒ chá",
+        "startTime": 273.681,
+        "endTime": 274.53,
+        "gloss": "I check"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 274.53,
+        "endTime": 274.691,
+        "gloss": "completed"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 274.691,
+        "endTime": 275.46,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "I checked,"
+  },
+  {
+    "startTime": 275.933,
+    "endTime": 281.6,
+    "fullTextZH": "他们说，一个人大概120人民币。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 275.953,
+        "endTime": 276.354,
+        "gloss": "they"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 276.354,
+        "endTime": 276.554,
+        "gloss": "say"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 277.175,
+        "endTime": 277.595,
+        "gloss": "one"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 277.595,
+        "endTime": 278.156,
+        "gloss": "person"
+      },
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "startTime": 278.156,
+        "endTime": 279.237,
+        "gloss": "about"
+      },
+      {
+        "word": "人民币",
+        "pinyin": "rén mín bì",
+        "startTime": 280.619,
+        "endTime": 281.56,
+        "gloss": "RMB"
+      }
+    ],
+    "fullTextEN": "They say it's about 120 RMB per person."
+  },
+  {
+    "startTime": 281.9,
+    "endTime": 285.5,
+    "fullTextZH": "嗯，人民币是中国的钱，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 281.92,
+        "endTime": 281.94,
+        "gloss": "hmm"
+      },
+      {
+        "word": "人民币",
+        "pinyin": "rén mín bì",
+        "startTime": 282.785,
+        "endTime": 283.871,
+        "gloss": "RMB"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 283.871,
+        "endTime": 284.293,
+        "gloss": "is"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 284.293,
+        "endTime": 284.736,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 284.736,
+        "endTime": 284.957,
+        "gloss": "of"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 284.957,
+        "endTime": 285.48,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "Hmm, RMB is China's currency,"
+  },
+  {
+    "startTime": 285.9,
+    "endTime": 292.333,
+    "fullTextZH": "120人民币差不多是16美金。",
+    "words": [
+      {
+        "word": "人民币",
+        "pinyin": "rén mín bì",
+        "startTime": 287.423,
+        "endTime": 288.605,
+        "gloss": "RMB"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 288.605,
+        "endTime": 289.648,
+        "gloss": "roughly"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 289.648,
+        "endTime": 290.63,
+        "gloss": "is"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 291.451,
+        "endTime": 292.293,
+        "gloss": "dollars"
+      }
+    ],
+    "fullTextEN": "120 RMB is roughly 16 dollars."
+  },
+  {
+    "startTime": 293.1,
+    "endTime": 294.9,
+    "fullTextZH": "16美金，对。",
+    "words": [
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 293.585,
+        "endTime": 294.455,
+        "gloss": "dollars"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 294.597,
+        "endTime": 294.86,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "16 dollars, right."
+  },
+  {
+    "startTime": 294.9,
+    "endTime": 297.066,
+    "fullTextZH": "美金是美国的钱。",
+    "words": [
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 294.92,
+        "endTime": 295.682,
+        "gloss": "dollars"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 295.682,
+        "endTime": 295.923,
+        "gloss": "are"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 295.923,
+        "endTime": 296.404,
+        "gloss": "America"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 296.404,
+        "endTime": 296.565,
+        "gloss": "of"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 296.565,
+        "endTime": 297.026,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "Dollars are America's currency."
+  },
+  {
+    "startTime": 297.733,
+    "endTime": 298.9,
+    "fullTextZH": "好，所以呢，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 297.753,
+        "endTime": 298.296,
+        "gloss": "okay"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 298.357,
+        "endTime": 298.659,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 298.659,
+        "endTime": 298.88,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Okay, so,"
+  },
+  {
+    "startTime": 298.9,
+    "endTime": 301.566,
+    "fullTextZH": "在中国，这个不算贵，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 298.92,
+        "endTime": 299.161,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 299.161,
+        "endTime": 299.982,
+        "gloss": "China"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 300.103,
+        "endTime": 300.644,
+        "gloss": "this"
+      },
+      {
+        "word": "不算",
+        "pinyin": "bù suàn",
+        "startTime": 300.644,
+        "endTime": 301.185,
+        "gloss": "not considered"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 301.185,
+        "endTime": 301.526,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "In China, this is not considered expensive,"
+  },
+  {
+    "startTime": 301.566,
+    "endTime": 303.4,
+    "fullTextZH": "也不算很便宜。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 301.626,
+        "endTime": 301.929,
+        "gloss": "also"
+      },
+      {
+        "word": "不算",
+        "pinyin": "bù suàn",
+        "startTime": 301.929,
+        "endTime": 302.433,
+        "gloss": "not considered"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 302.433,
+        "endTime": 302.715,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 302.715,
+        "endTime": 303.36,
+        "gloss": "cheap"
+      }
+    ],
+    "fullTextEN": "nor is it considered very cheap."
+  },
+  {
+    "startTime": 303.866,
+    "endTime": 307.7,
+    "fullTextZH": "我觉得，你们应该去试试。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 303.946,
+        "endTime": 304.167,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 304.167,
+        "endTime": 304.589,
+        "gloss": "think"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 304.87,
+        "endTime": 305.813,
+        "gloss": "you"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 305.813,
+        "endTime": 306.516,
+        "gloss": "should"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 306.516,
+        "endTime": 306.937,
+        "gloss": "go"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 306.937,
+        "endTime": 307.66,
+        "gloss": "try"
+      }
+    ],
+    "fullTextEN": "I think you should try it."
+  },
+  {
+    "startTime": 308.1,
+    "endTime": 311.2,
+    "fullTextZH": "我没有去过重庆，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 308.181,
+        "endTime": 309.026,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 309.026,
+        "endTime": 309.69,
+        "gloss": "haven't"
+      },
+      {
+        "word": "去过",
+        "pinyin": "qù guò",
+        "startTime": 309.69,
+        "endTime": 310.314,
+        "gloss": "been to"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 310.314,
+        "endTime": 311.16,
+        "gloss": "Chongqing"
+      }
+    ],
+    "fullTextEN": "I haven't been to Chongqing,"
+  },
+  {
+    "startTime": 311.466,
+    "endTime": 314.5,
+    "fullTextZH": "我也没有去过这个火锅店，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 311.627,
+        "endTime": 311.787,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 311.787,
+        "endTime": 311.968,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 311.968,
+        "endTime": 312.511,
+        "gloss": "haven't"
+      },
+      {
+        "word": "去过",
+        "pinyin": "qù guò",
+        "startTime": 312.511,
+        "endTime": 313.134,
+        "gloss": "been to"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 313.134,
+        "endTime": 313.495,
+        "gloss": "this"
+      },
+      {
+        "word": "火锅店",
+        "pinyin": "huǒ guō diàn",
+        "startTime": 313.495,
+        "endTime": 314.46,
+        "gloss": "hotpot restaurant"
+      }
+    ],
+    "fullTextEN": "I also haven't been to this hotpot restaurant,"
+  },
+  {
+    "startTime": 314.733,
+    "endTime": 317.0,
+    "fullTextZH": "可是我听说，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 314.793,
+        "endTime": 315.696,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 315.696,
+        "endTime": 315.977,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 315.977,
+        "endTime": 316.96,
+        "gloss": "heard"
+      }
+    ],
+    "fullTextEN": "But I heard,"
+  },
+  {
+    "startTime": 317.2,
+    "endTime": 321.866,
+    "fullTextZH": "重庆是一座非常非常有意思的城市。",
+    "words": [
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 317.2,
+        "endTime": 318.041,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 318.041,
+        "endTime": 318.261,
+        "gloss": "is"
+      },
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 318.261,
+        "endTime": 318.802,
+        "gloss": "a"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 318.802,
+        "endTime": 319.383,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 319.383,
+        "endTime": 319.944,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 319.944,
+        "endTime": 320.725,
+        "gloss": "interesting"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 320.725,
+        "endTime": 320.965,
+        "gloss": "of"
+      },
+      {
+        "word": "城市",
+        "pinyin": "chéng shì",
+        "startTime": 320.965,
+        "endTime": 321.826,
+        "gloss": "city"
+      }
+    ],
+    "fullTextEN": "Chongqing is a very, very interesting city."
+  },
+  {
+    "startTime": 322.2,
+    "endTime": 324.966,
+    "fullTextZH": "重庆有很多很多楼梯，",
+    "words": [
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 322.22,
+        "endTime": 322.861,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 322.861,
+        "endTime": 323.062,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 323.062,
+        "endTime": 324.084,
+        "gloss": "many many"
+      },
+      {
+        "word": "楼梯",
+        "pinyin": "lóu tī",
+        "startTime": 324.084,
+        "endTime": 324.926,
+        "gloss": "stairs"
+      }
+    ],
+    "fullTextEN": "Chongqing has many, many stairs,"
+  },
+  {
+    "startTime": 325.133,
+    "endTime": 326.8,
+    "fullTextZH": "嗯，然后呢，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 325.213,
+        "endTime": 325.474,
+        "gloss": "hmm"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 325.977,
+        "endTime": 326.298,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 326.298,
+        "endTime": 326.76,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Hmm, and then,"
+  },
+  {
+    "startTime": 326.966,
+    "endTime": 329.666,
+    "fullTextZH": "重庆的天气很特别。",
+    "words": [
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 326.966,
+        "endTime": 327.49,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 327.49,
+        "endTime": 327.812,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 327.812,
+        "endTime": 328.598,
+        "gloss": "weather"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 328.598,
+        "endTime": 328.92,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 328.92,
+        "endTime": 329.646,
+        "gloss": "special"
+      }
+    ],
+    "fullTextEN": "The weather in Chongqing is very special."
+  },
+  {
+    "startTime": 330.1,
+    "endTime": 332.266,
+    "fullTextZH": "重庆有很多雾，",
+    "words": [
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 330.12,
+        "endTime": 330.742,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 330.742,
+        "endTime": 330.962,
+        "gloss": "has"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 330.962,
+        "endTime": 331.825,
+        "gloss": "many"
+      },
+      {
+        "word": "雾",
+        "pinyin": "wù",
+        "startTime": 331.825,
+        "endTime": 332.226,
+        "gloss": "fog"
+      }
+    ],
+    "fullTextEN": "Chongqing has a lot of fog,"
+  },
+  {
+    "startTime": 332.5,
+    "endTime": 333.866,
+    "fullTextZH": "对，很多雾。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 332.52,
+        "endTime": 332.701,
+        "gloss": "yes"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 332.862,
+        "endTime": 333.384,
+        "gloss": "many"
+      },
+      {
+        "word": "雾",
+        "pinyin": "wù",
+        "startTime": 333.384,
+        "endTime": 333.826,
+        "gloss": "fog"
+      }
+    ],
+    "fullTextEN": "Yes, a lot of fog."
+  },
+  {
+    "startTime": 334.066,
+    "endTime": 336.633,
+    "fullTextZH": "所以呢，夏天的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 334.106,
+        "endTime": 334.387,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 334.387,
+        "endTime": 335.209,
+        "gloss": "particle"
+      },
+      {
+        "word": "夏天",
+        "pinyin": "xià tiān",
+        "startTime": 335.329,
+        "endTime": 335.871,
+        "gloss": "summer"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 335.871,
+        "endTime": 336.051,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 336.051,
+        "endTime": 336.593,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, in the summer,"
+  },
+  {
+    "startTime": 336.633,
+    "endTime": 340.633,
+    "fullTextZH": "我听说，重庆非常湿热。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 336.673,
+        "endTime": 336.894,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 336.894,
+        "endTime": 337.296,
+        "gloss": "heard"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 337.899,
+        "endTime": 338.744,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 338.744,
+        "endTime": 339.769,
+        "gloss": "very"
+      },
+      {
+        "word": "湿热",
+        "pinyin": "shī rè",
+        "startTime": 339.769,
+        "endTime": 340.593,
+        "gloss": "humid hot"
+      }
+    ],
+    "fullTextEN": "I heard that Chongqing is very humid and hot."
+  },
+  {
+    "startTime": 340.833,
+    "endTime": 342.833,
+    "fullTextZH": "啊，湿热，对。",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 340.873,
+        "endTime": 341.055,
+        "gloss": "ah"
+      },
+      {
+        "word": "湿热",
+        "pinyin": "shī rè",
+        "startTime": 341.479,
+        "endTime": 342.106,
+        "gloss": "humid hot"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 342.368,
+        "endTime": 342.793,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Ah, humid and hot, right."
+  },
+  {
+    "startTime": 343.0,
+    "endTime": 344.566,
+    "fullTextZH": "冬天的时候呢，",
+    "words": [
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 343.02,
+        "endTime": 343.542,
+        "gloss": "winter"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 343.542,
+        "endTime": 343.743,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 343.743,
+        "endTime": 344.185,
+        "gloss": "time"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 344.185,
+        "endTime": 344.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "In the winter,"
+  },
+  {
+    "startTime": 344.566,
+    "endTime": 348.433,
+    "fullTextZH": "我听说，重庆非常湿冷。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 344.706,
+        "endTime": 344.927,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 344.927,
+        "endTime": 345.287,
+        "gloss": "heard"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 345.928,
+        "endTime": 346.65,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 346.65,
+        "endTime": 347.491,
+        "gloss": "very"
+      },
+      {
+        "word": "湿冷",
+        "pinyin": "shī lěng",
+        "startTime": 347.491,
+        "endTime": 348.393,
+        "gloss": "humid cold"
+      }
+    ],
+    "fullTextEN": "I heard that Chongqing is very humid and cold."
+  },
+  {
+    "startTime": 348.8,
+    "endTime": 351.7,
+    "fullTextZH": "嗯，听起来是我，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 348.84,
+        "endTime": 349.344,
+        "gloss": "hmm"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 350.149,
+        "endTime": 350.492,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 350.492,
+        "endTime": 351.015,
+        "gloss": "like"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 351.015,
+        "endTime": 351.257,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 351.257,
+        "endTime": 351.66,
+        "gloss": "I"
+      }
+    ],
+    "fullTextEN": "Hmm, sounds like me,"
+  },
+  {
+    "startTime": 351.7,
+    "endTime": 354.966,
+    "fullTextZH": "嗯，最不喜欢的天气。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 351.74,
+        "endTime": 352.501,
+        "gloss": "hmm"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 352.522,
+        "endTime": 352.902,
+        "gloss": "most"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 352.902,
+        "endTime": 353.143,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 353.143,
+        "endTime": 353.784,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.784,
+        "endTime": 354.064,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 354.064,
+        "endTime": 354.946,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "Hmm, my least favorite weather."
+  },
+  {
+    "startTime": 355.466,
+    "endTime": 359.0,
+    "fullTextZH": "对，虽然天气我不喜欢，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 355.486,
+        "endTime": 355.607,
+        "gloss": "yes"
+      },
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 356.51,
+        "endTime": 357.193,
+        "gloss": "although"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 357.193,
+        "endTime": 357.956,
+        "gloss": "weather"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 357.956,
+        "endTime": 358.137,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 358.137,
+        "endTime": 358.297,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 358.297,
+        "endTime": 358.96,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Yes, although I don't like the weather,"
+  },
+  {
+    "startTime": 359.2,
+    "endTime": 363.8,
+    "fullTextZH": "但是我觉得，我要去重庆看看。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 359.24,
+        "endTime": 360.124,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 360.124,
+        "endTime": 360.345,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 360.345,
+        "endTime": 360.626,
+        "gloss": "think"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 361.169,
+        "endTime": 361.852,
+        "gloss": "I want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 361.852,
+        "endTime": 362.233,
+        "gloss": "to"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 362.233,
+        "endTime": 362.997,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 362.997,
+        "endTime": 363.76,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "But I think I want to go to Chongqing to have a look."
+  },
+  {
+    "startTime": 363.9,
+    "endTime": 366.833,
+    "fullTextZH": "我要吃他们的火锅，",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 364.061,
+        "endTime": 364.744,
+        "gloss": "I want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 364.744,
+        "endTime": 365.447,
+        "gloss": "to eat"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 365.447,
+        "endTime": 365.849,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 365.849,
+        "endTime": 366.05,
+        "gloss": "of"
+      },
+      {
+        "word": "火锅",
+        "pinyin": "huǒ guō",
+        "startTime": 366.05,
+        "endTime": 366.331,
+        "gloss": "hotpot"
+      }
+    ],
+    "fullTextEN": "I want to eat their hotpot,"
+  },
+  {
+    "startTime": 367.033,
+    "endTime": 368.866,
+    "fullTextZH": "重庆的美食。",
+    "words": [
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 367.053,
+        "endTime": 367.738,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 367.738,
+        "endTime": 367.899,
+        "gloss": "of"
+      },
+      {
+        "word": "美食",
+        "pinyin": "měi shí",
+        "startTime": 367.899,
+        "endTime": 368.826,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "Chongqing's cuisine."
+  },
+  {
+    "startTime": 368.966,
+    "endTime": 372.766,
+    "fullTextZH": "嗯，我要去走一走他们的楼梯。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 368.986,
+        "endTime": 369.288,
+        "gloss": "hmm"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 369.73,
+        "endTime": 370.152,
+        "gloss": "I want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 370.152,
+        "endTime": 370.615,
+        "gloss": "to"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 370.615,
+        "endTime": 370.856,
+        "gloss": "walk"
+      },
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 370.856,
+        "endTime": 371.017,
+        "gloss": "one"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 371.017,
+        "endTime": 371.379,
+        "gloss": "walk"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 371.379,
+        "endTime": 371.821,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 371.821,
+        "endTime": 371.982,
+        "gloss": "of"
+      },
+      {
+        "word": "楼梯",
+        "pinyin": "lóu tī",
+        "startTime": 371.982,
+        "endTime": 372.726,
+        "gloss": "stairs"
+      }
+    ],
+    "fullTextEN": "Hmm, I want to go walk their stairs."
+  },
+  {
+    "startTime": 373.766,
+    "endTime": 374.566,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 373.787,
+        "endTime": 374.525,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes,"
+  },
+  {
+    "startTime": 375.0,
+    "endTime": 379.9,
+    "fullTextZH": "你呢？你觉得你要去重庆看看吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 375.02,
+        "endTime": 375.181,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 375.181,
+        "endTime": 375.402,
+        "gloss": "particle"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 375.723,
+        "endTime": 375.884,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 375.884,
+        "endTime": 376.506,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 376.506,
+        "endTime": 376.848,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 376.848,
+        "endTime": 377.41,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 377.41,
+        "endTime": 377.832,
+        "gloss": "to"
+      },
+      {
+        "word": "重庆",
+        "pinyin": "chóng qìng",
+        "startTime": 377.832,
+        "endTime": 378.836,
+        "gloss": "Chongqing"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 378.836,
+        "endTime": 379.418,
+        "gloss": "look"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 379.418,
+        "endTime": 379.86,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What about you? Do you think you want to go to Chongqing to have a look?"
+  },
+  {
+    "startTime": 380.3,
+    "endTime": 384.6,
+    "fullTextZH": "你要去枇杷园吃火锅吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 380.36,
+        "endTime": 380.541,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 380.541,
+        "endTime": 380.943,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 380.943,
+        "endTime": 381.405,
+        "gloss": "to"
+      },
+      {
+        "word": "枇杷",
+        "pinyin": "pí pá",
+        "startTime": 381.405,
+        "endTime": 382.108,
+        "gloss": "loquat"
+      },
+      {
+        "word": "园",
+        "pinyin": "yuán",
+        "startTime": 382.108,
+        "endTime": 382.952,
+        "gloss": "garden"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 382.952,
+        "endTime": 384.138,
+        "gloss": "eat hotpot"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 384.138,
+        "endTime": 384.56,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you want to go to the loquat garden to eat hotpot?"
+  },
+  {
+    "startTime": 385.0,
+    "endTime": 390.733,
+    "fullTextZH": "和6,000个人一起吃火锅啊？",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 385.06,
+        "endTime": 385.481,
+        "gloss": "with"
+      },
+      {
+        "word": "个人",
+        "pinyin": "gè rén",
+        "startTime": 386.383,
+        "endTime": 387.285,
+        "gloss": "people"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 387.285,
+        "endTime": 388.368,
+        "gloss": "together"
+      },
+      {
+        "word": "吃火锅",
+        "pinyin": "chī huǒ guō",
+        "startTime": 388.368,
+        "endTime": 389.951,
+        "gloss": "eat hot pot"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 389.951,
+        "endTime": 390.693,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Eat hot pot with 6,000 people?"
+  },
+  {
+    "startTime": 390.9,
+    "endTime": 393.0,
+    "fullTextZH": "我觉得很有意思。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 391.122,
+        "endTime": 391.284,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得很有",
+        "pinyin": "jué de hěn yǒu",
+        "startTime": 391.284,
+        "endTime": 392.273,
+        "gloss": "think very"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 392.273,
+        "endTime": 392.96,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think it's very interesting."
+  },
+  {
+    "startTime": 393.1,
+    "endTime": 394.166,
+    "fullTextZH": "你觉得呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 393.14,
+        "endTime": 393.402,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 393.402,
+        "endTime": 393.764,
+        "gloss": "think"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 393.764,
+        "endTime": 394.126,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What do you think?"
+  },
+  {
+    "startTime": 395.733,
+    "endTime": 397.733,
+    "fullTextZH": "好，谢谢观看。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 395.773,
+        "endTime": 396.682,
+        "gloss": "okay"
+      },
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 396.703,
+        "endTime": 397.066,
+        "gloss": "thanks"
+      },
+      {
+        "word": "观看",
+        "pinyin": "guān kàn",
+        "startTime": 397.066,
+        "endTime": 397.693,
+        "gloss": "watching"
+      }
+    ],
+    "fullTextEN": "Okay, thanks for watching."
+  },
+  {
+    "startTime": 397.733,
+    "endTime": 400.7,
+    "fullTextZH": "我们下次见，拜拜。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 397.893,
+        "endTime": 398.575,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 398.575,
+        "endTime": 399.277,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 399.277,
+        "endTime": 400.038,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 400.058,
+        "endTime": 400.68,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye."
+  }
+]

@@ -1,0 +1,4712 @@
+[
+  {
+    "startTime": 0.233,
+    "endTime": 1.5,
+    "fullTextZH": "哈喽，大家好！",
+    "words": [
+      {
+        "word": "哈",
+        "pinyin": "hā",
+        "startTime": 0.313,
+        "endTime": 0.474,
+        "gloss": "ha"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 0.474,
+        "endTime": 0.716,
+        "gloss": "lo"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.856,
+        "endTime": 1.218,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.218,
+        "endTime": 1.46,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello, everyone!"
+  },
+  {
+    "startTime": 1.5,
+    "endTime": 3.0,
+    "fullTextZH": "我是Bella老师。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.541,
+        "endTime": 1.723,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.723,
+        "endTime": 1.905,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 2.311,
+        "endTime": 2.959,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am Teacher Bella."
+  },
+  {
+    "startTime": 3.0,
+    "endTime": 4.966,
+    "fullTextZH": "我来自台湾。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.06,
+        "endTime": 3.241,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 3.241,
+        "endTime": 3.802,
+        "gloss": "come from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 3.802,
+        "endTime": 4.926,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "I am from Taiwan."
+  },
+  {
+    "startTime": 5.766,
+    "endTime": 9.066,
+    "fullTextZH": "在台湾，你可能会看到一些庙。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 5.867,
+        "endTime": 6.028,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 6.028,
+        "endTime": 6.792,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 6.893,
+        "endTime": 7.054,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 7.054,
+        "endTime": 7.376,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 7.376,
+        "endTime": 7.537,
+        "gloss": "will"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 7.537,
+        "endTime": 8.06,
+        "gloss": "see"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 8.06,
+        "endTime": 8.583,
+        "gloss": "some"
+      },
+      {
+        "word": "庙",
+        "pinyin": "miào",
+        "startTime": 8.583,
+        "endTime": 9.026,
+        "gloss": "temples"
+      }
+    ],
+    "fullTextEN": "In Taiwan, you might see some temples."
+  },
+  {
+    "startTime": 9.433,
+    "endTime": 13.9,
+    "fullTextZH": "这些庙里面都有不一样的神。",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 9.513,
+        "endTime": 9.974,
+        "gloss": "these"
+      },
+      {
+        "word": "庙",
+        "pinyin": "miào",
+        "startTime": 9.974,
+        "endTime": 10.314,
+        "gloss": "temples"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 10.314,
+        "endTime": 11.236,
+        "gloss": "inside"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 11.236,
+        "endTime": 11.496,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 11.496,
+        "endTime": 12.137,
+        "gloss": "have"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 12.137,
+        "endTime": 12.378,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 12.378,
+        "endTime": 12.878,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 12.878,
+        "endTime": 13.219,
+        "gloss": "of"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 13.219,
+        "endTime": 13.86,
+        "gloss": "gods"
+      }
+    ],
+    "fullTextEN": "Inside these temples, there are different gods."
+  },
+  {
+    "startTime": 14.433,
+    "endTime": 16.0,
+    "fullTextZH": "有些神呢，",
+    "words": [
+      {
+        "word": "有些",
+        "pinyin": "yǒu xiē",
+        "startTime": 14.513,
+        "endTime": 15.136,
+        "gloss": "some"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 15.136,
+        "endTime": 15.437,
+        "gloss": "gods"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 15.437,
+        "endTime": 15.96,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Some gods,"
+  },
+  {
+    "startTime": 16.0,
+    "endTime": 18.833,
+    "fullTextZH": "可以帮你赚大钱。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 16.08,
+        "endTime": 16.502,
+        "gloss": "can"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 16.502,
+        "endTime": 16.764,
+        "gloss": "help"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 16.764,
+        "endTime": 17.306,
+        "gloss": "you"
+      },
+      {
+        "word": "赚大钱",
+        "pinyin": "zhuàn dà qián",
+        "startTime": 17.306,
+        "endTime": 18.793,
+        "gloss": "make money"
+      }
+    ],
+    "fullTextEN": "can help you make a lot of money."
+  },
+  {
+    "startTime": 19.466,
+    "endTime": 20.9,
+    "fullTextZH": "有些神呢，",
+    "words": [
+      {
+        "word": "有些",
+        "pinyin": "yǒu xiē",
+        "startTime": 19.527,
+        "endTime": 20.072,
+        "gloss": "some"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 20.072,
+        "endTime": 20.395,
+        "gloss": "gods"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 20.395,
+        "endTime": 20.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Some gods,"
+  },
+  {
+    "startTime": 20.966,
+    "endTime": 24.9,
+    "fullTextZH": "可以让你考试考得很好，",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 21.086,
+        "endTime": 21.488,
+        "gloss": "can"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 21.488,
+        "endTime": 21.729,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 21.729,
+        "endTime": 22.05,
+        "gloss": "you"
+      },
+      {
+        "word": "考试",
+        "pinyin": "kǎo shì",
+        "startTime": 22.05,
+        "endTime": 23.073,
+        "gloss": "exam"
+      },
+      {
+        "word": "考得",
+        "pinyin": "kǎo dé",
+        "startTime": 23.073,
+        "endTime": 23.575,
+        "gloss": "do"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 23.575,
+        "endTime": 24.057,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 24.057,
+        "endTime": 24.86,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "can help you do well in exams,"
+  },
+  {
+    "startTime": 25.0,
+    "endTime": 28.5,
+    "fullTextZH": "变聪明。有些神呢，",
+    "words": [
+      {
+        "word": "变",
+        "pinyin": "biàn",
+        "startTime": 25.06,
+        "endTime": 25.543,
+        "gloss": "become"
+      },
+      {
+        "word": "聪明",
+        "pinyin": "cōng míng",
+        "startTime": 25.543,
+        "endTime": 25.925,
+        "gloss": "smart"
+      },
+      {
+        "word": "有些",
+        "pinyin": "yǒu xiē",
+        "startTime": 27.233,
+        "endTime": 27.756,
+        "gloss": "some"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 27.756,
+        "endTime": 28.017,
+        "gloss": "gods"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 28.017,
+        "endTime": 28.46,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "become smarter. Some gods,"
+  },
+  {
+    "startTime": 28.5,
+    "endTime": 32.233,
+    "fullTextZH": "可以让你平平安安。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 28.62,
+        "endTime": 29.022,
+        "gloss": "can"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 29.022,
+        "endTime": 29.303,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 29.303,
+        "endTime": 29.965,
+        "gloss": "you"
+      },
+      {
+        "word": "平平安安",
+        "pinyin": "píng píng ān ān",
+        "startTime": 29.965,
+        "endTime": 32.193,
+        "gloss": "safe and sound"
+      }
+    ],
+    "fullTextEN": "can keep you safe and sound."
+  },
+  {
+    "startTime": 32.9,
+    "endTime": 36.666,
+    "fullTextZH": "今天呢，我要介绍的这个神呢，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 33.0,
+        "endTime": 33.621,
+        "gloss": "today"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 33.621,
+        "endTime": 33.821,
+        "gloss": "particle"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 34.222,
+        "endTime": 34.643,
+        "gloss": "I want"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 34.643,
+        "endTime": 35.184,
+        "gloss": "introduce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 35.184,
+        "endTime": 35.364,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 35.364,
+        "endTime": 35.825,
+        "gloss": "this"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 35.825,
+        "endTime": 36.225,
+        "gloss": "god"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 36.225,
+        "endTime": 36.626,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Today, the god I want to introduce,"
+  },
+  {
+    "startTime": 36.8,
+    "endTime": 41.5,
+    "fullTextZH": "他可以帮你找到男朋友、女朋友。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 36.84,
+        "endTime": 37.222,
+        "gloss": "he"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 37.222,
+        "endTime": 37.764,
+        "gloss": "can"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 37.764,
+        "endTime": 37.985,
+        "gloss": "help"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 37.985,
+        "endTime": 38.246,
+        "gloss": "you"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 38.246,
+        "endTime": 39.25,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 39.25,
+        "endTime": 39.893,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 40.576,
+        "endTime": 41.46,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "can help you find a boyfriend or girlfriend."
+  },
+  {
+    "startTime": 42.166,
+    "endTime": 44.166,
+    "fullTextZH": "没错，今天呢，",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 42.227,
+        "endTime": 42.974,
+        "gloss": "correct"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 43.439,
+        "endTime": 43.944,
+        "gloss": "today"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 43.944,
+        "endTime": 44.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "That's right, today,"
+  },
+  {
+    "startTime": 44.166,
+    "endTime": 49.166,
+    "fullTextZH": "我要介绍的这个神就是中国的爱神，",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 44.226,
+        "endTime": 44.628,
+        "gloss": "I want"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 44.628,
+        "endTime": 45.15,
+        "gloss": "introduce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 45.15,
+        "endTime": 45.371,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 45.371,
+        "endTime": 45.813,
+        "gloss": "this"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 45.813,
+        "endTime": 46.515,
+        "gloss": "god"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 46.515,
+        "endTime": 47.238,
+        "gloss": "is"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 47.238,
+        "endTime": 47.861,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 47.861,
+        "endTime": 48.162,
+        "gloss": "of"
+      },
+      {
+        "word": "爱神",
+        "pinyin": "ài shén",
+        "startTime": 48.162,
+        "endTime": 48.825,
+        "gloss": "love god"
+      }
+    ],
+    "fullTextEN": "the god I want to introduce is China's love god,"
+  },
+  {
+    "startTime": 49.266,
+    "endTime": 50.466,
+    "fullTextZH": "月老。",
+    "words": [
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 49.368,
+        "endTime": 49.978,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 49.978,
+        "endTime": 50.425,
+        "gloss": "old"
+      }
+    ],
+    "fullTextEN": "Yue Lao."
+  },
+  {
+    "startTime": 51.266,
+    "endTime": 53.166,
+    "fullTextZH": "在台湾的庙里，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 51.367,
+        "endTime": 51.589,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 51.589,
+        "endTime": 52.115,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.115,
+        "endTime": 52.378,
+        "gloss": "of"
+      },
+      {
+        "word": "庙里",
+        "pinyin": "miào lǐ",
+        "startTime": 52.378,
+        "endTime": 53.126,
+        "gloss": "temples"
+      }
+    ],
+    "fullTextEN": "In Taiwanese temples,"
+  },
+  {
+    "startTime": 53.2,
+    "endTime": 55.4,
+    "fullTextZH": "你会看到这个神，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 53.281,
+        "endTime": 53.422,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 53.422,
+        "endTime": 53.664,
+        "gloss": "will"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 53.664,
+        "endTime": 54.29,
+        "gloss": "see"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 54.29,
+        "endTime": 54.673,
+        "gloss": "this"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 54.673,
+        "endTime": 55.36,
+        "gloss": "god"
+      }
+    ],
+    "fullTextEN": "you will see this god,"
+  },
+  {
+    "startTime": 56.1,
+    "endTime": 60.0,
+    "fullTextZH": "他就是那个手上拿着一本书，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 56.201,
+        "endTime": 56.502,
+        "gloss": "he"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 56.502,
+        "endTime": 56.985,
+        "gloss": "is"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 56.985,
+        "endTime": 57.547,
+        "gloss": "that"
+      },
+      {
+        "word": "手上",
+        "pinyin": "shǒu shàng",
+        "startTime": 57.547,
+        "endTime": 58.13,
+        "gloss": "hand"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 58.13,
+        "endTime": 58.432,
+        "gloss": "holding"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 58.432,
+        "endTime": 58.693,
+        "gloss": "particle"
+      },
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 58.693,
+        "endTime": 58.914,
+        "gloss": "a"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 58.914,
+        "endTime": 59.98,
+        "gloss": "book"
+      }
+    ],
+    "fullTextEN": "he is the one holding a book,"
+  },
+  {
+    "startTime": 60.033,
+    "endTime": 64.366,
+    "fullTextZH": "手里拿着一条红线的爱神。",
+    "words": [
+      {
+        "word": "手里",
+        "pinyin": "shǒu lǐ",
+        "startTime": 60.214,
+        "endTime": 60.815,
+        "gloss": "hand"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 60.815,
+        "endTime": 61.076,
+        "gloss": "holding"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 61.076,
+        "endTime": 61.237,
+        "gloss": "particle"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 61.237,
+        "endTime": 61.899,
+        "gloss": "a"
+      },
+      {
+        "word": "红线",
+        "pinyin": "hóng xiàn",
+        "startTime": 61.899,
+        "endTime": 62.621,
+        "gloss": "red string"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 62.621,
+        "endTime": 63.283,
+        "gloss": "of"
+      },
+      {
+        "word": "爱神",
+        "pinyin": "ài shén",
+        "startTime": 63.283,
+        "endTime": 64.326,
+        "gloss": "love god"
+      }
+    ],
+    "fullTextEN": "holding a red string in his hand."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 69.166,
+    "fullTextZH": "那月老要怎么帮我们找到男朋友，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 65.1,
+        "endTime": 65.441,
+        "gloss": "so"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 65.441,
+        "endTime": 65.701,
+        "gloss": "moon"
+      },
+      {
+        "word": "老要",
+        "pinyin": "lǎo yào",
+        "startTime": 65.701,
+        "endTime": 66.282,
+        "gloss": "old man"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 66.282,
+        "endTime": 66.662,
+        "gloss": "how"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 66.662,
+        "endTime": 66.903,
+        "gloss": "help"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 66.903,
+        "endTime": 67.263,
+        "gloss": "us"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 67.263,
+        "endTime": 68.145,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 68.145,
+        "endTime": 69.126,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "So how does the old man under the moon help us find a boyfriend,"
+  },
+  {
+    "startTime": 69.166,
+    "endTime": 70.4,
+    "fullTextZH": "女朋友呢？",
+    "words": [
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 69.267,
+        "endTime": 69.914,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 69.914,
+        "endTime": 70.36,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "or a girlfriend?"
+  },
+  {
+    "startTime": 70.966,
+    "endTime": 74.666,
+    "fullTextZH": "第一，你要去月老的庙，",
+    "words": [
+      {
+        "word": "第一",
+        "pinyin": "dì yī",
+        "startTime": 71.046,
+        "endTime": 71.992,
+        "gloss": "first"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 72.012,
+        "endTime": 72.193,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 72.193,
+        "endTime": 72.575,
+        "gloss": "need"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 72.575,
+        "endTime": 73.238,
+        "gloss": "go"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 73.238,
+        "endTime": 73.56,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 73.56,
+        "endTime": 73.801,
+        "gloss": "old"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 73.801,
+        "endTime": 74.043,
+        "gloss": "of"
+      },
+      {
+        "word": "庙",
+        "pinyin": "miào",
+        "startTime": 74.043,
+        "endTime": 74.626,
+        "gloss": "temple"
+      }
+    ],
+    "fullTextEN": "First, you need to go to the temple of the old man under the moon,"
+  },
+  {
+    "startTime": 74.866,
+    "endTime": 77.933,
+    "fullTextZH": "然后准备这三个东西。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 74.946,
+        "endTime": 75.748,
+        "gloss": "then"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 75.748,
+        "endTime": 76.209,
+        "gloss": "prepare"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 76.209,
+        "endTime": 76.61,
+        "gloss": "these"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 76.61,
+        "endTime": 77.051,
+        "gloss": "three"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 77.051,
+        "endTime": 77.913,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "then prepare these three things."
+  },
+  {
+    "startTime": 78.333,
+    "endTime": 81.0,
+    "fullTextZH": "第一个东西是糖果。",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 78.393,
+        "endTime": 78.854,
+        "gloss": "first"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 78.854,
+        "endTime": 79.396,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 79.396,
+        "endTime": 80.078,
+        "gloss": "is"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 80.078,
+        "endTime": 80.96,
+        "gloss": "candy"
+      }
+    ],
+    "fullTextEN": "The first thing is candy."
+  },
+  {
+    "startTime": 81.566,
+    "endTime": 84.266,
+    "fullTextZH": "为什么要准备糖果呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 81.667,
+        "endTime": 82.191,
+        "gloss": "why"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 82.191,
+        "endTime": 82.573,
+        "gloss": "need"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 82.573,
+        "endTime": 83.037,
+        "gloss": "prepare"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 83.037,
+        "endTime": 83.742,
+        "gloss": "candy"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 83.742,
+        "endTime": 84.226,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Why do you need to prepare candy?"
+  },
+  {
+    "startTime": 84.6,
+    "endTime": 87.9,
+    "fullTextZH": "因为月老吃了糖果以后，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 84.701,
+        "endTime": 85.184,
+        "gloss": "because"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 85.184,
+        "endTime": 85.465,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 85.465,
+        "endTime": 85.888,
+        "gloss": "old"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 85.888,
+        "endTime": 86.069,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 86.069,
+        "endTime": 86.33,
+        "gloss": "particle"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 86.33,
+        "endTime": 87.055,
+        "gloss": "candy"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 87.055,
+        "endTime": 87.86,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "Because after the old man under the moon eats the candy,"
+  },
+  {
+    "startTime": 87.933,
+    "endTime": 90.5,
+    "fullTextZH": "嘴巴会变得很甜，",
+    "words": [
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 88.013,
+        "endTime": 88.515,
+        "gloss": "mouth"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 88.515,
+        "endTime": 88.715,
+        "gloss": "will"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 88.715,
+        "endTime": 89.156,
+        "gloss": "become"
+      },
+      {
+        "word": "很甜",
+        "pinyin": "hěn tián",
+        "startTime": 89.156,
+        "endTime": 90.199,
+        "gloss": "very sweet"
+      }
+    ],
+    "fullTextEN": "his mouth will become very sweet,"
+  },
+  {
+    "startTime": 90.7,
+    "endTime": 95.0,
+    "fullTextZH": "所以呢，他就会在你以后的男朋友，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 90.881,
+        "endTime": 91.323,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 91.323,
+        "endTime": 91.584,
+        "gloss": "particle"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 91.906,
+        "endTime": 92.147,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 92.147,
+        "endTime": 92.368,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 92.368,
+        "endTime": 92.589,
+        "gloss": "will"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 92.589,
+        "endTime": 92.83,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 92.83,
+        "endTime": 93.192,
+        "gloss": "your"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 93.192,
+        "endTime": 93.734,
+        "gloss": "future"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 93.734,
+        "endTime": 94.015,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 94.015,
+        "endTime": 94.216,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "so he will say nice things in front of your future boyfriend,"
+  },
+  {
+    "startTime": 95.0,
+    "endTime": 96.766,
+    "fullTextZH": "还是女朋友的前面，",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 95.08,
+        "endTime": 95.482,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 95.482,
+        "endTime": 96.064,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 96.064,
+        "endTime": 96.304,
+        "gloss": "of"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 96.304,
+        "endTime": 96.726,
+        "gloss": "front"
+      }
+    ],
+    "fullTextEN": "or girlfriend,"
+  },
+  {
+    "startTime": 96.766,
+    "endTime": 99.666,
+    "fullTextZH": "说好听的话。",
+    "words": [
+      {
+        "word": "说好听",
+        "pinyin": "shuō hǎo tīng",
+        "startTime": 96.927,
+        "endTime": 98.8,
+        "gloss": "say nice"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 98.8,
+        "endTime": 99.626,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "saying nice things."
+  },
+  {
+    "startTime": 99.966,
+    "endTime": 101.533,
+    "fullTextZH": "第二个东西呢，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 100.026,
+        "endTime": 100.549,
+        "gloss": "second"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 100.549,
+        "endTime": 101.071,
+        "gloss": "thing"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 101.071,
+        "endTime": 101.493,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "The second thing,"
+  },
+  {
+    "startTime": 101.533,
+    "endTime": 106.666,
+    "fullTextZH": "是花，最好是红色的花，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 101.754,
+        "endTime": 102.435,
+        "gloss": "is"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 102.435,
+        "endTime": 103.338,
+        "gloss": "flowers"
+      },
+      {
+        "word": "最好",
+        "pinyin": "zuì hǎo",
+        "startTime": 103.518,
+        "endTime": 104.039,
+        "gloss": "preferably"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 104.039,
+        "endTime": 104.741,
+        "gloss": "is"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 104.741,
+        "endTime": 105.663,
+        "gloss": "red"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 105.663,
+        "endTime": 105.884,
+        "gloss": "of"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 105.884,
+        "endTime": 106.626,
+        "gloss": "flowers"
+      }
+    ],
+    "fullTextEN": "is flowers, preferably red ones,"
+  },
+  {
+    "startTime": 106.666,
+    "endTime": 109.733,
+    "fullTextZH": "因为花的意思是爱。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 106.706,
+        "endTime": 107.307,
+        "gloss": "because"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 107.307,
+        "endTime": 107.708,
+        "gloss": "flowers"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 107.708,
+        "endTime": 107.829,
+        "gloss": "of"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 107.829,
+        "endTime": 108.39,
+        "gloss": "meaning"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 108.39,
+        "endTime": 109.092,
+        "gloss": "is"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 109.092,
+        "endTime": 109.693,
+        "gloss": "love"
+      }
+    ],
+    "fullTextEN": "because flowers symbolize love."
+  },
+  {
+    "startTime": 110.566,
+    "endTime": 113.2,
+    "fullTextZH": "第三个东西呢，是这个，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 110.646,
+        "endTime": 111.451,
+        "gloss": "third"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 111.451,
+        "endTime": 111.953,
+        "gloss": "thing"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 111.953,
+        "endTime": 112.275,
+        "gloss": "particle"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 112.376,
+        "endTime": 112.577,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 112.577,
+        "endTime": 113.16,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "The third thing is this,"
+  },
+  {
+    "startTime": 113.466,
+    "endTime": 115.5,
+    "fullTextZH": "这个叫做枣子，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 113.526,
+        "endTime": 113.748,
+        "gloss": "this"
+      },
+      {
+        "word": "叫做",
+        "pinyin": "jiào zuò",
+        "startTime": 113.748,
+        "endTime": 114.553,
+        "gloss": "called"
+      },
+      {
+        "word": "枣子",
+        "pinyin": "zǎo zi",
+        "startTime": 114.553,
+        "endTime": 115.46,
+        "gloss": "date"
+      }
+    ],
+    "fullTextEN": "this is called a date,"
+  },
+  {
+    "startTime": 115.866,
+    "endTime": 117.0,
+    "fullTextZH": "意思是呢，",
+    "words": [
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 115.906,
+        "endTime": 116.271,
+        "gloss": "meaning"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 116.271,
+        "endTime": 116.494,
+        "gloss": "is"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 116.494,
+        "endTime": 116.96,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "meaning,"
+  },
+  {
+    "startTime": 117.0,
+    "endTime": 121.133,
+    "fullTextZH": "你可以早点找到你的男朋友，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 117.08,
+        "endTime": 117.321,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 117.321,
+        "endTime": 118.364,
+        "gloss": "can"
+      },
+      {
+        "word": "早点",
+        "pinyin": "zǎo diǎn",
+        "startTime": 118.364,
+        "endTime": 119.267,
+        "gloss": "sooner"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 119.267,
+        "endTime": 119.709,
+        "gloss": "find"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 119.709,
+        "endTime": 119.849,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 119.849,
+        "endTime": 120.21,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 120.21,
+        "endTime": 120.952,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "you can find your boyfriend sooner,"
+  },
+  {
+    "startTime": 121.133,
+    "endTime": 122.833,
+    "fullTextZH": "还是女朋友。",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 121.194,
+        "endTime": 121.74,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 121.74,
+        "endTime": 122.793,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "or girlfriend."
+  },
+  {
+    "startTime": 123.533,
+    "endTime": 124.933,
+    "fullTextZH": "最重要的呢，",
+    "words": [
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 123.675,
+        "endTime": 123.898,
+        "gloss": "most"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 123.898,
+        "endTime": 124.426,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 124.426,
+        "endTime": 124.588,
+        "gloss": "thing"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 124.588,
+        "endTime": 124.892,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "The most important thing,"
+  },
+  {
+    "startTime": 124.933,
+    "endTime": 127.933,
+    "fullTextZH": "就是拿出一张纸，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 125.034,
+        "endTime": 126.02,
+        "gloss": "just"
+      },
+      {
+        "word": "拿出",
+        "pinyin": "ná chū",
+        "startTime": 126.02,
+        "endTime": 126.846,
+        "gloss": "take out"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 126.846,
+        "endTime": 127.289,
+        "gloss": "a"
+      },
+      {
+        "word": "纸",
+        "pinyin": "zhǐ",
+        "startTime": 127.289,
+        "endTime": 127.913,
+        "gloss": "paper"
+      }
+    ],
+    "fullTextEN": "Just take out a piece of paper,"
+  },
+  {
+    "startTime": 127.933,
+    "endTime": 129.6,
+    "fullTextZH": "写下，",
+    "words": [
+      {
+        "word": "写下",
+        "pinyin": "xiě xià",
+        "startTime": 128.274,
+        "endTime": 129.56,
+        "gloss": "write down"
+      }
+    ],
+    "fullTextEN": "write it down,"
+  },
+  {
+    "startTime": 129.7,
+    "endTime": 134.3,
+    "fullTextZH": "你想要的男朋友、女朋友是怎么样的。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 129.78,
+        "endTime": 130.062,
+        "gloss": "you"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 130.062,
+        "endTime": 130.644,
+        "gloss": "want"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 130.644,
+        "endTime": 130.925,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 130.925,
+        "endTime": 132.05,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 132.151,
+        "endTime": 132.914,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 132.914,
+        "endTime": 133.235,
+        "gloss": "is"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 133.235,
+        "endTime": 133.918,
+        "gloss": "what kind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 133.918,
+        "endTime": 134.26,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "what kind of boyfriend or girlfriend you want."
+  },
+  {
+    "startTime": 134.666,
+    "endTime": 139.4,
+    "fullTextZH": "你可以写：我想要很高的男朋友，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 134.746,
+        "endTime": 134.947,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 134.947,
+        "endTime": 135.488,
+        "gloss": "can"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 135.488,
+        "endTime": 136.191,
+        "gloss": "write"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 136.211,
+        "endTime": 136.532,
+        "gloss": "I"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 136.532,
+        "endTime": 137.454,
+        "gloss": "want"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 137.454,
+        "endTime": 137.976,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 137.976,
+        "endTime": 138.337,
+        "gloss": "tall"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 138.337,
+        "endTime": 138.497,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 138.497,
+        "endTime": 139.36,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "You can write: I want a very tall boyfriend,"
+  },
+  {
+    "startTime": 139.666,
+    "endTime": 144.033,
+    "fullTextZH": "你也可以写：我想要很帅的男朋友，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 139.766,
+        "endTime": 140.047,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 140.047,
+        "endTime": 140.307,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 140.307,
+        "endTime": 140.828,
+        "gloss": "can"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 140.828,
+        "endTime": 141.289,
+        "gloss": "write"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 141.309,
+        "endTime": 141.549,
+        "gloss": "I"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 141.549,
+        "endTime": 142.09,
+        "gloss": "want"
+      },
+      {
+        "word": "很帅",
+        "pinyin": "hěn shuài",
+        "startTime": 142.09,
+        "endTime": 143.011,
+        "gloss": "very handsome"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 143.011,
+        "endTime": 143.172,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 143.172,
+        "endTime": 143.993,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "You can also write: I want a very handsome boyfriend,"
+  },
+  {
+    "startTime": 144.833,
+    "endTime": 149.9,
+    "fullTextZH": "你也可以写：我想要很有钱的男朋友。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 144.853,
+        "endTime": 145.053,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 145.053,
+        "endTime": 145.334,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 145.334,
+        "endTime": 145.814,
+        "gloss": "can"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 145.814,
+        "endTime": 146.535,
+        "gloss": "write"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 146.575,
+        "endTime": 146.796,
+        "gloss": "I"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 146.796,
+        "endTime": 147.697,
+        "gloss": "want"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 147.697,
+        "endTime": 148.278,
+        "gloss": "very"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 148.278,
+        "endTime": 148.859,
+        "gloss": "rich"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 148.859,
+        "endTime": 148.999,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 148.999,
+        "endTime": 149.86,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "You can also write: I want a very rich boyfriend."
+  },
+  {
+    "startTime": 150.433,
+    "endTime": 151.8,
+    "fullTextZH": "月老，月老，",
+    "words": [
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 150.493,
+        "endTime": 150.795,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 150.795,
+        "endTime": 151.157,
+        "gloss": "lao"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 151.217,
+        "endTime": 151.438,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 151.438,
+        "endTime": 151.76,
+        "gloss": "lao"
+      }
+    ],
+    "fullTextEN": "Yuelao, Yuelao,"
+  },
+  {
+    "startTime": 151.8,
+    "endTime": 157.8,
+    "fullTextZH": "请你给我一个很高、很帅的男朋友，嗯，",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 151.92,
+        "endTime": 152.181,
+        "gloss": "please"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 152.181,
+        "endTime": 152.402,
+        "gloss": "you"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 152.402,
+        "endTime": 152.663,
+        "gloss": "give"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 152.663,
+        "endTime": 152.924,
+        "gloss": "me"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 152.924,
+        "endTime": 153.626,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 153.626,
+        "endTime": 154.168,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 154.168,
+        "endTime": 154.489,
+        "gloss": "tall"
+      },
+      {
+        "word": "很帅",
+        "pinyin": "hěn shuài",
+        "startTime": 154.589,
+        "endTime": 155.412,
+        "gloss": "very handsome"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 155.412,
+        "endTime": 155.673,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 155.673,
+        "endTime": 156.857,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 157.178,
+        "endTime": 157.7,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Please give me a very tall and handsome boyfriend, hmm,"
+  },
+  {
+    "startTime": 158.0,
+    "endTime": 167.233,
+    "fullTextZH": "差不多像Michael Jordan一样高，然后差不多像...",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 158.521,
+        "endTime": 159.362,
+        "gloss": "almost"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 159.362,
+        "endTime": 160.183,
+        "gloss": "like"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 161.605,
+        "endTime": 162.326,
+        "gloss": "same"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 162.326,
+        "endTime": 162.767,
+        "gloss": "tall"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 163.828,
+        "endTime": 164.709,
+        "gloss": "then"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 164.709,
+        "endTime": 165.911,
+        "gloss": "almost"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 165.911,
+        "endTime": 166.392,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Almost as tall as Michael Jordan, and then almost like..."
+  },
+  {
+    "startTime": 167.233,
+    "endTime": 172.233,
+    "fullTextZH": "啊，Tom Cruise一样帅，啊，",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 167.293,
+        "endTime": 167.635,
+        "gloss": "ah"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 169.402,
+        "endTime": 169.924,
+        "gloss": "same"
+      },
+      {
+        "word": "帅",
+        "pinyin": "shuài",
+        "startTime": 169.924,
+        "endTime": 170.125,
+        "gloss": "handsome"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 171.189,
+        "endTime": 172.193,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Ah, as handsome as Tom Cruise, ah,"
+  },
+  {
+    "startTime": 172.3,
+    "endTime": 174.5,
+    "fullTextZH": "如果有钱的话，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 172.381,
+        "endTime": 172.764,
+        "gloss": "if"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 172.764,
+        "endTime": 173.531,
+        "gloss": "rich"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 173.531,
+        "endTime": 174.46,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If rich,"
+  },
+  {
+    "startTime": 174.5,
+    "endTime": 178.5,
+    "fullTextZH": "像Elon Musk一样有钱。",
+    "words": [
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 174.641,
+        "endTime": 175.204,
+        "gloss": "like"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 176.59,
+        "endTime": 177.254,
+        "gloss": "same"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 177.254,
+        "endTime": 178.138,
+        "gloss": "rich"
+      }
+    ],
+    "fullTextEN": "as rich as Elon Musk."
+  },
+  {
+    "startTime": 178.8,
+    "endTime": 181.266,
+    "fullTextZH": "对对对，这样子就好了！",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 178.86,
+        "endTime": 179.0,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 179.0,
+        "endTime": 179.181,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 179.181,
+        "endTime": 179.442,
+        "gloss": "yes"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 179.502,
+        "endTime": 179.542,
+        "gloss": "this"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 179.542,
+        "endTime": 180.384,
+        "gloss": "way"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 180.384,
+        "endTime": 180.584,
+        "gloss": "then"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 180.584,
+        "endTime": 180.925,
+        "gloss": "good"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 180.925,
+        "endTime": 181.226,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Yes, yes, yes, this would be great!"
+  },
+  {
+    "startTime": 182.366,
+    "endTime": 184.9,
+    "fullTextZH": "拜托拜托拜托拜托！",
+    "words": [
+      {
+        "word": "拜托",
+        "pinyin": "bài tuō",
+        "startTime": 182.366,
+        "endTime": 182.788,
+        "gloss": "please"
+      },
+      {
+        "word": "拜托",
+        "pinyin": "bài tuō",
+        "startTime": 182.788,
+        "endTime": 183.492,
+        "gloss": "please"
+      },
+      {
+        "word": "拜托",
+        "pinyin": "bài tuō",
+        "startTime": 183.492,
+        "endTime": 184.055,
+        "gloss": "please"
+      },
+      {
+        "word": "拜托",
+        "pinyin": "bài tuō",
+        "startTime": 184.055,
+        "endTime": 184.86,
+        "gloss": "please"
+      }
+    ],
+    "fullTextEN": "Please, please, please, please!"
+  },
+  {
+    "startTime": 185.566,
+    "endTime": 189.5,
+    "fullTextZH": "哼哼哼，这个人呐，",
+    "words": [
+      {
+        "word": "哼哼",
+        "pinyin": "hēng hēng",
+        "startTime": 185.646,
+        "endTime": 186.991,
+        "gloss": "hmm"
+      },
+      {
+        "word": "哼",
+        "pinyin": "hēng",
+        "startTime": 186.991,
+        "endTime": 187.553,
+        "gloss": "hmm"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 188.276,
+        "endTime": 188.637,
+        "gloss": "this"
+      },
+      {
+        "word": "人呐",
+        "pinyin": "rén nà",
+        "startTime": 188.637,
+        "endTime": 189.48,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Hmm, hmm, hmm, this person,"
+  },
+  {
+    "startTime": 189.5,
+    "endTime": 195.333,
+    "fullTextZH": "也太贪心了吧，真麻烦！",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 189.56,
+        "endTime": 189.841,
+        "gloss": "also"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 189.841,
+        "endTime": 190.402,
+        "gloss": "too"
+      },
+      {
+        "word": "贪心",
+        "pinyin": "tān xīn",
+        "startTime": 190.402,
+        "endTime": 191.444,
+        "gloss": "greedy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 191.444,
+        "endTime": 191.725,
+        "gloss": "le"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 191.725,
+        "endTime": 192.487,
+        "gloss": "ba"
+      },
+      {
+        "word": "真",
+        "pinyin": "zhēn",
+        "startTime": 192.847,
+        "endTime": 193.389,
+        "gloss": "really"
+      },
+      {
+        "word": "麻烦",
+        "pinyin": "má fán",
+        "startTime": 193.389,
+        "endTime": 194.471,
+        "gloss": "troublesome"
+      }
+    ],
+    "fullTextEN": "is too greedy, really troublesome!"
+  },
+  {
+    "startTime": 196.333,
+    "endTime": 200.166,
+    "fullTextZH": "最后呢，月老如果觉得你说的很好，",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 196.453,
+        "endTime": 196.855,
+        "gloss": "finally"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 196.855,
+        "endTime": 197.015,
+        "gloss": "ne"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 197.196,
+        "endTime": 197.417,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 197.417,
+        "endTime": 197.678,
+        "gloss": "lao"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 197.678,
+        "endTime": 198.099,
+        "gloss": "if"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 198.099,
+        "endTime": 198.48,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 198.48,
+        "endTime": 198.862,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 198.862,
+        "endTime": 199.163,
+        "gloss": "speak"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.163,
+        "endTime": 199.484,
+        "gloss": "of"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 199.484,
+        "endTime": 199.745,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 199.745,
+        "endTime": 200.126,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Finally, if Yuelao thinks you spoke well,"
+  },
+  {
+    "startTime": 200.3,
+    "endTime": 204.066,
+    "fullTextZH": "他就会给你一条红线和一颗糖果。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 200.38,
+        "endTime": 200.56,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 200.56,
+        "endTime": 200.681,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 200.681,
+        "endTime": 200.861,
+        "gloss": "will"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 200.861,
+        "endTime": 201.021,
+        "gloss": "give"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 201.021,
+        "endTime": 201.201,
+        "gloss": "you"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 201.201,
+        "endTime": 201.742,
+        "gloss": "a"
+      },
+      {
+        "word": "红线",
+        "pinyin": "hóng xiàn",
+        "startTime": 201.742,
+        "endTime": 202.443,
+        "gloss": "red thread"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 202.443,
+        "endTime": 202.664,
+        "gloss": "and"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 202.664,
+        "endTime": 203.185,
+        "gloss": "a"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 203.185,
+        "endTime": 204.026,
+        "gloss": "candy"
+      }
+    ],
+    "fullTextEN": "he will give you a red thread and a candy."
+  },
+  {
+    "startTime": 204.833,
+    "endTime": 208.666,
+    "fullTextZH": "红线呢，你可以放在你的包包里面，",
+    "words": [
+      {
+        "word": "红线",
+        "pinyin": "hóng xiàn",
+        "startTime": 204.953,
+        "endTime": 205.515,
+        "gloss": "red thread"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 205.515,
+        "endTime": 205.796,
+        "gloss": "ne"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 205.977,
+        "endTime": 206.157,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 206.157,
+        "endTime": 206.499,
+        "gloss": "can"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 206.499,
+        "endTime": 207.0,
+        "gloss": "put"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 207.0,
+        "endTime": 207.141,
+        "gloss": "in"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 207.141,
+        "endTime": 207.402,
+        "gloss": "your"
+      },
+      {
+        "word": "包包",
+        "pinyin": "bāo bāo",
+        "startTime": 207.402,
+        "endTime": 207.944,
+        "gloss": "bag"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 207.944,
+        "endTime": 208.646,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "The red thread, you can put it in your bag,"
+  },
+  {
+    "startTime": 208.8,
+    "endTime": 212.866,
+    "fullTextZH": "让你很快找到你的男朋友、女朋友。",
+    "words": [
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 208.86,
+        "endTime": 209.06,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 209.06,
+        "endTime": 209.321,
+        "gloss": "you"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 209.321,
+        "endTime": 210.342,
+        "gloss": "quickly"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 210.342,
+        "endTime": 210.743,
+        "gloss": "find"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 210.743,
+        "endTime": 210.863,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 210.863,
+        "endTime": 211.123,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 211.123,
+        "endTime": 211.644,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 211.965,
+        "endTime": 212.686,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "so you can quickly find your boyfriend or girlfriend."
+  },
+  {
+    "startTime": 213.3,
+    "endTime": 215.833,
+    "fullTextZH": "糖果呢，你吃了以后，",
+    "words": [
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 213.421,
+        "endTime": 214.004,
+        "gloss": "candy"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 214.004,
+        "endTime": 214.024,
+        "gloss": "particle"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 214.526,
+        "endTime": 214.848,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 214.848,
+        "endTime": 215.029,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 215.029,
+        "endTime": 215.17,
+        "gloss": "particle"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 215.17,
+        "endTime": 215.793,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "As for the candy, after you eat it,"
+  },
+  {
+    "startTime": 215.833,
+    "endTime": 219.333,
+    "fullTextZH": "会让你很快找到幸福。",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 215.893,
+        "endTime": 216.094,
+        "gloss": "will"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 216.094,
+        "endTime": 216.336,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 216.336,
+        "endTime": 216.738,
+        "gloss": "you"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 216.738,
+        "endTime": 217.643,
+        "gloss": "quickly"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 217.643,
+        "endTime": 218.307,
+        "gloss": "find"
+      },
+      {
+        "word": "幸福",
+        "pinyin": "xìng fú",
+        "startTime": 218.307,
+        "endTime": 219.293,
+        "gloss": "happiness"
+      }
+    ],
+    "fullTextEN": "It will help you quickly find happiness."
+  },
+  {
+    "startTime": 219.833,
+    "endTime": 221.133,
+    "fullTextZH": "在台湾呢，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 219.894,
+        "endTime": 220.077,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 220.077,
+        "endTime": 220.666,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 220.666,
+        "endTime": 221.092,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "In Taiwan,"
+  },
+  {
+    "startTime": 221.133,
+    "endTime": 223.866,
+    "fullTextZH": "也有很多有名的月老庙。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 221.193,
+        "endTime": 221.334,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 221.334,
+        "endTime": 221.535,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 221.535,
+        "endTime": 222.178,
+        "gloss": "many"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 222.178,
+        "endTime": 222.942,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 222.942,
+        "endTime": 223.102,
+        "gloss": "particle"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 223.102,
+        "endTime": 223.303,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老庙",
+        "pinyin": "lǎo miào",
+        "startTime": 223.303,
+        "endTime": 223.826,
+        "gloss": "Lao temple"
+      }
+    ],
+    "fullTextEN": "there are also many famous Yue Lao temples."
+  },
+  {
+    "startTime": 224.3,
+    "endTime": 225.8,
+    "fullTextZH": "这些月老庙呢，",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 224.381,
+        "endTime": 224.928,
+        "gloss": "these"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 224.928,
+        "endTime": 225.131,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老庙",
+        "pinyin": "lǎo miào",
+        "startTime": 225.131,
+        "endTime": 225.597,
+        "gloss": "Lao temples"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 225.597,
+        "endTime": 225.78,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "These Yue Lao temples,"
+  },
+  {
+    "startTime": 225.8,
+    "endTime": 230.066,
+    "fullTextZH": "都有很多外国人从国外飞到台湾，",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 225.88,
+        "endTime": 226.02,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 226.02,
+        "endTime": 226.301,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 226.301,
+        "endTime": 226.801,
+        "gloss": "many"
+      },
+      {
+        "word": "外国人",
+        "pinyin": "wài guó rén",
+        "startTime": 226.801,
+        "endTime": 227.422,
+        "gloss": "foreigners"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 227.422,
+        "endTime": 227.743,
+        "gloss": "from"
+      },
+      {
+        "word": "国外",
+        "pinyin": "guó wài",
+        "startTime": 227.743,
+        "endTime": 228.444,
+        "gloss": "abroad"
+      },
+      {
+        "word": "飞",
+        "pinyin": "fēi",
+        "startTime": 228.444,
+        "endTime": 229.085,
+        "gloss": "fly"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 229.085,
+        "endTime": 229.385,
+        "gloss": "to"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 229.385,
+        "endTime": 229.685,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "all have many foreigners flying from abroad to Taiwan,"
+  },
+  {
+    "startTime": 230.166,
+    "endTime": 234.233,
+    "fullTextZH": "请月老帮他们找男朋友、女朋友。",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 230.266,
+        "endTime": 230.547,
+        "gloss": "ask"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 230.547,
+        "endTime": 230.827,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老帮",
+        "pinyin": "lǎo bāng",
+        "startTime": 230.827,
+        "endTime": 231.328,
+        "gloss": "Lao"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 231.328,
+        "endTime": 231.749,
+        "gloss": "them"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 231.749,
+        "endTime": 232.27,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 232.27,
+        "endTime": 232.851,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 233.251,
+        "endTime": 234.193,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "asking Yue Lao to help them find boyfriends or girlfriends."
+  },
+  {
+    "startTime": 234.533,
+    "endTime": 236.866,
+    "fullTextZH": "所以啊，来台湾的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 234.754,
+        "endTime": 235.116,
+        "gloss": "so"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 235.116,
+        "endTime": 235.438,
+        "gloss": "particle"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 235.478,
+        "endTime": 235.7,
+        "gloss": "come"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 235.7,
+        "endTime": 236.062,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 236.062,
+        "endTime": 236.222,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 236.222,
+        "endTime": 236.826,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, when you come to Taiwan,"
+  },
+  {
+    "startTime": 236.9,
+    "endTime": 238.733,
+    "fullTextZH": "如果你去月老庙，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 236.96,
+        "endTime": 237.283,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 237.283,
+        "endTime": 237.504,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 237.504,
+        "endTime": 237.786,
+        "gloss": "go"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 237.786,
+        "endTime": 238.028,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老庙",
+        "pinyin": "lǎo miào",
+        "startTime": 238.028,
+        "endTime": 238.693,
+        "gloss": "Lao temple"
+      }
+    ],
+    "fullTextEN": "if you go to a Yue Lao temple,"
+  },
+  {
+    "startTime": 238.733,
+    "endTime": 240.333,
+    "fullTextZH": "你可能可以看到，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 238.794,
+        "endTime": 239.037,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 239.037,
+        "endTime": 239.624,
+        "gloss": "might"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 239.624,
+        "endTime": 239.908,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 239.908,
+        "endTime": 240.313,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "you might see,"
+  },
+  {
+    "startTime": 240.333,
+    "endTime": 244.0,
+    "fullTextZH": "很多男生和女生一起的照片，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 240.413,
+        "endTime": 241.355,
+        "gloss": "many"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 241.355,
+        "endTime": 241.876,
+        "gloss": "boys"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 241.876,
+        "endTime": 242.116,
+        "gloss": "and"
+      },
+      {
+        "word": "女生",
+        "pinyin": "nǚ shēng",
+        "startTime": 242.116,
+        "endTime": 242.677,
+        "gloss": "girls"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 242.677,
+        "endTime": 243.138,
+        "gloss": "together"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 243.138,
+        "endTime": 243.319,
+        "gloss": "particle"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 243.319,
+        "endTime": 243.96,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "many photos of boys and girls together,"
+  },
+  {
+    "startTime": 244.2,
+    "endTime": 246.866,
+    "fullTextZH": "或是他们结婚以后，",
+    "words": [
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 244.38,
+        "endTime": 244.821,
+        "gloss": "or"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 244.821,
+        "endTime": 245.443,
+        "gloss": "they"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 245.443,
+        "endTime": 246.064,
+        "gloss": "marry"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 246.064,
+        "endTime": 246.826,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "or after they get married,"
+  },
+  {
+    "startTime": 246.866,
+    "endTime": 251.1,
+    "fullTextZH": "回来月老庙给月老糖果、饼干。",
+    "words": [
+      {
+        "word": "回来",
+        "pinyin": "huí lái",
+        "startTime": 247.067,
+        "endTime": 247.669,
+        "gloss": "return"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 247.669,
+        "endTime": 247.849,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老庙",
+        "pinyin": "lǎo miào",
+        "startTime": 247.849,
+        "endTime": 248.431,
+        "gloss": "Lao temple"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 248.431,
+        "endTime": 248.612,
+        "gloss": "give"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 248.612,
+        "endTime": 248.853,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 248.853,
+        "endTime": 249.294,
+        "gloss": "Lao"
+      },
+      {
+        "word": "糖果",
+        "pinyin": "táng guǒ",
+        "startTime": 249.294,
+        "endTime": 249.776,
+        "gloss": "candy"
+      },
+      {
+        "word": "饼干",
+        "pinyin": "bǐng gān",
+        "startTime": 250.297,
+        "endTime": 251.06,
+        "gloss": "cookies"
+      }
+    ],
+    "fullTextEN": "returning to the Yue Lao temple to give Yue Lao candy and cookies."
+  },
+  {
+    "startTime": 251.8,
+    "endTime": 252.766,
+    "fullTextZH": "说到这里，",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 251.981,
+        "endTime": 252.122,
+        "gloss": "speak"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 252.122,
+        "endTime": 252.303,
+        "gloss": "to"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 252.303,
+        "endTime": 252.726,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "Speaking of this,"
+  },
+  {
+    "startTime": 252.766,
+    "endTime": 257.333,
+    "fullTextZH": "你是不是觉得台湾的月老非常厉害呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 252.846,
+        "endTime": 253.026,
+        "gloss": "you"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 253.026,
+        "endTime": 253.447,
+        "gloss": "isn't it"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 253.447,
+        "endTime": 254.108,
+        "gloss": "think"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 254.108,
+        "endTime": 254.789,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 254.789,
+        "endTime": 254.909,
+        "gloss": "particle"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 254.909,
+        "endTime": 255.11,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 255.11,
+        "endTime": 255.61,
+        "gloss": "Lao"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 255.61,
+        "endTime": 256.311,
+        "gloss": "very"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 256.311,
+        "endTime": 256.812,
+        "gloss": "amazing"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 256.812,
+        "endTime": 257.073,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "don't you think Taiwan's Yue Lao is amazing?"
+  },
+  {
+    "startTime": 257.766,
+    "endTime": 258.966,
+    "fullTextZH": "前一阵子啊，",
+    "words": [
+      {
+        "word": "前一阵子",
+        "pinyin": "qián yī zhèn zi",
+        "startTime": 257.888,
+        "endTime": 258.661,
+        "gloss": "a while ago"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 258.661,
+        "endTime": 258.925,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "A while ago,"
+  },
+  {
+    "startTime": 258.966,
+    "endTime": 263.166,
+    "fullTextZH": "还有一部很有名的电影叫做《月老》。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 259.087,
+        "endTime": 259.549,
+        "gloss": "also"
+      },
+      {
+        "word": "一部",
+        "pinyin": "yī bù",
+        "startTime": 259.549,
+        "endTime": 260.292,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 260.292,
+        "endTime": 260.634,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 260.634,
+        "endTime": 261.096,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 261.096,
+        "endTime": 261.398,
+        "gloss": "particle"
+      },
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 261.398,
+        "endTime": 261.9,
+        "gloss": "movie"
+      },
+      {
+        "word": "叫做",
+        "pinyin": "jiào zuò",
+        "startTime": 261.9,
+        "endTime": 262.422,
+        "gloss": "called"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 262.583,
+        "endTime": 262.885,
+        "gloss": "Yue"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 262.885,
+        "endTime": 263.086,
+        "gloss": "Lao"
+      }
+    ],
+    "fullTextEN": "there was also a famous movie called 'Yue Lao'."
+  },
+  {
+    "startTime": 263.666,
+    "endTime": 264.733,
+    "fullTextZH": "这部电影呢，",
+    "words": [
+      {
+        "word": "这部",
+        "pinyin": "zhè bù",
+        "startTime": 263.726,
+        "endTime": 264.049,
+        "gloss": "this"
+      },
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 264.049,
+        "endTime": 264.512,
+        "gloss": "movie"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 264.512,
+        "endTime": 264.693,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This movie,"
+  },
+  {
+    "startTime": 264.733,
+    "endTime": 268.066,
+    "fullTextZH": "是在说这个男生死了以后，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 264.813,
+        "endTime": 264.954,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 264.954,
+        "endTime": 265.195,
+        "gloss": "about"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 265.195,
+        "endTime": 265.416,
+        "gloss": "this"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 265.416,
+        "endTime": 265.717,
+        "gloss": "guy"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 265.717,
+        "endTime": 267.022,
+        "gloss": "die"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 267.022,
+        "endTime": 267.203,
+        "gloss": "particle"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 267.203,
+        "endTime": 267.343,
+        "gloss": "after"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 267.343,
+        "endTime": 268.026,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "is about this guy who, after he died,"
+  },
+  {
+    "startTime": 268.066,
+    "endTime": 270.233,
+    "fullTextZH": "变成了一个月老。",
+    "words": [
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 268.146,
+        "endTime": 268.728,
+        "gloss": "become"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 268.728,
+        "endTime": 269.049,
+        "gloss": "particle"
+      },
+      {
+        "word": "一个月",
+        "pinyin": "yí gè yuè",
+        "startTime": 269.049,
+        "endTime": 269.751,
+        "gloss": "a"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 269.751,
+        "endTime": 270.193,
+        "gloss": "Yue"
+      }
+    ],
+    "fullTextEN": "became a Yue Lao."
+  },
+  {
+    "startTime": 270.733,
+    "endTime": 271.666,
+    "fullTextZH": "电影里呢，",
+    "words": [
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 270.774,
+        "endTime": 271.2,
+        "gloss": "movie"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 271.2,
+        "endTime": 271.423,
+        "gloss": "in"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 271.423,
+        "endTime": 271.625,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "In the movie,"
+  },
+  {
+    "startTime": 271.666,
+    "endTime": 274.233,
+    "fullTextZH": "告诉我们他怎么成为月老，",
+    "words": [
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 271.706,
+        "endTime": 272.147,
+        "gloss": "tell"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 272.147,
+        "endTime": 272.528,
+        "gloss": "us"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 272.528,
+        "endTime": 272.809,
+        "gloss": "he"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 272.809,
+        "endTime": 273.21,
+        "gloss": "how"
+      },
+      {
+        "word": "成为",
+        "pinyin": "chéng wéi",
+        "startTime": 273.21,
+        "endTime": 273.611,
+        "gloss": "become"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 273.611,
+        "endTime": 273.852,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 273.852,
+        "endTime": 274.193,
+        "gloss": "old"
+      }
+    ],
+    "fullTextEN": "It tells us how he became the matchmaker,"
+  },
+  {
+    "startTime": 274.233,
+    "endTime": 278.033,
+    "fullTextZH": "然后帮助大家找到真爱的故事。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 274.293,
+        "endTime": 274.816,
+        "gloss": "then"
+      },
+      {
+        "word": "帮助",
+        "pinyin": "bāng zhù",
+        "startTime": 274.816,
+        "endTime": 275.399,
+        "gloss": "help"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 275.399,
+        "endTime": 276.083,
+        "gloss": "everyone"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 276.083,
+        "endTime": 276.847,
+        "gloss": "find"
+      },
+      {
+        "word": "真爱",
+        "pinyin": "zhēn ài",
+        "startTime": 276.847,
+        "endTime": 277.309,
+        "gloss": "true love"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 277.309,
+        "endTime": 277.43,
+        "gloss": "particle"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 277.43,
+        "endTime": 278.013,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "and then helps everyone find true love stories."
+  },
+  {
+    "startTime": 278.466,
+    "endTime": 280.3,
+    "fullTextZH": "如果你觉得很有意思，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 278.526,
+        "endTime": 278.788,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 278.788,
+        "endTime": 278.93,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得很有",
+        "pinyin": "jué de hěn yǒu",
+        "startTime": 278.93,
+        "endTime": 279.675,
+        "gloss": "find very"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 279.675,
+        "endTime": 280.26,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "If you find it interesting,"
+  },
+  {
+    "startTime": 280.3,
+    "endTime": 282.666,
+    "fullTextZH": "你也可以在网络上找找看。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 280.36,
+        "endTime": 280.501,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 280.501,
+        "endTime": 280.701,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 280.701,
+        "endTime": 280.982,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 280.982,
+        "endTime": 281.222,
+        "gloss": "on"
+      },
+      {
+        "word": "网络",
+        "pinyin": "wǎng luò",
+        "startTime": 281.222,
+        "endTime": 281.623,
+        "gloss": "internet"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 281.623,
+        "endTime": 281.864,
+        "gloss": "on"
+      },
+      {
+        "word": "找找看",
+        "pinyin": "zhǎo zhǎo kàn",
+        "startTime": 281.864,
+        "endTime": 282.626,
+        "gloss": "search"
+      }
+    ],
+    "fullTextEN": "you can also search online."
+  },
+  {
+    "startTime": 282.866,
+    "endTime": 283.766,
+    "fullTextZH": "看完之后，",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 282.948,
+        "endTime": 283.152,
+        "gloss": "watch"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 283.152,
+        "endTime": 283.377,
+        "gloss": "finish"
+      },
+      {
+        "word": "之后",
+        "pinyin": "zhī hòu",
+        "startTime": 283.377,
+        "endTime": 283.746,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After watching,"
+  },
+  {
+    "startTime": 283.766,
+    "endTime": 284.666,
+    "fullTextZH": "你就会知道，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 283.827,
+        "endTime": 283.991,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 283.991,
+        "endTime": 284.134,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 284.134,
+        "endTime": 284.339,
+        "gloss": "will"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 284.339,
+        "endTime": 284.646,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "you will know,"
+  },
+  {
+    "startTime": 284.666,
+    "endTime": 288.366,
+    "fullTextZH": "为什么台湾人这么喜欢月老。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 284.827,
+        "endTime": 285.591,
+        "gloss": "why"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 285.591,
+        "endTime": 286.355,
+        "gloss": "Taiwanese"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 286.355,
+        "endTime": 287.099,
+        "gloss": "so"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 287.099,
+        "endTime": 287.582,
+        "gloss": "like"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 287.582,
+        "endTime": 287.863,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 287.863,
+        "endTime": 288.346,
+        "gloss": "old"
+      }
+    ],
+    "fullTextEN": "why Taiwanese people like the matchmaker so much."
+  },
+  {
+    "startTime": 288.666,
+    "endTime": 292.966,
+    "fullTextZH": "好啦，这就是今天介绍的月老的故事。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 288.787,
+        "endTime": 288.947,
+        "gloss": "good"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 288.947,
+        "endTime": 289.168,
+        "gloss": "particle"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 289.49,
+        "endTime": 289.63,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 289.63,
+        "endTime": 289.972,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 289.972,
+        "endTime": 290.555,
+        "gloss": "today"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 290.555,
+        "endTime": 291.077,
+        "gloss": "introduce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 291.077,
+        "endTime": 291.419,
+        "gloss": "particle"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 291.419,
+        "endTime": 291.76,
+        "gloss": "moon"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 291.76,
+        "endTime": 292.122,
+        "gloss": "old"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 292.122,
+        "endTime": 292.263,
+        "gloss": "particle"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 292.263,
+        "endTime": 292.805,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Alright, this is the story of the matchmaker introduced today."
+  },
+  {
+    "startTime": 293.233,
+    "endTime": 298.4,
+    "fullTextZH": "你们觉得这个是迷信还是真的呢？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 293.313,
+        "endTime": 293.794,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 293.794,
+        "endTime": 294.675,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 294.675,
+        "endTime": 294.915,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 294.915,
+        "endTime": 295.156,
+        "gloss": "is"
+      },
+      {
+        "word": "迷信",
+        "pinyin": "mí xìn",
+        "startTime": 295.156,
+        "endTime": 296.257,
+        "gloss": "superstition"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 296.257,
+        "endTime": 297.439,
+        "gloss": "or"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 297.439,
+        "endTime": 297.859,
+        "gloss": "real"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 297.859,
+        "endTime": 298.12,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Do you think this is superstition or real?"
+  },
+  {
+    "startTime": 298.9,
+    "endTime": 303.433,
+    "fullTextZH": "在你们的国家有没有这种特别的神呢？",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 299.02,
+        "endTime": 299.241,
+        "gloss": "in"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 299.241,
+        "endTime": 299.722,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 299.722,
+        "endTime": 299.863,
+        "gloss": "particle"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 299.863,
+        "endTime": 300.745,
+        "gloss": "country"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 300.745,
+        "endTime": 301.227,
+        "gloss": "is there"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 301.227,
+        "endTime": 301.848,
+        "gloss": "this kind"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 301.848,
+        "endTime": 302.43,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.43,
+        "endTime": 302.611,
+        "gloss": "particle"
+      },
+      {
+        "word": "神",
+        "pinyin": "shén",
+        "startTime": 302.611,
+        "endTime": 302.912,
+        "gloss": "god"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 302.912,
+        "endTime": 303.252,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Is there such a special god in your country?"
+  },
+  {
+    "startTime": 303.633,
+    "endTime": 305.833,
+    "fullTextZH": "如果下次你来台湾，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 303.714,
+        "endTime": 304.057,
+        "gloss": "if"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 304.057,
+        "endTime": 304.642,
+        "gloss": "next time"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 304.642,
+        "endTime": 304.844,
+        "gloss": "you"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 304.844,
+        "endTime": 305.086,
+        "gloss": "come"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 305.086,
+        "endTime": 305.793,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "If you come to Taiwan next time,"
+  },
+  {
+    "startTime": 305.866,
+    "endTime": 309.366,
+    "fullTextZH": "你会不会想去月老庙看一看，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 305.926,
+        "endTime": 306.087,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 306.087,
+        "endTime": 306.309,
+        "gloss": "will"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 306.309,
+        "endTime": 306.711,
+        "gloss": "not"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 306.711,
+        "endTime": 307.093,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 307.093,
+        "endTime": 307.355,
+        "gloss": "go"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 307.355,
+        "endTime": 307.596,
+        "gloss": "moon"
+      },
+      {
+        "word": "老庙",
+        "pinyin": "lǎo miào",
+        "startTime": 307.596,
+        "endTime": 308.26,
+        "gloss": "old temple"
+      },
+      {
+        "word": "看一看",
+        "pinyin": "kàn yī kàn",
+        "startTime": 308.26,
+        "endTime": 309.326,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "would you want to visit the matchmaker temple,"
+  },
+  {
+    "startTime": 309.433,
+    "endTime": 312.666,
+    "fullTextZH": "请他帮你找男朋友、女朋友呢？",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 309.634,
+        "endTime": 309.915,
+        "gloss": "ask"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 309.915,
+        "endTime": 310.136,
+        "gloss": "him"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 310.136,
+        "endTime": 310.317,
+        "gloss": "help"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 310.317,
+        "endTime": 310.497,
+        "gloss": "you"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 310.497,
+        "endTime": 310.778,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 310.778,
+        "endTime": 311.461,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 311.521,
+        "endTime": 312.144,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 312.144,
+        "endTime": 312.646,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "and ask him to help you find a boyfriend or girlfriend?"
+  },
+  {
+    "startTime": 313.166,
+    "endTime": 315.866,
+    "fullTextZH": "欢迎你在下面留言告诉我哦！",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 313.247,
+        "endTime": 313.589,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 313.589,
+        "endTime": 313.77,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 313.77,
+        "endTime": 314.153,
+        "gloss": "at"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 314.153,
+        "endTime": 314.576,
+        "gloss": "below"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 314.576,
+        "endTime": 314.919,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 314.919,
+        "endTime": 315.302,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 315.302,
+        "endTime": 315.503,
+        "gloss": "me"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 315.503,
+        "endTime": 315.826,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "You're welcome to leave a comment below and tell me!"
+  },
+  {
+    "startTime": 315.866,
+    "endTime": 318.866,
+    "fullTextZH": "那我们就下支影片见吧，再见！",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 315.947,
+        "endTime": 316.087,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 316.087,
+        "endTime": 316.389,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 316.389,
+        "endTime": 316.651,
+        "gloss": "then"
+      },
+      {
+        "word": "下支",
+        "pinyin": "xià zhī",
+        "startTime": 316.651,
+        "endTime": 317.054,
+        "gloss": "next"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 317.054,
+        "endTime": 317.477,
+        "gloss": "video"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 317.477,
+        "endTime": 317.718,
+        "gloss": "meet"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 317.718,
+        "endTime": 318.443,
+        "gloss": "particle"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 318.463,
+        "endTime": 318.846,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Then let's meet in the next video, goodbye!"
+  },
+  {
+    "startTime": 318.866,
+    "endTime": 320.433,
+    "fullTextZH": "拜拜！",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 318.926,
+        "endTime": 320.393,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Bye!"
+  }
+]

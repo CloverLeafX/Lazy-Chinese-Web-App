@@ -10,7 +10,10 @@ from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).parent.parent / ".env")   # root — shared keys
-load_dotenv(Path(__file__).parent / ".env")           # local — app-specific overrides
+try:
+    load_dotenv(Path(__file__).parent / ".env")       # local — app-specific overrides (may be cloud-only on OneDrive)
+except Exception:
+    pass
 
 import requests as _req
 from flask import (Blueprint, Flask, Response, abort, jsonify, redirect,
@@ -117,16 +120,23 @@ def logout():
 # ── Catalog ───────────────────────────────────────────────────────────────────
 
 def _load_catalog() -> list:
-    files = sorted(glob.glob(str(LAZY_CHINESE / "all_videos_*.json")), reverse=True)
-    if not files:
-        files = sorted(glob.glob(str(DATA_DIR / "all_videos_*.json")), reverse=True)
-    if not files:
-        # Fallback: bundled data dir inside the app repo
-        files = sorted(glob.glob(str(HERE / "data" / "all_videos_*.json")), reverse=True)
-    if not files:
+    candidates = []
+    for search_dir in (LAZY_CHINESE, DATA_DIR, HERE / "data"):
+        candidates += sorted(glob.glob(str(search_dir / "all_videos_*.json")), reverse=True)
+    videos_text = None
+    for path in candidates:
+        try:
+            videos_text = Path(path).read_text()
+            break
+        except OSError:
+            continue  # cloud-only OneDrive placeholder or other read error — try next
+    if not videos_text:
         return []
-    videos  = json.loads(Path(files[0]).read_text())
-    tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
+    videos  = json.loads(videos_text)
+    try:
+        tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
+    except OSError:
+        tracker = {}
 
     od_idx = _load_onedrive_index()
 
@@ -546,11 +556,36 @@ def api_xiaogua_stream(slug):
     except Exception as e:
         return jsonify({"error": str(e)}), 502
 
+@lazy_bp.route("/api/karaoke/cues/<video_id>")
+@login_required
+def api_karaoke_cues(video_id):
+    """Return pre-generated word-level karaoke JSON stored alongside the source files."""
+    try:
+        tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
+    except OSError:
+        tracker = {}
+    entry = tracker.get(video_id, {})
+    folder = entry.get("folder_path", "")
+    title  = entry.get("title", "")
+    if folder and title:
+        path = Path(folder) / f"{title}_karaoke.json"
+        if path.exists():
+            return path.read_text(encoding="utf-8"), 200, {"Content-Type": "application/json"}
+    # Fallback: bundled karaoke files committed to the repo under data/karaoke/
+    bundled = HERE / "data" / "karaoke" / f"{video_id}.json"
+    if bundled.exists():
+        return bundled.read_text(encoding="utf-8"), 200, {"Content-Type": "application/json"}
+    abort(404)
+
+
 @lazy_bp.route("/subtitle/<video_id>")
 @login_required
 def subtitle(video_id):
     script  = request.args.get("script", "simplified")
-    tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
+    try:
+        tracker = json.loads(TRACKER_PATH.read_text()) if TRACKER_PATH.exists() else {}
+    except OSError:
+        tracker = {}
     t       = tracker.get(video_id, {})
 
     rel_path = t.get("srt_tw_path") if script == "traditional" else t.get("srt_path")
@@ -790,6 +825,69 @@ def api_stats():
                       "watchedAt": e["watchedAt"].strftime("%Y-%m-%d %H:%M") if e["watchedAt"] else ""
                      } for e in recent],
     })
+
+# ── Subtitle Prototype ────────────────────────────────────────────────────────
+
+def _srt_ms(ts: str) -> int:
+    ts = ts.replace(',', '.')
+    h, m, s = ts.split(':')
+    return int((int(h) * 3600 + int(m) * 60 + float(s)) * 1000)
+
+
+def _parse_en_srt(text: str) -> list:
+    """Parse XG .en.srt blocks (index/timing/zh/pinyin/english) into cue dicts."""
+    cues = []
+    for block in re.split(r'\n\s*\n', text.strip()):
+        lines = [l.rstrip() for l in block.strip().splitlines()]
+        if len(lines) < 3:
+            continue
+        m = re.match(r'(\d+:\d+:\d+[,\.]\d+)\s*-->\s*(\d+:\d+:\d+[,\.]\d+)',
+                     lines[1] if len(lines) > 1 else '')
+        if not m:
+            continue
+        start  = _srt_ms(m.group(1))
+        end    = _srt_ms(m.group(2))
+        zh     = lines[2] if len(lines) > 2 else ''
+        third  = lines[3] if len(lines) > 3 else ''
+        fourth = lines[4] if len(lines) > 4 else ''
+        if third and re.search(r'[a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]', third):
+            py_line, english = third, fourth
+        else:
+            py_line, english = '', third
+        chars     = list(zh.strip())
+        syllables = py_line.split() if py_line else []
+        if syllables and len(syllables) == len(chars):
+            char_data = [{'c': c, 'p': p} for c, p in zip(chars, syllables)]
+        else:
+            char_data = [{'c': c, 'p': ''} for c in chars]
+        if char_data:
+            cues.append({'s': start, 'e': end, 'chars': char_data, 'en': english.strip()})
+    return cues
+
+
+@lazy_bp.route('/api/subtitle-proto/index')
+@login_required
+def api_subtitle_proto_index():
+    """Slugs that have .en.srt subtitle files (used by prototype picker)."""
+    vids_dir = XIAOGUA_DIR / 'videos'
+    slugs = sorted(p.parent.name for p in vids_dir.glob('*/*/*.en.srt')) if vids_dir.exists() else []
+    return jsonify(slugs)
+
+
+@lazy_bp.route('/api/subtitle-proto/cues/<slug>')
+@login_required
+def api_subtitle_proto_cues(slug):
+    if not XIAOGUA_INDEX.exists():
+        abort(404)
+    xg_videos = json.loads(XIAOGUA_INDEX.read_text())
+    entry = next((v for v in xg_videos if v.get('slug') == slug), None)
+    if not entry:
+        abort(404)
+    en_path = XIAOGUA_DIR / 'videos' / entry.get('level', '') / slug / f'{slug}.en.srt'
+    if not en_path.exists():
+        return jsonify([])
+    return jsonify(_parse_en_srt(en_path.read_text(encoding='utf-8')))
+
 
 # ── Boot ──────────────────────────────────────────────────────────────────────
 

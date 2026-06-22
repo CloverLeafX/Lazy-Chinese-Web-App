@@ -1,0 +1,4340 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 1.2,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.535,
+        "endTime": 1.16,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 1.8,
+    "endTime": 4.933,
+    "fullTextZH": "今天我要说",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.001,
+        "endTime": 3.447,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.447,
+        "endTime": 3.728,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 3.728,
+        "endTime": 4.491,
+        "gloss": "want to say"
+      }
+    ],
+    "fullTextEN": "Today I want to say"
+  },
+  {
+    "startTime": 5.6,
+    "endTime": 11.433,
+    "fullTextZH": "三个我觉得很难看",
+    "words": [
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 5.841,
+        "endTime": 7.604,
+        "gloss": "three"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 7.604,
+        "endTime": 8.086,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 8.086,
+        "endTime": 9.228,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 9.228,
+        "endTime": 9.95,
+        "gloss": "very"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 9.95,
+        "endTime": 10.952,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "three things I find very ugly"
+  },
+  {
+    "startTime": 11.6,
+    "endTime": 14.433,
+    "fullTextZH": "很辣眼睛的东西。",
+    "words": [
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 11.781,
+        "endTime": 12.806,
+        "gloss": "very spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 12.806,
+        "endTime": 13.69,
+        "gloss": "eyes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 13.69,
+        "endTime": 13.911,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 13.911,
+        "endTime": 14.413,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "very eye-burning things."
+  },
+  {
+    "startTime": 15.733,
+    "endTime": 19.633,
+    "fullTextZH": "辣眼睛是什么意思？",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 15.954,
+        "endTime": 16.557,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 16.557,
+        "endTime": 17.824,
+        "gloss": "eyes"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 17.824,
+        "endTime": 18.668,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 18.668,
+        "endTime": 19.13,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 19.13,
+        "endTime": 19.593,
+        "gloss": "meaning"
+      }
+    ],
+    "fullTextEN": "What does 'eye-burning' mean?"
+  },
+  {
+    "startTime": 20.766,
+    "endTime": 28.366,
+    "fullTextZH": "就是如果你觉得一个东西很难看，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 20.987,
+        "endTime": 22.19,
+        "gloss": "it is"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 22.19,
+        "endTime": 23.433,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 23.433,
+        "endTime": 23.874,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 23.874,
+        "endTime": 24.997,
+        "gloss": "think"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 24.997,
+        "endTime": 25.498,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 25.498,
+        "endTime": 27.002,
+        "gloss": "thing"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 27.002,
+        "endTime": 27.403,
+        "gloss": "very"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 27.403,
+        "endTime": 28.165,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "It's when you think something is very ugly,"
+  },
+  {
+    "startTime": 28.366,
+    "endTime": 32.266,
+    "fullTextZH": "然后你看到了",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 29.09,
+        "endTime": 29.994,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 29.994,
+        "endTime": 30.859,
+        "gloss": "you"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 30.859,
+        "endTime": 31.804,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 31.804,
+        "endTime": 31.824,
+        "gloss": "it"
+      }
+    ],
+    "fullTextEN": "and then you see it"
+  },
+  {
+    "startTime": 33.233,
+    "endTime": 38.1,
+    "fullTextZH": "好像你的眼睛吃了辣椒，",
+    "words": [
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 33.393,
+        "endTime": 34.415,
+        "gloss": "as if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 34.415,
+        "endTime": 34.635,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.635,
+        "endTime": 34.815,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 34.815,
+        "endTime": 36.157,
+        "gloss": "eyes"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 36.157,
+        "endTime": 36.518,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 36.518,
+        "endTime": 37.139,
+        "gloss": "past"
+      },
+      {
+        "word": "辣椒",
+        "pinyin": "là jiāo",
+        "startTime": 37.139,
+        "endTime": 38.06,
+        "gloss": "chili peppers"
+      }
+    ],
+    "fullTextEN": "as if your eyes ate chili peppers,"
+  },
+  {
+    "startTime": 38.733,
+    "endTime": 43.7,
+    "fullTextZH": "很辣，所以你的眼睛很痛，",
+    "words": [
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 38.893,
+        "endTime": 39.654,
+        "gloss": "very spicy"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 40.295,
+        "endTime": 41.116,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 41.116,
+        "endTime": 41.297,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 41.297,
+        "endTime": 41.457,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 41.457,
+        "endTime": 42.238,
+        "gloss": "eyes"
+      },
+      {
+        "word": "很痛",
+        "pinyin": "hěn tòng",
+        "startTime": 42.238,
+        "endTime": 43.239,
+        "gloss": "very hurt"
+      }
+    ],
+    "fullTextEN": "very spicy, so your eyes hurt,"
+  },
+  {
+    "startTime": 44.3,
+    "endTime": 51.166,
+    "fullTextZH": "所以如果你看到一个难看的东西，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 44.52,
+        "endTime": 45.521,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 45.521,
+        "endTime": 46.662,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 46.662,
+        "endTime": 47.163,
+        "gloss": "you"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 47.163,
+        "endTime": 48.384,
+        "gloss": "see"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 48.384,
+        "endTime": 49.384,
+        "gloss": "a"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 49.384,
+        "endTime": 50.465,
+        "gloss": "ugly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 50.465,
+        "endTime": 50.626,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 50.626,
+        "endTime": 51.146,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "so if you see something ugly,"
+  },
+  {
+    "startTime": 51.9,
+    "endTime": 54.266,
+    "fullTextZH": "你可以说",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 52.08,
+        "endTime": 52.542,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 52.542,
+        "endTime": 53.263,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 53.263,
+        "endTime": 53.284,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "you can say"
+  },
+  {
+    "startTime": 54.566,
+    "endTime": 56.066,
+    "fullTextZH": "辣眼睛。",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 54.809,
+        "endTime": 55.174,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 55.174,
+        "endTime": 56.025,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "eye-burning."
+  },
+  {
+    "startTime": 56.866,
+    "endTime": 63.566,
+    "fullTextZH": "第一个我觉得辣眼睛的东西",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 57.087,
+        "endTime": 58.752,
+        "gloss": "first"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 58.752,
+        "endTime": 59.313,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 59.313,
+        "endTime": 60.998,
+        "gloss": "think"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 60.998,
+        "endTime": 61.4,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 61.4,
+        "endTime": 62.142,
+        "gloss": "eyes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 62.142,
+        "endTime": 62.382,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 62.382,
+        "endTime": 62.924,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "The first thing I find eye-burning"
+  },
+  {
+    "startTime": 63.566,
+    "endTime": 64.366,
+    "fullTextZH": "是",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 63.833,
+        "endTime": 63.853,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "is"
+  },
+  {
+    "startTime": 64.866,
+    "endTime": 66.266,
+    "fullTextZH": "丝袜，",
+    "words": [
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 65.13,
+        "endTime": 66.225,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "stockings,"
+  },
+  {
+    "startTime": 67.4,
+    "endTime": 70.066,
+    "fullTextZH": "对，丝袜",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 67.6,
+        "endTime": 68.402,
+        "gloss": "yes"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 68.763,
+        "endTime": 69.605,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "yes, stockings"
+  },
+  {
+    "startTime": 70.9,
+    "endTime": 71.7,
+    "fullTextZH": "是",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 71.146,
+        "endTime": 71.167,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "is"
+  },
+  {
+    "startTime": 72.2,
+    "endTime": 74.933,
+    "fullTextZH": "黑色的丝袜吗？",
+    "words": [
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 72.381,
+        "endTime": 73.345,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 73.345,
+        "endTime": 73.727,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 73.727,
+        "endTime": 74.451,
+        "gloss": "stockings"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 74.451,
+        "endTime": 74.893,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "black stockings?"
+  },
+  {
+    "startTime": 75.3,
+    "endTime": 76.1,
+    "fullTextZH": "不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 75.382,
+        "endTime": 76.059,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No,"
+  },
+  {
+    "startTime": 76.666,
+    "endTime": 80.266,
+    "fullTextZH": "不是黑色的丝袜，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 76.907,
+        "endTime": 78.094,
+        "gloss": "not"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 78.094,
+        "endTime": 78.979,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 78.979,
+        "endTime": 79.462,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 79.462,
+        "endTime": 80.226,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "not black stockings,"
+  },
+  {
+    "startTime": 80.9,
+    "endTime": 84.033,
+    "fullTextZH": "我觉得有时候",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 81.041,
+        "endTime": 81.864,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 81.864,
+        "endTime": 83.109,
+        "gloss": "think"
+      },
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 83.109,
+        "endTime": 83.852,
+        "gloss": "sometimes"
+      }
+    ],
+    "fullTextEN": "I think sometimes"
+  },
+  {
+    "startTime": 84.433,
+    "endTime": 87.3,
+    "fullTextZH": "黑色的丝袜",
+    "words": [
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 84.613,
+        "endTime": 85.415,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 85.415,
+        "endTime": 85.736,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 85.736,
+        "endTime": 86.097,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "Black stockings"
+  },
+  {
+    "startTime": 87.766,
+    "endTime": 89.633,
+    "fullTextZH": "很好看。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 87.927,
+        "endTime": 88.649,
+        "gloss": "very"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 88.649,
+        "endTime": 89.593,
+        "gloss": "nice-looking"
+      }
+    ],
+    "fullTextEN": "Look very nice."
+  },
+  {
+    "startTime": 90.833,
+    "endTime": 94.4,
+    "fullTextZH": "是白色的丝袜吗？",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 91.033,
+        "endTime": 92.015,
+        "gloss": "are"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 92.015,
+        "endTime": 92.957,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 92.957,
+        "endTime": 93.278,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 93.278,
+        "endTime": 93.899,
+        "gloss": "stockings"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 93.899,
+        "endTime": 94.36,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Are they white stockings?"
+  },
+  {
+    "startTime": 94.6,
+    "endTime": 95.4,
+    "fullTextZH": "不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 94.867,
+        "endTime": 95.359,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No,"
+  },
+  {
+    "startTime": 95.933,
+    "endTime": 99.533,
+    "fullTextZH": "不是白色的丝袜，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 96.174,
+        "endTime": 97.461,
+        "gloss": "not"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 97.461,
+        "endTime": 98.447,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 98.447,
+        "endTime": 98.769,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 98.769,
+        "endTime": 99.493,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "They are not white stockings,"
+  },
+  {
+    "startTime": 100.766,
+    "endTime": 105.166,
+    "fullTextZH": "我觉得白色的丝袜",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 100.907,
+        "endTime": 101.409,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 101.409,
+        "endTime": 102.474,
+        "gloss": "think"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 102.474,
+        "endTime": 103.338,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 103.338,
+        "endTime": 103.639,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 103.639,
+        "endTime": 103.94,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "I think white stockings"
+  },
+  {
+    "startTime": 105.366,
+    "endTime": 107.2,
+    "fullTextZH": "不很好看，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 105.628,
+        "endTime": 105.95,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 105.95,
+        "endTime": 106.293,
+        "gloss": "very"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 106.293,
+        "endTime": 107.16,
+        "gloss": "nice-looking"
+      }
+    ],
+    "fullTextEN": "don't look very nice,"
+  },
+  {
+    "startTime": 107.266,
+    "endTime": 110.966,
+    "fullTextZH": "可是不辣眼睛。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 107.527,
+        "endTime": 108.473,
+        "gloss": "but"
+      },
+      {
+        "word": "不辣",
+        "pinyin": "bù là",
+        "startTime": 108.473,
+        "endTime": 109.92,
+        "gloss": "not"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 109.92,
+        "endTime": 110.926,
+        "gloss": "eye-catching"
+      }
+    ],
+    "fullTextEN": "but they are not eye-catching."
+  },
+  {
+    "startTime": 112.066,
+    "endTime": 114.833,
+    "fullTextZH": "是什么丝袜？",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 112.307,
+        "endTime": 113.048,
+        "gloss": "are"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 113.048,
+        "endTime": 114.011,
+        "gloss": "what"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 114.011,
+        "endTime": 114.793,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "What kind of stockings?"
+  },
+  {
+    "startTime": 115.566,
+    "endTime": 117.2,
+    "fullTextZH": "是这个",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 115.788,
+        "endTime": 116.474,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 116.474,
+        "endTime": 116.756,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "It's this"
+  },
+  {
+    "startTime": 118.4,
+    "endTime": 120.933,
+    "fullTextZH": "肉色丝袜，",
+    "words": [
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 118.641,
+        "endTime": 120.048,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 120.048,
+        "endTime": 120.893,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "flesh-colored stockings,"
+  },
+  {
+    "startTime": 122.233,
+    "endTime": 123.7,
+    "fullTextZH": "什么颜色？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 122.394,
+        "endTime": 122.836,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 122.836,
+        "endTime": 123.66,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "What color?"
+  },
+  {
+    "startTime": 124.733,
+    "endTime": 127.333,
+    "fullTextZH": "对，肉色，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 124.894,
+        "endTime": 125.055,
+        "gloss": "yes"
+      },
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 126.063,
+        "endTime": 127.293,
+        "gloss": "flesh-colored"
+      }
+    ],
+    "fullTextEN": "Yes, flesh-colored,"
+  },
+  {
+    "startTime": 128.233,
+    "endTime": 129.8,
+    "fullTextZH": "肉的颜色。",
+    "words": [
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 128.414,
+        "endTime": 128.796,
+        "gloss": "flesh"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 128.796,
+        "endTime": 128.936,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 128.936,
+        "endTime": 129.76,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "The color of flesh."
+  },
+  {
+    "startTime": 131.066,
+    "endTime": 134.266,
+    "fullTextZH": "如果一个人穿",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 131.287,
+        "endTime": 132.414,
+        "gloss": "if"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 132.414,
+        "endTime": 132.938,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 132.938,
+        "endTime": 133.3,
+        "gloss": "person"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 133.3,
+        "endTime": 133.32,
+        "gloss": "wears"
+      }
+    ],
+    "fullTextEN": "If a person wears"
+  },
+  {
+    "startTime": 134.833,
+    "endTime": 136.966,
+    "fullTextZH": "肉色的丝袜，",
+    "words": [
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 135.054,
+        "endTime": 135.819,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 135.819,
+        "endTime": 136.121,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 136.121,
+        "endTime": 136.926,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "flesh-colored stockings,"
+  },
+  {
+    "startTime": 137.233,
+    "endTime": 140.633,
+    "fullTextZH": "看起来像什么 ？",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 137.414,
+        "endTime": 139.285,
+        "gloss": "look"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 139.285,
+        "endTime": 139.869,
+        "gloss": "like"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 139.869,
+        "endTime": 140.593,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "what do they look like?"
+  },
+  {
+    "startTime": 141.233,
+    "endTime": 145.033,
+    "fullTextZH": "我觉得看起来像",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 141.434,
+        "endTime": 141.937,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 141.937,
+        "endTime": 143.143,
+        "gloss": "think"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 143.143,
+        "endTime": 144.55,
+        "gloss": "look"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 144.55,
+        "endTime": 144.571,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I think they look like"
+  },
+  {
+    "startTime": 145.433,
+    "endTime": 147.266,
+    "fullTextZH": "假的腿，",
+    "words": [
+      {
+        "word": "假",
+        "pinyin": "jiǎ",
+        "startTime": 145.634,
+        "endTime": 146.259,
+        "gloss": "fake"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 146.259,
+        "endTime": 146.843,
+        "gloss": "of"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 146.843,
+        "endTime": 147.226,
+        "gloss": "legs"
+      }
+    ],
+    "fullTextEN": "fake legs,"
+  },
+  {
+    "startTime": 148.5,
+    "endTime": 151.233,
+    "fullTextZH": "不是真的腿，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 148.721,
+        "endTime": 150.047,
+        "gloss": "not"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 150.047,
+        "endTime": 150.811,
+        "gloss": "real"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 150.811,
+        "endTime": 151.193,
+        "gloss": "leg"
+      }
+    ],
+    "fullTextEN": "It's not a real leg,"
+  },
+  {
+    "startTime": 151.733,
+    "endTime": 158.066,
+    "fullTextZH": "所以我觉得不好看，辣眼睛。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 151.953,
+        "endTime": 152.775,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 152.775,
+        "endTime": 153.136,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 153.136,
+        "endTime": 154.278,
+        "gloss": "think"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 154.278,
+        "endTime": 154.719,
+        "gloss": "not"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 154.719,
+        "endTime": 156.282,
+        "gloss": "good-looking"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 156.483,
+        "endTime": 157.084,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 157.084,
+        "endTime": 158.026,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "so I think it's not good-looking, it's an eyesore."
+  },
+  {
+    "startTime": 159.4,
+    "endTime": 167.433,
+    "fullTextZH": "可是很多很多中国人穿肉色的丝袜，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 159.6,
+        "endTime": 160.562,
+        "gloss": "but"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 160.562,
+        "endTime": 162.605,
+        "gloss": "many many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 162.605,
+        "endTime": 163.226,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 163.226,
+        "endTime": 163.947,
+        "gloss": "people"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 163.947,
+        "endTime": 165.269,
+        "gloss": "wear"
+      },
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 165.269,
+        "endTime": 166.071,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 166.071,
+        "endTime": 166.371,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 166.371,
+        "endTime": 167.393,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "But many, many Chinese people wear flesh-colored stockings,"
+  },
+  {
+    "startTime": 167.433,
+    "endTime": 168.566,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 167.635,
+        "endTime": 168.526,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 169.333,
+    "endTime": 170.833,
+    "fullTextZH": "我不明白，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 169.556,
+        "endTime": 169.86,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 169.86,
+        "endTime": 170.042,
+        "gloss": "not"
+      },
+      {
+        "word": "明白",
+        "pinyin": "míng bái",
+        "startTime": 170.042,
+        "endTime": 170.792,
+        "gloss": "understand"
+      }
+    ],
+    "fullTextEN": "I don't understand,"
+  },
+  {
+    "startTime": 171.5,
+    "endTime": 179.233,
+    "fullTextZH": "你呢？你觉得肉色的丝袜好看？难看？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 171.7,
+        "endTime": 171.881,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 171.881,
+        "endTime": 172.241,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 172.762,
+        "endTime": 173.223,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 173.223,
+        "endTime": 174.545,
+        "gloss": "think"
+      },
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 174.545,
+        "endTime": 175.367,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 175.367,
+        "endTime": 175.667,
+        "gloss": "of"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 175.667,
+        "endTime": 176.689,
+        "gloss": "stockings"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 176.689,
+        "endTime": 177.41,
+        "gloss": "good-looking"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 178.011,
+        "endTime": 179.193,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "What about you? Do you think flesh-colored stockings look good? Ugly?"
+  },
+  {
+    "startTime": 179.7,
+    "endTime": 186.1,
+    "fullTextZH": "你觉得看起来像假腿吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 179.881,
+        "endTime": 180.262,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 180.262,
+        "endTime": 181.506,
+        "gloss": "think"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 181.506,
+        "endTime": 183.412,
+        "gloss": "look"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 183.412,
+        "endTime": 184.314,
+        "gloss": "like"
+      },
+      {
+        "word": "假",
+        "pinyin": "jiǎ",
+        "startTime": 184.314,
+        "endTime": 185.157,
+        "gloss": "fake"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 185.157,
+        "endTime": 185.578,
+        "gloss": "leg"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 185.578,
+        "endTime": 186.06,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you think they look like fake legs?"
+  },
+  {
+    "startTime": 187.033,
+    "endTime": 194.166,
+    "fullTextZH": "对，这是第一个我觉得难看的东西",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 187.213,
+        "endTime": 187.454,
+        "gloss": "yes"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 188.375,
+        "endTime": 189.177,
+        "gloss": "this is"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 189.177,
+        "endTime": 190.459,
+        "gloss": "first"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 190.459,
+        "endTime": 191.401,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 191.401,
+        "endTime": 192.603,
+        "gloss": "think"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 192.603,
+        "endTime": 193.505,
+        "gloss": "ugly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 193.505,
+        "endTime": 193.665,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 193.665,
+        "endTime": 194.146,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Yes, this is the first thing I find ugly"
+  },
+  {
+    "startTime": 194.866,
+    "endTime": 197.4,
+    "fullTextZH": "辣眼睛的东西，",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 195.067,
+        "endTime": 195.912,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 195.912,
+        "endTime": 196.716,
+        "gloss": "eyes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 196.716,
+        "endTime": 196.897,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 196.897,
+        "endTime": 197.38,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "an eyesore,"
+  },
+  {
+    "startTime": 198.366,
+    "endTime": 200.766,
+    "fullTextZH": "肉色丝袜。",
+    "words": [
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 198.548,
+        "endTime": 199.838,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 199.838,
+        "endTime": 200.726,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "flesh-colored stockings."
+  },
+  {
+    "startTime": 201.933,
+    "endTime": 206.9,
+    "fullTextZH": "第二个我觉得难看的东西",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 202.133,
+        "endTime": 203.816,
+        "gloss": "second"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 203.816,
+        "endTime": 204.276,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 204.276,
+        "endTime": 205.338,
+        "gloss": "think"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 205.338,
+        "endTime": 206.239,
+        "gloss": "ugly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 206.239,
+        "endTime": 206.419,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 206.419,
+        "endTime": 206.88,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "The second thing I find ugly"
+  },
+  {
+    "startTime": 207.566,
+    "endTime": 209.833,
+    "fullTextZH": "辣眼睛的东西",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 207.767,
+        "endTime": 208.288,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 208.288,
+        "endTime": 209.171,
+        "gloss": "eyes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 209.171,
+        "endTime": 209.352,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 209.352,
+        "endTime": 209.753,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "an eyesore"
+  },
+  {
+    "startTime": 210.333,
+    "endTime": 212.633,
+    "fullTextZH": "是鞋子。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 210.494,
+        "endTime": 211.544,
+        "gloss": "is"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 211.544,
+        "endTime": 212.593,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "is shoes."
+  },
+  {
+    "startTime": 213.533,
+    "endTime": 214.833,
+    "fullTextZH": "什么鞋子？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 213.695,
+        "endTime": 214.061,
+        "gloss": "what"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 214.061,
+        "endTime": 214.792,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "What shoes?"
+  },
+  {
+    "startTime": 215.3,
+    "endTime": 217.1,
+    "fullTextZH": "运动鞋吗？",
+    "words": [
+      {
+        "word": "运动鞋",
+        "pinyin": "yùn dòng xié",
+        "startTime": 215.462,
+        "endTime": 216.675,
+        "gloss": "sneakers"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 216.675,
+        "endTime": 217.06,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Sneakers?"
+  },
+  {
+    "startTime": 217.233,
+    "endTime": 221.066,
+    "fullTextZH": "不，不是运动鞋。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 217.434,
+        "endTime": 217.855,
+        "gloss": "no"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 218.618,
+        "endTime": 219.762,
+        "gloss": "not"
+      },
+      {
+        "word": "运动鞋",
+        "pinyin": "yùn dòng xié",
+        "startTime": 219.762,
+        "endTime": 221.026,
+        "gloss": "sneakers"
+      }
+    ],
+    "fullTextEN": "No, not sneakers."
+  },
+  {
+    "startTime": 222.4,
+    "endTime": 224.266,
+    "fullTextZH": "雨鞋吗？",
+    "words": [
+      {
+        "word": "雨鞋",
+        "pinyin": "yǔ xié",
+        "startTime": 222.641,
+        "endTime": 223.784,
+        "gloss": "rain boots"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 223.784,
+        "endTime": 224.226,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Rain boots?"
+  },
+  {
+    "startTime": 225.166,
+    "endTime": 229.833,
+    "fullTextZH": "下雨的时候穿的鞋子？",
+    "words": [
+      {
+        "word": "下雨",
+        "pinyin": "xià yǔ",
+        "startTime": 225.346,
+        "endTime": 226.007,
+        "gloss": "rain"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 226.007,
+        "endTime": 226.228,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 226.228,
+        "endTime": 227.229,
+        "gloss": "time"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 227.229,
+        "endTime": 227.61,
+        "gloss": "wear"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 227.61,
+        "endTime": 227.83,
+        "gloss": "of"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 227.83,
+        "endTime": 229.192,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "Shoes worn when it rains?"
+  },
+  {
+    "startTime": 230.233,
+    "endTime": 232.866,
+    "fullTextZH": "不， 不是雨鞋。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 230.454,
+        "endTime": 230.675,
+        "gloss": "no"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 230.695,
+        "endTime": 231.801,
+        "gloss": "not"
+      },
+      {
+        "word": "雨鞋",
+        "pinyin": "yǔ xié",
+        "startTime": 231.801,
+        "endTime": 232.826,
+        "gloss": "rain boots"
+      }
+    ],
+    "fullTextEN": "No, not rain boots."
+  },
+  {
+    "startTime": 233.633,
+    "endTime": 237.566,
+    "fullTextZH": "是这个，洞洞鞋，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 233.834,
+        "endTime": 234.396,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 234.396,
+        "endTime": 235.198,
+        "gloss": "this"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 235.62,
+        "endTime": 237.044,
+        "gloss": "hole hole"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 237.044,
+        "endTime": 237.546,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "It's these, Crocs,"
+  },
+  {
+    "startTime": 238.866,
+    "endTime": 244.5,
+    "fullTextZH": "洞洞鞋就是有很多洞洞的鞋子。",
+    "words": [
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 239.046,
+        "endTime": 239.949,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 239.949,
+        "endTime": 240.691,
+        "gloss": "shoes"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 240.691,
+        "endTime": 241.192,
+        "gloss": "just"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 241.192,
+        "endTime": 241.573,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 241.573,
+        "endTime": 242.415,
+        "gloss": "many"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 242.415,
+        "endTime": 243.137,
+        "gloss": "holes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 243.137,
+        "endTime": 243.678,
+        "gloss": "of"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 243.678,
+        "endTime": 244.46,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "Clogs are shoes with many holes."
+  },
+  {
+    "startTime": 245.633,
+    "endTime": 251.5,
+    "fullTextZH": "为什么我觉得洞洞鞋很难看",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 245.813,
+        "endTime": 246.935,
+        "gloss": "why"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 246.935,
+        "endTime": 247.675,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 247.675,
+        "endTime": 248.677,
+        "gloss": "think"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 248.677,
+        "endTime": 249.478,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 249.478,
+        "endTime": 250.158,
+        "gloss": "shoes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 250.158,
+        "endTime": 250.599,
+        "gloss": "very"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 250.599,
+        "endTime": 251.039,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "Why do I think clogs are ugly?"
+  },
+  {
+    "startTime": 251.633,
+    "endTime": 253.7,
+    "fullTextZH": "很辣眼睛，",
+    "words": [
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 251.773,
+        "endTime": 252.797,
+        "gloss": "very"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 252.797,
+        "endTime": 253.66,
+        "gloss": "eye"
+      }
+    ],
+    "fullTextEN": "Very eye-burning,"
+  },
+  {
+    "startTime": 254.466,
+    "endTime": 261.6,
+    "fullTextZH": "因为我觉得洞洞鞋看起来很大。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 254.706,
+        "endTime": 255.749,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 255.749,
+        "endTime": 256.25,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 256.25,
+        "endTime": 257.352,
+        "gloss": "think"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 257.352,
+        "endTime": 258.133,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 258.133,
+        "endTime": 258.975,
+        "gloss": "shoes"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 258.975,
+        "endTime": 260.518,
+        "gloss": "look"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 260.518,
+        "endTime": 261.56,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "Because I think clogs look very big."
+  },
+  {
+    "startTime": 262.466,
+    "endTime": 268.766,
+    "fullTextZH": "如果你穿好看的衣服和裙子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 262.667,
+        "endTime": 263.81,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 263.81,
+        "endTime": 264.212,
+        "gloss": "you"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 264.212,
+        "endTime": 265.054,
+        "gloss": "wear"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 265.054,
+        "endTime": 265.897,
+        "gloss": "nice"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 265.897,
+        "endTime": 266.098,
+        "gloss": "of"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 266.098,
+        "endTime": 266.92,
+        "gloss": "clothes"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 266.92,
+        "endTime": 267.823,
+        "gloss": "and"
+      },
+      {
+        "word": "裙子",
+        "pinyin": "qún zi",
+        "startTime": 267.823,
+        "endTime": 268.726,
+        "gloss": "skirts"
+      }
+    ],
+    "fullTextEN": "If you wear nice clothes and skirts,"
+  },
+  {
+    "startTime": 269.366,
+    "endTime": 270.533,
+    "fullTextZH": "裙子，",
+    "words": [
+      {
+        "word": "裙子",
+        "pinyin": "qún zi",
+        "startTime": 269.587,
+        "endTime": 270.513,
+        "gloss": "skirts"
+      }
+    ],
+    "fullTextEN": "Skirts,"
+  },
+  {
+    "startTime": 271.4,
+    "endTime": 275.333,
+    "fullTextZH": "然后你再穿洞洞鞋，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 271.641,
+        "endTime": 272.464,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 272.464,
+        "endTime": 272.865,
+        "gloss": "you"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 272.865,
+        "endTime": 273.487,
+        "gloss": "again"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 273.487,
+        "endTime": 274.069,
+        "gloss": "wear"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 274.069,
+        "endTime": 274.851,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 274.851,
+        "endTime": 275.293,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "Then you wear clogs,"
+  },
+  {
+    "startTime": 275.9,
+    "endTime": 278.6,
+    "fullTextZH": "我觉得很难看",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 276.101,
+        "endTime": 276.343,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 276.343,
+        "endTime": 277.27,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 277.27,
+        "endTime": 277.713,
+        "gloss": "very"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 277.713,
+        "endTime": 278.157,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "I think it's very ugly"
+  },
+  {
+    "startTime": 278.666,
+    "endTime": 280.666,
+    "fullTextZH": "很辣眼睛。",
+    "words": [
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 278.828,
+        "endTime": 279.737,
+        "gloss": "very"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 279.737,
+        "endTime": 280.626,
+        "gloss": "eye"
+      }
+    ],
+    "fullTextEN": "Very eye-burning."
+  },
+  {
+    "startTime": 281.8,
+    "endTime": 287.9,
+    "fullTextZH": "可是如果是一个孩子穿洞洞鞋，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 282.021,
+        "endTime": 282.984,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 282.984,
+        "endTime": 283.686,
+        "gloss": "if"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 283.686,
+        "endTime": 283.907,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 283.907,
+        "endTime": 284.689,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 284.689,
+        "endTime": 285.974,
+        "gloss": "child"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 285.974,
+        "endTime": 286.716,
+        "gloss": "wears"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 286.716,
+        "endTime": 287.418,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 287.418,
+        "endTime": 287.86,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "But if a child wears clogs,"
+  },
+  {
+    "startTime": 288.1,
+    "endTime": 290.8,
+    "fullTextZH": "我觉得很可爱，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 288.342,
+        "endTime": 288.523,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 288.523,
+        "endTime": 289.47,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 289.47,
+        "endTime": 289.994,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 289.994,
+        "endTime": 290.76,
+        "gloss": "cute"
+      }
+    ],
+    "fullTextEN": "I think it's very cute,"
+  },
+  {
+    "startTime": 292.1,
+    "endTime": 296.933,
+    "fullTextZH": "所以我不喜欢洞洞鞋。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 292.541,
+        "endTime": 293.343,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 293.343,
+        "endTime": 294.346,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 294.346,
+        "endTime": 294.767,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 294.767,
+        "endTime": 295.69,
+        "gloss": "like"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 295.69,
+        "endTime": 296.612,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 296.612,
+        "endTime": 296.913,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "So I don't like clogs."
+  },
+  {
+    "startTime": 297.0,
+    "endTime": 298.933,
+    "fullTextZH": "因为很大，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 297.443,
+        "endTime": 298.107,
+        "gloss": "because"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 298.107,
+        "endTime": 298.893,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "Because they are very big,"
+  },
+  {
+    "startTime": 300.066,
+    "endTime": 308.0,
+    "fullTextZH": "你呢？你觉得洞洞鞋好看还是难看？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 300.286,
+        "endTime": 300.507,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 300.507,
+        "endTime": 300.767,
+        "gloss": "呢"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 301.288,
+        "endTime": 301.709,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 301.709,
+        "endTime": 302.731,
+        "gloss": "think"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 302.731,
+        "endTime": 303.472,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 303.472,
+        "endTime": 304.374,
+        "gloss": "shoes"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 304.374,
+        "endTime": 305.596,
+        "gloss": "nice"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 305.596,
+        "endTime": 307.038,
+        "gloss": "or"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 307.038,
+        "endTime": 307.96,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "What about you? Do you think clogs are nice or ugly?"
+  },
+  {
+    "startTime": 308.766,
+    "endTime": 313.933,
+    "fullTextZH": "你觉得洞洞鞋辣眼睛吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 308.966,
+        "endTime": 309.307,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 309.307,
+        "endTime": 310.328,
+        "gloss": "think"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 310.328,
+        "endTime": 311.109,
+        "gloss": "holes"
+      },
+      {
+        "word": "鞋辣",
+        "pinyin": "xié là",
+        "startTime": 311.109,
+        "endTime": 312.691,
+        "gloss": "shoes"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 312.691,
+        "endTime": 313.472,
+        "gloss": "eye-burning"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 313.472,
+        "endTime": 313.893,
+        "gloss": "吗"
+      }
+    ],
+    "fullTextEN": "Do you think clogs are eye-burning?"
+  },
+  {
+    "startTime": 315.133,
+    "endTime": 319.566,
+    "fullTextZH": "第三个我觉得难看",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 315.334,
+        "endTime": 317.159,
+        "gloss": "third"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 317.159,
+        "endTime": 317.58,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 317.58,
+        "endTime": 318.663,
+        "gloss": "think"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 318.663,
+        "endTime": 319.145,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "The third one I think is ugly"
+  },
+  {
+    "startTime": 319.966,
+    "endTime": 322.866,
+    "fullTextZH": "辣眼睛的东西是",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 320.188,
+        "endTime": 320.631,
+        "gloss": "eye-burning"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 320.631,
+        "endTime": 321.356,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 321.356,
+        "endTime": 321.537,
+        "gloss": "are"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 321.537,
+        "endTime": 322.363,
+        "gloss": ""
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 322.363,
+        "endTime": 322.383,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Eye-burning things are"
+  },
+  {
+    "startTime": 323.4,
+    "endTime": 326.3,
+    "fullTextZH": "北京比基尼。",
+    "words": [
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 323.622,
+        "endTime": 325.011,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 325.011,
+        "endTime": 326.26,
+        "gloss": "bikini"
+      }
+    ],
+    "fullTextEN": "Beijing bikini."
+  },
+  {
+    "startTime": 327.166,
+    "endTime": 330.533,
+    "fullTextZH": "什么是北京比基尼？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 327.326,
+        "endTime": 327.787,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 327.787,
+        "endTime": 328.589,
+        "gloss": "is"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 328.589,
+        "endTime": 329.531,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 329.531,
+        "endTime": 330.493,
+        "gloss": "bikini"
+      }
+    ],
+    "fullTextEN": "What is a Beijing bikini?"
+  },
+  {
+    "startTime": 332.333,
+    "endTime": 334.933,
+    "fullTextZH": "比基尼是这个，",
+    "words": [
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 332.535,
+        "endTime": 333.945,
+        "gloss": "bikini"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 333.945,
+        "endTime": 334.328,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 334.328,
+        "endTime": 334.893,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "A bikini is this,"
+  },
+  {
+    "startTime": 335.933,
+    "endTime": 338.1,
+    "fullTextZH": "比基尼好看，",
+    "words": [
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 336.094,
+        "endTime": 337.317,
+        "gloss": "bikini"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 337.317,
+        "endTime": 338.06,
+        "gloss": "look good"
+      }
+    ],
+    "fullTextEN": "Bikinis look good,"
+  },
+  {
+    "startTime": 339.433,
+    "endTime": 344.1,
+    "fullTextZH": "可是什么是北京比基尼？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 339.633,
+        "endTime": 340.595,
+        "gloss": "but"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 340.595,
+        "endTime": 341.015,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 341.015,
+        "endTime": 341.897,
+        "gloss": "is"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 341.897,
+        "endTime": 343.139,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 343.139,
+        "endTime": 344.06,
+        "gloss": "bikini"
+      }
+    ],
+    "fullTextEN": "But what is a Beijing bikini?"
+  },
+  {
+    "startTime": 345.566,
+    "endTime": 347.866,
+    "fullTextZH": "在中国北京",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 345.768,
+        "endTime": 346.272,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 346.272,
+        "endTime": 347.039,
+        "gloss": "China"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 347.039,
+        "endTime": 347.442,
+        "gloss": "Beijing"
+      }
+    ],
+    "fullTextEN": "In Beijing, China"
+  },
+  {
+    "startTime": 348.366,
+    "endTime": 351.8,
+    "fullTextZH": "有的男人很热的时候，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 348.527,
+        "endTime": 348.788,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 348.788,
+        "endTime": 348.968,
+        "gloss": "of"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 348.968,
+        "endTime": 350.133,
+        "gloss": "men"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 350.133,
+        "endTime": 350.695,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 350.695,
+        "endTime": 351.137,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 351.137,
+        "endTime": 351.358,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 351.358,
+        "endTime": 351.76,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Some men, when it's very hot,"
+  },
+  {
+    "startTime": 352.366,
+    "endTime": 358.866,
+    "fullTextZH": "他们会把衣服，T恤拉上来，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 352.547,
+        "endTime": 353.429,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 353.429,
+        "endTime": 353.79,
+        "gloss": "will"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 353.79,
+        "endTime": 354.292,
+        "gloss": "take"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 354.292,
+        "endTime": 355.435,
+        "gloss": "clothes"
+      },
+      {
+        "word": "T恤",
+        "pinyin": "T xù",
+        "startTime": 356.659,
+        "endTime": 356.9,
+        "gloss": "T-shirt"
+      },
+      {
+        "word": "拉上来",
+        "pinyin": "lā shàng lái",
+        "startTime": 356.9,
+        "endTime": 358.826,
+        "gloss": "pull up"
+      }
+    ],
+    "fullTextEN": "they will pull up their clothes, T-shirts,"
+  },
+  {
+    "startTime": 359.566,
+    "endTime": 364.3,
+    "fullTextZH": "然后你可以看到他们的肚子 ，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 359.767,
+        "endTime": 360.79,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 360.79,
+        "endTime": 361.351,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 361.351,
+        "endTime": 361.953,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 361.953,
+        "endTime": 362.916,
+        "gloss": "see"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 362.916,
+        "endTime": 363.317,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 363.317,
+        "endTime": 363.558,
+        "gloss": "of"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 363.558,
+        "endTime": 364.26,
+        "gloss": "belly"
+      }
+    ],
+    "fullTextEN": "then you can see their bellies,"
+  },
+  {
+    "startTime": 366.266,
+    "endTime": 370.233,
+    "fullTextZH": "所以我们叫北京比基尼。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 366.426,
+        "endTime": 367.228,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 367.228,
+        "endTime": 367.769,
+        "gloss": "we"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 367.769,
+        "endTime": 368.39,
+        "gloss": "call"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 368.39,
+        "endTime": 369.291,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 369.291,
+        "endTime": 370.193,
+        "gloss": "bikini"
+      }
+    ],
+    "fullTextEN": "so we call it the Beijing bikini."
+  },
+  {
+    "startTime": 371.133,
+    "endTime": 376.033,
+    "fullTextZH": "为什么北京比基尼辣眼睛？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 371.294,
+        "endTime": 372.478,
+        "gloss": "why"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 372.478,
+        "endTime": 373.262,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 373.262,
+        "endTime": 374.547,
+        "gloss": "bikini"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 374.547,
+        "endTime": 375.19,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 375.19,
+        "endTime": 375.993,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "Why is the Beijing bikini an eyesore?"
+  },
+  {
+    "startTime": 377.0,
+    "endTime": 382.333,
+    "fullTextZH": "因为穿北京比基尼的男人",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 377.221,
+        "endTime": 378.303,
+        "gloss": "because"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 378.303,
+        "endTime": 379.125,
+        "gloss": "wear"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 379.125,
+        "endTime": 380.007,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 380.007,
+        "endTime": 380.869,
+        "gloss": "bikini"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 380.869,
+        "endTime": 381.391,
+        "gloss": "of"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 381.391,
+        "endTime": 381.812,
+        "gloss": "men"
+      }
+    ],
+    "fullTextEN": "Because the men wearing Beijing bikinis"
+  },
+  {
+    "startTime": 382.6,
+    "endTime": 385.533,
+    "fullTextZH": "太胖了，",
+    "words": [
+      {
+        "word": "太胖",
+        "pinyin": "tài pàng",
+        "startTime": 383.625,
+        "endTime": 385.031,
+        "gloss": "too fat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 385.031,
+        "endTime": 385.493,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "are too fat,"
+  },
+  {
+    "startTime": 386.5,
+    "endTime": 389.8,
+    "fullTextZH": "他们有肌肉吗？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 386.741,
+        "endTime": 387.506,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 387.506,
+        "endTime": 388.492,
+        "gloss": "have"
+      },
+      {
+        "word": "肌肉",
+        "pinyin": "jī ròu",
+        "startTime": 388.492,
+        "endTime": 389.317,
+        "gloss": "muscles"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 389.317,
+        "endTime": 389.76,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do they have muscles?"
+  },
+  {
+    "startTime": 390.233,
+    "endTime": 394.733,
+    "fullTextZH": "不，,他们没有肌肉，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 390.494,
+        "endTime": 390.675,
+        "gloss": "no"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 391.559,
+        "endTime": 392.443,
+        "gloss": "they"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 392.443,
+        "endTime": 393.789,
+        "gloss": "don't have"
+      },
+      {
+        "word": "肌肉",
+        "pinyin": "jī ròu",
+        "startTime": 393.789,
+        "endTime": 394.693,
+        "gloss": "muscles"
+      }
+    ],
+    "fullTextEN": "No, they don't have muscles,"
+  },
+  {
+    "startTime": 396.133,
+    "endTime": 398.566,
+    "fullTextZH": "他们有肥肉吗？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 396.314,
+        "endTime": 396.716,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 396.716,
+        "endTime": 397.38,
+        "gloss": "have"
+      },
+      {
+        "word": "肥肉",
+        "pinyin": "féi ròu",
+        "startTime": 397.38,
+        "endTime": 398.164,
+        "gloss": "fat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 398.164,
+        "endTime": 398.526,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do they have fat?"
+  },
+  {
+    "startTime": 399.466,
+    "endTime": 403.9,
+    "fullTextZH": "对，他们有很多很多肥肉，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 399.606,
+        "endTime": 399.927,
+        "gloss": "yes"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 400.59,
+        "endTime": 401.031,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 401.031,
+        "endTime": 401.452,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 401.452,
+        "endTime": 403.097,
+        "gloss": "many many"
+      },
+      {
+        "word": "肥肉",
+        "pinyin": "féi ròu",
+        "startTime": 403.097,
+        "endTime": 403.86,
+        "gloss": "fat"
+      }
+    ],
+    "fullTextEN": "Yes, they have a lot of fat,"
+  },
+  {
+    "startTime": 404.933,
+    "endTime": 410.366,
+    "fullTextZH": "他们有啤酒肚吗？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 405.113,
+        "endTime": 405.655,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 405.655,
+        "endTime": 406.677,
+        "gloss": "have"
+      },
+      {
+        "word": "啤酒肚",
+        "pinyin": "pí jiǔ dù",
+        "startTime": 406.677,
+        "endTime": 408.842,
+        "gloss": "beer belly"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 408.842,
+        "endTime": 409.324,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do they have beer bellies?"
+  },
+  {
+    "startTime": 410.366,
+    "endTime": 415.8,
+    "fullTextZH": "对，他们有很大很大的啤酒肚，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 410.587,
+        "endTime": 410.787,
+        "gloss": "yes"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 411.389,
+        "endTime": 411.73,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 411.73,
+        "endTime": 412.09,
+        "gloss": "have"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 412.09,
+        "endTime": 413.013,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 413.013,
+        "endTime": 413.755,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 413.755,
+        "endTime": 414.296,
+        "gloss": "of"
+      },
+      {
+        "word": "啤酒肚",
+        "pinyin": "pí jiǔ dù",
+        "startTime": 414.296,
+        "endTime": 415.76,
+        "gloss": "beer belly"
+      }
+    ],
+    "fullTextEN": "Yes, they have very big beer bellies,"
+  },
+  {
+    "startTime": 417.133,
+    "endTime": 423.9,
+    "fullTextZH": "所以我觉得北京比基尼很辣眼睛。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 417.353,
+        "endTime": 418.254,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 418.254,
+        "endTime": 418.695,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 418.695,
+        "endTime": 419.716,
+        "gloss": "think"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 419.716,
+        "endTime": 420.657,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 420.657,
+        "endTime": 421.938,
+        "gloss": "bikini"
+      },
+      {
+        "word": "很辣",
+        "pinyin": "hěn là",
+        "startTime": 421.938,
+        "endTime": 422.939,
+        "gloss": "very spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 422.939,
+        "endTime": 423.86,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "So I think the Beijing bikini is an eyesore."
+  },
+  {
+    "startTime": 425.266,
+    "endTime": 428.566,
+    "fullTextZH": "如果他们有肌肉，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 425.507,
+        "endTime": 426.614,
+        "gloss": "if"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 426.614,
+        "endTime": 427.157,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 427.157,
+        "endTime": 427.681,
+        "gloss": "have"
+      },
+      {
+        "word": "肌肉",
+        "pinyin": "jī ròu",
+        "startTime": 427.681,
+        "endTime": 428.526,
+        "gloss": "muscles"
+      }
+    ],
+    "fullTextEN": "If they had muscles,"
+  },
+  {
+    "startTime": 429.066,
+    "endTime": 431.6,
+    "fullTextZH": "没有肥肉，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 429.227,
+        "endTime": 430.534,
+        "gloss": "no"
+      },
+      {
+        "word": "肥肉",
+        "pinyin": "féi ròu",
+        "startTime": 430.534,
+        "endTime": 431.56,
+        "gloss": "fat"
+      }
+    ],
+    "fullTextEN": "no fat,"
+  },
+  {
+    "startTime": 432.233,
+    "endTime": 434.866,
+    "fullTextZH": "没有啤酒肚，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 432.374,
+        "endTime": 433.499,
+        "gloss": "no"
+      },
+      {
+        "word": "啤酒肚",
+        "pinyin": "pí jiǔ dù",
+        "startTime": 433.499,
+        "endTime": 434.826,
+        "gloss": "beer belly"
+      }
+    ],
+    "fullTextEN": "no beer belly,"
+  },
+  {
+    "startTime": 435.366,
+    "endTime": 442.966,
+    "fullTextZH": "那我觉得他们可以不穿衣服，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 435.546,
+        "endTime": 436.509,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 436.509,
+        "endTime": 436.97,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 436.97,
+        "endTime": 438.053,
+        "gloss": "think"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 438.053,
+        "endTime": 439.136,
+        "gloss": "they"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 439.136,
+        "endTime": 440.399,
+        "gloss": "can"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 440.399,
+        "endTime": 441.622,
+        "gloss": "not"
+      },
+      {
+        "word": "穿衣服",
+        "pinyin": "chuān yī fú",
+        "startTime": 441.622,
+        "endTime": 442.926,
+        "gloss": "wear clothes"
+      }
+    ],
+    "fullTextEN": "Then I think they can go without clothes,"
+  },
+  {
+    "startTime": 443.6,
+    "endTime": 445.166,
+    "fullTextZH": "你觉得呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 443.741,
+        "endTime": 444.202,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 444.202,
+        "endTime": 444.724,
+        "gloss": "think"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 444.724,
+        "endTime": 445.126,
+        "gloss": "what about"
+      }
+    ],
+    "fullTextEN": "What do you think?"
+  },
+  {
+    "startTime": 445.7,
+    "endTime": 450.033,
+    "fullTextZH": "你见过北京比基尼吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 445.86,
+        "endTime": 446.623,
+        "gloss": "you"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 446.623,
+        "endTime": 447.184,
+        "gloss": "see"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 447.184,
+        "endTime": 447.806,
+        "gloss": "ever"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 447.806,
+        "endTime": 448.709,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 448.709,
+        "endTime": 449.572,
+        "gloss": "bikini"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 449.572,
+        "endTime": 449.993,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you seen the Beijing bikini?"
+  },
+  {
+    "startTime": 450.833,
+    "endTime": 455.633,
+    "fullTextZH": "你觉得好看还是难看？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 450.994,
+        "endTime": 451.576,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 451.576,
+        "endTime": 452.761,
+        "gloss": "think"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 452.761,
+        "endTime": 453.866,
+        "gloss": "good-looking"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 453.866,
+        "endTime": 454.769,
+        "gloss": "or"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 454.769,
+        "endTime": 455.593,
+        "gloss": "bad-looking"
+      }
+    ],
+    "fullTextEN": "Do you think it looks good or bad?"
+  },
+  {
+    "startTime": 456.3,
+    "endTime": 461.933,
+    "fullTextZH": "你觉得北京比基尼辣眼睛吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 456.48,
+        "endTime": 456.801,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 456.801,
+        "endTime": 457.723,
+        "gloss": "think"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 457.723,
+        "endTime": 458.585,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 458.585,
+        "endTime": 459.928,
+        "gloss": "bikini"
+      },
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 459.928,
+        "endTime": 460.55,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 460.55,
+        "endTime": 461.512,
+        "gloss": "eyes"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 461.512,
+        "endTime": 461.893,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you think the Beijing bikini is an eyesore?"
+  },
+  {
+    "startTime": 463.2,
+    "endTime": 470.5,
+    "fullTextZH": "好，所以今天我说了三个难看",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 463.421,
+        "endTime": 464.343,
+        "gloss": "okay"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 464.423,
+        "endTime": 465.185,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 465.185,
+        "endTime": 466.128,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 466.128,
+        "endTime": 466.69,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 466.69,
+        "endTime": 467.051,
+        "gloss": "talk"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 467.051,
+        "endTime": 467.773,
+        "gloss": "past"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 467.773,
+        "endTime": 469.397,
+        "gloss": "three"
+      },
+      {
+        "word": "难看",
+        "pinyin": "nán kàn",
+        "startTime": 469.397,
+        "endTime": 470.059,
+        "gloss": "ugly"
+      }
+    ],
+    "fullTextEN": "Okay, so today I talked about three eyesores"
+  },
+  {
+    "startTime": 470.533,
+    "endTime": 472.7,
+    "fullTextZH": "辣眼睛的东西",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 470.734,
+        "endTime": 471.235,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 471.235,
+        "endTime": 472.018,
+        "gloss": "eyes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 472.018,
+        "endTime": 472.198,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 472.198,
+        "endTime": 472.66,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "things that are an eyesore"
+  },
+  {
+    "startTime": 473.333,
+    "endTime": 477.433,
+    "fullTextZH": "第一个是肉色丝袜，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 473.554,
+        "endTime": 474.458,
+        "gloss": "first"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 474.458,
+        "endTime": 475.283,
+        "gloss": "is"
+      },
+      {
+        "word": "肉色",
+        "pinyin": "ròu sè",
+        "startTime": 475.283,
+        "endTime": 476.569,
+        "gloss": "flesh-colored"
+      },
+      {
+        "word": "丝袜",
+        "pinyin": "sī wà",
+        "startTime": 476.569,
+        "endTime": 477.393,
+        "gloss": "stockings"
+      }
+    ],
+    "fullTextEN": "The first is flesh-colored stockings,"
+  },
+  {
+    "startTime": 478.0,
+    "endTime": 481.433,
+    "fullTextZH": "第二个是洞洞鞋，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 478.221,
+        "endTime": 479.445,
+        "gloss": "second"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 479.445,
+        "endTime": 480.048,
+        "gloss": "is"
+      },
+      {
+        "word": "洞洞",
+        "pinyin": "dòng dòng",
+        "startTime": 480.048,
+        "endTime": 480.951,
+        "gloss": "holey"
+      },
+      {
+        "word": "鞋",
+        "pinyin": "xié",
+        "startTime": 480.951,
+        "endTime": 481.393,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "The second is Crocs,"
+  },
+  {
+    "startTime": 481.8,
+    "endTime": 486.6,
+    "fullTextZH": "第三个是北京比基尼。",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 482.061,
+        "endTime": 483.668,
+        "gloss": "third"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 483.668,
+        "endTime": 484.411,
+        "gloss": "is"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 484.411,
+        "endTime": 485.495,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "比基尼",
+        "pinyin": "bǐ jī ní",
+        "startTime": 485.495,
+        "endTime": 486.56,
+        "gloss": "bikini"
+      }
+    ],
+    "fullTextEN": "The third is the Beijing bikini."
+  },
+  {
+    "startTime": 487.4,
+    "endTime": 491.033,
+    "fullTextZH": "你觉得哪个",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 487.581,
+        "endTime": 488.022,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 488.022,
+        "endTime": 489.267,
+        "gloss": "think"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 489.267,
+        "endTime": 489.789,
+        "gloss": "which"
+      }
+    ],
+    "fullTextEN": "Which do you think"
+  },
+  {
+    "startTime": 491.033,
+    "endTime": 492.6,
+    "fullTextZH": "辣眼睛？",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 491.294,
+        "endTime": 491.676,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 491.676,
+        "endTime": 492.56,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "is an eyesore?"
+  },
+  {
+    "startTime": 493.5,
+    "endTime": 495.766,
+    "fullTextZH": "在你的国家",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 493.68,
+        "endTime": 494.483,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 494.483,
+        "endTime": 494.844,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 494.844,
+        "endTime": 495.064,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 495.064,
+        "endTime": 495.365,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "In your country"
+  },
+  {
+    "startTime": 496.566,
+    "endTime": 499.333,
+    "fullTextZH": "你觉得什么东西",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 496.706,
+        "endTime": 497.067,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 497.067,
+        "endTime": 498.391,
+        "gloss": "think"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 498.391,
+        "endTime": 498.872,
+        "gloss": "what"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 498.872,
+        "endTime": 499.293,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "what do you think is an eyesore?"
+  },
+  {
+    "startTime": 499.9,
+    "endTime": 501.4,
+    "fullTextZH": "辣眼睛？",
+    "words": [
+      {
+        "word": "辣",
+        "pinyin": "là",
+        "startTime": 500.062,
+        "endTime": 500.589,
+        "gloss": "spicy"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 500.589,
+        "endTime": 501.359,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "is an eyesore?"
+  },
+  {
+    "startTime": 502.4,
+    "endTime": 504.266,
+    "fullTextZH": "留言告诉我，",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 502.54,
+        "endTime": 503.363,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 503.363,
+        "endTime": 503.885,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 503.885,
+        "endTime": 504.226,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment and tell me,"
+  },
+  {
+    "startTime": 504.766,
+    "endTime": 507.466,
+    "fullTextZH": "谢谢下次见拜拜！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 504.967,
+        "endTime": 505.935,
+        "gloss": "thanks"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 505.935,
+        "endTime": 506.579,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 506.579,
+        "endTime": 507.083,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 507.083,
+        "endTime": 507.426,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Thanks, see you next time, bye!"
+  }
+]

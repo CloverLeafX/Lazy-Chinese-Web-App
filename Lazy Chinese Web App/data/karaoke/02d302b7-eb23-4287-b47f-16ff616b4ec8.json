@@ -1,0 +1,7256 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 1.233,
+    "fullTextZH": "你好，",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.081,
+        "endTime": 1.193,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 1.266,
+    "endTime": 4.866,
+    "fullTextZH": "今天我们要猜一个东西。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 1.306,
+        "endTime": 2.272,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 2.272,
+        "endTime": 2.553,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 2.553,
+        "endTime": 3.056,
+        "gloss": "will"
+      },
+      {
+        "word": "猜",
+        "pinyin": "cāi",
+        "startTime": 3.056,
+        "endTime": 3.659,
+        "gloss": "guess"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 3.659,
+        "endTime": 3.981,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 3.981,
+        "endTime": 4.826,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Today we are going to guess something."
+  },
+  {
+    "startTime": 4.9,
+    "endTime": 6.1,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 5.022,
+        "endTime": 6.059,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 6.133,
+    "endTime": 7.566,
+    "fullTextZH": "有两个东西，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 6.234,
+        "endTime": 6.436,
+        "gloss": "there are"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 6.436,
+        "endTime": 6.94,
+        "gloss": "two"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 6.94,
+        "endTime": 7.546,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "There are two things,"
+  },
+  {
+    "startTime": 7.633,
+    "endTime": 10.0,
+    "fullTextZH": "它们一样高，",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 7.713,
+        "endTime": 8.155,
+        "gloss": "they"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 8.155,
+        "endTime": 8.917,
+        "gloss": "same"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 8.917,
+        "endTime": 9.96,
+        "gloss": "height"
+      }
+    ],
+    "fullTextEN": "They are the same height,"
+  },
+  {
+    "startTime": 10.033,
+    "endTime": 13.066,
+    "fullTextZH": "然后呢它们一起吃饭，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 10.113,
+        "endTime": 10.515,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 10.515,
+        "endTime": 10.796,
+        "gloss": "particle"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 10.796,
+        "endTime": 11.198,
+        "gloss": "they"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 11.198,
+        "endTime": 11.981,
+        "gloss": "together"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 11.981,
+        "endTime": 13.026,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Then they eat together,"
+  },
+  {
+    "startTime": 13.1,
+    "endTime": 15.966,
+    "fullTextZH": "它们一起洗澡。",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 13.2,
+        "endTime": 13.541,
+        "gloss": "they"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 13.541,
+        "endTime": 14.282,
+        "gloss": "together"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 14.282,
+        "endTime": 15.926,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "They bathe together."
+  },
+  {
+    "startTime": 16.033,
+    "endTime": 19.066,
+    "fullTextZH": "这两个东西是什么？",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 16.033,
+        "endTime": 16.656,
+        "gloss": "these"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 16.656,
+        "endTime": 17.158,
+        "gloss": "two"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 17.158,
+        "endTime": 17.921,
+        "gloss": "things"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 17.921,
+        "endTime": 18.443,
+        "gloss": "are"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 18.443,
+        "endTime": 19.026,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What are these two things?"
+  },
+  {
+    "startTime": 21.433,
+    "endTime": 23.533,
+    "fullTextZH": "它们是筷子，",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 21.494,
+        "endTime": 21.978,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 21.978,
+        "endTime": 22.645,
+        "gloss": "are"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 22.645,
+        "endTime": 23.493,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "They are chopsticks,"
+  },
+  {
+    "startTime": 23.933,
+    "endTime": 24.766,
+    "fullTextZH": "筷子，",
+    "words": [
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 24.035,
+        "endTime": 24.746,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Chopsticks,"
+  },
+  {
+    "startTime": 24.833,
+    "endTime": 26.333,
+    "fullTextZH": "它们一样高，",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 24.894,
+        "endTime": 25.218,
+        "gloss": "they"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 25.218,
+        "endTime": 25.765,
+        "gloss": "same"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 25.765,
+        "endTime": 26.292,
+        "gloss": "height"
+      }
+    ],
+    "fullTextEN": "They are the same height,"
+  },
+  {
+    "startTime": 26.4,
+    "endTime": 28.3,
+    "fullTextZH": "它们一起吃饭，",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 26.461,
+        "endTime": 26.764,
+        "gloss": "they"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 26.764,
+        "endTime": 27.37,
+        "gloss": "together"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 27.37,
+        "endTime": 28.26,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "They eat together,"
+  },
+  {
+    "startTime": 28.333,
+    "endTime": 29.766,
+    "fullTextZH": "一起吃饭，",
+    "words": [
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 28.474,
+        "endTime": 28.979,
+        "gloss": "together"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 28.979,
+        "endTime": 29.726,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Eat together,"
+  },
+  {
+    "startTime": 29.833,
+    "endTime": 32.3,
+    "fullTextZH": "然后它们一起洗澡。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 29.933,
+        "endTime": 30.254,
+        "gloss": "then"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 30.254,
+        "endTime": 30.615,
+        "gloss": "they"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 30.615,
+        "endTime": 31.237,
+        "gloss": "together"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 31.237,
+        "endTime": 32.26,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "Then they bathe together."
+  },
+  {
+    "startTime": 32.333,
+    "endTime": 34.166,
+    "fullTextZH": "洗澡",
+    "words": [
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 32.414,
+        "endTime": 32.635,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "Bathe"
+  },
+  {
+    "startTime": 34.166,
+    "endTime": 38.6,
+    "fullTextZH": "为什么中国人发明了筷子？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 34.407,
+        "endTime": 35.41,
+        "gloss": "why"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 35.41,
+        "endTime": 35.932,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 35.932,
+        "endTime": 36.453,
+        "gloss": "people"
+      },
+      {
+        "word": "发明",
+        "pinyin": "fā míng",
+        "startTime": 36.453,
+        "endTime": 37.095,
+        "gloss": "invent"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 37.095,
+        "endTime": 37.517,
+        "gloss": "particle"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 37.517,
+        "endTime": 38.56,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Why did Chinese people invent chopsticks?"
+  },
+  {
+    "startTime": 38.666,
+    "endTime": 44.166,
+    "fullTextZH": "为什么中国人不用手抓饭而是用筷子呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 38.726,
+        "endTime": 39.228,
+        "gloss": "why"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 39.228,
+        "endTime": 39.609,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 39.609,
+        "endTime": 39.951,
+        "gloss": "people"
+      },
+      {
+        "word": "不用",
+        "pinyin": "bù yòng",
+        "startTime": 39.951,
+        "endTime": 40.493,
+        "gloss": "not use"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 40.493,
+        "endTime": 41.255,
+        "gloss": "hands"
+      },
+      {
+        "word": "抓饭",
+        "pinyin": "zhuā fàn",
+        "startTime": 41.255,
+        "endTime": 42.319,
+        "gloss": "grab food"
+      },
+      {
+        "word": "而是",
+        "pinyin": "ér shì",
+        "startTime": 42.319,
+        "endTime": 42.821,
+        "gloss": "instead"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 42.821,
+        "endTime": 43.243,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 43.243,
+        "endTime": 43.845,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 43.845,
+        "endTime": 44.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Why do Chinese people use chopsticks instead of hands to eat?"
+  },
+  {
+    "startTime": 44.9,
+    "endTime": 46.733,
+    "fullTextZH": "有一个故事，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 44.96,
+        "endTime": 45.142,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 45.142,
+        "endTime": 45.645,
+        "gloss": "a"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 45.645,
+        "endTime": 46.693,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "There is a story,"
+  },
+  {
+    "startTime": 47.066,
+    "endTime": 48.833,
+    "fullTextZH": "很久很久以前，",
+    "words": [
+      {
+        "word": "很久很久",
+        "pinyin": "hěn jiǔ hěn jiǔ",
+        "startTime": 47.126,
+        "endTime": 48.11,
+        "gloss": "long long"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 48.11,
+        "endTime": 48.793,
+        "gloss": "ago"
+      }
+    ],
+    "fullTextEN": "A long, long time ago,"
+  },
+  {
+    "startTime": 48.866,
+    "endTime": 49.766,
+    "fullTextZH": "有一个人，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 48.968,
+        "endTime": 49.132,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 49.132,
+        "endTime": 49.5,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 49.5,
+        "endTime": 49.746,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "There was a person,"
+  },
+  {
+    "startTime": 49.833,
+    "endTime": 52.4,
+    "fullTextZH": "他叫大禹。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 49.873,
+        "endTime": 50.134,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 50.134,
+        "endTime": 50.595,
+        "gloss": "called"
+      },
+      {
+        "word": "大禹",
+        "pinyin": "dà yǔ",
+        "startTime": 50.595,
+        "endTime": 52.36,
+        "gloss": "Dayu"
+      }
+    ],
+    "fullTextEN": "He is called Dayu."
+  },
+  {
+    "startTime": 52.433,
+    "endTime": 55.533,
+    "fullTextZH": "大禹是一个很忙很忙的人，",
+    "words": [
+      {
+        "word": "大禹",
+        "pinyin": "dà yǔ",
+        "startTime": 52.574,
+        "endTime": 53.158,
+        "gloss": "Dayu"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 53.158,
+        "endTime": 53.339,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 53.339,
+        "endTime": 53.802,
+        "gloss": "a"
+      },
+      {
+        "word": "很忙",
+        "pinyin": "hěn máng",
+        "startTime": 53.802,
+        "endTime": 54.466,
+        "gloss": "very busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.466,
+        "endTime": 54.647,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 54.647,
+        "endTime": 54.969,
+        "gloss": "busy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 54.969,
+        "endTime": 55.11,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 55.11,
+        "endTime": 55.493,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Dayu is a very busy person,"
+  },
+  {
+    "startTime": 55.966,
+    "endTime": 59.766,
+    "fullTextZH": "那个时候中国有一个很大的问题，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 56.026,
+        "endTime": 56.449,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 56.449,
+        "endTime": 57.052,
+        "gloss": "time"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 57.052,
+        "endTime": 57.534,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 57.534,
+        "endTime": 57.715,
+        "gloss": "had"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 57.715,
+        "endTime": 58.198,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 58.198,
+        "endTime": 58.821,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.821,
+        "endTime": 58.942,
+        "gloss": "of"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 58.942,
+        "endTime": 59.726,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "At that time, China had a big problem,"
+  },
+  {
+    "startTime": 59.833,
+    "endTime": 62.833,
+    "fullTextZH": "中国有很多洪水，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 59.873,
+        "endTime": 60.377,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 60.377,
+        "endTime": 60.598,
+        "gloss": "had"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 60.598,
+        "endTime": 61.383,
+        "gloss": "many"
+      },
+      {
+        "word": "洪水",
+        "pinyin": "hóng shuǐ",
+        "startTime": 61.383,
+        "endTime": 62.813,
+        "gloss": "floods"
+      }
+    ],
+    "fullTextEN": "China had many floods,"
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 66.833,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 66.081,
+        "endTime": 66.792,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 66.866,
+    "endTime": 71.933,
+    "fullTextZH": "大禹的工作就是他要解决洪水的问题。",
+    "words": [
+      {
+        "word": "大禹",
+        "pinyin": "dà yǔ",
+        "startTime": 67.126,
+        "endTime": 67.507,
+        "gloss": "Dayu"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 67.507,
+        "endTime": 67.687,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 67.687,
+        "endTime": 68.448,
+        "gloss": "job"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 68.448,
+        "endTime": 69.049,
+        "gloss": "is"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 69.049,
+        "endTime": 69.209,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 69.209,
+        "endTime": 69.51,
+        "gloss": "must"
+      },
+      {
+        "word": "解决",
+        "pinyin": "jiě jué",
+        "startTime": 69.51,
+        "endTime": 70.531,
+        "gloss": "solve"
+      },
+      {
+        "word": "洪水",
+        "pinyin": "hóng shuǐ",
+        "startTime": 70.531,
+        "endTime": 71.172,
+        "gloss": "flood"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 71.172,
+        "endTime": 71.292,
+        "gloss": "of"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 71.292,
+        "endTime": 71.913,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "Dayu's job was to solve the flood problem."
+  },
+  {
+    "startTime": 72.7,
+    "endTime": 76.4,
+    "fullTextZH": "那个时候中国没有筷子。",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 72.801,
+        "endTime": 73.343,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 73.343,
+        "endTime": 73.987,
+        "gloss": "time"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 73.987,
+        "endTime": 74.711,
+        "gloss": "China"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 74.711,
+        "endTime": 75.294,
+        "gloss": "didn't have"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 75.294,
+        "endTime": 76.36,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "At that time, China didn't have chopsticks."
+  },
+  {
+    "startTime": 76.466,
+    "endTime": 77.933,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 76.546,
+        "endTime": 77.893,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 77.966,
+    "endTime": 80.033,
+    "fullTextZH": "中国人做饭，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 78.046,
+        "endTime": 78.428,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 78.428,
+        "endTime": 78.829,
+        "gloss": "people"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 78.829,
+        "endTime": 79.993,
+        "gloss": "cook"
+      }
+    ],
+    "fullTextEN": "Chinese people cooked,"
+  },
+  {
+    "startTime": 80.1,
+    "endTime": 85.166,
+    "fullTextZH": "然后呢中国人要等这个饭菜凉了，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 80.2,
+        "endTime": 80.581,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 80.581,
+        "endTime": 80.921,
+        "gloss": "particle"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 80.921,
+        "endTime": 81.341,
+        "gloss": "China"
+      },
+      {
+        "word": "人要",
+        "pinyin": "rén yào",
+        "startTime": 81.341,
+        "endTime": 81.962,
+        "gloss": "people must"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 81.962,
+        "endTime": 82.843,
+        "gloss": "wait"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 82.843,
+        "endTime": 83.244,
+        "gloss": "this"
+      },
+      {
+        "word": "饭菜",
+        "pinyin": "fàn cài",
+        "startTime": 83.244,
+        "endTime": 84.165,
+        "gloss": "food"
+      },
+      {
+        "word": "凉",
+        "pinyin": "liáng",
+        "startTime": 84.165,
+        "endTime": 84.685,
+        "gloss": "cool"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 84.685,
+        "endTime": 85.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "and then Chinese people had to wait for the food to cool down,"
+  },
+  {
+    "startTime": 85.233,
+    "endTime": 88.133,
+    "fullTextZH": "然后我们才可以吃。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 85.314,
+        "endTime": 85.636,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 85.636,
+        "endTime": 86.059,
+        "gloss": "we"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 86.059,
+        "endTime": 86.441,
+        "gloss": "only then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 86.441,
+        "endTime": 86.925,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 86.925,
+        "endTime": 88.093,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "and then we could eat."
+  },
+  {
+    "startTime": 88.166,
+    "endTime": 91.2,
+    "fullTextZH": "可是大禹很忙很忙，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 88.246,
+        "endTime": 89.01,
+        "gloss": "but"
+      },
+      {
+        "word": "大禹",
+        "pinyin": "dà yǔ",
+        "startTime": 89.01,
+        "endTime": 89.794,
+        "gloss": "Dayu"
+      },
+      {
+        "word": "很忙",
+        "pinyin": "hěn máng",
+        "startTime": 89.794,
+        "endTime": 90.396,
+        "gloss": "very busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 90.396,
+        "endTime": 90.617,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 90.617,
+        "endTime": 91.16,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "But Dayu was very busy,"
+  },
+  {
+    "startTime": 91.266,
+    "endTime": 93.366,
+    "fullTextZH": "他有很多很多工作，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 91.327,
+        "endTime": 91.468,
+        "gloss": "he"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 91.468,
+        "endTime": 91.67,
+        "gloss": "had"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 91.67,
+        "endTime": 92.599,
+        "gloss": "many many"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 92.599,
+        "endTime": 93.326,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "He had a lot of work,"
+  },
+  {
+    "startTime": 93.433,
+    "endTime": 96.0,
+    "fullTextZH": "他没有时间等，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 93.473,
+        "endTime": 93.654,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 93.654,
+        "endTime": 94.175,
+        "gloss": "didn't have"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 94.175,
+        "endTime": 94.937,
+        "gloss": "time"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 94.937,
+        "endTime": 95.96,
+        "gloss": "wait"
+      }
+    ],
+    "fullTextEN": "He didn't have time to wait,"
+  },
+  {
+    "startTime": 96.033,
+    "endTime": 96.9,
+    "fullTextZH": "所以呢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 96.114,
+        "endTime": 96.456,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 96.456,
+        "endTime": 96.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 96.933,
+    "endTime": 101.033,
+    "fullTextZH": "他就发明了筷子。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 97.013,
+        "endTime": 97.335,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 97.335,
+        "endTime": 98.983,
+        "gloss": "then"
+      },
+      {
+        "word": "发明",
+        "pinyin": "fā míng",
+        "startTime": 98.983,
+        "endTime": 99.546,
+        "gloss": "invented"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 99.546,
+        "endTime": 99.948,
+        "gloss": "particle"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 99.948,
+        "endTime": 100.993,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "he invented chopsticks."
+  },
+  {
+    "startTime": 101.1,
+    "endTime": 105.2,
+    "fullTextZH": "他拿了两根树枝，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 101.18,
+        "endTime": 101.623,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 101.623,
+        "endTime": 101.944,
+        "gloss": "took"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 101.944,
+        "endTime": 102.748,
+        "gloss": "particle"
+      },
+      {
+        "word": "两根",
+        "pinyin": "liǎng gēn",
+        "startTime": 102.748,
+        "endTime": 103.853,
+        "gloss": "two"
+      },
+      {
+        "word": "树枝",
+        "pinyin": "shù zhī",
+        "startTime": 103.853,
+        "endTime": 105.16,
+        "gloss": "branches"
+      }
+    ],
+    "fullTextEN": "He took two branches,"
+  },
+  {
+    "startTime": 105.266,
+    "endTime": 106.966,
+    "fullTextZH": "两根树枝，",
+    "words": [
+      {
+        "word": "两根",
+        "pinyin": "liǎng gēn",
+        "startTime": 105.286,
+        "endTime": 105.914,
+        "gloss": "two"
+      },
+      {
+        "word": "树枝",
+        "pinyin": "shù zhī",
+        "startTime": 105.914,
+        "endTime": 106.926,
+        "gloss": "branches"
+      }
+    ],
+    "fullTextEN": "Two branches,"
+  },
+  {
+    "startTime": 107.033,
+    "endTime": 107.6,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 107.094,
+        "endTime": 107.58,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right,"
+  },
+  {
+    "startTime": 107.633,
+    "endTime": 109.6,
+    "fullTextZH": "这是他的筷子。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 107.693,
+        "endTime": 107.954,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 107.954,
+        "endTime": 108.195,
+        "gloss": "is"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 108.195,
+        "endTime": 108.396,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 108.396,
+        "endTime": 108.596,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 108.596,
+        "endTime": 109.56,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "These were his chopsticks."
+  },
+  {
+    "startTime": 109.633,
+    "endTime": 112.433,
+    "fullTextZH": "饭菜很烫的时候，",
+    "words": [
+      {
+        "word": "饭菜",
+        "pinyin": "fàn cài",
+        "startTime": 109.714,
+        "endTime": 110.68,
+        "gloss": "food"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 110.68,
+        "endTime": 111.124,
+        "gloss": "very"
+      },
+      {
+        "word": "烫",
+        "pinyin": "tàng",
+        "startTime": 111.124,
+        "endTime": 111.607,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.607,
+        "endTime": 111.768,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 111.768,
+        "endTime": 112.393,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When the food is very hot,"
+  },
+  {
+    "startTime": 112.466,
+    "endTime": 116.066,
+    "fullTextZH": "他可以用他的筷子吃饭，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 112.546,
+        "endTime": 112.808,
+        "gloss": "he"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 112.808,
+        "endTime": 113.19,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 113.19,
+        "endTime": 113.552,
+        "gloss": "use"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 113.552,
+        "endTime": 113.813,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 113.813,
+        "endTime": 114.377,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 114.377,
+        "endTime": 115.282,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 115.282,
+        "endTime": 116.026,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "he can use his chopsticks to eat,"
+  },
+  {
+    "startTime": 116.1,
+    "endTime": 117.3,
+    "fullTextZH": "快快地吃，",
+    "words": [
+      {
+        "word": "快快",
+        "pinyin": "kuài kuài",
+        "startTime": 116.181,
+        "endTime": 116.69,
+        "gloss": "quickly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 116.69,
+        "endTime": 116.934,
+        "gloss": "manner"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 116.934,
+        "endTime": 117.28,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "eat quickly,"
+  },
+  {
+    "startTime": 117.366,
+    "endTime": 119.366,
+    "fullTextZH": "嗯好。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 117.447,
+        "endTime": 118.922,
+        "gloss": "hmm"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 118.922,
+        "endTime": 119.326,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Hmm, okay."
+  },
+  {
+    "startTime": 119.4,
+    "endTime": 120.166,
+    "fullTextZH": "所以呢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 119.481,
+        "endTime": 119.743,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 119.743,
+        "endTime": 120.146,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 120.2,
+    "endTime": 126.5,
+    "fullTextZH": "很多人觉得大禹是第一个发明筷子的人，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 120.26,
+        "endTime": 120.641,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 120.641,
+        "endTime": 120.882,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 120.882,
+        "endTime": 121.665,
+        "gloss": "think"
+      },
+      {
+        "word": "大禹",
+        "pinyin": "dà yǔ",
+        "startTime": 121.665,
+        "endTime": 122.748,
+        "gloss": "Dayu"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 122.748,
+        "endTime": 123.149,
+        "gloss": "is"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 123.149,
+        "endTime": 124.173,
+        "gloss": "first"
+      },
+      {
+        "word": "发明",
+        "pinyin": "fā míng",
+        "startTime": 124.173,
+        "endTime": 125.055,
+        "gloss": "invent"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 125.055,
+        "endTime": 125.677,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 125.677,
+        "endTime": 125.818,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 125.818,
+        "endTime": 126.46,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "many people think Dayu was the first person to invent chopsticks,"
+  },
+  {
+    "startTime": 126.566,
+    "endTime": 133.433,
+    "fullTextZH": "因为他没有时间等他的饭菜变凉，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 126.666,
+        "endTime": 126.986,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 126.986,
+        "endTime": 127.207,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 127.207,
+        "endTime": 127.687,
+        "gloss": "not"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 127.687,
+        "endTime": 128.768,
+        "gloss": "have"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 128.768,
+        "endTime": 129.669,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 129.669,
+        "endTime": 129.849,
+        "gloss": "wait"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 129.849,
+        "endTime": 130.25,
+        "gloss": "his"
+      },
+      {
+        "word": "饭菜",
+        "pinyin": "fàn cài",
+        "startTime": 130.25,
+        "endTime": 131.811,
+        "gloss": "of"
+      },
+      {
+        "word": "变凉",
+        "pinyin": "biàn liáng",
+        "startTime": 131.811,
+        "endTime": 133.393,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "because he didn't have time to wait for his food to cool down,"
+  },
+  {
+    "startTime": 133.466,
+    "endTime": 136.133,
+    "fullTextZH": "所以他发明了筷子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 133.606,
+        "endTime": 134.248,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 134.248,
+        "endTime": 134.529,
+        "gloss": "he"
+      },
+      {
+        "word": "发明",
+        "pinyin": "fā míng",
+        "startTime": 134.529,
+        "endTime": 134.99,
+        "gloss": "invent"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 134.99,
+        "endTime": 135.371,
+        "gloss": "particle"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 135.371,
+        "endTime": 136.093,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "so he invented chopsticks."
+  },
+  {
+    "startTime": 137.466,
+    "endTime": 141.9,
+    "fullTextZH": "那筷子是用什么做的呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 137.566,
+        "endTime": 138.329,
+        "gloss": "so"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 138.329,
+        "endTime": 139.011,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 139.011,
+        "endTime": 139.272,
+        "gloss": "are"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 139.272,
+        "endTime": 139.693,
+        "gloss": "use"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 139.693,
+        "endTime": 140.255,
+        "gloss": "what"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 140.255,
+        "endTime": 140.516,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 140.516,
+        "endTime": 140.656,
+        "gloss": "of"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 140.656,
+        "endTime": 141.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So what are chopsticks made of?"
+  },
+  {
+    "startTime": 141.933,
+    "endTime": 144.7,
+    "fullTextZH": "筷子可以用木头做，",
+    "words": [
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 142.013,
+        "endTime": 142.695,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 142.695,
+        "endTime": 143.156,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 143.156,
+        "endTime": 143.617,
+        "gloss": "use"
+      },
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 143.617,
+        "endTime": 144.219,
+        "gloss": "wood"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 144.219,
+        "endTime": 144.66,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "Chopsticks can be made of wood,"
+  },
+  {
+    "startTime": 144.733,
+    "endTime": 145.533,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 145.492,
+        "endTime": 145.512,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 145.566,
+    "endTime": 147.833,
+    "fullTextZH": "也可以用竹子做，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 145.666,
+        "endTime": 145.887,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 145.887,
+        "endTime": 146.248,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 146.248,
+        "endTime": 146.669,
+        "gloss": "use"
+      },
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 146.669,
+        "endTime": 147.472,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 147.472,
+        "endTime": 147.793,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "they can also be made of bamboo,"
+  },
+  {
+    "startTime": 149.2,
+    "endTime": 151.833,
+    "fullTextZH": "还可以用金属，",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 149.28,
+        "endTime": 149.562,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 149.562,
+        "endTime": 149.944,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 149.944,
+        "endTime": 150.406,
+        "gloss": "use"
+      },
+      {
+        "word": "金属",
+        "pinyin": "jīn shǔ",
+        "startTime": 150.406,
+        "endTime": 151.793,
+        "gloss": "metal"
+      }
+    ],
+    "fullTextEN": "they can also be made of metal,"
+  },
+  {
+    "startTime": 151.9,
+    "endTime": 153.333,
+    "fullTextZH": "可以用银，",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 151.981,
+        "endTime": 152.384,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 152.384,
+        "endTime": 152.99,
+        "gloss": "use"
+      },
+      {
+        "word": "银",
+        "pinyin": "yín",
+        "startTime": 152.99,
+        "endTime": 153.293,
+        "gloss": "silver"
+      }
+    ],
+    "fullTextEN": "they can be made of silver,"
+  },
+  {
+    "startTime": 153.366,
+    "endTime": 153.966,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 153.656,
+        "endTime": 153.925,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 154.0,
+    "endTime": 155.2,
+    "fullTextZH": "可以用铜，",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 154.081,
+        "endTime": 154.447,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 154.447,
+        "endTime": 154.753,
+        "gloss": "use"
+      },
+      {
+        "word": "铜",
+        "pinyin": "tóng",
+        "startTime": 154.753,
+        "endTime": 155.159,
+        "gloss": "copper"
+      }
+    ],
+    "fullTextEN": "they can be made of copper,"
+  },
+  {
+    "startTime": 155.3,
+    "endTime": 158.3,
+    "fullTextZH": "也可以用象牙，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 155.34,
+        "endTime": 155.642,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 155.642,
+        "endTime": 156.186,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 156.186,
+        "endTime": 156.85,
+        "gloss": "use"
+      },
+      {
+        "word": "象牙",
+        "pinyin": "xiàng yá",
+        "startTime": 156.85,
+        "endTime": 158.26,
+        "gloss": "ivory"
+      }
+    ],
+    "fullTextEN": "they can also be made of ivory,"
+  },
+  {
+    "startTime": 158.333,
+    "endTime": 161.5,
+    "fullTextZH": "大象的牙齿。",
+    "words": [
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 158.433,
+        "endTime": 159.375,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 159.375,
+        "endTime": 160.017,
+        "gloss": "of"
+      },
+      {
+        "word": "牙齿",
+        "pinyin": "yá chǐ",
+        "startTime": 160.017,
+        "endTime": 161.46,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "the teeth of elephants."
+  },
+  {
+    "startTime": 161.533,
+    "endTime": 166.033,
+    "fullTextZH": "以前有钱人喜欢用象牙，",
+    "words": [
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 161.593,
+        "endTime": 162.698,
+        "gloss": "before"
+      },
+      {
+        "word": "有钱人",
+        "pinyin": "yǒu qián rén",
+        "startTime": 162.698,
+        "endTime": 163.743,
+        "gloss": "rich people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 163.743,
+        "endTime": 164.245,
+        "gloss": "like"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 164.245,
+        "endTime": 164.687,
+        "gloss": "use"
+      },
+      {
+        "word": "象牙",
+        "pinyin": "xiàng yá",
+        "startTime": 164.687,
+        "endTime": 165.993,
+        "gloss": "ivory"
+      }
+    ],
+    "fullTextEN": "In the past, rich people liked to use ivory,"
+  },
+  {
+    "startTime": 166.1,
+    "endTime": 168.8,
+    "fullTextZH": "现在不可以哦。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 166.14,
+        "endTime": 167.067,
+        "gloss": "now"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 167.067,
+        "endTime": 167.228,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 167.228,
+        "endTime": 167.591,
+        "gloss": "allowed"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 167.591,
+        "endTime": 168.76,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "but now it's not allowed."
+  },
+  {
+    "startTime": 168.866,
+    "endTime": 169.533,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 168.927,
+        "endTime": 169.493,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Correct,"
+  },
+  {
+    "startTime": 169.566,
+    "endTime": 175.033,
+    "fullTextZH": "现在我觉得大部分的筷子是用竹子做的，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 169.626,
+        "endTime": 170.267,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 170.267,
+        "endTime": 170.427,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 170.427,
+        "endTime": 171.008,
+        "gloss": "think"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 171.008,
+        "endTime": 171.669,
+        "gloss": "most"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 171.669,
+        "endTime": 171.829,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 171.829,
+        "endTime": 172.57,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 172.57,
+        "endTime": 172.87,
+        "gloss": "are"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 172.87,
+        "endTime": 173.371,
+        "gloss": "made"
+      },
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 173.371,
+        "endTime": 174.092,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 174.092,
+        "endTime": 174.392,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 174.392,
+        "endTime": 174.993,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Now I think most chopsticks are made of bamboo,"
+  },
+  {
+    "startTime": 175.1,
+    "endTime": 178.333,
+    "fullTextZH": "因为中国有很多很多竹子，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 175.2,
+        "endTime": 175.984,
+        "gloss": "because"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 175.984,
+        "endTime": 176.325,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 176.325,
+        "endTime": 176.526,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 176.526,
+        "endTime": 177.449,
+        "gloss": "many many"
+      },
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 177.449,
+        "endTime": 178.293,
+        "gloss": "bamboo"
+      }
+    ],
+    "fullTextEN": "because China has a lot of bamboo,"
+  },
+  {
+    "startTime": 178.366,
+    "endTime": 181.466,
+    "fullTextZH": "竹子长得很快，",
+    "words": [
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 178.447,
+        "endTime": 179.191,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "长得",
+        "pinyin": "zhǎng dé",
+        "startTime": 179.191,
+        "endTime": 180.681,
+        "gloss": "grows"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 180.681,
+        "endTime": 181.426,
+        "gloss": "very fast"
+      }
+    ],
+    "fullTextEN": "bamboo grows very fast,"
+  },
+  {
+    "startTime": 181.533,
+    "endTime": 182.166,
+    "fullTextZH": "所以呢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 181.656,
+        "endTime": 181.941,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 181.941,
+        "endTime": 182.146,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "so,"
+  },
+  {
+    "startTime": 182.233,
+    "endTime": 185.133,
+    "fullTextZH": "我们可以做很多很多筷子。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 182.354,
+        "endTime": 182.676,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 182.676,
+        "endTime": 183.059,
+        "gloss": "can"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 183.059,
+        "endTime": 183.482,
+        "gloss": "make"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 183.482,
+        "endTime": 184.489,
+        "gloss": "many many"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 184.489,
+        "endTime": 185.093,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "we can make a lot of chopsticks."
+  },
+  {
+    "startTime": 185.733,
+    "endTime": 190.333,
+    "fullTextZH": "如果你看汉字筷字，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 185.854,
+        "endTime": 186.175,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 186.175,
+        "endTime": 186.376,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 186.376,
+        "endTime": 187.119,
+        "gloss": "look"
+      },
+      {
+        "word": "汉字",
+        "pinyin": "hàn zì",
+        "startTime": 187.119,
+        "endTime": 188.686,
+        "gloss": "Chinese character"
+      },
+      {
+        "word": "筷字",
+        "pinyin": "kuài zì",
+        "startTime": 188.686,
+        "endTime": 190.293,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "If you look at the Chinese character for chopsticks,"
+  },
+  {
+    "startTime": 190.366,
+    "endTime": 196.0,
+    "fullTextZH": "你看筷是竹加快，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 190.486,
+        "endTime": 190.647,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 190.647,
+        "endTime": 191.268,
+        "gloss": "see"
+      },
+      {
+        "word": "筷",
+        "pinyin": "kuài",
+        "startTime": 191.268,
+        "endTime": 192.03,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 192.03,
+        "endTime": 192.632,
+        "gloss": "is"
+      },
+      {
+        "word": "竹",
+        "pinyin": "zhú",
+        "startTime": 192.632,
+        "endTime": 193.975,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "加快",
+        "pinyin": "jiā kuài",
+        "startTime": 193.975,
+        "endTime": 195.96,
+        "gloss": "plus fast"
+      }
+    ],
+    "fullTextEN": "you see chopsticks is bamboo plus fast,"
+  },
+  {
+    "startTime": 197.666,
+    "endTime": 200.533,
+    "fullTextZH": "所以它是用竹子做的，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 197.706,
+        "endTime": 197.987,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 197.987,
+        "endTime": 198.267,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 198.267,
+        "endTime": 198.428,
+        "gloss": "are"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 198.428,
+        "endTime": 198.829,
+        "gloss": "made"
+      },
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 198.829,
+        "endTime": 199.691,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 199.691,
+        "endTime": 199.992,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.992,
+        "endTime": 200.493,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "so they are made of bamboo,"
+  },
+  {
+    "startTime": 200.566,
+    "endTime": 204.933,
+    "fullTextZH": "然后呢它让你吃饭更快。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 200.666,
+        "endTime": 201.167,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 201.167,
+        "endTime": 201.648,
+        "gloss": "particle"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 201.648,
+        "endTime": 201.828,
+        "gloss": "they"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 201.828,
+        "endTime": 202.028,
+        "gloss": "let"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 202.028,
+        "endTime": 202.309,
+        "gloss": "you"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 202.309,
+        "endTime": 203.13,
+        "gloss": "eat"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 203.13,
+        "endTime": 203.571,
+        "gloss": "more"
+      },
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 203.571,
+        "endTime": 204.893,
+        "gloss": "fast"
+      }
+    ],
+    "fullTextEN": "and they let you eat faster."
+  },
+  {
+    "startTime": 204.966,
+    "endTime": 210.166,
+    "fullTextZH": "现在你记住筷子的汉字了吗？",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 205.026,
+        "endTime": 205.849,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 205.849,
+        "endTime": 206.05,
+        "gloss": "you"
+      },
+      {
+        "word": "记住",
+        "pinyin": "jì zhù",
+        "startTime": 206.05,
+        "endTime": 207.275,
+        "gloss": "remember"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 207.275,
+        "endTime": 208.138,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 208.138,
+        "endTime": 208.56,
+        "gloss": "of"
+      },
+      {
+        "word": "汉字",
+        "pinyin": "hàn zì",
+        "startTime": 208.56,
+        "endTime": 209.283,
+        "gloss": "Chinese character"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 209.283,
+        "endTime": 209.443,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 209.443,
+        "endTime": 210.126,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Now do you remember the Chinese character for chopsticks?"
+  },
+  {
+    "startTime": 210.2,
+    "endTime": 211.8,
+    "fullTextZH": "很简单对不对？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 210.261,
+        "endTime": 210.504,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 210.504,
+        "endTime": 211.213,
+        "gloss": "simple"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 211.213,
+        "endTime": 211.314,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 211.314,
+        "endTime": 211.435,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 211.435,
+        "endTime": 211.759,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Very simple, right?"
+  },
+  {
+    "startTime": 212.8,
+    "endTime": 215.866,
+    "fullTextZH": "你知道中国人用筷子，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 212.9,
+        "endTime": 213.061,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 213.061,
+        "endTime": 214.042,
+        "gloss": "know"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 214.042,
+        "endTime": 214.463,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人用",
+        "pinyin": "rén yòng",
+        "startTime": 214.463,
+        "endTime": 215.004,
+        "gloss": "people use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 215.004,
+        "endTime": 215.826,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "You know Chinese people use chopsticks,"
+  },
+  {
+    "startTime": 215.9,
+    "endTime": 218.3,
+    "fullTextZH": "韩国人也用筷子，",
+    "words": [
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 215.981,
+        "endTime": 216.465,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 216.465,
+        "endTime": 216.908,
+        "gloss": "people"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 216.908,
+        "endTime": 217.171,
+        "gloss": "also"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 217.171,
+        "endTime": 217.493,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 217.493,
+        "endTime": 218.26,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Koreans also use chopsticks,"
+  },
+  {
+    "startTime": 218.333,
+    "endTime": 220.633,
+    "fullTextZH": "日本人也用筷子，",
+    "words": [
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 218.434,
+        "endTime": 218.858,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 218.858,
+        "endTime": 219.342,
+        "gloss": "people"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 219.342,
+        "endTime": 219.604,
+        "gloss": "also"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 219.604,
+        "endTime": 219.947,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 219.947,
+        "endTime": 220.613,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Japanese also use chopsticks,"
+  },
+  {
+    "startTime": 220.7,
+    "endTime": 226.166,
+    "fullTextZH": "可是这三个国家的筷子不一样，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 220.8,
+        "endTime": 221.621,
+        "gloss": "but"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 221.621,
+        "endTime": 222.041,
+        "gloss": "these"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 222.041,
+        "endTime": 222.622,
+        "gloss": "three"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 222.622,
+        "endTime": 223.143,
+        "gloss": "countries"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 223.143,
+        "endTime": 223.463,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 223.463,
+        "endTime": 224.424,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 224.424,
+        "endTime": 224.644,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 224.644,
+        "endTime": 226.126,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "but the chopsticks of these three countries are different,"
+  },
+  {
+    "startTime": 226.233,
+    "endTime": 227.6,
+    "fullTextZH": "一般来说，",
+    "words": [
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 226.293,
+        "endTime": 227.56,
+        "gloss": "generally speaking"
+      }
+    ],
+    "fullTextEN": "Generally speaking,"
+  },
+  {
+    "startTime": 227.633,
+    "endTime": 231.2,
+    "fullTextZH": "中国的筷子最长，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 227.693,
+        "endTime": 228.114,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 228.114,
+        "endTime": 228.314,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 228.314,
+        "endTime": 229.416,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "最长",
+        "pinyin": "zuì zhǎng",
+        "startTime": 229.416,
+        "endTime": 231.16,
+        "gloss": "longest"
+      }
+    ],
+    "fullTextEN": "Chinese chopsticks are the longest,"
+  },
+  {
+    "startTime": 231.233,
+    "endTime": 234.6,
+    "fullTextZH": "然后中国的筷子是圆的，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 231.333,
+        "endTime": 231.934,
+        "gloss": "then"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 231.934,
+        "endTime": 232.355,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 232.355,
+        "endTime": 232.576,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 232.576,
+        "endTime": 233.297,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 233.297,
+        "endTime": 233.858,
+        "gloss": "are"
+      },
+      {
+        "word": "圆",
+        "pinyin": "yuán",
+        "startTime": 233.858,
+        "endTime": 234.259,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 234.259,
+        "endTime": 234.56,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "and Chinese chopsticks are round,"
+  },
+  {
+    "startTime": 235.733,
+    "endTime": 236.933,
+    "fullTextZH": "圆的，",
+    "words": [
+      {
+        "word": "圆",
+        "pinyin": "yuán",
+        "startTime": 235.875,
+        "endTime": 236.262,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 236.262,
+        "endTime": 236.892,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "round,"
+  },
+  {
+    "startTime": 237.0,
+    "endTime": 238.166,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 237.06,
+        "endTime": 238.126,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 238.2,
+    "endTime": 239.1,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 238.241,
+        "endTime": 239.059,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right,"
+  },
+  {
+    "startTime": 239.133,
+    "endTime": 239.8,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 239.214,
+        "endTime": 239.78,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 239.866,
+    "endTime": 243.1,
+    "fullTextZH": "为什么中国人的筷子最长？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 239.966,
+        "endTime": 240.489,
+        "gloss": "why"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 240.489,
+        "endTime": 240.951,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 240.951,
+        "endTime": 241.192,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.192,
+        "endTime": 241.413,
+        "gloss": "'s"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 241.413,
+        "endTime": 242.096,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "最长",
+        "pinyin": "zuì zhǎng",
+        "startTime": 242.096,
+        "endTime": 243.06,
+        "gloss": "longest"
+      }
+    ],
+    "fullTextEN": "Why are Chinese chopsticks the longest?"
+  },
+  {
+    "startTime": 243.133,
+    "endTime": 244.333,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 243.194,
+        "endTime": 244.292,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 244.4,
+    "endTime": 249.6,
+    "fullTextZH": "可能因为中国人喜欢给别人夹菜，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 244.4,
+        "endTime": 245.002,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 245.002,
+        "endTime": 245.765,
+        "gloss": "because"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 245.765,
+        "endTime": 246.247,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 246.247,
+        "endTime": 246.669,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 246.669,
+        "endTime": 247.412,
+        "gloss": "like"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 247.412,
+        "endTime": 247.713,
+        "gloss": "to"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 247.713,
+        "endTime": 248.436,
+        "gloss": "others"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 248.436,
+        "endTime": 249.56,
+        "gloss": "serve food"
+      }
+    ],
+    "fullTextEN": "Maybe because Chinese people like to serve others food,"
+  },
+  {
+    "startTime": 249.633,
+    "endTime": 250.2,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 249.714,
+        "endTime": 250.18,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 250.233,
+    "endTime": 252.6,
+    "fullTextZH": "现在很少人夹菜。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 250.253,
+        "endTime": 250.835,
+        "gloss": "now"
+      },
+      {
+        "word": "很少",
+        "pinyin": "hěn shǎo",
+        "startTime": 250.835,
+        "endTime": 251.356,
+        "gloss": "few"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 251.356,
+        "endTime": 251.697,
+        "gloss": "people"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 251.697,
+        "endTime": 252.56,
+        "gloss": "serve food"
+      }
+    ],
+    "fullTextEN": "Nowadays, few people serve food."
+  },
+  {
+    "startTime": 252.633,
+    "endTime": 257.466,
+    "fullTextZH": "以前很多中国人觉得夹菜很热情，",
+    "words": [
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 252.693,
+        "endTime": 253.535,
+        "gloss": "before"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 253.535,
+        "endTime": 253.957,
+        "gloss": "many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 253.957,
+        "endTime": 254.338,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 254.338,
+        "endTime": 254.638,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 254.638,
+        "endTime": 255.441,
+        "gloss": "thought"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 255.441,
+        "endTime": 256.142,
+        "gloss": "serve food"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 256.142,
+        "endTime": 256.463,
+        "gloss": "very"
+      },
+      {
+        "word": "热情",
+        "pinyin": "rè qíng",
+        "startTime": 256.463,
+        "endTime": 257.426,
+        "gloss": "hospitable"
+      }
+    ],
+    "fullTextEN": "In the past, many Chinese people thought serving food was very hospitable,"
+  },
+  {
+    "startTime": 257.5,
+    "endTime": 263.066,
+    "fullTextZH": "所以以前很多中国人喜欢给别人夹菜，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 257.6,
+        "endTime": 257.92,
+        "gloss": "so"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 257.92,
+        "endTime": 258.501,
+        "gloss": "before"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 258.501,
+        "endTime": 258.962,
+        "gloss": "many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 258.962,
+        "endTime": 259.402,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 259.402,
+        "endTime": 259.742,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 259.742,
+        "endTime": 260.603,
+        "gloss": "liked"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 260.603,
+        "endTime": 260.884,
+        "gloss": "to"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 260.884,
+        "endTime": 261.544,
+        "gloss": "others"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 261.544,
+        "endTime": 263.026,
+        "gloss": "serve food"
+      }
+    ],
+    "fullTextEN": "So in the past, many Chinese people liked to serve others food,"
+  },
+  {
+    "startTime": 263.1,
+    "endTime": 269.333,
+    "fullTextZH": "所以我们需要很长的筷子可以夹菜好，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 263.1,
+        "endTime": 263.721,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 263.721,
+        "endTime": 263.982,
+        "gloss": "we"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 263.982,
+        "endTime": 264.303,
+        "gloss": "need"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 264.303,
+        "endTime": 265.365,
+        "gloss": "very long"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 265.365,
+        "endTime": 265.525,
+        "gloss": "'s"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 265.525,
+        "endTime": 266.567,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 266.567,
+        "endTime": 267.008,
+        "gloss": "can"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 267.008,
+        "endTime": 268.571,
+        "gloss": "serve food"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 268.571,
+        "endTime": 269.313,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "So we need long chopsticks to serve food well,"
+  },
+  {
+    "startTime": 269.4,
+    "endTime": 273.3,
+    "fullTextZH": "那日本的筷子是最短的，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 269.48,
+        "endTime": 270.405,
+        "gloss": "then"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 270.405,
+        "endTime": 270.787,
+        "gloss": "Japan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.787,
+        "endTime": 270.948,
+        "gloss": "'s"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 270.948,
+        "endTime": 271.631,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 271.631,
+        "endTime": 271.973,
+        "gloss": "are"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 271.973,
+        "endTime": 272.516,
+        "gloss": "most"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 272.516,
+        "endTime": 272.898,
+        "gloss": "short"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.898,
+        "endTime": 273.26,
+        "gloss": "ones"
+      }
+    ],
+    "fullTextEN": "Then Japanese chopsticks are the shortest,"
+  },
+  {
+    "startTime": 273.333,
+    "endTime": 273.966,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 273.415,
+        "endTime": 273.946,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 274.033,
+    "endTime": 278.233,
+    "fullTextZH": "日本人不喜欢给别人夹菜，",
+    "words": [
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 274.113,
+        "endTime": 274.455,
+        "gloss": "Japan"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 274.455,
+        "endTime": 274.857,
+        "gloss": "people"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 274.857,
+        "endTime": 275.078,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 275.078,
+        "endTime": 275.761,
+        "gloss": "like"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 275.761,
+        "endTime": 276.022,
+        "gloss": "to"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 276.022,
+        "endTime": 276.726,
+        "gloss": "others"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 276.726,
+        "endTime": 278.193,
+        "gloss": "serve food"
+      }
+    ],
+    "fullTextEN": "Japanese people don't like to serve others food,"
+  },
+  {
+    "startTime": 278.266,
+    "endTime": 282.733,
+    "fullTextZH": "然后日本的筷子最尖尖，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 278.306,
+        "endTime": 279.268,
+        "gloss": "then"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 279.268,
+        "endTime": 279.748,
+        "gloss": "Japan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 279.748,
+        "endTime": 279.949,
+        "gloss": "'s"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 279.949,
+        "endTime": 280.69,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "最尖",
+        "pinyin": "zuì jiān",
+        "startTime": 280.69,
+        "endTime": 282.172,
+        "gloss": "most sharp"
+      },
+      {
+        "word": "尖",
+        "pinyin": "jiān",
+        "startTime": 282.172,
+        "endTime": 282.693,
+        "gloss": "sharp"
+      }
+    ],
+    "fullTextEN": "And Japanese chopsticks are the sharpest,"
+  },
+  {
+    "startTime": 282.8,
+    "endTime": 283.566,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 282.86,
+        "endTime": 283.526,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 283.6,
+    "endTime": 284.966,
+    "fullTextZH": "因为，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 283.68,
+        "endTime": 284.926,
+        "gloss": "because"
+      }
+    ],
+    "fullTextEN": "Because,"
+  },
+  {
+    "startTime": 285.0,
+    "endTime": 286.2,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 285.061,
+        "endTime": 286.159,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 286.233,
+    "endTime": 288.466,
+    "fullTextZH": "可能因为啊，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 286.334,
+        "endTime": 287.098,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 287.098,
+        "endTime": 288.325,
+        "gloss": "because"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 288.325,
+        "endTime": 288.426,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Maybe because,"
+  },
+  {
+    "startTime": 288.5,
+    "endTime": 292.666,
+    "fullTextZH": "日本人很喜欢吃鱼肉，",
+    "words": [
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 288.58,
+        "endTime": 288.921,
+        "gloss": "Japan"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 288.921,
+        "endTime": 289.461,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 289.461,
+        "endTime": 289.822,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 289.822,
+        "endTime": 290.543,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 290.543,
+        "endTime": 291.024,
+        "gloss": "eat"
+      },
+      {
+        "word": "鱼肉",
+        "pinyin": "yú ròu",
+        "startTime": 291.024,
+        "endTime": 292.626,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Japanese people really like to eat fish,"
+  },
+  {
+    "startTime": 292.7,
+    "endTime": 293.166,
+    "fullTextZH": "所以呢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 292.741,
+        "endTime": 292.984,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 292.984,
+        "endTime": 293.146,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "So then,"
+  },
+  {
+    "startTime": 293.233,
+    "endTime": 297.9,
+    "fullTextZH": "你用很尖的筷子可以挑鱼肉，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 293.313,
+        "endTime": 293.473,
+        "gloss": "you"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 293.473,
+        "endTime": 293.734,
+        "gloss": "use"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 293.734,
+        "endTime": 294.295,
+        "gloss": "very"
+      },
+      {
+        "word": "尖",
+        "pinyin": "jiān",
+        "startTime": 294.295,
+        "endTime": 294.695,
+        "gloss": "sharp"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 294.695,
+        "endTime": 294.855,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 294.855,
+        "endTime": 295.737,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 295.737,
+        "endTime": 296.217,
+        "gloss": "can"
+      },
+      {
+        "word": "挑",
+        "pinyin": "tiāo",
+        "startTime": 296.217,
+        "endTime": 297.379,
+        "gloss": "pick"
+      },
+      {
+        "word": "鱼肉",
+        "pinyin": "yú ròu",
+        "startTime": 297.379,
+        "endTime": 297.86,
+        "gloss": "fish meat"
+      }
+    ],
+    "fullTextEN": "You can use very sharp chopsticks to pick fish meat,"
+  },
+  {
+    "startTime": 297.933,
+    "endTime": 298.3,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 298.015,
+        "endTime": 298.28,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 298.333,
+    "endTime": 300.333,
+    "fullTextZH": "然后挑鱼刺，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 298.414,
+        "endTime": 299.181,
+        "gloss": "then"
+      },
+      {
+        "word": "挑",
+        "pinyin": "tiāo",
+        "startTime": 299.181,
+        "endTime": 299.626,
+        "gloss": "pick"
+      },
+      {
+        "word": "鱼刺",
+        "pinyin": "yú cì",
+        "startTime": 299.626,
+        "endTime": 300.293,
+        "gloss": "fish bones"
+      }
+    ],
+    "fullTextEN": "Then pick out the fish bones,"
+  },
+  {
+    "startTime": 300.633,
+    "endTime": 303.833,
+    "fullTextZH": "不要不要鱼刺不要对，",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 300.734,
+        "endTime": 301.015,
+        "gloss": "don't"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 301.015,
+        "endTime": 301.559,
+        "gloss": "want"
+      },
+      {
+        "word": "鱼刺",
+        "pinyin": "yú cì",
+        "startTime": 301.559,
+        "endTime": 302.102,
+        "gloss": "fish bones"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 302.102,
+        "endTime": 303.35,
+        "gloss": "don't"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 303.35,
+        "endTime": 303.793,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Don't want fish bones, right,"
+  },
+  {
+    "startTime": 303.866,
+    "endTime": 310.266,
+    "fullTextZH": "所以日本人喜欢用短的尖的筷子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 303.926,
+        "endTime": 304.408,
+        "gloss": "so"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 304.408,
+        "endTime": 304.789,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 304.789,
+        "endTime": 305.19,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 305.19,
+        "endTime": 306.514,
+        "gloss": "like"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 306.514,
+        "endTime": 306.956,
+        "gloss": "use"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 306.956,
+        "endTime": 307.377,
+        "gloss": "short"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 307.377,
+        "endTime": 308.119,
+        "gloss": "of"
+      },
+      {
+        "word": "尖",
+        "pinyin": "jiān",
+        "startTime": 308.119,
+        "endTime": 308.581,
+        "gloss": "sharp"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.581,
+        "endTime": 308.842,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 308.842,
+        "endTime": 310.226,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "So Japanese people like to use short, sharp chopsticks."
+  },
+  {
+    "startTime": 310.3,
+    "endTime": 314.533,
+    "fullTextZH": "那韩国人的筷子不长不短，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 310.34,
+        "endTime": 310.701,
+        "gloss": "then"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 310.701,
+        "endTime": 311.243,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 311.243,
+        "endTime": 311.444,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 311.444,
+        "endTime": 311.624,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 311.624,
+        "endTime": 312.748,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "不长不短",
+        "pinyin": "bù zhǎng bù duǎn",
+        "startTime": 312.748,
+        "endTime": 314.493,
+        "gloss": "not long not short"
+      }
+    ],
+    "fullTextEN": "Korean chopsticks are neither long nor short,"
+  },
+  {
+    "startTime": 314.6,
+    "endTime": 315.3,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 314.682,
+        "endTime": 315.259,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 315.3,
+    "endTime": 318.733,
+    "fullTextZH": "韩国人喜欢金属的筷子，",
+    "words": [
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 315.34,
+        "endTime": 315.822,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 315.822,
+        "endTime": 316.284,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 316.284,
+        "endTime": 317.288,
+        "gloss": "like"
+      },
+      {
+        "word": "金属",
+        "pinyin": "jīn shǔ",
+        "startTime": 317.288,
+        "endTime": 317.93,
+        "gloss": "metal"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 317.93,
+        "endTime": 318.091,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 318.091,
+        "endTime": 318.693,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Koreans like metal chopsticks,"
+  },
+  {
+    "startTime": 320.266,
+    "endTime": 321.166,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 320.348,
+        "endTime": 321.125,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right,"
+  },
+  {
+    "startTime": 321.233,
+    "endTime": 323.8,
+    "fullTextZH": "如果你看韩国人的筷子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 321.353,
+        "endTime": 321.634,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 321.634,
+        "endTime": 321.795,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 321.795,
+        "endTime": 322.236,
+        "gloss": "look"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 322.236,
+        "endTime": 322.777,
+        "gloss": "Korean"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 322.777,
+        "endTime": 322.978,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 322.978,
+        "endTime": 323.138,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 323.138,
+        "endTime": 323.76,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "If you look at Korean chopsticks,"
+  },
+  {
+    "startTime": 323.833,
+    "endTime": 327.1,
+    "fullTextZH": "他们常常是扁的，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 323.913,
+        "endTime": 324.314,
+        "gloss": "they"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 324.314,
+        "endTime": 325.016,
+        "gloss": "often"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 325.016,
+        "endTime": 325.717,
+        "gloss": "are"
+      },
+      {
+        "word": "扁",
+        "pinyin": "biǎn",
+        "startTime": 325.717,
+        "endTime": 326.238,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 326.238,
+        "endTime": 327.06,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "They are often flat,"
+  },
+  {
+    "startTime": 327.133,
+    "endTime": 328.133,
+    "fullTextZH": "扁的。",
+    "words": [
+      {
+        "word": "扁",
+        "pinyin": "biǎn",
+        "startTime": 327.215,
+        "endTime": 327.541,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 327.541,
+        "endTime": 328.092,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Flat."
+  },
+  {
+    "startTime": 328.166,
+    "endTime": 330.8,
+    "fullTextZH": "中国的筷子圆的，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 328.267,
+        "endTime": 328.689,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 328.689,
+        "endTime": 328.85,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 328.85,
+        "endTime": 329.694,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "圆",
+        "pinyin": "yuán",
+        "startTime": 329.694,
+        "endTime": 330.056,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 330.056,
+        "endTime": 330.76,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Chinese chopsticks are round,"
+  },
+  {
+    "startTime": 330.866,
+    "endTime": 333.533,
+    "fullTextZH": "日本的筷子尖的，",
+    "words": [
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 330.946,
+        "endTime": 331.327,
+        "gloss": "Japanese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 331.327,
+        "endTime": 331.488,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 331.488,
+        "endTime": 332.33,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "尖",
+        "pinyin": "jiān",
+        "startTime": 332.33,
+        "endTime": 332.771,
+        "gloss": "sharp"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 332.771,
+        "endTime": 333.493,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Japanese chopsticks are sharp,"
+  },
+  {
+    "startTime": 333.566,
+    "endTime": 336.766,
+    "fullTextZH": "韩国的筷子扁的。",
+    "words": [
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 333.626,
+        "endTime": 334.089,
+        "gloss": "Korean"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 334.089,
+        "endTime": 334.25,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 334.25,
+        "endTime": 335.075,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "扁",
+        "pinyin": "biǎn",
+        "startTime": 335.075,
+        "endTime": 335.558,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 335.558,
+        "endTime": 336.726,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Korean chopsticks are flat."
+  },
+  {
+    "startTime": 337.133,
+    "endTime": 338.166,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 337.194,
+        "endTime": 338.125,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 338.233,
+    "endTime": 342.2,
+    "fullTextZH": "可能因为他们吃泡菜，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 338.333,
+        "endTime": 338.974,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 338.974,
+        "endTime": 339.756,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 339.756,
+        "endTime": 340.257,
+        "gloss": "they"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 340.257,
+        "endTime": 340.978,
+        "gloss": "eat"
+      },
+      {
+        "word": "泡菜",
+        "pinyin": "pào cài",
+        "startTime": 340.978,
+        "endTime": 342.16,
+        "gloss": "kimchi"
+      }
+    ],
+    "fullTextEN": "Maybe because they eat kimchi,"
+  },
+  {
+    "startTime": 342.233,
+    "endTime": 344.6,
+    "fullTextZH": "泡菜用扁的筷子，",
+    "words": [
+      {
+        "word": "泡菜",
+        "pinyin": "pào cài",
+        "startTime": 342.273,
+        "endTime": 343.075,
+        "gloss": "kimchi"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 343.075,
+        "endTime": 343.396,
+        "gloss": "use"
+      },
+      {
+        "word": "扁",
+        "pinyin": "biǎn",
+        "startTime": 343.396,
+        "endTime": 343.677,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 343.677,
+        "endTime": 343.858,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 343.858,
+        "endTime": 344.52,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Kimchi is picked up better with flat chopsticks,"
+  },
+  {
+    "startTime": 344.6,
+    "endTime": 346.0,
+    "fullTextZH": "更好夹。",
+    "words": [
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 344.6,
+        "endTime": 345.087,
+        "gloss": "easier"
+      },
+      {
+        "word": "夹",
+        "pinyin": "jiā",
+        "startTime": 345.087,
+        "endTime": 345.959,
+        "gloss": "pick up"
+      }
+    ],
+    "fullTextEN": "Easier to pick up."
+  },
+  {
+    "startTime": 346.033,
+    "endTime": 346.866,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 346.135,
+        "endTime": 346.825,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 346.866,
+    "endTime": 351.6,
+    "fullTextZH": "为什么韩国人的筷子不是木头做的，",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 347.147,
+        "endTime": 347.729,
+        "gloss": "why"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 347.729,
+        "endTime": 348.27,
+        "gloss": "Korea"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 348.27,
+        "endTime": 348.491,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 348.491,
+        "endTime": 348.711,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 348.711,
+        "endTime": 349.594,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 349.594,
+        "endTime": 350.437,
+        "gloss": "not"
+      },
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 350.437,
+        "endTime": 351.058,
+        "gloss": "wood"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 351.058,
+        "endTime": 351.359,
+        "gloss": "made"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 351.359,
+        "endTime": 351.56,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Why are Korean chopsticks not made of wood,"
+  },
+  {
+    "startTime": 351.666,
+    "endTime": 354.666,
+    "fullTextZH": "不是竹子做的。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 351.807,
+        "endTime": 352.532,
+        "gloss": "not"
+      },
+      {
+        "word": "竹子",
+        "pinyin": "zhú zi",
+        "startTime": 352.532,
+        "endTime": 353.116,
+        "gloss": "bamboo"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 353.116,
+        "endTime": 353.398,
+        "gloss": "made"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.398,
+        "endTime": 354.626,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "not made of bamboo."
+  },
+  {
+    "startTime": 354.7,
+    "endTime": 358.966,
+    "fullTextZH": "可能因为韩国人喜欢吃烤肉，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 354.82,
+        "endTime": 355.341,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 355.341,
+        "endTime": 355.782,
+        "gloss": "because"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 355.782,
+        "endTime": 356.322,
+        "gloss": "Korea"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 356.322,
+        "endTime": 356.703,
+        "gloss": "people"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 356.703,
+        "endTime": 357.284,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 357.284,
+        "endTime": 357.925,
+        "gloss": "eat"
+      },
+      {
+        "word": "烤肉",
+        "pinyin": "kǎo ròu",
+        "startTime": 357.925,
+        "endTime": 358.926,
+        "gloss": "barbecue"
+      }
+    ],
+    "fullTextEN": "Maybe because Koreans like to eat barbecue,"
+  },
+  {
+    "startTime": 359.033,
+    "endTime": 362.033,
+    "fullTextZH": "你知道烤肉火很大，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 359.174,
+        "endTime": 359.295,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 359.295,
+        "endTime": 359.758,
+        "gloss": "know"
+      },
+      {
+        "word": "烤肉",
+        "pinyin": "kǎo ròu",
+        "startTime": 359.758,
+        "endTime": 360.603,
+        "gloss": "barbecue"
+      },
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 360.603,
+        "endTime": 361.187,
+        "gloss": "fire"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 361.187,
+        "endTime": 361.993,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "You know barbecue has a big flame,"
+  },
+  {
+    "startTime": 362.066,
+    "endTime": 362.733,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 362.167,
+        "endTime": 362.693,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 362.733,
+    "endTime": 367.366,
+    "fullTextZH": "所以呢，金属的筷子更好更安全。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 362.873,
+        "endTime": 363.194,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 363.194,
+        "endTime": 363.696,
+        "gloss": "then"
+      },
+      {
+        "word": "金属",
+        "pinyin": "jīn shǔ",
+        "startTime": 363.776,
+        "endTime": 364.378,
+        "gloss": "metal"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 364.378,
+        "endTime": 364.558,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 364.558,
+        "endTime": 365.4,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 365.4,
+        "endTime": 366.283,
+        "gloss": "better"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 366.283,
+        "endTime": 366.584,
+        "gloss": "more"
+      },
+      {
+        "word": "安全",
+        "pinyin": "ān quán",
+        "startTime": 366.584,
+        "endTime": 367.326,
+        "gloss": "safe"
+      }
+    ],
+    "fullTextEN": "so, metal chopsticks are better and safer."
+  },
+  {
+    "startTime": 369.0,
+    "endTime": 369.633,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 369.123,
+        "endTime": 369.592,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 369.666,
+    "endTime": 374.033,
+    "fullTextZH": "所以中国、日本、韩国的筷子是不一样的。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 369.766,
+        "endTime": 370.147,
+        "gloss": "so"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 370.147,
+        "endTime": 370.467,
+        "gloss": "China"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 370.808,
+        "endTime": 371.229,
+        "gloss": "Japan"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 371.349,
+        "endTime": 371.95,
+        "gloss": "Korea"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 371.95,
+        "endTime": 372.17,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 372.17,
+        "endTime": 372.811,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 372.811,
+        "endTime": 373.071,
+        "gloss": "are"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 373.071,
+        "endTime": 373.232,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 373.232,
+        "endTime": 373.692,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 373.692,
+        "endTime": 373.993,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "So Chinese, Japanese, and Korean chopsticks are different."
+  },
+  {
+    "startTime": 375.266,
+    "endTime": 375.833,
+    "fullTextZH": "最后，",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 375.307,
+        "endTime": 375.813,
+        "gloss": "finally"
+      }
+    ],
+    "fullTextEN": "Finally,"
+  },
+  {
+    "startTime": 375.866,
+    "endTime": 377.633,
+    "fullTextZH": "我要告诉你，",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 376.047,
+        "endTime": 376.408,
+        "gloss": "I want"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 376.408,
+        "endTime": 376.93,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 376.93,
+        "endTime": 377.593,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "I want to tell you,"
+  },
+  {
+    "startTime": 377.666,
+    "endTime": 378.566,
+    "fullTextZH": "在中国，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 377.727,
+        "endTime": 377.932,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 377.932,
+        "endTime": 378.218,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "In China,"
+  },
+  {
+    "startTime": 378.6,
+    "endTime": 380.4,
+    "fullTextZH": "如果你吃饭，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 378.721,
+        "endTime": 379.085,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 379.085,
+        "endTime": 379.389,
+        "gloss": "you"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 379.389,
+        "endTime": 380.36,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "if you eat,"
+  },
+  {
+    "startTime": 380.466,
+    "endTime": 385.966,
+    "fullTextZH": "你不可以把你的筷子插在米饭里，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 380.566,
+        "endTime": 380.747,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 380.747,
+        "endTime": 380.928,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 380.928,
+        "endTime": 381.43,
+        "gloss": "can"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 381.43,
+        "endTime": 381.65,
+        "gloss": "put"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 381.65,
+        "endTime": 381.811,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 381.811,
+        "endTime": 382.012,
+        "gloss": "of"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 382.012,
+        "endTime": 382.975,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "插",
+        "pinyin": "chā",
+        "startTime": 382.975,
+        "endTime": 383.336,
+        "gloss": "stick"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 383.336,
+        "endTime": 383.878,
+        "gloss": "in"
+      },
+      {
+        "word": "米饭",
+        "pinyin": "mǐ fàn",
+        "startTime": 383.878,
+        "endTime": 384.742,
+        "gloss": "rice"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 384.742,
+        "endTime": 385.926,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "you cannot stick your chopsticks into the rice,"
+  },
+  {
+    "startTime": 386.0,
+    "endTime": 389.166,
+    "fullTextZH": "这个是给死人的。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 386.1,
+        "endTime": 386.781,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 386.781,
+        "endTime": 387.062,
+        "gloss": "is"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 387.062,
+        "endTime": 387.523,
+        "gloss": "for"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 387.523,
+        "endTime": 387.823,
+        "gloss": "dead"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 387.823,
+        "endTime": 388.144,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 388.144,
+        "endTime": 389.126,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "this is for the dead."
+  },
+  {
+    "startTime": 389.566,
+    "endTime": 392.733,
+    "fullTextZH": "在中国很多很多人觉得，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 389.666,
+        "endTime": 389.827,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 389.827,
+        "endTime": 390.588,
+        "gloss": "China"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 390.588,
+        "endTime": 391.611,
+        "gloss": "many many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 391.611,
+        "endTime": 391.911,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 391.911,
+        "endTime": 392.693,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "In China, many people think,"
+  },
+  {
+    "startTime": 392.766,
+    "endTime": 394.666,
+    "fullTextZH": "如果你拿筷子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 392.847,
+        "endTime": 393.292,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 393.292,
+        "endTime": 393.453,
+        "gloss": "you"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 393.453,
+        "endTime": 393.878,
+        "gloss": "hold"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 393.878,
+        "endTime": 394.626,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "if you hold chopsticks,"
+  },
+  {
+    "startTime": 394.733,
+    "endTime": 396.5,
+    "fullTextZH": "你拿的很远，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 394.813,
+        "endTime": 394.954,
+        "gloss": "you"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 394.954,
+        "endTime": 395.235,
+        "gloss": "hold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 395.235,
+        "endTime": 395.476,
+        "gloss": "them"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 395.476,
+        "endTime": 395.837,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 395.837,
+        "endTime": 396.46,
+        "gloss": "far"
+      }
+    ],
+    "fullTextEN": "you hold them far,"
+  },
+  {
+    "startTime": 396.533,
+    "endTime": 398.433,
+    "fullTextZH": "这个是很远，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 396.594,
+        "endTime": 396.836,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 396.836,
+        "endTime": 396.998,
+        "gloss": "is"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 396.998,
+        "endTime": 397.321,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 397.321,
+        "endTime": 398.393,
+        "gloss": "far"
+      }
+    ],
+    "fullTextEN": "this is very far,"
+  },
+  {
+    "startTime": 398.466,
+    "endTime": 404.1,
+    "fullTextZH": "意思是你会找一个很远很远的男朋友。",
+    "words": [
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 398.466,
+        "endTime": 398.927,
+        "gloss": "meaning"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 398.927,
+        "endTime": 399.509,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 399.509,
+        "endTime": 399.809,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 399.809,
+        "endTime": 400.23,
+        "gloss": "will"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 400.23,
+        "endTime": 400.511,
+        "gloss": "find"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 400.511,
+        "endTime": 401.273,
+        "gloss": "a"
+      },
+      {
+        "word": "很远",
+        "pinyin": "hěn yuǎn",
+        "startTime": 401.273,
+        "endTime": 401.874,
+        "gloss": "very far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 401.874,
+        "endTime": 402.155,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 402.155,
+        "endTime": 402.476,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 402.476,
+        "endTime": 402.877,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 402.877,
+        "endTime": 404.06,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "it means you will find a very distant boyfriend."
+  },
+  {
+    "startTime": 404.166,
+    "endTime": 404.866,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 404.248,
+        "endTime": 404.825,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 404.933,
+    "endTime": 408.166,
+    "fullTextZH": "如果你拿的很近很近，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 405.053,
+        "endTime": 405.596,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 405.596,
+        "endTime": 405.756,
+        "gloss": "you"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 405.756,
+        "endTime": 406.058,
+        "gloss": "hold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 406.058,
+        "endTime": 406.258,
+        "gloss": "it"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 406.258,
+        "endTime": 406.64,
+        "gloss": "very"
+      },
+      {
+        "word": "近",
+        "pinyin": "jìn",
+        "startTime": 406.64,
+        "endTime": 407.282,
+        "gloss": "close"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 407.282,
+        "endTime": 407.604,
+        "gloss": "very"
+      },
+      {
+        "word": "近",
+        "pinyin": "jìn",
+        "startTime": 407.604,
+        "endTime": 408.126,
+        "gloss": "close"
+      }
+    ],
+    "fullTextEN": "If you hold it very close,"
+  },
+  {
+    "startTime": 408.2,
+    "endTime": 412.033,
+    "fullTextZH": "意思是你会找一个很近的男朋友。",
+    "words": [
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 408.28,
+        "endTime": 408.782,
+        "gloss": "meaning"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 408.782,
+        "endTime": 409.143,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 409.143,
+        "endTime": 409.324,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 409.324,
+        "endTime": 409.545,
+        "gloss": "will"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 409.545,
+        "endTime": 409.826,
+        "gloss": "find"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 409.826,
+        "endTime": 410.247,
+        "gloss": "a"
+      },
+      {
+        "word": "很近",
+        "pinyin": "hěn jìn",
+        "startTime": 410.247,
+        "endTime": 410.929,
+        "gloss": "nearby"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 410.929,
+        "endTime": 411.05,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 411.05,
+        "endTime": 411.993,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "It means you will find a boyfriend nearby."
+  },
+  {
+    "startTime": 412.066,
+    "endTime": 412.933,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 412.147,
+        "endTime": 412.913,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 413.0,
+    "endTime": 415.833,
+    "fullTextZH": "所以如果你拿的很远哦，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 413.0,
+        "endTime": 413.261,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 413.261,
+        "endTime": 413.603,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 413.603,
+        "endTime": 413.743,
+        "gloss": "you"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 413.743,
+        "endTime": 413.964,
+        "gloss": "hold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 413.964,
+        "endTime": 414.125,
+        "gloss": "it"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 414.125,
+        "endTime": 414.668,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 414.668,
+        "endTime": 415.15,
+        "gloss": "far"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 415.15,
+        "endTime": 415.813,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "So if you hold it very far away,"
+  },
+  {
+    "startTime": 415.866,
+    "endTime": 419.133,
+    "fullTextZH": "你的爸爸妈妈可能很难过。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 416.026,
+        "endTime": 416.167,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 416.167,
+        "endTime": 416.327,
+        "gloss": "parents"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 416.327,
+        "endTime": 417.53,
+        "gloss": "might"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 417.53,
+        "endTime": 418.171,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 418.171,
+        "endTime": 418.391,
+        "gloss": "sad"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 418.391,
+        "endTime": 418.752,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Your parents might be very sad."
+  },
+  {
+    "startTime": 419.433,
+    "endTime": 420.1,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 419.473,
+        "endTime": 420.06,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 420.166,
+    "endTime": 422.633,
+    "fullTextZH": "可是这个是真的吗？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 420.166,
+        "endTime": 420.928,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 420.928,
+        "endTime": 421.269,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 421.269,
+        "endTime": 421.49,
+        "gloss": "is"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 421.49,
+        "endTime": 421.871,
+        "gloss": "true"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 421.871,
+        "endTime": 422.613,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "But is this true?"
+  },
+  {
+    "startTime": 422.666,
+    "endTime": 425.1,
+    "fullTextZH": "我觉得如果我拿筷子，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 422.827,
+        "endTime": 423.008,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 423.008,
+        "endTime": 423.672,
+        "gloss": "think"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 423.672,
+        "endTime": 423.994,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 423.994,
+        "endTime": 424.195,
+        "gloss": "I"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 424.195,
+        "endTime": 424.497,
+        "gloss": "hold"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 424.497,
+        "endTime": 425.06,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "I think if I hold chopsticks,"
+  },
+  {
+    "startTime": 425.166,
+    "endTime": 428.666,
+    "fullTextZH": "可能我拿在中间中间。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 425.166,
+        "endTime": 425.709,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 425.709,
+        "endTime": 425.991,
+        "gloss": "I"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 425.991,
+        "endTime": 426.393,
+        "gloss": "hold"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 426.393,
+        "endTime": 426.795,
+        "gloss": "in"
+      },
+      {
+        "word": "中间",
+        "pinyin": "zhōng jiān",
+        "startTime": 426.795,
+        "endTime": 427.841,
+        "gloss": "middle"
+      },
+      {
+        "word": "中间",
+        "pinyin": "zhōng jiān",
+        "startTime": 427.841,
+        "endTime": 428.626,
+        "gloss": "middle"
+      }
+    ],
+    "fullTextEN": "Maybe I hold them in the middle."
+  },
+  {
+    "startTime": 428.7,
+    "endTime": 429.7,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 428.802,
+        "endTime": 429.68,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 429.766,
+    "endTime": 433.4,
+    "fullTextZH": "可是现在我在澳大利亚，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 429.766,
+        "endTime": 430.208,
+        "gloss": "but"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 430.208,
+        "endTime": 431.131,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 431.131,
+        "endTime": 431.452,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 431.452,
+        "endTime": 431.794,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 431.794,
+        "endTime": 433.36,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "But now I'm in Australia,"
+  },
+  {
+    "startTime": 433.433,
+    "endTime": 436.866,
+    "fullTextZH": "所以我应该拿这里，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 433.493,
+        "endTime": 433.794,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 433.794,
+        "endTime": 434.055,
+        "gloss": "I"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 434.055,
+        "endTime": 435.039,
+        "gloss": "should"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 435.039,
+        "endTime": 435.722,
+        "gloss": "hold"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 435.722,
+        "endTime": 436.826,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "So I should hold them here,"
+  },
+  {
+    "startTime": 436.9,
+    "endTime": 439.6,
+    "fullTextZH": "因为澳大利亚很远很远。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 436.94,
+        "endTime": 437.222,
+        "gloss": "because"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 437.222,
+        "endTime": 438.049,
+        "gloss": "Australia"
+      },
+      {
+        "word": "很远",
+        "pinyin": "hěn yuǎn",
+        "startTime": 438.049,
+        "endTime": 438.673,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 438.673,
+        "endTime": 438.935,
+        "gloss": "far"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 438.935,
+        "endTime": 439.56,
+        "gloss": "very"
+      }
+    ],
+    "fullTextEN": "Because Australia is very far away."
+  },
+  {
+    "startTime": 439.666,
+    "endTime": 440.466,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 439.687,
+        "endTime": 440.425,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 440.5,
+    "endTime": 442.1,
+    "fullTextZH": "所以不是真的，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 440.561,
+        "endTime": 441.006,
+        "gloss": "so"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 441.006,
+        "endTime": 441.391,
+        "gloss": "not"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 441.391,
+        "endTime": 442.059,
+        "gloss": "true"
+      }
+    ],
+    "fullTextEN": "So it's not true,"
+  },
+  {
+    "startTime": 442.1,
+    "endTime": 446.566,
+    "fullTextZH": "但是在中国很多人觉得这个是真的，好，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 442.12,
+        "endTime": 442.721,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 442.721,
+        "endTime": 442.901,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 442.901,
+        "endTime": 443.402,
+        "gloss": "China"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 443.402,
+        "endTime": 443.862,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 443.862,
+        "endTime": 444.123,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 444.123,
+        "endTime": 444.904,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 444.904,
+        "endTime": 445.404,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 445.404,
+        "endTime": 445.725,
+        "gloss": "is"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 445.725,
+        "endTime": 446.005,
+        "gloss": "true"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 446.486,
+        "endTime": 446.526,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "But in China, many people think this is true, okay,"
+  },
+  {
+    "startTime": 447.1,
+    "endTime": 448.733,
+    "fullTextZH": "筷子很有用，",
+    "words": [
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 447.12,
+        "endTime": 447.765,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 447.765,
+        "endTime": 448.027,
+        "gloss": "very"
+      },
+      {
+        "word": "有用",
+        "pinyin": "yǒu yòng",
+        "startTime": 448.027,
+        "endTime": 448.693,
+        "gloss": "useful"
+      }
+    ],
+    "fullTextEN": "Chopsticks are very useful,"
+  },
+  {
+    "startTime": 448.766,
+    "endTime": 451.2,
+    "fullTextZH": "你可以用筷子吃饭，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 448.826,
+        "endTime": 448.947,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 448.947,
+        "endTime": 449.249,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 449.249,
+        "endTime": 449.53,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 449.53,
+        "endTime": 450.355,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 450.355,
+        "endTime": 451.16,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "You can use chopsticks to eat,"
+  },
+  {
+    "startTime": 451.266,
+    "endTime": 454.066,
+    "fullTextZH": "你可以用筷子夹菜，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 451.326,
+        "endTime": 451.447,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 451.447,
+        "endTime": 451.749,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 451.749,
+        "endTime": 452.052,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 452.052,
+        "endTime": 452.737,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 452.737,
+        "endTime": 454.026,
+        "gloss": "pick up food"
+      }
+    ],
+    "fullTextEN": "You can use chopsticks to pick up food,"
+  },
+  {
+    "startTime": 454.1,
+    "endTime": 454.933,
+    "fullTextZH": "夹菜，",
+    "words": [
+      {
+        "word": "夹菜",
+        "pinyin": "jiā cài",
+        "startTime": 454.1,
+        "endTime": 454.892,
+        "gloss": "pick up food"
+      }
+    ],
+    "fullTextEN": "Pick up food,"
+  },
+  {
+    "startTime": 454.966,
+    "endTime": 457.433,
+    "fullTextZH": "你也可以用筷子做饭。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 455.026,
+        "endTime": 455.126,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 455.126,
+        "endTime": 455.367,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 455.367,
+        "endTime": 455.728,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 455.728,
+        "endTime": 456.029,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 456.029,
+        "endTime": 456.611,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 456.611,
+        "endTime": 457.393,
+        "gloss": "cook"
+      }
+    ],
+    "fullTextEN": "You can also cook with chopsticks."
+  },
+  {
+    "startTime": 457.5,
+    "endTime": 457.933,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 457.521,
+        "endTime": 457.912,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 457.966,
+    "endTime": 462.033,
+    "fullTextZH": "我常常用筷子打鸡蛋，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 458.066,
+        "endTime": 458.246,
+        "gloss": "I"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 458.246,
+        "endTime": 458.848,
+        "gloss": "often"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 458.848,
+        "endTime": 459.168,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 459.168,
+        "endTime": 460.09,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 460.09,
+        "endTime": 460.811,
+        "gloss": "beat"
+      },
+      {
+        "word": "鸡蛋",
+        "pinyin": "jī dàn",
+        "startTime": 460.811,
+        "endTime": 462.013,
+        "gloss": "eggs"
+      }
+    ],
+    "fullTextEN": "I often use chopsticks to beat eggs,"
+  },
+  {
+    "startTime": 462.1,
+    "endTime": 465.7,
+    "fullTextZH": "对筷子有很多很多用处。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 462.261,
+        "endTime": 462.361,
+        "gloss": "for"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 462.361,
+        "endTime": 463.186,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 463.186,
+        "endTime": 463.427,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 463.427,
+        "endTime": 464.896,
+        "gloss": "many many"
+      },
+      {
+        "word": "用处",
+        "pinyin": "yòng chǔ",
+        "startTime": 464.896,
+        "endTime": 465.66,
+        "gloss": "uses"
+      }
+    ],
+    "fullTextEN": "Chopsticks have many, many uses."
+  },
+  {
+    "startTime": 466.966,
+    "endTime": 469.433,
+    "fullTextZH": "你的家有没有筷子？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 467.046,
+        "endTime": 467.207,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 467.207,
+        "endTime": 467.367,
+        "gloss": "of"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 467.367,
+        "endTime": 467.869,
+        "gloss": "home"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 467.869,
+        "endTime": 468.41,
+        "gloss": "have or not"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 468.41,
+        "endTime": 469.393,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "Does your home have chopsticks?"
+  },
+  {
+    "startTime": 469.5,
+    "endTime": 470.666,
+    "fullTextZH": "如果没有，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 469.58,
+        "endTime": 470.103,
+        "gloss": "if"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 470.103,
+        "endTime": 470.626,
+        "gloss": "not have"
+      }
+    ],
+    "fullTextEN": "If not,"
+  },
+  {
+    "startTime": 470.7,
+    "endTime": 474.266,
+    "fullTextZH": "我觉得你应该买筷子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 471.041,
+        "endTime": 471.221,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 471.221,
+        "endTime": 471.922,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 471.922,
+        "endTime": 472.162,
+        "gloss": "you"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 472.162,
+        "endTime": 472.824,
+        "gloss": "should"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 472.824,
+        "endTime": 473.144,
+        "gloss": "buy"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 473.144,
+        "endTime": 474.226,
+        "gloss": "chopsticks"
+      }
+    ],
+    "fullTextEN": "I think you should buy chopsticks."
+  },
+  {
+    "startTime": 474.3,
+    "endTime": 475.3,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 474.361,
+        "endTime": 475.259,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 475.333,
+    "endTime": 476.3,
+    "fullTextZH": "哦，",
+    "words": [
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 475.414,
+        "endTime": 476.26,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Oh,"
+  },
+  {
+    "startTime": 476.333,
+    "endTime": 479.733,
+    "fullTextZH": "你不会用筷子啊，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 476.393,
+        "endTime": 476.615,
+        "gloss": "you"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 476.615,
+        "endTime": 477.238,
+        "gloss": "cannot"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 477.238,
+        "endTime": 477.56,
+        "gloss": "use"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 477.56,
+        "endTime": 478.948,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 478.948,
+        "endTime": 479.693,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "You can't use chopsticks,"
+  },
+  {
+    "startTime": 479.766,
+    "endTime": 481.333,
+    "fullTextZH": "我可以教你。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 479.927,
+        "endTime": 480.108,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 480.108,
+        "endTime": 480.509,
+        "gloss": "can"
+      },
+      {
+        "word": "教",
+        "pinyin": "jiào",
+        "startTime": 480.509,
+        "endTime": 480.851,
+        "gloss": "teach"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 480.851,
+        "endTime": 481.293,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "I can teach you."
+  },
+  {
+    "startTime": 483.566,
+    "endTime": 486.1,
+    "fullTextZH": "你看",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 483.586,
+        "endTime": 483.707,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 483.707,
+        "endTime": 483.727,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look,"
+  },
+  {
+    "startTime": 486.1,
+    "endTime": 487.4,
+    "fullTextZH": "这个手，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 486.1,
+        "endTime": 487.217,
+        "gloss": "this"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 487.217,
+        "endTime": 487.38,
+        "gloss": "hand"
+      }
+    ],
+    "fullTextEN": "This hand,"
+  },
+  {
+    "startTime": 487.466,
+    "endTime": 490.166,
+    "fullTextZH": "筷子放在这个手上，",
+    "words": [
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 487.506,
+        "endTime": 487.667,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 487.667,
+        "endTime": 488.494,
+        "gloss": "place in"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 488.494,
+        "endTime": 488.756,
+        "gloss": "this"
+      },
+      {
+        "word": "手上",
+        "pinyin": "shǒu shàng",
+        "startTime": 488.756,
+        "endTime": 489.662,
+        "gloss": "hand"
+      }
+    ],
+    "fullTextEN": "Place the chopsticks in this hand,"
+  },
+  {
+    "startTime": 490.2,
+    "endTime": 493.433,
+    "fullTextZH": "然后呢这三个手指，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 490.22,
+        "endTime": 490.32,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 490.32,
+        "endTime": 490.762,
+        "gloss": "well"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 490.762,
+        "endTime": 491.204,
+        "gloss": "these"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 491.204,
+        "endTime": 492.128,
+        "gloss": "three"
+      },
+      {
+        "word": "手指",
+        "pinyin": "shǒu zhǐ",
+        "startTime": 492.128,
+        "endTime": 493.393,
+        "gloss": "fingers"
+      }
+    ],
+    "fullTextEN": "Then these three fingers,"
+  },
+  {
+    "startTime": 496.066,
+    "endTime": 497.566,
+    "fullTextZH": "三个手指，",
+    "words": [
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 496.066,
+        "endTime": 496.127,
+        "gloss": "three"
+      },
+      {
+        "word": "手指",
+        "pinyin": "shǒu zhǐ",
+        "startTime": 496.127,
+        "endTime": 497.059,
+        "gloss": "fingers"
+      }
+    ],
+    "fullTextEN": "Three fingers,"
+  },
+  {
+    "startTime": 497.966,
+    "endTime": 498.666,
+    "fullTextZH": "可以动，",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 497.987,
+        "endTime": 498.625,
+        "gloss": "can"
+      },
+      {
+        "word": "动",
+        "pinyin": "dòng",
+        "startTime": 498.625,
+        "endTime": 498.645,
+        "gloss": "move"
+      }
+    ],
+    "fullTextEN": "Can move,"
+  },
+  {
+    "startTime": 503.866,
+    "endTime": 504.633,
+    "fullTextZH": "可以动。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 503.967,
+        "endTime": 504.593,
+        "gloss": "can"
+      },
+      {
+        "word": "动",
+        "pinyin": "dòng",
+        "startTime": 504.593,
+        "endTime": 504.613,
+        "gloss": "move"
+      }
+    ],
+    "fullTextEN": "Can move."
+  },
+  {
+    "startTime": 507.7,
+    "endTime": 508.666,
+    "fullTextZH": "我觉得，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 508.243,
+        "endTime": 508.364,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 508.364,
+        "endTime": 508.646,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "I think,"
+  },
+  {
+    "startTime": 508.7,
+    "endTime": 510.066,
+    "fullTextZH": "我觉得很简单，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 508.7,
+        "endTime": 508.821,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 508.821,
+        "endTime": 508.861,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 508.861,
+        "endTime": 508.901,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 508.901,
+        "endTime": 509.524,
+        "gloss": "simple"
+      }
+    ],
+    "fullTextEN": "I think it's very simple,"
+  },
+  {
+    "startTime": 510.1,
+    "endTime": 512.266,
+    "fullTextZH": "可是可能看起来很难，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 510.1,
+        "endTime": 510.18,
+        "gloss": "but"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 510.18,
+        "endTime": 510.521,
+        "gloss": "might"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 510.521,
+        "endTime": 511.103,
+        "gloss": "look"
+      },
+      {
+        "word": "很难",
+        "pinyin": "hěn nán",
+        "startTime": 511.103,
+        "endTime": 511.845,
+        "gloss": "difficult"
+      }
+    ],
+    "fullTextEN": "but it might look difficult,"
+  },
+  {
+    "startTime": 512.3,
+    "endTime": 513.933,
+    "fullTextZH": "我不知道。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 512.3,
+        "endTime": 512.32,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 512.32,
+        "endTime": 512.36,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 512.36,
+        "endTime": 513.893,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "I don't know."
+  },
+  {
+    "startTime": 513.966,
+    "endTime": 514.733,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 514.693,
+        "endTime": 514.713,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 515.333,
+    "endTime": 516.0,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 515.353,
+        "endTime": 515.495,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 516.033,
+    "endTime": 520.666,
+    "fullTextZH": "今天我说了很多很多关于筷子的东西，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 516.053,
+        "endTime": 516.153,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 516.153,
+        "endTime": 516.314,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 516.314,
+        "endTime": 516.554,
+        "gloss": "talked"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 516.554,
+        "endTime": 516.735,
+        "gloss": "past"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 516.735,
+        "endTime": 517.798,
+        "gloss": "a lot"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 517.798,
+        "endTime": 518.64,
+        "gloss": "about"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 518.64,
+        "endTime": 519.202,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 519.202,
+        "endTime": 519.342,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 519.342,
+        "endTime": 520.626,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Today I talked a lot about chopsticks,"
+  },
+  {
+    "startTime": 521.0,
+    "endTime": 526.5,
+    "fullTextZH": "你还知道什么关于筷子的东西吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 521.02,
+        "endTime": 521.482,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 521.482,
+        "endTime": 522.064,
+        "gloss": "still"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 522.064,
+        "endTime": 522.686,
+        "gloss": "know"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 522.686,
+        "endTime": 523.549,
+        "gloss": "what"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 523.549,
+        "endTime": 524.332,
+        "gloss": "about"
+      },
+      {
+        "word": "筷子",
+        "pinyin": "kuài zi",
+        "startTime": 524.332,
+        "endTime": 524.954,
+        "gloss": "chopsticks"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 524.954,
+        "endTime": 525.095,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 525.095,
+        "endTime": 525.536,
+        "gloss": "things"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 525.536,
+        "endTime": 526.48,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know anything else about chopsticks?"
+  },
+  {
+    "startTime": 526.5,
+    "endTime": 528.3,
+    "fullTextZH": "留言告诉我。",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 526.52,
+        "endTime": 527.046,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 527.046,
+        "endTime": 527.491,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 527.491,
+        "endTime": 528.26,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment and tell me."
+  },
+  {
+    "startTime": 528.3,
+    "endTime": 528.7,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 528.426,
+        "endTime": 528.679,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 528.733,
+    "endTime": 531.033,
+    "fullTextZH": "那我们下次见，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 528.834,
+        "endTime": 528.995,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 528.995,
+        "endTime": 529.822,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 529.822,
+        "endTime": 530.569,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 530.569,
+        "endTime": 530.993,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "Then see you next time,"
+  },
+  {
+    "startTime": 531.1,
+    "endTime": 531.7,
+    "fullTextZH": "拜拜！",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 531.162,
+        "endTime": 531.659,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Bye!"
+  }
+]

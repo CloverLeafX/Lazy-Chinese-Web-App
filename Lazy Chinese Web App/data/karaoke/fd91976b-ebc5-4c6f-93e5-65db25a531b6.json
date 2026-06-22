@@ -1,0 +1,5418 @@
+[
+  {
+    "startTime": 5.0,
+    "endTime": 6.366,
+    "fullTextZH": "hello大家。",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 5.723,
+        "endTime": 6.326,
+        "gloss": "everyone"
+      }
+    ],
+    "fullTextEN": "Hello everyone."
+  },
+  {
+    "startTime": 6.366,
+    "endTime": 8.2,
+    "fullTextZH": "今天的天气很好。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 6.426,
+        "endTime": 6.769,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 6.769,
+        "endTime": 6.93,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 6.93,
+        "endTime": 7.495,
+        "gloss": "weather"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 7.495,
+        "endTime": 7.857,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 7.857,
+        "endTime": 8.18,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Today's weather is very good."
+  },
+  {
+    "startTime": 8.2,
+    "endTime": 10.0,
+    "fullTextZH": "我们准备出门。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 8.281,
+        "endTime": 8.503,
+        "gloss": "we"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 8.503,
+        "endTime": 9.11,
+        "gloss": "prepare"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 9.11,
+        "endTime": 9.757,
+        "gloss": "go out"
+      }
+    ],
+    "fullTextEN": "We are ready to go out."
+  },
+  {
+    "startTime": 10.1,
+    "endTime": 13.3,
+    "fullTextZH": "今天呢，我要带大家去露营。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 10.16,
+        "endTime": 10.603,
+        "gloss": "today"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 10.603,
+        "endTime": 10.744,
+        "gloss": "well"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 10.825,
+        "endTime": 11.167,
+        "gloss": "I want"
+      },
+      {
+        "word": "带",
+        "pinyin": "dài",
+        "startTime": 11.167,
+        "endTime": 11.368,
+        "gloss": "take"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 11.368,
+        "endTime": 11.851,
+        "gloss": "everyone"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 11.851,
+        "endTime": 12.253,
+        "gloss": "to"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 12.253,
+        "endTime": 13.28,
+        "gloss": "camp"
+      }
+    ],
+    "fullTextEN": "Today, I will take everyone camping."
+  },
+  {
+    "startTime": 13.3,
+    "endTime": 15.366,
+    "fullTextZH": "我们要去的这个地方很漂亮。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 13.38,
+        "endTime": 13.561,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 13.561,
+        "endTime": 13.761,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 13.761,
+        "endTime": 13.882,
+        "gloss": "go"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 13.882,
+        "endTime": 14.002,
+        "gloss": "of"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 14.002,
+        "endTime": 14.223,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 14.223,
+        "endTime": 14.604,
+        "gloss": "place"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 14.604,
+        "endTime": 15.326,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "The place we are going to is very beautiful."
+  },
+  {
+    "startTime": 15.366,
+    "endTime": 18.2,
+    "fullTextZH": "在山上，是在台湾的中部。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 15.406,
+        "endTime": 15.647,
+        "gloss": "at"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 15.647,
+        "endTime": 16.15,
+        "gloss": "mountain"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 16.27,
+        "endTime": 16.431,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 16.431,
+        "endTime": 16.693,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 16.693,
+        "endTime": 17.215,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 17.215,
+        "endTime": 17.416,
+        "gloss": "of"
+      },
+      {
+        "word": "中部",
+        "pinyin": "zhōng bù",
+        "startTime": 17.416,
+        "endTime": 18.18,
+        "gloss": "central"
+      }
+    ],
+    "fullTextEN": "It's on a mountain, in central Taiwan."
+  },
+  {
+    "startTime": 18.333,
+    "endTime": 19.933,
+    "fullTextZH": "我们要去哪里呢？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 18.414,
+        "endTime": 18.556,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 18.556,
+        "endTime": 18.698,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 18.698,
+        "endTime": 18.839,
+        "gloss": "go"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 18.839,
+        "endTime": 19.528,
+        "gloss": "where"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 19.528,
+        "endTime": 19.892,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "Where are we going?"
+  },
+  {
+    "startTime": 20.333,
+    "endTime": 22.166,
+    "fullTextZH": "清净的山上。",
+    "words": [
+      {
+        "word": "清净",
+        "pinyin": "qīng jìng",
+        "startTime": 20.434,
+        "endTime": 21.179,
+        "gloss": "quiet"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 21.179,
+        "endTime": 21.421,
+        "gloss": "of"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 21.421,
+        "endTime": 22.126,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "On a quiet mountain."
+  },
+  {
+    "startTime": 22.233,
+    "endTime": 23.166,
+    "fullTextZH": "清净农场。",
+    "words": [
+      {
+        "word": "清净",
+        "pinyin": "qīng jìng",
+        "startTime": 22.334,
+        "endTime": 22.679,
+        "gloss": "Qingjing"
+      },
+      {
+        "word": "农场",
+        "pinyin": "nóng chǎng",
+        "startTime": 22.679,
+        "endTime": 23.125,
+        "gloss": "farm"
+      }
+    ],
+    "fullTextEN": "Qingjing Farm."
+  },
+  {
+    "startTime": 23.166,
+    "endTime": 24.2,
+    "fullTextZH": "清净清净农场。",
+    "words": [
+      {
+        "word": "清净",
+        "pinyin": "qīng jìng",
+        "startTime": 23.186,
+        "endTime": 23.45,
+        "gloss": "Qingjing"
+      },
+      {
+        "word": "清净",
+        "pinyin": "qīng jìng",
+        "startTime": 23.45,
+        "endTime": 23.795,
+        "gloss": "Qingjing"
+      },
+      {
+        "word": "农场",
+        "pinyin": "nóng chǎng",
+        "startTime": 23.795,
+        "endTime": 24.159,
+        "gloss": "farm"
+      }
+    ],
+    "fullTextEN": "Qingjing Qingjing Farm."
+  },
+  {
+    "startTime": 24.2,
+    "endTime": 27.166,
+    "fullTextZH": "清净农场在台湾的南投。",
+    "words": [
+      {
+        "word": "清净",
+        "pinyin": "qīng jìng",
+        "startTime": 24.22,
+        "endTime": 24.581,
+        "gloss": "Qingjing"
+      },
+      {
+        "word": "农场",
+        "pinyin": "nóng chǎng",
+        "startTime": 24.581,
+        "endTime": 25.182,
+        "gloss": "farm"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 25.182,
+        "endTime": 25.382,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 25.382,
+        "endTime": 25.843,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 25.843,
+        "endTime": 26.425,
+        "gloss": "of"
+      },
+      {
+        "word": "南投",
+        "pinyin": "nán tóu",
+        "startTime": 26.425,
+        "endTime": 27.126,
+        "gloss": "Nantou"
+      }
+    ],
+    "fullTextEN": "Qingjing Farm is in Nantou, Taiwan."
+  },
+  {
+    "startTime": 27.2,
+    "endTime": 28.0,
+    "fullTextZH": "南投。",
+    "words": [
+      {
+        "word": "南投",
+        "pinyin": "nán tóu",
+        "startTime": 27.241,
+        "endTime": 27.979,
+        "gloss": "Nantou"
+      }
+    ],
+    "fullTextEN": "Nantou."
+  },
+  {
+    "startTime": 28.166,
+    "endTime": 29.966,
+    "fullTextZH": "这个是我的姐姐。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 28.247,
+        "endTime": 28.449,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 28.449,
+        "endTime": 28.57,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 28.57,
+        "endTime": 28.672,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 28.672,
+        "endTime": 28.833,
+        "gloss": "of"
+      },
+      {
+        "word": "姐姐",
+        "pinyin": "jiě jiě",
+        "startTime": 28.833,
+        "endTime": 29.845,
+        "gloss": "sister"
+      }
+    ],
+    "fullTextEN": "This is my sister."
+  },
+  {
+    "startTime": 29.966,
+    "endTime": 32.1,
+    "fullTextZH": "她是今天的司机。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 30.006,
+        "endTime": 30.167,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 30.167,
+        "endTime": 30.288,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 30.288,
+        "endTime": 30.65,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 30.65,
+        "endTime": 31.033,
+        "gloss": "of"
+      },
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 31.033,
+        "endTime": 32.06,
+        "gloss": "driver"
+      }
+    ],
+    "fullTextEN": "She is today's driver."
+  },
+  {
+    "startTime": 32.1,
+    "endTime": 35.2,
+    "fullTextZH": "司机就是要开车。",
+    "words": [
+      {
+        "word": "司机",
+        "pinyin": "sī jī",
+        "startTime": 32.221,
+        "endTime": 32.503,
+        "gloss": "driver"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 32.503,
+        "endTime": 32.825,
+        "gloss": "just"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 32.825,
+        "endTime": 34.495,
+        "gloss": "need"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 34.495,
+        "endTime": 35.16,
+        "gloss": "drive"
+      }
+    ],
+    "fullTextEN": "The driver needs to drive."
+  },
+  {
+    "startTime": 35.2,
+    "endTime": 37.1,
+    "fullTextZH": "没错啊，然后啊。",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 35.261,
+        "endTime": 36.009,
+        "gloss": "correct"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 36.009,
+        "endTime": 36.211,
+        "gloss": "ah"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 36.271,
+        "endTime": 36.716,
+        "gloss": "then"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 36.716,
+        "endTime": 36.857,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "That's right, and then."
+  },
+  {
+    "startTime": 37.1,
+    "endTime": 41.233,
+    "fullTextZH": "我们的车子里面装了很多很多的东西。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 37.18,
+        "endTime": 37.421,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 37.421,
+        "endTime": 37.682,
+        "gloss": "of"
+      },
+      {
+        "word": "车子",
+        "pinyin": "chē zi",
+        "startTime": 37.682,
+        "endTime": 38.224,
+        "gloss": "car"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 38.224,
+        "endTime": 38.705,
+        "gloss": "inside"
+      },
+      {
+        "word": "装",
+        "pinyin": "zhuāng",
+        "startTime": 38.705,
+        "endTime": 38.986,
+        "gloss": "packed"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 38.986,
+        "endTime": 39.187,
+        "gloss": "le"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 39.187,
+        "endTime": 40.15,
+        "gloss": "many many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 40.15,
+        "endTime": 40.31,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 40.31,
+        "endTime": 41.213,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Our car is packed with many things."
+  },
+  {
+    "startTime": 41.733,
+    "endTime": 44.7,
+    "fullTextZH": "你看，我没办法坐。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 41.773,
+        "endTime": 41.913,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 41.913,
+        "endTime": 42.114,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 42.174,
+        "endTime": 43.597,
+        "gloss": "I"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 43.597,
+        "endTime": 43.738,
+        "gloss": "no"
+      },
+      {
+        "word": "办法",
+        "pinyin": "bàn fǎ",
+        "startTime": 43.738,
+        "endTime": 44.199,
+        "gloss": "way"
+      },
+      {
+        "word": "坐",
+        "pinyin": "zuò",
+        "startTime": 44.199,
+        "endTime": 44.66,
+        "gloss": "sit"
+      }
+    ],
+    "fullTextEN": "Look, I can't sit."
+  },
+  {
+    "startTime": 46.3,
+    "endTime": 51.033,
+    "fullTextZH": "所以等一下会拍路上的风景给大家看。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 46.4,
+        "endTime": 46.882,
+        "gloss": "so"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 46.882,
+        "endTime": 47.002,
+        "gloss": "wait"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 47.002,
+        "endTime": 47.624,
+        "gloss": "a bit"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 47.624,
+        "endTime": 48.506,
+        "gloss": "will"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 48.506,
+        "endTime": 49.088,
+        "gloss": "film"
+      },
+      {
+        "word": "路上",
+        "pinyin": "lù shàng",
+        "startTime": 49.088,
+        "endTime": 49.549,
+        "gloss": "road"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 49.549,
+        "endTime": 49.709,
+        "gloss": "of"
+      },
+      {
+        "word": "风景",
+        "pinyin": "fēng jǐng",
+        "startTime": 49.709,
+        "endTime": 50.191,
+        "gloss": "scenery"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 50.191,
+        "endTime": 50.331,
+        "gloss": "for"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 50.331,
+        "endTime": 50.692,
+        "gloss": "everyone"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 50.692,
+        "endTime": 50.993,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "So later, I will film the scenery on the road for everyone to see."
+  },
+  {
+    "startTime": 51.133,
+    "endTime": 53.9,
+    "fullTextZH": "然后你可以看，今天的天气真的很好。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 51.193,
+        "endTime": 51.434,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 51.434,
+        "endTime": 51.554,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 51.554,
+        "endTime": 51.755,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 51.755,
+        "endTime": 51.895,
+        "gloss": "see"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 52.015,
+        "endTime": 52.316,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.316,
+        "endTime": 52.396,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 52.396,
+        "endTime": 52.797,
+        "gloss": "weather"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 52.797,
+        "endTime": 53.098,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 53.098,
+        "endTime": 53.459,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 53.459,
+        "endTime": 53.86,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Then you can see, today's weather is really good."
+  },
+  {
+    "startTime": 54.566,
+    "endTime": 55.0,
+    "fullTextZH": "看一下。",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 54.587,
+        "endTime": 54.773,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 54.773,
+        "endTime": 54.959,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "Take a look."
+  },
+  {
+    "startTime": 55.7,
+    "endTime": 57.6,
+    "fullTextZH": "哼，出发。",
+    "words": [
+      {
+        "word": "哼",
+        "pinyin": "hēng",
+        "startTime": 55.781,
+        "endTime": 56.023,
+        "gloss": "hmph"
+      },
+      {
+        "word": "出发",
+        "pinyin": "chū fā",
+        "startTime": 56.973,
+        "endTime": 57.56,
+        "gloss": "depart"
+      }
+    ],
+    "fullTextEN": "Hmph, let's go."
+  },
+  {
+    "startTime": 59.966,
+    "endTime": 65.1,
+    "fullTextZH": "这次要去露营的地方在台湾的南投。",
+    "words": [
+      {
+        "word": "这次",
+        "pinyin": "zhè cì",
+        "startTime": 60.648,
+        "endTime": 61.29,
+        "gloss": "this time"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 61.29,
+        "endTime": 61.59,
+        "gloss": "will"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 61.59,
+        "endTime": 61.831,
+        "gloss": "go"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 61.831,
+        "endTime": 62.332,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 62.332,
+        "endTime": 62.573,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 62.573,
+        "endTime": 63.275,
+        "gloss": "place"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 63.275,
+        "endTime": 63.576,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 63.576,
+        "endTime": 64.238,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 64.238,
+        "endTime": 64.478,
+        "gloss": "of"
+      },
+      {
+        "word": "南投",
+        "pinyin": "nán tóu",
+        "startTime": 64.478,
+        "endTime": 65.08,
+        "gloss": "Nantou"
+      }
+    ],
+    "fullTextEN": "This time, the camping place we are going to is in Nantou, Taiwan."
+  },
+  {
+    "startTime": 65.266,
+    "endTime": 68.866,
+    "fullTextZH": "从我的家开车到这个露营的地方，",
+    "words": [
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 66.03,
+        "endTime": 66.312,
+        "gloss": "from"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 66.312,
+        "endTime": 66.453,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 66.453,
+        "endTime": 66.674,
+        "gloss": "of"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 66.674,
+        "endTime": 66.996,
+        "gloss": "home"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 66.996,
+        "endTime": 67.599,
+        "gloss": "drive"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 67.599,
+        "endTime": 67.82,
+        "gloss": "to"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 67.82,
+        "endTime": 68.142,
+        "gloss": "this"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 68.142,
+        "endTime": 68.584,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 68.584,
+        "endTime": 68.745,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 68.745,
+        "endTime": 68.826,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Driving from my home to this camping place,"
+  },
+  {
+    "startTime": 68.866,
+    "endTime": 71.6,
+    "fullTextZH": "大概要快3个小时。",
+    "words": [
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "startTime": 69.509,
+        "endTime": 69.931,
+        "gloss": "about"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 69.931,
+        "endTime": 70.273,
+        "gloss": "takes"
+      },
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 70.273,
+        "endTime": 70.675,
+        "gloss": "almost"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 71.017,
+        "endTime": 71.138,
+        "gloss": "measure word"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 71.138,
+        "endTime": 71.56,
+        "gloss": "hours"
+      }
+    ],
+    "fullTextEN": "it takes about 3 hours."
+  },
+  {
+    "startTime": 72.5,
+    "endTime": 76.266,
+    "fullTextZH": "你可以看到一路上都是山。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 73.181,
+        "endTime": 73.381,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 73.381,
+        "endTime": 73.702,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 73.702,
+        "endTime": 74.423,
+        "gloss": "see"
+      },
+      {
+        "word": "一路上",
+        "pinyin": "yī lù shàng",
+        "startTime": 74.423,
+        "endTime": 75.304,
+        "gloss": "along the way"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 75.304,
+        "endTime": 75.725,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 75.725,
+        "endTime": 76.226,
+        "gloss": "are"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 76.226,
+        "endTime": 76.246,
+        "gloss": "mountains"
+      }
+    ],
+    "fullTextEN": "You can see mountains all along the way."
+  },
+  {
+    "startTime": 76.366,
+    "endTime": 80.7,
+    "fullTextZH": "然后我们从大大的路一直开一直开，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 77.048,
+        "endTime": 77.45,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 77.45,
+        "endTime": 77.791,
+        "gloss": "we"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 77.791,
+        "endTime": 78.232,
+        "gloss": "from"
+      },
+      {
+        "word": "大大的",
+        "pinyin": "dà dà de",
+        "startTime": 78.232,
+        "endTime": 79.055,
+        "gloss": "big"
+      },
+      {
+        "word": "路",
+        "pinyin": "lù",
+        "startTime": 79.055,
+        "endTime": 79.376,
+        "gloss": "road"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 79.376,
+        "endTime": 79.917,
+        "gloss": "continuously"
+      },
+      {
+        "word": "开",
+        "pinyin": "kāi",
+        "startTime": 79.917,
+        "endTime": 80.339,
+        "gloss": "drive"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 80.339,
+        "endTime": 80.66,
+        "gloss": "continuously"
+      },
+      {
+        "word": "开",
+        "pinyin": "kāi",
+        "startTime": 80.66,
+        "endTime": 80.68,
+        "gloss": "drive"
+      }
+    ],
+    "fullTextEN": "Then we kept driving on the big road,"
+  },
+  {
+    "startTime": 80.766,
+    "endTime": 83.466,
+    "fullTextZH": "开到了小小的路。",
+    "words": [
+      {
+        "word": "开到",
+        "pinyin": "kāi dào",
+        "startTime": 81.431,
+        "endTime": 81.935,
+        "gloss": "reach"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 81.935,
+        "endTime": 82.237,
+        "gloss": "completed"
+      },
+      {
+        "word": "小小的",
+        "pinyin": "xiǎo xiǎo de",
+        "startTime": 82.237,
+        "endTime": 83.244,
+        "gloss": "small"
+      },
+      {
+        "word": "路",
+        "pinyin": "lù",
+        "startTime": 83.244,
+        "endTime": 83.426,
+        "gloss": "road"
+      }
+    ],
+    "fullTextEN": "and reached the small road."
+  },
+  {
+    "startTime": 83.466,
+    "endTime": 85.7,
+    "fullTextZH": "路变得越来越小，",
+    "words": [
+      {
+        "word": "路",
+        "pinyin": "lù",
+        "startTime": 83.869,
+        "endTime": 84.11,
+        "gloss": "road"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 84.11,
+        "endTime": 84.613,
+        "gloss": "became"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 84.613,
+        "endTime": 85.66,
+        "gloss": "increasingly"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 85.66,
+        "endTime": 85.68,
+        "gloss": "small"
+      }
+    ],
+    "fullTextEN": "The road became smaller and smaller,"
+  },
+  {
+    "startTime": 85.7,
+    "endTime": 87.0,
+    "fullTextZH": "越来越小。",
+    "words": [
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 85.741,
+        "endTime": 86.736,
+        "gloss": "increasingly"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 86.736,
+        "endTime": 86.98,
+        "gloss": "small"
+      }
+    ],
+    "fullTextEN": "smaller and smaller."
+  },
+  {
+    "startTime": 87.0,
+    "endTime": 89.266,
+    "fullTextZH": "真的越来越难开。",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 87.662,
+        "endTime": 88.123,
+        "gloss": "really"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 88.123,
+        "endTime": 88.845,
+        "gloss": "increasingly"
+      },
+      {
+        "word": "难开",
+        "pinyin": "nán kāi",
+        "startTime": 88.845,
+        "endTime": 89.246,
+        "gloss": "hard to drive"
+      }
+    ],
+    "fullTextEN": "It really became harder to drive."
+  },
+  {
+    "startTime": 89.433,
+    "endTime": 92.366,
+    "fullTextZH": "而且天已经慢慢要黑了。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 90.096,
+        "endTime": 90.598,
+        "gloss": "moreover"
+      },
+      {
+        "word": "天",
+        "pinyin": "tiān",
+        "startTime": 90.598,
+        "endTime": 91.04,
+        "gloss": "sky"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 91.04,
+        "endTime": 91.422,
+        "gloss": "already"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 91.422,
+        "endTime": 91.844,
+        "gloss": "slowly"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 91.844,
+        "endTime": 92.085,
+        "gloss": "about to"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 92.085,
+        "endTime": 92.306,
+        "gloss": "dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 92.306,
+        "endTime": 92.326,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Moreover, it was already getting dark."
+  },
+  {
+    "startTime": 92.433,
+    "endTime": 93.966,
+    "fullTextZH": "所以更不容易。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 93.159,
+        "endTime": 93.724,
+        "gloss": "so"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 93.724,
+        "endTime": 93.865,
+        "gloss": "even"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 93.865,
+        "endTime": 93.885,
+        "gloss": "not"
+      },
+      {
+        "word": "容易",
+        "pinyin": "róng yì",
+        "startTime": 93.885,
+        "endTime": 93.946,
+        "gloss": "easy"
+      }
+    ],
+    "fullTextEN": "So it was even more difficult."
+  },
+  {
+    "startTime": 94.066,
+    "endTime": 98.3,
+    "fullTextZH": "终于到了我们今天要露营的地方了。",
+    "words": [
+      {
+        "word": "终于",
+        "pinyin": "zhōng yú",
+        "startTime": 94.728,
+        "endTime": 95.431,
+        "gloss": "finally"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 95.431,
+        "endTime": 95.711,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 95.711,
+        "endTime": 95.892,
+        "gloss": "completed"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 95.892,
+        "endTime": 96.354,
+        "gloss": "we"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 96.354,
+        "endTime": 96.795,
+        "gloss": "today"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 96.795,
+        "endTime": 97.116,
+        "gloss": "will"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 97.116,
+        "endTime": 97.758,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 97.758,
+        "endTime": 97.959,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 97.959,
+        "endTime": 98.16,
+        "gloss": "place"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 98.16,
+        "endTime": 98.24,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Finally, we arrived at the place we are camping today."
+  },
+  {
+    "startTime": 98.3,
+    "endTime": 100.566,
+    "fullTextZH": "可是天已经黑了啊。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 98.982,
+        "endTime": 99.423,
+        "gloss": "but"
+      },
+      {
+        "word": "天",
+        "pinyin": "tiān",
+        "startTime": 99.423,
+        "endTime": 99.784,
+        "gloss": "sky"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 99.784,
+        "endTime": 100.345,
+        "gloss": "already"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 100.345,
+        "endTime": 100.506,
+        "gloss": "dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 100.506,
+        "endTime": 100.526,
+        "gloss": "completed"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 100.526,
+        "endTime": 100.546,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "But it was already dark."
+  },
+  {
+    "startTime": 101.0,
+    "endTime": 103.1,
+    "fullTextZH": "这里有一个很大的下坡，",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 101.646,
+        "endTime": 101.929,
+        "gloss": "here"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 101.929,
+        "endTime": 102.111,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 102.111,
+        "endTime": 102.292,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 102.292,
+        "endTime": 102.898,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.898,
+        "endTime": 102.999,
+        "gloss": "of"
+      },
+      {
+        "word": "下坡",
+        "pinyin": "xià pō",
+        "startTime": 102.999,
+        "endTime": 103.08,
+        "gloss": "downhill"
+      }
+    ],
+    "fullTextEN": "There is a big downhill here,"
+  },
+  {
+    "startTime": 103.1,
+    "endTime": 105.6,
+    "fullTextZH": "所以我的姐姐看不到前面。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 103.785,
+        "endTime": 103.967,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 103.967,
+        "endTime": 104.088,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 104.088,
+        "endTime": 104.229,
+        "gloss": "of"
+      },
+      {
+        "word": "姐姐",
+        "pinyin": "jiě jiě",
+        "startTime": 104.229,
+        "endTime": 104.632,
+        "gloss": "sister"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 104.632,
+        "endTime": 105.358,
+        "gloss": "cannot see"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 105.358,
+        "endTime": 105.58,
+        "gloss": "ahead"
+      }
+    ],
+    "fullTextEN": "so my sister couldn't see ahead."
+  },
+  {
+    "startTime": 105.7,
+    "endTime": 109.166,
+    "fullTextZH": "然后现在天色又有一点晚，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 106.361,
+        "endTime": 106.642,
+        "gloss": "then"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 106.642,
+        "endTime": 107.102,
+        "gloss": "now"
+      },
+      {
+        "word": "天色",
+        "pinyin": "tiān sè",
+        "startTime": 107.102,
+        "endTime": 107.824,
+        "gloss": "sky"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 107.824,
+        "endTime": 108.024,
+        "gloss": "again"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 108.024,
+        "endTime": 108.385,
+        "gloss": "have"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 108.385,
+        "endTime": 109.106,
+        "gloss": "a bit"
+      },
+      {
+        "word": "晚",
+        "pinyin": "wǎn",
+        "startTime": 109.106,
+        "endTime": 109.126,
+        "gloss": "late"
+      }
+    ],
+    "fullTextEN": "And now it's a bit late,"
+  },
+  {
+    "startTime": 109.2,
+    "endTime": 111.566,
+    "fullTextZH": "所以在山路开车起来，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 109.922,
+        "endTime": 110.243,
+        "gloss": "so"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 110.243,
+        "endTime": 110.543,
+        "gloss": "on"
+      },
+      {
+        "word": "山路",
+        "pinyin": "shān lù",
+        "startTime": 110.543,
+        "endTime": 111.305,
+        "gloss": "mountain road"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 111.305,
+        "endTime": 111.486,
+        "gloss": "drive"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 111.486,
+        "endTime": 111.526,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "so driving on the mountain road,"
+  },
+  {
+    "startTime": 111.566,
+    "endTime": 113.3,
+    "fullTextZH": "真的有一点点危险。",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 112.252,
+        "endTime": 112.594,
+        "gloss": "really"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 112.594,
+        "endTime": 112.816,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 112.816,
+        "endTime": 113.199,
+        "gloss": "a bit"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 113.199,
+        "endTime": 113.26,
+        "gloss": "dangerous"
+      }
+    ],
+    "fullTextEN": "is really a bit dangerous."
+  },
+  {
+    "startTime": 114.3,
+    "endTime": 118.6,
+    "fullTextZH": "我们慢慢的慢慢的往下开。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 114.3,
+        "endTime": 114.802,
+        "gloss": "we"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 114.802,
+        "endTime": 115.606,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 115.606,
+        "endTime": 115.887,
+        "gloss": "de"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 115.887,
+        "endTime": 116.651,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 116.651,
+        "endTime": 116.832,
+        "gloss": "de"
+      },
+      {
+        "word": "往",
+        "pinyin": "wǎng",
+        "startTime": 116.832,
+        "endTime": 117.193,
+        "gloss": "towards"
+      },
+      {
+        "word": "下开",
+        "pinyin": "xià kāi",
+        "startTime": 117.193,
+        "endTime": 118.58,
+        "gloss": "down drive"
+      }
+    ],
+    "fullTextEN": "We slowly, slowly drove down."
+  },
+  {
+    "startTime": 118.733,
+    "endTime": 119.533,
+    "fullTextZH": "好好啦。",
+    "words": [
+      {
+        "word": "好好",
+        "pinyin": "hǎo hǎo",
+        "startTime": 118.754,
+        "endTime": 119.184,
+        "gloss": "all right"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 119.184,
+        "endTime": 119.512,
+        "gloss": "la"
+      }
+    ],
+    "fullTextEN": "All right."
+  },
+  {
+    "startTime": 119.533,
+    "endTime": 121.233,
+    "fullTextZH": "到了露营的地方。",
+    "words": [
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 119.553,
+        "endTime": 119.816,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 119.816,
+        "endTime": 120.12,
+        "gloss": "le"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 120.12,
+        "endTime": 120.525,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 120.525,
+        "endTime": 120.707,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 120.707,
+        "endTime": 121.193,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "We arrived at the camping site."
+  },
+  {
+    "startTime": 121.233,
+    "endTime": 124.6,
+    "fullTextZH": "最重要的就是要来搭帐篷。",
+    "words": [
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 121.313,
+        "endTime": 121.614,
+        "gloss": "most"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 121.614,
+        "endTime": 122.255,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 122.255,
+        "endTime": 122.496,
+        "gloss": "de"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 122.496,
+        "endTime": 123.137,
+        "gloss": "just"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 123.137,
+        "endTime": 123.418,
+        "gloss": "need"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 123.418,
+        "endTime": 123.718,
+        "gloss": "come"
+      },
+      {
+        "word": "搭帐篷",
+        "pinyin": "dā zhàng péng",
+        "startTime": 123.718,
+        "endTime": 124.56,
+        "gloss": "set up tent"
+      }
+    ],
+    "fullTextEN": "The most important thing is to set up the tent."
+  },
+  {
+    "startTime": 124.6,
+    "endTime": 128.133,
+    "fullTextZH": "因为这是我们今天睡觉的地方。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 124.62,
+        "endTime": 124.961,
+        "gloss": "because"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 124.961,
+        "endTime": 125.343,
+        "gloss": "this is"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 125.343,
+        "endTime": 125.684,
+        "gloss": "we"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 125.684,
+        "endTime": 126.427,
+        "gloss": "today"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 126.427,
+        "endTime": 127.089,
+        "gloss": "sleep"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 127.089,
+        "endTime": 127.31,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 127.31,
+        "endTime": 127.852,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Because this is where we will sleep tonight."
+  },
+  {
+    "startTime": 128.233,
+    "endTime": 130.933,
+    "fullTextZH": "可是天色已经很黑了。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 128.273,
+        "endTime": 128.737,
+        "gloss": "but"
+      },
+      {
+        "word": "天色",
+        "pinyin": "tiān sè",
+        "startTime": 128.737,
+        "endTime": 129.382,
+        "gloss": "sky"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 129.382,
+        "endTime": 129.805,
+        "gloss": "already"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 129.805,
+        "endTime": 130.167,
+        "gloss": "very"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 130.167,
+        "endTime": 130.53,
+        "gloss": "dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 130.53,
+        "endTime": 130.893,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "But it's already very dark."
+  },
+  {
+    "startTime": 130.966,
+    "endTime": 134.366,
+    "fullTextZH": "所以搭帐篷的时候有一点点麻烦。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 131.087,
+        "endTime": 131.65,
+        "gloss": "so"
+      },
+      {
+        "word": "搭帐篷",
+        "pinyin": "dā zhàng péng",
+        "startTime": 131.65,
+        "endTime": 132.435,
+        "gloss": "set up tent"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 132.435,
+        "endTime": 132.575,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 132.575,
+        "endTime": 132.837,
+        "gloss": "time"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 132.837,
+        "endTime": 133.018,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 133.018,
+        "endTime": 133.521,
+        "gloss": "a little"
+      },
+      {
+        "word": "麻烦",
+        "pinyin": "má fán",
+        "startTime": 133.521,
+        "endTime": 134.346,
+        "gloss": "trouble"
+      }
+    ],
+    "fullTextEN": "So setting up the tent is a bit troublesome."
+  },
+  {
+    "startTime": 134.4,
+    "endTime": 137.366,
+    "fullTextZH": "所以我们就拿出了灯来照。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 134.46,
+        "endTime": 134.721,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 134.721,
+        "endTime": 135.001,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 135.001,
+        "endTime": 135.182,
+        "gloss": "then"
+      },
+      {
+        "word": "拿出",
+        "pinyin": "ná chū",
+        "startTime": 135.182,
+        "endTime": 135.743,
+        "gloss": "take out"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 135.743,
+        "endTime": 136.063,
+        "gloss": "le"
+      },
+      {
+        "word": "灯来照",
+        "pinyin": "dēng lái zhào",
+        "startTime": 136.063,
+        "endTime": 137.326,
+        "gloss": "lights to illuminate"
+      }
+    ],
+    "fullTextEN": "So we took out the lights to illuminate."
+  },
+  {
+    "startTime": 137.433,
+    "endTime": 140.4,
+    "fullTextZH": "你看，大家都来帮我们一起搭帐篷了。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 137.433,
+        "endTime": 137.453,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 137.453,
+        "endTime": 137.734,
+        "gloss": "look"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 137.814,
+        "endTime": 138.135,
+        "gloss": "everyone"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 138.135,
+        "endTime": 138.275,
+        "gloss": "all"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 138.275,
+        "endTime": 138.455,
+        "gloss": "come"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 138.455,
+        "endTime": 138.636,
+        "gloss": "help"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 138.636,
+        "endTime": 138.916,
+        "gloss": "us"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 138.916,
+        "endTime": 139.277,
+        "gloss": "together"
+      },
+      {
+        "word": "搭帐篷",
+        "pinyin": "dā zhàng péng",
+        "startTime": 139.277,
+        "endTime": 140.019,
+        "gloss": "set up tent"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 140.019,
+        "endTime": 140.36,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Look, everyone came to help us set up the tent."
+  },
+  {
+    "startTime": 140.4,
+    "endTime": 143.6,
+    "fullTextZH": "差不多15分钟，",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 140.702,
+        "endTime": 141.769,
+        "gloss": "about"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 142.574,
+        "endTime": 143.56,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "About 15 minutes,"
+  },
+  {
+    "startTime": 143.6,
+    "endTime": 145.833,
+    "fullTextZH": "20分钟以后，",
+    "words": [
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 144.646,
+        "endTime": 145.229,
+        "gloss": "minutes"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 145.229,
+        "endTime": 145.793,
+        "gloss": "later"
+      }
+    ],
+    "fullTextEN": "20 minutes later,"
+  },
+  {
+    "startTime": 145.833,
+    "endTime": 148.733,
+    "fullTextZH": "我们慢慢的搭起帐篷。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 146.055,
+        "endTime": 146.498,
+        "gloss": "we"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 146.498,
+        "endTime": 147.122,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 147.122,
+        "endTime": 147.424,
+        "gloss": "de"
+      },
+      {
+        "word": "搭",
+        "pinyin": "dā",
+        "startTime": 147.424,
+        "endTime": 147.867,
+        "gloss": "set up"
+      },
+      {
+        "word": "起",
+        "pinyin": "qǐ",
+        "startTime": 147.867,
+        "endTime": 148.209,
+        "gloss": "up"
+      },
+      {
+        "word": "帐篷",
+        "pinyin": "zhàng péng",
+        "startTime": 148.209,
+        "endTime": 148.713,
+        "gloss": "tent"
+      }
+    ],
+    "fullTextEN": "We slowly set up the tent."
+  },
+  {
+    "startTime": 148.733,
+    "endTime": 150.766,
+    "fullTextZH": "大家帮忙真的快很多。",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 148.975,
+        "endTime": 149.417,
+        "gloss": "everyone"
+      },
+      {
+        "word": "帮忙",
+        "pinyin": "bāng máng",
+        "startTime": 149.417,
+        "endTime": 149.9,
+        "gloss": "help"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 149.9,
+        "endTime": 150.223,
+        "gloss": "really"
+      },
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 150.223,
+        "endTime": 150.424,
+        "gloss": "fast"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 150.424,
+        "endTime": 150.746,
+        "gloss": "a lot"
+      }
+    ],
+    "fullTextEN": "Everyone's help really sped things up."
+  },
+  {
+    "startTime": 150.833,
+    "endTime": 154.133,
+    "fullTextZH": "来看一下帐篷里面长得怎么样吧。",
+    "words": [
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 151.115,
+        "endTime": 151.477,
+        "gloss": "come look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 151.477,
+        "endTime": 151.819,
+        "gloss": "a bit"
+      },
+      {
+        "word": "帐篷",
+        "pinyin": "zhàng péng",
+        "startTime": 151.819,
+        "endTime": 152.342,
+        "gloss": "tent"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 152.342,
+        "endTime": 152.785,
+        "gloss": "inside"
+      },
+      {
+        "word": "长得",
+        "pinyin": "zhǎng dé",
+        "startTime": 152.785,
+        "endTime": 153.228,
+        "gloss": "looks"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 153.228,
+        "endTime": 153.892,
+        "gloss": "how"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 153.892,
+        "endTime": 154.093,
+        "gloss": "ba"
+      }
+    ],
+    "fullTextEN": "Let's take a look inside the tent."
+  },
+  {
+    "startTime": 160.266,
+    "endTime": 162.1,
+    "fullTextZH": "早安大家。",
+    "words": [
+      {
+        "word": "早安",
+        "pinyin": "zǎo ān",
+        "startTime": 160.447,
+        "endTime": 160.79,
+        "gloss": "good morning"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 160.79,
+        "endTime": 162.06,
+        "gloss": "everyone"
+      }
+    ],
+    "fullTextEN": "Good morning, everyone."
+  },
+  {
+    "startTime": 162.1,
+    "endTime": 165.5,
+    "fullTextZH": "今天是我们露营的第二天。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 162.1,
+        "endTime": 162.422,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 162.422,
+        "endTime": 162.623,
+        "gloss": "is"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 162.623,
+        "endTime": 163.146,
+        "gloss": "our"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 163.146,
+        "endTime": 163.73,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 163.73,
+        "endTime": 164.011,
+        "gloss": "de"
+      },
+      {
+        "word": "第二天",
+        "pinyin": "dì èr tiān",
+        "startTime": 164.011,
+        "endTime": 165.46,
+        "gloss": "second day"
+      }
+    ],
+    "fullTextEN": "Today is our second day of camping."
+  },
+  {
+    "startTime": 165.833,
+    "endTime": 168.266,
+    "fullTextZH": "每天早上都很热，",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 165.833,
+        "endTime": 165.934,
+        "gloss": "every"
+      },
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 165.934,
+        "endTime": 166.577,
+        "gloss": "morning"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 166.577,
+        "endTime": 166.939,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 166.939,
+        "endTime": 167.401,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 167.401,
+        "endTime": 168.246,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Every morning is very hot,"
+  },
+  {
+    "startTime": 168.266,
+    "endTime": 171.266,
+    "fullTextZH": "所以我们都不会很晚起床。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 168.266,
+        "endTime": 168.367,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 168.367,
+        "endTime": 168.89,
+        "gloss": "we"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 168.89,
+        "endTime": 169.555,
+        "gloss": "all"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 169.555,
+        "endTime": 169.957,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 169.957,
+        "endTime": 170.199,
+        "gloss": "very"
+      },
+      {
+        "word": "晚",
+        "pinyin": "wǎn",
+        "startTime": 170.199,
+        "endTime": 170.501,
+        "gloss": "late"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 170.501,
+        "endTime": 170.984,
+        "gloss": "wake up"
+      }
+    ],
+    "fullTextEN": "so we don't wake up very late."
+  },
+  {
+    "startTime": 171.266,
+    "endTime": 172.9,
+    "fullTextZH": "因为真的太热了。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 171.266,
+        "endTime": 171.306,
+        "gloss": "because"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 171.306,
+        "endTime": 171.387,
+        "gloss": "really"
+      },
+      {
+        "word": "太热",
+        "pinyin": "tài rè",
+        "startTime": 171.387,
+        "endTime": 171.932,
+        "gloss": "too hot"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 171.932,
+        "endTime": 172.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Because it's really too hot."
+  },
+  {
+    "startTime": 172.9,
+    "endTime": 177.066,
+    "fullTextZH": "所以我们就大概8、9点就会起床了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 172.9,
+        "endTime": 172.94,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 172.94,
+        "endTime": 173.02,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 173.02,
+        "endTime": 173.761,
+        "gloss": "then"
+      },
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "startTime": 173.761,
+        "endTime": 174.843,
+        "gloss": "about"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 175.243,
+        "endTime": 175.844,
+        "gloss": "o'clock"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 175.844,
+        "endTime": 175.964,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 175.964,
+        "endTime": 176.085,
+        "gloss": "will"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 176.085,
+        "endTime": 176.525,
+        "gloss": "wake up"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 176.525,
+        "endTime": 176.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "So we usually wake up around 8 or 9 o'clock."
+  },
+  {
+    "startTime": 177.066,
+    "endTime": 180.2,
+    "fullTextZH": "因为不可以继续在帐篷里面睡觉，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 177.287,
+        "endTime": 177.548,
+        "gloss": "because"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 177.548,
+        "endTime": 177.689,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 177.689,
+        "endTime": 177.93,
+        "gloss": "can"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 177.93,
+        "endTime": 178.271,
+        "gloss": "continue"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 178.271,
+        "endTime": 178.533,
+        "gloss": "in"
+      },
+      {
+        "word": "帐篷",
+        "pinyin": "zhàng péng",
+        "startTime": 178.533,
+        "endTime": 178.995,
+        "gloss": "tent"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 178.995,
+        "endTime": 179.316,
+        "gloss": "inside"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 179.316,
+        "endTime": 179.537,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Because we can't continue sleeping inside the tent,"
+  },
+  {
+    "startTime": 180.2,
+    "endTime": 181.2,
+    "fullTextZH": "因为真的太热。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 180.22,
+        "endTime": 180.445,
+        "gloss": "because"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 180.445,
+        "endTime": 180.486,
+        "gloss": "really"
+      },
+      {
+        "word": "太热",
+        "pinyin": "tài rè",
+        "startTime": 180.486,
+        "endTime": 181.159,
+        "gloss": "too hot"
+      }
+    ],
+    "fullTextEN": "Because it's really too hot."
+  },
+  {
+    "startTime": 182.5,
+    "endTime": 185.4,
+    "fullTextZH": "现在让大家看一下外面的景色。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 182.621,
+        "endTime": 182.802,
+        "gloss": "now"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 182.802,
+        "endTime": 182.983,
+        "gloss": "let"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 182.983,
+        "endTime": 183.306,
+        "gloss": "everyone"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 183.306,
+        "endTime": 183.507,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 183.507,
+        "endTime": 183.789,
+        "gloss": "a bit"
+      },
+      {
+        "word": "外面",
+        "pinyin": "wài miàn",
+        "startTime": 183.789,
+        "endTime": 184.172,
+        "gloss": "outside"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 184.172,
+        "endTime": 184.312,
+        "gloss": "of"
+      },
+      {
+        "word": "景色",
+        "pinyin": "jǐng sè",
+        "startTime": 184.312,
+        "endTime": 185.36,
+        "gloss": "scenery"
+      }
+    ],
+    "fullTextEN": "Now let's take a look at the scenery outside."
+  },
+  {
+    "startTime": 187.1,
+    "endTime": 188.633,
+    "fullTextZH": "走，我们去看景色。",
+    "words": [
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 187.12,
+        "endTime": 187.14,
+        "gloss": "go"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 187.161,
+        "endTime": 187.221,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 187.221,
+        "endTime": 187.362,
+        "gloss": "go"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 187.362,
+        "endTime": 187.584,
+        "gloss": "see"
+      },
+      {
+        "word": "景色",
+        "pinyin": "jǐng sè",
+        "startTime": 187.584,
+        "endTime": 188.593,
+        "gloss": "scenery"
+      }
+    ],
+    "fullTextEN": "Let's go, we'll go see the scenery."
+  },
+  {
+    "startTime": 194.1,
+    "endTime": 195.333,
+    "fullTextZH": "太阳很大。",
+    "words": [
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 194.161,
+        "endTime": 194.444,
+        "gloss": "sun"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 194.444,
+        "endTime": 195.293,
+        "gloss": "very strong"
+      }
+    ],
+    "fullTextEN": "The sun is very strong."
+  },
+  {
+    "startTime": 195.9,
+    "endTime": 199.333,
+    "fullTextZH": "山上呢，不但风景好，",
+    "words": [
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 196.081,
+        "endTime": 196.823,
+        "gloss": "on mountain"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 196.823,
+        "endTime": 197.024,
+        "gloss": "particle"
+      },
+      {
+        "word": "不但",
+        "pinyin": "bù dàn",
+        "startTime": 197.225,
+        "endTime": 197.867,
+        "gloss": "not only"
+      },
+      {
+        "word": "风景",
+        "pinyin": "fēng jǐng",
+        "startTime": 197.867,
+        "endTime": 198.791,
+        "gloss": "scenery"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 198.791,
+        "endTime": 199.293,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "On the mountain, not only is the scenery good,"
+  },
+  {
+    "startTime": 199.466,
+    "endTime": 201.4,
+    "fullTextZH": "空气也很好。",
+    "words": [
+      {
+        "word": "空气",
+        "pinyin": "kōng qì",
+        "startTime": 199.587,
+        "endTime": 200.292,
+        "gloss": "air"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 200.292,
+        "endTime": 200.574,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 200.574,
+        "endTime": 200.977,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 200.977,
+        "endTime": 201.38,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "the air is also very good."
+  },
+  {
+    "startTime": 218.633,
+    "endTime": 222.566,
+    "fullTextZH": "哎，有没有发现什么？是彩虹哎。",
+    "words": [
+      {
+        "word": "哎",
+        "pinyin": "āi",
+        "startTime": 219.355,
+        "endTime": 219.616,
+        "gloss": "hey"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 219.937,
+        "endTime": 220.379,
+        "gloss": "did not"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 220.379,
+        "endTime": 220.88,
+        "gloss": "notice"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 220.88,
+        "endTime": 221.583,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 221.763,
+        "endTime": 222.064,
+        "gloss": "is"
+      },
+      {
+        "word": "彩虹",
+        "pinyin": "cǎi hóng",
+        "startTime": 222.064,
+        "endTime": 222.446,
+        "gloss": "rainbow"
+      },
+      {
+        "word": "哎",
+        "pinyin": "āi",
+        "startTime": 222.446,
+        "endTime": 222.546,
+        "gloss": "hey"
+      }
+    ],
+    "fullTextEN": "Hey, did you notice something? It's a rainbow."
+  },
+  {
+    "startTime": 222.7,
+    "endTime": 224.533,
+    "fullTextZH": "有看到一点点彩虹。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 223.365,
+        "endTime": 223.486,
+        "gloss": "have"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 223.486,
+        "endTime": 223.848,
+        "gloss": "see"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 223.848,
+        "endTime": 224.412,
+        "gloss": "a little"
+      },
+      {
+        "word": "彩虹",
+        "pinyin": "cǎi hóng",
+        "startTime": 224.412,
+        "endTime": 224.493,
+        "gloss": "rainbow"
+      }
+    ],
+    "fullTextEN": "I see a little bit of a rainbow."
+  },
+  {
+    "startTime": 224.533,
+    "endTime": 226.233,
+    "fullTextZH": "有不一样的颜色吗？",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 225.241,
+        "endTime": 225.444,
+        "gloss": "have"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 225.444,
+        "endTime": 225.565,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 225.565,
+        "endTime": 225.869,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 225.869,
+        "endTime": 225.97,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 225.97,
+        "endTime": 226.132,
+        "gloss": "colors"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 226.132,
+        "endTime": 226.193,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Are there different colors?"
+  },
+  {
+    "startTime": 226.633,
+    "endTime": 229.833,
+    "fullTextZH": "然后好像开始起雾了。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 227.378,
+        "endTime": 228.243,
+        "gloss": "then"
+      },
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 228.243,
+        "endTime": 228.746,
+        "gloss": "seems"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 228.746,
+        "endTime": 229.612,
+        "gloss": "start"
+      },
+      {
+        "word": "起雾",
+        "pinyin": "qǐ wù",
+        "startTime": 229.612,
+        "endTime": 229.773,
+        "gloss": "fog up"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 229.773,
+        "endTime": 229.813,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Then it seems like it's starting to fog up."
+  },
+  {
+    "startTime": 229.833,
+    "endTime": 233.533,
+    "fullTextZH": "在山上，天气变化的很快。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 230.617,
+        "endTime": 230.879,
+        "gloss": "on"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 230.879,
+        "endTime": 231.422,
+        "gloss": "mountain"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 231.623,
+        "endTime": 232.407,
+        "gloss": "weather"
+      },
+      {
+        "word": "变化",
+        "pinyin": "biàn huà",
+        "startTime": 232.407,
+        "endTime": 232.95,
+        "gloss": "change"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 232.95,
+        "endTime": 233.272,
+        "gloss": "particle"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 233.272,
+        "endTime": 233.493,
+        "gloss": "very fast"
+      }
+    ],
+    "fullTextEN": "On the mountain, the weather changes very quickly."
+  },
+  {
+    "startTime": 233.533,
+    "endTime": 235.966,
+    "fullTextZH": "有时候会突然起大雾，",
+    "words": [
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 234.277,
+        "endTime": 234.84,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 234.84,
+        "endTime": 235.101,
+        "gloss": "will"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 235.101,
+        "endTime": 235.564,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "起",
+        "pinyin": "qǐ",
+        "startTime": 235.564,
+        "endTime": 235.584,
+        "gloss": "rise"
+      },
+      {
+        "word": "大雾",
+        "pinyin": "dà wù",
+        "startTime": 235.584,
+        "endTime": 235.946,
+        "gloss": "big fog"
+      }
+    ],
+    "fullTextEN": "Sometimes it suddenly becomes very foggy,"
+  },
+  {
+    "startTime": 235.966,
+    "endTime": 239.233,
+    "fullTextZH": "但是呢，过了一下子雾又散了。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 236.688,
+        "endTime": 237.169,
+        "gloss": "but"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 237.169,
+        "endTime": 237.329,
+        "gloss": "particle"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 237.71,
+        "endTime": 237.83,
+        "gloss": "after"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 237.83,
+        "endTime": 237.95,
+        "gloss": "particle"
+      },
+      {
+        "word": "一下子",
+        "pinyin": "yī xià zi",
+        "startTime": 237.95,
+        "endTime": 238.672,
+        "gloss": "a while"
+      },
+      {
+        "word": "雾",
+        "pinyin": "wù",
+        "startTime": 238.672,
+        "endTime": 238.892,
+        "gloss": "fog"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 238.892,
+        "endTime": 239.113,
+        "gloss": "again"
+      },
+      {
+        "word": "散",
+        "pinyin": "sàn",
+        "startTime": 239.113,
+        "endTime": 239.153,
+        "gloss": "disperse"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 239.153,
+        "endTime": 239.193,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "but then, after a while, the fog disperses again."
+  },
+  {
+    "startTime": 239.9,
+    "endTime": 241.933,
+    "fullTextZH": "所以呢，雾散了之后，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 240.665,
+        "endTime": 240.967,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 240.967,
+        "endTime": 241.148,
+        "gloss": "particle"
+      },
+      {
+        "word": "雾散",
+        "pinyin": "wù sàn",
+        "startTime": 241.329,
+        "endTime": 241.832,
+        "gloss": "fog disperse"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 241.832,
+        "endTime": 241.852,
+        "gloss": "particle"
+      },
+      {
+        "word": "之后",
+        "pinyin": "zhī hòu",
+        "startTime": 241.852,
+        "endTime": 241.913,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "So, after the fog disperses,"
+  },
+  {
+    "startTime": 241.933,
+    "endTime": 245.233,
+    "fullTextZH": "我们就开始准备今天的早餐。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 242.376,
+        "endTime": 242.879,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 242.879,
+        "endTime": 243.04,
+        "gloss": "then"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 243.04,
+        "endTime": 243.603,
+        "gloss": "start"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 243.603,
+        "endTime": 244.106,
+        "gloss": "prepare"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 244.106,
+        "endTime": 244.67,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 244.67,
+        "endTime": 244.992,
+        "gloss": "of"
+      },
+      {
+        "word": "早餐",
+        "pinyin": "zǎo cān",
+        "startTime": 244.992,
+        "endTime": 245.193,
+        "gloss": "breakfast"
+      }
+    ],
+    "fullTextEN": "we start preparing today's breakfast."
+  },
+  {
+    "startTime": 246.666,
+    "endTime": 248.733,
+    "fullTextZH": "哇，你看这个煎饺。",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 246.686,
+        "endTime": 246.786,
+        "gloss": "wow"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 246.967,
+        "endTime": 247.107,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 247.107,
+        "endTime": 247.348,
+        "gloss": "look"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 247.348,
+        "endTime": 247.589,
+        "gloss": "this"
+      },
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 247.589,
+        "endTime": 247.85,
+        "gloss": "pan-fried"
+      },
+      {
+        "word": "饺",
+        "pinyin": "jiǎo",
+        "startTime": 247.85,
+        "endTime": 248.171,
+        "gloss": "dumpling"
+      }
+    ],
+    "fullTextEN": "Wow, look at these pan-fried dumplings."
+  },
+  {
+    "startTime": 248.8,
+    "endTime": 251.0,
+    "fullTextZH": "煎的金黄色的，",
+    "words": [
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 248.84,
+        "endTime": 249.143,
+        "gloss": "fried"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 249.143,
+        "endTime": 249.163,
+        "gloss": "particle"
+      },
+      {
+        "word": "金黄色",
+        "pinyin": "jīn huáng sè",
+        "startTime": 249.163,
+        "endTime": 250.334,
+        "gloss": "golden yellow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 250.334,
+        "endTime": 250.617,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Fried to a golden yellow,"
+  },
+  {
+    "startTime": 251.166,
+    "endTime": 252.2,
+    "fullTextZH": "又脆脆的，",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 251.166,
+        "endTime": 251.227,
+        "gloss": "also"
+      },
+      {
+        "word": "脆脆",
+        "pinyin": "cuì cuì",
+        "startTime": 251.227,
+        "endTime": 251.47,
+        "gloss": "crispy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 251.47,
+        "endTime": 251.612,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "and crispy,"
+  },
+  {
+    "startTime": 252.2,
+    "endTime": 253.966,
+    "fullTextZH": "看起来很好吃。",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 252.2,
+        "endTime": 252.381,
+        "gloss": "look"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 252.381,
+        "endTime": 252.501,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 252.501,
+        "endTime": 253.504,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "they look very delicious."
+  },
+  {
+    "startTime": 254.0,
+    "endTime": 255.066,
+    "fullTextZH": "除了煎饺，",
+    "words": [
+      {
+        "word": "除了",
+        "pinyin": "chú le",
+        "startTime": 254.241,
+        "endTime": 254.503,
+        "gloss": "besides"
+      },
+      {
+        "word": "煎",
+        "pinyin": "jiān",
+        "startTime": 254.503,
+        "endTime": 254.624,
+        "gloss": "pan-fried"
+      },
+      {
+        "word": "饺",
+        "pinyin": "jiǎo",
+        "startTime": 254.624,
+        "endTime": 254.905,
+        "gloss": "dumplings"
+      }
+    ],
+    "fullTextEN": "Besides the pan-fried dumplings,"
+  },
+  {
+    "startTime": 255.066,
+    "endTime": 257.666,
+    "fullTextZH": "你看桌上的这两锅油，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 255.066,
+        "endTime": 255.086,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 255.086,
+        "endTime": 255.106,
+        "gloss": "look"
+      },
+      {
+        "word": "桌上",
+        "pinyin": "zhuō shàng",
+        "startTime": 255.106,
+        "endTime": 255.348,
+        "gloss": "on table"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 255.348,
+        "endTime": 255.469,
+        "gloss": "of"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 255.469,
+        "endTime": 255.671,
+        "gloss": "this"
+      },
+      {
+        "word": "两锅",
+        "pinyin": "liǎng guō",
+        "startTime": 255.671,
+        "endTime": 256.376,
+        "gloss": "two pots"
+      },
+      {
+        "word": "油",
+        "pinyin": "yóu",
+        "startTime": 256.376,
+        "endTime": 257.223,
+        "gloss": "oil"
+      }
+    ],
+    "fullTextEN": "Look at these two pots of oil on the table,"
+  },
+  {
+    "startTime": 257.733,
+    "endTime": 263.433,
+    "fullTextZH": "我的姐姐还准备了她的拿手菜，炸鸡排。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 257.733,
+        "endTime": 257.753,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 257.753,
+        "endTime": 257.773,
+        "gloss": "of"
+      },
+      {
+        "word": "姐姐",
+        "pinyin": "jiě jiě",
+        "startTime": 257.773,
+        "endTime": 257.833,
+        "gloss": "sister"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 257.833,
+        "endTime": 258.114,
+        "gloss": "also"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 258.114,
+        "endTime": 258.716,
+        "gloss": "prepared"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 258.716,
+        "endTime": 258.957,
+        "gloss": "le"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 258.957,
+        "endTime": 259.158,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 259.158,
+        "endTime": 259.339,
+        "gloss": "of"
+      },
+      {
+        "word": "拿手菜",
+        "pinyin": "ná shǒu cài",
+        "startTime": 259.339,
+        "endTime": 260.402,
+        "gloss": "specialty dish"
+      },
+      {
+        "word": "炸鸡",
+        "pinyin": "zhà jī",
+        "startTime": 260.944,
+        "endTime": 261.908,
+        "gloss": "fried chicken"
+      },
+      {
+        "word": "排",
+        "pinyin": "pái",
+        "startTime": 261.908,
+        "endTime": 263.172,
+        "gloss": "cutlet"
+      }
+    ],
+    "fullTextEN": "My sister also prepared her specialty dish, fried chicken cutlet."
+  },
+  {
+    "startTime": 263.733,
+    "endTime": 264.2,
+    "fullTextZH": "好啦。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 263.733,
+        "endTime": 263.753,
+        "gloss": "okay"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 263.753,
+        "endTime": 264.017,
+        "gloss": "la"
+      }
+    ],
+    "fullTextEN": "Alright."
+  },
+  {
+    "startTime": 264.2,
+    "endTime": 268.833,
+    "fullTextZH": "你看，我刚才才说山上的天气变化很大，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.2,
+        "endTime": 264.36,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 264.36,
+        "endTime": 264.501,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 264.681,
+        "endTime": 264.701,
+        "gloss": "I"
+      },
+      {
+        "word": "刚才",
+        "pinyin": "gāng cái",
+        "startTime": 264.701,
+        "endTime": 264.802,
+        "gloss": "just now"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 264.802,
+        "endTime": 265.123,
+        "gloss": "just"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 265.123,
+        "endTime": 265.443,
+        "gloss": "said"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 265.443,
+        "endTime": 265.925,
+        "gloss": "on mountain"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 265.925,
+        "endTime": 266.085,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 266.085,
+        "endTime": 266.928,
+        "gloss": "weather"
+      },
+      {
+        "word": "变化很大",
+        "pinyin": "biàn huà hěn dà",
+        "startTime": 266.928,
+        "endTime": 268.271,
+        "gloss": "changes a lot"
+      }
+    ],
+    "fullTextEN": "Look, I just said the weather on the mountain changes a lot,"
+  },
+  {
+    "startTime": 268.833,
+    "endTime": 270.233,
+    "fullTextZH": "才过了一下子，",
+    "words": [
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 268.833,
+        "endTime": 268.853,
+        "gloss": "just"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 268.853,
+        "endTime": 268.874,
+        "gloss": "passed"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 268.874,
+        "endTime": 268.894,
+        "gloss": "le"
+      },
+      {
+        "word": "一下子",
+        "pinyin": "yī xià zi",
+        "startTime": 268.894,
+        "endTime": 269.726,
+        "gloss": "a moment"
+      }
+    ],
+    "fullTextEN": "Just a moment later,"
+  },
+  {
+    "startTime": 270.233,
+    "endTime": 271.866,
+    "fullTextZH": "又开始起雾了。",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 270.233,
+        "endTime": 270.273,
+        "gloss": "again"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 270.273,
+        "endTime": 270.556,
+        "gloss": "start"
+      },
+      {
+        "word": "起雾",
+        "pinyin": "qǐ wù",
+        "startTime": 270.556,
+        "endTime": 271.019,
+        "gloss": "fog up"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 271.019,
+        "endTime": 271.281,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "it started to fog up again."
+  },
+  {
+    "startTime": 271.866,
+    "endTime": 273.8,
+    "fullTextZH": "你看，我后面都是雾。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 271.866,
+        "endTime": 272.007,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 272.007,
+        "endTime": 272.168,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 272.349,
+        "endTime": 272.37,
+        "gloss": "I"
+      },
+      {
+        "word": "后面",
+        "pinyin": "hòu miàn",
+        "startTime": 272.37,
+        "endTime": 272.43,
+        "gloss": "behind"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 272.43,
+        "endTime": 272.491,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 272.491,
+        "endTime": 272.712,
+        "gloss": "is"
+      },
+      {
+        "word": "雾",
+        "pinyin": "wù",
+        "startTime": 272.712,
+        "endTime": 273.76,
+        "gloss": "fog"
+      }
+    ],
+    "fullTextEN": "Look, behind me is all fog."
+  },
+  {
+    "startTime": 284.233,
+    "endTime": 286.4,
+    "fullTextZH": "又到了晚餐的时间。",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 284.253,
+        "endTime": 284.474,
+        "gloss": "again"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 284.474,
+        "endTime": 284.735,
+        "gloss": "arrived"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 284.735,
+        "endTime": 284.915,
+        "gloss": "le"
+      },
+      {
+        "word": "晚餐",
+        "pinyin": "wǎn cān",
+        "startTime": 284.915,
+        "endTime": 285.617,
+        "gloss": "dinner"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 285.617,
+        "endTime": 285.758,
+        "gloss": "of"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 285.758,
+        "endTime": 286.38,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "It's dinner time again."
+  },
+  {
+    "startTime": 286.433,
+    "endTime": 290.033,
+    "fullTextZH": "首先，你看到这一大锅是火锅。",
+    "words": [
+      {
+        "word": "首先",
+        "pinyin": "shǒu xiān",
+        "startTime": 286.493,
+        "endTime": 286.795,
+        "gloss": "first"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 286.835,
+        "endTime": 286.976,
+        "gloss": "you"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 286.976,
+        "endTime": 287.298,
+        "gloss": "see"
+      },
+      {
+        "word": "这一",
+        "pinyin": "zhè yī",
+        "startTime": 287.298,
+        "endTime": 287.72,
+        "gloss": "this"
+      },
+      {
+        "word": "大锅",
+        "pinyin": "dà guō",
+        "startTime": 287.72,
+        "endTime": 288.726,
+        "gloss": "big pot"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 288.726,
+        "endTime": 289.068,
+        "gloss": "is"
+      },
+      {
+        "word": "火锅",
+        "pinyin": "huǒ guō",
+        "startTime": 289.068,
+        "endTime": 289.993,
+        "gloss": "hot pot"
+      }
+    ],
+    "fullTextEN": "First, you see this big pot is hot pot."
+  },
+  {
+    "startTime": 290.1,
+    "endTime": 291.9,
+    "fullTextZH": "除了火锅以外呢，",
+    "words": [
+      {
+        "word": "除了",
+        "pinyin": "chú le",
+        "startTime": 290.14,
+        "endTime": 290.525,
+        "gloss": "besides"
+      },
+      {
+        "word": "火锅",
+        "pinyin": "huǒ guō",
+        "startTime": 290.525,
+        "endTime": 291.152,
+        "gloss": "hot pot"
+      },
+      {
+        "word": "以外",
+        "pinyin": "yǐ wài",
+        "startTime": 291.152,
+        "endTime": 291.597,
+        "gloss": "apart from"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 291.597,
+        "endTime": 291.88,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Besides hot pot,"
+  },
+  {
+    "startTime": 291.9,
+    "endTime": 295.566,
+    "fullTextZH": "你看到我姐姐现在做的是炒面。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 291.9,
+        "endTime": 292.0,
+        "gloss": "you"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 292.0,
+        "endTime": 292.441,
+        "gloss": "see"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 292.441,
+        "endTime": 292.641,
+        "gloss": "my"
+      },
+      {
+        "word": "姐姐",
+        "pinyin": "jiě jiě",
+        "startTime": 292.641,
+        "endTime": 292.942,
+        "gloss": "sister"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 292.942,
+        "endTime": 293.443,
+        "gloss": "now"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 293.443,
+        "endTime": 293.683,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 293.683,
+        "endTime": 294.023,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 294.023,
+        "endTime": 294.524,
+        "gloss": "is"
+      },
+      {
+        "word": "炒面",
+        "pinyin": "chǎo miàn",
+        "startTime": 294.524,
+        "endTime": 295.526,
+        "gloss": "fried noodles"
+      }
+    ],
+    "fullTextEN": "You see my sister is now making fried noodles."
+  },
+  {
+    "startTime": 295.6,
+    "endTime": 297.1,
+    "fullTextZH": "还没有结束哦。",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 295.641,
+        "endTime": 295.843,
+        "gloss": "still"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 295.843,
+        "endTime": 296.168,
+        "gloss": "not"
+      },
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 296.168,
+        "endTime": 296.796,
+        "gloss": "over"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 296.796,
+        "endTime": 297.08,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "It's not over yet."
+  },
+  {
+    "startTime": 297.1,
+    "endTime": 299.5,
+    "fullTextZH": "除了炒面以外，",
+    "words": [
+      {
+        "word": "除了",
+        "pinyin": "chú le",
+        "startTime": 297.161,
+        "endTime": 297.866,
+        "gloss": "besides"
+      },
+      {
+        "word": "炒面",
+        "pinyin": "chǎo miàn",
+        "startTime": 297.866,
+        "endTime": 298.915,
+        "gloss": "fried noodles"
+      },
+      {
+        "word": "以外",
+        "pinyin": "yǐ wài",
+        "startTime": 298.915,
+        "endTime": 299.48,
+        "gloss": "apart from"
+      }
+    ],
+    "fullTextEN": "Besides fried noodles,"
+  },
+  {
+    "startTime": 299.5,
+    "endTime": 301.7,
+    "fullTextZH": "我们也有烤肉组的，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 299.52,
+        "endTime": 299.964,
+        "gloss": "we"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 299.964,
+        "endTime": 300.206,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 300.206,
+        "endTime": 300.509,
+        "gloss": "have"
+      },
+      {
+        "word": "烤肉",
+        "pinyin": "kǎo ròu",
+        "startTime": 300.509,
+        "endTime": 301.276,
+        "gloss": "barbecue"
+      },
+      {
+        "word": "组",
+        "pinyin": "zǔ",
+        "startTime": 301.276,
+        "endTime": 301.518,
+        "gloss": "team"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 301.518,
+        "endTime": 301.66,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "We also have a barbecue team,"
+  },
+  {
+    "startTime": 301.7,
+    "endTime": 304.4,
+    "fullTextZH": "正在帮我们烤虾子。",
+    "words": [
+      {
+        "word": "正在",
+        "pinyin": "zhèng zài",
+        "startTime": 301.72,
+        "endTime": 302.304,
+        "gloss": "currently"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 302.304,
+        "endTime": 302.546,
+        "gloss": "help"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 302.546,
+        "endTime": 303.01,
+        "gloss": "us"
+      },
+      {
+        "word": "烤",
+        "pinyin": "kǎo",
+        "startTime": 303.01,
+        "endTime": 303.554,
+        "gloss": "grill"
+      },
+      {
+        "word": "虾子",
+        "pinyin": "xiā zi",
+        "startTime": 303.554,
+        "endTime": 304.36,
+        "gloss": "shrimp"
+      }
+    ],
+    "fullTextEN": "helping us grill shrimp."
+  },
+  {
+    "startTime": 311.5,
+    "endTime": 315.433,
+    "fullTextZH": "才刚说山上的天气变化很大，",
+    "words": [
+      {
+        "word": "才刚",
+        "pinyin": "cái gāng",
+        "startTime": 312.303,
+        "endTime": 312.965,
+        "gloss": "just"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 312.965,
+        "endTime": 313.286,
+        "gloss": "said"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 313.286,
+        "endTime": 314.028,
+        "gloss": "on mountain"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 314.028,
+        "endTime": 314.289,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 314.289,
+        "endTime": 315.052,
+        "gloss": "weather"
+      },
+      {
+        "word": "变化很大",
+        "pinyin": "biàn huà hěn dà",
+        "startTime": 315.052,
+        "endTime": 315.373,
+        "gloss": "changes a lot"
+      }
+    ],
+    "fullTextEN": "I just said the weather on the mountain changes a lot,"
+  },
+  {
+    "startTime": 315.433,
+    "endTime": 318.833,
+    "fullTextZH": "没想到第二天就下雨了。",
+    "words": [
+      {
+        "word": "没想到",
+        "pinyin": "méi xiǎng dào",
+        "startTime": 316.177,
+        "endTime": 317.123,
+        "gloss": "unexpectedly"
+      },
+      {
+        "word": "第二天",
+        "pinyin": "dì èr tiān",
+        "startTime": 317.123,
+        "endTime": 317.867,
+        "gloss": "next day"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 317.867,
+        "endTime": 318.29,
+        "gloss": "just"
+      },
+      {
+        "word": "下雨",
+        "pinyin": "xià yǔ",
+        "startTime": 318.29,
+        "endTime": 318.793,
+        "gloss": "rain"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 318.793,
+        "endTime": 318.813,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "unexpectedly, it rained the next day."
+  },
+  {
+    "startTime": 319.333,
+    "endTime": 320.9,
+    "fullTextZH": "雨来的很快，",
+    "words": [
+      {
+        "word": "雨来",
+        "pinyin": "yǔ lái",
+        "startTime": 320.116,
+        "endTime": 320.599,
+        "gloss": "rain came"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 320.599,
+        "endTime": 320.719,
+        "gloss": "of"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 320.719,
+        "endTime": 320.88,
+        "gloss": "very fast"
+      }
+    ],
+    "fullTextEN": "The rain came quickly,"
+  },
+  {
+    "startTime": 321.133,
+    "endTime": 323.2,
+    "fullTextZH": "但是去的也很快。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 321.855,
+        "endTime": 322.558,
+        "gloss": "but"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 322.558,
+        "endTime": 322.899,
+        "gloss": "went"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 322.899,
+        "endTime": 323.039,
+        "gloss": "of"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 323.039,
+        "endTime": 323.14,
+        "gloss": "also"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 323.14,
+        "endTime": 323.18,
+        "gloss": "very fast"
+      }
+    ],
+    "fullTextEN": "but it also went quickly."
+  },
+  {
+    "startTime": 324.0,
+    "endTime": 325.5,
+    "fullTextZH": "下完雨以后，",
+    "words": [
+      {
+        "word": "下",
+        "pinyin": "xià",
+        "startTime": 324.831,
+        "endTime": 325.074,
+        "gloss": "after"
+      },
+      {
+        "word": "完雨",
+        "pinyin": "wán yǔ",
+        "startTime": 325.074,
+        "endTime": 325.439,
+        "gloss": "rain stopped"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 325.439,
+        "endTime": 325.48,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After the rain stopped,"
+  },
+  {
+    "startTime": 325.5,
+    "endTime": 326.7,
+    "fullTextZH": "雾又散了。",
+    "words": [
+      {
+        "word": "雾",
+        "pinyin": "wù",
+        "startTime": 325.602,
+        "endTime": 325.886,
+        "gloss": "fog"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 325.886,
+        "endTime": 326.293,
+        "gloss": "again"
+      },
+      {
+        "word": "散",
+        "pinyin": "sàn",
+        "startTime": 326.293,
+        "endTime": 326.578,
+        "gloss": "dispersed"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 326.578,
+        "endTime": 326.68,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "the fog dispersed again."
+  },
+  {
+    "startTime": 326.7,
+    "endTime": 329.566,
+    "fullTextZH": "你看，又可以看到后面的山了。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 327.422,
+        "endTime": 327.582,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 327.582,
+        "endTime": 328.063,
+        "gloss": "look"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 328.083,
+        "endTime": 328.223,
+        "gloss": "again"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 328.223,
+        "endTime": 328.484,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 328.484,
+        "endTime": 328.965,
+        "gloss": "see"
+      },
+      {
+        "word": "后面",
+        "pinyin": "hòu miàn",
+        "startTime": 328.965,
+        "endTime": 329.406,
+        "gloss": "behind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 329.406,
+        "endTime": 329.506,
+        "gloss": "de"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 329.506,
+        "endTime": 329.526,
+        "gloss": "mountains"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 329.526,
+        "endTime": 329.546,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Look, you can see the mountains behind again."
+  },
+  {
+    "startTime": 330.7,
+    "endTime": 332.5,
+    "fullTextZH": "露营的地方呢，",
+    "words": [
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 331.448,
+        "endTime": 331.893,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 331.893,
+        "endTime": 332.116,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 332.116,
+        "endTime": 332.46,
+        "gloss": "place"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 332.46,
+        "endTime": 332.48,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "As for the camping spot,"
+  },
+  {
+    "startTime": 332.5,
+    "endTime": 334.2,
+    "fullTextZH": "其实只有我们，",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 333.35,
+        "endTime": 333.815,
+        "gloss": "actually"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 333.815,
+        "endTime": 333.998,
+        "gloss": "only"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 333.998,
+        "endTime": 334.16,
+        "gloss": "us"
+      }
+    ],
+    "fullTextEN": "it's actually just us,"
+  },
+  {
+    "startTime": 334.333,
+    "endTime": 336.7,
+    "fullTextZH": "但是旁边还有几个小房子，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 335.075,
+        "endTime": 335.376,
+        "gloss": "but"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 335.376,
+        "endTime": 335.817,
+        "gloss": "nearby"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 335.817,
+        "endTime": 336.239,
+        "gloss": "still"
+      },
+      {
+        "word": "几个",
+        "pinyin": "jǐ gè",
+        "startTime": 336.239,
+        "endTime": 336.499,
+        "gloss": "a few"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 336.499,
+        "endTime": 336.519,
+        "gloss": "small"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 336.519,
+        "endTime": 336.62,
+        "gloss": "houses"
+      }
+    ],
+    "fullTextEN": "but there are a few small houses nearby,"
+  },
+  {
+    "startTime": 336.7,
+    "endTime": 338.566,
+    "fullTextZH": "里面好像没有人住。",
+    "words": [
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 337.462,
+        "endTime": 337.763,
+        "gloss": "inside"
+      },
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 337.763,
+        "endTime": 338.265,
+        "gloss": "seem"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 338.265,
+        "endTime": 338.506,
+        "gloss": "no"
+      },
+      {
+        "word": "人住",
+        "pinyin": "rén zhù",
+        "startTime": 338.506,
+        "endTime": 338.546,
+        "gloss": "people live"
+      }
+    ],
+    "fullTextEN": "which seem uninhabited."
+  },
+  {
+    "startTime": 339.833,
+    "endTime": 343.833,
+    "fullTextZH": "今天是我们在这个地方的最后一天，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 340.637,
+        "endTime": 341.22,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 341.22,
+        "endTime": 341.441,
+        "gloss": "is"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 341.441,
+        "endTime": 341.923,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 341.923,
+        "endTime": 342.165,
+        "gloss": "at"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 342.165,
+        "endTime": 342.486,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 342.486,
+        "endTime": 342.949,
+        "gloss": "place"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 342.949,
+        "endTime": 343.15,
+        "gloss": "de"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 343.15,
+        "endTime": 343.592,
+        "gloss": "last"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 343.592,
+        "endTime": 343.813,
+        "gloss": "day"
+      }
+    ],
+    "fullTextEN": "Today is our last day at this place,"
+  },
+  {
+    "startTime": 343.833,
+    "endTime": 345.966,
+    "fullTextZH": "天气也非常好。",
+    "words": [
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 344.638,
+        "endTime": 345.221,
+        "gloss": "weather"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 345.221,
+        "endTime": 345.523,
+        "gloss": "also"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 345.523,
+        "endTime": 345.926,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 345.926,
+        "endTime": 345.946,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "and the weather is also very nice."
+  },
+  {
+    "startTime": 346.0,
+    "endTime": 348.933,
+    "fullTextZH": "最后带大家看一下我们这次",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 346.804,
+        "endTime": 347.266,
+        "gloss": "finally"
+      },
+      {
+        "word": "带",
+        "pinyin": "dài",
+        "startTime": 347.266,
+        "endTime": 347.426,
+        "gloss": "bring"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 347.426,
+        "endTime": 347.848,
+        "gloss": "everyone"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 347.848,
+        "endTime": 348.029,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 348.029,
+        "endTime": 348.551,
+        "gloss": "a bit"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 348.551,
+        "endTime": 348.792,
+        "gloss": "our"
+      },
+      {
+        "word": "这次",
+        "pinyin": "zhè cì",
+        "startTime": 348.792,
+        "endTime": 348.893,
+        "gloss": "this time"
+      }
+    ],
+    "fullTextEN": "Finally, let me show you our"
+  },
+  {
+    "startTime": 348.933,
+    "endTime": 350.933,
+    "fullTextZH": "露营的美景。",
+    "words": [
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 349.66,
+        "endTime": 350.226,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.226,
+        "endTime": 350.59,
+        "gloss": "de"
+      },
+      {
+        "word": "美景",
+        "pinyin": "měi jǐng",
+        "startTime": 350.59,
+        "endTime": 350.913,
+        "gloss": "beautiful scenery"
+      }
+    ],
+    "fullTextEN": "beautiful camping scenery."
+  },
+  {
+    "startTime": 362.3,
+    "endTime": 366.0,
+    "fullTextZH": "这次露营的经验，比起以前的露营经验，",
+    "words": [
+      {
+        "word": "这次",
+        "pinyin": "zhè cì",
+        "startTime": 363.205,
+        "endTime": 363.667,
+        "gloss": "this time"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 363.667,
+        "endTime": 363.989,
+        "gloss": "camping"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 363.989,
+        "endTime": 364.19,
+        "gloss": "de"
+      },
+      {
+        "word": "经验",
+        "pinyin": "jīng yàn",
+        "startTime": 364.19,
+        "endTime": 364.592,
+        "gloss": "experience"
+      },
+      {
+        "word": "比起",
+        "pinyin": "bǐ qǐ",
+        "startTime": 364.713,
+        "endTime": 365.176,
+        "gloss": "compared to"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 365.176,
+        "endTime": 365.658,
+        "gloss": "previous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 365.658,
+        "endTime": 365.678,
+        "gloss": "de"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 365.678,
+        "endTime": 365.718,
+        "gloss": "camping"
+      },
+      {
+        "word": "经验",
+        "pinyin": "jīng yàn",
+        "startTime": 365.718,
+        "endTime": 365.819,
+        "gloss": "experience"
+      }
+    ],
+    "fullTextEN": "This camping experience, compared to previous ones,"
+  },
+  {
+    "startTime": 366.0,
+    "endTime": 367.9,
+    "fullTextZH": "我觉得好太多了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 366.809,
+        "endTime": 367.031,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 367.031,
+        "endTime": 367.556,
+        "gloss": "think"
+      },
+      {
+        "word": "好太多",
+        "pinyin": "hǎo tài duō",
+        "startTime": 367.556,
+        "endTime": 367.839,
+        "gloss": "much better"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 367.839,
+        "endTime": 367.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I think it's much better."
+  },
+  {
+    "startTime": 367.9,
+    "endTime": 370.533,
+    "fullTextZH": "我以前真的不是很喜欢露营。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 368.784,
+        "endTime": 368.905,
+        "gloss": "I"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 368.905,
+        "endTime": 369.367,
+        "gloss": "before"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 369.367,
+        "endTime": 369.789,
+        "gloss": "really"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 369.789,
+        "endTime": 370.131,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 370.131,
+        "endTime": 370.272,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 370.272,
+        "endTime": 370.412,
+        "gloss": "like"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 370.412,
+        "endTime": 370.513,
+        "gloss": "camping"
+      }
+    ],
+    "fullTextEN": "I really didn't like camping before."
+  },
+  {
+    "startTime": 370.8,
+    "endTime": 372.133,
+    "fullTextZH": "你们喜欢露营吗？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 371.668,
+        "endTime": 371.931,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 371.931,
+        "endTime": 372.012,
+        "gloss": "like"
+      },
+      {
+        "word": "露营",
+        "pinyin": "lù yíng",
+        "startTime": 372.012,
+        "endTime": 372.093,
+        "gloss": "camping"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 372.093,
+        "endTime": 372.113,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like camping?"
+  },
+  {
+    "startTime": 372.233,
+    "endTime": 374.333,
+    "fullTextZH": "欢迎在下面留言告诉我哦。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 373.121,
+        "endTime": 373.546,
+        "gloss": "welcome"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 373.546,
+        "endTime": 373.707,
+        "gloss": "at"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 373.707,
+        "endTime": 374.071,
+        "gloss": "below"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 374.071,
+        "endTime": 374.192,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 374.192,
+        "endTime": 374.272,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 374.272,
+        "endTime": 374.293,
+        "gloss": "me"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 374.293,
+        "endTime": 374.313,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment below and let me know."
+  },
+  {
+    "startTime": 374.333,
+    "endTime": 378.233,
+    "fullTextZH": "那我们就下支影片见喽，拜拜。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 375.197,
+        "endTime": 375.378,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 375.378,
+        "endTime": 375.62,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 375.62,
+        "endTime": 375.881,
+        "gloss": "just"
+      },
+      {
+        "word": "下支",
+        "pinyin": "xià zhī",
+        "startTime": 375.881,
+        "endTime": 376.444,
+        "gloss": "next"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 376.444,
+        "endTime": 376.826,
+        "gloss": "video"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 376.826,
+        "endTime": 376.987,
+        "gloss": "see"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 376.987,
+        "endTime": 377.328,
+        "gloss": "lo"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 377.449,
+        "endTime": 378.193,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you in the next video, bye."
+  }
+]

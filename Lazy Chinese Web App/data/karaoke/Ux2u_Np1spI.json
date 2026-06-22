@@ -1,0 +1,3822 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 1.266,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.3,
+        "endTime": 1.226,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 1.566,
+    "endTime": 7.366,
+    "fullTextZH": "你可能知道我做过很多很多工作。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 1.747,
+        "endTime": 2.309,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 2.309,
+        "endTime": 2.87,
+        "gloss": "might"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 2.87,
+        "endTime": 3.593,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.593,
+        "endTime": 4.376,
+        "gloss": "I"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 4.376,
+        "endTime": 4.697,
+        "gloss": "do"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 4.697,
+        "endTime": 5.239,
+        "gloss": "past"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 5.239,
+        "endTime": 6.523,
+        "gloss": "many many"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 6.523,
+        "endTime": 7.326,
+        "gloss": "jobs"
+      }
+    ],
+    "fullTextEN": "You might know I've done many, many jobs."
+  },
+  {
+    "startTime": 7.7,
+    "endTime": 9.333,
+    "fullTextZH": "对，我",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 7.821,
+        "endTime": 8.567,
+        "gloss": "yes"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 8.95,
+        "endTime": 8.97,
+        "gloss": "I"
+      }
+    ],
+    "fullTextEN": "Yes, I"
+  },
+  {
+    "startTime": 9.966,
+    "endTime": 12.633,
+    "fullTextZH": "在一个工厂打工过，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 10.006,
+        "endTime": 10.227,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 10.227,
+        "endTime": 10.668,
+        "gloss": "a"
+      },
+      {
+        "word": "工厂",
+        "pinyin": "gōng chǎng",
+        "startTime": 10.668,
+        "endTime": 11.51,
+        "gloss": "factory"
+      },
+      {
+        "word": "打工",
+        "pinyin": "dǎ gōng",
+        "startTime": 11.51,
+        "endTime": 12.072,
+        "gloss": "work"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 12.072,
+        "endTime": 12.593,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "I worked in a factory,"
+  },
+  {
+    "startTime": 12.9,
+    "endTime": 15.333,
+    "fullTextZH": "然后我也卖过衣服，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 12.98,
+        "endTime": 13.423,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 13.423,
+        "endTime": 13.584,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 13.584,
+        "endTime": 13.785,
+        "gloss": "also"
+      },
+      {
+        "word": "卖",
+        "pinyin": "mài",
+        "startTime": 13.785,
+        "endTime": 14.147,
+        "gloss": "sell"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 14.147,
+        "endTime": 14.368,
+        "gloss": "past"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 14.368,
+        "endTime": 15.293,
+        "gloss": "clothes"
+      }
+    ],
+    "fullTextEN": "then I also sold clothes,"
+  },
+  {
+    "startTime": 15.433,
+    "endTime": 18.3,
+    "fullTextZH": "我也在一个超市工作过，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 15.513,
+        "endTime": 15.754,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 15.754,
+        "endTime": 16.034,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 16.034,
+        "endTime": 16.275,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 16.275,
+        "endTime": 16.636,
+        "gloss": "a"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 16.636,
+        "endTime": 17.338,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 17.338,
+        "endTime": 17.839,
+        "gloss": "work"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 17.839,
+        "endTime": 18.28,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "I also worked in a supermarket,"
+  },
+  {
+    "startTime": 18.333,
+    "endTime": 21.066,
+    "fullTextZH": "我也在很多饭店工作过。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 18.413,
+        "endTime": 18.534,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 18.534,
+        "endTime": 18.735,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 18.735,
+        "endTime": 18.956,
+        "gloss": "at"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 18.956,
+        "endTime": 19.438,
+        "gloss": "many"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 19.438,
+        "endTime": 20.041,
+        "gloss": "restaurants"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 20.041,
+        "endTime": 20.564,
+        "gloss": "work"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 20.564,
+        "endTime": 21.026,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "I also worked in many restaurants."
+  },
+  {
+    "startTime": 21.433,
+    "endTime": 27.733,
+    "fullTextZH": "那在这一些工作里我最最喜欢的工作",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 21.533,
+        "endTime": 22.577,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 22.577,
+        "endTime": 22.837,
+        "gloss": "in"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 22.837,
+        "endTime": 23.098,
+        "gloss": "these"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 23.098,
+        "endTime": 23.58,
+        "gloss": "some"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 23.58,
+        "endTime": 24.182,
+        "gloss": "jobs"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 24.182,
+        "endTime": 24.683,
+        "gloss": "in"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 24.683,
+        "endTime": 25.466,
+        "gloss": "I"
+      },
+      {
+        "word": "最最",
+        "pinyin": "zuì zuì",
+        "startTime": 25.466,
+        "endTime": 26.148,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 26.148,
+        "endTime": 26.77,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.77,
+        "endTime": 26.93,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 26.93,
+        "endTime": 27.211,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "Among all these jobs, the one I liked the most"
+  },
+  {
+    "startTime": 28.466,
+    "endTime": 31.566,
+    "fullTextZH": "第一个当然是教中文，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 28.486,
+        "endTime": 29.211,
+        "gloss": "first"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 29.211,
+        "endTime": 29.754,
+        "gloss": "of course"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 29.754,
+        "endTime": 30.217,
+        "gloss": "is"
+      },
+      {
+        "word": "教",
+        "pinyin": "jiào",
+        "startTime": 30.217,
+        "endTime": 30.7,
+        "gloss": "teach"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 30.7,
+        "endTime": 31.526,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "The first is, of course, teaching Chinese,"
+  },
+  {
+    "startTime": 31.566,
+    "endTime": 35.566,
+    "fullTextZH": "可是第二个是当咖啡师，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 31.707,
+        "endTime": 32.069,
+        "gloss": "but"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 32.069,
+        "endTime": 32.973,
+        "gloss": "second"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.973,
+        "endTime": 33.737,
+        "gloss": "is"
+      },
+      {
+        "word": "当",
+        "pinyin": "dāng",
+        "startTime": 33.737,
+        "endTime": 34.32,
+        "gloss": "be"
+      },
+      {
+        "word": "咖啡师",
+        "pinyin": "kā fēi shī",
+        "startTime": 34.32,
+        "endTime": 35.526,
+        "gloss": "barista"
+      }
+    ],
+    "fullTextEN": "but the second is being a barista,"
+  },
+  {
+    "startTime": 36.333,
+    "endTime": 40.666,
+    "fullTextZH": "我的上一份工作就是当咖啡师。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 36.353,
+        "endTime": 36.554,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 36.554,
+        "endTime": 36.955,
+        "gloss": "of"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 36.955,
+        "endTime": 37.276,
+        "gloss": "last"
+      },
+      {
+        "word": "一份",
+        "pinyin": "yī fèn",
+        "startTime": 37.276,
+        "endTime": 37.817,
+        "gloss": "job"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 37.817,
+        "endTime": 38.499,
+        "gloss": "just"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 38.499,
+        "endTime": 39.202,
+        "gloss": "be"
+      },
+      {
+        "word": "当",
+        "pinyin": "dāng",
+        "startTime": 39.202,
+        "endTime": 39.543,
+        "gloss": "barista"
+      },
+      {
+        "word": "咖啡师",
+        "pinyin": "kā fēi shī",
+        "startTime": 39.543,
+        "endTime": 40.626,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "My last job was being a barista."
+  },
+  {
+    "startTime": 41.333,
+    "endTime": 45.3,
+    "fullTextZH": "那个时候我在一个酒店工作，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 41.433,
+        "endTime": 41.894,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 41.894,
+        "endTime": 42.495,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 42.495,
+        "endTime": 42.735,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 42.735,
+        "endTime": 43.016,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 43.016,
+        "endTime": 43.737,
+        "gloss": "a"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 43.737,
+        "endTime": 44.519,
+        "gloss": "hotel"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 44.519,
+        "endTime": 45.26,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "At that time, I worked in a hotel,"
+  },
+  {
+    "startTime": 45.466,
+    "endTime": 48.266,
+    "fullTextZH": "是悉尼的一个酒店，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 45.567,
+        "endTime": 46.151,
+        "gloss": "is"
+      },
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 46.151,
+        "endTime": 46.654,
+        "gloss": "Sydney"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 46.654,
+        "endTime": 46.816,
+        "gloss": "of"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 46.816,
+        "endTime": 47.4,
+        "gloss": "a"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 47.4,
+        "endTime": 48.226,
+        "gloss": "hotel"
+      }
+    ],
+    "fullTextEN": "It was a hotel in Sydney,"
+  },
+  {
+    "startTime": 49.666,
+    "endTime": 53.9,
+    "fullTextZH": "我每天要很早很早起床。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 49.686,
+        "endTime": 50.128,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 50.128,
+        "endTime": 50.97,
+        "gloss": "every day"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 50.97,
+        "endTime": 51.332,
+        "gloss": "must"
+      },
+      {
+        "word": "很早",
+        "pinyin": "hěn zǎo",
+        "startTime": 51.332,
+        "endTime": 52.154,
+        "gloss": "very early"
+      },
+      {
+        "word": "很早",
+        "pinyin": "hěn zǎo",
+        "startTime": 52.154,
+        "endTime": 52.877,
+        "gloss": "very early"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 52.877,
+        "endTime": 53.86,
+        "gloss": "get up"
+      }
+    ],
+    "fullTextEN": "I had to get up very, very early every day."
+  },
+  {
+    "startTime": 54.3,
+    "endTime": 58.466,
+    "fullTextZH": "可能4点半我就要起床，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 54.42,
+        "endTime": 55.462,
+        "gloss": "maybe"
+      },
+      {
+        "word": "点半",
+        "pinyin": "diǎn bàn",
+        "startTime": 55.862,
+        "endTime": 56.824,
+        "gloss": "4:30"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 56.824,
+        "endTime": 57.004,
+        "gloss": "I"
+      },
+      {
+        "word": "就要",
+        "pinyin": "jiù yào",
+        "startTime": 57.004,
+        "endTime": 57.505,
+        "gloss": "must"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 57.505,
+        "endTime": 58.426,
+        "gloss": "get up"
+      }
+    ],
+    "fullTextEN": "Maybe at 4:30 I had to get up,"
+  },
+  {
+    "startTime": 58.5,
+    "endTime": 62.066,
+    "fullTextZH": "然后坐火车去工作，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 58.58,
+        "endTime": 59.261,
+        "gloss": "then"
+      },
+      {
+        "word": "坐火车",
+        "pinyin": "zuò huǒ chē",
+        "startTime": 59.261,
+        "endTime": 60.744,
+        "gloss": "take train"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 60.744,
+        "endTime": 61.265,
+        "gloss": "to"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 61.265,
+        "endTime": 62.026,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "then take the train to work,"
+  },
+  {
+    "startTime": 63.333,
+    "endTime": 66.966,
+    "fullTextZH": "那个时候天还没有亮，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 63.353,
+        "endTime": 63.775,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 63.775,
+        "endTime": 64.778,
+        "gloss": "time"
+      },
+      {
+        "word": "天",
+        "pinyin": "tiān",
+        "startTime": 64.778,
+        "endTime": 65.42,
+        "gloss": "sky"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 65.42,
+        "endTime": 65.681,
+        "gloss": "still"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 65.681,
+        "endTime": 66.243,
+        "gloss": "not yet"
+      },
+      {
+        "word": "亮",
+        "pinyin": "liàng",
+        "startTime": 66.243,
+        "endTime": 66.926,
+        "gloss": "bright"
+      }
+    ],
+    "fullTextEN": "At that time, it was still dark,"
+  },
+  {
+    "startTime": 67.0,
+    "endTime": 69.366,
+    "fullTextZH": "天还是黑的，",
+    "words": [
+      {
+        "word": "天",
+        "pinyin": "tiān",
+        "startTime": 67.16,
+        "endTime": 67.521,
+        "gloss": "sky"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 67.521,
+        "endTime": 68.424,
+        "gloss": "still"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 68.424,
+        "endTime": 68.865,
+        "gloss": "dark"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 68.865,
+        "endTime": 69.326,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "The sky was still dark,"
+  },
+  {
+    "startTime": 69.533,
+    "endTime": 71.366,
+    "fullTextZH": "黑的。对，",
+    "words": [
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 69.573,
+        "endTime": 69.775,
+        "gloss": "dark"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 69.775,
+        "endTime": 69.956,
+        "gloss": "of"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 70.822,
+        "endTime": 71.346,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Dark. Yes,"
+  },
+  {
+    "startTime": 72.733,
+    "endTime": 76.533,
+    "fullTextZH": "可是我不觉得那个工作很苦，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 72.753,
+        "endTime": 73.517,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 73.517,
+        "endTime": 73.718,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 73.718,
+        "endTime": 73.959,
+        "gloss": "not"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 73.959,
+        "endTime": 74.703,
+        "gloss": "feel"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 74.703,
+        "endTime": 75.105,
+        "gloss": "that"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 75.105,
+        "endTime": 75.608,
+        "gloss": "job"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 75.608,
+        "endTime": 75.99,
+        "gloss": "very"
+      },
+      {
+        "word": "苦",
+        "pinyin": "kǔ",
+        "startTime": 75.99,
+        "endTime": 76.493,
+        "gloss": "hard"
+      }
+    ],
+    "fullTextEN": "but I didn't feel that job was hard,"
+  },
+  {
+    "startTime": 76.7,
+    "endTime": 79.466,
+    "fullTextZH": "虽然我很喜欢睡觉，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 76.82,
+        "endTime": 77.201,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 77.201,
+        "endTime": 77.442,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 77.442,
+        "endTime": 77.963,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 77.963,
+        "endTime": 78.644,
+        "gloss": "like"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 78.644,
+        "endTime": 79.426,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Although I really like sleeping,"
+  },
+  {
+    "startTime": 79.5,
+    "endTime": 82.866,
+    "fullTextZH": "可是我还是很喜欢那个工作。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 79.58,
+        "endTime": 79.861,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 79.861,
+        "endTime": 80.081,
+        "gloss": "I"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 80.081,
+        "endTime": 80.682,
+        "gloss": "still"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 80.682,
+        "endTime": 81.083,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 81.083,
+        "endTime": 81.704,
+        "gloss": "like"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 81.704,
+        "endTime": 82.065,
+        "gloss": "that"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 82.065,
+        "endTime": 82.826,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "I still really like that job."
+  },
+  {
+    "startTime": 83.5,
+    "endTime": 87.3,
+    "fullTextZH": "第一个是因为我很喜欢喝咖啡，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 83.601,
+        "endTime": 84.304,
+        "gloss": "first"
+      },
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 84.304,
+        "endTime": 84.907,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 84.907,
+        "endTime": 85.45,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 85.45,
+        "endTime": 85.812,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 85.812,
+        "endTime": 86.275,
+        "gloss": "like"
+      },
+      {
+        "word": "喝咖啡",
+        "pinyin": "hē kā fēi",
+        "startTime": 86.275,
+        "endTime": 87.26,
+        "gloss": "drink coffee"
+      }
+    ],
+    "fullTextEN": "The first reason is that I really like drinking coffee,"
+  },
+  {
+    "startTime": 87.566,
+    "endTime": 89.466,
+    "fullTextZH": "如果你是咖啡师，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 87.707,
+        "endTime": 88.071,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 88.071,
+        "endTime": 88.273,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 88.273,
+        "endTime": 88.496,
+        "gloss": "are"
+      },
+      {
+        "word": "咖啡师",
+        "pinyin": "kā fēi shī",
+        "startTime": 88.496,
+        "endTime": 89.426,
+        "gloss": "barista"
+      }
+    ],
+    "fullTextEN": "If you are a barista,"
+  },
+  {
+    "startTime": 89.466,
+    "endTime": 94.833,
+    "fullTextZH": "那你可以每天免费喝很多很多咖啡。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 89.526,
+        "endTime": 89.826,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 89.826,
+        "endTime": 90.047,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 90.047,
+        "endTime": 90.327,
+        "gloss": "can"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 90.327,
+        "endTime": 91.308,
+        "gloss": "every day"
+      },
+      {
+        "word": "免费",
+        "pinyin": "miǎn fèi",
+        "startTime": 91.308,
+        "endTime": 92.21,
+        "gloss": "free"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 92.21,
+        "endTime": 92.85,
+        "gloss": "drink"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 92.85,
+        "endTime": 94.012,
+        "gloss": "many many"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 94.012,
+        "endTime": 94.793,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "then you can drink a lot of free coffee every day."
+  },
+  {
+    "startTime": 95.233,
+    "endTime": 100.3,
+    "fullTextZH": "第二个是我真的很喜欢做咖啡，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 95.353,
+        "endTime": 96.094,
+        "gloss": "second"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 96.094,
+        "endTime": 96.355,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 96.355,
+        "endTime": 96.675,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 96.675,
+        "endTime": 97.376,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 97.376,
+        "endTime": 97.736,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 97.736,
+        "endTime": 98.798,
+        "gloss": "like"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 98.798,
+        "endTime": 99.419,
+        "gloss": "make"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 99.419,
+        "endTime": 100.26,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "The second reason is I really like making coffee,"
+  },
+  {
+    "startTime": 100.966,
+    "endTime": 107.133,
+    "fullTextZH": "因为你做咖啡的时候你什么都不想，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 101.006,
+        "endTime": 101.326,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 101.326,
+        "endTime": 101.707,
+        "gloss": "you"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 101.707,
+        "endTime": 102.127,
+        "gloss": "make"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 102.127,
+        "endTime": 102.648,
+        "gloss": "coffee"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.648,
+        "endTime": 102.848,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 102.848,
+        "endTime": 103.769,
+        "gloss": "time"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 103.769,
+        "endTime": 104.31,
+        "gloss": "you"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 104.31,
+        "endTime": 105.311,
+        "gloss": "anything"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 105.311,
+        "endTime": 105.731,
+        "gloss": "all"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 105.731,
+        "endTime": 107.093,
+        "gloss": "not think"
+      }
+    ],
+    "fullTextEN": "because when you make coffee, you think of nothing,"
+  },
+  {
+    "startTime": 107.266,
+    "endTime": 110.033,
+    "fullTextZH": "你只是在做你的咖啡，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 107.386,
+        "endTime": 107.687,
+        "gloss": "you"
+      },
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 107.687,
+        "endTime": 108.349,
+        "gloss": "just"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 108.349,
+        "endTime": 108.609,
+        "gloss": "at"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 108.609,
+        "endTime": 108.85,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 108.85,
+        "endTime": 108.99,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 108.99,
+        "endTime": 109.171,
+        "gloss": "coffee"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 109.171,
+        "endTime": 109.993,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "you are just making your coffee,"
+  },
+  {
+    "startTime": 110.133,
+    "endTime": 115.033,
+    "fullTextZH": "然后你只是想要把咖啡做得更好喝，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 110.233,
+        "endTime": 110.615,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 110.615,
+        "endTime": 110.836,
+        "gloss": "you"
+      },
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 110.836,
+        "endTime": 111.378,
+        "gloss": "just"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 111.378,
+        "endTime": 111.9,
+        "gloss": "want"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 111.9,
+        "endTime": 112.161,
+        "gloss": "to"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 112.161,
+        "endTime": 112.824,
+        "gloss": "coffee"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 112.824,
+        "endTime": 113.105,
+        "gloss": "make"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 113.105,
+        "endTime": 113.708,
+        "gloss": "to"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 113.708,
+        "endTime": 114.431,
+        "gloss": "better"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 114.431,
+        "endTime": 114.993,
+        "gloss": "taste"
+      }
+    ],
+    "fullTextEN": "and you just want to make the coffee taste better,"
+  },
+  {
+    "startTime": 115.066,
+    "endTime": 118.533,
+    "fullTextZH": "想把拉花做得更好看，",
+    "words": [
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 115.166,
+        "endTime": 115.447,
+        "gloss": "want"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 115.447,
+        "endTime": 115.948,
+        "gloss": "to"
+      },
+      {
+        "word": "拉花",
+        "pinyin": "lā huā",
+        "startTime": 115.948,
+        "endTime": 116.689,
+        "gloss": "latte art"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 116.689,
+        "endTime": 116.91,
+        "gloss": "make"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 116.91,
+        "endTime": 117.25,
+        "gloss": "to"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 117.25,
+        "endTime": 117.972,
+        "gloss": "better"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 117.972,
+        "endTime": 118.493,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "want to make the latte art look better,"
+  },
+  {
+    "startTime": 119.166,
+    "endTime": 121.066,
+    "fullTextZH": "所以对我来说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 119.206,
+        "endTime": 119.53,
+        "gloss": "so"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 119.53,
+        "endTime": 119.793,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 119.793,
+        "endTime": 120.177,
+        "gloss": "me"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 120.177,
+        "endTime": 120.54,
+        "gloss": "regarding"
+      }
+    ],
+    "fullTextEN": "so for me,"
+  },
+  {
+    "startTime": 121.133,
+    "endTime": 126.866,
+    "fullTextZH": "做咖啡是一个非常非常治愈的（therapeutic）工作，",
+    "words": [
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 121.233,
+        "endTime": 121.594,
+        "gloss": "make"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 121.594,
+        "endTime": 122.516,
+        "gloss": "coffee"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 122.516,
+        "endTime": 122.797,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 122.797,
+        "endTime": 123.659,
+        "gloss": "a"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 123.659,
+        "endTime": 124.38,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 124.38,
+        "endTime": 124.841,
+        "gloss": "very"
+      },
+      {
+        "word": "治愈",
+        "pinyin": "zhì yù",
+        "startTime": 124.841,
+        "endTime": 124.902,
+        "gloss": "therapeutic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 124.902,
+        "endTime": 124.942,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 126.064,
+        "endTime": 126.826,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "making coffee is a very, very therapeutic job,"
+  },
+  {
+    "startTime": 127.666,
+    "endTime": 130.833,
+    "fullTextZH": "我真的很享受做咖啡。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 127.666,
+        "endTime": 127.886,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 127.886,
+        "endTime": 128.348,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 128.348,
+        "endTime": 128.748,
+        "gloss": "very"
+      },
+      {
+        "word": "享受",
+        "pinyin": "xiǎng shòu",
+        "startTime": 128.748,
+        "endTime": 129.57,
+        "gloss": "enjoy"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 129.57,
+        "endTime": 129.911,
+        "gloss": "make"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 129.911,
+        "endTime": 130.793,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "I really enjoy making coffee."
+  },
+  {
+    "startTime": 131.266,
+    "endTime": 137.633,
+    "fullTextZH": "而且我的工作的酒店在飞机场的旁边，",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 131.426,
+        "endTime": 132.367,
+        "gloss": "moreover"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 132.367,
+        "endTime": 132.627,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 132.627,
+        "endTime": 133.148,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 133.148,
+        "endTime": 133.629,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 133.629,
+        "endTime": 134.089,
+        "gloss": "of"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 134.089,
+        "endTime": 134.85,
+        "gloss": "hotel"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 134.85,
+        "endTime": 135.491,
+        "gloss": "at"
+      },
+      {
+        "word": "飞机场",
+        "pinyin": "fēi jī chǎng",
+        "startTime": 135.491,
+        "endTime": 136.472,
+        "gloss": "airport"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 136.472,
+        "endTime": 136.772,
+        "gloss": "of"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 136.772,
+        "endTime": 137.613,
+        "gloss": "beside"
+      }
+    ],
+    "fullTextEN": "Moreover, the hotel where I work is next to the airport,"
+  },
+  {
+    "startTime": 137.733,
+    "endTime": 141.033,
+    "fullTextZH": "所以如果你喜欢看飞机，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 137.854,
+        "endTime": 138.357,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 138.357,
+        "endTime": 138.739,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 138.739,
+        "endTime": 139.142,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 139.142,
+        "endTime": 139.765,
+        "gloss": "like"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 139.765,
+        "endTime": 140.248,
+        "gloss": "watch"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 140.248,
+        "endTime": 140.993,
+        "gloss": "planes"
+      }
+    ],
+    "fullTextEN": "so if you like watching planes,"
+  },
+  {
+    "startTime": 141.133,
+    "endTime": 145.066,
+    "fullTextZH": "那你可能会更喜欢我的工作。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 141.233,
+        "endTime": 141.655,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 141.655,
+        "endTime": 141.896,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 141.896,
+        "endTime": 142.317,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 142.317,
+        "endTime": 142.698,
+        "gloss": "will"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 142.698,
+        "endTime": 143.28,
+        "gloss": "more"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 143.28,
+        "endTime": 143.982,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 143.982,
+        "endTime": 144.163,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 144.163,
+        "endTime": 144.303,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 144.303,
+        "endTime": 145.026,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "then you might like my job even more."
+  },
+  {
+    "startTime": 145.933,
+    "endTime": 150.633,
+    "fullTextZH": "当然我喜欢这个工作还有别的原因，",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 145.973,
+        "endTime": 146.736,
+        "gloss": "of course"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 146.736,
+        "endTime": 147.058,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 147.058,
+        "endTime": 147.64,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 147.64,
+        "endTime": 147.942,
+        "gloss": "this"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 147.942,
+        "endTime": 148.504,
+        "gloss": "job"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 148.504,
+        "endTime": 149.207,
+        "gloss": "also"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 149.207,
+        "endTime": 149.729,
+        "gloss": "other"
+      },
+      {
+        "word": "原因",
+        "pinyin": "yuán yīn",
+        "startTime": 149.729,
+        "endTime": 150.593,
+        "gloss": "reasons"
+      }
+    ],
+    "fullTextEN": "Of course, I like this job for other reasons too,"
+  },
+  {
+    "startTime": 150.966,
+    "endTime": 154.133,
+    "fullTextZH": "有一个很大的原因就是",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 151.086,
+        "endTime": 151.227,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 151.227,
+        "endTime": 151.728,
+        "gloss": "one"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 151.728,
+        "endTime": 152.249,
+        "gloss": "big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.249,
+        "endTime": 152.369,
+        "gloss": "of"
+      },
+      {
+        "word": "原因",
+        "pinyin": "yuán yīn",
+        "startTime": 152.369,
+        "endTime": 153.191,
+        "gloss": "reason"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 153.191,
+        "endTime": 153.572,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "one big reason is that"
+  },
+  {
+    "startTime": 154.266,
+    "endTime": 156.733,
+    "fullTextZH": "我的经理（manager）对我很好，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 154.346,
+        "endTime": 154.607,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 154.607,
+        "endTime": 154.908,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 154.908,
+        "endTime": 155.249,
+        "gloss": "manager"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 155.65,
+        "endTime": 155.71,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 155.71,
+        "endTime": 155.911,
+        "gloss": "me"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 155.911,
+        "endTime": 156.191,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 156.191,
+        "endTime": 156.693,
+        "gloss": "nice"
+      }
+    ],
+    "fullTextEN": "my manager is very nice to me,"
+  },
+  {
+    "startTime": 156.733,
+    "endTime": 160.933,
+    "fullTextZH": "我和同事的关系也很好 ，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 156.854,
+        "endTime": 157.235,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 157.235,
+        "endTime": 157.919,
+        "gloss": "and"
+      },
+      {
+        "word": "同事",
+        "pinyin": "tóng shì",
+        "startTime": 157.919,
+        "endTime": 158.642,
+        "gloss": "colleagues"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.642,
+        "endTime": 159.044,
+        "gloss": "of"
+      },
+      {
+        "word": "关系",
+        "pinyin": "guān xì",
+        "startTime": 159.044,
+        "endTime": 159.848,
+        "gloss": "relationship"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 159.848,
+        "endTime": 160.109,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 160.109,
+        "endTime": 160.39,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 160.39,
+        "endTime": 160.893,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "and my relationship with colleagues is also very good,"
+  },
+  {
+    "startTime": 161.7,
+    "endTime": 165.666,
+    "fullTextZH": "那个时候我和我的好朋友一起工作。",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 161.7,
+        "endTime": 162.061,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 162.061,
+        "endTime": 162.621,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 162.621,
+        "endTime": 162.942,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 162.942,
+        "endTime": 163.282,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 163.282,
+        "endTime": 163.483,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 163.483,
+        "endTime": 163.663,
+        "gloss": "of"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 163.663,
+        "endTime": 163.923,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 163.923,
+        "endTime": 164.424,
+        "gloss": "friend"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 164.424,
+        "endTime": 164.865,
+        "gloss": "together"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 164.865,
+        "endTime": 165.646,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "At that time, my good friend and I worked together."
+  },
+  {
+    "startTime": 165.766,
+    "endTime": 169.566,
+    "fullTextZH": "所以工作的时候我们可以聊天，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 165.867,
+        "endTime": 166.47,
+        "gloss": "so"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 166.47,
+        "endTime": 166.972,
+        "gloss": "work"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 166.972,
+        "endTime": 167.173,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 167.173,
+        "endTime": 167.877,
+        "gloss": "time"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 167.877,
+        "endTime": 168.279,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 168.279,
+        "endTime": 168.661,
+        "gloss": "can"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 168.661,
+        "endTime": 169.526,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "So while working, we could chat,"
+  },
+  {
+    "startTime": 169.933,
+    "endTime": 173.0,
+    "fullTextZH": "我们聊得非常非常开心，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 169.933,
+        "endTime": 170.354,
+        "gloss": "we"
+      },
+      {
+        "word": "聊得",
+        "pinyin": "liáo dé",
+        "startTime": 170.354,
+        "endTime": 171.036,
+        "gloss": "chat"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 171.036,
+        "endTime": 171.637,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 171.637,
+        "endTime": 172.178,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 172.178,
+        "endTime": 172.98,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "We chatted very, very happily,"
+  },
+  {
+    "startTime": 173.1,
+    "endTime": 176.366,
+    "fullTextZH": "所以每次我们都大笑，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 173.18,
+        "endTime": 173.841,
+        "gloss": "so"
+      },
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 173.841,
+        "endTime": 174.442,
+        "gloss": "every time"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 174.442,
+        "endTime": 174.823,
+        "gloss": "we"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 174.823,
+        "endTime": 175.284,
+        "gloss": "all"
+      },
+      {
+        "word": "大笑",
+        "pinyin": "dà xiào",
+        "startTime": 175.284,
+        "endTime": 176.326,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "So every time we laughed loudly,"
+  },
+  {
+    "startTime": 176.566,
+    "endTime": 179.266,
+    "fullTextZH": "然后我们的经理说：",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 176.667,
+        "endTime": 177.473,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 177.473,
+        "endTime": 177.795,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 177.795,
+        "endTime": 178.017,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 178.017,
+        "endTime": 178.621,
+        "gloss": "manager"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 178.621,
+        "endTime": 179.226,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Then our manager said:"
+  },
+  {
+    "startTime": 179.666,
+    "endTime": 183.0,
+    "fullTextZH": "这个酒店没有别的声音，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 179.686,
+        "endTime": 180.007,
+        "gloss": "this"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 180.007,
+        "endTime": 180.871,
+        "gloss": "hotel"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 180.871,
+        "endTime": 181.514,
+        "gloss": "no"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 181.514,
+        "endTime": 182.156,
+        "gloss": "other"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 182.156,
+        "endTime": 182.96,
+        "gloss": "sound"
+      }
+    ],
+    "fullTextEN": "There is no other sound in this hotel,"
+  },
+  {
+    "startTime": 183.066,
+    "endTime": 187.433,
+    "fullTextZH": "只有我和我同事的笑声（laughter） 。",
+    "words": [
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 183.146,
+        "endTime": 183.647,
+        "gloss": "only"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 183.647,
+        "endTime": 184.308,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 184.308,
+        "endTime": 184.588,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 184.588,
+        "endTime": 184.869,
+        "gloss": "my"
+      },
+      {
+        "word": "同事",
+        "pinyin": "tóng shì",
+        "startTime": 184.869,
+        "endTime": 185.55,
+        "gloss": "colleague"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.55,
+        "endTime": 186.111,
+        "gloss": "of"
+      },
+      {
+        "word": "笑声",
+        "pinyin": "xiào shēng",
+        "startTime": 186.111,
+        "endTime": 186.632,
+        "gloss": "laughter"
+      }
+    ],
+    "fullTextEN": "only the laughter of my colleague and me."
+  },
+  {
+    "startTime": 187.433,
+    "endTime": 189.866,
+    "fullTextZH": "对，因为我们每次大笑，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 187.433,
+        "endTime": 187.493,
+        "gloss": "yes"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 187.554,
+        "endTime": 187.735,
+        "gloss": "because"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 187.735,
+        "endTime": 188.076,
+        "gloss": "we"
+      },
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 188.076,
+        "endTime": 188.921,
+        "gloss": "every time"
+      },
+      {
+        "word": "大笑",
+        "pinyin": "dà xiào",
+        "startTime": 188.921,
+        "endTime": 189.846,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "Yes, because every time we laughed loudly,"
+  },
+  {
+    "startTime": 189.9,
+    "endTime": 191.966,
+    "fullTextZH": "我们笑得很大声，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 189.96,
+        "endTime": 190.281,
+        "gloss": "we"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 190.281,
+        "endTime": 190.542,
+        "gloss": "laugh"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 190.542,
+        "endTime": 190.642,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 190.642,
+        "endTime": 191.023,
+        "gloss": "very"
+      },
+      {
+        "word": "大声",
+        "pinyin": "dà shēng",
+        "startTime": 191.023,
+        "endTime": 191.926,
+        "gloss": "loud"
+      }
+    ],
+    "fullTextEN": "We laughed very loudly,"
+  },
+  {
+    "startTime": 192.933,
+    "endTime": 196.533,
+    "fullTextZH": "但是我觉得我们的经理不生气。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 192.973,
+        "endTime": 193.355,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 193.355,
+        "endTime": 193.556,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 193.556,
+        "endTime": 194.22,
+        "gloss": "think"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 194.22,
+        "endTime": 194.522,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 194.522,
+        "endTime": 194.703,
+        "gloss": "of"
+      },
+      {
+        "word": "经理",
+        "pinyin": "jīng lǐ",
+        "startTime": 194.703,
+        "endTime": 195.246,
+        "gloss": "manager"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 195.246,
+        "endTime": 195.668,
+        "gloss": "not"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 195.668,
+        "endTime": 196.493,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "but I think our manager was not angry."
+  },
+  {
+    "startTime": 196.6,
+    "endTime": 200.466,
+    "fullTextZH": "所以我们继续聊天我们继续大笑，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 196.68,
+        "endTime": 196.92,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 196.92,
+        "endTime": 197.321,
+        "gloss": "we"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 197.321,
+        "endTime": 197.902,
+        "gloss": "continue"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 197.902,
+        "endTime": 198.563,
+        "gloss": "chat"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 198.563,
+        "endTime": 198.964,
+        "gloss": "we"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 198.964,
+        "endTime": 199.625,
+        "gloss": "continue"
+      },
+      {
+        "word": "大笑",
+        "pinyin": "dà xiào",
+        "startTime": 199.625,
+        "endTime": 200.426,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "So we continued chatting and laughing,"
+  },
+  {
+    "startTime": 201.233,
+    "endTime": 202.766,
+    "fullTextZH": "这让我觉得",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 201.273,
+        "endTime": 201.435,
+        "gloss": "this"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 201.435,
+        "endTime": 201.697,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 201.697,
+        "endTime": 201.959,
+        "gloss": "me"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 201.959,
+        "endTime": 202.322,
+        "gloss": "feel"
+      }
+    ],
+    "fullTextEN": "This made me feel"
+  },
+  {
+    "startTime": 203.0,
+    "endTime": 206.8,
+    "fullTextZH": "和朋友一起工作真的很快乐，",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 203.08,
+        "endTime": 203.724,
+        "gloss": "with"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 203.724,
+        "endTime": 204.206,
+        "gloss": "friends"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 204.206,
+        "endTime": 204.649,
+        "gloss": "together"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 204.649,
+        "endTime": 205.272,
+        "gloss": "work"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 205.272,
+        "endTime": 205.694,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 205.694,
+        "endTime": 206.076,
+        "gloss": "very"
+      },
+      {
+        "word": "快乐",
+        "pinyin": "kuài lè",
+        "startTime": 206.076,
+        "endTime": 206.76,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "that working with friends is really joyful,"
+  },
+  {
+    "startTime": 206.833,
+    "endTime": 209.4,
+    "fullTextZH": "真的不觉得是在工作，",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 206.933,
+        "endTime": 207.334,
+        "gloss": "really"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 207.334,
+        "endTime": 207.515,
+        "gloss": "not"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 207.515,
+        "endTime": 207.996,
+        "gloss": "feel"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 207.996,
+        "endTime": 208.357,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 208.357,
+        "endTime": 208.778,
+        "gloss": "at"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 208.778,
+        "endTime": 209.36,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "it really doesn't feel like working,"
+  },
+  {
+    "startTime": 209.4,
+    "endTime": 211.633,
+    "fullTextZH": "是和朋友一起玩。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 209.46,
+        "endTime": 209.782,
+        "gloss": "is"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 209.782,
+        "endTime": 210.044,
+        "gloss": "with"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 210.044,
+        "endTime": 210.527,
+        "gloss": "friends"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 210.527,
+        "endTime": 210.949,
+        "gloss": "together"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 210.949,
+        "endTime": 211.593,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "it's like playing with friends."
+  },
+  {
+    "startTime": 212.7,
+    "endTime": 215.2,
+    "fullTextZH": "然后在这个酒店工作",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 212.7,
+        "endTime": 213.224,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 213.224,
+        "endTime": 213.567,
+        "gloss": "at"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 213.567,
+        "endTime": 213.89,
+        "gloss": "this"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 213.89,
+        "endTime": 214.454,
+        "gloss": "hotel"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 214.454,
+        "endTime": 214.736,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Then working at this hotel"
+  },
+  {
+    "startTime": 215.233,
+    "endTime": 217.633,
+    "fullTextZH": "你可以喝免费的咖啡，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 215.334,
+        "endTime": 215.536,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 215.536,
+        "endTime": 215.899,
+        "gloss": "can"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 215.899,
+        "endTime": 216.201,
+        "gloss": "drink"
+      },
+      {
+        "word": "免费",
+        "pinyin": "miǎn fèi",
+        "startTime": 216.201,
+        "endTime": 216.887,
+        "gloss": "free"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 216.887,
+        "endTime": 217.048,
+        "gloss": "of"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 217.048,
+        "endTime": 217.593,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "you can drink free coffee,"
+  },
+  {
+    "startTime": 217.633,
+    "endTime": 220.533,
+    "fullTextZH": "也可以吃免费的早餐，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 217.714,
+        "endTime": 217.935,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 217.935,
+        "endTime": 218.418,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 218.418,
+        "endTime": 218.7,
+        "gloss": "eat"
+      },
+      {
+        "word": "免费",
+        "pinyin": "miǎn fèi",
+        "startTime": 218.7,
+        "endTime": 219.405,
+        "gloss": "free"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 219.405,
+        "endTime": 219.687,
+        "gloss": "of"
+      },
+      {
+        "word": "早餐",
+        "pinyin": "zǎo cān",
+        "startTime": 219.687,
+        "endTime": 220.493,
+        "gloss": "breakfast"
+      }
+    ],
+    "fullTextEN": "and also eat free breakfast,"
+  },
+  {
+    "startTime": 220.933,
+    "endTime": 222.966,
+    "fullTextZH": "午餐晚餐都可以。",
+    "words": [
+      {
+        "word": "午餐",
+        "pinyin": "wǔ cān",
+        "startTime": 220.953,
+        "endTime": 221.476,
+        "gloss": "lunch"
+      },
+      {
+        "word": "晚餐",
+        "pinyin": "wǎn cān",
+        "startTime": 221.476,
+        "endTime": 222.141,
+        "gloss": "dinner"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 222.141,
+        "endTime": 222.342,
+        "gloss": "both"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 222.342,
+        "endTime": 222.926,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "lunch and dinner are both available."
+  },
+  {
+    "startTime": 223.166,
+    "endTime": 225.4,
+    "fullTextZH": "嗯～这个这个，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 223.247,
+        "endTime": 223.73,
+        "gloss": "hmm"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 223.85,
+        "endTime": 224.696,
+        "gloss": "this"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 224.696,
+        "endTime": 225.36,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "Hmm~ this, this,"
+  },
+  {
+    "startTime": 225.5,
+    "endTime": 229.5,
+    "fullTextZH": "这个饭店的早餐是英式早餐，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 225.5,
+        "endTime": 225.761,
+        "gloss": "this"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 225.761,
+        "endTime": 226.244,
+        "gloss": "hotel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 226.244,
+        "endTime": 226.505,
+        "gloss": "of"
+      },
+      {
+        "word": "早餐",
+        "pinyin": "zǎo cān",
+        "startTime": 226.505,
+        "endTime": 227.309,
+        "gloss": "breakfast"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.309,
+        "endTime": 227.731,
+        "gloss": "is"
+      },
+      {
+        "word": "英式",
+        "pinyin": "yīng shì",
+        "startTime": 227.731,
+        "endTime": 228.636,
+        "gloss": "English-style"
+      },
+      {
+        "word": "早餐",
+        "pinyin": "zǎo cān",
+        "startTime": 228.636,
+        "endTime": 229.46,
+        "gloss": "breakfast"
+      }
+    ],
+    "fullTextEN": "The breakfast at this hotel is an English breakfast,"
+  },
+  {
+    "startTime": 229.7,
+    "endTime": 233.4,
+    "fullTextZH": "英式早餐就是你可以吃面包，",
+    "words": [
+      {
+        "word": "英式",
+        "pinyin": "yīng shì",
+        "startTime": 229.801,
+        "endTime": 230.484,
+        "gloss": "English-style"
+      },
+      {
+        "word": "早餐",
+        "pinyin": "zǎo cān",
+        "startTime": 230.484,
+        "endTime": 231.088,
+        "gloss": "breakfast"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 231.088,
+        "endTime": 231.731,
+        "gloss": "means"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 231.731,
+        "endTime": 231.912,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 231.912,
+        "endTime": 232.254,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 232.254,
+        "endTime": 232.435,
+        "gloss": "eat"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 232.435,
+        "endTime": 233.36,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "An English breakfast means you can eat bread,"
+  },
+  {
+    "startTime": 233.433,
+    "endTime": 237.566,
+    "fullTextZH": "然后有蘑菇、有西红柿、有",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 233.533,
+        "endTime": 233.874,
+        "gloss": "then"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 233.874,
+        "endTime": 234.035,
+        "gloss": "there are"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 234.035,
+        "endTime": 234.938,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 235.018,
+        "endTime": 235.339,
+        "gloss": "there are"
+      },
+      {
+        "word": "西红柿",
+        "pinyin": "xī hóng shì",
+        "startTime": 235.339,
+        "endTime": 235.941,
+        "gloss": "tomatoes"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 236.844,
+        "endTime": 236.864,
+        "gloss": "there are"
+      }
+    ],
+    "fullTextEN": "and then there are mushrooms, tomatoes,"
+  },
+  {
+    "startTime": 238.933,
+    "endTime": 241.6,
+    "fullTextZH": "豆子，然后有鸡蛋。",
+    "words": [
+      {
+        "word": "豆子",
+        "pinyin": "dòu zi",
+        "startTime": 238.993,
+        "endTime": 240.176,
+        "gloss": "beans"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 240.317,
+        "endTime": 240.678,
+        "gloss": "then"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 240.678,
+        "endTime": 240.898,
+        "gloss": "there are"
+      },
+      {
+        "word": "鸡蛋",
+        "pinyin": "jī dàn",
+        "startTime": 240.898,
+        "endTime": 241.56,
+        "gloss": "eggs"
+      }
+    ],
+    "fullTextEN": "beans, and then there are eggs."
+  },
+  {
+    "startTime": 241.6,
+    "endTime": 242.4,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 241.682,
+        "endTime": 242.379,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes,"
+  },
+  {
+    "startTime": 243.233,
+    "endTime": 245.633,
+    "fullTextZH": "这些东西都吃不完",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 243.374,
+        "endTime": 243.717,
+        "gloss": "these"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 243.717,
+        "endTime": 244.262,
+        "gloss": "things"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 244.262,
+        "endTime": 244.826,
+        "gloss": "all"
+      },
+      {
+        "word": "吃不完",
+        "pinyin": "chī bù wán",
+        "startTime": 244.826,
+        "endTime": 245.209,
+        "gloss": "can't finish"
+      }
+    ],
+    "fullTextEN": "you can't finish all these things,"
+  },
+  {
+    "startTime": 245.633,
+    "endTime": 247.9,
+    "fullTextZH": "所以你可以自己去拿，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 245.753,
+        "endTime": 246.034,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 246.034,
+        "endTime": 246.235,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 246.235,
+        "endTime": 246.656,
+        "gloss": "can"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 246.656,
+        "endTime": 247.077,
+        "gloss": "yourself"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 247.077,
+        "endTime": 247.298,
+        "gloss": "go"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 247.298,
+        "endTime": 247.86,
+        "gloss": "take"
+      }
+    ],
+    "fullTextEN": "so you can help yourself,"
+  },
+  {
+    "startTime": 247.933,
+    "endTime": 249.633,
+    "fullTextZH": "然后自己去吃。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 248.034,
+        "endTime": 248.479,
+        "gloss": "then"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 248.479,
+        "endTime": 248.864,
+        "gloss": "yourself"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 248.864,
+        "endTime": 249.168,
+        "gloss": "go"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 249.168,
+        "endTime": 249.593,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "and then eat by yourself."
+  },
+  {
+    "startTime": 251.033,
+    "endTime": 252.966,
+    "fullTextZH": "所以对我来说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 251.073,
+        "endTime": 251.677,
+        "gloss": "so"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 251.677,
+        "endTime": 251.879,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 251.879,
+        "endTime": 252.08,
+        "gloss": "me"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 252.08,
+        "endTime": 252.442,
+        "gloss": "regarding"
+      }
+    ],
+    "fullTextEN": "So for me,"
+  },
+  {
+    "startTime": 253.033,
+    "endTime": 259.8,
+    "fullTextZH": "那个时候我每天很早起床去酒店工作，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 253.133,
+        "endTime": 253.574,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 253.574,
+        "endTime": 254.414,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 254.414,
+        "endTime": 254.675,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 254.675,
+        "endTime": 255.596,
+        "gloss": "every day"
+      },
+      {
+        "word": "很早",
+        "pinyin": "hěn zǎo",
+        "startTime": 255.596,
+        "endTime": 256.937,
+        "gloss": "very early"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 256.937,
+        "endTime": 257.958,
+        "gloss": "get up"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 257.958,
+        "endTime": 258.338,
+        "gloss": "go"
+      },
+      {
+        "word": "酒店",
+        "pinyin": "jiǔ diàn",
+        "startTime": 258.338,
+        "endTime": 258.939,
+        "gloss": "hotel"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 258.939,
+        "endTime": 259.76,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "at that time I got up early every day to work at the hotel,"
+  },
+  {
+    "startTime": 260.166,
+    "endTime": 263.833,
+    "fullTextZH": "是一段很快乐的时光。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 260.346,
+        "endTime": 260.747,
+        "gloss": "is"
+      },
+      {
+        "word": "一段",
+        "pinyin": "yī duàn",
+        "startTime": 260.747,
+        "endTime": 261.629,
+        "gloss": "a period"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 261.629,
+        "endTime": 262.15,
+        "gloss": "very"
+      },
+      {
+        "word": "快乐",
+        "pinyin": "kuài lè",
+        "startTime": 262.15,
+        "endTime": 262.671,
+        "gloss": "happy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 262.671,
+        "endTime": 262.911,
+        "gloss": "of"
+      },
+      {
+        "word": "时光",
+        "pinyin": "shí guāng",
+        "startTime": 262.911,
+        "endTime": 263.793,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "it was a very happy time."
+  },
+  {
+    "startTime": 264.466,
+    "endTime": 268.533,
+    "fullTextZH": "你呢你做过很快乐的工作吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.546,
+        "endTime": 264.706,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 264.706,
+        "endTime": 265.428,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 265.428,
+        "endTime": 265.688,
+        "gloss": "you"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 265.688,
+        "endTime": 266.009,
+        "gloss": "do"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 266.009,
+        "endTime": 266.329,
+        "gloss": "ever"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 266.329,
+        "endTime": 266.81,
+        "gloss": "very"
+      },
+      {
+        "word": "快乐",
+        "pinyin": "kuài lè",
+        "startTime": 266.81,
+        "endTime": 267.311,
+        "gloss": "happy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 267.311,
+        "endTime": 267.471,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 267.471,
+        "endTime": 267.992,
+        "gloss": "job"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 267.992,
+        "endTime": 268.493,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What about you, have you ever done a very happy job?"
+  },
+  {
+    "startTime": 268.833,
+    "endTime": 272.366,
+    "fullTextZH": "可能很简单可是很快乐的工作。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 268.913,
+        "endTime": 269.415,
+        "gloss": "maybe"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 269.415,
+        "endTime": 269.696,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 269.696,
+        "endTime": 270.439,
+        "gloss": "simple"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 270.439,
+        "endTime": 270.78,
+        "gloss": "but"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 270.78,
+        "endTime": 271.041,
+        "gloss": "very"
+      },
+      {
+        "word": "快乐",
+        "pinyin": "kuài lè",
+        "startTime": 271.041,
+        "endTime": 271.483,
+        "gloss": "happy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 271.483,
+        "endTime": 271.643,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 271.643,
+        "endTime": 272.326,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "Maybe a very simple but happy job."
+  },
+  {
+    "startTime": 272.866,
+    "endTime": 275.866,
+    "fullTextZH": "你可以留言告诉我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 272.967,
+        "endTime": 273.148,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 273.148,
+        "endTime": 273.933,
+        "gloss": "can"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 273.933,
+        "endTime": 274.759,
+        "gloss": "leave message"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 274.759,
+        "endTime": 275.202,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 275.202,
+        "endTime": 275.826,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You can leave a message to tell me,"
+  },
+  {
+    "startTime": 276.466,
+    "endTime": 280.333,
+    "fullTextZH": "好，那我们下次见拜拜！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 276.466,
+        "endTime": 276.907,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 276.927,
+        "endTime": 277.167,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 277.167,
+        "endTime": 277.989,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 277.989,
+        "endTime": 278.73,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 278.73,
+        "endTime": 279.491,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 279.491,
+        "endTime": 280.293,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time, bye!"
+  }
+]

@@ -1,0 +1,6542 @@
+[
+  {
+    "startTime": 0.2,
+    "endTime": 5.0,
+    "fullTextZH": "你好！今天我要说说",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.421,
+        "endTime": 1.586,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 1.887,
+        "endTime": 3.192,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.192,
+        "endTime": 3.514,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 3.514,
+        "endTime": 4.438,
+        "gloss": "want to"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 4.438,
+        "endTime": 4.458,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "Hello! Today I want to talk about"
+  },
+  {
+    "startTime": 5.0,
+    "endTime": 8.966,
+    "fullTextZH": "我学外语的时候，",
+    "words": [
+      {
+        "word": "我学",
+        "pinyin": "wǒ xué",
+        "startTime": 5.18,
+        "endTime": 7.624,
+        "gloss": "I learn"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 7.624,
+        "endTime": 8.185,
+        "gloss": "foreign languages"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 8.185,
+        "endTime": 8.465,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 8.465,
+        "endTime": 8.926,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When I was learning foreign languages,"
+  },
+  {
+    "startTime": 9.5,
+    "endTime": 13.5,
+    "fullTextZH": "我犯的四个错。",
+    "words": [
+      {
+        "word": "我犯",
+        "pinyin": "wǒ fàn",
+        "startTime": 9.681,
+        "endTime": 11.028,
+        "gloss": "I made"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 11.028,
+        "endTime": 11.952,
+        "gloss": "of"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 11.952,
+        "endTime": 13.058,
+        "gloss": "four"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 13.058,
+        "endTime": 13.46,
+        "gloss": "mistakes"
+      }
+    ],
+    "fullTextEN": "the four mistakes I made."
+  },
+  {
+    "startTime": 15.266,
+    "endTime": 16.733,
+    "fullTextZH": "第一个错，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 15.487,
+        "endTime": 16.291,
+        "gloss": "first"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 16.291,
+        "endTime": 16.693,
+        "gloss": "mistake"
+      }
+    ],
+    "fullTextEN": "The first mistake,"
+  },
+  {
+    "startTime": 17.2,
+    "endTime": 22.9,
+    "fullTextZH": "我说的比听的多。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 17.361,
+        "endTime": 18.545,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 18.545,
+        "endTime": 19.026,
+        "gloss": "spoke"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 19.026,
+        "endTime": 19.769,
+        "gloss": "more"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 19.769,
+        "endTime": 21.033,
+        "gloss": "than"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 21.033,
+        "endTime": 21.515,
+        "gloss": "listened"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 21.515,
+        "endTime": 22.097,
+        "gloss": "more"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 22.097,
+        "endTime": 22.86,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I spoke more than I listened."
+  },
+  {
+    "startTime": 24.033,
+    "endTime": 27.766,
+    "fullTextZH": "可能很多、很多人觉得，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 24.173,
+        "endTime": 25.137,
+        "gloss": "might"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 25.137,
+        "endTime": 25.538,
+        "gloss": "many"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 25.779,
+        "endTime": 26.401,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 26.401,
+        "endTime": 26.943,
+        "gloss": "people"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 26.943,
+        "endTime": 27.726,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Many, many people might think,"
+  },
+  {
+    "startTime": 28.066,
+    "endTime": 31.333,
+    "fullTextZH": "你要学外语，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 28.246,
+        "endTime": 28.467,
+        "gloss": "you"
+      },
+      {
+        "word": "要学",
+        "pinyin": "yào xué",
+        "startTime": 28.467,
+        "endTime": 30.351,
+        "gloss": "want to learn"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 30.351,
+        "endTime": 31.293,
+        "gloss": "foreign language"
+      }
+    ],
+    "fullTextEN": "if you want to learn a foreign language,"
+  },
+  {
+    "startTime": 31.333,
+    "endTime": 35.733,
+    "fullTextZH": "当然你要说很多很多。",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 31.715,
+        "endTime": 32.78,
+        "gloss": "of course"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 32.78,
+        "endTime": 32.98,
+        "gloss": "you"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 32.98,
+        "endTime": 34.206,
+        "gloss": "need to speak"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 34.206,
+        "endTime": 35.693,
+        "gloss": "a lot"
+      }
+    ],
+    "fullTextEN": "of course you need to speak a lot."
+  },
+  {
+    "startTime": 36.566,
+    "endTime": 42.266,
+    "fullTextZH": "可是，如果你说很多很多，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 36.847,
+        "endTime": 38.031,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 38.152,
+        "endTime": 39.235,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 39.235,
+        "endTime": 40.118,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 40.118,
+        "endTime": 40.721,
+        "gloss": "speak"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 40.721,
+        "endTime": 42.226,
+        "gloss": "a lot"
+      }
+    ],
+    "fullTextEN": "But, if you speak a lot,"
+  },
+  {
+    "startTime": 42.366,
+    "endTime": 45.666,
+    "fullTextZH": "你听很少很少，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 42.607,
+        "endTime": 43.03,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 43.03,
+        "endTime": 44.016,
+        "gloss": "listen"
+      },
+      {
+        "word": "很少",
+        "pinyin": "hěn shǎo",
+        "startTime": 44.016,
+        "endTime": 44.781,
+        "gloss": "very little"
+      },
+      {
+        "word": "很少",
+        "pinyin": "hěn shǎo",
+        "startTime": 44.781,
+        "endTime": 45.626,
+        "gloss": "very little"
+      }
+    ],
+    "fullTextEN": "and listen very little,"
+  },
+  {
+    "startTime": 46.033,
+    "endTime": 52.9,
+    "fullTextZH": "那很有可能你说的是错的。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 46.273,
+        "endTime": 47.254,
+        "gloss": "then"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 47.254,
+        "endTime": 47.595,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 47.595,
+        "endTime": 48.015,
+        "gloss": "have"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 48.015,
+        "endTime": 49.176,
+        "gloss": "likely"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 49.176,
+        "endTime": 49.697,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 49.697,
+        "endTime": 50.097,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 50.097,
+        "endTime": 50.838,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 50.838,
+        "endTime": 51.639,
+        "gloss": "is"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 51.639,
+        "endTime": 52.42,
+        "gloss": "wrong"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.42,
+        "endTime": 52.86,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "then it's very likely what you say is wrong."
+  },
+  {
+    "startTime": 53.533,
+    "endTime": 59.066,
+    "fullTextZH": "也很有可能，你说的很奇怪。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 53.754,
+        "endTime": 54.094,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.094,
+        "endTime": 54.375,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 54.375,
+        "endTime": 54.736,
+        "gloss": "have"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 54.736,
+        "endTime": 55.097,
+        "gloss": "likely"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 55.838,
+        "endTime": 56.3,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 56.3,
+        "endTime": 56.66,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 56.66,
+        "endTime": 57.462,
+        "gloss": "of"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 57.462,
+        "endTime": 58.164,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 58.164,
+        "endTime": 59.026,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "It's also very likely that what you say is strange."
+  },
+  {
+    "startTime": 60.5,
+    "endTime": 66.266,
+    "fullTextZH": "比如说，很多人学中文的时候，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 60.68,
+        "endTime": 61.982,
+        "gloss": "for example"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 62.402,
+        "endTime": 62.963,
+        "gloss": "many"
+      },
+      {
+        "word": "人学",
+        "pinyin": "rén xué",
+        "startTime": 62.963,
+        "endTime": 64.644,
+        "gloss": "people learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 64.644,
+        "endTime": 65.265,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 65.265,
+        "endTime": 65.505,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 65.505,
+        "endTime": 66.226,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "For example, when many people learn Chinese,"
+  },
+  {
+    "startTime": 66.466,
+    "endTime": 70.733,
+    "fullTextZH": "他们很想说“have a good day”，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 66.606,
+        "endTime": 67.488,
+        "gloss": "they"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 67.488,
+        "endTime": 68.109,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 68.109,
+        "endTime": 68.65,
+        "gloss": "want"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 68.65,
+        "endTime": 69.451,
+        "gloss": "to say"
+      }
+    ],
+    "fullTextEN": "they really want to say 'have a good day',"
+  },
+  {
+    "startTime": 71.6,
+    "endTime": 75.333,
+    "fullTextZH": "可是中文没有这个。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 71.74,
+        "endTime": 72.744,
+        "gloss": "but"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 72.744,
+        "endTime": 73.747,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 73.747,
+        "endTime": 74.631,
+        "gloss": "not have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 74.631,
+        "endTime": 75.293,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "but there's no such thing in Chinese."
+  },
+  {
+    "startTime": 76.233,
+    "endTime": 77.133,
+    "fullTextZH": "怎么办？",
+    "words": [
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 76.417,
+        "endTime": 77.092,
+        "gloss": "what to do"
+      }
+    ],
+    "fullTextEN": "What to do?"
+  },
+  {
+    "startTime": 78.4,
+    "endTime": 84.266,
+    "fullTextZH": "很多人把英语翻译成中文，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 78.58,
+        "endTime": 79.121,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 79.121,
+        "endTime": 79.681,
+        "gloss": "people"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 79.681,
+        "endTime": 80.282,
+        "gloss": "take"
+      },
+      {
+        "word": "英语翻译",
+        "pinyin": "yīng yǔ fān yì",
+        "startTime": 80.282,
+        "endTime": 82.905,
+        "gloss": "English translate"
+      },
+      {
+        "word": "成",
+        "pinyin": "chéng",
+        "startTime": 82.905,
+        "endTime": 83.405,
+        "gloss": "into"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 83.405,
+        "endTime": 84.226,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "Many people translate English into Chinese,"
+  },
+  {
+    "startTime": 85.766,
+    "endTime": 88.1,
+    "fullTextZH": "中文没有这个，",
+    "words": [
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 85.987,
+        "endTime": 86.712,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 86.712,
+        "endTime": 87.396,
+        "gloss": "not have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 87.396,
+        "endTime": 88.06,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "but there's no such thing in Chinese,"
+  },
+  {
+    "startTime": 88.3,
+    "endTime": 92.433,
+    "fullTextZH": "所以听起来很奇怪。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 88.461,
+        "endTime": 89.403,
+        "gloss": "so"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 89.403,
+        "endTime": 89.945,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 89.945,
+        "endTime": 90.828,
+        "gloss": "like"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 90.828,
+        "endTime": 91.59,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 91.59,
+        "endTime": 92.393,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "so it sounds strange."
+  },
+  {
+    "startTime": 94.766,
+    "endTime": 99.733,
+    "fullTextZH": "可是，如果你听很多很多中文，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 94.946,
+        "endTime": 95.827,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 95.868,
+        "endTime": 96.488,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 96.488,
+        "endTime": 96.929,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 96.929,
+        "endTime": 97.83,
+        "gloss": "listen"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 97.83,
+        "endTime": 98.932,
+        "gloss": "a lot"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 98.932,
+        "endTime": 99.693,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "But, if you listen to a lot of Chinese,"
+  },
+  {
+    "startTime": 100.366,
+    "endTime": 108.4,
+    "fullTextZH": "可能你会发现，中国人常常说：“辛苦了。”",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 100.506,
+        "endTime": 101.608,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 101.608,
+        "endTime": 101.829,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 101.829,
+        "endTime": 102.189,
+        "gloss": "will"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 102.189,
+        "endTime": 103.371,
+        "gloss": "find"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 103.491,
+        "endTime": 104.193,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 104.193,
+        "endTime": 104.934,
+        "gloss": "people"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 104.934,
+        "endTime": 106.397,
+        "gloss": "often"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 106.397,
+        "endTime": 107.158,
+        "gloss": "say"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 107.398,
+        "endTime": 107.959,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 107.959,
+        "endTime": 108.36,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "You might find that Chinese people often say: 'You've worked hard.'"
+  },
+  {
+    "startTime": 109.366,
+    "endTime": 115.433,
+    "fullTextZH": "“辛苦了”这个词，英语也没有。",
+    "words": [
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 109.546,
+        "endTime": 110.688,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 110.688,
+        "endTime": 111.569,
+        "gloss": "particle"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 111.689,
+        "endTime": 112.129,
+        "gloss": "this"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 112.129,
+        "endTime": 112.81,
+        "gloss": "word"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 112.89,
+        "endTime": 114.031,
+        "gloss": "English"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 114.031,
+        "endTime": 114.512,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 114.512,
+        "endTime": 115.393,
+        "gloss": "not have"
+      }
+    ],
+    "fullTextEN": "The word 'worked hard' doesn't exist in English."
+  },
+  {
+    "startTime": 116.333,
+    "endTime": 118.466,
+    "fullTextZH": "可是在中国、",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 116.554,
+        "endTime": 117.379,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 117.379,
+        "endTime": 117.681,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 117.681,
+        "endTime": 118.446,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "But in China,"
+  },
+  {
+    "startTime": 118.5,
+    "endTime": 121.333,
+    "fullTextZH": "在日本、在韩国，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 118.681,
+        "endTime": 118.962,
+        "gloss": "in"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 118.962,
+        "endTime": 119.726,
+        "gloss": "Japan"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 120.047,
+        "endTime": 120.429,
+        "gloss": "in"
+      },
+      {
+        "word": "韩国",
+        "pinyin": "hán guó",
+        "startTime": 120.429,
+        "endTime": 121.293,
+        "gloss": "Korea"
+      }
+    ],
+    "fullTextEN": "in Japan, in Korea,"
+  },
+  {
+    "startTime": 121.533,
+    "endTime": 125.466,
+    "fullTextZH": "我们都有差不多的说法。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 121.734,
+        "endTime": 122.195,
+        "gloss": "we"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 122.195,
+        "endTime": 122.657,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 122.657,
+        "endTime": 123.138,
+        "gloss": "have"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 123.138,
+        "endTime": 124.142,
+        "gloss": "similar"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 124.142,
+        "endTime": 124.663,
+        "gloss": "particle"
+      },
+      {
+        "word": "说法",
+        "pinyin": "shuō fǎ",
+        "startTime": 124.663,
+        "endTime": 125.426,
+        "gloss": "expressions"
+      }
+    ],
+    "fullTextEN": "we all have similar expressions."
+  },
+  {
+    "startTime": 126.433,
+    "endTime": 129.666,
+    "fullTextZH": "比如说，下课的时候，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 126.594,
+        "endTime": 128.12,
+        "gloss": "for example"
+      },
+      {
+        "word": "下课",
+        "pinyin": "xià kè",
+        "startTime": 128.18,
+        "endTime": 128.983,
+        "gloss": "class ends"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 128.983,
+        "endTime": 129.184,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 129.184,
+        "endTime": 129.646,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "For example, when class ends,"
+  },
+  {
+    "startTime": 129.966,
+    "endTime": 133.966,
+    "fullTextZH": "你可以对老师说“辛苦了”。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 130.147,
+        "endTime": 130.388,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 130.388,
+        "endTime": 130.991,
+        "gloss": "can"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 130.991,
+        "endTime": 131.815,
+        "gloss": "to"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 131.815,
+        "endTime": 132.458,
+        "gloss": "teacher"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 132.458,
+        "endTime": 132.86,
+        "gloss": "say"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 132.981,
+        "endTime": 133.544,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 133.544,
+        "endTime": 133.926,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "you can say 'you've worked hard' to the teacher."
+  },
+  {
+    "startTime": 135.0,
+    "endTime": 136.733,
+    "fullTextZH": "下班的时候，",
+    "words": [
+      {
+        "word": "下班",
+        "pinyin": "xià bān",
+        "startTime": 135.161,
+        "endTime": 136.028,
+        "gloss": "work ends"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 136.028,
+        "endTime": 136.249,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 136.249,
+        "endTime": 136.713,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When work ends,"
+  },
+  {
+    "startTime": 136.966,
+    "endTime": 139.266,
+    "fullTextZH": "你可以对老板、",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 137.127,
+        "endTime": 137.37,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 137.37,
+        "endTime": 137.934,
+        "gloss": "can"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 137.934,
+        "endTime": 138.459,
+        "gloss": "to"
+      },
+      {
+        "word": "老板",
+        "pinyin": "lǎo bǎn",
+        "startTime": 138.459,
+        "endTime": 139.226,
+        "gloss": "boss"
+      }
+    ],
+    "fullTextEN": "you can say to the boss,"
+  },
+  {
+    "startTime": 139.466,
+    "endTime": 142.9,
+    "fullTextZH": "对同事说“辛苦了”。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 139.667,
+        "endTime": 140.109,
+        "gloss": "to"
+      },
+      {
+        "word": "同事",
+        "pinyin": "tóng shì",
+        "startTime": 140.109,
+        "endTime": 141.153,
+        "gloss": "colleagues"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 141.153,
+        "endTime": 141.595,
+        "gloss": "say"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 141.896,
+        "endTime": 142.478,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 142.478,
+        "endTime": 142.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "say 'you've worked hard' to colleagues."
+  },
+  {
+    "startTime": 143.666,
+    "endTime": 148.566,
+    "fullTextZH": "你可以对快递员说“辛苦了”。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 143.827,
+        "endTime": 144.108,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 144.108,
+        "endTime": 144.57,
+        "gloss": "can"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 144.57,
+        "endTime": 145.212,
+        "gloss": "to"
+      },
+      {
+        "word": "快递",
+        "pinyin": "kuài dì",
+        "startTime": 145.212,
+        "endTime": 146.116,
+        "gloss": "delivery"
+      },
+      {
+        "word": "员",
+        "pinyin": "yuán",
+        "startTime": 146.116,
+        "endTime": 146.859,
+        "gloss": "person"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 146.859,
+        "endTime": 146.879,
+        "gloss": "say"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 147.582,
+        "endTime": 148.124,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 148.124,
+        "endTime": 148.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "You can say 'you've worked hard' to the delivery person."
+  },
+  {
+    "startTime": 149.333,
+    "endTime": 154.5,
+    "fullTextZH": "你可以对医生说“辛苦了”。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 149.553,
+        "endTime": 149.874,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 149.874,
+        "endTime": 150.715,
+        "gloss": "can"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 150.715,
+        "endTime": 151.456,
+        "gloss": "to"
+      },
+      {
+        "word": "医生",
+        "pinyin": "yī shēng",
+        "startTime": 151.456,
+        "endTime": 152.758,
+        "gloss": "doctor"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 152.758,
+        "endTime": 153.018,
+        "gloss": "say"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 153.499,
+        "endTime": 154.019,
+        "gloss": "worked hard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 154.019,
+        "endTime": 154.46,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "You can say 'you've worked hard' to the doctor."
+  },
+  {
+    "startTime": 155.6,
+    "endTime": 160.3,
+    "fullTextZH": "虽然我不可以翻译这个词，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 155.781,
+        "endTime": 156.705,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 156.705,
+        "endTime": 157.528,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 157.528,
+        "endTime": 157.829,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 157.829,
+        "endTime": 158.553,
+        "gloss": "can"
+      },
+      {
+        "word": "翻译",
+        "pinyin": "fān yì",
+        "startTime": 158.553,
+        "endTime": 159.376,
+        "gloss": "translate"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 159.376,
+        "endTime": 159.918,
+        "gloss": "this"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 159.918,
+        "endTime": 160.26,
+        "gloss": "word"
+      }
+    ],
+    "fullTextEN": "Although I can't translate this word,"
+  },
+  {
+    "startTime": 160.633,
+    "endTime": 164.366,
+    "fullTextZH": "可是如果你听很多很多，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 160.773,
+        "endTime": 161.657,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 161.657,
+        "endTime": 162.219,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 162.219,
+        "endTime": 162.52,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 162.52,
+        "endTime": 162.941,
+        "gloss": "listen"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 162.941,
+        "endTime": 164.326,
+        "gloss": "a lot"
+      }
+    ],
+    "fullTextEN": "but if you listen a lot,"
+  },
+  {
+    "startTime": 164.5,
+    "endTime": 168.833,
+    "fullTextZH": "你就知道什么时候用这个词。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 164.66,
+        "endTime": 164.841,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 164.841,
+        "endTime": 165.142,
+        "gloss": "then"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 165.142,
+        "endTime": 166.065,
+        "gloss": "know"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 166.065,
+        "endTime": 166.546,
+        "gloss": "what"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 166.546,
+        "endTime": 167.349,
+        "gloss": "time"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 167.349,
+        "endTime": 167.99,
+        "gloss": "use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 167.99,
+        "endTime": 168.452,
+        "gloss": "this"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 168.452,
+        "endTime": 168.773,
+        "gloss": "word"
+      }
+    ],
+    "fullTextEN": "you will know when to use this word."
+  },
+  {
+    "startTime": 170.033,
+    "endTime": 172.066,
+    "fullTextZH": "你听得多，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 170.174,
+        "endTime": 171.039,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 171.039,
+        "endTime": 171.422,
+        "gloss": "listen"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 171.422,
+        "endTime": 171.684,
+        "gloss": "particle"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 171.684,
+        "endTime": 172.046,
+        "gloss": "more"
+      }
+    ],
+    "fullTextEN": "The more you listen,"
+  },
+  {
+    "startTime": 172.266,
+    "endTime": 173.833,
+    "fullTextZH": "你就会说，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 172.427,
+        "endTime": 172.688,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 172.688,
+        "endTime": 172.949,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 172.949,
+        "endTime": 173.391,
+        "gloss": "will"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 173.391,
+        "endTime": 173.793,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "the more you will speak,"
+  },
+  {
+    "startTime": 174.566,
+    "endTime": 177.666,
+    "fullTextZH": "说更自然的外语。",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 174.747,
+        "endTime": 175.411,
+        "gloss": "speak"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 175.411,
+        "endTime": 176.096,
+        "gloss": "more"
+      },
+      {
+        "word": "自然",
+        "pinyin": "zì rán",
+        "startTime": 176.096,
+        "endTime": 176.76,
+        "gloss": "natural"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 176.76,
+        "endTime": 176.921,
+        "gloss": "particle"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 176.921,
+        "endTime": 177.626,
+        "gloss": "foreign language"
+      }
+    ],
+    "fullTextEN": "speak more naturally in a foreign language."
+  },
+  {
+    "startTime": 178.2,
+    "endTime": 180.333,
+    "fullTextZH": "这是第一个点。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 178.361,
+        "endTime": 178.924,
+        "gloss": "this is"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 178.924,
+        "endTime": 179.91,
+        "gloss": "first"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 179.91,
+        "endTime": 180.293,
+        "gloss": "point"
+      }
+    ],
+    "fullTextEN": "This is the first point."
+  },
+  {
+    "startTime": 181.066,
+    "endTime": 184.566,
+    "fullTextZH": "第二个我犯的错，",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 181.307,
+        "endTime": 182.595,
+        "gloss": "second"
+      },
+      {
+        "word": "我犯",
+        "pinyin": "wǒ fàn",
+        "startTime": 182.595,
+        "endTime": 183.761,
+        "gloss": "I made"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 183.761,
+        "endTime": 184.083,
+        "gloss": "particle"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 184.083,
+        "endTime": 184.526,
+        "gloss": "mistake"
+      }
+    ],
+    "fullTextEN": "The second mistake I made,"
+  },
+  {
+    "startTime": 185.2,
+    "endTime": 188.666,
+    "fullTextZH": "我说得太快。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.4,
+        "endTime": 186.402,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 186.402,
+        "endTime": 186.983,
+        "gloss": "speak"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 186.983,
+        "endTime": 187.344,
+        "gloss": "too"
+      },
+      {
+        "word": "太快",
+        "pinyin": "tài kuài",
+        "startTime": 187.344,
+        "endTime": 188.626,
+        "gloss": "fast"
+      }
+    ],
+    "fullTextEN": "I speak too fast."
+  },
+  {
+    "startTime": 189.833,
+    "endTime": 194.366,
+    "fullTextZH": "有时候我觉得我的外语很好，",
+    "words": [
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 189.973,
+        "endTime": 191.117,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 191.117,
+        "endTime": 191.518,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 191.518,
+        "endTime": 192.481,
+        "gloss": "feel"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 192.481,
+        "endTime": 192.661,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 192.661,
+        "endTime": 192.882,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 192.882,
+        "endTime": 193.624,
+        "gloss": "foreign language"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 193.624,
+        "endTime": 193.945,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 193.945,
+        "endTime": 194.326,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Sometimes I feel my foreign language is very good,"
+  },
+  {
+    "startTime": 194.733,
+    "endTime": 197.233,
+    "fullTextZH": "所以我要快快地说，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 194.854,
+        "endTime": 195.539,
+        "gloss": "so"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 195.539,
+        "endTime": 196.144,
+        "gloss": "I want"
+      },
+      {
+        "word": "快快",
+        "pinyin": "kuài kuài",
+        "startTime": 196.144,
+        "endTime": 196.648,
+        "gloss": "quickly"
+      },
+      {
+        "word": "地说",
+        "pinyin": "dì shuō",
+        "startTime": 196.648,
+        "endTime": 197.193,
+        "gloss": "to speak"
+      }
+    ],
+    "fullTextEN": "so I want to speak quickly,"
+  },
+  {
+    "startTime": 197.6,
+    "endTime": 202.5,
+    "fullTextZH": "我要让别人知道我的外语很好。",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 197.761,
+        "endTime": 198.202,
+        "gloss": "I want"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 198.202,
+        "endTime": 198.664,
+        "gloss": "let"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 198.664,
+        "endTime": 199.588,
+        "gloss": "others"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 199.588,
+        "endTime": 200.432,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 200.432,
+        "endTime": 200.652,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.652,
+        "endTime": 200.813,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 200.813,
+        "endTime": 201.636,
+        "gloss": "foreign language"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 201.636,
+        "endTime": 202.098,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 202.098,
+        "endTime": 202.46,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "I want others to know my foreign language is very good."
+  },
+  {
+    "startTime": 203.166,
+    "endTime": 206.4,
+    "fullTextZH": "可是，这是我的外语，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 203.327,
+        "endTime": 203.889,
+        "gloss": "but"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 204.472,
+        "endTime": 204.693,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 204.693,
+        "endTime": 204.954,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 204.954,
+        "endTime": 205.195,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 205.195,
+        "endTime": 205.677,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 205.677,
+        "endTime": 206.36,
+        "gloss": "foreign language"
+      }
+    ],
+    "fullTextEN": "But, this is my foreign language,"
+  },
+  {
+    "startTime": 206.9,
+    "endTime": 211.6,
+    "fullTextZH": "当然我的外语不是完美的。",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 207.061,
+        "endTime": 207.965,
+        "gloss": "of course"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 207.965,
+        "endTime": 208.165,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 208.165,
+        "endTime": 208.326,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 208.326,
+        "endTime": 209.089,
+        "gloss": "foreign language"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 209.089,
+        "endTime": 210.294,
+        "gloss": "is not"
+      },
+      {
+        "word": "完美",
+        "pinyin": "wán měi",
+        "startTime": 210.294,
+        "endTime": 211.198,
+        "gloss": "perfect"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 211.198,
+        "endTime": 211.56,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Of course my foreign language is not perfect."
+  },
+  {
+    "startTime": 212.433,
+    "endTime": 215.1,
+    "fullTextZH": "如果我说得很快，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 212.613,
+        "endTime": 213.215,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 213.215,
+        "endTime": 213.636,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 213.636,
+        "endTime": 213.957,
+        "gloss": "speak"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 213.957,
+        "endTime": 214.218,
+        "gloss": "very"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 214.218,
+        "endTime": 215.06,
+        "gloss": "fast"
+      }
+    ],
+    "fullTextEN": "If I speak very fast,"
+  },
+  {
+    "startTime": 215.466,
+    "endTime": 218.466,
+    "fullTextZH": "可能我说得不对。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 215.627,
+        "endTime": 216.714,
+        "gloss": "might"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 216.714,
+        "endTime": 216.996,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 216.996,
+        "endTime": 217.298,
+        "gloss": "speak"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 217.298,
+        "endTime": 217.721,
+        "gloss": "incorrectly"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 217.721,
+        "endTime": 218.023,
+        "gloss": ""
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 218.023,
+        "endTime": 218.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I might speak incorrectly."
+  },
+  {
+    "startTime": 219.7,
+    "endTime": 224.766,
+    "fullTextZH": "为什么？因为我没有时间想。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 219.9,
+        "endTime": 220.301,
+        "gloss": "why"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 220.982,
+        "endTime": 221.462,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 221.462,
+        "endTime": 222.103,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 222.103,
+        "endTime": 223.164,
+        "gloss": "don't have"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 223.164,
+        "endTime": 224.305,
+        "gloss": "time"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 224.305,
+        "endTime": 224.726,
+        "gloss": "to think"
+      }
+    ],
+    "fullTextEN": "Why? Because I don't have time to think."
+  },
+  {
+    "startTime": 226.033,
+    "endTime": 230.633,
+    "fullTextZH": "我发现，如果你说得太快，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 226.214,
+        "endTime": 226.495,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 226.495,
+        "endTime": 226.877,
+        "gloss": "found"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 227.64,
+        "endTime": 228.182,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 228.182,
+        "endTime": 228.664,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 228.664,
+        "endTime": 228.986,
+        "gloss": "speak"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 228.986,
+        "endTime": 229.267,
+        "gloss": "too"
+      },
+      {
+        "word": "太快",
+        "pinyin": "tài kuài",
+        "startTime": 229.267,
+        "endTime": 230.593,
+        "gloss": "fast"
+      }
+    ],
+    "fullTextEN": "I found that if you speak too fast,"
+  },
+  {
+    "startTime": 231.033,
+    "endTime": 233.433,
+    "fullTextZH": "可能有很多错，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 231.194,
+        "endTime": 231.88,
+        "gloss": "might"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 231.88,
+        "endTime": 232.142,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 232.142,
+        "endTime": 233.07,
+        "gloss": "many"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 233.07,
+        "endTime": 233.393,
+        "gloss": "mistakes"
+      }
+    ],
+    "fullTextEN": "there might be many mistakes,"
+  },
+  {
+    "startTime": 234.4,
+    "endTime": 238.033,
+    "fullTextZH": "听起来很不舒服。",
+    "words": [
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 234.541,
+        "endTime": 235.002,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 235.002,
+        "endTime": 235.785,
+        "gloss": "like"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 235.785,
+        "endTime": 236.528,
+        "gloss": "very"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 236.528,
+        "endTime": 237.21,
+        "gloss": "not"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 237.21,
+        "endTime": 237.993,
+        "gloss": "comfortable"
+      }
+    ],
+    "fullTextEN": "it sounds very uncomfortable."
+  },
+  {
+    "startTime": 239.1,
+    "endTime": 242.4,
+    "fullTextZH": "如果你慢慢地说，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 239.321,
+        "endTime": 240.026,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 240.026,
+        "endTime": 240.73,
+        "gloss": "you"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 240.73,
+        "endTime": 241.655,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地说",
+        "pinyin": "dì shuō",
+        "startTime": 241.655,
+        "endTime": 242.36,
+        "gloss": "to speak"
+      }
+    ],
+    "fullTextEN": "If you speak slowly,"
+  },
+  {
+    "startTime": 242.766,
+    "endTime": 245.3,
+    "fullTextZH": "你的错更少，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 242.967,
+        "endTime": 243.188,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 243.188,
+        "endTime": 243.55,
+        "gloss": "of"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 243.55,
+        "endTime": 244.274,
+        "gloss": "mistakes"
+      },
+      {
+        "word": "更少",
+        "pinyin": "gèng shǎo",
+        "startTime": 244.274,
+        "endTime": 245.26,
+        "gloss": "fewer"
+      }
+    ],
+    "fullTextEN": "you make fewer mistakes,"
+  },
+  {
+    "startTime": 245.866,
+    "endTime": 249.133,
+    "fullTextZH": "听起来更舒服。",
+    "words": [
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 246.046,
+        "endTime": 246.547,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 246.547,
+        "endTime": 247.489,
+        "gloss": "like"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 247.489,
+        "endTime": 248.271,
+        "gloss": "more"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 248.271,
+        "endTime": 249.093,
+        "gloss": "comfortable"
+      }
+    ],
+    "fullTextEN": "it sounds more comfortable."
+  },
+  {
+    "startTime": 250.066,
+    "endTime": 254.2,
+    "fullTextZH": "所以我们在说外语的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 250.227,
+        "endTime": 251.21,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 251.21,
+        "endTime": 251.671,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 251.671,
+        "endTime": 252.153,
+        "gloss": "when"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 252.153,
+        "endTime": 252.976,
+        "gloss": "speak"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 252.976,
+        "endTime": 253.518,
+        "gloss": "foreign language"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 253.518,
+        "endTime": 253.759,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 253.759,
+        "endTime": 254.18,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So when we speak a foreign language,"
+  },
+  {
+    "startTime": 254.466,
+    "endTime": 261.1,
+    "fullTextZH": "我觉得我们可以慢慢地说，说对的外语。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 254.606,
+        "endTime": 254.987,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 254.987,
+        "endTime": 255.869,
+        "gloss": "think"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 255.869,
+        "endTime": 256.37,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 256.37,
+        "endTime": 256.991,
+        "gloss": "can"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 256.991,
+        "endTime": 257.813,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地说",
+        "pinyin": "dì shuō",
+        "startTime": 257.813,
+        "endTime": 258.094,
+        "gloss": "to speak"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 259.036,
+        "endTime": 259.617,
+        "gloss": "speak"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 259.617,
+        "endTime": 260.138,
+        "gloss": "correctly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 260.138,
+        "endTime": 260.338,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 260.338,
+        "endTime": 261.06,
+        "gloss": "foreign language"
+      }
+    ],
+    "fullTextEN": "I think we can speak slowly and speak correctly."
+  },
+  {
+    "startTime": 262.1,
+    "endTime": 264.566,
+    "fullTextZH": "这是第二个点。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 262.341,
+        "endTime": 263.042,
+        "gloss": "this is"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 263.042,
+        "endTime": 264.085,
+        "gloss": "second"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 264.085,
+        "endTime": 264.526,
+        "gloss": "point"
+      }
+    ],
+    "fullTextEN": "This is the second point."
+  },
+  {
+    "startTime": 265.433,
+    "endTime": 266.1,
+    "fullTextZH": "好！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 265.635,
+        "endTime": 266.06,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good!"
+  },
+  {
+    "startTime": 266.1,
+    "endTime": 274.333,
+    "fullTextZH": "第三个点是我很想明白母语者说话。",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 266.32,
+        "endTime": 267.662,
+        "gloss": "third"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 267.662,
+        "endTime": 268.083,
+        "gloss": "point"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 268.083,
+        "endTime": 268.824,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 268.824,
+        "endTime": 269.165,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 269.165,
+        "endTime": 269.826,
+        "gloss": "really"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 269.826,
+        "endTime": 270.407,
+        "gloss": "want"
+      },
+      {
+        "word": "明白",
+        "pinyin": "míng bái",
+        "startTime": 270.407,
+        "endTime": 271.829,
+        "gloss": "understand"
+      },
+      {
+        "word": "母语",
+        "pinyin": "mǔ yǔ",
+        "startTime": 271.829,
+        "endTime": 272.911,
+        "gloss": "native"
+      },
+      {
+        "word": "者",
+        "pinyin": "zhě",
+        "startTime": 272.911,
+        "endTime": 273.492,
+        "gloss": "speaker"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 273.492,
+        "endTime": 274.293,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "The third point is I really want to understand native speakers."
+  },
+  {
+    "startTime": 274.9,
+    "endTime": 281.333,
+    "fullTextZH": "比如说，我开始学西班牙语的时候，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 275.06,
+        "endTime": 276.203,
+        "gloss": "for example"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 276.263,
+        "endTime": 276.964,
+        "gloss": "I"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 276.964,
+        "endTime": 278.046,
+        "gloss": "start"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 278.046,
+        "endTime": 279.229,
+        "gloss": "learn"
+      },
+      {
+        "word": "西班牙语",
+        "pinyin": "xī bān yá yǔ",
+        "startTime": 279.229,
+        "endTime": 280.391,
+        "gloss": "Spanish"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 280.391,
+        "endTime": 280.592,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 280.592,
+        "endTime": 281.293,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "For example, when I started learning Spanish,"
+  },
+  {
+    "startTime": 281.5,
+    "endTime": 286.833,
+    "fullTextZH": "我想听西班牙人说西班牙语。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 281.7,
+        "endTime": 281.941,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 281.941,
+        "endTime": 282.402,
+        "gloss": "want"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 282.402,
+        "endTime": 283.505,
+        "gloss": "hear"
+      },
+      {
+        "word": "西班牙人",
+        "pinyin": "xī bān yá rén",
+        "startTime": 283.505,
+        "endTime": 284.888,
+        "gloss": "Spaniards"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 284.888,
+        "endTime": 285.71,
+        "gloss": "speak"
+      },
+      {
+        "word": "西班牙语",
+        "pinyin": "xī bān yá yǔ",
+        "startTime": 285.71,
+        "endTime": 286.793,
+        "gloss": "Spanish"
+      }
+    ],
+    "fullTextEN": "I wanted to hear Spaniards speak Spanish."
+  },
+  {
+    "startTime": 287.3,
+    "endTime": 292.333,
+    "fullTextZH": "可是我发现，他们说得很快很快，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 287.44,
+        "endTime": 288.443,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 288.443,
+        "endTime": 288.724,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 288.724,
+        "endTime": 289.686,
+        "gloss": "found"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 289.706,
+        "endTime": 290.187,
+        "gloss": "they"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 290.187,
+        "endTime": 290.468,
+        "gloss": "speak"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 290.468,
+        "endTime": 290.769,
+        "gloss": "so"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 290.769,
+        "endTime": 291.571,
+        "gloss": "very fast"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 291.571,
+        "endTime": 292.293,
+        "gloss": "very fast"
+      }
+    ],
+    "fullTextEN": "But I found that they spoke very, very fast,"
+  },
+  {
+    "startTime": 292.666,
+    "endTime": 295.0,
+    "fullTextZH": "我听不懂。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 292.787,
+        "endTime": 293.753,
+        "gloss": "I"
+      },
+      {
+        "word": "听不懂",
+        "pinyin": "tīng bù dǒng",
+        "startTime": 293.753,
+        "endTime": 294.96,
+        "gloss": "can't understand"
+      }
+    ],
+    "fullTextEN": "I couldn't understand."
+  },
+  {
+    "startTime": 295.833,
+    "endTime": 297.266,
+    "fullTextZH": "所以我觉得，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 295.994,
+        "endTime": 296.317,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 296.317,
+        "endTime": 296.56,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 296.56,
+        "endTime": 297.226,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "So I thought,"
+  },
+  {
+    "startTime": 297.3,
+    "endTime": 302.2,
+    "fullTextZH": "哎呀，我的西班牙语真的不好，",
+    "words": [
+      {
+        "word": "哎呀",
+        "pinyin": "āi yā",
+        "startTime": 297.481,
+        "endTime": 298.003,
+        "gloss": "oh dear"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 298.605,
+        "endTime": 298.866,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 298.866,
+        "endTime": 299.107,
+        "gloss": "of"
+      },
+      {
+        "word": "西班牙语",
+        "pinyin": "xī bān yá yǔ",
+        "startTime": 299.107,
+        "endTime": 300.252,
+        "gloss": "Spanish"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 300.252,
+        "endTime": 301.397,
+        "gloss": "really"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 301.397,
+        "endTime": 302.16,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Oh dear, my Spanish is really not good,"
+  },
+  {
+    "startTime": 302.3,
+    "endTime": 304.666,
+    "fullTextZH": "真的很差很差，",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 302.46,
+        "endTime": 303.002,
+        "gloss": "really"
+      },
+      {
+        "word": "很差",
+        "pinyin": "hěn chà",
+        "startTime": 303.002,
+        "endTime": 303.844,
+        "gloss": "very poor"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 303.844,
+        "endTime": 304.225,
+        "gloss": "very"
+      },
+      {
+        "word": "差",
+        "pinyin": "chà",
+        "startTime": 304.225,
+        "endTime": 304.626,
+        "gloss": "poor"
+      }
+    ],
+    "fullTextEN": "really very poor,"
+  },
+  {
+    "startTime": 304.833,
+    "endTime": 311.366,
+    "fullTextZH": "因为我听不懂西班牙人的西班牙语。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 304.993,
+        "endTime": 306.055,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 306.055,
+        "endTime": 306.496,
+        "gloss": "I"
+      },
+      {
+        "word": "听不懂",
+        "pinyin": "tīng bù dǒng",
+        "startTime": 306.496,
+        "endTime": 308.12,
+        "gloss": "can't understand"
+      },
+      {
+        "word": "西班牙人",
+        "pinyin": "xī bān yá rén",
+        "startTime": 308.12,
+        "endTime": 309.342,
+        "gloss": "Spaniards"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 309.342,
+        "endTime": 310.043,
+        "gloss": "of"
+      },
+      {
+        "word": "西班牙语",
+        "pinyin": "xī bān yá yǔ",
+        "startTime": 310.043,
+        "endTime": 311.326,
+        "gloss": "Spanish"
+      }
+    ],
+    "fullTextEN": "because I couldn't understand Spaniards' Spanish."
+  },
+  {
+    "startTime": 312.0,
+    "endTime": 316.766,
+    "fullTextZH": "可是，如果你刚开始学习第一年、",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 312.2,
+        "endTime": 312.701,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 313.141,
+        "endTime": 313.502,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 313.502,
+        "endTime": 313.842,
+        "gloss": "you"
+      },
+      {
+        "word": "刚",
+        "pinyin": "gāng",
+        "startTime": 313.842,
+        "endTime": 314.363,
+        "gloss": "just"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 314.363,
+        "endTime": 314.924,
+        "gloss": "start"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 314.924,
+        "endTime": 315.965,
+        "gloss": "learn"
+      },
+      {
+        "word": "第一年",
+        "pinyin": "dì yī nián",
+        "startTime": 315.965,
+        "endTime": 316.746,
+        "gloss": "first year"
+      }
+    ],
+    "fullTextEN": "But if you are just starting in the first year,"
+  },
+  {
+    "startTime": 316.766,
+    "endTime": 320.833,
+    "fullTextZH": "第二年，你听不懂没关系。",
+    "words": [
+      {
+        "word": "第二年",
+        "pinyin": "dì èr nián",
+        "startTime": 316.946,
+        "endTime": 317.487,
+        "gloss": "second year"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 318.168,
+        "endTime": 318.429,
+        "gloss": "you"
+      },
+      {
+        "word": "听不懂",
+        "pinyin": "tīng bù dǒng",
+        "startTime": 318.429,
+        "endTime": 319.751,
+        "gloss": "can't understand"
+      },
+      {
+        "word": "没关系",
+        "pinyin": "méi guān xì",
+        "startTime": 319.751,
+        "endTime": 320.793,
+        "gloss": "it's okay"
+      }
+    ],
+    "fullTextEN": "in the second year, it's okay if you don't understand."
+  },
+  {
+    "startTime": 321.566,
+    "endTime": 327.3,
+    "fullTextZH": "刚开始听不懂母语者没有关系，",
+    "words": [
+      {
+        "word": "刚",
+        "pinyin": "gāng",
+        "startTime": 321.766,
+        "endTime": 322.127,
+        "gloss": "just"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 322.127,
+        "endTime": 323.11,
+        "gloss": "start"
+      },
+      {
+        "word": "听不懂",
+        "pinyin": "tīng bù dǒng",
+        "startTime": 323.11,
+        "endTime": 324.513,
+        "gloss": "can't understand"
+      },
+      {
+        "word": "母语",
+        "pinyin": "mǔ yǔ",
+        "startTime": 324.513,
+        "endTime": 325.014,
+        "gloss": "native"
+      },
+      {
+        "word": "者",
+        "pinyin": "zhě",
+        "startTime": 325.014,
+        "endTime": 325.596,
+        "gloss": "speakers"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 325.596,
+        "endTime": 326.398,
+        "gloss": "no"
+      },
+      {
+        "word": "关系",
+        "pinyin": "guān xì",
+        "startTime": 326.398,
+        "endTime": 327.26,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "At the beginning, not understanding native speakers is okay,"
+  },
+  {
+    "startTime": 327.633,
+    "endTime": 330.733,
+    "fullTextZH": "完全没有关系。",
+    "words": [
+      {
+        "word": "完全",
+        "pinyin": "wán quán",
+        "startTime": 327.794,
+        "endTime": 329.203,
+        "gloss": "completely"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 329.203,
+        "endTime": 329.827,
+        "gloss": "no"
+      },
+      {
+        "word": "关系",
+        "pinyin": "guān xì",
+        "startTime": 329.827,
+        "endTime": 330.693,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "it's completely okay."
+  },
+  {
+    "startTime": 331.8,
+    "endTime": 337.733,
+    "fullTextZH": "因为你应该听很慢的、很清楚的，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 332.0,
+        "endTime": 332.582,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 332.582,
+        "endTime": 332.943,
+        "gloss": "you"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 332.943,
+        "endTime": 333.764,
+        "gloss": "should"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 333.764,
+        "endTime": 334.346,
+        "gloss": "listen"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 334.346,
+        "endTime": 334.787,
+        "gloss": "very"
+      },
+      {
+        "word": "慢",
+        "pinyin": "màn",
+        "startTime": 334.787,
+        "endTime": 335.248,
+        "gloss": "slow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 335.248,
+        "endTime": 335.428,
+        "gloss": "of"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 335.709,
+        "endTime": 336.37,
+        "gloss": "very"
+      },
+      {
+        "word": "清楚",
+        "pinyin": "qīng chǔ",
+        "startTime": 336.37,
+        "endTime": 337.332,
+        "gloss": "clear"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 337.332,
+        "endTime": 337.693,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Because you should listen to very slow and very clear speech,"
+  },
+  {
+    "startTime": 338.766,
+    "endTime": 344.766,
+    "fullTextZH": "慢慢地，你就可以听懂母语者说话。",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 338.886,
+        "endTime": 339.308,
+        "gloss": "gradually"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 339.308,
+        "endTime": 339.83,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 340.331,
+        "endTime": 340.532,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 340.532,
+        "endTime": 340.853,
+        "gloss": "will"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 340.853,
+        "endTime": 341.495,
+        "gloss": "can"
+      },
+      {
+        "word": "听懂",
+        "pinyin": "tīng dǒng",
+        "startTime": 341.495,
+        "endTime": 342.599,
+        "gloss": "understand"
+      },
+      {
+        "word": "母语",
+        "pinyin": "mǔ yǔ",
+        "startTime": 342.599,
+        "endTime": 343.401,
+        "gloss": "native"
+      },
+      {
+        "word": "者",
+        "pinyin": "zhě",
+        "startTime": 343.401,
+        "endTime": 344.044,
+        "gloss": "speakers"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 344.044,
+        "endTime": 344.726,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "Gradually, you will be able to understand native speakers."
+  },
+  {
+    "startTime": 346.633,
+    "endTime": 348.966,
+    "fullTextZH": "这是第三个点。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 346.834,
+        "endTime": 347.397,
+        "gloss": "this is"
+      },
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 347.397,
+        "endTime": 348.564,
+        "gloss": "third"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 348.564,
+        "endTime": 348.926,
+        "gloss": "point"
+      }
+    ],
+    "fullTextEN": "This is the third point."
+  },
+  {
+    "startTime": 349.866,
+    "endTime": 351.233,
+    "fullTextZH": "第四个点，",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 350.007,
+        "endTime": 350.831,
+        "gloss": "fourth"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 350.831,
+        "endTime": 351.213,
+        "gloss": "point"
+      }
+    ],
+    "fullTextEN": "The fourth point,"
+  },
+  {
+    "startTime": 351.766,
+    "endTime": 355.166,
+    "fullTextZH": "我用了Pimsleur和Duolingo。",
+    "words": [
+      {
+        "word": "我用",
+        "pinyin": "wǒ yòng",
+        "startTime": 351.907,
+        "endTime": 352.591,
+        "gloss": "I use"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 352.591,
+        "endTime": 352.832,
+        "gloss": "past"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 353.798,
+        "endTime": 354.1,
+        "gloss": "and"
+      }
+    ],
+    "fullTextEN": "I used Pimsleur and Duolingo."
+  },
+  {
+    "startTime": 361.533,
+    "endTime": 366.066,
+    "fullTextZH": "一开始，我用Pimsleur，我觉得很好，",
+    "words": [
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 361.673,
+        "endTime": 361.814,
+        "gloss": "at"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 361.814,
+        "endTime": 362.736,
+        "gloss": "first"
+      },
+      {
+        "word": "我用",
+        "pinyin": "wǒ yòng",
+        "startTime": 362.817,
+        "endTime": 363.499,
+        "gloss": "I use"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 364.221,
+        "endTime": 364.381,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 364.381,
+        "endTime": 365.444,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 365.444,
+        "endTime": 365.705,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 365.705,
+        "endTime": 366.026,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "At first, I used Pimsleur, and I thought it was very good,"
+  },
+  {
+    "startTime": 366.066,
+    "endTime": 370.466,
+    "fullTextZH": "因为好像我可以和它交流。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 366.247,
+        "endTime": 367.091,
+        "gloss": "because"
+      },
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 367.091,
+        "endTime": 367.734,
+        "gloss": "seem"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 367.734,
+        "endTime": 368.035,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 368.035,
+        "endTime": 368.738,
+        "gloss": "can"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 368.738,
+        "endTime": 369.1,
+        "gloss": "with"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 369.1,
+        "endTime": 369.662,
+        "gloss": "it"
+      },
+      {
+        "word": "交流",
+        "pinyin": "jiāo liú",
+        "startTime": 369.662,
+        "endTime": 370.426,
+        "gloss": "interact"
+      }
+    ],
+    "fullTextEN": "because it seemed like I could interact with it."
+  },
+  {
+    "startTime": 371.833,
+    "endTime": 377.433,
+    "fullTextZH": "可是我发现，Pimsleur说很多很多英语。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 371.994,
+        "endTime": 372.796,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 372.796,
+        "endTime": 373.037,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 373.037,
+        "endTime": 373.579,
+        "gloss": "found"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 374.924,
+        "endTime": 375.386,
+        "gloss": "speak"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 375.386,
+        "endTime": 376.69,
+        "gloss": "a lot of"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 376.69,
+        "endTime": 377.393,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "But I found that Pimsleur spoke a lot of English."
+  },
+  {
+    "startTime": 378.033,
+    "endTime": 378.5,
+    "fullTextZH": "如果",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 378.175,
+        "endTime": 378.419,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If"
+  },
+  {
+    "startTime": 378.5,
+    "endTime": 381.066,
+    "fullTextZH": "我听30分钟，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 378.58,
+        "endTime": 378.941,
+        "gloss": "I"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 378.941,
+        "endTime": 379.522,
+        "gloss": "listen"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 380.364,
+        "endTime": 381.026,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "I listen for 30 minutes,"
+  },
+  {
+    "startTime": 381.366,
+    "endTime": 383.966,
+    "fullTextZH": "可能15分钟",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 381.487,
+        "endTime": 382.595,
+        "gloss": "maybe"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 383.281,
+        "endTime": 383.563,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "Maybe 15 minutes"
+  },
+  {
+    "startTime": 384.166,
+    "endTime": 386.033,
+    "fullTextZH": "他在说英语。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 384.307,
+        "endTime": 384.568,
+        "gloss": "he"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 384.568,
+        "endTime": 384.889,
+        "gloss": "is"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 384.889,
+        "endTime": 385.29,
+        "gloss": "speaking"
+      },
+      {
+        "word": "英语",
+        "pinyin": "yīng yǔ",
+        "startTime": 385.29,
+        "endTime": 385.993,
+        "gloss": "English"
+      }
+    ],
+    "fullTextEN": "He is speaking English."
+  },
+  {
+    "startTime": 387.233,
+    "endTime": 390.733,
+    "fullTextZH": "然后我觉得Pimsleur很无聊。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 387.313,
+        "endTime": 387.897,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 387.897,
+        "endTime": 388.118,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 388.118,
+        "endTime": 388.581,
+        "gloss": "find"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 389.767,
+        "endTime": 390.17,
+        "gloss": "very"
+      },
+      {
+        "word": "无聊",
+        "pinyin": "wú liáo",
+        "startTime": 390.17,
+        "endTime": 390.693,
+        "gloss": "boring"
+      }
+    ],
+    "fullTextEN": "Then I find Pimsleur very boring."
+  },
+  {
+    "startTime": 398.866,
+    "endTime": 400.666,
+    "fullTextZH": "Duolingo的问题是，",
+    "words": [
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 399.533,
+        "endTime": 399.635,
+        "gloss": "of"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 399.635,
+        "endTime": 400.302,
+        "gloss": "problem"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 400.302,
+        "endTime": 400.626,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "The problem with Duolingo is,"
+  },
+  {
+    "startTime": 401.7,
+    "endTime": 405.866,
+    "fullTextZH": "他一直重复、一直重复，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 402.341,
+        "endTime": 402.681,
+        "gloss": "he"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 402.681,
+        "endTime": 403.543,
+        "gloss": "keeps"
+      },
+      {
+        "word": "重复",
+        "pinyin": "chóng fù",
+        "startTime": 403.543,
+        "endTime": 404.224,
+        "gloss": "repeating"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 404.344,
+        "endTime": 405.105,
+        "gloss": "keeps"
+      },
+      {
+        "word": "重复",
+        "pinyin": "chóng fù",
+        "startTime": 405.105,
+        "endTime": 405.846,
+        "gloss": "repeating"
+      }
+    ],
+    "fullTextEN": "He keeps repeating, keeps repeating,"
+  },
+  {
+    "startTime": 406.133,
+    "endTime": 409.266,
+    "fullTextZH": "重复一个很简单的句子。",
+    "words": [
+      {
+        "word": "重复",
+        "pinyin": "chóng fù",
+        "startTime": 406.274,
+        "endTime": 406.736,
+        "gloss": "repeating"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 406.736,
+        "endTime": 407.217,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 407.217,
+        "endTime": 407.659,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 407.659,
+        "endTime": 408.322,
+        "gloss": "simple"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 408.322,
+        "endTime": 408.563,
+        "gloss": "of"
+      },
+      {
+        "word": "句子",
+        "pinyin": "jù zi",
+        "startTime": 408.563,
+        "endTime": 409.226,
+        "gloss": "sentence"
+      }
+    ],
+    "fullTextEN": "Repeating a very simple sentence."
+  },
+  {
+    "startTime": 409.833,
+    "endTime": 413.0,
+    "fullTextZH": "我知道重复很重要，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 409.973,
+        "endTime": 410.334,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 410.334,
+        "endTime": 411.016,
+        "gloss": "know"
+      },
+      {
+        "word": "重复",
+        "pinyin": "chóng fù",
+        "startTime": 411.016,
+        "endTime": 411.777,
+        "gloss": "repetition"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 411.777,
+        "endTime": 412.238,
+        "gloss": "very"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 412.238,
+        "endTime": 412.96,
+        "gloss": "important"
+      }
+    ],
+    "fullTextEN": "I know repetition is important,"
+  },
+  {
+    "startTime": 413.433,
+    "endTime": 417.966,
+    "fullTextZH": "但是这种重复真的太无聊。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 413.593,
+        "endTime": 415.098,
+        "gloss": "but"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 415.098,
+        "endTime": 415.599,
+        "gloss": "this kind"
+      },
+      {
+        "word": "重复",
+        "pinyin": "chóng fù",
+        "startTime": 415.599,
+        "endTime": 416.261,
+        "gloss": "repetition"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 416.261,
+        "endTime": 416.742,
+        "gloss": "really"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 416.742,
+        "endTime": 417.284,
+        "gloss": "too"
+      },
+      {
+        "word": "无聊",
+        "pinyin": "wú liáo",
+        "startTime": 417.284,
+        "endTime": 417.926,
+        "gloss": "boring"
+      }
+    ],
+    "fullTextEN": "But this kind of repetition is really too boring."
+  },
+  {
+    "startTime": 419.566,
+    "endTime": 424.233,
+    "fullTextZH": "所以我觉得Pimsleur是让我背，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 419.686,
+        "endTime": 420.107,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 420.107,
+        "endTime": 420.327,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 420.327,
+        "endTime": 421.108,
+        "gloss": "feel"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 422.15,
+        "endTime": 422.611,
+        "gloss": "is"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 422.611,
+        "endTime": 422.991,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 422.991,
+        "endTime": 423.852,
+        "gloss": "me"
+      },
+      {
+        "word": "背",
+        "pinyin": "bèi",
+        "startTime": 423.852,
+        "endTime": 424.213,
+        "gloss": "memorize"
+      }
+    ],
+    "fullTextEN": "So I feel Pimsleur makes me memorize,"
+  },
+  {
+    "startTime": 424.933,
+    "endTime": 428.233,
+    "fullTextZH": "背一个句子、一个句子。",
+    "words": [
+      {
+        "word": "背",
+        "pinyin": "bèi",
+        "startTime": 425.094,
+        "endTime": 425.859,
+        "gloss": "memorize"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 425.859,
+        "endTime": 426.482,
+        "gloss": "a"
+      },
+      {
+        "word": "句子",
+        "pinyin": "jù zi",
+        "startTime": 426.482,
+        "endTime": 426.804,
+        "gloss": "sentence"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 427.026,
+        "endTime": 427.549,
+        "gloss": "a"
+      },
+      {
+        "word": "句子",
+        "pinyin": "jù zi",
+        "startTime": 427.549,
+        "endTime": 428.193,
+        "gloss": "sentence"
+      }
+    ],
+    "fullTextEN": "Memorize a sentence, a sentence."
+  },
+  {
+    "startTime": 428.233,
+    "endTime": 431.066,
+    "fullTextZH": "可是Duolingo是让我背，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 428.434,
+        "endTime": 428.856,
+        "gloss": "but"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 429.68,
+        "endTime": 429.921,
+        "gloss": "is"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 429.921,
+        "endTime": 430.202,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 430.202,
+        "endTime": 430.704,
+        "gloss": "me"
+      },
+      {
+        "word": "背",
+        "pinyin": "bèi",
+        "startTime": 430.704,
+        "endTime": 431.026,
+        "gloss": "memorize"
+      }
+    ],
+    "fullTextEN": "But Duolingo makes me memorize,"
+  },
+  {
+    "startTime": 431.666,
+    "endTime": 433.6,
+    "fullTextZH": "一个词、一个词。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 431.706,
+        "endTime": 432.27,
+        "gloss": "a"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 432.27,
+        "endTime": 432.291,
+        "gloss": "word"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 432.693,
+        "endTime": 433.258,
+        "gloss": "a"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 433.258,
+        "endTime": 433.56,
+        "gloss": "word"
+      }
+    ],
+    "fullTextEN": "A word, a word."
+  },
+  {
+    "startTime": 434.033,
+    "endTime": 439.133,
+    "fullTextZH": "所以我觉得这两个都很无聊。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 434.153,
+        "endTime": 434.515,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 434.515,
+        "endTime": 434.836,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 434.836,
+        "endTime": 435.418,
+        "gloss": "think"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 435.418,
+        "endTime": 435.679,
+        "gloss": "these"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 435.679,
+        "endTime": 436.643,
+        "gloss": "two"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 436.643,
+        "endTime": 437.085,
+        "gloss": "both"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 437.085,
+        "endTime": 437.768,
+        "gloss": "very"
+      },
+      {
+        "word": "无聊",
+        "pinyin": "wú liáo",
+        "startTime": 437.768,
+        "endTime": 439.093,
+        "gloss": "boring"
+      }
+    ],
+    "fullTextEN": "So I think both of these are very boring."
+  },
+  {
+    "startTime": 439.766,
+    "endTime": 443.833,
+    "fullTextZH": "所以我真的不喜欢Pimsleur和Duolingo。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 439.906,
+        "endTime": 440.267,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 440.267,
+        "endTime": 440.447,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 440.447,
+        "endTime": 441.048,
+        "gloss": "really"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 441.048,
+        "endTime": 441.369,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 441.369,
+        "endTime": 442.07,
+        "gloss": "like"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 442.831,
+        "endTime": 443.032,
+        "gloss": "and"
+      }
+    ],
+    "fullTextEN": "So I really don't like Pimsleur and Duolingo."
+  },
+  {
+    "startTime": 445.0,
+    "endTime": 449.0,
+    "fullTextZH": "对，所以今天我说了四点，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 445.06,
+        "endTime": 445.161,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 445.543,
+        "endTime": 445.985,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 445.985,
+        "endTime": 446.729,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 446.729,
+        "endTime": 447.533,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 447.533,
+        "endTime": 447.774,
+        "gloss": "said"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 447.774,
+        "endTime": 448.236,
+        "gloss": "le"
+      },
+      {
+        "word": "四点",
+        "pinyin": "sì diǎn",
+        "startTime": 448.236,
+        "endTime": 448.96,
+        "gloss": "four points"
+      }
+    ],
+    "fullTextEN": "Right, so today I mentioned four points,"
+  },
+  {
+    "startTime": 449.166,
+    "endTime": 452.566,
+    "fullTextZH": "我学习外语的时候，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 449.246,
+        "endTime": 449.93,
+        "gloss": "I"
+      },
+      {
+        "word": "学习外语",
+        "pinyin": "xué xí wài yǔ",
+        "startTime": 449.93,
+        "endTime": 451.882,
+        "gloss": "learn foreign languages"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 451.882,
+        "endTime": 452.123,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 452.123,
+        "endTime": 452.546,
+        "gloss": "when"
+      }
+    ],
+    "fullTextEN": "When I learn foreign languages,"
+  },
+  {
+    "startTime": 452.9,
+    "endTime": 454.766,
+    "fullTextZH": "我犯的错。",
+    "words": [
+      {
+        "word": "我犯",
+        "pinyin": "wǒ fàn",
+        "startTime": 453.04,
+        "endTime": 454.024,
+        "gloss": "I make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 454.024,
+        "endTime": 454.345,
+        "gloss": "of"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 454.345,
+        "endTime": 454.726,
+        "gloss": "mistakes"
+      }
+    ],
+    "fullTextEN": "The mistakes I make."
+  },
+  {
+    "startTime": 455.866,
+    "endTime": 459.333,
+    "fullTextZH": "那我们怎么学习外语？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 456.046,
+        "endTime": 456.648,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 456.648,
+        "endTime": 457.189,
+        "gloss": "we"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 457.189,
+        "endTime": 457.81,
+        "gloss": "how"
+      },
+      {
+        "word": "学习外语",
+        "pinyin": "xué xí wài yǔ",
+        "startTime": 457.81,
+        "endTime": 459.313,
+        "gloss": "learn foreign languages"
+      }
+    ],
+    "fullTextEN": "So how do we learn foreign languages?"
+  },
+  {
+    "startTime": 463.166,
+    "endTime": 469.066,
+    "fullTextZH": "最、最重要的是，你要听很多很多，",
+    "words": [
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 463.347,
+        "endTime": 463.567,
+        "gloss": "most"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 464.169,
+        "endTime": 464.47,
+        "gloss": "most"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 464.47,
+        "endTime": 465.113,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 465.113,
+        "endTime": 465.574,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 465.574,
+        "endTime": 465.895,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 466.156,
+        "endTime": 466.317,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 466.317,
+        "endTime": 466.778,
+        "gloss": "need"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 466.778,
+        "endTime": 467.34,
+        "gloss": "listen"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 467.34,
+        "endTime": 469.026,
+        "gloss": "a lot"
+      }
+    ],
+    "fullTextEN": "The most important thing is, you need to listen a lot, a lot,"
+  },
+  {
+    "startTime": 469.366,
+    "endTime": 474.9,
+    "fullTextZH": "而且你一定要听你听得懂的。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 469.567,
+        "endTime": 470.529,
+        "gloss": "and"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 470.529,
+        "endTime": 470.77,
+        "gloss": "you"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 470.77,
+        "endTime": 471.331,
+        "gloss": "must"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 471.331,
+        "endTime": 471.812,
+        "gloss": "need"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 471.812,
+        "endTime": 472.494,
+        "gloss": "listen"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 472.494,
+        "endTime": 473.035,
+        "gloss": "you"
+      },
+      {
+        "word": "听得懂",
+        "pinyin": "tīng de dǒng",
+        "startTime": 473.035,
+        "endTime": 474.519,
+        "gloss": "understand"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 474.519,
+        "endTime": 474.86,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "And you must listen to what you can understand."
+  },
+  {
+    "startTime": 476.0,
+    "endTime": 479.6,
+    "fullTextZH": "这个就是叫“comprehensible input”。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 476.141,
+        "endTime": 476.825,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 476.825,
+        "endTime": 477.307,
+        "gloss": "is"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 477.307,
+        "endTime": 477.689,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "This is called 'comprehensible input'."
+  },
+  {
+    "startTime": 480.266,
+    "endTime": 482.4,
+    "fullTextZH": "如果你听得懂，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 480.407,
+        "endTime": 480.991,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 480.991,
+        "endTime": 481.414,
+        "gloss": "you"
+      },
+      {
+        "word": "听得懂",
+        "pinyin": "tīng de dǒng",
+        "startTime": 481.414,
+        "endTime": 482.38,
+        "gloss": "understand"
+      }
+    ],
+    "fullTextEN": "If you can understand,"
+  },
+  {
+    "startTime": 482.766,
+    "endTime": 485.266,
+    "fullTextZH": "你觉得“啊，我听得懂”，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 482.907,
+        "endTime": 483.068,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 483.068,
+        "endTime": 483.613,
+        "gloss": "feel"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 483.653,
+        "endTime": 483.875,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 484.197,
+        "endTime": 484.419,
+        "gloss": "I"
+      },
+      {
+        "word": "听得懂",
+        "pinyin": "tīng de dǒng",
+        "startTime": 484.419,
+        "endTime": 485.226,
+        "gloss": "understand"
+      }
+    ],
+    "fullTextEN": "You feel 'Ah, I understand',"
+  },
+  {
+    "startTime": 485.4,
+    "endTime": 487.6,
+    "fullTextZH": "我很开心、很开心，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 485.582,
+        "endTime": 485.945,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 485.945,
+        "endTime": 486.147,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 486.147,
+        "endTime": 486.651,
+        "gloss": "happy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 486.732,
+        "endTime": 486.974,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 486.974,
+        "endTime": 487.56,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "I am very happy, very happy,"
+  },
+  {
+    "startTime": 487.966,
+    "endTime": 490.3,
+    "fullTextZH": "那你可以继续听。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 487.986,
+        "endTime": 488.288,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 488.288,
+        "endTime": 488.529,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 488.529,
+        "endTime": 489.093,
+        "gloss": "can"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 489.093,
+        "endTime": 489.877,
+        "gloss": "continue"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 489.877,
+        "endTime": 490.26,
+        "gloss": "listen"
+      }
+    ],
+    "fullTextEN": "Then you can continue listening."
+  },
+  {
+    "startTime": 490.433,
+    "endTime": 495.466,
+    "fullTextZH": "继续听，然后你可以学到很多词。",
+    "words": [
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 490.573,
+        "endTime": 491.195,
+        "gloss": "continue"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 491.195,
+        "endTime": 492.057,
+        "gloss": "listen"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 492.077,
+        "endTime": 492.719,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 492.719,
+        "endTime": 492.96,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 492.96,
+        "endTime": 493.481,
+        "gloss": "can"
+      },
+      {
+        "word": "学到",
+        "pinyin": "xué dào",
+        "startTime": 493.481,
+        "endTime": 494.383,
+        "gloss": "learn"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 494.383,
+        "endTime": 495.085,
+        "gloss": "many"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 495.085,
+        "endTime": 495.426,
+        "gloss": "words"
+      }
+    ],
+    "fullTextEN": "Continue listening, then you can learn many words."
+  },
+  {
+    "startTime": 496.466,
+    "endTime": 500.833,
+    "fullTextZH": "如果你听一个很难很难的东西，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 496.626,
+        "endTime": 497.408,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 497.408,
+        "endTime": 497.708,
+        "gloss": "you"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 497.708,
+        "endTime": 498.069,
+        "gloss": "listen"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 498.069,
+        "endTime": 498.81,
+        "gloss": "a"
+      },
+      {
+        "word": "很难",
+        "pinyin": "hěn nán",
+        "startTime": 498.81,
+        "endTime": 499.631,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 499.631,
+        "endTime": 499.912,
+        "gloss": "difficult"
+      },
+      {
+        "word": "难",
+        "pinyin": "nán",
+        "startTime": 499.912,
+        "endTime": 500.232,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 500.232,
+        "endTime": 500.412,
+        "gloss": "difficult"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 500.412,
+        "endTime": 500.813,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "If you listen to something very difficult,"
+  },
+  {
+    "startTime": 501.433,
+    "endTime": 502.866,
+    "fullTextZH": "你会觉得“啊，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 501.574,
+        "endTime": 501.756,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 501.756,
+        "endTime": 501.958,
+        "gloss": "will"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 501.958,
+        "endTime": 502.462,
+        "gloss": "feel"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 502.483,
+        "endTime": 502.826,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "You will feel 'Ah,"
+  },
+  {
+    "startTime": 503.566,
+    "endTime": 504.833,
+    "fullTextZH": "太难了”，",
+    "words": [
+      {
+        "word": "太难",
+        "pinyin": "tài nán",
+        "startTime": 503.667,
+        "endTime": 504.451,
+        "gloss": "too difficult"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 504.451,
+        "endTime": 504.793,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Too difficult',"
+  },
+  {
+    "startTime": 505.833,
+    "endTime": 507.733,
+    "fullTextZH": "“啊，我不想学习”。",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 506.136,
+        "endTime": 506.439,
+        "gloss": "ah"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 506.5,
+        "endTime": 506.581,
+        "gloss": "I"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 506.581,
+        "endTime": 507.026,
+        "gloss": "don't want"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 507.026,
+        "endTime": 507.693,
+        "gloss": "learn"
+      }
+    ],
+    "fullTextEN": "'Ah, I don't want to learn'."
+  },
+  {
+    "startTime": 509.333,
+    "endTime": 511.6,
+    "fullTextZH": "对，这是第一个：听",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 509.514,
+        "endTime": 509.875,
+        "gloss": "right"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 509.955,
+        "endTime": 510.336,
+        "gloss": "this is"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 510.336,
+        "endTime": 510.998,
+        "gloss": "first"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 511.179,
+        "endTime": 511.199,
+        "gloss": "listen"
+      }
+    ],
+    "fullTextEN": "Right, this is the first: listen"
+  },
+  {
+    "startTime": 511.833,
+    "endTime": 513.666,
+    "fullTextZH": "听得懂的东西。",
+    "words": [
+      {
+        "word": "听得懂",
+        "pinyin": "tīng de dǒng",
+        "startTime": 511.934,
+        "endTime": 513.062,
+        "gloss": "understand"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 513.062,
+        "endTime": 513.223,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 513.223,
+        "endTime": 513.646,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "To things you can understand."
+  },
+  {
+    "startTime": 514.7,
+    "endTime": 519.733,
+    "fullTextZH": "第二个，如果你可以找到听得懂、",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 514.901,
+        "endTime": 515.582,
+        "gloss": "second"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 516.064,
+        "endTime": 516.906,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 516.906,
+        "endTime": 517.126,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 517.126,
+        "endTime": 517.628,
+        "gloss": "can"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 517.628,
+        "endTime": 518.791,
+        "gloss": "find"
+      },
+      {
+        "word": "听得懂",
+        "pinyin": "tīng de dǒng",
+        "startTime": 518.791,
+        "endTime": 519.573,
+        "gloss": "understandable"
+      }
+    ],
+    "fullTextEN": "The second, if you can find understandable,"
+  },
+  {
+    "startTime": 520.1,
+    "endTime": 524.366,
+    "fullTextZH": "而且非常有意思的东西，",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 520.34,
+        "endTime": 521.622,
+        "gloss": "and"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 521.622,
+        "endTime": 522.664,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 522.664,
+        "endTime": 523.745,
+        "gloss": "interesting"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 523.745,
+        "endTime": 523.885,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 523.885,
+        "endTime": 524.346,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "And very interesting things,"
+  },
+  {
+    "startTime": 524.966,
+    "endTime": 528.566,
+    "fullTextZH": "那更好，因为你在听的时候，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 525.026,
+        "endTime": 525.449,
+        "gloss": "then"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 525.449,
+        "endTime": 526.072,
+        "gloss": "better"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 526.595,
+        "endTime": 527.038,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 527.038,
+        "endTime": 527.259,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 527.259,
+        "endTime": 527.641,
+        "gloss": "at"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 527.641,
+        "endTime": 527.963,
+        "gloss": "listening"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 527.963,
+        "endTime": 528.164,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 528.164,
+        "endTime": 528.546,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "That's even better, because when you are listening,"
+  },
+  {
+    "startTime": 529.033,
+    "endTime": 531.433,
+    "fullTextZH": "你想“哦，真的吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 529.134,
+        "endTime": 529.376,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 529.376,
+        "endTime": 529.739,
+        "gloss": "think"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 529.84,
+        "endTime": 529.961,
+        "gloss": "oh"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 530.808,
+        "endTime": 531.151,
+        "gloss": "really"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 531.151,
+        "endTime": 531.393,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "You think 'Oh, really?"
+  },
+  {
+    "startTime": 531.433,
+    "endTime": 533.233,
+    "fullTextZH": "真的吗？然后呢？”",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 531.534,
+        "endTime": 531.837,
+        "gloss": "really"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 531.837,
+        "endTime": 532.505,
+        "gloss": "ma"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 532.626,
+        "endTime": 532.909,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 532.909,
+        "endTime": 533.193,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Really? And then?'"
+  },
+  {
+    "startTime": 533.233,
+    "endTime": 534.233,
+    "fullTextZH": "“然后呢？”",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 533.355,
+        "endTime": 533.866,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 533.866,
+        "endTime": 534.192,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "'And then?'"
+  },
+  {
+    "startTime": 534.9,
+    "endTime": 538.533,
+    "fullTextZH": "你没有觉得你在学",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 535.02,
+        "endTime": 535.623,
+        "gloss": "you"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 535.623,
+        "endTime": 536.405,
+        "gloss": "not have"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 536.405,
+        "endTime": 537.329,
+        "gloss": "feel"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 537.329,
+        "endTime": 537.59,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 537.59,
+        "endTime": 538.111,
+        "gloss": "at"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 538.111,
+        "endTime": 538.132,
+        "gloss": "learn"
+      }
+    ],
+    "fullTextEN": "You don't feel like you're learning"
+  },
+  {
+    "startTime": 539.066,
+    "endTime": 540.5,
+    "fullTextZH": "一个外语，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 539.207,
+        "endTime": 539.753,
+        "gloss": "a"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 539.753,
+        "endTime": 540.116,
+        "gloss": "foreign language"
+      }
+    ],
+    "fullTextEN": "a foreign language,"
+  },
+  {
+    "startTime": 540.7,
+    "endTime": 545.5,
+    "fullTextZH": "你觉得你在听一个很有意思的东西。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 540.841,
+        "endTime": 541.162,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 541.162,
+        "endTime": 542.005,
+        "gloss": "feel"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 542.005,
+        "endTime": 542.166,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 542.166,
+        "endTime": 542.487,
+        "gloss": "at"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 542.487,
+        "endTime": 542.949,
+        "gloss": "listen"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 542.949,
+        "endTime": 543.672,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 543.672,
+        "endTime": 543.994,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 543.994,
+        "endTime": 544.857,
+        "gloss": "interesting"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 544.857,
+        "endTime": 545.018,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 545.018,
+        "endTime": 545.48,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "you feel like you're listening to something very interesting."
+  },
+  {
+    "startTime": 546.166,
+    "endTime": 547.233,
+    "fullTextZH": "还有一个，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 546.307,
+        "endTime": 546.669,
+        "gloss": "also"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 546.669,
+        "endTime": 547.193,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "And another thing,"
+  },
+  {
+    "startTime": 547.466,
+    "endTime": 552.0,
+    "fullTextZH": "如果你很想说、很想说，怎么办？",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 547.626,
+        "endTime": 548.028,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 548.028,
+        "endTime": 548.248,
+        "gloss": "you"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 548.248,
+        "endTime": 548.85,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 548.85,
+        "endTime": 549.392,
+        "gloss": "want"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 549.392,
+        "endTime": 549.633,
+        "gloss": "speak"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 549.853,
+        "endTime": 550.214,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 550.214,
+        "endTime": 550.656,
+        "gloss": "want"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 550.656,
+        "endTime": 550.877,
+        "gloss": "speak"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 551.338,
+        "endTime": 551.96,
+        "gloss": "what to do"
+      }
+    ],
+    "fullTextEN": "if you really want to speak, really want to speak, what should you do?"
+  },
+  {
+    "startTime": 552.6,
+    "endTime": 554.233,
+    "fullTextZH": "你可以说，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 552.781,
+        "endTime": 553.064,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 553.064,
+        "endTime": 553.789,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 553.789,
+        "endTime": 554.193,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "You can say,"
+  },
+  {
+    "startTime": 554.566,
+    "endTime": 557.333,
+    "fullTextZH": "你可以先说很短的，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 554.746,
+        "endTime": 554.927,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 554.927,
+        "endTime": 555.368,
+        "gloss": "can"
+      },
+      {
+        "word": "先说",
+        "pinyin": "xiān shuō",
+        "startTime": 555.368,
+        "endTime": 556.15,
+        "gloss": "first say"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 556.15,
+        "endTime": 556.531,
+        "gloss": "very"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 556.531,
+        "endTime": 556.952,
+        "gloss": "short"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 556.952,
+        "endTime": 557.293,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "You can start by saying something short,"
+  },
+  {
+    "startTime": 557.533,
+    "endTime": 559.933,
+    "fullTextZH": "比如说“啊，对不对？”",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 557.715,
+        "endTime": 558.34,
+        "gloss": "for example"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 558.582,
+        "endTime": 558.683,
+        "gloss": "ah"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 558.864,
+        "endTime": 559.409,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 559.409,
+        "endTime": 559.55,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 559.55,
+        "endTime": 559.893,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "for example, 'Ah, right?'"
+  },
+  {
+    "startTime": 560.733,
+    "endTime": 562.833,
+    "fullTextZH": "“喜欢不喜欢？”",
+    "words": [
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 560.975,
+        "endTime": 561.924,
+        "gloss": "like"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 561.924,
+        "endTime": 562.106,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 562.106,
+        "endTime": 562.793,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "'Like or not like?'"
+  },
+  {
+    "startTime": 563.233,
+    "endTime": 566.4,
+    "fullTextZH": "然后慢慢变长，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 563.453,
+        "endTime": 564.456,
+        "gloss": "then"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 564.456,
+        "endTime": 565.418,
+        "gloss": "slowly"
+      },
+      {
+        "word": "变",
+        "pinyin": "biàn",
+        "startTime": 565.418,
+        "endTime": 565.919,
+        "gloss": "become"
+      },
+      {
+        "word": "长",
+        "pinyin": "zhǎng",
+        "startTime": 565.919,
+        "endTime": 566.34,
+        "gloss": "long"
+      }
+    ],
+    "fullTextEN": "Then gradually make it longer,"
+  },
+  {
+    "startTime": 566.733,
+    "endTime": 569.8,
+    "fullTextZH": "比如说“啊，对、对、对，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 566.974,
+        "endTime": 568.056,
+        "gloss": "for example"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 568.337,
+        "endTime": 568.357,
+        "gloss": "ah"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 568.597,
+        "endTime": 568.978,
+        "gloss": "right"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 569.038,
+        "endTime": 569.359,
+        "gloss": "right"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 569.379,
+        "endTime": 569.76,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "for example, 'Ah, right, right, right,"
+  },
+  {
+    "startTime": 569.8,
+    "endTime": 573.7,
+    "fullTextZH": "我喜欢喝咖啡”。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 569.981,
+        "endTime": 570.685,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 570.685,
+        "endTime": 571.911,
+        "gloss": "like"
+      },
+      {
+        "word": "喝咖啡",
+        "pinyin": "hē kā fēi",
+        "startTime": 571.911,
+        "endTime": 573.66,
+        "gloss": "drink coffee"
+      }
+    ],
+    "fullTextEN": "I like drinking coffee.'"
+  },
+  {
+    "startTime": 574.5,
+    "endTime": 577.466,
+    "fullTextZH": "然后最后、最后，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 574.64,
+        "endTime": 576.083,
+        "gloss": "then"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 576.083,
+        "endTime": 576.424,
+        "gloss": "finally"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 576.704,
+        "endTime": 577.426,
+        "gloss": "finally"
+      }
+    ],
+    "fullTextEN": "And then finally, finally,"
+  },
+  {
+    "startTime": 577.633,
+    "endTime": 579.433,
+    "fullTextZH": "你可以做什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 577.775,
+        "endTime": 577.997,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 577.997,
+        "endTime": 578.503,
+        "gloss": "can"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 578.503,
+        "endTime": 578.826,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 578.826,
+        "endTime": 579.393,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What can you do?"
+  },
+  {
+    "startTime": 579.866,
+    "endTime": 584.0,
+    "fullTextZH": "你可以“describe the situation”。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 579.986,
+        "endTime": 580.267,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 580.267,
+        "endTime": 580.99,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "You can 'describe the situation.'"
+  },
+  {
+    "startTime": 584.233,
+    "endTime": 588.6,
+    "fullTextZH": "如果你的老师告诉你一个故事，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 584.393,
+        "endTime": 585.195,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 585.195,
+        "endTime": 585.355,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 585.355,
+        "endTime": 585.555,
+        "gloss": "of"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 585.555,
+        "endTime": 586.376,
+        "gloss": "teacher"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 586.376,
+        "endTime": 586.997,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 586.997,
+        "endTime": 587.258,
+        "gloss": "you"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 587.258,
+        "endTime": 587.799,
+        "gloss": "a"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 587.799,
+        "endTime": 588.56,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "If your teacher tells you a story,"
+  },
+  {
+    "startTime": 588.7,
+    "endTime": 593.633,
+    "fullTextZH": "那你可以用2分钟、3分钟",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 588.84,
+        "endTime": 589.442,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 589.442,
+        "endTime": 589.703,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 589.703,
+        "endTime": 590.244,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 590.244,
+        "endTime": 590.886,
+        "gloss": "use"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 591.267,
+        "endTime": 592.43,
+        "gloss": "minutes"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 592.931,
+        "endTime": 593.232,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "then you can use 2 minutes, 3 minutes"
+  },
+  {
+    "startTime": 594.166,
+    "endTime": 595.966,
+    "fullTextZH": "说这个故事。",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 594.328,
+        "endTime": 594.995,
+        "gloss": "tell"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 594.995,
+        "endTime": 595.299,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 595.299,
+        "endTime": 595.926,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "to tell this story."
+  },
+  {
+    "startTime": 596.3,
+    "endTime": 599.6,
+    "fullTextZH": "如果你可以说2分钟、",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 596.441,
+        "endTime": 597.185,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 597.185,
+        "endTime": 597.467,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 597.467,
+        "endTime": 598.091,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 598.091,
+        "endTime": 598.715,
+        "gloss": "speak"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 599.016,
+        "endTime": 599.56,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "If you can speak for 2 minutes,"
+  },
+  {
+    "startTime": 599.6,
+    "endTime": 602.733,
+    "fullTextZH": "3分钟，你会觉得",
+    "words": [
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 600.082,
+        "endTime": 600.604,
+        "gloss": "minutes"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 601.006,
+        "endTime": 601.207,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 601.207,
+        "endTime": 601.528,
+        "gloss": "will"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 601.528,
+        "endTime": 601.869,
+        "gloss": "feel"
+      }
+    ],
+    "fullTextEN": "3 minutes, you will feel"
+  },
+  {
+    "startTime": 603.166,
+    "endTime": 605.0,
+    "fullTextZH": "“我的外语很好，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 603.307,
+        "endTime": 603.488,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 603.488,
+        "endTime": 603.67,
+        "gloss": "of"
+      },
+      {
+        "word": "外语",
+        "pinyin": "wài yǔ",
+        "startTime": 603.67,
+        "endTime": 604.274,
+        "gloss": "foreign language"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 604.274,
+        "endTime": 604.597,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 604.597,
+        "endTime": 604.96,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "\"My foreign language is very good,"
+  },
+  {
+    "startTime": 605.0,
+    "endTime": 608.9,
+    "fullTextZH": "很流利”，你会觉得很高兴。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 605.121,
+        "endTime": 605.442,
+        "gloss": "very"
+      },
+      {
+        "word": "流利",
+        "pinyin": "liú lì",
+        "startTime": 605.442,
+        "endTime": 605.864,
+        "gloss": "fluent"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 606.669,
+        "endTime": 606.829,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 606.829,
+        "endTime": 607.071,
+        "gloss": "will"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 607.071,
+        "endTime": 607.553,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 607.553,
+        "endTime": 608.036,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 608.036,
+        "endTime": 608.86,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "very fluent,\" you will feel very happy."
+  },
+  {
+    "startTime": 609.966,
+    "endTime": 614.633,
+    "fullTextZH": "所以你可以和你的老师试试。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 610.106,
+        "endTime": 610.867,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 610.867,
+        "endTime": 611.228,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 611.228,
+        "endTime": 611.929,
+        "gloss": "can"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 611.929,
+        "endTime": 612.59,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 612.59,
+        "endTime": 612.79,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 612.79,
+        "endTime": 612.95,
+        "gloss": "of"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 612.95,
+        "endTime": 613.892,
+        "gloss": "teacher"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 613.892,
+        "endTime": 614.593,
+        "gloss": "try"
+      }
+    ],
+    "fullTextEN": "So you can try with your teacher."
+  },
+  {
+    "startTime": 615.5,
+    "endTime": 618.6,
+    "fullTextZH": "这是我的看法。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 615.681,
+        "endTime": 616.044,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 616.044,
+        "endTime": 616.567,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 616.567,
+        "endTime": 617.171,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 617.171,
+        "endTime": 617.714,
+        "gloss": "of"
+      },
+      {
+        "word": "看法",
+        "pinyin": "kàn fǎ",
+        "startTime": 617.714,
+        "endTime": 618.56,
+        "gloss": "opinion"
+      }
+    ],
+    "fullTextEN": "This is my opinion."
+  },
+  {
+    "startTime": 619.1,
+    "endTime": 624.466,
+    "fullTextZH": "你呢？你觉得学习外语的时候，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 619.3,
+        "endTime": 619.52,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 619.52,
+        "endTime": 619.781,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 620.562,
+        "endTime": 621.142,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 621.142,
+        "endTime": 622.464,
+        "gloss": "think"
+      },
+      {
+        "word": "学习外语",
+        "pinyin": "xué xí wài yǔ",
+        "startTime": 622.464,
+        "endTime": 623.745,
+        "gloss": "learning foreign language"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 623.745,
+        "endTime": 623.985,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 623.985,
+        "endTime": 624.446,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "What about you? When learning a foreign language, do you think"
+  },
+  {
+    "startTime": 624.666,
+    "endTime": 627.833,
+    "fullTextZH": "我们应该做什么？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 624.846,
+        "endTime": 625.568,
+        "gloss": "we"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 625.568,
+        "endTime": 626.55,
+        "gloss": "should"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 626.55,
+        "endTime": 627.091,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 627.091,
+        "endTime": 627.793,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What should we do?"
+  },
+  {
+    "startTime": 628.0,
+    "endTime": 630.9,
+    "fullTextZH": "不应该做什么？",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 628.181,
+        "endTime": 628.584,
+        "gloss": "not"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 628.584,
+        "endTime": 629.672,
+        "gloss": "should"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 629.672,
+        "endTime": 630.215,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 630.215,
+        "endTime": 630.86,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What shouldn't we do?"
+  },
+  {
+    "startTime": 631.3,
+    "endTime": 633.033,
+    "fullTextZH": "留言告诉我！",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 631.441,
+        "endTime": 632.146,
+        "gloss": "leave message"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 632.146,
+        "endTime": 632.61,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 632.61,
+        "endTime": 632.993,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a message and tell me!"
+  },
+  {
+    "startTime": 634.5,
+    "endTime": 637.833,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 634.681,
+        "endTime": 635.504,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 635.504,
+        "endTime": 636.387,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 636.387,
+        "endTime": 636.628,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 636.668,
+        "endTime": 637.793,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

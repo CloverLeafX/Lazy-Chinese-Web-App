@@ -1,0 +1,965 @@
+[
+  {
+    "startTime": 0.466,
+    "endTime": 1.366,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.466,
+        "endTime": 1.325,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 2.4,
+    "endTime": 7.966,
+    "fullTextZH": "你好，我住在悉尼。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 2.54,
+        "endTime": 4.022,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 4.042,
+        "endTime": 5.263,
+        "gloss": "I"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 5.263,
+        "endTime": 5.704,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 5.704,
+        "endTime": 6.665,
+        "gloss": "in"
+      },
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 6.665,
+        "endTime": 7.926,
+        "gloss": "Sydney"
+      }
+    ],
+    "fullTextEN": "Hello, I live in Sydney."
+  },
+  {
+    "startTime": 8.866,
+    "endTime": 14.466,
+    "fullTextZH": "悉尼有很多很多好吃的。",
+    "words": [
+      {
+        "word": "悉尼",
+        "pinyin": "xī ní",
+        "startTime": 8.926,
+        "endTime": 9.91,
+        "gloss": "Sydney"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 9.91,
+        "endTime": 10.813,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 10.813,
+        "endTime": 13.021,
+        "gloss": "many many"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 13.021,
+        "endTime": 14.004,
+        "gloss": "delicious"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 14.004,
+        "endTime": 14.426,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "There are many delicious foods in Sydney."
+  },
+  {
+    "startTime": 16.133,
+    "endTime": 19.699,
+    "fullTextZH": "一天，我很饿。",
+    "words": [
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 16.153,
+        "endTime": 16.854,
+        "gloss": "one day"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 17.555,
+        "endTime": 18.357,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 18.357,
+        "endTime": 18.918,
+        "gloss": "very"
+      },
+      {
+        "word": "饿",
+        "pinyin": "è",
+        "startTime": 18.918,
+        "endTime": 19.659,
+        "gloss": "hungry"
+      }
+    ],
+    "fullTextEN": "One day, I was very hungry."
+  },
+  {
+    "startTime": 20.366,
+    "endTime": 25.333,
+    "fullTextZH": "我的男朋友也很饿。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 20.506,
+        "endTime": 20.887,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.887,
+        "endTime": 21.588,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 21.588,
+        "endTime": 23.37,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 23.37,
+        "endTime": 24.111,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 24.111,
+        "endTime": 24.672,
+        "gloss": "very"
+      },
+      {
+        "word": "饿",
+        "pinyin": "è",
+        "startTime": 24.672,
+        "endTime": 25.293,
+        "gloss": "hungry"
+      }
+    ],
+    "fullTextEN": "My boyfriend was also very hungry."
+  },
+  {
+    "startTime": 26.733,
+    "endTime": 28.499,
+    "fullTextZH": "他说：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 26.853,
+        "endTime": 27.596,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 27.596,
+        "endTime": 28.459,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said:"
+  },
+  {
+    "startTime": 29.566,
+    "endTime": 32.133,
+    "fullTextZH": "你要吃什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 29.586,
+        "endTime": 29.827,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 29.827,
+        "endTime": 30.589,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 30.589,
+        "endTime": 31.21,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 31.21,
+        "endTime": 32.093,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you want to eat?"
+  },
+  {
+    "startTime": 32.933,
+    "endTime": 37.999,
+    "fullTextZH": "我说，我都可以。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 33.053,
+        "endTime": 33.714,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 33.714,
+        "endTime": 33.734,
+        "gloss": "said"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 35.015,
+        "endTime": 35.897,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 35.897,
+        "endTime": 37.098,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 37.098,
+        "endTime": 37.959,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "I said, I can eat anything."
+  },
+  {
+    "startTime": 39.9,
+    "endTime": 41.4,
+    "fullTextZH": "他说：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 39.92,
+        "endTime": 40.549,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 40.549,
+        "endTime": 41.359,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said:"
+  },
+  {
+    "startTime": 42.066,
+    "endTime": 48.333,
+    "fullTextZH": "我们去吃意大利菜。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 42.186,
+        "endTime": 44.008,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 44.008,
+        "endTime": 45.029,
+        "gloss": "go"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 45.029,
+        "endTime": 46.131,
+        "gloss": "eat"
+      },
+      {
+        "word": "意大利",
+        "pinyin": "yì dà lì",
+        "startTime": 46.131,
+        "endTime": 47.552,
+        "gloss": "Italian"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 47.552,
+        "endTime": 48.293,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "Let's go eat Italian food."
+  },
+  {
+    "startTime": 48.766,
+    "endTime": 49.999,
+    "fullTextZH": "怎么样？",
+    "words": [
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 48.907,
+        "endTime": 49.959,
+        "gloss": "how about"
+      }
+    ],
+    "fullTextEN": "How about it?"
+  },
+  {
+    "startTime": 50.9,
+    "endTime": 56.866,
+    "fullTextZH": "我说，嗯，意大利菜太贵了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 51.02,
+        "endTime": 51.401,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 51.401,
+        "endTime": 51.421,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 52.261,
+        "endTime": 52.742,
+        "gloss": "um"
+      },
+      {
+        "word": "意大利",
+        "pinyin": "yì dà lì",
+        "startTime": 53.282,
+        "endTime": 54.323,
+        "gloss": "Italian"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 54.323,
+        "endTime": 55.084,
+        "gloss": "food"
+      },
+      {
+        "word": "太贵",
+        "pinyin": "tài guì",
+        "startTime": 55.084,
+        "endTime": 56.365,
+        "gloss": "too expensive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 56.365,
+        "endTime": 56.826,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I said, um, Italian food is too expensive."
+  },
+  {
+    "startTime": 58.866,
+    "endTime": 67.499,
+    "fullTextZH": "他说，我们去吃泰国菜怎么样？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 58.866,
+        "endTime": 59.367,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 59.367,
+        "endTime": 60.789,
+        "gloss": "said"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 60.829,
+        "endTime": 62.471,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 62.471,
+        "endTime": 63.453,
+        "gloss": "go"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 63.453,
+        "endTime": 64.515,
+        "gloss": "eat"
+      },
+      {
+        "word": "泰国菜",
+        "pinyin": "tài guó cài",
+        "startTime": 64.515,
+        "endTime": 66.457,
+        "gloss": "Thai food"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 66.457,
+        "endTime": 67.459,
+        "gloss": "how about"
+      }
+    ],
+    "fullTextEN": "He said, how about we go eat Thai food?"
+  },
+  {
+    "startTime": 68.166,
+    "endTime": 74.299,
+    "fullTextZH": "我说，泰国菜太甜了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 68.286,
+        "endTime": 68.908,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 68.908,
+        "endTime": 70.07,
+        "gloss": "said"
+      },
+      {
+        "word": "泰国菜",
+        "pinyin": "tài guó cài",
+        "startTime": 70.431,
+        "endTime": 72.094,
+        "gloss": "Thai food"
+      },
+      {
+        "word": "太甜",
+        "pinyin": "tài tián",
+        "startTime": 72.094,
+        "endTime": 73.698,
+        "gloss": "too sweet"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 73.698,
+        "endTime": 74.259,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I said, Thai food is too sweet."
+  },
+  {
+    "startTime": 75.566,
+    "endTime": 78.966,
+    "fullTextZH": "他说，我们",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 75.606,
+        "endTime": 76.25,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 76.25,
+        "endTime": 77.477,
+        "gloss": "said"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 77.497,
+        "endTime": 77.739,
+        "gloss": "we"
+      }
+    ],
+    "fullTextEN": "He said, we"
+  },
+  {
+    "startTime": 79.666,
+    "endTime": 84.799,
+    "fullTextZH": "去吃中国菜怎么样？",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 79.766,
+        "endTime": 80.869,
+        "gloss": "go"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 80.869,
+        "endTime": 81.811,
+        "gloss": "eat"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 81.811,
+        "endTime": 82.934,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 82.934,
+        "endTime": 83.736,
+        "gloss": "food"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 83.736,
+        "endTime": 84.759,
+        "gloss": "how about"
+      }
+    ],
+    "fullTextEN": "How about going to eat Chinese food?"
+  },
+  {
+    "startTime": 85.933,
+    "endTime": 92.666,
+    "fullTextZH": "我说，可是我会做中国菜。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 85.933,
+        "endTime": 86.314,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 86.314,
+        "endTime": 86.334,
+        "gloss": "said"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 87.516,
+        "endTime": 88.558,
+        "gloss": "but"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 88.558,
+        "endTime": 90.201,
+        "gloss": "I can"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 90.201,
+        "endTime": 91.063,
+        "gloss": "make"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 91.063,
+        "endTime": 91.945,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "菜",
+        "pinyin": "cài",
+        "startTime": 91.945,
+        "endTime": 92.626,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "I said, but I can cook Chinese food."
+  },
+  {
+    "startTime": 93.066,
+    "endTime": 95.666,
+    "fullTextZH": "所以我不",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 93.207,
+        "endTime": 94.154,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 94.154,
+        "endTime": 95.041,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 95.041,
+        "endTime": 95.061,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "So I don't"
+  },
+  {
+    "startTime": 96.166,
+    "endTime": 100.499,
+    "fullTextZH": "要去中国饭店。",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 96.246,
+        "endTime": 97.089,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 97.089,
+        "endTime": 98.092,
+        "gloss": "go"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 98.092,
+        "endTime": 99.376,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàn diàn",
+        "startTime": 99.376,
+        "endTime": 100.459,
+        "gloss": "restaurant"
+      }
+    ],
+    "fullTextEN": "want to go to a Chinese restaurant."
+  },
+  {
+    "startTime": 102.066,
+    "endTime": 107.266,
+    "fullTextZH": "他说，所以你要吃什么？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 102.066,
+        "endTime": 102.468,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 102.468,
+        "endTime": 102.749,
+        "gloss": "said"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 103.773,
+        "endTime": 104.696,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 104.696,
+        "endTime": 104.977,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 104.977,
+        "endTime": 105.74,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 105.74,
+        "endTime": 106.342,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 106.342,
+        "endTime": 107.226,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "He said, so what do you want to eat?"
+  },
+  {
+    "startTime": 107.8,
+    "endTime": 111.766,
+    "fullTextZH": "我说，我都可以。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 107.92,
+        "endTime": 108.321,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 108.321,
+        "endTime": 108.341,
+        "gloss": "say"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 109.042,
+        "endTime": 109.883,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 109.883,
+        "endTime": 110.805,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 110.805,
+        "endTime": 111.726,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "I said, I can do anything."
+  },
+  {
+    "startTime": 112.4,
+    "endTime": 114.666,
+    "fullTextZH": "他说，哎呀，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 112.44,
+        "endTime": 112.801,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 112.801,
+        "endTime": 112.821,
+        "gloss": "say"
+      },
+      {
+        "word": "哎呀",
+        "pinyin": "āi yā",
+        "startTime": 113.744,
+        "endTime": 114.626,
+        "gloss": "oh dear"
+      }
+    ],
+    "fullTextEN": "He said, oh dear,"
+  },
+  {
+    "startTime": 114.7,
+    "endTime": 118.7,
+    "fullTextZH": "你到底要吃什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 114.801,
+        "endTime": 115.464,
+        "gloss": "you"
+      },
+      {
+        "word": "到底",
+        "pinyin": "dào dǐ",
+        "startTime": 115.464,
+        "endTime": 116.388,
+        "gloss": "exactly"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 116.388,
+        "endTime": 117.072,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 117.072,
+        "endTime": 117.715,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 117.715,
+        "endTime": 118.66,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What exactly do you want to eat?"
+  },
+  {
+    "startTime": 118.9,
+    "endTime": 124.6,
+    "fullTextZH": "我说，我真的都可以。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 119.02,
+        "endTime": 119.984,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 119.984,
+        "endTime": 120.847,
+        "gloss": "say"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 120.867,
+        "endTime": 121.71,
+        "gloss": "I"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 121.71,
+        "endTime": 122.713,
+        "gloss": "really"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 122.713,
+        "endTime": 123.677,
+        "gloss": "all"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 123.677,
+        "endTime": 124.56,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "I said, I really can do anything."
+  },
+  {
+    "startTime": 126.1,
+    "endTime": 127.7,
+    "fullTextZH": "谢谢，再见。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 126.12,
+        "endTime": 126.606,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 126.768,
+        "endTime": 127.659,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye."
+  }
+]

@@ -1,0 +1,5660 @@
+[
+  {
+    "startTime": 0.433,
+    "endTime": 1.566,
+    "fullTextZH": "Hello，大家好！",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 1.121,
+        "endTime": 1.323,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.323,
+        "endTime": 1.526,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello, everyone!"
+  },
+  {
+    "startTime": 1.566,
+    "endTime": 2.966,
+    "fullTextZH": "我是Bella老师。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.607,
+        "endTime": 1.85,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.85,
+        "endTime": 1.992,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 2.357,
+        "endTime": 2.925,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am Teacher Bella."
+  },
+  {
+    "startTime": 2.966,
+    "endTime": 5.033,
+    "fullTextZH": "我来自台湾。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.046,
+        "endTime": 3.247,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 3.247,
+        "endTime": 3.829,
+        "gloss": "come from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 3.829,
+        "endTime": 4.993,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "I am from Taiwan."
+  },
+  {
+    "startTime": 5.333,
+    "endTime": 9.733,
+    "fullTextZH": "你知道世界上最冷的地方在哪里吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 5.413,
+        "endTime": 5.574,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 5.574,
+        "endTime": 6.137,
+        "gloss": "know"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 6.137,
+        "endTime": 6.498,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 6.498,
+        "endTime": 6.9,
+        "gloss": "on"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 6.9,
+        "endTime": 7.141,
+        "gloss": "most"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 7.141,
+        "endTime": 7.362,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 7.362,
+        "endTime": 7.503,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 7.503,
+        "endTime": 8.005,
+        "gloss": "place"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 8.005,
+        "endTime": 8.266,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 8.266,
+        "endTime": 8.749,
+        "gloss": "where"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 8.749,
+        "endTime": 9.693,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you know where the coldest place in the world is?"
+  },
+  {
+    "startTime": 9.733,
+    "endTime": 12.1,
+    "fullTextZH": "是的，在南极。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 9.893,
+        "endTime": 10.034,
+        "gloss": "yes"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 10.034,
+        "endTime": 10.074,
+        "gloss": "de"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 10.555,
+        "endTime": 10.977,
+        "gloss": "at"
+      },
+      {
+        "word": "南极",
+        "pinyin": "nán jí",
+        "startTime": 10.977,
+        "endTime": 12.06,
+        "gloss": "Antarctica"
+      }
+    ],
+    "fullTextEN": "Yes, it's in Antarctica."
+  },
+  {
+    "startTime": 12.3,
+    "endTime": 13.8,
+    "fullTextZH": "可是那个地方啊，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 12.381,
+        "endTime": 12.726,
+        "gloss": "but"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 12.726,
+        "endTime": 12.969,
+        "gloss": "that"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 12.969,
+        "endTime": 13.435,
+        "gloss": "place"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 13.435,
+        "endTime": 13.759,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "But that place,"
+  },
+  {
+    "startTime": 13.8,
+    "endTime": 15.433,
+    "fullTextZH": "没有人住。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 13.941,
+        "endTime": 14.627,
+        "gloss": "no"
+      },
+      {
+        "word": "人住",
+        "pinyin": "rén zhù",
+        "startTime": 14.627,
+        "endTime": 15.393,
+        "gloss": "people live"
+      }
+    ],
+    "fullTextEN": "no one lives there."
+  },
+  {
+    "startTime": 15.766,
+    "endTime": 16.8,
+    "fullTextZH": "那你知道",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 15.807,
+        "endTime": 16.009,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 16.009,
+        "endTime": 16.232,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 16.232,
+        "endTime": 16.455,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "Then do you know"
+  },
+  {
+    "startTime": 16.8,
+    "endTime": 19.7,
+    "fullTextZH": "有一个地方非常的冷，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 16.921,
+        "endTime": 17.102,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 17.102,
+        "endTime": 17.424,
+        "gloss": "a"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 17.424,
+        "endTime": 18.431,
+        "gloss": "place"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 18.431,
+        "endTime": 19.056,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 19.056,
+        "endTime": 19.277,
+        "gloss": "de"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 19.277,
+        "endTime": 19.68,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "there is a place that is very cold,"
+  },
+  {
+    "startTime": 19.8,
+    "endTime": 23.1,
+    "fullTextZH": "听说是世界上最冷的国家，",
+    "words": [
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 19.88,
+        "endTime": 20.384,
+        "gloss": "it's said"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 20.384,
+        "endTime": 20.625,
+        "gloss": "is"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 20.625,
+        "endTime": 21.007,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 21.007,
+        "endTime": 21.49,
+        "gloss": "on"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 21.49,
+        "endTime": 21.852,
+        "gloss": "most"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 21.852,
+        "endTime": 22.114,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 22.114,
+        "endTime": 22.295,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 22.295,
+        "endTime": 23.06,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "it's said to be the coldest country in the world,"
+  },
+  {
+    "startTime": 23.233,
+    "endTime": 26.366,
+    "fullTextZH": "而且呐，这个地方有人住。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 23.354,
+        "endTime": 23.835,
+        "gloss": "and"
+      },
+      {
+        "word": "呐",
+        "pinyin": "nà",
+        "startTime": 23.835,
+        "endTime": 24.097,
+        "gloss": "na"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 24.137,
+        "endTime": 24.398,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 24.398,
+        "endTime": 25.161,
+        "gloss": "place"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 25.161,
+        "endTime": 25.884,
+        "gloss": "have people"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 25.884,
+        "endTime": 26.326,
+        "gloss": "live"
+      }
+    ],
+    "fullTextEN": "and, this place has people living there."
+  },
+  {
+    "startTime": 26.533,
+    "endTime": 29.2,
+    "fullTextZH": "你知道是在哪里吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 26.593,
+        "endTime": 26.854,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 26.854,
+        "endTime": 27.616,
+        "gloss": "know"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 27.616,
+        "endTime": 27.796,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 27.796,
+        "endTime": 28.097,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 28.097,
+        "endTime": 28.518,
+        "gloss": "where"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 28.518,
+        "endTime": 29.16,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you know where it is?"
+  },
+  {
+    "startTime": 29.833,
+    "endTime": 33.4,
+    "fullTextZH": "没错，就是在俄罗斯。",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 29.893,
+        "endTime": 30.735,
+        "gloss": "correct"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 30.835,
+        "endTime": 31.216,
+        "gloss": "just"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 31.216,
+        "endTime": 31.697,
+        "gloss": "at"
+      },
+      {
+        "word": "俄罗斯",
+        "pinyin": "é luó sī",
+        "startTime": 31.697,
+        "endTime": 33.36,
+        "gloss": "Russia"
+      }
+    ],
+    "fullTextEN": "That's right, it's in Russia."
+  },
+  {
+    "startTime": 33.566,
+    "endTime": 35.566,
+    "fullTextZH": "在不久以前呐，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 33.99,
+        "endTime": 34.233,
+        "gloss": "at"
+      },
+      {
+        "word": "不久",
+        "pinyin": "bù jiǔ",
+        "startTime": 34.233,
+        "endTime": 34.677,
+        "gloss": "not long"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 34.677,
+        "endTime": 35.243,
+        "gloss": "before"
+      },
+      {
+        "word": "呐",
+        "pinyin": "nà",
+        "startTime": 35.243,
+        "endTime": 35.526,
+        "gloss": "na"
+      }
+    ],
+    "fullTextEN": "Not long ago,"
+  },
+  {
+    "startTime": 35.566,
+    "endTime": 37.533,
+    "fullTextZH": "我看了一个影片，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 35.666,
+        "endTime": 35.887,
+        "gloss": "I"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 35.887,
+        "endTime": 36.168,
+        "gloss": "watch"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 36.168,
+        "endTime": 36.309,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 36.309,
+        "endTime": 36.61,
+        "gloss": "a"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 36.61,
+        "endTime": 37.493,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "I watched a video,"
+  },
+  {
+    "startTime": 37.7,
+    "endTime": 41.666,
+    "fullTextZH": "这个影片介绍世界上最冷的国家。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 37.88,
+        "endTime": 38.041,
+        "gloss": "this"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 38.041,
+        "endTime": 38.742,
+        "gloss": "video"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 38.742,
+        "endTime": 39.463,
+        "gloss": "introduce"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 39.463,
+        "endTime": 39.903,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 39.903,
+        "endTime": 40.344,
+        "gloss": "on"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 40.344,
+        "endTime": 40.604,
+        "gloss": "most"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 40.604,
+        "endTime": 40.805,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 40.805,
+        "endTime": 40.985,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 40.985,
+        "endTime": 41.626,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "This video introduces the coldest country in the world."
+  },
+  {
+    "startTime": 42.0,
+    "endTime": 43.066,
+    "fullTextZH": "这个地方呢，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 42.06,
+        "endTime": 42.342,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 42.342,
+        "endTime": 42.805,
+        "gloss": "place"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 42.805,
+        "endTime": 43.026,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "This place,"
+  },
+  {
+    "startTime": 43.066,
+    "endTime": 46.4,
+    "fullTextZH": "是在俄罗斯的东北边。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 43.166,
+        "endTime": 43.367,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 43.367,
+        "endTime": 43.669,
+        "gloss": "at"
+      },
+      {
+        "word": "俄罗斯",
+        "pinyin": "é luó sī",
+        "startTime": 43.669,
+        "endTime": 44.653,
+        "gloss": "Russia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 44.653,
+        "endTime": 45.115,
+        "gloss": "de"
+      },
+      {
+        "word": "东北边",
+        "pinyin": "dōng běi biān",
+        "startTime": 45.115,
+        "endTime": 46.36,
+        "gloss": "northeast"
+      }
+    ],
+    "fullTextEN": "is in the northeast of Russia."
+  },
+  {
+    "startTime": 46.633,
+    "endTime": 47.933,
+    "fullTextZH": "听说啊，",
+    "words": [
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 46.917,
+        "endTime": 47.486,
+        "gloss": "it's said"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 47.486,
+        "endTime": 47.892,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "It's said that,"
+  },
+  {
+    "startTime": 47.933,
+    "endTime": 51.766,
+    "fullTextZH": "这个地方是世界上最冷的城市。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 48.013,
+        "endTime": 48.294,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 48.294,
+        "endTime": 48.776,
+        "gloss": "place"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 48.776,
+        "endTime": 48.977,
+        "gloss": "is"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 48.977,
+        "endTime": 49.478,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 49.478,
+        "endTime": 50.04,
+        "gloss": "on"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 50.04,
+        "endTime": 50.421,
+        "gloss": "most"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 50.421,
+        "endTime": 50.682,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 50.682,
+        "endTime": 50.863,
+        "gloss": "de"
+      },
+      {
+        "word": "城市",
+        "pinyin": "chéng shì",
+        "startTime": 50.863,
+        "endTime": 51.726,
+        "gloss": "city"
+      }
+    ],
+    "fullTextEN": "this place is the coldest city in the world."
+  },
+  {
+    "startTime": 52.233,
+    "endTime": 57.433,
+    "fullTextZH": "冬天最冷的时候可以到零下70度！",
+    "words": [
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 52.313,
+        "endTime": 52.936,
+        "gloss": "winter"
+      },
+      {
+        "word": "最冷",
+        "pinyin": "zuì lěng",
+        "startTime": 52.936,
+        "endTime": 53.498,
+        "gloss": "coldest"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 53.498,
+        "endTime": 53.679,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 53.679,
+        "endTime": 54.18,
+        "gloss": "time"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 54.18,
+        "endTime": 54.582,
+        "gloss": "can"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 54.582,
+        "endTime": 55.004,
+        "gloss": "reach"
+      },
+      {
+        "word": "零下",
+        "pinyin": "líng xià",
+        "startTime": 55.004,
+        "endTime": 56.289,
+        "gloss": "below zero"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 56.891,
+        "endTime": 57.393,
+        "gloss": "degrees"
+      }
+    ],
+    "fullTextEN": "In the coldest part of winter, it can reach minus 70 degrees!"
+  },
+  {
+    "startTime": 57.633,
+    "endTime": 60.766,
+    "fullTextZH": "比你家的冰箱还冷。",
+    "words": [
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 57.733,
+        "endTime": 58.095,
+        "gloss": "than"
+      },
+      {
+        "word": "你家",
+        "pinyin": "nǐ jiā",
+        "startTime": 58.095,
+        "endTime": 58.597,
+        "gloss": "your home"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.597,
+        "endTime": 58.818,
+        "gloss": "of"
+      },
+      {
+        "word": "冰箱",
+        "pinyin": "bīng xiāng",
+        "startTime": 58.818,
+        "endTime": 59.561,
+        "gloss": "refrigerator"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 59.561,
+        "endTime": 60.184,
+        "gloss": "even"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 60.184,
+        "endTime": 60.726,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "Colder than your refrigerator."
+  },
+  {
+    "startTime": 61.433,
+    "endTime": 62.733,
+    "fullTextZH": "在那里呀，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 61.535,
+        "endTime": 61.758,
+        "gloss": "at"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 61.758,
+        "endTime": 62.286,
+        "gloss": "there"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 62.286,
+        "endTime": 62.692,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Over there,"
+  },
+  {
+    "startTime": 62.733,
+    "endTime": 65.566,
+    "fullTextZH": "冬天的时间很长，",
+    "words": [
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 62.773,
+        "endTime": 63.235,
+        "gloss": "winter"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 63.235,
+        "endTime": 63.436,
+        "gloss": "of"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 63.436,
+        "endTime": 64.18,
+        "gloss": "time"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 64.18,
+        "endTime": 65.526,
+        "gloss": "very long"
+      }
+    ],
+    "fullTextEN": "Winter lasts a long time,"
+  },
+  {
+    "startTime": 65.633,
+    "endTime": 68.6,
+    "fullTextZH": "大概是6个月、7个月。",
+    "words": [
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "startTime": 65.753,
+        "endTime": 66.174,
+        "gloss": "about"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 66.174,
+        "endTime": 66.515,
+        "gloss": "is"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 66.836,
+        "endTime": 67.016,
+        "gloss": "6"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 67.016,
+        "endTime": 67.578,
+        "gloss": "months"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 67.938,
+        "endTime": 67.999,
+        "gloss": "7"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 67.999,
+        "endTime": 68.56,
+        "gloss": "months"
+      }
+    ],
+    "fullTextEN": "It's about 6 months, 7 months."
+  },
+  {
+    "startTime": 68.6,
+    "endTime": 70.733,
+    "fullTextZH": "所以住在那里的人，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 68.741,
+        "endTime": 69.143,
+        "gloss": "so"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 69.143,
+        "endTime": 69.385,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 69.385,
+        "endTime": 69.646,
+        "gloss": "at"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 69.646,
+        "endTime": 70.029,
+        "gloss": "there"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 70.029,
+        "endTime": 70.19,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 70.19,
+        "endTime": 70.693,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "So the people who live there,"
+  },
+  {
+    "startTime": 70.733,
+    "endTime": 75.533,
+    "fullTextZH": "每次出门都要穿很厚、很厚的外套，",
+    "words": [
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 70.793,
+        "endTime": 71.376,
+        "gloss": "every time"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 71.376,
+        "endTime": 72.139,
+        "gloss": "go out"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 72.139,
+        "endTime": 72.279,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 72.279,
+        "endTime": 72.561,
+        "gloss": "must"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 72.561,
+        "endTime": 73.083,
+        "gloss": "wear"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 73.083,
+        "endTime": 73.645,
+        "gloss": "very"
+      },
+      {
+        "word": "厚",
+        "pinyin": "hòu",
+        "startTime": 73.645,
+        "endTime": 74.007,
+        "gloss": "thick"
+      },
+      {
+        "word": "很厚",
+        "pinyin": "hěn hòu",
+        "startTime": 74.167,
+        "endTime": 74.549,
+        "gloss": "very thick"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 74.549,
+        "endTime": 74.689,
+        "gloss": "of"
+      },
+      {
+        "word": "外套",
+        "pinyin": "wài tào",
+        "startTime": 74.689,
+        "endTime": 75.493,
+        "gloss": "coat"
+      }
+    ],
+    "fullTextEN": "Every time they go out, they have to wear very thick coats,"
+  },
+  {
+    "startTime": 75.733,
+    "endTime": 79.733,
+    "fullTextZH": "然后还需要戴手套和帽子。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 75.813,
+        "endTime": 76.175,
+        "gloss": "then"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 76.175,
+        "endTime": 76.457,
+        "gloss": "also"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 76.457,
+        "endTime": 76.899,
+        "gloss": "need"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 76.899,
+        "endTime": 77.341,
+        "gloss": "wear"
+      },
+      {
+        "word": "手套",
+        "pinyin": "shǒu tào",
+        "startTime": 77.341,
+        "endTime": 78.447,
+        "gloss": "gloves"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 78.447,
+        "endTime": 78.869,
+        "gloss": "and"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 78.869,
+        "endTime": 79.693,
+        "gloss": "hats"
+      }
+    ],
+    "fullTextEN": "and they also need to wear gloves and hats."
+  },
+  {
+    "startTime": 79.933,
+    "endTime": 83.133,
+    "fullTextZH": "如果没有戴帽子和手套，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 80.054,
+        "endTime": 80.436,
+        "gloss": "if"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 80.436,
+        "endTime": 80.879,
+        "gloss": "not"
+      },
+      {
+        "word": "戴帽子",
+        "pinyin": "dài mào zi",
+        "startTime": 80.879,
+        "endTime": 81.986,
+        "gloss": "wear hats"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 81.986,
+        "endTime": 82.348,
+        "gloss": "and"
+      },
+      {
+        "word": "手套",
+        "pinyin": "shǒu tào",
+        "startTime": 82.348,
+        "endTime": 83.093,
+        "gloss": "gloves"
+      }
+    ],
+    "fullTextEN": "If they don't wear hats and gloves,"
+  },
+  {
+    "startTime": 83.133,
+    "endTime": 86.666,
+    "fullTextZH": "他们的手很快就会冻伤。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 83.213,
+        "endTime": 83.555,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 83.555,
+        "endTime": 83.795,
+        "gloss": "of"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 83.795,
+        "endTime": 84.378,
+        "gloss": "hands"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 84.378,
+        "endTime": 85.421,
+        "gloss": "very quickly"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 85.421,
+        "endTime": 85.602,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 85.602,
+        "endTime": 85.783,
+        "gloss": "will"
+      },
+      {
+        "word": "冻伤",
+        "pinyin": "dòng shāng",
+        "startTime": 85.783,
+        "endTime": 86.626,
+        "gloss": "frostbite"
+      }
+    ],
+    "fullTextEN": "their hands will quickly get frostbite."
+  },
+  {
+    "startTime": 87.133,
+    "endTime": 87.966,
+    "fullTextZH": "那么、",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 87.499,
+        "endTime": 87.946,
+        "gloss": "so"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 87.966,
+    "endTime": 91.133,
+    "fullTextZH": "在这么冷的地方要怎么生活呢？",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 88.046,
+        "endTime": 88.287,
+        "gloss": "in"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 88.287,
+        "endTime": 88.648,
+        "gloss": "such"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 88.648,
+        "endTime": 88.848,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 88.848,
+        "endTime": 88.968,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 88.968,
+        "endTime": 89.429,
+        "gloss": "place"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 89.429,
+        "endTime": 89.67,
+        "gloss": "must"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 89.67,
+        "endTime": 90.071,
+        "gloss": "how"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 90.071,
+        "endTime": 90.772,
+        "gloss": "live"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 90.772,
+        "endTime": 91.093,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "How do you live in such a cold place?"
+  },
+  {
+    "startTime": 91.733,
+    "endTime": 94.0,
+    "fullTextZH": "因为冬天太冷了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 91.793,
+        "endTime": 92.074,
+        "gloss": "because"
+      },
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 92.074,
+        "endTime": 92.776,
+        "gloss": "winter"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 92.776,
+        "endTime": 93.679,
+        "gloss": "too cold"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 93.679,
+        "endTime": 93.96,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Because winter is too cold,"
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 95.433,
+    "fullTextZH": "所以这个地方啊，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 94.202,
+        "endTime": 94.525,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 94.525,
+        "endTime": 94.828,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 94.828,
+        "endTime": 95.211,
+        "gloss": "place"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 95.211,
+        "endTime": 95.393,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "so this place,"
+  },
+  {
+    "startTime": 95.433,
+    "endTime": 97.6,
+    "fullTextZH": "没有水管。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 95.754,
+        "endTime": 96.737,
+        "gloss": "no"
+      },
+      {
+        "word": "水管",
+        "pinyin": "shuǐ guǎn",
+        "startTime": 96.737,
+        "endTime": 97.56,
+        "gloss": "water pipes"
+      }
+    ],
+    "fullTextEN": "has no water pipes."
+  },
+  {
+    "startTime": 97.933,
+    "endTime": 99.166,
+    "fullTextZH": "因为水管啊，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 97.994,
+        "endTime": 98.398,
+        "gloss": "because"
+      },
+      {
+        "word": "水管",
+        "pinyin": "shuǐ guǎn",
+        "startTime": 98.398,
+        "endTime": 99.025,
+        "gloss": "water pipes"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 99.025,
+        "endTime": 99.126,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Because water pipes,"
+  },
+  {
+    "startTime": 99.166,
+    "endTime": 102.7,
+    "fullTextZH": "在这么冷的天气里会结冰。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 99.246,
+        "endTime": 99.568,
+        "gloss": "in"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 99.568,
+        "endTime": 100.049,
+        "gloss": "such"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 100.049,
+        "endTime": 100.25,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 100.25,
+        "endTime": 100.451,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 100.451,
+        "endTime": 101.013,
+        "gloss": "weather"
+      },
+      {
+        "word": "里会",
+        "pinyin": "lǐ huì",
+        "startTime": 101.013,
+        "endTime": 101.616,
+        "gloss": "will"
+      },
+      {
+        "word": "结冰",
+        "pinyin": "jié bīng",
+        "startTime": 101.616,
+        "endTime": 102.68,
+        "gloss": "freeze"
+      }
+    ],
+    "fullTextEN": "will freeze in such cold weather."
+  },
+  {
+    "startTime": 102.733,
+    "endTime": 104.833,
+    "fullTextZH": "所以对他们来说啊，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 102.874,
+        "endTime": 103.218,
+        "gloss": "so"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 103.218,
+        "endTime": 103.44,
+        "gloss": "for"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 103.44,
+        "endTime": 103.763,
+        "gloss": "them"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 103.763,
+        "endTime": 104.389,
+        "gloss": "regarding"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 104.389,
+        "endTime": 104.793,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "So for them,"
+  },
+  {
+    "startTime": 104.833,
+    "endTime": 108.3,
+    "fullTextZH": "喝水是一件很麻烦的工作。",
+    "words": [
+      {
+        "word": "喝水",
+        "pinyin": "hē shuǐ",
+        "startTime": 105.033,
+        "endTime": 105.955,
+        "gloss": "drinking water"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 105.955,
+        "endTime": 106.116,
+        "gloss": "is"
+      },
+      {
+        "word": "一件",
+        "pinyin": "yī jiàn",
+        "startTime": 106.116,
+        "endTime": 106.617,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 106.617,
+        "endTime": 106.997,
+        "gloss": "very"
+      },
+      {
+        "word": "麻烦",
+        "pinyin": "má fán",
+        "startTime": 106.997,
+        "endTime": 107.599,
+        "gloss": "troublesome"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 107.599,
+        "endTime": 107.719,
+        "gloss": "of"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 107.719,
+        "endTime": 108.28,
+        "gloss": "task"
+      }
+    ],
+    "fullTextEN": "drinking water is a very troublesome task."
+  },
+  {
+    "startTime": 108.666,
+    "endTime": 112.566,
+    "fullTextZH": "他们需要到结冰的河旁边，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 108.726,
+        "endTime": 109.169,
+        "gloss": "they"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 109.169,
+        "endTime": 109.591,
+        "gloss": "need"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 109.591,
+        "endTime": 110.134,
+        "gloss": "to"
+      },
+      {
+        "word": "结冰",
+        "pinyin": "jié bīng",
+        "startTime": 110.134,
+        "endTime": 111.058,
+        "gloss": "frozen"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.058,
+        "endTime": 111.3,
+        "gloss": "of"
+      },
+      {
+        "word": "河",
+        "pinyin": "hé",
+        "startTime": 111.3,
+        "endTime": 111.681,
+        "gloss": "river"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 111.681,
+        "endTime": 112.526,
+        "gloss": "side"
+      }
+    ],
+    "fullTextEN": "They need to go to the frozen riverbank,"
+  },
+  {
+    "startTime": 112.566,
+    "endTime": 116.533,
+    "fullTextZH": "用斧头把冰块切下来，",
+    "words": [
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 112.626,
+        "endTime": 113.067,
+        "gloss": "use"
+      },
+      {
+        "word": "斧头",
+        "pinyin": "fǔ tóu",
+        "startTime": 113.067,
+        "endTime": 114.029,
+        "gloss": "axe"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 114.029,
+        "endTime": 114.449,
+        "gloss": "BA"
+      },
+      {
+        "word": "冰块",
+        "pinyin": "bīng kuài",
+        "startTime": 114.449,
+        "endTime": 115.411,
+        "gloss": "ice block"
+      },
+      {
+        "word": "切下来",
+        "pinyin": "qiè xià lái",
+        "startTime": 115.411,
+        "endTime": 116.493,
+        "gloss": "cut down"
+      }
+    ],
+    "fullTextEN": "Use an axe to cut down the ice blocks,"
+  },
+  {
+    "startTime": 116.933,
+    "endTime": 119.466,
+    "fullTextZH": "然后呢，再把冰块带回家，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 117.013,
+        "endTime": 117.436,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 117.436,
+        "endTime": 117.576,
+        "gloss": "particle"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 117.737,
+        "endTime": 117.938,
+        "gloss": "again"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 117.938,
+        "endTime": 118.139,
+        "gloss": "BA"
+      },
+      {
+        "word": "冰块",
+        "pinyin": "bīng kuài",
+        "startTime": 118.139,
+        "endTime": 118.642,
+        "gloss": "ice block"
+      },
+      {
+        "word": "带回家",
+        "pinyin": "dài huí jiā",
+        "startTime": 118.642,
+        "endTime": 119.426,
+        "gloss": "take home"
+      }
+    ],
+    "fullTextEN": "Then, take the ice blocks back home,"
+  },
+  {
+    "startTime": 119.466,
+    "endTime": 123.9,
+    "fullTextZH": "放在家里，慢慢的等冰块融化，",
+    "words": [
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 119.586,
+        "endTime": 120.048,
+        "gloss": "put at"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 120.048,
+        "endTime": 120.489,
+        "gloss": "home"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 121.011,
+        "endTime": 121.753,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 121.753,
+        "endTime": 122.054,
+        "gloss": "particle"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 122.054,
+        "endTime": 122.455,
+        "gloss": "wait"
+      },
+      {
+        "word": "冰块",
+        "pinyin": "bīng kuài",
+        "startTime": 122.455,
+        "endTime": 123.138,
+        "gloss": "ice block"
+      },
+      {
+        "word": "融化",
+        "pinyin": "róng huà",
+        "startTime": 123.138,
+        "endTime": 123.86,
+        "gloss": "melt"
+      }
+    ],
+    "fullTextEN": "Put them at home and slowly wait for the ice blocks to melt,"
+  },
+  {
+    "startTime": 123.933,
+    "endTime": 125.666,
+    "fullTextZH": "才有水喝。",
+    "words": [
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 124.195,
+        "endTime": 124.477,
+        "gloss": "only"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 124.477,
+        "endTime": 124.86,
+        "gloss": "have"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 124.86,
+        "endTime": 125.182,
+        "gloss": "water"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 125.182,
+        "endTime": 125.626,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "only then can you have water to drink."
+  },
+  {
+    "startTime": 125.866,
+    "endTime": 127.166,
+    "fullTextZH": "不像我们啊，",
+    "words": [
+      {
+        "word": "不像",
+        "pinyin": "bù xiàng",
+        "startTime": 125.927,
+        "endTime": 126.353,
+        "gloss": "unlike"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 126.353,
+        "endTime": 126.8,
+        "gloss": "us"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 126.8,
+        "endTime": 127.125,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Unlike us,"
+  },
+  {
+    "startTime": 127.166,
+    "endTime": 132.066,
+    "fullTextZH": "在家里打开水龙头，就有水可以喝。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 127.266,
+        "endTime": 127.467,
+        "gloss": "at"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 127.467,
+        "endTime": 128.19,
+        "gloss": "home"
+      },
+      {
+        "word": "打开",
+        "pinyin": "dǎ kāi",
+        "startTime": 128.19,
+        "endTime": 129.174,
+        "gloss": "turn on"
+      },
+      {
+        "word": "水龙头",
+        "pinyin": "shuǐ lóng tóu",
+        "startTime": 129.174,
+        "endTime": 130.158,
+        "gloss": "tap"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 130.279,
+        "endTime": 130.339,
+        "gloss": "then"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 130.339,
+        "endTime": 130.66,
+        "gloss": "have"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 130.66,
+        "endTime": 131.042,
+        "gloss": "water"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 131.042,
+        "endTime": 131.464,
+        "gloss": "can"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 131.464,
+        "endTime": 132.026,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "at home, just turn on the tap and there's water to drink."
+  },
+  {
+    "startTime": 132.733,
+    "endTime": 135.166,
+    "fullTextZH": "因为这里真的太冷了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 132.793,
+        "endTime": 133.195,
+        "gloss": "because"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 133.195,
+        "endTime": 133.618,
+        "gloss": "here"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 133.618,
+        "endTime": 134.06,
+        "gloss": "really"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 134.06,
+        "endTime": 134.804,
+        "gloss": "too cold"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 134.804,
+        "endTime": 135.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Because it's really too cold here,"
+  },
+  {
+    "startTime": 135.166,
+    "endTime": 139.533,
+    "fullTextZH": "所以要种水果、蔬菜非常的难。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 135.386,
+        "endTime": 135.827,
+        "gloss": "so"
+      },
+      {
+        "word": "要种",
+        "pinyin": "yào zhǒng",
+        "startTime": 135.827,
+        "endTime": 136.749,
+        "gloss": "to grow"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 136.749,
+        "endTime": 137.149,
+        "gloss": "fruit"
+      },
+      {
+        "word": "蔬菜",
+        "pinyin": "shū cài",
+        "startTime": 137.45,
+        "endTime": 138.231,
+        "gloss": "vegetable"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 138.231,
+        "endTime": 138.772,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 138.772,
+        "endTime": 138.972,
+        "gloss": "particle"
+      },
+      {
+        "word": "难",
+        "pinyin": "nán",
+        "startTime": 138.972,
+        "endTime": 139.493,
+        "gloss": "difficult"
+      }
+    ],
+    "fullTextEN": "it's very difficult to grow fruits and vegetables."
+  },
+  {
+    "startTime": 139.533,
+    "endTime": 142.266,
+    "fullTextZH": "在夏天比较热的时候，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 139.633,
+        "endTime": 139.935,
+        "gloss": "at"
+      },
+      {
+        "word": "夏天",
+        "pinyin": "xià tiān",
+        "startTime": 139.935,
+        "endTime": 140.719,
+        "gloss": "summer"
+      },
+      {
+        "word": "比较",
+        "pinyin": "bǐ jiào",
+        "startTime": 140.719,
+        "endTime": 141.301,
+        "gloss": "relatively"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 141.301,
+        "endTime": 141.603,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 141.603,
+        "endTime": 141.824,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 141.824,
+        "endTime": 142.226,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "During the hotter times in summer,"
+  },
+  {
+    "startTime": 142.333,
+    "endTime": 144.966,
+    "fullTextZH": "他们会把一些食物放盐、",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 142.393,
+        "endTime": 142.775,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 142.775,
+        "endTime": 142.996,
+        "gloss": "will"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 142.996,
+        "endTime": 143.217,
+        "gloss": "BA"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 143.217,
+        "endTime": 143.68,
+        "gloss": "some"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 143.68,
+        "endTime": 144.142,
+        "gloss": "food"
+      },
+      {
+        "word": "放盐",
+        "pinyin": "fàng yán",
+        "startTime": 144.142,
+        "endTime": 144.926,
+        "gloss": "salt"
+      }
+    ],
+    "fullTextEN": "they will salt some food,"
+  },
+  {
+    "startTime": 144.966,
+    "endTime": 148.233,
+    "fullTextZH": "和糖，所以可以放得比较久。",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 144.986,
+        "endTime": 145.347,
+        "gloss": "and"
+      },
+      {
+        "word": "糖",
+        "pinyin": "táng",
+        "startTime": 145.347,
+        "endTime": 145.607,
+        "gloss": "sugar"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 146.068,
+        "endTime": 146.429,
+        "gloss": "so"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 146.429,
+        "endTime": 146.79,
+        "gloss": "can"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 146.79,
+        "endTime": 147.01,
+        "gloss": "store"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 147.01,
+        "endTime": 147.251,
+        "gloss": "particle"
+      },
+      {
+        "word": "比较",
+        "pinyin": "bǐ jiào",
+        "startTime": 147.251,
+        "endTime": 147.672,
+        "gloss": "relatively"
+      },
+      {
+        "word": "久",
+        "pinyin": "jiǔ",
+        "startTime": 147.672,
+        "endTime": 148.193,
+        "gloss": "long"
+      }
+    ],
+    "fullTextEN": "and add sugar, so it can be stored longer."
+  },
+  {
+    "startTime": 148.266,
+    "endTime": 150.0,
+    "fullTextZH": "然后在冬天的时候，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 148.367,
+        "endTime": 148.689,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 148.689,
+        "endTime": 148.952,
+        "gloss": "in"
+      },
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 148.952,
+        "endTime": 149.496,
+        "gloss": "winter"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 149.496,
+        "endTime": 149.677,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 149.677,
+        "endTime": 149.96,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Then during winter,"
+  },
+  {
+    "startTime": 150.0,
+    "endTime": 152.433,
+    "fullTextZH": "他们再吃这些食物。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 150.02,
+        "endTime": 150.402,
+        "gloss": "they"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 150.402,
+        "endTime": 150.764,
+        "gloss": "again"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 150.764,
+        "endTime": 151.146,
+        "gloss": "eat"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 151.146,
+        "endTime": 151.709,
+        "gloss": "these"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 151.709,
+        "endTime": 152.393,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "they eat this food."
+  },
+  {
+    "startTime": 152.833,
+    "endTime": 155.166,
+    "fullTextZH": "还有啊，在这个地方啊，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 152.913,
+        "endTime": 153.356,
+        "gloss": "also"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 153.356,
+        "endTime": 153.738,
+        "gloss": "particle"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 153.879,
+        "endTime": 154.0,
+        "gloss": "in"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 154.0,
+        "endTime": 154.321,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 154.321,
+        "endTime": 154.804,
+        "gloss": "place"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 154.804,
+        "endTime": 155.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Also, in this place,"
+  },
+  {
+    "startTime": 155.166,
+    "endTime": 156.366,
+    "fullTextZH": "开车的时候，",
+    "words": [
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 155.41,
+        "endTime": 155.858,
+        "gloss": "drive"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 155.858,
+        "endTime": 156.041,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 156.041,
+        "endTime": 156.325,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "when driving,"
+  },
+  {
+    "startTime": 156.366,
+    "endTime": 159.633,
+    "fullTextZH": "你一定不可以熄火。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 156.446,
+        "endTime": 156.687,
+        "gloss": "you"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 156.687,
+        "endTime": 157.488,
+        "gloss": "must"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 157.488,
+        "endTime": 157.749,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 157.749,
+        "endTime": 158.651,
+        "gloss": "can"
+      },
+      {
+        "word": "熄火",
+        "pinyin": "xī huǒ",
+        "startTime": 158.651,
+        "endTime": 159.593,
+        "gloss": "turn off"
+      }
+    ],
+    "fullTextEN": "you must not turn off the engine."
+  },
+  {
+    "startTime": 159.733,
+    "endTime": 160.9,
+    "fullTextZH": "为什么呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 159.813,
+        "endTime": 160.296,
+        "gloss": "why"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 160.296,
+        "endTime": 160.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 161.1,
+    "endTime": 167.666,
+    "fullTextZH": "因为啊，如果你熄火，车里面的水就会结冰。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 161.44,
+        "endTime": 162.021,
+        "gloss": "because"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 162.021,
+        "endTime": 162.381,
+        "gloss": "particle"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 162.521,
+        "endTime": 162.822,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 162.822,
+        "endTime": 163.182,
+        "gloss": "you"
+      },
+      {
+        "word": "熄火",
+        "pinyin": "xī huǒ",
+        "startTime": 163.182,
+        "endTime": 163.822,
+        "gloss": "turn off"
+      },
+      {
+        "word": "车",
+        "pinyin": "chē",
+        "startTime": 164.423,
+        "endTime": 164.683,
+        "gloss": "car"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 164.683,
+        "endTime": 165.104,
+        "gloss": "inside"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 165.104,
+        "endTime": 165.464,
+        "gloss": "particle"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 165.464,
+        "endTime": 165.844,
+        "gloss": "water"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 165.844,
+        "endTime": 166.004,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 166.004,
+        "endTime": 166.585,
+        "gloss": "will"
+      },
+      {
+        "word": "结冰",
+        "pinyin": "jié bīng",
+        "startTime": 166.585,
+        "endTime": 167.626,
+        "gloss": "freeze"
+      }
+    ],
+    "fullTextEN": "Because if you turn off the engine, the water inside the car will freeze."
+  },
+  {
+    "startTime": 167.666,
+    "endTime": 168.7,
+    "fullTextZH": "结冰了以后，",
+    "words": [
+      {
+        "word": "结冰",
+        "pinyin": "jié bīng",
+        "startTime": 167.747,
+        "endTime": 168.193,
+        "gloss": "freeze"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 168.193,
+        "endTime": 168.376,
+        "gloss": "particle"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 168.376,
+        "endTime": 168.659,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After it freezes,"
+  },
+  {
+    "startTime": 168.833,
+    "endTime": 171.766,
+    "fullTextZH": "你就不能继续开车。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 168.913,
+        "endTime": 169.054,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 169.054,
+        "endTime": 169.295,
+        "gloss": "then"
+      },
+      {
+        "word": "不能",
+        "pinyin": "bù néng",
+        "startTime": 169.295,
+        "endTime": 169.918,
+        "gloss": "cannot"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 169.918,
+        "endTime": 170.762,
+        "gloss": "continue"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 170.762,
+        "endTime": 171.726,
+        "gloss": "drive"
+      }
+    ],
+    "fullTextEN": "you can't continue driving."
+  },
+  {
+    "startTime": 172.5,
+    "endTime": 174.0,
+    "fullTextZH": "所以因为这样啊，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 172.642,
+        "endTime": 172.926,
+        "gloss": "so"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 172.926,
+        "endTime": 173.392,
+        "gloss": "because"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 173.392,
+        "endTime": 173.818,
+        "gloss": "this"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 173.818,
+        "endTime": 173.959,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "So because of this,"
+  },
+  {
+    "startTime": 174.0,
+    "endTime": 176.0,
+    "fullTextZH": "你可能常常会看到",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 174.081,
+        "endTime": 174.263,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 174.263,
+        "endTime": 174.707,
+        "gloss": "might"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 174.707,
+        "endTime": 175.253,
+        "gloss": "often"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 175.253,
+        "endTime": 175.475,
+        "gloss": "will"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 175.475,
+        "endTime": 175.818,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "You might often see"
+  },
+  {
+    "startTime": 176.0,
+    "endTime": 178.8,
+    "fullTextZH": "马路上有发动的车子，",
+    "words": [
+      {
+        "word": "马路上",
+        "pinyin": "mǎ lù shàng",
+        "startTime": 176.06,
+        "endTime": 176.866,
+        "gloss": "on the road"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 176.866,
+        "endTime": 177.249,
+        "gloss": "have"
+      },
+      {
+        "word": "发动",
+        "pinyin": "fā dòng",
+        "startTime": 177.249,
+        "endTime": 177.833,
+        "gloss": "running"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 177.833,
+        "endTime": 178.155,
+        "gloss": "of"
+      },
+      {
+        "word": "车子",
+        "pinyin": "chē zi",
+        "startTime": 178.155,
+        "endTime": 178.76,
+        "gloss": "cars"
+      }
+    ],
+    "fullTextEN": "Cars running on the road,"
+  },
+  {
+    "startTime": 178.8,
+    "endTime": 181.366,
+    "fullTextZH": "可是里面啊没有人。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 178.88,
+        "endTime": 179.201,
+        "gloss": "but"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 179.201,
+        "endTime": 179.782,
+        "gloss": "inside"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 179.782,
+        "endTime": 180.283,
+        "gloss": "ah"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 180.283,
+        "endTime": 180.785,
+        "gloss": "no"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 180.785,
+        "endTime": 181.326,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "but no one inside."
+  },
+  {
+    "startTime": 182.2,
+    "endTime": 183.9,
+    "fullTextZH": "所以啊在这里，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 182.423,
+        "endTime": 182.767,
+        "gloss": "so"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 182.767,
+        "endTime": 183.03,
+        "gloss": "ah"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 183.03,
+        "endTime": 183.273,
+        "gloss": "at"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 183.273,
+        "endTime": 183.86,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "So here,"
+  },
+  {
+    "startTime": 183.9,
+    "endTime": 187.366,
+    "fullTextZH": "人们都会用一种特别的停车库。",
+    "words": [
+      {
+        "word": "人们",
+        "pinyin": "rén men",
+        "startTime": 183.96,
+        "endTime": 184.381,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 184.381,
+        "endTime": 184.561,
+        "gloss": "all"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 184.561,
+        "endTime": 184.741,
+        "gloss": "will"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 184.741,
+        "endTime": 184.922,
+        "gloss": "use"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 184.922,
+        "endTime": 185.523,
+        "gloss": "a kind"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 185.523,
+        "endTime": 186.144,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 186.144,
+        "endTime": 186.364,
+        "gloss": "of"
+      },
+      {
+        "word": "停车库",
+        "pinyin": "tíng chē kù",
+        "startTime": 186.364,
+        "endTime": 187.326,
+        "gloss": "parking garage"
+      }
+    ],
+    "fullTextEN": "People use a special parking garage."
+  },
+  {
+    "startTime": 187.366,
+    "endTime": 188.566,
+    "fullTextZH": "这是什么呢？",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 187.427,
+        "endTime": 187.752,
+        "gloss": "this is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 187.752,
+        "endTime": 188.119,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 188.119,
+        "endTime": 188.525,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What is this?"
+  },
+  {
+    "startTime": 188.7,
+    "endTime": 190.7,
+    "fullTextZH": "没错，就像照片这样，",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 188.74,
+        "endTime": 189.023,
+        "gloss": "correct"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 189.124,
+        "endTime": 189.286,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 189.286,
+        "endTime": 189.67,
+        "gloss": "like"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 189.67,
+        "endTime": 190.195,
+        "gloss": "photo"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 190.195,
+        "endTime": 190.66,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "That's right, just like the photo,"
+  },
+  {
+    "startTime": 190.9,
+    "endTime": 193.633,
+    "fullTextZH": "他们会把车子穿外套。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 191.0,
+        "endTime": 191.362,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 191.362,
+        "endTime": 191.543,
+        "gloss": "will"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 191.543,
+        "endTime": 191.844,
+        "gloss": "put"
+      },
+      {
+        "word": "车子",
+        "pinyin": "chē zi",
+        "startTime": 191.844,
+        "endTime": 192.568,
+        "gloss": "car"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 192.568,
+        "endTime": 192.889,
+        "gloss": "wear"
+      },
+      {
+        "word": "外套",
+        "pinyin": "wài tào",
+        "startTime": 192.889,
+        "endTime": 193.593,
+        "gloss": "coat"
+      }
+    ],
+    "fullTextEN": "They put a coat on the car."
+  },
+  {
+    "startTime": 193.733,
+    "endTime": 196.766,
+    "fullTextZH": "这样呢，车子就不会太冷。",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 193.833,
+        "endTime": 194.195,
+        "gloss": "this way"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 194.195,
+        "endTime": 194.376,
+        "gloss": "ne"
+      },
+      {
+        "word": "车子",
+        "pinyin": "chē zi",
+        "startTime": 194.577,
+        "endTime": 194.978,
+        "gloss": "car"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 194.978,
+        "endTime": 195.219,
+        "gloss": "then"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 195.219,
+        "endTime": 195.822,
+        "gloss": "won't"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 195.822,
+        "endTime": 196.726,
+        "gloss": "too cold"
+      }
+    ],
+    "fullTextEN": "This way, the car won't be too cold."
+  },
+  {
+    "startTime": 197.4,
+    "endTime": 199.233,
+    "fullTextZH": "除了车子以外，",
+    "words": [
+      {
+        "word": "除了",
+        "pinyin": "chú le",
+        "startTime": 197.622,
+        "endTime": 198.226,
+        "gloss": "besides"
+      },
+      {
+        "word": "车子",
+        "pinyin": "chē zi",
+        "startTime": 198.226,
+        "endTime": 198.568,
+        "gloss": "car"
+      },
+      {
+        "word": "以外",
+        "pinyin": "yǐ wài",
+        "startTime": 198.568,
+        "endTime": 199.193,
+        "gloss": "except"
+      }
+    ],
+    "fullTextEN": "Besides the car,"
+  },
+  {
+    "startTime": 199.233,
+    "endTime": 202.633,
+    "fullTextZH": "如果你想在外面用你的手机，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 199.334,
+        "endTime": 199.937,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 199.937,
+        "endTime": 200.098,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 200.098,
+        "endTime": 200.36,
+        "gloss": "want"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 200.36,
+        "endTime": 200.621,
+        "gloss": "at"
+      },
+      {
+        "word": "外面",
+        "pinyin": "wài miàn",
+        "startTime": 200.621,
+        "endTime": 201.104,
+        "gloss": "outside"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 201.104,
+        "endTime": 201.345,
+        "gloss": "use"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 201.345,
+        "endTime": 201.506,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 201.506,
+        "endTime": 201.788,
+        "gloss": "of"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 201.788,
+        "endTime": 202.613,
+        "gloss": "phone"
+      }
+    ],
+    "fullTextEN": "If you want to use your phone outside,"
+  },
+  {
+    "startTime": 202.7,
+    "endTime": 206.6,
+    "fullTextZH": "那么你可能需要在30秒以内用完，",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 202.801,
+        "endTime": 203.182,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 203.182,
+        "endTime": 203.343,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 203.343,
+        "endTime": 203.786,
+        "gloss": "might"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 203.786,
+        "endTime": 204.147,
+        "gloss": "need"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 204.147,
+        "endTime": 204.73,
+        "gloss": "in"
+      },
+      {
+        "word": "秒",
+        "pinyin": "miǎo",
+        "startTime": 205.354,
+        "endTime": 205.595,
+        "gloss": "seconds"
+      },
+      {
+        "word": "以内",
+        "pinyin": "yǐ nèi",
+        "startTime": 205.595,
+        "endTime": 205.916,
+        "gloss": "within"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 205.916,
+        "endTime": 206.158,
+        "gloss": "use"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 206.158,
+        "endTime": 206.56,
+        "gloss": "finish"
+      }
+    ],
+    "fullTextEN": "then you might need to finish in 30 seconds,"
+  },
+  {
+    "startTime": 206.9,
+    "endTime": 210.6,
+    "fullTextZH": "因为iPhone手机会因为太冷，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 206.98,
+        "endTime": 207.342,
+        "gloss": "because"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 208.287,
+        "endTime": 209.172,
+        "gloss": "phone"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 209.172,
+        "endTime": 209.393,
+        "gloss": "will"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 209.393,
+        "endTime": 209.896,
+        "gloss": "because"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 209.896,
+        "endTime": 210.56,
+        "gloss": "too cold"
+      }
+    ],
+    "fullTextEN": "because iPhones will shut down due to the cold,"
+  },
+  {
+    "startTime": 210.6,
+    "endTime": 213.533,
+    "fullTextZH": "30秒以后就会关机。",
+    "words": [
+      {
+        "word": "秒",
+        "pinyin": "miǎo",
+        "startTime": 211.363,
+        "endTime": 211.625,
+        "gloss": "seconds"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 211.625,
+        "endTime": 212.066,
+        "gloss": "after"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 212.066,
+        "endTime": 212.267,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 212.267,
+        "endTime": 212.629,
+        "gloss": "will"
+      },
+      {
+        "word": "关机",
+        "pinyin": "guān jī",
+        "startTime": 212.629,
+        "endTime": 213.493,
+        "gloss": "turn off"
+      }
+    ],
+    "fullTextEN": "after 30 seconds they will turn off."
+  },
+  {
+    "startTime": 214.366,
+    "endTime": 216.733,
+    "fullTextZH": "那么在这么冷的地方，",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 214.446,
+        "endTime": 214.807,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 214.807,
+        "endTime": 215.148,
+        "gloss": "in"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 215.148,
+        "endTime": 215.63,
+        "gloss": "such"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 215.63,
+        "endTime": 215.951,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 215.951,
+        "endTime": 216.091,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 216.091,
+        "endTime": 216.693,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "So in such a cold place,"
+  },
+  {
+    "startTime": 216.733,
+    "endTime": 219.833,
+    "fullTextZH": "孩子们需要去学校吗？",
+    "words": [
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 216.954,
+        "endTime": 217.458,
+        "gloss": "child"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 217.458,
+        "endTime": 217.78,
+        "gloss": "plural"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 217.78,
+        "endTime": 218.263,
+        "gloss": "need"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 218.263,
+        "endTime": 218.545,
+        "gloss": "go"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 218.545,
+        "endTime": 219.149,
+        "gloss": "school"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 219.149,
+        "endTime": 219.793,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do children need to go to school?"
+  },
+  {
+    "startTime": 220.2,
+    "endTime": 221.233,
+    "fullTextZH": "当然，",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 220.362,
+        "endTime": 221.192,
+        "gloss": "of course"
+      }
+    ],
+    "fullTextEN": "Of course,"
+  },
+  {
+    "startTime": 221.466,
+    "endTime": 222.5,
+    "fullTextZH": "在那里啊，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 221.547,
+        "endTime": 221.811,
+        "gloss": "at"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 221.811,
+        "endTime": 222.236,
+        "gloss": "there"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 222.236,
+        "endTime": 222.459,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "There,"
+  },
+  {
+    "startTime": 222.5,
+    "endTime": 227.7,
+    "fullTextZH": "如果天气是零下54度以上，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 222.58,
+        "endTime": 223.042,
+        "gloss": "if"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 223.042,
+        "endTime": 223.805,
+        "gloss": "weather"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 223.805,
+        "endTime": 224.307,
+        "gloss": "is"
+      },
+      {
+        "word": "零下",
+        "pinyin": "líng xià",
+        "startTime": 224.307,
+        "endTime": 225.331,
+        "gloss": "below"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 226.295,
+        "endTime": 226.736,
+        "gloss": "degrees"
+      },
+      {
+        "word": "以上",
+        "pinyin": "yǐ shàng",
+        "startTime": 226.736,
+        "endTime": 227.66,
+        "gloss": "above"
+      }
+    ],
+    "fullTextEN": "if the temperature is below minus 54 degrees,"
+  },
+  {
+    "startTime": 227.7,
+    "endTime": 231.7,
+    "fullTextZH": "那么啊，孩子们就需要去学校；",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 227.841,
+        "endTime": 228.223,
+        "gloss": "so"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 228.223,
+        "endTime": 228.243,
+        "gloss": "ah"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 228.685,
+        "endTime": 229.147,
+        "gloss": "child"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 229.147,
+        "endTime": 229.469,
+        "gloss": "plural"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 229.469,
+        "endTime": 229.831,
+        "gloss": "then"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 229.831,
+        "endTime": 230.534,
+        "gloss": "need"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 230.534,
+        "endTime": 230.936,
+        "gloss": "go"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 230.936,
+        "endTime": 231.66,
+        "gloss": "school"
+      }
+    ],
+    "fullTextEN": "So, the children need to go to school;"
+  },
+  {
+    "startTime": 231.966,
+    "endTime": 235.966,
+    "fullTextZH": "可是啊，如果比零下55度冷，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 232.046,
+        "endTime": 232.388,
+        "gloss": "but"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 232.388,
+        "endTime": 232.569,
+        "gloss": "ah"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 232.69,
+        "endTime": 233.072,
+        "gloss": "if"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 233.072,
+        "endTime": 233.373,
+        "gloss": "than"
+      },
+      {
+        "word": "零下",
+        "pinyin": "líng xià",
+        "startTime": 233.373,
+        "endTime": 234.157,
+        "gloss": "minus"
+      },
+      {
+        "word": "度",
+        "pinyin": "dù",
+        "startTime": 234.881,
+        "endTime": 235.222,
+        "gloss": "degree"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 235.222,
+        "endTime": 235.926,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "But, if it's colder than minus 55 degrees,"
+  },
+  {
+    "startTime": 235.966,
+    "endTime": 239.633,
+    "fullTextZH": "那么孩子们就不需要去学校，",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 236.186,
+        "endTime": 236.367,
+        "gloss": "then"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 236.367,
+        "endTime": 236.948,
+        "gloss": "child"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 236.948,
+        "endTime": 237.289,
+        "gloss": "plural"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 237.289,
+        "endTime": 237.609,
+        "gloss": "then"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 237.609,
+        "endTime": 237.95,
+        "gloss": "not"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 237.95,
+        "endTime": 238.631,
+        "gloss": "need"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 238.631,
+        "endTime": 238.972,
+        "gloss": "go"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 238.972,
+        "endTime": 239.593,
+        "gloss": "school"
+      }
+    ],
+    "fullTextEN": "Then the children don't need to go to school,"
+  },
+  {
+    "startTime": 239.7,
+    "endTime": 241.7,
+    "fullTextZH": "因为太危险了。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 239.74,
+        "endTime": 240.326,
+        "gloss": "because"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 240.326,
+        "endTime": 240.751,
+        "gloss": "too"
+      },
+      {
+        "word": "危险",
+        "pinyin": "wēi xiǎn",
+        "startTime": 240.751,
+        "endTime": 241.336,
+        "gloss": "dangerous"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 241.336,
+        "endTime": 241.66,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "because it's too dangerous."
+  },
+  {
+    "startTime": 242.333,
+    "endTime": 243.933,
+    "fullTextZH": "这里的孩子们啊，",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 242.414,
+        "endTime": 242.738,
+        "gloss": "here"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 242.738,
+        "endTime": 242.86,
+        "gloss": "of"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 242.86,
+        "endTime": 243.386,
+        "gloss": "child"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 243.386,
+        "endTime": 243.589,
+        "gloss": "plural"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 243.589,
+        "endTime": 243.892,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "The children here,"
+  },
+  {
+    "startTime": 243.933,
+    "endTime": 246.4,
+    "fullTextZH": "他们都知道，出门的时候",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 243.973,
+        "endTime": 244.334,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 244.334,
+        "endTime": 244.555,
+        "gloss": "all"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 244.555,
+        "endTime": 244.996,
+        "gloss": "know"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 245.317,
+        "endTime": 245.838,
+        "gloss": "go out"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 245.838,
+        "endTime": 245.999,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 245.999,
+        "endTime": 246.219,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "They all know, when going out"
+  },
+  {
+    "startTime": 246.4,
+    "endTime": 248.9,
+    "fullTextZH": "应该穿怎么样的衣服，",
+    "words": [
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 246.481,
+        "endTime": 246.985,
+        "gloss": "should"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 246.985,
+        "endTime": 247.61,
+        "gloss": "wear"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 247.61,
+        "endTime": 248.215,
+        "gloss": "what kind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 248.215,
+        "endTime": 248.376,
+        "gloss": "de"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 248.376,
+        "endTime": 248.86,
+        "gloss": "clothes"
+      }
+    ],
+    "fullTextEN": "what kind of clothes they should wear,"
+  },
+  {
+    "startTime": 249.066,
+    "endTime": 252.133,
+    "fullTextZH": "因为天气真的太冷了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 249.387,
+        "endTime": 249.788,
+        "gloss": "because"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 249.788,
+        "endTime": 250.61,
+        "gloss": "weather"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 250.61,
+        "endTime": 251.111,
+        "gloss": "really"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 251.111,
+        "endTime": 251.792,
+        "gloss": "too cold"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 251.792,
+        "endTime": 252.093,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "because the weather is really too cold,"
+  },
+  {
+    "startTime": 252.133,
+    "endTime": 254.266,
+    "fullTextZH": "所以他们出门的时候",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 252.314,
+        "endTime": 252.596,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 252.596,
+        "endTime": 253.079,
+        "gloss": "they"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 253.079,
+        "endTime": 253.521,
+        "gloss": "go out"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 253.521,
+        "endTime": 253.703,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 253.703,
+        "endTime": 253.924,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "so when they go out"
+  },
+  {
+    "startTime": 254.266,
+    "endTime": 258.233,
+    "fullTextZH": "都会穿很多层的衣服，",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 254.326,
+        "endTime": 254.486,
+        "gloss": "all"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 254.486,
+        "endTime": 254.747,
+        "gloss": "will"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 254.747,
+        "endTime": 255.468,
+        "gloss": "wear"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 255.468,
+        "endTime": 256.69,
+        "gloss": "many"
+      },
+      {
+        "word": "层",
+        "pinyin": "céng",
+        "startTime": 256.69,
+        "endTime": 257.031,
+        "gloss": "layers"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 257.031,
+        "endTime": 257.251,
+        "gloss": "de"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 257.251,
+        "endTime": 258.193,
+        "gloss": "clothes"
+      }
+    ],
+    "fullTextEN": "they all wear many layers of clothes,"
+  },
+  {
+    "startTime": 258.766,
+    "endTime": 264.166,
+    "fullTextZH": "然后戴手套、帽子和围巾。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 258.886,
+        "endTime": 259.449,
+        "gloss": "then"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 259.449,
+        "endTime": 259.85,
+        "gloss": "wear"
+      },
+      {
+        "word": "手套",
+        "pinyin": "shǒu tào",
+        "startTime": 259.85,
+        "endTime": 261.054,
+        "gloss": "gloves"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 261.396,
+        "endTime": 262.46,
+        "gloss": "hats"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 262.46,
+        "endTime": 262.901,
+        "gloss": "and"
+      },
+      {
+        "word": "围巾",
+        "pinyin": "wéi jīn",
+        "startTime": 262.901,
+        "endTime": 264.126,
+        "gloss": "scarves"
+      }
+    ],
+    "fullTextEN": "and then wear gloves, hats, and scarves."
+  },
+  {
+    "startTime": 265.066,
+    "endTime": 268.666,
+    "fullTextZH": "因为如果你不穿这么多衣服，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 265.146,
+        "endTime": 265.589,
+        "gloss": "because"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 265.589,
+        "endTime": 266.293,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 266.293,
+        "endTime": 266.534,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 266.534,
+        "endTime": 266.735,
+        "gloss": "not"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 266.735,
+        "endTime": 267.117,
+        "gloss": "wear"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 267.117,
+        "endTime": 267.62,
+        "gloss": "so"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 267.62,
+        "endTime": 267.922,
+        "gloss": "many"
+      },
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 267.922,
+        "endTime": 268.626,
+        "gloss": "clothes"
+      }
+    ],
+    "fullTextEN": "Because if you don't wear so many clothes,"
+  },
+  {
+    "startTime": 268.666,
+    "endTime": 271.4,
+    "fullTextZH": "可能到外面10分钟，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 268.746,
+        "endTime": 269.048,
+        "gloss": "maybe"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 269.048,
+        "endTime": 269.289,
+        "gloss": "after"
+      },
+      {
+        "word": "外面",
+        "pinyin": "wài miàn",
+        "startTime": 269.289,
+        "endTime": 269.631,
+        "gloss": "outside"
+      },
+      {
+        "word": "分钟",
+        "pinyin": "fēn zhōng",
+        "startTime": 270.556,
+        "endTime": 271.36,
+        "gloss": "minutes"
+      }
+    ],
+    "fullTextEN": "maybe after 10 minutes outside,"
+  },
+  {
+    "startTime": 271.4,
+    "endTime": 275.533,
+    "fullTextZH": "很快你的手和脸就会变成红色，",
+    "words": [
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 271.52,
+        "endTime": 272.182,
+        "gloss": "very quickly"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 272.182,
+        "endTime": 272.323,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 272.323,
+        "endTime": 272.664,
+        "gloss": "de"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 272.664,
+        "endTime": 272.945,
+        "gloss": "hands"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 272.945,
+        "endTime": 273.286,
+        "gloss": "and"
+      },
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 273.286,
+        "endTime": 273.547,
+        "gloss": "face"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 273.547,
+        "endTime": 273.707,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 273.707,
+        "endTime": 273.908,
+        "gloss": "will"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 273.908,
+        "endTime": 274.61,
+        "gloss": "become"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 274.61,
+        "endTime": 275.513,
+        "gloss": "red"
+      }
+    ],
+    "fullTextEN": "very quickly your hands and face will turn red,"
+  },
+  {
+    "startTime": 275.533,
+    "endTime": 277.4,
+    "fullTextZH": "然后变成黑色，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 275.633,
+        "endTime": 275.935,
+        "gloss": "then"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 275.935,
+        "endTime": 276.537,
+        "gloss": "become"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 276.537,
+        "endTime": 277.34,
+        "gloss": "black"
+      }
+    ],
+    "fullTextEN": "then turn black,"
+  },
+  {
+    "startTime": 277.4,
+    "endTime": 281.333,
+    "fullTextZH": "然后慢慢地失去感觉。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 277.44,
+        "endTime": 278.042,
+        "gloss": "then"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 278.042,
+        "endTime": 278.965,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 278.965,
+        "endTime": 279.326,
+        "gloss": "de"
+      },
+      {
+        "word": "失去",
+        "pinyin": "shī qù",
+        "startTime": 279.326,
+        "endTime": 280.249,
+        "gloss": "lose"
+      },
+      {
+        "word": "感觉",
+        "pinyin": "gǎn jué",
+        "startTime": 280.249,
+        "endTime": 281.293,
+        "gloss": "feeling"
+      }
+    ],
+    "fullTextEN": "and then slowly lose feeling."
+  },
+  {
+    "startTime": 282.0,
+    "endTime": 284.033,
+    "fullTextZH": "看完了这个影片啊，",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 282.221,
+        "endTime": 282.463,
+        "gloss": "watch"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 282.463,
+        "endTime": 282.684,
+        "gloss": "finish"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 282.684,
+        "endTime": 282.805,
+        "gloss": "le"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 282.805,
+        "endTime": 283.107,
+        "gloss": "this"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 283.107,
+        "endTime": 283.751,
+        "gloss": "video"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 283.751,
+        "endTime": 283.993,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "After watching this video,"
+  },
+  {
+    "startTime": 284.033,
+    "endTime": 288.866,
+    "fullTextZH": "我就想起去年冬天我在加拿大的经验。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 284.133,
+        "endTime": 284.234,
+        "gloss": "I"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 284.234,
+        "endTime": 284.434,
+        "gloss": "then"
+      },
+      {
+        "word": "想起",
+        "pinyin": "xiǎng qǐ",
+        "startTime": 284.434,
+        "endTime": 285.236,
+        "gloss": "thought of"
+      },
+      {
+        "word": "去年",
+        "pinyin": "qù nián",
+        "startTime": 285.236,
+        "endTime": 286.018,
+        "gloss": "last year"
+      },
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 286.018,
+        "endTime": 286.6,
+        "gloss": "winter"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 286.6,
+        "endTime": 286.8,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 286.8,
+        "endTime": 287.101,
+        "gloss": "in"
+      },
+      {
+        "word": "加拿大",
+        "pinyin": "jiā ná dà",
+        "startTime": 287.101,
+        "endTime": 287.923,
+        "gloss": "Canada"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 287.923,
+        "endTime": 288.144,
+        "gloss": "de"
+      },
+      {
+        "word": "经验",
+        "pinyin": "jīng yàn",
+        "startTime": 288.144,
+        "endTime": 288.846,
+        "gloss": "experience"
+      }
+    ],
+    "fullTextEN": "I thought of my experience in Canada last winter."
+  },
+  {
+    "startTime": 289.133,
+    "endTime": 290.333,
+    "fullTextZH": "那个时候啊，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 289.235,
+        "endTime": 289.56,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 289.56,
+        "endTime": 289.947,
+        "gloss": "time"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 289.947,
+        "endTime": 290.292,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "At that time,"
+  },
+  {
+    "startTime": 290.333,
+    "endTime": 294.533,
+    "fullTextZH": "气温常常是零下20多度，",
+    "words": [
+      {
+        "word": "气温",
+        "pinyin": "qì wēn",
+        "startTime": 290.514,
+        "endTime": 291.097,
+        "gloss": "temperature"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 291.097,
+        "endTime": 291.74,
+        "gloss": "often"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 291.74,
+        "endTime": 292.101,
+        "gloss": "is"
+      },
+      {
+        "word": "零下",
+        "pinyin": "líng xià",
+        "startTime": 292.101,
+        "endTime": 293.026,
+        "gloss": "minus"
+      },
+      {
+        "word": "多度",
+        "pinyin": "duō dù",
+        "startTime": 293.729,
+        "endTime": 294.493,
+        "gloss": "more degrees"
+      }
+    ],
+    "fullTextEN": "the temperature was often more than minus 20 degrees,"
+  },
+  {
+    "startTime": 295.166,
+    "endTime": 298.766,
+    "fullTextZH": "天不到4点就黑了。",
+    "words": [
+      {
+        "word": "天",
+        "pinyin": "tiān",
+        "startTime": 295.327,
+        "endTime": 296.131,
+        "gloss": "sky"
+      },
+      {
+        "word": "不到",
+        "pinyin": "bú dào",
+        "startTime": 296.131,
+        "endTime": 296.896,
+        "gloss": "not yet"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 297.238,
+        "endTime": 297.519,
+        "gloss": "o'clock"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 297.519,
+        "endTime": 297.921,
+        "gloss": "then"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 297.921,
+        "endTime": 298.283,
+        "gloss": "dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 298.283,
+        "endTime": 298.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The sky was dark before 4 o'clock."
+  },
+  {
+    "startTime": 298.966,
+    "endTime": 302.766,
+    "fullTextZH": "每次我要出门买东西的时候，",
+    "words": [
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 299.067,
+        "endTime": 300.072,
+        "gloss": "every time"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 300.072,
+        "endTime": 300.554,
+        "gloss": "I want"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 300.554,
+        "endTime": 301.158,
+        "gloss": "go out"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 301.158,
+        "endTime": 301.54,
+        "gloss": "buy"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 301.54,
+        "endTime": 302.042,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.042,
+        "endTime": 302.243,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 302.243,
+        "endTime": 302.706,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Every time I want to go out to buy things,"
+  },
+  {
+    "startTime": 302.766,
+    "endTime": 306.666,
+    "fullTextZH": "我都要穿很厚很厚的外套。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 302.867,
+        "endTime": 303.007,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 303.007,
+        "endTime": 303.128,
+        "gloss": "always"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 303.128,
+        "endTime": 303.389,
+        "gloss": "have to"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 303.389,
+        "endTime": 303.932,
+        "gloss": "wear"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 303.932,
+        "endTime": 304.334,
+        "gloss": "very"
+      },
+      {
+        "word": "厚",
+        "pinyin": "hòu",
+        "startTime": 304.334,
+        "endTime": 304.716,
+        "gloss": "thick"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 304.716,
+        "endTime": 305.018,
+        "gloss": "very"
+      },
+      {
+        "word": "厚",
+        "pinyin": "hòu",
+        "startTime": 305.018,
+        "endTime": 305.319,
+        "gloss": "thick"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 305.319,
+        "endTime": 305.56,
+        "gloss": "de"
+      },
+      {
+        "word": "外套",
+        "pinyin": "wài tào",
+        "startTime": 305.56,
+        "endTime": 306.324,
+        "gloss": "coat"
+      }
+    ],
+    "fullTextEN": "I have to wear a very thick coat."
+  },
+  {
+    "startTime": 306.966,
+    "endTime": 309.666,
+    "fullTextZH": "虽然是很特别的经验，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 307.268,
+        "endTime": 307.812,
+        "gloss": "although"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 307.812,
+        "endTime": 307.994,
+        "gloss": "is"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 307.994,
+        "endTime": 308.296,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 308.296,
+        "endTime": 308.759,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.759,
+        "endTime": 309.021,
+        "gloss": "de"
+      },
+      {
+        "word": "经验",
+        "pinyin": "jīng yàn",
+        "startTime": 309.021,
+        "endTime": 309.626,
+        "gloss": "experience"
+      }
+    ],
+    "fullTextEN": "Although it's a very special experience,"
+  },
+  {
+    "startTime": 309.666,
+    "endTime": 312.466,
+    "fullTextZH": "但是对于我这个台湾人来说，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 309.767,
+        "endTime": 310.17,
+        "gloss": "but"
+      },
+      {
+        "word": "对于",
+        "pinyin": "duì yú",
+        "startTime": 310.17,
+        "endTime": 310.653,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 310.653,
+        "endTime": 310.854,
+        "gloss": "me"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 310.854,
+        "endTime": 311.177,
+        "gloss": "this"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 311.177,
+        "endTime": 311.962,
+        "gloss": "Taiwanese"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 311.962,
+        "endTime": 312.426,
+        "gloss": "regarding"
+      }
+    ],
+    "fullTextEN": "but for me as a Taiwanese,"
+  },
+  {
+    "startTime": 312.666,
+    "endTime": 314.5,
+    "fullTextZH": "真的是太冷了。",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 312.666,
+        "endTime": 312.908,
+        "gloss": "really"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 312.908,
+        "endTime": 313.15,
+        "gloss": "is"
+      },
+      {
+        "word": "太冷",
+        "pinyin": "tài lěng",
+        "startTime": 313.15,
+        "endTime": 314.117,
+        "gloss": "too cold"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 314.117,
+        "endTime": 314.46,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "it's really too cold."
+  },
+  {
+    "startTime": 314.833,
+    "endTime": 317.733,
+    "fullTextZH": "台湾的夏天虽然很热，",
+    "words": [
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 314.974,
+        "endTime": 315.377,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 315.377,
+        "endTime": 315.518,
+        "gloss": "de"
+      },
+      {
+        "word": "夏天",
+        "pinyin": "xià tiān",
+        "startTime": 315.518,
+        "endTime": 316.263,
+        "gloss": "summer"
+      },
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 316.263,
+        "endTime": 316.887,
+        "gloss": "although"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 316.887,
+        "endTime": 317.29,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 317.29,
+        "endTime": 317.693,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Although Taiwan's summer is very hot,"
+  },
+  {
+    "startTime": 317.9,
+    "endTime": 320.9,
+    "fullTextZH": "但是比起加拿大的冬天，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 318.001,
+        "endTime": 318.544,
+        "gloss": "but"
+      },
+      {
+        "word": "比起",
+        "pinyin": "bǐ qǐ",
+        "startTime": 318.544,
+        "endTime": 319.249,
+        "gloss": "compared to"
+      },
+      {
+        "word": "加拿大",
+        "pinyin": "jiā ná dà",
+        "startTime": 319.249,
+        "endTime": 319.994,
+        "gloss": "Canada"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 319.994,
+        "endTime": 320.236,
+        "gloss": "de"
+      },
+      {
+        "word": "冬天",
+        "pinyin": "dōng tiān",
+        "startTime": 320.236,
+        "endTime": 320.86,
+        "gloss": "winter"
+      }
+    ],
+    "fullTextEN": "but compared to Canada's winter,"
+  },
+  {
+    "startTime": 320.9,
+    "endTime": 324.1,
+    "fullTextZH": "我还是喜欢热的天气。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 321.041,
+        "endTime": 321.262,
+        "gloss": "I"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 321.262,
+        "endTime": 322.087,
+        "gloss": "still"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 322.087,
+        "endTime": 322.792,
+        "gloss": "prefer"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 322.792,
+        "endTime": 323.074,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 323.074,
+        "endTime": 323.214,
+        "gloss": "de"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 323.214,
+        "endTime": 324.06,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "I still prefer hot weather."
+  },
+  {
+    "startTime": 324.466,
+    "endTime": 326.166,
+    "fullTextZH": "因为在热的天气，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 324.527,
+        "endTime": 324.911,
+        "gloss": "because"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 324.911,
+        "endTime": 325.195,
+        "gloss": "in"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 325.195,
+        "endTime": 325.397,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 325.397,
+        "endTime": 325.599,
+        "gloss": "de"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 325.599,
+        "endTime": 326.126,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "Because in hot weather,"
+  },
+  {
+    "startTime": 326.166,
+    "endTime": 328.333,
+    "fullTextZH": "你可以去海边，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 326.246,
+        "endTime": 326.427,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 326.427,
+        "endTime": 326.828,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 326.828,
+        "endTime": 327.069,
+        "gloss": "go"
+      },
+      {
+        "word": "海边",
+        "pinyin": "hǎi biān",
+        "startTime": 327.069,
+        "endTime": 328.293,
+        "gloss": "beach"
+      }
+    ],
+    "fullTextEN": "you can go to the beach,"
+  },
+  {
+    "startTime": 328.333,
+    "endTime": 330.266,
+    "fullTextZH": "你可以晒太阳，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 328.434,
+        "endTime": 328.575,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 328.575,
+        "endTime": 329.038,
+        "gloss": "can"
+      },
+      {
+        "word": "晒太阳",
+        "pinyin": "shài tài yáng",
+        "startTime": 329.038,
+        "endTime": 330.226,
+        "gloss": "sunbathe"
+      }
+    ],
+    "fullTextEN": "you can sunbathe,"
+  },
+  {
+    "startTime": 330.266,
+    "endTime": 333.366,
+    "fullTextZH": "你还可以做很多很多事情。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 330.347,
+        "endTime": 330.467,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 330.467,
+        "endTime": 330.729,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 330.729,
+        "endTime": 330.971,
+        "gloss": "can"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 330.971,
+        "endTime": 331.293,
+        "gloss": "do"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 331.293,
+        "endTime": 332.581,
+        "gloss": "many many"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 332.581,
+        "endTime": 333.326,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "you can also do many things."
+  },
+  {
+    "startTime": 333.733,
+    "endTime": 334.7,
+    "fullTextZH": "那你们呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 334.156,
+        "endTime": 334.418,
+        "gloss": "then"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 334.418,
+        "endTime": 334.579,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 334.579,
+        "endTime": 334.66,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What about you?"
+  },
+  {
+    "startTime": 334.7,
+    "endTime": 337.7,
+    "fullTextZH": "你们喜欢住在冷的国家，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 335.223,
+        "endTime": 335.566,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 335.566,
+        "endTime": 336.009,
+        "gloss": "like"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 336.009,
+        "endTime": 336.25,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 336.25,
+        "endTime": 336.895,
+        "gloss": "in"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 336.895,
+        "endTime": 337.177,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 337.177,
+        "endTime": 337.317,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 337.317,
+        "endTime": 337.66,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "Do you like living in cold countries,"
+  },
+  {
+    "startTime": 337.7,
+    "endTime": 339.933,
+    "fullTextZH": "还是热的国家呢？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 337.901,
+        "endTime": 338.565,
+        "gloss": "or"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 338.565,
+        "endTime": 338.847,
+        "gloss": "hot"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 338.847,
+        "endTime": 338.987,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 338.987,
+        "endTime": 339.37,
+        "gloss": "country"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 339.37,
+        "endTime": 339.893,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "or hot countries?"
+  },
+  {
+    "startTime": 339.933,
+    "endTime": 342.566,
+    "fullTextZH": "欢迎你在下面留言告诉我哦！",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 340.114,
+        "endTime": 340.476,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 340.476,
+        "endTime": 340.616,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 340.616,
+        "endTime": 340.777,
+        "gloss": "at"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 340.777,
+        "endTime": 341.219,
+        "gloss": "below"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 341.219,
+        "endTime": 341.601,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 341.601,
+        "endTime": 341.983,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 341.983,
+        "endTime": 342.184,
+        "gloss": "me"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 342.184,
+        "endTime": 342.526,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment below!"
+  },
+  {
+    "startTime": 342.833,
+    "endTime": 344.566,
+    "fullTextZH": "好啦，这就是今天",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 342.934,
+        "endTime": 343.135,
+        "gloss": "okay"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 343.135,
+        "endTime": 343.357,
+        "gloss": "la"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 343.438,
+        "endTime": 343.579,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 343.579,
+        "endTime": 343.961,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 343.961,
+        "endTime": 344.284,
+        "gloss": "today"
+      }
+    ],
+    "fullTextEN": "Okay, this is today's"
+  },
+  {
+    "startTime": 344.566,
+    "endTime": 348.166,
+    "fullTextZH": "介绍世界上最冷的地方。",
+    "words": [
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 344.626,
+        "endTime": 345.23,
+        "gloss": "introduce"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 345.23,
+        "endTime": 345.712,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 345.712,
+        "endTime": 346.336,
+        "gloss": "on"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 346.336,
+        "endTime": 346.798,
+        "gloss": "most"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 346.798,
+        "endTime": 347.16,
+        "gloss": "cold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 347.16,
+        "endTime": 347.362,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 347.362,
+        "endTime": 348.126,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "introduction to the coldest places in the world."
+  },
+  {
+    "startTime": 348.166,
+    "endTime": 350.8,
+    "fullTextZH": "希望你会喜欢今天的影片。",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 348.327,
+        "endTime": 348.709,
+        "gloss": "hope"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 348.709,
+        "endTime": 348.87,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 348.87,
+        "endTime": 349.111,
+        "gloss": "will"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 349.111,
+        "endTime": 349.594,
+        "gloss": "like"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 349.594,
+        "endTime": 350.016,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.016,
+        "endTime": 350.096,
+        "gloss": "de"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 350.096,
+        "endTime": 350.76,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "I hope you will like today's video."
+  },
+  {
+    "startTime": 350.8,
+    "endTime": 354.433,
+    "fullTextZH": "那我们就下支影片见喽，拜拜！",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 350.86,
+        "endTime": 351.021,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 351.021,
+        "endTime": 351.282,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 351.282,
+        "endTime": 351.543,
+        "gloss": "just"
+      },
+      {
+        "word": "下支",
+        "pinyin": "xià zhī",
+        "startTime": 351.543,
+        "endTime": 352.105,
+        "gloss": "next"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 352.105,
+        "endTime": 352.526,
+        "gloss": "video"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 352.526,
+        "endTime": 352.727,
+        "gloss": "see"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 352.727,
+        "endTime": 353.289,
+        "gloss": "then"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 353.309,
+        "endTime": 354.393,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Then we'll see you in the next video, bye!"
+  }
+]

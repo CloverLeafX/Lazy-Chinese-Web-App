@@ -1,0 +1,4366 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 0.566,
+    "fullTextZH": "哈喽，",
+    "words": [
+      {
+        "word": "哈",
+        "pinyin": "hā",
+        "startTime": 0.061,
+        "endTime": 0.526,
+        "gloss": "ha"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 0.526,
+        "endTime": 0.546,
+        "gloss": "lou"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 0.6,
+    "endTime": 1.6,
+    "fullTextZH": "大家好，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.641,
+        "endTime": 1.029,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.029,
+        "endTime": 1.58,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello everyone,"
+  },
+  {
+    "startTime": 1.666,
+    "endTime": 3.533,
+    "fullTextZH": "我是潇潇，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.867,
+        "endTime": 2.188,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.188,
+        "endTime": 2.469,
+        "gloss": "am"
+      },
+      {
+        "word": "潇潇",
+        "pinyin": "xiāo xiāo",
+        "startTime": 2.469,
+        "endTime": 3.493,
+        "gloss": "Xiaoxiao"
+      }
+    ],
+    "fullTextEN": "I am Xiaoxiao,"
+  },
+  {
+    "startTime": 3.566,
+    "endTime": 7.566,
+    "fullTextZH": "我是中国河南人，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.767,
+        "endTime": 4.089,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 4.089,
+        "endTime": 4.571,
+        "gloss": "am"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 4.571,
+        "endTime": 5.677,
+        "gloss": "China"
+      },
+      {
+        "word": "河南人",
+        "pinyin": "hé nán rén",
+        "startTime": 5.677,
+        "endTime": 7.526,
+        "gloss": "Henan person"
+      }
+    ],
+    "fullTextEN": "I am from Henan, China,"
+  },
+  {
+    "startTime": 7.6,
+    "endTime": 13.566,
+    "fullTextZH": "之前我在上海上学了一段时间，",
+    "words": [
+      {
+        "word": "之前",
+        "pinyin": "zhī qián",
+        "startTime": 7.66,
+        "endTime": 8.641,
+        "gloss": "previously"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 8.641,
+        "endTime": 9.322,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 9.322,
+        "endTime": 9.782,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 9.782,
+        "endTime": 10.923,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "上学",
+        "pinyin": "shàng xué",
+        "startTime": 10.923,
+        "endTime": 11.604,
+        "gloss": "study"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 11.604,
+        "endTime": 12.044,
+        "gloss": "le"
+      },
+      {
+        "word": "一段时间",
+        "pinyin": "yī duàn shí jiān",
+        "startTime": 12.044,
+        "endTime": 13.526,
+        "gloss": "a while"
+      }
+    ],
+    "fullTextEN": "Previously, I studied in Shanghai for a while,"
+  },
+  {
+    "startTime": 13.6,
+    "endTime": 17.466,
+    "fullTextZH": "上学也就是读书，",
+    "words": [
+      {
+        "word": "上学",
+        "pinyin": "shàng xué",
+        "startTime": 13.64,
+        "endTime": 14.862,
+        "gloss": "go to school"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 14.862,
+        "endTime": 15.002,
+        "gloss": "also"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 15.002,
+        "endTime": 15.924,
+        "gloss": "means"
+      },
+      {
+        "word": "读书",
+        "pinyin": "dú shū",
+        "startTime": 15.924,
+        "endTime": 17.426,
+        "gloss": "study"
+      }
+    ],
+    "fullTextEN": "Studying means going to school,"
+  },
+  {
+    "startTime": 17.533,
+    "endTime": 24.566,
+    "fullTextZH": "现在我回到了我的家乡河南工作工作。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 17.573,
+        "endTime": 18.575,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 18.575,
+        "endTime": 19.336,
+        "gloss": "I"
+      },
+      {
+        "word": "回到",
+        "pinyin": "huí dào",
+        "startTime": 19.336,
+        "endTime": 19.897,
+        "gloss": "return"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 19.897,
+        "endTime": 20.418,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 20.418,
+        "endTime": 20.599,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.599,
+        "endTime": 20.739,
+        "gloss": "de"
+      },
+      {
+        "word": "家乡",
+        "pinyin": "jiā xiāng",
+        "startTime": 20.739,
+        "endTime": 21.741,
+        "gloss": "hometown"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 21.741,
+        "endTime": 22.622,
+        "gloss": "Henan"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 22.622,
+        "endTime": 23.925,
+        "gloss": "work"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 23.925,
+        "endTime": 24.526,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Now I have returned to my hometown in Henan to work."
+  },
+  {
+    "startTime": 25.733,
+    "endTime": 34.5,
+    "fullTextZH": "上海是中国最繁华最热闹最有钱的城市，",
+    "words": [
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 25.773,
+        "endTime": 26.754,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 26.754,
+        "endTime": 27.294,
+        "gloss": "is"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 27.294,
+        "endTime": 28.355,
+        "gloss": "China"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 28.355,
+        "endTime": 28.855,
+        "gloss": "most"
+      },
+      {
+        "word": "繁华",
+        "pinyin": "fán huá",
+        "startTime": 28.855,
+        "endTime": 29.976,
+        "gloss": "prosperous"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 29.976,
+        "endTime": 30.317,
+        "gloss": "most"
+      },
+      {
+        "word": "热闹",
+        "pinyin": "rè nào",
+        "startTime": 30.317,
+        "endTime": 31.498,
+        "gloss": "lively"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 31.498,
+        "endTime": 31.878,
+        "gloss": "most"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 31.878,
+        "endTime": 32.699,
+        "gloss": "wealthy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.699,
+        "endTime": 32.859,
+        "gloss": "de"
+      },
+      {
+        "word": "城市",
+        "pinyin": "chéng shì",
+        "startTime": 32.859,
+        "endTime": 34.46,
+        "gloss": "city"
+      }
+    ],
+    "fullTextEN": "Shanghai is the most prosperous, lively, and wealthy city in China,"
+  },
+  {
+    "startTime": 34.533,
+    "endTime": 41.9,
+    "fullTextZH": "而我的家乡只是河南的一个小小的村子，",
+    "words": [
+      {
+        "word": "而",
+        "pinyin": "ér",
+        "startTime": 34.613,
+        "endTime": 34.833,
+        "gloss": "while"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 34.833,
+        "endTime": 34.953,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.953,
+        "endTime": 35.094,
+        "gloss": "de"
+      },
+      {
+        "word": "家乡",
+        "pinyin": "jiā xiāng",
+        "startTime": 35.094,
+        "endTime": 36.135,
+        "gloss": "hometown"
+      },
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 36.135,
+        "endTime": 37.135,
+        "gloss": "just"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 37.135,
+        "endTime": 37.756,
+        "gloss": "Henan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 37.756,
+        "endTime": 37.916,
+        "gloss": "de"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 37.916,
+        "endTime": 39.017,
+        "gloss": "a"
+      },
+      {
+        "word": "小小的",
+        "pinyin": "xiǎo xiǎo de",
+        "startTime": 39.017,
+        "endTime": 40.198,
+        "gloss": "small"
+      },
+      {
+        "word": "村子",
+        "pinyin": "cūn zi",
+        "startTime": 40.198,
+        "endTime": 41.86,
+        "gloss": "village"
+      }
+    ],
+    "fullTextEN": "while my hometown is just a small village in Henan,"
+  },
+  {
+    "startTime": 41.933,
+    "endTime": 45.3,
+    "fullTextZH": "它没有上海热闹，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 41.973,
+        "endTime": 42.675,
+        "gloss": "it"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 42.675,
+        "endTime": 43.316,
+        "gloss": "not"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 43.316,
+        "endTime": 44.017,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "热闹",
+        "pinyin": "rè nào",
+        "startTime": 44.017,
+        "endTime": 45.26,
+        "gloss": "lively"
+      }
+    ],
+    "fullTextEN": "It is not as lively as Shanghai,"
+  },
+  {
+    "startTime": 45.333,
+    "endTime": 48.5,
+    "fullTextZH": "没有上海繁华，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 45.393,
+        "endTime": 45.934,
+        "gloss": "not"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 45.934,
+        "endTime": 47.097,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "繁华",
+        "pinyin": "fán huá",
+        "startTime": 47.097,
+        "endTime": 48.46,
+        "gloss": "prosperous"
+      }
+    ],
+    "fullTextEN": "not as prosperous as Shanghai,"
+  },
+  {
+    "startTime": 48.533,
+    "endTime": 52.533,
+    "fullTextZH": "更没有上海有钱，",
+    "words": [
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 48.593,
+        "endTime": 48.915,
+        "gloss": "even"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 48.915,
+        "endTime": 49.558,
+        "gloss": "not"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 49.558,
+        "endTime": 50.724,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 50.724,
+        "endTime": 52.493,
+        "gloss": "wealthy"
+      }
+    ],
+    "fullTextEN": "and even less wealthy than Shanghai,"
+  },
+  {
+    "startTime": 52.566,
+    "endTime": 62.866,
+    "fullTextZH": "所以生活在上海和生活在河南有很大的区别，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 52.666,
+        "endTime": 53.708,
+        "gloss": "so"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 53.708,
+        "endTime": 54.349,
+        "gloss": "living"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 54.349,
+        "endTime": 55.031,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 55.031,
+        "endTime": 56.333,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 56.333,
+        "endTime": 57.095,
+        "gloss": "and"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 57.095,
+        "endTime": 57.696,
+        "gloss": "living"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 57.696,
+        "endTime": 58.217,
+        "gloss": "in"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 58.217,
+        "endTime": 59.399,
+        "gloss": "Henan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 59.399,
+        "endTime": 60.101,
+        "gloss": "have"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 60.101,
+        "endTime": 60.862,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 60.862,
+        "endTime": 61.383,
+        "gloss": "de"
+      },
+      {
+        "word": "区别",
+        "pinyin": "qū bié",
+        "startTime": 61.383,
+        "endTime": 62.826,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "so living in Shanghai and living in Henan are very different,"
+  },
+  {
+    "startTime": 62.933,
+    "endTime": 66.733,
+    "fullTextZH": "那么具体是哪些区别呢？",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 63.013,
+        "endTime": 63.838,
+        "gloss": "so"
+      },
+      {
+        "word": "具体",
+        "pinyin": "jù tǐ",
+        "startTime": 63.838,
+        "endTime": 64.481,
+        "gloss": "specific"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 64.481,
+        "endTime": 65.265,
+        "gloss": "are"
+      },
+      {
+        "word": "哪些",
+        "pinyin": "nǎ xiē",
+        "startTime": 65.265,
+        "endTime": 65.989,
+        "gloss": "which"
+      },
+      {
+        "word": "区别",
+        "pinyin": "qū bié",
+        "startTime": 65.989,
+        "endTime": 66.391,
+        "gloss": "differences"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 66.391,
+        "endTime": 66.693,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "So what are the specific differences?"
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 70.4,
+    "fullTextZH": "首先在食物上，",
+    "words": [
+      {
+        "word": "首先",
+        "pinyin": "shǒu xiān",
+        "startTime": 68.061,
+        "endTime": 69.008,
+        "gloss": "first"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 69.008,
+        "endTime": 69.533,
+        "gloss": "in"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 69.533,
+        "endTime": 70.037,
+        "gloss": "food"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 70.037,
+        "endTime": 70.36,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "First, in terms of food,"
+  },
+  {
+    "startTime": 71.6,
+    "endTime": 76.2,
+    "fullTextZH": "上海是一个非常国际化的城市，",
+    "words": [
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 71.66,
+        "endTime": 72.705,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 72.705,
+        "endTime": 72.906,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 72.906,
+        "endTime": 73.488,
+        "gloss": "a"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 73.488,
+        "endTime": 74.352,
+        "gloss": "very"
+      },
+      {
+        "word": "国际化",
+        "pinyin": "guó jì huà",
+        "startTime": 74.352,
+        "endTime": 75.296,
+        "gloss": "international"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 75.296,
+        "endTime": 75.417,
+        "gloss": "de"
+      },
+      {
+        "word": "城市",
+        "pinyin": "chéng shì",
+        "startTime": 75.417,
+        "endTime": 76.16,
+        "gloss": "city"
+      }
+    ],
+    "fullTextEN": "Shanghai is a very international city,"
+  },
+  {
+    "startTime": 76.833,
+    "endTime": 81.666,
+    "fullTextZH": "它有全世界各地的美食。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 76.853,
+        "endTime": 77.134,
+        "gloss": "it"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 77.134,
+        "endTime": 77.796,
+        "gloss": "has"
+      },
+      {
+        "word": "全世界",
+        "pinyin": "quán shì jiè",
+        "startTime": 77.796,
+        "endTime": 79.059,
+        "gloss": "whole world"
+      },
+      {
+        "word": "各地",
+        "pinyin": "gè dì",
+        "startTime": 79.059,
+        "endTime": 79.681,
+        "gloss": "various places"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 79.681,
+        "endTime": 80.102,
+        "gloss": "de"
+      },
+      {
+        "word": "美食",
+        "pinyin": "měi shí",
+        "startTime": 80.102,
+        "endTime": 81.626,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "It has cuisine from all over the world."
+  },
+  {
+    "startTime": 81.733,
+    "endTime": 85.933,
+    "fullTextZH": "如果你生活在上海，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 81.813,
+        "endTime": 82.698,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 82.698,
+        "endTime": 83.341,
+        "gloss": "you"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 83.341,
+        "endTime": 84.044,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 84.044,
+        "endTime": 84.607,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 84.607,
+        "endTime": 85.913,
+        "gloss": "Shanghai"
+      }
+    ],
+    "fullTextEN": "If you live in Shanghai,"
+  },
+  {
+    "startTime": 85.966,
+    "endTime": 90.633,
+    "fullTextZH": "但是你想吃其他地方的食物，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 85.966,
+        "endTime": 86.867,
+        "gloss": "but"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 86.867,
+        "endTime": 87.088,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 87.088,
+        "endTime": 87.488,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 87.488,
+        "endTime": 88.31,
+        "gloss": "eat"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 88.31,
+        "endTime": 88.93,
+        "gloss": "other"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 88.93,
+        "endTime": 89.371,
+        "gloss": "places"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 89.371,
+        "endTime": 89.571,
+        "gloss": "de"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 89.571,
+        "endTime": 90.593,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "but you want to eat food from other places,"
+  },
+  {
+    "startTime": 90.666,
+    "endTime": 97.566,
+    "fullTextZH": "比如西班牙、俄罗斯或者日本等等，",
+    "words": [
+      {
+        "word": "比如",
+        "pinyin": "bǐ rú",
+        "startTime": 90.726,
+        "endTime": 91.89,
+        "gloss": "for example"
+      },
+      {
+        "word": "西班牙",
+        "pinyin": "xī bān yá",
+        "startTime": 91.89,
+        "endTime": 92.913,
+        "gloss": "Spain"
+      },
+      {
+        "word": "俄罗斯",
+        "pinyin": "é luó sī",
+        "startTime": 93.274,
+        "endTime": 94.497,
+        "gloss": "Russia"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 94.497,
+        "endTime": 95.259,
+        "gloss": "or"
+      },
+      {
+        "word": "日本",
+        "pinyin": "rì běn",
+        "startTime": 95.259,
+        "endTime": 96.242,
+        "gloss": "Japan"
+      },
+      {
+        "word": "等等",
+        "pinyin": "děng děng",
+        "startTime": 96.242,
+        "endTime": 97.526,
+        "gloss": "etc."
+      }
+    ],
+    "fullTextEN": "such as Spain, Russia, or Japan, etc.,"
+  },
+  {
+    "startTime": 97.633,
+    "endTime": 109.733,
+    "fullTextZH": "那么你出门在上海的商场或者是街边都很容易发现这些食物的影子。",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 97.633,
+        "endTime": 98.635,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 98.635,
+        "endTime": 99.176,
+        "gloss": "you"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 99.176,
+        "endTime": 100.057,
+        "gloss": "go out"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 100.057,
+        "endTime": 100.538,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 100.538,
+        "endTime": 101.159,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 101.159,
+        "endTime": 101.72,
+        "gloss": "of"
+      },
+      {
+        "word": "商场",
+        "pinyin": "shāng chǎng",
+        "startTime": 101.72,
+        "endTime": 102.782,
+        "gloss": "malls"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 102.782,
+        "endTime": 103.182,
+        "gloss": "or"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 103.182,
+        "endTime": 103.383,
+        "gloss": "is"
+      },
+      {
+        "word": "街边",
+        "pinyin": "jiē biān",
+        "startTime": 103.383,
+        "endTime": 104.404,
+        "gloss": "streets"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 104.404,
+        "endTime": 104.705,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 104.705,
+        "endTime": 105.246,
+        "gloss": "very"
+      },
+      {
+        "word": "容易",
+        "pinyin": "róng yì",
+        "startTime": 105.246,
+        "endTime": 105.766,
+        "gloss": "easy"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 105.766,
+        "endTime": 106.688,
+        "gloss": "find"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 106.688,
+        "endTime": 107.469,
+        "gloss": "these"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 107.469,
+        "endTime": 107.99,
+        "gloss": "foods"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 107.99,
+        "endTime": 108.13,
+        "gloss": "of"
+      },
+      {
+        "word": "影子",
+        "pinyin": "yǐng zi",
+        "startTime": 108.13,
+        "endTime": 109.693,
+        "gloss": "traces"
+      }
+    ],
+    "fullTextEN": "So when you go out in Shanghai, it's very easy to find traces of these foods in malls or on the streets."
+  },
+  {
+    "startTime": 109.8,
+    "endTime": 113.566,
+    "fullTextZH": "如果你懒得出门，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 109.88,
+        "endTime": 110.822,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 110.822,
+        "endTime": 111.743,
+        "gloss": "you"
+      },
+      {
+        "word": "懒得",
+        "pinyin": "lǎn de",
+        "startTime": 111.743,
+        "endTime": 112.424,
+        "gloss": "don't feel like"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 112.424,
+        "endTime": 113.526,
+        "gloss": "go out"
+      }
+    ],
+    "fullTextEN": "If you don't feel like going out,"
+  },
+  {
+    "startTime": 113.6,
+    "endTime": 114.166,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 113.863,
+        "endTime": 114.126,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 114.2,
+    "endTime": 115.666,
+    "fullTextZH": "不想出门，",
+    "words": [
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 114.32,
+        "endTime": 114.762,
+        "gloss": "don't want"
+      },
+      {
+        "word": "出门",
+        "pinyin": "chū mén",
+        "startTime": 114.762,
+        "endTime": 115.626,
+        "gloss": "go out"
+      }
+    ],
+    "fullTextEN": "don't want to go out,"
+  },
+  {
+    "startTime": 115.733,
+    "endTime": 119.566,
+    "fullTextZH": "又或者天气不好，",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 115.793,
+        "endTime": 116.054,
+        "gloss": "or"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 116.054,
+        "endTime": 116.957,
+        "gloss": "if"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 116.957,
+        "endTime": 118.101,
+        "gloss": "weather"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 118.101,
+        "endTime": 119.526,
+        "gloss": "bad"
+      }
+    ],
+    "fullTextEN": "or if the weather is bad,"
+  },
+  {
+    "startTime": 119.6,
+    "endTime": 124.233,
+    "fullTextZH": "比如说下雨或者下雪，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 119.66,
+        "endTime": 120.904,
+        "gloss": "for example"
+      },
+      {
+        "word": "下雨",
+        "pinyin": "xià yǔ",
+        "startTime": 120.904,
+        "endTime": 121.866,
+        "gloss": "raining"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 121.866,
+        "endTime": 122.608,
+        "gloss": "or"
+      },
+      {
+        "word": "下雪",
+        "pinyin": "xià xuě",
+        "startTime": 122.608,
+        "endTime": 124.193,
+        "gloss": "snowing"
+      }
+    ],
+    "fullTextEN": "for example, if it's raining or snowing,"
+  },
+  {
+    "startTime": 124.266,
+    "endTime": 128.666,
+    "fullTextZH": "你也可以在手机上点外卖，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 124.266,
+        "endTime": 124.286,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 124.286,
+        "endTime": 124.628,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 124.628,
+        "endTime": 125.512,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 125.512,
+        "endTime": 126.175,
+        "gloss": "on"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 126.175,
+        "endTime": 126.878,
+        "gloss": "phone"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 126.878,
+        "endTime": 127.461,
+        "gloss": "on"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 127.461,
+        "endTime": 127.782,
+        "gloss": "order"
+      },
+      {
+        "word": "外卖",
+        "pinyin": "wài mài",
+        "startTime": 127.782,
+        "endTime": 128.626,
+        "gloss": "takeout"
+      }
+    ],
+    "fullTextEN": "you can also order takeout on your phone,"
+  },
+  {
+    "startTime": 128.9,
+    "endTime": 134.533,
+    "fullTextZH": "外卖员会把你点的食物送到家门口，",
+    "words": [
+      {
+        "word": "外卖",
+        "pinyin": "wài mài",
+        "startTime": 128.94,
+        "endTime": 129.361,
+        "gloss": "takeout"
+      },
+      {
+        "word": "员会",
+        "pinyin": "yuán huì",
+        "startTime": 129.361,
+        "endTime": 130.103,
+        "gloss": "person will"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 130.103,
+        "endTime": 130.303,
+        "gloss": "bring"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 130.303,
+        "endTime": 130.464,
+        "gloss": "you"
+      },
+      {
+        "word": "点",
+        "pinyin": "diǎn",
+        "startTime": 130.464,
+        "endTime": 130.664,
+        "gloss": "order"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 130.664,
+        "endTime": 130.844,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 130.844,
+        "endTime": 131.967,
+        "gloss": "food"
+      },
+      {
+        "word": "送到",
+        "pinyin": "sòng dào",
+        "startTime": 131.967,
+        "endTime": 132.809,
+        "gloss": "deliver to"
+      },
+      {
+        "word": "家门口",
+        "pinyin": "jiā mén kǒu",
+        "startTime": 132.809,
+        "endTime": 134.493,
+        "gloss": "doorstep"
+      }
+    ],
+    "fullTextEN": "The delivery person will bring the food you ordered to your doorstep,"
+  },
+  {
+    "startTime": 134.566,
+    "endTime": 140.333,
+    "fullTextZH": "这样你也可以很方便地吃到自己想要的食物。",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 134.606,
+        "endTime": 135.467,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 135.467,
+        "endTime": 135.667,
+        "gloss": "you"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 135.667,
+        "endTime": 135.808,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 135.808,
+        "endTime": 136.689,
+        "gloss": "can"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 136.689,
+        "endTime": 137.089,
+        "gloss": "very"
+      },
+      {
+        "word": "方便",
+        "pinyin": "fāng biàn",
+        "startTime": 137.089,
+        "endTime": 137.63,
+        "gloss": "conveniently"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 137.63,
+        "endTime": 138.19,
+        "gloss": "eat"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 138.19,
+        "endTime": 138.431,
+        "gloss": "to"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 138.431,
+        "endTime": 138.931,
+        "gloss": "yourself"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 138.931,
+        "endTime": 139.332,
+        "gloss": "want"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 139.332,
+        "endTime": 139.692,
+        "gloss": "of"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.692,
+        "endTime": 139.832,
+        "gloss": "food"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 139.832,
+        "endTime": 140.293,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "so you can conveniently eat the food you want."
+  },
+  {
+    "startTime": 141.833,
+    "endTime": 146.666,
+    "fullTextZH": "但是如果你生活在我的家乡，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 141.873,
+        "endTime": 142.816,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 142.816,
+        "endTime": 143.497,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 143.497,
+        "endTime": 144.199,
+        "gloss": "you"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 144.199,
+        "endTime": 144.861,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 144.861,
+        "endTime": 145.282,
+        "gloss": "in"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 145.282,
+        "endTime": 145.443,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 145.443,
+        "endTime": 145.583,
+        "gloss": "of"
+      },
+      {
+        "word": "家乡",
+        "pinyin": "jiā xiāng",
+        "startTime": 145.583,
+        "endTime": 146.626,
+        "gloss": "hometown"
+      }
+    ],
+    "fullTextEN": "But if you live in my hometown,"
+  },
+  {
+    "startTime": 146.7,
+    "endTime": 148.966,
+    "fullTextZH": "也就是河南，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 146.76,
+        "endTime": 146.941,
+        "gloss": "also"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 146.941,
+        "endTime": 147.863,
+        "gloss": "is"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 147.863,
+        "endTime": 148.926,
+        "gloss": "Henan"
+      }
+    ],
+    "fullTextEN": "which is Henan,"
+  },
+  {
+    "startTime": 149.033,
+    "endTime": 153.733,
+    "fullTextZH": "一般你只能吃到本地的食物。",
+    "words": [
+      {
+        "word": "一般",
+        "pinyin": "yì bān",
+        "startTime": 149.113,
+        "endTime": 149.957,
+        "gloss": "generally"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 149.957,
+        "endTime": 150.178,
+        "gloss": "you"
+      },
+      {
+        "word": "只能",
+        "pinyin": "zhǐ néng",
+        "startTime": 150.178,
+        "endTime": 150.64,
+        "gloss": "only"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 150.64,
+        "endTime": 150.861,
+        "gloss": "eat"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 150.861,
+        "endTime": 151.483,
+        "gloss": "to"
+      },
+      {
+        "word": "本地",
+        "pinyin": "běn dì",
+        "startTime": 151.483,
+        "endTime": 152.086,
+        "gloss": "local"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.086,
+        "endTime": 152.307,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 152.307,
+        "endTime": 153.693,
+        "gloss": "food"
+      }
+    ],
+    "fullTextEN": "you can generally only eat local food."
+  },
+  {
+    "startTime": 153.766,
+    "endTime": 158.166,
+    "fullTextZH": "如果我自己做饭的话，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 153.887,
+        "endTime": 154.389,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 154.389,
+        "endTime": 155.072,
+        "gloss": "I"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 155.072,
+        "endTime": 156.298,
+        "gloss": "myself"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 156.298,
+        "endTime": 156.92,
+        "gloss": "cook"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 156.92,
+        "endTime": 158.126,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If I cook for myself,"
+  },
+  {
+    "startTime": 158.233,
+    "endTime": 163.666,
+    "fullTextZH": "早上一般是包子或者油条，",
+    "words": [
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 158.273,
+        "endTime": 159.235,
+        "gloss": "morning"
+      },
+      {
+        "word": "一般",
+        "pinyin": "yì bān",
+        "startTime": 159.235,
+        "endTime": 159.757,
+        "gloss": "generally"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 159.757,
+        "endTime": 160.498,
+        "gloss": "is"
+      },
+      {
+        "word": "包子",
+        "pinyin": "bāo zi",
+        "startTime": 160.498,
+        "endTime": 161.621,
+        "gloss": "buns"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 161.621,
+        "endTime": 162.283,
+        "gloss": "or"
+      },
+      {
+        "word": "油条",
+        "pinyin": "yóu tiáo",
+        "startTime": 162.283,
+        "endTime": 163.626,
+        "gloss": "fried dough sticks"
+      }
+    ],
+    "fullTextEN": "in the morning, it's usually buns or fried dough sticks,"
+  },
+  {
+    "startTime": 163.7,
+    "endTime": 168.5,
+    "fullTextZH": "然后我自己会煮一些粥喝，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 163.76,
+        "endTime": 164.564,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 164.564,
+        "endTime": 164.805,
+        "gloss": "I"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 164.805,
+        "endTime": 165.708,
+        "gloss": "myself"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 165.708,
+        "endTime": 166.351,
+        "gloss": "will"
+      },
+      {
+        "word": "煮",
+        "pinyin": "zhǔ",
+        "startTime": 166.351,
+        "endTime": 166.592,
+        "gloss": "cook"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 166.592,
+        "endTime": 167.415,
+        "gloss": "some"
+      },
+      {
+        "word": "粥",
+        "pinyin": "zhōu",
+        "startTime": 167.415,
+        "endTime": 167.737,
+        "gloss": "porridge"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 167.737,
+        "endTime": 168.46,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "then I will cook some porridge to drink,"
+  },
+  {
+    "startTime": 168.533,
+    "endTime": 172.433,
+    "fullTextZH": "比如说小米粥或者大米粥。",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 168.593,
+        "endTime": 169.578,
+        "gloss": "for example"
+      },
+      {
+        "word": "小米粥",
+        "pinyin": "xiǎo mǐ zhōu",
+        "startTime": 169.578,
+        "endTime": 170.724,
+        "gloss": "millet porridge"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 170.724,
+        "endTime": 171.689,
+        "gloss": "or"
+      },
+      {
+        "word": "大米粥",
+        "pinyin": "dà mǐ zhōu",
+        "startTime": 171.689,
+        "endTime": 172.393,
+        "gloss": "rice porridge"
+      }
+    ],
+    "fullTextEN": "such as millet porridge or rice porridge."
+  },
+  {
+    "startTime": 173.833,
+    "endTime": 174.833,
+    "fullTextZH": "中午的话，",
+    "words": [
+      {
+        "word": "中午",
+        "pinyin": "zhōng wǔ",
+        "startTime": 174.119,
+        "endTime": 174.262,
+        "gloss": "noon"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 174.262,
+        "endTime": 174.792,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "As for lunch,"
+  },
+  {
+    "startTime": 174.866,
+    "endTime": 178.1,
+    "fullTextZH": "我们家一般会做面食，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 175.047,
+        "endTime": 175.428,
+        "gloss": "our"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 175.428,
+        "endTime": 175.951,
+        "gloss": "family"
+      },
+      {
+        "word": "一般",
+        "pinyin": "yì bān",
+        "startTime": 175.951,
+        "endTime": 176.573,
+        "gloss": "generally"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 176.573,
+        "endTime": 176.794,
+        "gloss": "will"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 176.794,
+        "endTime": 176.995,
+        "gloss": "make"
+      },
+      {
+        "word": "面食",
+        "pinyin": "miàn shí",
+        "startTime": 176.995,
+        "endTime": 178.06,
+        "gloss": "pasta"
+      }
+    ],
+    "fullTextEN": "our family usually makes pasta,"
+  },
+  {
+    "startTime": 178.133,
+    "endTime": 179.633,
+    "fullTextZH": "就是面条，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 178.234,
+        "endTime": 178.761,
+        "gloss": "is"
+      },
+      {
+        "word": "面条",
+        "pinyin": "miàn tiáo",
+        "startTime": 178.761,
+        "endTime": 179.592,
+        "gloss": "noodles"
+      }
+    ],
+    "fullTextEN": "which is noodles,"
+  },
+  {
+    "startTime": 180.1,
+    "endTime": 183.1,
+    "fullTextZH": "都是非常好吃的食物。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 180.16,
+        "endTime": 180.483,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 180.483,
+        "endTime": 181.187,
+        "gloss": "are"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 181.187,
+        "endTime": 181.872,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 181.872,
+        "endTime": 182.375,
+        "gloss": "delicious"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 182.375,
+        "endTime": 182.577,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 182.577,
+        "endTime": 183.06,
+        "gloss": "foods"
+      }
+    ],
+    "fullTextEN": "all are very delicious foods."
+  },
+  {
+    "startTime": 183.7,
+    "endTime": 186.0,
+    "fullTextZH": "晚饭非常简单，",
+    "words": [
+      {
+        "word": "晚饭",
+        "pinyin": "wǎn fàn",
+        "startTime": 183.761,
+        "endTime": 184.83,
+        "gloss": "dinner"
+      },
+      {
+        "word": "非常简单",
+        "pinyin": "fēi cháng jiǎn dān",
+        "startTime": 184.83,
+        "endTime": 185.96,
+        "gloss": "very simple"
+      }
+    ],
+    "fullTextEN": "Dinner is very simple,"
+  },
+  {
+    "startTime": 186.066,
+    "endTime": 192.133,
+    "fullTextZH": "一般就是煮粥或者加几个炒菜。",
+    "words": [
+      {
+        "word": "一般",
+        "pinyin": "yì bān",
+        "startTime": 186.146,
+        "endTime": 186.827,
+        "gloss": "usually"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 186.827,
+        "endTime": 187.788,
+        "gloss": "just"
+      },
+      {
+        "word": "煮粥",
+        "pinyin": "zhǔ zhōu",
+        "startTime": 187.788,
+        "endTime": 188.789,
+        "gloss": "cook porridge"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 188.789,
+        "endTime": 189.55,
+        "gloss": "or"
+      },
+      {
+        "word": "加",
+        "pinyin": "jiā",
+        "startTime": 189.55,
+        "endTime": 190.031,
+        "gloss": "add"
+      },
+      {
+        "word": "几个",
+        "pinyin": "jǐ gè",
+        "startTime": 190.031,
+        "endTime": 190.551,
+        "gloss": "a few"
+      },
+      {
+        "word": "炒菜",
+        "pinyin": "chǎo cài",
+        "startTime": 190.551,
+        "endTime": 192.093,
+        "gloss": "stir-fried dishes"
+      }
+    ],
+    "fullTextEN": "It's usually just porridge or a few stir-fried dishes."
+  },
+  {
+    "startTime": 192.2,
+    "endTime": 194.566,
+    "fullTextZH": "我们老话说得好，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 192.28,
+        "endTime": 192.802,
+        "gloss": "we"
+      },
+      {
+        "word": "老话",
+        "pinyin": "lǎo huà",
+        "startTime": 192.802,
+        "endTime": 193.443,
+        "gloss": "old saying"
+      },
+      {
+        "word": "说得好",
+        "pinyin": "shuō dé hǎo",
+        "startTime": 193.443,
+        "endTime": 194.526,
+        "gloss": "say well"
+      }
+    ],
+    "fullTextEN": "As our old saying goes,"
+  },
+  {
+    "startTime": 194.6,
+    "endTime": 197.433,
+    "fullTextZH": "早上要吃好，",
+    "words": [
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 194.64,
+        "endTime": 195.645,
+        "gloss": "morning"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 195.645,
+        "endTime": 195.926,
+        "gloss": "should"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 195.926,
+        "endTime": 196.227,
+        "gloss": "eat"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 196.227,
+        "endTime": 197.393,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "In the morning, eat well,"
+  },
+  {
+    "startTime": 197.466,
+    "endTime": 200.333,
+    "fullTextZH": "中午要吃饱，",
+    "words": [
+      {
+        "word": "中午",
+        "pinyin": "zhōng wǔ",
+        "startTime": 197.546,
+        "endTime": 198.669,
+        "gloss": "noon"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 198.669,
+        "endTime": 199.17,
+        "gloss": "should"
+      },
+      {
+        "word": "吃饱",
+        "pinyin": "chī bǎo",
+        "startTime": 199.17,
+        "endTime": 200.293,
+        "gloss": "eat full"
+      }
+    ],
+    "fullTextEN": "At noon, eat until full,"
+  },
+  {
+    "startTime": 200.4,
+    "endTime": 203.1,
+    "fullTextZH": "晚上要吃少。",
+    "words": [
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 200.42,
+        "endTime": 201.508,
+        "gloss": "evening"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 201.508,
+        "endTime": 201.851,
+        "gloss": "should"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 201.851,
+        "endTime": 202.113,
+        "gloss": "eat"
+      },
+      {
+        "word": "少",
+        "pinyin": "shǎo",
+        "startTime": 202.113,
+        "endTime": 203.06,
+        "gloss": "less"
+      }
+    ],
+    "fullTextEN": "In the evening, eat less."
+  },
+  {
+    "startTime": 203.133,
+    "endTime": 207.9,
+    "fullTextZH": "中国人认为这种吃饭方式是健康的。",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 203.213,
+        "endTime": 203.634,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 203.634,
+        "endTime": 203.834,
+        "gloss": "people"
+      },
+      {
+        "word": "认为",
+        "pinyin": "rèn wéi",
+        "startTime": 203.834,
+        "endTime": 204.715,
+        "gloss": "believe"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 204.715,
+        "endTime": 205.216,
+        "gloss": "this kind"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 205.216,
+        "endTime": 205.597,
+        "gloss": "eating"
+      },
+      {
+        "word": "方式",
+        "pinyin": "fāng shì",
+        "startTime": 205.597,
+        "endTime": 206.478,
+        "gloss": "way"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 206.478,
+        "endTime": 207.039,
+        "gloss": "is"
+      },
+      {
+        "word": "健康",
+        "pinyin": "jiàn kāng",
+        "startTime": 207.039,
+        "endTime": 207.62,
+        "gloss": "healthy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 207.62,
+        "endTime": 207.86,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Chinese people believe this way of eating is healthy."
+  },
+  {
+    "startTime": 208.633,
+    "endTime": 211.033,
+    "fullTextZH": "说到河南的早饭，",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 208.794,
+        "endTime": 209.036,
+        "gloss": "speak"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 209.036,
+        "endTime": 209.641,
+        "gloss": "of"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 209.641,
+        "endTime": 210.085,
+        "gloss": "Henan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 210.085,
+        "endTime": 210.226,
+        "gloss": "of"
+      },
+      {
+        "word": "早饭",
+        "pinyin": "zǎo fàn",
+        "startTime": 210.226,
+        "endTime": 210.993,
+        "gloss": "breakfast"
+      }
+    ],
+    "fullTextEN": "Speaking of breakfast in Henan,"
+  },
+  {
+    "startTime": 211.1,
+    "endTime": 213.9,
+    "fullTextZH": "你可能听过胡辣汤。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 211.201,
+        "endTime": 211.402,
+        "gloss": "you"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 211.402,
+        "endTime": 212.107,
+        "gloss": "might"
+      },
+      {
+        "word": "听过",
+        "pinyin": "tīng guò",
+        "startTime": 212.107,
+        "endTime": 212.913,
+        "gloss": "have heard"
+      },
+      {
+        "word": "胡辣汤",
+        "pinyin": "hú là tāng",
+        "startTime": 212.913,
+        "endTime": 213.86,
+        "gloss": "spicy soup"
+      }
+    ],
+    "fullTextEN": "You might have heard of spicy soup."
+  },
+  {
+    "startTime": 215.133,
+    "endTime": 221.9,
+    "fullTextZH": "胡辣汤是河南非常有特色的当地小吃，",
+    "words": [
+      {
+        "word": "胡辣汤",
+        "pinyin": "hú là tāng",
+        "startTime": 215.153,
+        "endTime": 216.635,
+        "gloss": "spicy soup"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 216.635,
+        "endTime": 217.135,
+        "gloss": "is"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 217.135,
+        "endTime": 218.056,
+        "gloss": "Henan"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 218.056,
+        "endTime": 218.717,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 218.717,
+        "endTime": 219.057,
+        "gloss": "have"
+      },
+      {
+        "word": "特色",
+        "pinyin": "tè sè",
+        "startTime": 219.057,
+        "endTime": 219.638,
+        "gloss": "distinctive"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 219.638,
+        "endTime": 219.998,
+        "gloss": "of"
+      },
+      {
+        "word": "当地",
+        "pinyin": "dāng dì",
+        "startTime": 219.998,
+        "endTime": 220.539,
+        "gloss": "local"
+      },
+      {
+        "word": "小吃",
+        "pinyin": "xiǎo chī",
+        "startTime": 220.539,
+        "endTime": 221.86,
+        "gloss": "snack"
+      }
+    ],
+    "fullTextEN": "Spicy soup is a very distinctive local snack in Henan,"
+  },
+  {
+    "startTime": 221.933,
+    "endTime": 231.1,
+    "fullTextZH": "它里面有海带、花生米、豆皮等等食材，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 221.973,
+        "endTime": 222.193,
+        "gloss": "it"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 222.193,
+        "endTime": 222.914,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 222.914,
+        "endTime": 224.175,
+        "gloss": "have"
+      },
+      {
+        "word": "海带",
+        "pinyin": "hǎi dài",
+        "startTime": 224.175,
+        "endTime": 225.796,
+        "gloss": "kelp"
+      },
+      {
+        "word": "花生米",
+        "pinyin": "huā shēng mǐ",
+        "startTime": 225.936,
+        "endTime": 226.577,
+        "gloss": "peanuts"
+      },
+      {
+        "word": "豆皮",
+        "pinyin": "dòu pí",
+        "startTime": 227.817,
+        "endTime": 229.078,
+        "gloss": "tofu skin"
+      },
+      {
+        "word": "等等",
+        "pinyin": "děng děng",
+        "startTime": 229.078,
+        "endTime": 229.819,
+        "gloss": "etc."
+      },
+      {
+        "word": "食材",
+        "pinyin": "shí cái",
+        "startTime": 229.819,
+        "endTime": 231.06,
+        "gloss": "ingredients"
+      }
+    ],
+    "fullTextEN": "It contains ingredients like kelp, peanuts, tofu skin, etc."
+  },
+  {
+    "startTime": 231.166,
+    "endTime": 235.6,
+    "fullTextZH": "如果你来到河南早上喝胡辣汤的话，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 231.226,
+        "endTime": 231.848,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 231.848,
+        "endTime": 231.969,
+        "gloss": "you"
+      },
+      {
+        "word": "来到",
+        "pinyin": "lái dào",
+        "startTime": 231.969,
+        "endTime": 232.39,
+        "gloss": "come to"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 232.39,
+        "endTime": 233.293,
+        "gloss": "Henan"
+      },
+      {
+        "word": "早上",
+        "pinyin": "zǎo shàng",
+        "startTime": 233.293,
+        "endTime": 234.015,
+        "gloss": "morning"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 234.015,
+        "endTime": 234.256,
+        "gloss": "drink"
+      },
+      {
+        "word": "胡辣汤",
+        "pinyin": "hú là tāng",
+        "startTime": 234.256,
+        "endTime": 234.777,
+        "gloss": "spicy soup"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 234.777,
+        "endTime": 235.56,
+        "gloss": "if"
+      }
+    ],
+    "fullTextEN": "If you come to Henan and drink spicy soup in the morning,"
+  },
+  {
+    "startTime": 235.633,
+    "endTime": 239.066,
+    "fullTextZH": "记得要配上油条一起吃哦。",
+    "words": [
+      {
+        "word": "记得",
+        "pinyin": "jì de",
+        "startTime": 235.693,
+        "endTime": 236.476,
+        "gloss": "remember"
+      },
+      {
+        "word": "要配",
+        "pinyin": "yào pèi",
+        "startTime": 236.476,
+        "endTime": 236.978,
+        "gloss": "to pair"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 236.978,
+        "endTime": 237.38,
+        "gloss": "with"
+      },
+      {
+        "word": "油条",
+        "pinyin": "yóu tiáo",
+        "startTime": 237.38,
+        "endTime": 238.223,
+        "gloss": "fried dough sticks"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 238.223,
+        "endTime": 238.584,
+        "gloss": "together"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 238.584,
+        "endTime": 238.785,
+        "gloss": "eat"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 238.785,
+        "endTime": 239.026,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Remember to pair it with fried dough sticks."
+  },
+  {
+    "startTime": 239.4,
+    "endTime": 240.2,
+    "fullTextZH": "所以，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 239.503,
+        "endTime": 240.159,
+        "gloss": "so"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 240.233,
+    "endTime": 243.666,
+    "fullTextZH": "如果你生活在河南，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 240.353,
+        "endTime": 240.896,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 240.896,
+        "endTime": 241.498,
+        "gloss": "you"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 241.498,
+        "endTime": 242.221,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 242.221,
+        "endTime": 242.502,
+        "gloss": "in"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 242.502,
+        "endTime": 243.626,
+        "gloss": "Henan"
+      }
+    ],
+    "fullTextEN": "If you live in Henan,"
+  },
+  {
+    "startTime": 243.7,
+    "endTime": 250.266,
+    "fullTextZH": "你吃到的大部分食物都是河南本地的，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 243.78,
+        "endTime": 244.461,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 244.461,
+        "endTime": 244.701,
+        "gloss": "eat"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 244.701,
+        "endTime": 245.021,
+        "gloss": "to"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 245.021,
+        "endTime": 245.542,
+        "gloss": "of"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 245.542,
+        "endTime": 246.282,
+        "gloss": "most"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 246.282,
+        "endTime": 247.203,
+        "gloss": "food"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 247.203,
+        "endTime": 247.564,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 247.564,
+        "endTime": 248.144,
+        "gloss": "is"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 248.144,
+        "endTime": 249.025,
+        "gloss": "Henan"
+      },
+      {
+        "word": "本地",
+        "pinyin": "běn dì",
+        "startTime": 249.025,
+        "endTime": 249.585,
+        "gloss": "local"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 249.585,
+        "endTime": 250.226,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Most of the food you eat is local to Henan,"
+  },
+  {
+    "startTime": 250.3,
+    "endTime": 254.366,
+    "fullTextZH": "不太能吃到世界各地的美食。",
+    "words": [
+      {
+        "word": "不太能",
+        "pinyin": "bù tài néng",
+        "startTime": 250.4,
+        "endTime": 251.261,
+        "gloss": "not really"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 251.261,
+        "endTime": 251.522,
+        "gloss": "eat"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 251.522,
+        "endTime": 252.263,
+        "gloss": "to"
+      },
+      {
+        "word": "世界各地",
+        "pinyin": "shì jiè gè dì",
+        "startTime": 252.263,
+        "endTime": 253.585,
+        "gloss": "worldwide"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 253.585,
+        "endTime": 253.705,
+        "gloss": "of"
+      },
+      {
+        "word": "美食",
+        "pinyin": "měi shí",
+        "startTime": 253.705,
+        "endTime": 254.326,
+        "gloss": "cuisine"
+      }
+    ],
+    "fullTextEN": "You can't really eat food from all over the world."
+  },
+  {
+    "startTime": 255.566,
+    "endTime": 262.166,
+    "fullTextZH": "那如果我要买蔬菜或者买水果怎么办呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 255.626,
+        "endTime": 256.368,
+        "gloss": "then"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 256.368,
+        "endTime": 256.85,
+        "gloss": "if"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 256.85,
+        "endTime": 257.632,
+        "gloss": "I want"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 257.632,
+        "endTime": 257.933,
+        "gloss": "buy"
+      },
+      {
+        "word": "蔬菜",
+        "pinyin": "shū cài",
+        "startTime": 257.933,
+        "endTime": 258.956,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 258.956,
+        "endTime": 260.04,
+        "gloss": "or"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 260.04,
+        "endTime": 260.3,
+        "gloss": "buy"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 260.3,
+        "endTime": 261.283,
+        "gloss": "fruits"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 261.283,
+        "endTime": 261.785,
+        "gloss": "what to do"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 261.785,
+        "endTime": 262.126,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "So what if I want to buy vegetables or fruits?"
+  },
+  {
+    "startTime": 263.366,
+    "endTime": 267.333,
+    "fullTextZH": "当我生活在上海的时候，",
+    "words": [
+      {
+        "word": "当",
+        "pinyin": "dāng",
+        "startTime": 263.386,
+        "endTime": 263.646,
+        "gloss": "when"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 263.646,
+        "endTime": 264.308,
+        "gloss": "I"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 264.308,
+        "endTime": 264.969,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 264.969,
+        "endTime": 265.53,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 265.53,
+        "endTime": 266.131,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 266.131,
+        "endTime": 266.351,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 266.351,
+        "endTime": 267.293,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When I lived in Shanghai,"
+  },
+  {
+    "startTime": 267.366,
+    "endTime": 271.433,
+    "fullTextZH": "一般我会走进超市，",
+    "words": [
+      {
+        "word": "一般",
+        "pinyin": "yì bān",
+        "startTime": 267.446,
+        "endTime": 268.368,
+        "gloss": "usually"
+      },
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 268.368,
+        "endTime": 269.289,
+        "gloss": "I would"
+      },
+      {
+        "word": "走进",
+        "pinyin": "zǒu jìn",
+        "startTime": 269.289,
+        "endTime": 270.231,
+        "gloss": "walk into"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 270.231,
+        "endTime": 271.393,
+        "gloss": "supermarket"
+      }
+    ],
+    "fullTextEN": "I usually walked into a supermarket,"
+  },
+  {
+    "startTime": 271.466,
+    "endTime": 278.066,
+    "fullTextZH": "然后把水果或者蔬菜放到篮子里，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 271.546,
+        "endTime": 272.529,
+        "gloss": "then"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 272.529,
+        "endTime": 273.231,
+        "gloss": "put"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 273.231,
+        "endTime": 274.254,
+        "gloss": "fruits"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 274.254,
+        "endTime": 274.595,
+        "gloss": "or"
+      },
+      {
+        "word": "蔬菜",
+        "pinyin": "shū cài",
+        "startTime": 274.595,
+        "endTime": 275.719,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "放到",
+        "pinyin": "fàng dào",
+        "startTime": 275.719,
+        "endTime": 276.341,
+        "gloss": "into"
+      },
+      {
+        "word": "篮子",
+        "pinyin": "lán zi",
+        "startTime": 276.341,
+        "endTime": 276.882,
+        "gloss": "basket"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 276.882,
+        "endTime": 278.026,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "Then put the fruits or vegetables into the basket,"
+  },
+  {
+    "startTime": 278.1,
+    "endTime": 280.7,
+    "fullTextZH": "然后呢去柜台结账，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 278.12,
+        "endTime": 278.604,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 278.604,
+        "endTime": 279.047,
+        "gloss": "particle"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 279.047,
+        "endTime": 279.269,
+        "gloss": "go"
+      },
+      {
+        "word": "柜台",
+        "pinyin": "guì tái",
+        "startTime": 279.269,
+        "endTime": 279.793,
+        "gloss": "counter"
+      },
+      {
+        "word": "结账",
+        "pinyin": "jié zhàng",
+        "startTime": 279.793,
+        "endTime": 280.66,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "Then go to the counter to pay,"
+  },
+  {
+    "startTime": 280.766,
+    "endTime": 282.733,
+    "fullTextZH": "把钱付给他们，",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 280.826,
+        "endTime": 281.167,
+        "gloss": "put"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 281.167,
+        "endTime": 281.709,
+        "gloss": "money"
+      },
+      {
+        "word": "付给",
+        "pinyin": "fù gěi",
+        "startTime": 281.709,
+        "endTime": 282.01,
+        "gloss": "give"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 282.01,
+        "endTime": 282.693,
+        "gloss": "them"
+      }
+    ],
+    "fullTextEN": "Pay them the money,"
+  },
+  {
+    "startTime": 282.766,
+    "endTime": 287.133,
+    "fullTextZH": "我就可以拿着食物走掉了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 282.966,
+        "endTime": 283.127,
+        "gloss": "I"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 283.127,
+        "endTime": 283.367,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 283.367,
+        "endTime": 283.948,
+        "gloss": "can"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 283.948,
+        "endTime": 284.228,
+        "gloss": "take"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 284.228,
+        "endTime": 284.909,
+        "gloss": "with"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 284.909,
+        "endTime": 285.51,
+        "gloss": "food"
+      },
+      {
+        "word": "走掉",
+        "pinyin": "zǒu diào",
+        "startTime": 285.51,
+        "endTime": 286.011,
+        "gloss": "leave"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 286.011,
+        "endTime": 287.093,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Then I can take the food and leave."
+  },
+  {
+    "startTime": 287.166,
+    "endTime": 289.766,
+    "fullTextZH": "这样做非常方便，",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 287.206,
+        "endTime": 287.65,
+        "gloss": "this way"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 287.65,
+        "endTime": 288.234,
+        "gloss": "do"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 288.234,
+        "endTime": 288.778,
+        "gloss": "very"
+      },
+      {
+        "word": "方便",
+        "pinyin": "fāng biàn",
+        "startTime": 288.778,
+        "endTime": 289.726,
+        "gloss": "convenient"
+      }
+    ],
+    "fullTextEN": "Doing this is very convenient,"
+  },
+  {
+    "startTime": 289.8,
+    "endTime": 293.9,
+    "fullTextZH": "但是也非常的昂贵，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 289.86,
+        "endTime": 290.925,
+        "gloss": "but"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 290.925,
+        "endTime": 291.327,
+        "gloss": "also"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 291.327,
+        "endTime": 291.95,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 291.95,
+        "endTime": 292.312,
+        "gloss": "particle"
+      },
+      {
+        "word": "昂贵",
+        "pinyin": "áng guì",
+        "startTime": 292.312,
+        "endTime": 293.86,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "But it's also very expensive,"
+  },
+  {
+    "startTime": 293.966,
+    "endTime": 298.766,
+    "fullTextZH": "但是如果我生活在河南，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 294.006,
+        "endTime": 295.051,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 295.051,
+        "endTime": 296.195,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 296.195,
+        "endTime": 296.717,
+        "gloss": "I"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 296.717,
+        "endTime": 297.28,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 297.28,
+        "endTime": 297.621,
+        "gloss": "in"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 297.621,
+        "endTime": 298.726,
+        "gloss": "Henan"
+      }
+    ],
+    "fullTextEN": "But if I live in Henan,"
+  },
+  {
+    "startTime": 298.8,
+    "endTime": 301.366,
+    "fullTextZH": "如果我想吃什么，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 298.9,
+        "endTime": 299.802,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 299.802,
+        "endTime": 300.003,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 300.003,
+        "endTime": 300.283,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 300.283,
+        "endTime": 300.564,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 300.564,
+        "endTime": 301.326,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "If I want to eat something,"
+  },
+  {
+    "startTime": 301.4,
+    "endTime": 304.4,
+    "fullTextZH": "我可以自己种，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 301.561,
+        "endTime": 301.843,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 301.843,
+        "endTime": 302.568,
+        "gloss": "can"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 302.568,
+        "endTime": 303.172,
+        "gloss": "myself"
+      },
+      {
+        "word": "种",
+        "pinyin": "zhǒng",
+        "startTime": 303.172,
+        "endTime": 304.36,
+        "gloss": "grow"
+      }
+    ],
+    "fullTextEN": "I can grow it myself,"
+  },
+  {
+    "startTime": 304.433,
+    "endTime": 307.333,
+    "fullTextZH": "这个是我家的菜地，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 304.453,
+        "endTime": 305.48,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 305.48,
+        "endTime": 305.661,
+        "gloss": "is"
+      },
+      {
+        "word": "我家",
+        "pinyin": "wǒ jiā",
+        "startTime": 305.661,
+        "endTime": 306.024,
+        "gloss": "my family"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 306.024,
+        "endTime": 306.185,
+        "gloss": "particle"
+      },
+      {
+        "word": "菜地",
+        "pinyin": "cài dì",
+        "startTime": 306.185,
+        "endTime": 307.293,
+        "gloss": "vegetable garden"
+      }
+    ],
+    "fullTextEN": "This is my family's vegetable garden,"
+  },
+  {
+    "startTime": 307.4,
+    "endTime": 313.766,
+    "fullTextZH": "你们能看到上面的生菜长得非常非常好，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 307.52,
+        "endTime": 307.78,
+        "gloss": "you"
+      },
+      {
+        "word": "能",
+        "pinyin": "néng",
+        "startTime": 307.78,
+        "endTime": 307.941,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 307.941,
+        "endTime": 308.841,
+        "gloss": "see"
+      },
+      {
+        "word": "上面",
+        "pinyin": "shàng miàn",
+        "startTime": 308.841,
+        "endTime": 309.222,
+        "gloss": "on top"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 309.222,
+        "endTime": 309.402,
+        "gloss": "particle"
+      },
+      {
+        "word": "生菜",
+        "pinyin": "shēng cài",
+        "startTime": 309.402,
+        "endTime": 310.223,
+        "gloss": "lettuce"
+      },
+      {
+        "word": "长得",
+        "pinyin": "zhǎng dé",
+        "startTime": 310.223,
+        "endTime": 310.883,
+        "gloss": "grow"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 310.883,
+        "endTime": 311.864,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 311.864,
+        "endTime": 312.345,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 312.345,
+        "endTime": 313.726,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "You can see the lettuce growing very well on it,"
+  },
+  {
+    "startTime": 313.8,
+    "endTime": 317.633,
+    "fullTextZH": "我想吃什么就可以直接种什么，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 313.8,
+        "endTime": 314.201,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 314.201,
+        "endTime": 314.482,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 314.482,
+        "endTime": 314.663,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 314.663,
+        "endTime": 315.405,
+        "gloss": "what"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 315.405,
+        "endTime": 315.626,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 315.626,
+        "endTime": 316.108,
+        "gloss": "can"
+      },
+      {
+        "word": "直接",
+        "pinyin": "zhí jiē",
+        "startTime": 316.108,
+        "endTime": 316.549,
+        "gloss": "directly"
+      },
+      {
+        "word": "种",
+        "pinyin": "zhǒng",
+        "startTime": 316.549,
+        "endTime": 316.81,
+        "gloss": "grow"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 316.81,
+        "endTime": 317.593,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "I can grow whatever I want to eat directly,"
+  },
+  {
+    "startTime": 317.666,
+    "endTime": 319.633,
+    "fullTextZH": "不仅非常便宜，",
+    "words": [
+      {
+        "word": "不仅",
+        "pinyin": "bù jǐn",
+        "startTime": 317.786,
+        "endTime": 318.389,
+        "gloss": "not only"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 318.389,
+        "endTime": 318.83,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 318.83,
+        "endTime": 319.593,
+        "gloss": "cheap"
+      }
+    ],
+    "fullTextEN": "Not only is it very cheap,"
+  },
+  {
+    "startTime": 319.666,
+    "endTime": 322.7,
+    "fullTextZH": "而且还非常的新鲜。",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 319.807,
+        "endTime": 320.671,
+        "gloss": "but also"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 320.671,
+        "endTime": 321.133,
+        "gloss": "still"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 321.133,
+        "endTime": 321.615,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 321.615,
+        "endTime": 322.057,
+        "gloss": "particle"
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "startTime": 322.057,
+        "endTime": 322.66,
+        "gloss": "fresh"
+      }
+    ],
+    "fullTextEN": "But also very fresh."
+  },
+  {
+    "startTime": 323.9,
+    "endTime": 329.333,
+    "fullTextZH": "今年我姥姥家的枣树结了超级大的果子，",
+    "words": [
+      {
+        "word": "今年",
+        "pinyin": "jīn nián",
+        "startTime": 323.98,
+        "endTime": 324.882,
+        "gloss": "this year"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 324.882,
+        "endTime": 325.364,
+        "gloss": "I"
+      },
+      {
+        "word": "姥姥家",
+        "pinyin": "lǎo lao jiā",
+        "startTime": 325.364,
+        "endTime": 325.885,
+        "gloss": "grandma's"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 325.885,
+        "endTime": 326.045,
+        "gloss": "particle"
+      },
+      {
+        "word": "枣树",
+        "pinyin": "zǎo shù",
+        "startTime": 326.045,
+        "endTime": 326.887,
+        "gloss": "jujube tree"
+      },
+      {
+        "word": "结了",
+        "pinyin": "jié le",
+        "startTime": 326.887,
+        "endTime": 327.428,
+        "gloss": "bore"
+      },
+      {
+        "word": "超级",
+        "pinyin": "chāo jí",
+        "startTime": 327.428,
+        "endTime": 328.351,
+        "gloss": "super"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 328.351,
+        "endTime": 328.511,
+        "gloss": "big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 328.511,
+        "endTime": 328.671,
+        "gloss": "particle"
+      },
+      {
+        "word": "果子",
+        "pinyin": "guǒ zi",
+        "startTime": 328.671,
+        "endTime": 329.293,
+        "gloss": "fruits"
+      }
+    ],
+    "fullTextEN": "This year, my grandma's jujube tree bore super large fruits,"
+  },
+  {
+    "startTime": 330.5,
+    "endTime": 333.566,
+    "fullTextZH": "如果我想吃枣子的话，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 330.62,
+        "endTime": 331.362,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 331.362,
+        "endTime": 331.522,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 331.522,
+        "endTime": 331.823,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 331.823,
+        "endTime": 332.364,
+        "gloss": "eat"
+      },
+      {
+        "word": "枣子",
+        "pinyin": "zǎo zi",
+        "startTime": 332.364,
+        "endTime": 332.805,
+        "gloss": "jujubes"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 332.805,
+        "endTime": 333.526,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "If I want to eat jujubes,"
+  },
+  {
+    "startTime": 333.633,
+    "endTime": 337.7,
+    "fullTextZH": "我就走到我姥姥的家门口，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 333.813,
+        "endTime": 334.034,
+        "gloss": "I"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 334.034,
+        "endTime": 334.555,
+        "gloss": "then"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 334.555,
+        "endTime": 334.835,
+        "gloss": "walk"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 334.835,
+        "endTime": 335.376,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 335.376,
+        "endTime": 335.576,
+        "gloss": "my"
+      },
+      {
+        "word": "姥姥",
+        "pinyin": "lǎo lao",
+        "startTime": 335.576,
+        "endTime": 336.057,
+        "gloss": "grandma's"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 336.057,
+        "endTime": 336.538,
+        "gloss": "particle"
+      },
+      {
+        "word": "家门口",
+        "pinyin": "jiā mén kǒu",
+        "startTime": 336.538,
+        "endTime": 337.66,
+        "gloss": "doorstep"
+      }
+    ],
+    "fullTextEN": "I just walk to my grandma's doorstep,"
+  },
+  {
+    "startTime": 337.766,
+    "endTime": 340.533,
+    "fullTextZH": "直接把枣子摘下来，",
+    "words": [
+      {
+        "word": "直接",
+        "pinyin": "zhí jiē",
+        "startTime": 337.846,
+        "endTime": 338.548,
+        "gloss": "directly"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 338.548,
+        "endTime": 338.789,
+        "gloss": "put"
+      },
+      {
+        "word": "枣子",
+        "pinyin": "zǎo zi",
+        "startTime": 338.789,
+        "endTime": 339.551,
+        "gloss": "jujubes"
+      },
+      {
+        "word": "摘下来",
+        "pinyin": "zhāi xià lái",
+        "startTime": 339.551,
+        "endTime": 340.493,
+        "gloss": "pick"
+      }
+    ],
+    "fullTextEN": "Directly pick the jujubes,"
+  },
+  {
+    "startTime": 340.866,
+    "endTime": 343.533,
+    "fullTextZH": "这样不仅非常新鲜，",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 341.107,
+        "endTime": 341.929,
+        "gloss": "this way"
+      },
+      {
+        "word": "不仅",
+        "pinyin": "bù jǐn",
+        "startTime": 341.929,
+        "endTime": 342.41,
+        "gloss": "not only"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 342.41,
+        "endTime": 342.871,
+        "gloss": "very"
+      },
+      {
+        "word": "新鲜",
+        "pinyin": "xīn xiān",
+        "startTime": 342.871,
+        "endTime": 343.493,
+        "gloss": "fresh"
+      }
+    ],
+    "fullTextEN": "This way, not only is it very fresh,"
+  },
+  {
+    "startTime": 343.633,
+    "endTime": 345.7,
+    "fullTextZH": "还非常的好吃，",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 343.693,
+        "endTime": 344.275,
+        "gloss": "also"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 344.275,
+        "endTime": 344.677,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 344.677,
+        "endTime": 344.897,
+        "gloss": "particle"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 344.897,
+        "endTime": 345.66,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "But also very delicious,"
+  },
+  {
+    "startTime": 346.366,
+    "endTime": 347.633,
+    "fullTextZH": "你知道吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 346.446,
+        "endTime": 346.607,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 346.607,
+        "endTime": 346.949,
+        "gloss": "know"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 346.949,
+        "endTime": 347.593,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know?"
+  },
+  {
+    "startTime": 347.866,
+    "endTime": 351.533,
+    "fullTextZH": "河南有非常非常多的农民，",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 347.926,
+        "endTime": 348.788,
+        "gloss": "Henan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 348.788,
+        "endTime": 349.229,
+        "gloss": "has"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 349.229,
+        "endTime": 349.97,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 349.97,
+        "endTime": 350.331,
+        "gloss": "very"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 350.331,
+        "endTime": 350.431,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.431,
+        "endTime": 350.551,
+        "gloss": "of"
+      },
+      {
+        "word": "农民",
+        "pinyin": "nóng mín",
+        "startTime": 350.551,
+        "endTime": 351.493,
+        "gloss": "farmers"
+      }
+    ],
+    "fullTextEN": "Henan has a lot of farmers,"
+  },
+  {
+    "startTime": 351.566,
+    "endTime": 355.433,
+    "fullTextZH": "我的爷爷奶奶也是农民，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 351.766,
+        "endTime": 352.047,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.047,
+        "endTime": 352.548,
+        "gloss": "of"
+      },
+      {
+        "word": "爷爷奶奶",
+        "pinyin": "yé yé nǎi nǎi",
+        "startTime": 352.548,
+        "endTime": 353.83,
+        "gloss": "grandparents"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 353.83,
+        "endTime": 354.151,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 354.151,
+        "endTime": 354.391,
+        "gloss": "are"
+      },
+      {
+        "word": "农民",
+        "pinyin": "nóng mín",
+        "startTime": 354.391,
+        "endTime": 355.393,
+        "gloss": "farmers"
+      }
+    ],
+    "fullTextEN": "My grandparents are also farmers,"
+  },
+  {
+    "startTime": 355.5,
+    "endTime": 360.1,
+    "fullTextZH": "所以我觉得我非常会种地。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 355.58,
+        "endTime": 356.464,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 356.464,
+        "endTime": 356.725,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 356.725,
+        "endTime": 357.73,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 357.73,
+        "endTime": 358.473,
+        "gloss": "I"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 358.473,
+        "endTime": 359.256,
+        "gloss": "very"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 359.256,
+        "endTime": 359.457,
+        "gloss": "can"
+      },
+      {
+        "word": "种地",
+        "pinyin": "zhòng dì",
+        "startTime": 359.457,
+        "endTime": 360.06,
+        "gloss": "farm"
+      }
+    ],
+    "fullTextEN": "So I think I am very good at farming."
+  },
+  {
+    "startTime": 361.4,
+    "endTime": 365.366,
+    "fullTextZH": "那么今天的介绍就讲到这里了，",
+    "words": [
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 361.52,
+        "endTime": 362.221,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 362.221,
+        "endTime": 362.742,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 362.742,
+        "endTime": 362.902,
+        "gloss": "of"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 362.902,
+        "endTime": 363.583,
+        "gloss": "introduction"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 363.583,
+        "endTime": 363.904,
+        "gloss": "just"
+      },
+      {
+        "word": "讲",
+        "pinyin": "jiǎng",
+        "startTime": 363.904,
+        "endTime": 364.124,
+        "gloss": "talk"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 364.124,
+        "endTime": 364.304,
+        "gloss": "to"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 364.304,
+        "endTime": 364.585,
+        "gloss": "here"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 364.585,
+        "endTime": 365.346,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "So today's introduction ends here,"
+  },
+  {
+    "startTime": 365.366,
+    "endTime": 372.6,
+    "fullTextZH": "你觉得在上海生活还是在河南生活会更有趣一点呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 365.366,
+        "endTime": 365.526,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 365.526,
+        "endTime": 366.348,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 366.348,
+        "endTime": 366.709,
+        "gloss": "in"
+      },
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 366.709,
+        "endTime": 367.29,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 367.29,
+        "endTime": 368.272,
+        "gloss": "live"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 368.272,
+        "endTime": 369.073,
+        "gloss": "or"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 369.073,
+        "endTime": 369.314,
+        "gloss": "in"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 369.314,
+        "endTime": 369.775,
+        "gloss": "Henan"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 369.775,
+        "endTime": 370.676,
+        "gloss": "live"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 370.676,
+        "endTime": 370.997,
+        "gloss": "would"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 370.997,
+        "endTime": 371.137,
+        "gloss": "more"
+      },
+      {
+        "word": "有趣",
+        "pinyin": "yǒu qù",
+        "startTime": 371.137,
+        "endTime": 371.498,
+        "gloss": "interesting"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 371.498,
+        "endTime": 371.818,
+        "gloss": "a bit"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 371.818,
+        "endTime": 372.56,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you think living in Shanghai or Henan would be more interesting?"
+  },
+  {
+    "startTime": 372.633,
+    "endTime": 374.4,
+    "fullTextZH": "请留言告诉我吧。",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 372.673,
+        "endTime": 372.874,
+        "gloss": "please"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 372.874,
+        "endTime": 373.316,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 373.316,
+        "endTime": 373.617,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 373.617,
+        "endTime": 373.778,
+        "gloss": "me"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 373.778,
+        "endTime": 374.36,
+        "gloss": "suggestion"
+      }
+    ],
+    "fullTextEN": "Please leave a comment and tell me."
+  }
+]

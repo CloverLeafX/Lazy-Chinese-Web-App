@@ -1,0 +1,3665 @@
+[
+  {
+    "startTime": 0.1,
+    "endTime": 1.1,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.365,
+        "endTime": 1.08,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 1.833,
+    "endTime": 6.666,
+    "fullTextZH": "今天我们看一本书",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.074,
+        "endTime": 3.297,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 3.297,
+        "endTime": 4.4,
+        "gloss": "we"
+      },
+      {
+        "word": "看一",
+        "pinyin": "kàn yī",
+        "startTime": 4.4,
+        "endTime": 5.643,
+        "gloss": "read"
+      },
+      {
+        "word": "本书",
+        "pinyin": "běn shū",
+        "startTime": 5.643,
+        "endTime": 6.165,
+        "gloss": "a book"
+      }
+    ],
+    "fullTextEN": "Today we are reading a book"
+  },
+  {
+    "startTime": 6.966,
+    "endTime": 7.766,
+    "fullTextZH": "叫《",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 7.212,
+        "endTime": 7.745,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "called \""
+  },
+  {
+    "startTime": 8.566,
+    "endTime": 12.7,
+    "fullTextZH": "世界上没有龙》",
+    "words": [
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 8.827,
+        "endTime": 9.81,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 9.81,
+        "endTime": 10.693,
+        "gloss": "on"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 10.693,
+        "endTime": 12.198,
+        "gloss": "no"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 12.198,
+        "endTime": 12.66,
+        "gloss": "dragons"
+      }
+    ],
+    "fullTextEN": "There Are No Dragons in the World\""
+  },
+  {
+    "startTime": 14.233,
+    "endTime": 19.2,
+    "fullTextZH": "是 Jack Kent 写还有画的。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 14.513,
+        "endTime": 14.954,
+        "gloss": "is"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 16.496,
+        "endTime": 17.458,
+        "gloss": "written"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 17.458,
+        "endTime": 18.179,
+        "gloss": "and"
+      },
+      {
+        "word": "画",
+        "pinyin": "huà",
+        "startTime": 18.179,
+        "endTime": 18.699,
+        "gloss": "illustrated"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 18.699,
+        "endTime": 19.16,
+        "gloss": "by"
+      }
+    ],
+    "fullTextEN": "written and illustrated by Jack Kent."
+  },
+  {
+    "startTime": 22.333,
+    "endTime": 26.733,
+    "fullTextZH": "有一个男孩儿（男孩儿）",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 22.574,
+        "endTime": 23.036,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 23.036,
+        "endTime": 24.302,
+        "gloss": "a"
+      },
+      {
+        "word": "男孩儿",
+        "pinyin": "nán hái er",
+        "startTime": 24.302,
+        "endTime": 25.367,
+        "gloss": "boy"
+      },
+      {
+        "word": "男孩儿",
+        "pinyin": "nán hái er",
+        "startTime": 26.01,
+        "endTime": 26.713,
+        "gloss": "boy"
+      }
+    ],
+    "fullTextEN": "There is a boy (boy)"
+  },
+  {
+    "startTime": 27.566,
+    "endTime": 29.433,
+    "fullTextZH": "他叫Billy，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 27.787,
+        "endTime": 28.128,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 28.128,
+        "endTime": 28.69,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "His name is Billy,"
+  },
+  {
+    "startTime": 31.166,
+    "endTime": 33.566,
+    "fullTextZH": "有一天Billy",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 31.388,
+        "endTime": 31.711,
+        "gloss": "one"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 31.711,
+        "endTime": 32.88,
+        "gloss": "day"
+      }
+    ],
+    "fullTextEN": "One day Billy"
+  },
+  {
+    "startTime": 34.033,
+    "endTime": 37.0,
+    "fullTextZH": "醒来，他发现",
+    "words": [
+      {
+        "word": "醒来",
+        "pinyin": "xǐng lái",
+        "startTime": 34.193,
+        "endTime": 34.634,
+        "gloss": "woke up"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 35.697,
+        "endTime": 36.198,
+        "gloss": "he"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 36.198,
+        "endTime": 36.539,
+        "gloss": "found"
+      }
+    ],
+    "fullTextEN": "woke up and he found"
+  },
+  {
+    "startTime": 37.666,
+    "endTime": 42.1,
+    "fullTextZH": "他的床上有一条龙，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 37.867,
+        "endTime": 38.208,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.208,
+        "endTime": 38.609,
+        "gloss": "of"
+      },
+      {
+        "word": "床上",
+        "pinyin": "chuáng shàng",
+        "startTime": 38.609,
+        "endTime": 40.314,
+        "gloss": "bed"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 40.314,
+        "endTime": 40.696,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条龙",
+        "pinyin": "yī tiáo lóng",
+        "startTime": 40.696,
+        "endTime": 42.06,
+        "gloss": "a dragon"
+      }
+    ],
+    "fullTextEN": "a dragon on his bed,"
+  },
+  {
+    "startTime": 43.733,
+    "endTime": 47.433,
+    "fullTextZH": "一条很小很小的龙，",
+    "words": [
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 43.914,
+        "endTime": 44.96,
+        "gloss": "a"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 44.96,
+        "endTime": 46.066,
+        "gloss": "very small"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 46.066,
+        "endTime": 46.81,
+        "gloss": "very small"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 46.81,
+        "endTime": 47.011,
+        "gloss": "of"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 47.011,
+        "endTime": 47.393,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "a very small dragon,"
+  },
+  {
+    "startTime": 48.366,
+    "endTime": 51.666,
+    "fullTextZH": "不是很大很大的龙，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 48.567,
+        "endTime": 49.392,
+        "gloss": "not"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 49.392,
+        "endTime": 50.378,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 50.378,
+        "endTime": 51.062,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 51.062,
+        "endTime": 51.243,
+        "gloss": "of"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 51.243,
+        "endTime": 51.626,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "not a very big dragon,"
+  },
+  {
+    "startTime": 52.533,
+    "endTime": 54.533,
+    "fullTextZH": "一条小龙，",
+    "words": [
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 52.715,
+        "endTime": 53.705,
+        "gloss": "a"
+      },
+      {
+        "word": "小龙",
+        "pinyin": "xiǎo lóng",
+        "startTime": 53.705,
+        "endTime": 54.513,
+        "gloss": "small dragon"
+      }
+    ],
+    "fullTextEN": "a small dragon,"
+  },
+  {
+    "startTime": 55.166,
+    "endTime": 58.366,
+    "fullTextZH": "和猫差不多。",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 55.287,
+        "endTime": 56.374,
+        "gloss": "like"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 56.374,
+        "endTime": 57.42,
+        "gloss": "cat"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 57.42,
+        "endTime": 58.326,
+        "gloss": "almost"
+      }
+    ],
+    "fullTextEN": "almost like a cat."
+  },
+  {
+    "startTime": 60.1,
+    "endTime": 63.6,
+    "fullTextZH": "Billy很吃惊",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 61.468,
+        "endTime": 62.172,
+        "gloss": "very"
+      },
+      {
+        "word": "吃惊",
+        "pinyin": "chī jīng",
+        "startTime": 62.172,
+        "endTime": 62.554,
+        "gloss": "surprised"
+      }
+    ],
+    "fullTextEN": "Billy was very surprised"
+  },
+  {
+    "startTime": 64.2,
+    "endTime": 68.066,
+    "fullTextZH": "所以他很快跑，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 64.42,
+        "endTime": 65.682,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 65.682,
+        "endTime": 66.524,
+        "gloss": "he"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 66.524,
+        "endTime": 67.605,
+        "gloss": "quickly"
+      },
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 67.605,
+        "endTime": 68.026,
+        "gloss": "ran"
+      }
+    ],
+    "fullTextEN": "so he quickly ran,"
+  },
+  {
+    "startTime": 68.9,
+    "endTime": 72.666,
+    "fullTextZH": "跑下楼告诉他的妈妈，",
+    "words": [
+      {
+        "word": "跑",
+        "pinyin": "pǎo",
+        "startTime": 69.1,
+        "endTime": 69.401,
+        "gloss": "ran"
+      },
+      {
+        "word": "下楼",
+        "pinyin": "xià lóu",
+        "startTime": 69.401,
+        "endTime": 70.623,
+        "gloss": "downstairs"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 70.623,
+        "endTime": 71.484,
+        "gloss": "tell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 71.484,
+        "endTime": 71.704,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 71.704,
+        "endTime": 71.845,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 71.845,
+        "endTime": 72.626,
+        "gloss": "mom"
+      }
+    ],
+    "fullTextEN": "ran downstairs to tell his mom,"
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 75.7,
+    "fullTextZH": "Billy说：“妈妈，",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 73.966,
+        "endTime": 74.188,
+        "gloss": "said"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 75.015,
+        "endTime": 75.66,
+        "gloss": "mom"
+      }
+    ],
+    "fullTextEN": "Billy said: \"Mom,"
+  },
+  {
+    "startTime": 75.8,
+    "endTime": 81.133,
+    "fullTextZH": "你去看看我的房间有一条龙。”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 75.98,
+        "endTime": 76.261,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 76.261,
+        "endTime": 76.843,
+        "gloss": "go"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 76.843,
+        "endTime": 78.005,
+        "gloss": "see"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 78.005,
+        "endTime": 78.326,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 78.326,
+        "endTime": 78.567,
+        "gloss": "of"
+      },
+      {
+        "word": "房间",
+        "pinyin": "fáng jiān",
+        "startTime": 78.567,
+        "endTime": 79.509,
+        "gloss": "room"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 79.509,
+        "endTime": 79.93,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条龙",
+        "pinyin": "yī tiáo lóng",
+        "startTime": 79.93,
+        "endTime": 81.093,
+        "gloss": "a dragon"
+      }
+    ],
+    "fullTextEN": "go and see, there is a dragon in my room.\""
+  },
+  {
+    "startTime": 82.6,
+    "endTime": 85.233,
+    "fullTextZH": "妈妈在做饭",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 82.821,
+        "endTime": 83.665,
+        "gloss": "mom"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 83.665,
+        "endTime": 84.228,
+        "gloss": "is"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 84.228,
+        "endTime": 84.811,
+        "gloss": "cooking"
+      }
+    ],
+    "fullTextEN": "Mom is cooking"
+  },
+  {
+    "startTime": 85.8,
+    "endTime": 88.266,
+    "fullTextZH": "她说：“孩子，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 86.021,
+        "endTime": 86.381,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 86.381,
+        "endTime": 86.602,
+        "gloss": "said"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 87.264,
+        "endTime": 88.226,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "She said, 'Child,'"
+  },
+  {
+    "startTime": 88.5,
+    "endTime": 91.466,
+    "fullTextZH": "世界上没有龙 。”",
+    "words": [
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 88.761,
+        "endTime": 89.282,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 89.282,
+        "endTime": 90.003,
+        "gloss": "on"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 90.003,
+        "endTime": 90.965,
+        "gloss": "not have"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 90.965,
+        "endTime": 91.426,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "There are no dragons in the world."
+  },
+  {
+    "startTime": 92.866,
+    "endTime": 94.9,
+    "fullTextZH": "Billy说：“不！",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 93.571,
+        "endTime": 93.833,
+        "gloss": "said"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 94.739,
+        "endTime": 94.86,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Billy said, 'No!'"
+  },
+  {
+    "startTime": 95.566,
+    "endTime": 99.633,
+    "fullTextZH": "我的房间真的有一条龙。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 95.746,
+        "endTime": 95.967,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 95.967,
+        "endTime": 96.207,
+        "gloss": "of"
+      },
+      {
+        "word": "房间",
+        "pinyin": "fáng jiān",
+        "startTime": 96.207,
+        "endTime": 97.049,
+        "gloss": "room"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 97.049,
+        "endTime": 98.05,
+        "gloss": "really"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 98.05,
+        "endTime": 98.331,
+        "gloss": "have"
+      },
+      {
+        "word": "一条龙",
+        "pinyin": "yī tiáo lóng",
+        "startTime": 98.331,
+        "endTime": 99.593,
+        "gloss": "a dragon"
+      }
+    ],
+    "fullTextEN": "There really is a dragon in my room."
+  },
+  {
+    "startTime": 101.133,
+    "endTime": 103.466,
+    "fullTextZH": "妈妈说：“孩子，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 101.314,
+        "endTime": 101.897,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 101.897,
+        "endTime": 102.541,
+        "gloss": "said"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 102.641,
+        "endTime": 103.426,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "Mom said, 'Child,'"
+  },
+  {
+    "startTime": 103.533,
+    "endTime": 107.2,
+    "fullTextZH": "世界上真的没有龙。”",
+    "words": [
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 103.733,
+        "endTime": 104.234,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 104.234,
+        "endTime": 104.795,
+        "gloss": "on"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 104.795,
+        "endTime": 105.978,
+        "gloss": "really"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 105.978,
+        "endTime": 106.759,
+        "gloss": "not have"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 106.759,
+        "endTime": 107.16,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "There really are no dragons in the world."
+  },
+  {
+    "startTime": 109.8,
+    "endTime": 112.833,
+    "fullTextZH": "Billy很难过",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 111.106,
+        "endTime": 111.728,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 111.728,
+        "endTime": 112.391,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "Billy was very sad."
+  },
+  {
+    "startTime": 113.433,
+    "endTime": 116.333,
+    "fullTextZH": "所以Billy走了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 113.655,
+        "endTime": 114.359,
+        "gloss": "so"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 115.165,
+        "endTime": 115.87,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 115.87,
+        "endTime": 116.293,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "So Billy left."
+  },
+  {
+    "startTime": 119.233,
+    "endTime": 122.933,
+    "fullTextZH": "Billy告诉这条龙，",
+    "words": [
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 120.359,
+        "endTime": 121.586,
+        "gloss": "told"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 121.586,
+        "endTime": 122.511,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 122.511,
+        "endTime": 122.893,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "Billy told the dragon,"
+  },
+  {
+    "startTime": 123.5,
+    "endTime": 124.5,
+    "fullTextZH": "他说：“",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 123.724,
+        "endTime": 124.051,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 124.051,
+        "endTime": 124.296,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said,"
+  },
+  {
+    "startTime": 125.3,
+    "endTime": 131.133,
+    "fullTextZH": "我的妈妈觉得世界上没有龙。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 125.52,
+        "endTime": 125.721,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 125.721,
+        "endTime": 125.861,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 125.861,
+        "endTime": 126.884,
+        "gloss": "mom"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 126.884,
+        "endTime": 128.106,
+        "gloss": "thinks"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "startTime": 128.106,
+        "endTime": 128.708,
+        "gloss": "world"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 128.708,
+        "endTime": 129.369,
+        "gloss": "on"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 129.369,
+        "endTime": 130.672,
+        "gloss": "not have"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 130.672,
+        "endTime": 131.093,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "My mom thinks there are no dragons in the world."
+  },
+  {
+    "startTime": 132.9,
+    "endTime": 135.333,
+    "fullTextZH": "这条龙听了，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 133.121,
+        "endTime": 133.745,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 133.745,
+        "endTime": 134.509,
+        "gloss": "dragon"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 134.509,
+        "endTime": 134.911,
+        "gloss": "listened"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 134.911,
+        "endTime": 135.293,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The dragon listened,"
+  },
+  {
+    "startTime": 135.433,
+    "endTime": 138.1,
+    "fullTextZH": "他也很难过，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 135.674,
+        "endTime": 135.994,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 135.994,
+        "endTime": 136.335,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 136.335,
+        "endTime": 137.198,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 137.198,
+        "endTime": 138.06,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "He was also very sad,"
+  },
+  {
+    "startTime": 139.733,
+    "endTime": 143.066,
+    "fullTextZH": "他们都很难过。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 139.954,
+        "endTime": 140.877,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 140.877,
+        "endTime": 141.44,
+        "gloss": "both"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 141.44,
+        "endTime": 142.122,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 142.122,
+        "endTime": 143.026,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "They were both very sad."
+  },
+  {
+    "startTime": 143.966,
+    "endTime": 146.6,
+    "fullTextZH": "可是慢慢地，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 144.227,
+        "endTime": 145.394,
+        "gloss": "but"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 145.394,
+        "endTime": 146.178,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 146.178,
+        "endTime": 146.56,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "But slowly,"
+  },
+  {
+    "startTime": 146.6,
+    "endTime": 153.033,
+    "fullTextZH": "慢慢地他们变成好朋友，",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 146.82,
+        "endTime": 147.662,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 147.662,
+        "endTime": 148.604,
+        "gloss": "de"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 148.604,
+        "endTime": 149.686,
+        "gloss": "they"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 149.686,
+        "endTime": 151.109,
+        "gloss": "became"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 151.109,
+        "endTime": 151.971,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 151.971,
+        "endTime": 152.993,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "Slowly they became good friends,"
+  },
+  {
+    "startTime": 156.5,
+    "endTime": 161.533,
+    "fullTextZH": "这条龙帮Billy拿裤子（裤子） ，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 156.761,
+        "endTime": 157.402,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 157.402,
+        "endTime": 158.144,
+        "gloss": "dragon"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 158.144,
+        "endTime": 158.686,
+        "gloss": "helped"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 159.608,
+        "endTime": 160.53,
+        "gloss": "get"
+      },
+      {
+        "word": "裤子",
+        "pinyin": "kù zi",
+        "startTime": 160.53,
+        "endTime": 161.232,
+        "gloss": "pants"
+      },
+      {
+        "word": "裤子",
+        "pinyin": "kù zi",
+        "startTime": 161.312,
+        "endTime": 161.493,
+        "gloss": "pants"
+      }
+    ],
+    "fullTextEN": "The dragon helped Billy get pants (pants),"
+  },
+  {
+    "startTime": 163.633,
+    "endTime": 169.6,
+    "fullTextZH": "这条龙帮Billy拿鞋子（鞋子） ，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 163.873,
+        "endTime": 164.454,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 164.454,
+        "endTime": 165.055,
+        "gloss": "dragon"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 165.055,
+        "endTime": 165.555,
+        "gloss": "helped"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 166.436,
+        "endTime": 167.417,
+        "gloss": "get"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 167.417,
+        "endTime": 168.298,
+        "gloss": "shoes"
+      },
+      {
+        "word": "鞋子",
+        "pinyin": "xié zi",
+        "startTime": 168.639,
+        "endTime": 169.56,
+        "gloss": "shoes"
+      }
+    ],
+    "fullTextEN": "The dragon helped Billy get shoes (shoes),"
+  },
+  {
+    "startTime": 171.9,
+    "endTime": 174.3,
+    "fullTextZH": "Billy去吃饭",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 172.929,
+        "endTime": 173.534,
+        "gloss": "went"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 173.534,
+        "endTime": 173.876,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Billy went to eat."
+  },
+  {
+    "startTime": 175.166,
+    "endTime": 179.7,
+    "fullTextZH": "Billy坐在（椅子）椅子上 ，",
+    "words": [
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 176.49,
+        "endTime": 176.911,
+        "gloss": "sat on"
+      },
+      {
+        "word": "椅子",
+        "pinyin": "yǐ zi",
+        "startTime": 177.433,
+        "endTime": 178.396,
+        "gloss": "chair"
+      },
+      {
+        "word": "椅子",
+        "pinyin": "yǐ zi",
+        "startTime": 178.556,
+        "endTime": 179.198,
+        "gloss": "chair"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 179.198,
+        "endTime": 179.66,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Billy sat on the chair (chair),"
+  },
+  {
+    "startTime": 180.0,
+    "endTime": 183.566,
+    "fullTextZH": "龙坐在桌子上。",
+    "words": [
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 180.24,
+        "endTime": 181.002,
+        "gloss": "dragon"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 181.002,
+        "endTime": 182.144,
+        "gloss": "sit on"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 182.144,
+        "endTime": 183.045,
+        "gloss": "table"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 183.045,
+        "endTime": 183.526,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "The dragon is sitting on the table."
+  },
+  {
+    "startTime": 184.866,
+    "endTime": 190.8,
+    "fullTextZH": "可是妈妈看不到这条龙，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 185.107,
+        "endTime": 186.269,
+        "gloss": "but"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 186.269,
+        "endTime": 187.693,
+        "gloss": "mom"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 187.693,
+        "endTime": 189.437,
+        "gloss": "can't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 189.437,
+        "endTime": 190.299,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 190.299,
+        "endTime": 190.76,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "But mom can't see this dragon,"
+  },
+  {
+    "startTime": 192.266,
+    "endTime": 199.8,
+    "fullTextZH": "妈妈做了很多很多煎饼给Billy吃 ，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 192.486,
+        "endTime": 193.328,
+        "gloss": "mom"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 193.328,
+        "endTime": 193.669,
+        "gloss": "make"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 193.669,
+        "endTime": 194.069,
+        "gloss": "did"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 194.069,
+        "endTime": 196.293,
+        "gloss": "many many"
+      },
+      {
+        "word": "煎饼",
+        "pinyin": "jiān bǐng",
+        "startTime": 196.293,
+        "endTime": 197.876,
+        "gloss": "pancakes"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 197.876,
+        "endTime": 198.718,
+        "gloss": "for"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 199.319,
+        "endTime": 199.76,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Mom made lots and lots of pancakes for Billy to eat,"
+  },
+  {
+    "startTime": 202.5,
+    "endTime": 209.933,
+    "fullTextZH": "可是这条龙把所有的煎饼都吃了，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 202.7,
+        "endTime": 203.622,
+        "gloss": "but"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 203.622,
+        "endTime": 204.303,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 204.303,
+        "endTime": 204.964,
+        "gloss": "dragon"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 204.964,
+        "endTime": 205.886,
+        "gloss": "all"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 205.886,
+        "endTime": 206.707,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 206.707,
+        "endTime": 207.008,
+        "gloss": "of"
+      },
+      {
+        "word": "煎饼",
+        "pinyin": "jiān bǐng",
+        "startTime": 207.008,
+        "endTime": 208.07,
+        "gloss": "pancakes"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 208.07,
+        "endTime": 209.272,
+        "gloss": "all"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 209.272,
+        "endTime": 209.512,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 209.512,
+        "endTime": 209.893,
+        "gloss": "did"
+      }
+    ],
+    "fullTextEN": "But this dragon ate all the pancakes,"
+  },
+  {
+    "startTime": 211.566,
+    "endTime": 216.066,
+    "fullTextZH": "所以妈妈一直做一直做，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 211.767,
+        "endTime": 212.47,
+        "gloss": "so"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 212.47,
+        "endTime": 213.434,
+        "gloss": "mom"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 213.434,
+        "endTime": 214.258,
+        "gloss": "continuously"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 214.258,
+        "endTime": 214.901,
+        "gloss": "make"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 214.901,
+        "endTime": 215.624,
+        "gloss": "continuously"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 215.624,
+        "endTime": 216.026,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "So mom kept making and making,"
+  },
+  {
+    "startTime": 216.833,
+    "endTime": 221.266,
+    "fullTextZH": "这条龙一直吃一直吃。",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 217.034,
+        "endTime": 217.675,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 217.675,
+        "endTime": 218.478,
+        "gloss": "dragon"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 218.478,
+        "endTime": 219.441,
+        "gloss": "continuously"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 219.441,
+        "endTime": 220.002,
+        "gloss": "eat"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 220.002,
+        "endTime": 220.805,
+        "gloss": "continuously"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 220.805,
+        "endTime": 221.226,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "This dragon kept eating and eating."
+  },
+  {
+    "startTime": 223.533,
+    "endTime": 226.666,
+    "fullTextZH": "妈妈觉得很奇怪，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 223.754,
+        "endTime": 224.437,
+        "gloss": "mom"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 224.437,
+        "endTime": 225.481,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 225.481,
+        "endTime": 225.923,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 225.923,
+        "endTime": 226.626,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Mom felt very strange,"
+  },
+  {
+    "startTime": 226.9,
+    "endTime": 230.733,
+    "fullTextZH": "可是妈妈不知道为什么，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 227.101,
+        "endTime": 227.482,
+        "gloss": "but"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 227.482,
+        "endTime": 228.566,
+        "gloss": "mom"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 228.566,
+        "endTime": 228.766,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 228.766,
+        "endTime": 229.569,
+        "gloss": "know"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 229.569,
+        "endTime": 230.693,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "But mom didn't know why,"
+  },
+  {
+    "startTime": 232.6,
+    "endTime": 238.033,
+    "fullTextZH": "因为妈妈看不到这条龙。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 232.78,
+        "endTime": 233.703,
+        "gloss": "because"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 233.703,
+        "endTime": 234.865,
+        "gloss": "mom"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 234.865,
+        "endTime": 236.529,
+        "gloss": "can't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 236.529,
+        "endTime": 237.612,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 237.612,
+        "endTime": 238.013,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "Because mom can't see this dragon."
+  },
+  {
+    "startTime": 240.7,
+    "endTime": 244.766,
+    "fullTextZH": "这条龙越来越大了，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 240.9,
+        "endTime": 241.561,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 241.561,
+        "endTime": 242.423,
+        "gloss": "dragon"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 242.423,
+        "endTime": 243.905,
+        "gloss": "more and more"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 243.905,
+        "endTime": 244.325,
+        "gloss": "big"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 244.325,
+        "endTime": 244.726,
+        "gloss": "did"
+      }
+    ],
+    "fullTextEN": "This dragon is getting bigger and bigger,"
+  },
+  {
+    "startTime": 245.366,
+    "endTime": 249.766,
+    "fullTextZH": "现在他和狗差不多大，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 245.567,
+        "endTime": 246.431,
+        "gloss": "now"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 246.431,
+        "endTime": 246.792,
+        "gloss": "he"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 246.792,
+        "endTime": 247.455,
+        "gloss": "with"
+      },
+      {
+        "word": "狗",
+        "pinyin": "gǒu",
+        "startTime": 247.455,
+        "endTime": 248.601,
+        "gloss": "dog"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 248.601,
+        "endTime": 249.585,
+        "gloss": "about"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 249.585,
+        "endTime": 249.726,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Now he is about the same size as a dog,"
+  },
+  {
+    "startTime": 250.7,
+    "endTime": 256.933,
+    "fullTextZH": "可是妈妈还是看不到这条龙，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 250.88,
+        "endTime": 251.882,
+        "gloss": "but"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 251.882,
+        "endTime": 252.824,
+        "gloss": "mom"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 252.824,
+        "endTime": 254.047,
+        "gloss": "still"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 254.047,
+        "endTime": 255.49,
+        "gloss": "can't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 255.49,
+        "endTime": 256.452,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 256.452,
+        "endTime": 256.893,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "But mom still can't see this dragon,"
+  },
+  {
+    "startTime": 259.233,
+    "endTime": 262.633,
+    "fullTextZH": "这条龙越来越大，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 259.454,
+        "endTime": 259.937,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 259.937,
+        "endTime": 260.601,
+        "gloss": "dragon"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 260.601,
+        "endTime": 262.211,
+        "gloss": "more and more"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 262.211,
+        "endTime": 262.593,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "This dragon is getting bigger and bigger,"
+  },
+  {
+    "startTime": 263.3,
+    "endTime": 265.2,
+    "fullTextZH": "越来越大。",
+    "words": [
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 263.502,
+        "endTime": 264.755,
+        "gloss": "more and more"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 264.755,
+        "endTime": 265.16,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Bigger and bigger."
+  },
+  {
+    "startTime": 265.966,
+    "endTime": 271.566,
+    "fullTextZH": "现在这条龙和客厅差不多大，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 266.167,
+        "endTime": 267.15,
+        "gloss": "now"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 267.15,
+        "endTime": 267.772,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 267.772,
+        "endTime": 268.375,
+        "gloss": "dragon"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 268.375,
+        "endTime": 269.278,
+        "gloss": "with"
+      },
+      {
+        "word": "客厅",
+        "pinyin": "kè tīng",
+        "startTime": 269.278,
+        "endTime": 270.322,
+        "gloss": "living room"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 270.322,
+        "endTime": 271.165,
+        "gloss": "about"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 271.165,
+        "endTime": 271.526,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Now this dragon is about the same size as the living room,"
+  },
+  {
+    "startTime": 272.233,
+    "endTime": 278.333,
+    "fullTextZH": "可是妈妈还是看不到这条龙，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 272.434,
+        "endTime": 273.457,
+        "gloss": "but"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 273.457,
+        "endTime": 274.641,
+        "gloss": "mom"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 274.641,
+        "endTime": 275.905,
+        "gloss": "still"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 275.905,
+        "endTime": 277.149,
+        "gloss": "can't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 277.149,
+        "endTime": 277.892,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 277.892,
+        "endTime": 278.293,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "But mom still can't see this dragon,"
+  },
+  {
+    "startTime": 280.233,
+    "endTime": 286.666,
+    "fullTextZH": "现在这条龙和房子一样大，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 280.433,
+        "endTime": 281.636,
+        "gloss": "now"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 281.636,
+        "endTime": 282.317,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 282.317,
+        "endTime": 283.019,
+        "gloss": "dragon"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 283.019,
+        "endTime": 283.76,
+        "gloss": "with"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 283.76,
+        "endTime": 285.383,
+        "gloss": "house"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 285.383,
+        "endTime": 286.225,
+        "gloss": "same"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 286.225,
+        "endTime": 286.626,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Now this dragon is as big as the house,"
+  },
+  {
+    "startTime": 288.366,
+    "endTime": 294.066,
+    "fullTextZH": "可是妈妈还是看不到这条龙。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 288.587,
+        "endTime": 289.51,
+        "gloss": "but"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 289.51,
+        "endTime": 290.293,
+        "gloss": "mom"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 290.293,
+        "endTime": 291.577,
+        "gloss": "still"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 291.577,
+        "endTime": 292.761,
+        "gloss": "can't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 292.761,
+        "endTime": 293.624,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 293.624,
+        "endTime": 294.026,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "But mom still can't see this dragon."
+  },
+  {
+    "startTime": 296.0,
+    "endTime": 296.966,
+    "fullTextZH": "一天",
+    "words": [
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 296.201,
+        "endTime": 296.523,
+        "gloss": "one day"
+      }
+    ],
+    "fullTextEN": "One day"
+  },
+  {
+    "startTime": 298.066,
+    "endTime": 304.366,
+    "fullTextZH": "来了一个卖面包的车（面包） ，",
+    "words": [
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 298.267,
+        "endTime": 298.608,
+        "gloss": "come"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 298.608,
+        "endTime": 299.069,
+        "gloss": "did"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 299.069,
+        "endTime": 300.072,
+        "gloss": "a"
+      },
+      {
+        "word": "卖",
+        "pinyin": "mài",
+        "startTime": 300.072,
+        "endTime": 300.875,
+        "gloss": "sell"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 300.875,
+        "endTime": 301.838,
+        "gloss": "bread"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 301.838,
+        "endTime": 302.099,
+        "gloss": "of"
+      },
+      {
+        "word": "车",
+        "pinyin": "chē",
+        "startTime": 302.099,
+        "endTime": 303.202,
+        "gloss": "truck"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 303.323,
+        "endTime": 304.326,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "A bread-selling truck (bread) came,"
+  },
+  {
+    "startTime": 304.733,
+    "endTime": 309.4,
+    "fullTextZH": "这条龙闻了，他说：“啊～",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 304.913,
+        "endTime": 305.554,
+        "gloss": "this"
+      },
+      {
+        "word": "龙闻",
+        "pinyin": "lóng wén",
+        "startTime": 305.554,
+        "endTime": 307.637,
+        "gloss": "dragon"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 307.637,
+        "endTime": 307.958,
+        "gloss": "smelled"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 308.158,
+        "endTime": 308.479,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 308.479,
+        "endTime": 308.899,
+        "gloss": "said"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 308.939,
+        "endTime": 309.36,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "The dragon smelled it and said, 'Ah~'"
+  },
+  {
+    "startTime": 309.566,
+    "endTime": 316.066,
+    "fullTextZH": "好香啊！我最喜欢吃面包。”",
+    "words": [
+      {
+        "word": "好香",
+        "pinyin": "hǎo xiāng",
+        "startTime": 309.787,
+        "endTime": 311.01,
+        "gloss": "so"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 311.01,
+        "endTime": 311.311,
+        "gloss": "fragrant"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 312.054,
+        "endTime": 312.435,
+        "gloss": "I"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 312.435,
+        "endTime": 313.438,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 313.438,
+        "endTime": 314.301,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 314.301,
+        "endTime": 315.063,
+        "gloss": "eat"
+      },
+      {
+        "word": "面包",
+        "pinyin": "miàn bāo",
+        "startTime": 315.063,
+        "endTime": 316.026,
+        "gloss": "bread"
+      }
+    ],
+    "fullTextEN": "So fragrant! I love eating bread the most.'"
+  },
+  {
+    "startTime": 318.466,
+    "endTime": 321.5,
+    "fullTextZH": "所以面包车走，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 318.667,
+        "endTime": 319.471,
+        "gloss": "so"
+      },
+      {
+        "word": "面包车",
+        "pinyin": "miàn bāo chē",
+        "startTime": 319.471,
+        "endTime": 321.038,
+        "gloss": "bread truck"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 321.038,
+        "endTime": 321.46,
+        "gloss": "left"
+      }
+    ],
+    "fullTextEN": "So the bread truck left,"
+  },
+  {
+    "startTime": 322.2,
+    "endTime": 324.9,
+    "fullTextZH": "这条龙也走，",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 322.462,
+        "endTime": 323.107,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 323.107,
+        "endTime": 323.792,
+        "gloss": "dragon"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 323.792,
+        "endTime": 324.416,
+        "gloss": "also"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 324.416,
+        "endTime": 324.88,
+        "gloss": "left"
+      }
+    ],
+    "fullTextEN": "and the dragon left too,"
+  },
+  {
+    "startTime": 326.9,
+    "endTime": 334.1,
+    "fullTextZH": "可是这条龙带着这个房子一起走。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 327.121,
+        "endTime": 328.023,
+        "gloss": "but"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 328.023,
+        "endTime": 328.745,
+        "gloss": "this"
+      },
+      {
+        "word": "龙带",
+        "pinyin": "lóng dài",
+        "startTime": 328.745,
+        "endTime": 330.169,
+        "gloss": "dragon"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 330.169,
+        "endTime": 330.811,
+        "gloss": "took"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 330.811,
+        "endTime": 331.433,
+        "gloss": "with"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 331.433,
+        "endTime": 332.596,
+        "gloss": "this"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 332.596,
+        "endTime": 333.639,
+        "gloss": "house"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 333.639,
+        "endTime": 334.08,
+        "gloss": "together"
+      }
+    ],
+    "fullTextEN": "but the dragon took the house with him."
+  },
+  {
+    "startTime": 339.166,
+    "endTime": 342.133,
+    "fullTextZH": "Billy的爸爸回家了，",
+    "words": [
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 339.787,
+        "endTime": 340.048,
+        "gloss": "'s"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 340.048,
+        "endTime": 341.05,
+        "gloss": "dad"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 341.05,
+        "endTime": 341.732,
+        "gloss": "came home"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 341.732,
+        "endTime": 342.093,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Billy's dad came home,"
+  },
+  {
+    "startTime": 342.466,
+    "endTime": 344.133,
+    "fullTextZH": "他发现",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 342.647,
+        "endTime": 342.908,
+        "gloss": "he"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 342.908,
+        "endTime": 343.189,
+        "gloss": "discovered"
+      }
+    ],
+    "fullTextEN": "and he discovered"
+  },
+  {
+    "startTime": 344.433,
+    "endTime": 347.3,
+    "fullTextZH": "他的房子不见了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 344.593,
+        "endTime": 344.794,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 344.794,
+        "endTime": 345.055,
+        "gloss": "'s"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 345.055,
+        "endTime": 346.257,
+        "gloss": "house"
+      },
+      {
+        "word": "不见",
+        "pinyin": "bú jiàn",
+        "startTime": 346.257,
+        "endTime": 346.899,
+        "gloss": "gone"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 346.899,
+        "endTime": 347.26,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "that his house was gone,"
+  },
+  {
+    "startTime": 347.766,
+    "endTime": 351.133,
+    "fullTextZH": "为什么房子不见了？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 347.946,
+        "endTime": 349.049,
+        "gloss": "why"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 349.049,
+        "endTime": 350.071,
+        "gloss": "house"
+      },
+      {
+        "word": "不见",
+        "pinyin": "bú jiàn",
+        "startTime": 350.071,
+        "endTime": 350.752,
+        "gloss": "gone"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 350.752,
+        "endTime": 351.093,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Why was the house gone?"
+  },
+  {
+    "startTime": 352.433,
+    "endTime": 355.4,
+    "fullTextZH": "他的邻居告诉他，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 352.573,
+        "endTime": 352.794,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.794,
+        "endTime": 352.974,
+        "gloss": "'s"
+      },
+      {
+        "word": "邻居",
+        "pinyin": "lín jū",
+        "startTime": 352.974,
+        "endTime": 354.317,
+        "gloss": "neighbor"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 354.317,
+        "endTime": 354.939,
+        "gloss": "told"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 354.939,
+        "endTime": 355.36,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "His neighbor told him,"
+  },
+  {
+    "startTime": 355.9,
+    "endTime": 359.1,
+    "fullTextZH": "我看到有一条龙，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 356.021,
+        "endTime": 356.443,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 356.443,
+        "endTime": 357.591,
+        "gloss": "saw"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 357.591,
+        "endTime": 357.892,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条龙",
+        "pinyin": "yī tiáo lóng",
+        "startTime": 357.892,
+        "endTime": 359.06,
+        "gloss": "a dragon"
+      }
+    ],
+    "fullTextEN": "I saw a dragon,"
+  },
+  {
+    "startTime": 360.233,
+    "endTime": 363.333,
+    "fullTextZH": "带着你的房子走了，",
+    "words": [
+      {
+        "word": "带",
+        "pinyin": "dài",
+        "startTime": 360.434,
+        "endTime": 360.797,
+        "gloss": "taking"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 360.797,
+        "endTime": 361.038,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 361.038,
+        "endTime": 361.239,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 361.239,
+        "endTime": 361.501,
+        "gloss": "'s"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 361.501,
+        "endTime": 362.548,
+        "gloss": "house"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 362.548,
+        "endTime": 362.93,
+        "gloss": "away"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 362.93,
+        "endTime": 363.293,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "taking your house away,"
+  },
+  {
+    "startTime": 364.333,
+    "endTime": 366.166,
+    "fullTextZH": "他们去那儿？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 364.514,
+        "endTime": 365.179,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 365.179,
+        "endTime": 365.743,
+        "gloss": "go"
+      },
+      {
+        "word": "那儿",
+        "pinyin": "nà ér",
+        "startTime": 365.743,
+        "endTime": 366.126,
+        "gloss": "where"
+      }
+    ],
+    "fullTextEN": "Where did they go?"
+  },
+  {
+    "startTime": 366.7,
+    "endTime": 367.933,
+    "fullTextZH": "去那儿了。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 366.882,
+        "endTime": 367.145,
+        "gloss": "went"
+      },
+      {
+        "word": "那儿",
+        "pinyin": "nà ér",
+        "startTime": 367.145,
+        "endTime": 367.549,
+        "gloss": "there"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 367.549,
+        "endTime": 367.893,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "They went there."
+  },
+  {
+    "startTime": 371.166,
+    "endTime": 377.633,
+    "fullTextZH": "所以爸爸很快开车（开车）去找他的房子，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 371.346,
+        "endTime": 371.767,
+        "gloss": "so"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 371.767,
+        "endTime": 372.287,
+        "gloss": "dad"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 372.287,
+        "endTime": 373.108,
+        "gloss": "quickly"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 373.108,
+        "endTime": 373.468,
+        "gloss": "drive"
+      },
+      {
+        "word": "开车",
+        "pinyin": "kāi chē",
+        "startTime": 374.069,
+        "endTime": 374.47,
+        "gloss": "drive"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 375.23,
+        "endTime": 375.631,
+        "gloss": "to"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 375.631,
+        "endTime": 376.452,
+        "gloss": "find"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 376.452,
+        "endTime": 376.672,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 376.672,
+        "endTime": 376.872,
+        "gloss": "'s"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 376.872,
+        "endTime": 377.593,
+        "gloss": "house"
+      }
+    ],
+    "fullTextEN": "So dad quickly drove to find his house,"
+  },
+  {
+    "startTime": 379.6,
+    "endTime": 383.8,
+    "fullTextZH": "爸爸找啊找啊，找啊。",
+    "words": [
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 379.801,
+        "endTime": 380.685,
+        "gloss": "dad"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 380.685,
+        "endTime": 381.047,
+        "gloss": "search"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 381.047,
+        "endTime": 381.931,
+        "gloss": "ah"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 381.931,
+        "endTime": 382.293,
+        "gloss": "search"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 382.293,
+        "endTime": 382.554,
+        "gloss": "ah"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 383.117,
+        "endTime": 383.438,
+        "gloss": "search"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 383.438,
+        "endTime": 383.76,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Dad searched and searched, searched."
+  },
+  {
+    "startTime": 384.833,
+    "endTime": 389.033,
+    "fullTextZH": "突然爸爸听到有人说：“",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 385.034,
+        "endTime": 385.978,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 385.978,
+        "endTime": 386.702,
+        "gloss": "dad"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 386.702,
+        "endTime": 388.028,
+        "gloss": "heard"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 388.028,
+        "endTime": 388.611,
+        "gloss": "someone"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 388.611,
+        "endTime": 388.993,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Suddenly dad heard someone say:"
+  },
+  {
+    "startTime": 391.066,
+    "endTime": 394.2,
+    "fullTextZH": "爸爸，爸爸，我们在这儿。”",
+    "words": [
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 391.307,
+        "endTime": 391.649,
+        "gloss": "dad"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 392.091,
+        "endTime": 392.713,
+        "gloss": "dad"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 392.934,
+        "endTime": 393.416,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 393.416,
+        "endTime": 393.798,
+        "gloss": "at"
+      },
+      {
+        "word": "这儿",
+        "pinyin": "zhè ér",
+        "startTime": 393.798,
+        "endTime": 394.16,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "Dad, dad, we are here.'"
+  },
+  {
+    "startTime": 395.366,
+    "endTime": 400.566,
+    "fullTextZH": "所以Billy的爸爸找到了房子，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 395.567,
+        "endTime": 396.551,
+        "gloss": "so"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 396.912,
+        "endTime": 397.093,
+        "gloss": "'s"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 397.093,
+        "endTime": 398.097,
+        "gloss": "dad"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 398.097,
+        "endTime": 399.02,
+        "gloss": "found"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 399.02,
+        "endTime": 399.683,
+        "gloss": ""
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 399.683,
+        "endTime": 400.526,
+        "gloss": "house"
+      }
+    ],
+    "fullTextEN": "So Billy's dad found the house,"
+  },
+  {
+    "startTime": 401.166,
+    "endTime": 405.966,
+    "fullTextZH": "然后他们一起回家了。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 401.367,
+        "endTime": 402.411,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 402.411,
+        "endTime": 403.315,
+        "gloss": "they"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 403.315,
+        "endTime": 404.64,
+        "gloss": "together"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 404.64,
+        "endTime": 405.544,
+        "gloss": "went home"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 405.544,
+        "endTime": 405.926,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "and then they went home together."
+  },
+  {
+    "startTime": 409.233,
+    "endTime": 411.933,
+    "fullTextZH": "现在这条龙",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 409.414,
+        "endTime": 410.543,
+        "gloss": "now"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 410.543,
+        "endTime": 411.47,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 411.47,
+        "endTime": 411.49,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "Now this dragon"
+  },
+  {
+    "startTime": 412.433,
+    "endTime": 414.9,
+    "fullTextZH": "又变得很小",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 412.614,
+        "endTime": 413.336,
+        "gloss": "again"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 413.336,
+        "endTime": 413.957,
+        "gloss": "become"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 413.957,
+        "endTime": 414.419,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "has become small again"
+  },
+  {
+    "startTime": 416.033,
+    "endTime": 419.4,
+    "fullTextZH": "和一只猫差不多，",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 416.153,
+        "endTime": 416.634,
+        "gloss": "with"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 416.634,
+        "endTime": 417.296,
+        "gloss": "a"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 417.296,
+        "endTime": 418.278,
+        "gloss": "cat"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 418.278,
+        "endTime": 419.36,
+        "gloss": "about"
+      }
+    ],
+    "fullTextEN": "is about the size of a cat,"
+  },
+  {
+    "startTime": 421.066,
+    "endTime": 423.4,
+    "fullTextZH": "妈妈说：“嗯～",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 421.227,
+        "endTime": 422.072,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 422.072,
+        "endTime": 422.515,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 422.977,
+        "endTime": 423.36,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Mom said: \"Hmm~"
+  },
+  {
+    "startTime": 423.733,
+    "endTime": 427.166,
+    "fullTextZH": "我喜欢小小的龙",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 423.954,
+        "endTime": 424.476,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 424.476,
+        "endTime": 425.68,
+        "gloss": "like"
+      },
+      {
+        "word": "小小的",
+        "pinyin": "xiǎo xiǎo de",
+        "startTime": 425.68,
+        "endTime": 426.744,
+        "gloss": "small"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 426.744,
+        "endTime": 426.764,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "I like small dragons"
+  },
+  {
+    "startTime": 427.833,
+    "endTime": 431.666,
+    "fullTextZH": "为什么他变得那么大 ？”",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 428.054,
+        "endTime": 429.218,
+        "gloss": "why"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 429.218,
+        "endTime": 429.619,
+        "gloss": "he"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 429.619,
+        "endTime": 430.241,
+        "gloss": "become"
+      },
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 430.241,
+        "endTime": 431.225,
+        "gloss": "so"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 431.225,
+        "endTime": 431.626,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Why did he become so big?\""
+  },
+  {
+    "startTime": 434.433,
+    "endTime": 437.2,
+    "fullTextZH": "Billy说：“妈妈！",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 435.315,
+        "endTime": 436.177,
+        "gloss": "said"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 436.478,
+        "endTime": 437.16,
+        "gloss": "mom"
+      }
+    ],
+    "fullTextEN": "Billy said: \"Mom!"
+  },
+  {
+    "startTime": 437.233,
+    "endTime": 441.566,
+    "fullTextZH": "因为你看不到这条龙，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 437.454,
+        "endTime": 437.975,
+        "gloss": "because"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 437.975,
+        "endTime": 438.617,
+        "gloss": "you"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 438.617,
+        "endTime": 440.463,
+        "gloss": "couldn't see"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 440.463,
+        "endTime": 441.125,
+        "gloss": "this"
+      },
+      {
+        "word": "龙",
+        "pinyin": "lóng",
+        "startTime": 441.125,
+        "endTime": 441.526,
+        "gloss": "dragon"
+      }
+    ],
+    "fullTextEN": "Because you couldn't see this dragon,"
+  },
+  {
+    "startTime": 441.833,
+    "endTime": 445.033,
+    "fullTextZH": "所以他变得那么大。”",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 442.054,
+        "endTime": 442.759,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 442.759,
+        "endTime": 443.141,
+        "gloss": "he"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 443.141,
+        "endTime": 443.745,
+        "gloss": "became"
+      },
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 443.745,
+        "endTime": 444.61,
+        "gloss": "so"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 444.61,
+        "endTime": 444.993,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "so he became so big.\""
+  },
+  {
+    "startTime": 447.566,
+    "endTime": 451.033,
+    "fullTextZH": "好，这就是今天的故事，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 447.686,
+        "endTime": 447.947,
+        "gloss": "okay"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 448.328,
+        "endTime": 448.708,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 448.708,
+        "endTime": 449.45,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 449.45,
+        "endTime": 450.091,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 450.091,
+        "endTime": 450.271,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 450.271,
+        "endTime": 450.993,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Okay, that's today's story,"
+  },
+  {
+    "startTime": 451.366,
+    "endTime": 454.6,
+    "fullTextZH": "你喜欢今天的故事吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 451.487,
+        "endTime": 452.029,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 452.029,
+        "endTime": 452.993,
+        "gloss": "like"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 452.993,
+        "endTime": 453.535,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 453.535,
+        "endTime": 453.736,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 453.736,
+        "endTime": 454.218,
+        "gloss": "story"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 454.218,
+        "endTime": 454.56,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like today's story?"
+  },
+  {
+    "startTime": 455.7,
+    "endTime": 457.433,
+    "fullTextZH": "留言告诉我，",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 455.841,
+        "endTime": 456.526,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 456.526,
+        "endTime": 457.01,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 457.01,
+        "endTime": 457.393,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment to tell me,"
+  },
+  {
+    "startTime": 458.366,
+    "endTime": 461.033,
+    "fullTextZH": "谢谢下次见拜拜！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 458.546,
+        "endTime": 459.248,
+        "gloss": "thanks"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 459.248,
+        "endTime": 459.81,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 459.81,
+        "endTime": 460.512,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 460.512,
+        "endTime": 461.013,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Thanks, see you next time, bye!"
+  }
+]

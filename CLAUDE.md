@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+Never hardcode credential values. Always use process.env.X references.
+Never read .env files directly.
+
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Three Apps, Two Repos
@@ -156,4 +160,5 @@ If Railway returns `x-railway-fallback: true` on all responses, the account has 
 - `04_SERVER_ARCHITECTURE.md` — all API routes, TTS engines, env vars, known issues
 - `01_PLATFORM_API.md` — CMB platform auth and API endpoints
 - `02_EXTRACTION_WORKFLOW.md` — how to download new course videos
+
 - `05_ADDING_CONTENT.md` — how to add new lessons or CM SCHOOL vocabulary blocks

@@ -1,0 +1,3115 @@
+[
+  {
+    "startTime": 0.4,
+    "endTime": 6.0,
+    "fullTextZH": "你好！今天我们做一个calendar talk。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.4,
+        "endTime": 1.243,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 1.665,
+        "endTime": 2.648,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 2.648,
+        "endTime": 3.23,
+        "gloss": "we"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 3.23,
+        "endTime": 3.752,
+        "gloss": "do"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 3.752,
+        "endTime": 4.695,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "Hello! Today we are doing a calendar talk."
+  },
+  {
+    "startTime": 6.733,
+    "endTime": 8.933,
+    "fullTextZH": "对，你们看，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 6.814,
+        "endTime": 7.359,
+        "gloss": "yes"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 7.54,
+        "endTime": 8.267,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 8.267,
+        "endTime": 8.893,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "Yes, you see,"
+  },
+  {
+    "startTime": 9.7,
+    "endTime": 12.8,
+    "fullTextZH": "这是一个日历。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 9.861,
+        "endTime": 11.23,
+        "gloss": "this is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 11.23,
+        "endTime": 12.035,
+        "gloss": "a"
+      },
+      {
+        "word": "日历",
+        "pinyin": "rì lì",
+        "startTime": 12.035,
+        "endTime": 12.76,
+        "gloss": "calendar"
+      }
+    ],
+    "fullTextEN": "This is a calendar."
+  },
+  {
+    "startTime": 13.0,
+    "endTime": 14.6,
+    "fullTextZH": "你看星期，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 13.081,
+        "endTime": 13.223,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 13.223,
+        "endTime": 13.689,
+        "gloss": "look"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 13.689,
+        "endTime": 14.559,
+        "gloss": "week"
+      }
+    ],
+    "fullTextEN": "You look at the week,"
+  },
+  {
+    "startTime": 15.533,
+    "endTime": 18.699,
+    "fullTextZH": "星期，星期一。",
+    "words": [
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 15.533,
+        "endTime": 16.615,
+        "gloss": "week"
+      },
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 16.775,
+        "endTime": 18.659,
+        "gloss": "Monday"
+      }
+    ],
+    "fullTextEN": "Week, Monday."
+  },
+  {
+    "startTime": 18.733,
+    "endTime": 26.499,
+    "fullTextZH": "星期二、星期三、星期四、星期五、星期六。",
+    "words": [
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 18.813,
+        "endTime": 19.914,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 20.454,
+        "endTime": 21.495,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 22.076,
+        "endTime": 23.417,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 23.597,
+        "endTime": 24.998,
+        "gloss": "Friday"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 25.238,
+        "endTime": 26.459,
+        "gloss": "Saturday"
+      }
+    ],
+    "fullTextEN": "Tuesday, Wednesday, Thursday, Friday, Saturday."
+  },
+  {
+    "startTime": 26.5,
+    "endTime": 27.933,
+    "fullTextZH": "星期日。",
+    "words": [
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 26.601,
+        "endTime": 27.893,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Sunday."
+  },
+  {
+    "startTime": 28.933,
+    "endTime": 31.733,
+    "fullTextZH": "今天，今天是",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 28.953,
+        "endTime": 29.779,
+        "gloss": "today"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 30.061,
+        "endTime": 31.008,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 31.008,
+        "endTime": 31.028,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Today, today is"
+  },
+  {
+    "startTime": 31.733,
+    "endTime": 36.666,
+    "fullTextZH": "在澳大利亚是星期三，对。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 31.813,
+        "endTime": 32.154,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 32.154,
+        "endTime": 33.498,
+        "gloss": "Australia"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 33.498,
+        "endTime": 34.2,
+        "gloss": "is"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 34.2,
+        "endTime": 35.683,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 36.084,
+        "endTime": 36.626,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "In Australia, it is Wednesday, right."
+  },
+  {
+    "startTime": 36.933,
+    "endTime": 38.099,
+    "fullTextZH": "今天。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 37.074,
+        "endTime": 38.059,
+        "gloss": "today"
+      }
+    ],
+    "fullTextEN": "Today."
+  },
+  {
+    "startTime": 39.4,
+    "endTime": 42.366,
+    "fullTextZH": "今天是星期几？",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 39.46,
+        "endTime": 40.182,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 40.182,
+        "endTime": 40.703,
+        "gloss": "is"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 40.703,
+        "endTime": 41.504,
+        "gloss": "week"
+      },
+      {
+        "word": "几",
+        "pinyin": "jǐ",
+        "startTime": 41.504,
+        "endTime": 42.326,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What day is it today?"
+  },
+  {
+    "startTime": 43.0,
+    "endTime": 47.666,
+    "fullTextZH": "今天在澳大利亚是星期三。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 43.12,
+        "endTime": 43.981,
+        "gloss": "today"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 43.981,
+        "endTime": 44.422,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 44.422,
+        "endTime": 45.784,
+        "gloss": "Australia"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 45.784,
+        "endTime": 46.244,
+        "gloss": "is"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 46.244,
+        "endTime": 47.626,
+        "gloss": "Wednesday"
+      }
+    ],
+    "fullTextEN": "Today in Australia is Wednesday."
+  },
+  {
+    "startTime": 48.133,
+    "endTime": 50.133,
+    "fullTextZH": "星期三，对。",
+    "words": [
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 48.254,
+        "endTime": 49.123,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 49.466,
+        "endTime": 50.093,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Wednesday, right."
+  },
+  {
+    "startTime": 50.666,
+    "endTime": 53.699,
+    "fullTextZH": "昨天是星期几？",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 50.686,
+        "endTime": 51.55,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 51.55,
+        "endTime": 51.992,
+        "gloss": "is"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 51.992,
+        "endTime": 52.775,
+        "gloss": "week"
+      },
+      {
+        "word": "几",
+        "pinyin": "jǐ",
+        "startTime": 52.775,
+        "endTime": 53.659,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What day was it yesterday?"
+  },
+  {
+    "startTime": 54.466,
+    "endTime": 58.966,
+    "fullTextZH": "昨天是星期二，对。",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 54.566,
+        "endTime": 55.631,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 55.631,
+        "endTime": 56.254,
+        "gloss": "is"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 56.254,
+        "endTime": 57.741,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 58.283,
+        "endTime": 58.926,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Yesterday was Tuesday, right."
+  },
+  {
+    "startTime": 58.966,
+    "endTime": 61.699,
+    "fullTextZH": "昨天是星期二。",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 59.046,
+        "endTime": 59.89,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 59.89,
+        "endTime": 60.292,
+        "gloss": "is"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 60.292,
+        "endTime": 61.659,
+        "gloss": "Tuesday"
+      }
+    ],
+    "fullTextEN": "Yesterday was Tuesday."
+  },
+  {
+    "startTime": 62.666,
+    "endTime": 66.733,
+    "fullTextZH": "明天，明天是星期几？",
+    "words": [
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 62.686,
+        "endTime": 64.108,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 64.129,
+        "endTime": 64.85,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 64.85,
+        "endTime": 65.21,
+        "gloss": "is"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 65.21,
+        "endTime": 65.811,
+        "gloss": "week"
+      },
+      {
+        "word": "几",
+        "pinyin": "jǐ",
+        "startTime": 65.811,
+        "endTime": 66.693,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Tomorrow, what day is it tomorrow?"
+  },
+  {
+    "startTime": 67.366,
+    "endTime": 71.566,
+    "fullTextZH": "明天是星期四，对。",
+    "words": [
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 67.426,
+        "endTime": 68.29,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 68.29,
+        "endTime": 68.692,
+        "gloss": "is"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 68.692,
+        "endTime": 70.742,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 71.084,
+        "endTime": 71.526,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Tomorrow is Thursday, right."
+  },
+  {
+    "startTime": 71.566,
+    "endTime": 74.099,
+    "fullTextZH": "明天是星期四。",
+    "words": [
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 71.626,
+        "endTime": 72.29,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 72.29,
+        "endTime": 72.652,
+        "gloss": "is"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 72.652,
+        "endTime": 74.059,
+        "gloss": "Thursday"
+      }
+    ],
+    "fullTextEN": "Tomorrow is Thursday."
+  },
+  {
+    "startTime": 75.333,
+    "endTime": 82.199,
+    "fullTextZH": "星期一、星期二、星期三、星期四、星期五，",
+    "words": [
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 75.353,
+        "endTime": 76.074,
+        "gloss": "Monday"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 76.754,
+        "endTime": 77.715,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 77.955,
+        "endTime": 79.096,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 79.296,
+        "endTime": 80.498,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 80.718,
+        "endTime": 82.159,
+        "gloss": "Friday"
+      }
+    ],
+    "fullTextEN": "Monday, Tuesday, Wednesday, Thursday, Friday,"
+  },
+  {
+    "startTime": 82.733,
+    "endTime": 84.999,
+    "fullTextZH": "我要工作。",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 83.054,
+        "endTime": 84.097,
+        "gloss": "I need"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 84.097,
+        "endTime": 84.959,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I need to work."
+  },
+  {
+    "startTime": 85.133,
+    "endTime": 86.899,
+    "fullTextZH": "你呢？你",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 85.233,
+        "endTime": 85.434,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 85.434,
+        "endTime": 85.916,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 86.096,
+        "endTime": 86.116,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "What about you? You"
+  },
+  {
+    "startTime": 86.9,
+    "endTime": 92.5,
+    "fullTextZH": "星期一、星期二、星期三、星期四、星期五，",
+    "words": [
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 86.96,
+        "endTime": 87.703,
+        "gloss": "Monday"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 87.944,
+        "endTime": 88.706,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 88.947,
+        "endTime": 89.871,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 90.031,
+        "endTime": 91.115,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 91.256,
+        "endTime": 92.46,
+        "gloss": "Friday"
+      }
+    ],
+    "fullTextEN": "Monday, Tuesday, Wednesday, Thursday, Friday,"
+  },
+  {
+    "startTime": 92.5,
+    "endTime": 95.5,
+    "fullTextZH": "你要不要工作？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 92.56,
+        "endTime": 93.346,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 93.346,
+        "endTime": 93.93,
+        "gloss": "want"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 93.93,
+        "endTime": 94.674,
+        "gloss": "not want"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 94.674,
+        "endTime": 95.46,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Do you want to work?"
+  },
+  {
+    "startTime": 96.0,
+    "endTime": 97.7,
+    "fullTextZH": "我要工作。",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 96.243,
+        "endTime": 96.911,
+        "gloss": "I need"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 96.911,
+        "endTime": 97.66,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I need to work."
+  },
+  {
+    "startTime": 98.566,
+    "endTime": 99.799,
+    "fullTextZH": "星期六。",
+    "words": [
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 99.031,
+        "endTime": 99.759,
+        "gloss": "Saturday"
+      }
+    ],
+    "fullTextEN": "Saturday."
+  },
+  {
+    "startTime": 100.8,
+    "endTime": 103.9,
+    "fullTextZH": "我也要工作。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 100.981,
+        "endTime": 102.048,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 102.048,
+        "endTime": 102.41,
+        "gloss": "also"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 102.41,
+        "endTime": 102.894,
+        "gloss": "need"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 102.894,
+        "endTime": 103.86,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I also need to work."
+  },
+  {
+    "startTime": 104.466,
+    "endTime": 106.499,
+    "fullTextZH": "我难过吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 104.567,
+        "endTime": 105.231,
+        "gloss": "I"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 105.231,
+        "endTime": 106.016,
+        "gloss": "sad"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 106.016,
+        "endTime": 106.459,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Am I sad?"
+  },
+  {
+    "startTime": 106.5,
+    "endTime": 108.1,
+    "fullTextZH": "嗯～不，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 106.662,
+        "endTime": 107.351,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 107.371,
+        "endTime": 108.059,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Hmm, no,"
+  },
+  {
+    "startTime": 108.133,
+    "endTime": 110.133,
+    "fullTextZH": "我不难过。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 108.618,
+        "endTime": 108.638,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 108.638,
+        "endTime": 109.143,
+        "gloss": "not"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 109.143,
+        "endTime": 110.093,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "I am not sad."
+  },
+  {
+    "startTime": 110.566,
+    "endTime": 112.599,
+    "fullTextZH": "因为星期六",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 110.626,
+        "endTime": 111.532,
+        "gloss": "because"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 111.532,
+        "endTime": 112.217,
+        "gloss": "Saturday"
+      }
+    ],
+    "fullTextEN": "Because on Saturday"
+  },
+  {
+    "startTime": 113.3,
+    "endTime": 118.5,
+    "fullTextZH": "我工作两个小时，对。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 113.42,
+        "endTime": 113.862,
+        "gloss": "I"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 113.862,
+        "endTime": 115.227,
+        "gloss": "work"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 115.227,
+        "endTime": 116.492,
+        "gloss": "two"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 116.492,
+        "endTime": 117.556,
+        "gloss": "hours"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 117.837,
+        "endTime": 118.46,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "I work for two hours, right."
+  },
+  {
+    "startTime": 118.566,
+    "endTime": 121.399,
+    "fullTextZH": "很短两个小时。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 118.646,
+        "endTime": 118.867,
+        "gloss": "very"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 118.867,
+        "endTime": 119.53,
+        "gloss": "short"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 119.53,
+        "endTime": 120.294,
+        "gloss": "two"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 120.294,
+        "endTime": 121.359,
+        "gloss": "hours"
+      }
+    ],
+    "fullTextEN": "Very short two hours."
+  },
+  {
+    "startTime": 121.7,
+    "endTime": 125.366,
+    "fullTextZH": "我喜欢我的学生。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 121.78,
+        "endTime": 122.722,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 122.722,
+        "endTime": 123.803,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 123.803,
+        "endTime": 124.104,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 124.104,
+        "endTime": 124.384,
+        "gloss": "of"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 124.384,
+        "endTime": 125.326,
+        "gloss": "students"
+      }
+    ],
+    "fullTextEN": "I like my students."
+  },
+  {
+    "startTime": 125.6,
+    "endTime": 128.1,
+    "fullTextZH": "所以我很高兴。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 125.761,
+        "endTime": 126.386,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 126.386,
+        "endTime": 126.648,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 126.648,
+        "endTime": 127.052,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 127.052,
+        "endTime": 128.06,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "So I am very happy."
+  },
+  {
+    "startTime": 128.766,
+    "endTime": 131.333,
+    "fullTextZH": "好，星期日",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 128.786,
+        "endTime": 129.528,
+        "gloss": "okay"
+      },
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 129.729,
+        "endTime": 130.511,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Okay, Sunday"
+  },
+  {
+    "startTime": 132.2,
+    "endTime": 135.066,
+    "fullTextZH": "你工作不工作？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 132.3,
+        "endTime": 133.322,
+        "gloss": "you"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 133.322,
+        "endTime": 134.084,
+        "gloss": "work"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 134.084,
+        "endTime": 134.244,
+        "gloss": "not"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 134.244,
+        "endTime": 135.026,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Do you work or not?"
+  },
+  {
+    "startTime": 135.533,
+    "endTime": 141.499,
+    "fullTextZH": "星期日我不工作，对。",
+    "words": [
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 135.633,
+        "endTime": 138.096,
+        "gloss": "Sunday"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 138.096,
+        "endTime": 138.896,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 138.896,
+        "endTime": 139.597,
+        "gloss": "not"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 139.597,
+        "endTime": 140.678,
+        "gloss": "work"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 140.938,
+        "endTime": 141.459,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "On Sunday I don't work, right."
+  },
+  {
+    "startTime": 141.566,
+    "endTime": 146.266,
+    "fullTextZH": "星期日可能我要看书。",
+    "words": [
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 141.646,
+        "endTime": 142.992,
+        "gloss": "Sunday"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 142.992,
+        "endTime": 144.137,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 144.137,
+        "endTime": 145.001,
+        "gloss": "I will"
+      },
+      {
+        "word": "看书",
+        "pinyin": "kàn shū",
+        "startTime": 145.001,
+        "endTime": 146.226,
+        "gloss": "read"
+      }
+    ],
+    "fullTextEN": "On Sunday maybe I will read."
+  },
+  {
+    "startTime": 146.8,
+    "endTime": 150.333,
+    "fullTextZH": "可能我要看电视。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 146.82,
+        "endTime": 147.663,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 147.663,
+        "endTime": 148.406,
+        "gloss": "I will"
+      },
+      {
+        "word": "看电视",
+        "pinyin": "kàn diàn shì",
+        "startTime": 148.406,
+        "endTime": 150.293,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "Maybe I will watch TV."
+  },
+  {
+    "startTime": 150.966,
+    "endTime": 156.099,
+    "fullTextZH": "可能我要去运动，对。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 151.126,
+        "endTime": 151.969,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 151.969,
+        "endTime": 152.851,
+        "gloss": "I will"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 152.851,
+        "endTime": 153.893,
+        "gloss": "go"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 153.893,
+        "endTime": 154.515,
+        "gloss": "exercise"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 155.477,
+        "endTime": 156.059,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Maybe I will go exercise, right."
+  },
+  {
+    "startTime": 157.1,
+    "endTime": 161.466,
+    "fullTextZH": "可能我要去见我的朋友。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 157.1,
+        "endTime": 158.001,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 158.001,
+        "endTime": 158.722,
+        "gloss": "I will"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 158.722,
+        "endTime": 159.403,
+        "gloss": "go"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 159.403,
+        "endTime": 159.984,
+        "gloss": "see"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 159.984,
+        "endTime": 160.244,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.244,
+        "endTime": 160.465,
+        "gloss": "of"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 160.465,
+        "endTime": 161.426,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "Maybe I will go see my friend."
+  },
+  {
+    "startTime": 161.933,
+    "endTime": 168.799,
+    "fullTextZH": "可能我要去跳舞，对。星期日",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 162.033,
+        "endTime": 162.914,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 162.914,
+        "endTime": 163.775,
+        "gloss": "I will"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 163.775,
+        "endTime": 164.675,
+        "gloss": "go"
+      },
+      {
+        "word": "跳舞",
+        "pinyin": "tiào wǔ",
+        "startTime": 164.675,
+        "endTime": 166.397,
+        "gloss": "dance"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 166.517,
+        "endTime": 167.098,
+        "gloss": "right"
+      },
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 167.298,
+        "endTime": 168.138,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Maybe I will go dancing, right. Sunday."
+  },
+  {
+    "startTime": 170.2,
+    "endTime": 172.3,
+    "fullTextZH": "我不工作。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 170.442,
+        "endTime": 170.846,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 170.846,
+        "endTime": 171.351,
+        "gloss": "not"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 171.351,
+        "endTime": 172.26,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "I don't work."
+  },
+  {
+    "startTime": 172.366,
+    "endTime": 174.733,
+    "fullTextZH": "因为我要休息。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 172.426,
+        "endTime": 172.847,
+        "gloss": "because"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 172.847,
+        "endTime": 173.529,
+        "gloss": "I will"
+      },
+      {
+        "word": "休息",
+        "pinyin": "xiū xī",
+        "startTime": 173.529,
+        "endTime": 174.693,
+        "gloss": "rest"
+      }
+    ],
+    "fullTextEN": "Because I want to rest."
+  },
+  {
+    "startTime": 175.5,
+    "endTime": 178.966,
+    "fullTextZH": "休息，我不要做工作。",
+    "words": [
+      {
+        "word": "休息",
+        "pinyin": "xiū xī",
+        "startTime": 175.56,
+        "endTime": 176.321,
+        "gloss": "rest"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 176.542,
+        "endTime": 176.842,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 176.842,
+        "endTime": 177.584,
+        "gloss": "don't want"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 177.584,
+        "endTime": 178.004,
+        "gloss": "do"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 178.004,
+        "endTime": 178.926,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Rest, I don't want to work."
+  },
+  {
+    "startTime": 180.333,
+    "endTime": 184.699,
+    "fullTextZH": "好，星期六和星期日",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 180.353,
+        "endTime": 180.493,
+        "gloss": "okay"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 181.014,
+        "endTime": 182.556,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 182.556,
+        "endTime": 183.277,
+        "gloss": "and"
+      },
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 183.277,
+        "endTime": 184.038,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Okay, Saturday and Sunday"
+  },
+  {
+    "startTime": 186.666,
+    "endTime": 191.399,
+    "fullTextZH": "是什么？是周末，对。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 186.766,
+        "endTime": 186.967,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 186.967,
+        "endTime": 188.05,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 188.27,
+        "endTime": 189.373,
+        "gloss": "is"
+      },
+      {
+        "word": "周末",
+        "pinyin": "zhōu mò",
+        "startTime": 189.373,
+        "endTime": 190.717,
+        "gloss": "weekend"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 190.858,
+        "endTime": 191.359,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "What is it? It's the weekend, right."
+  },
+  {
+    "startTime": 191.466,
+    "endTime": 195.566,
+    "fullTextZH": "星期六和星期日是周末。",
+    "words": [
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 191.526,
+        "endTime": 192.35,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 192.35,
+        "endTime": 192.712,
+        "gloss": "and"
+      },
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 192.712,
+        "endTime": 193.958,
+        "gloss": "Sunday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 193.958,
+        "endTime": 194.461,
+        "gloss": "are"
+      },
+      {
+        "word": "周末",
+        "pinyin": "zhōu mò",
+        "startTime": 194.461,
+        "endTime": 195.526,
+        "gloss": "weekend"
+      }
+    ],
+    "fullTextEN": "Saturday and Sunday are the weekend."
+  },
+  {
+    "startTime": 196.066,
+    "endTime": 200.299,
+    "fullTextZH": "你周末喜欢做什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 196.206,
+        "endTime": 196.949,
+        "gloss": "you"
+      },
+      {
+        "word": "周末",
+        "pinyin": "zhōu mò",
+        "startTime": 196.949,
+        "endTime": 198.092,
+        "gloss": "weekend"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 198.092,
+        "endTime": 198.995,
+        "gloss": "like"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 198.995,
+        "endTime": 199.356,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 199.356,
+        "endTime": 200.259,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you like to do on weekends?"
+  },
+  {
+    "startTime": 200.7,
+    "endTime": 202.3,
+    "fullTextZH": "你喜欢",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 200.822,
+        "endTime": 201.308,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 201.308,
+        "endTime": 201.713,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "You like"
+  },
+  {
+    "startTime": 203.166,
+    "endTime": 205.466,
+    "fullTextZH": "去运动。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 203.388,
+        "endTime": 204.498,
+        "gloss": "go"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 204.498,
+        "endTime": 205.426,
+        "gloss": "exercise"
+      }
+    ],
+    "fullTextEN": "Go exercise."
+  },
+  {
+    "startTime": 206.266,
+    "endTime": 211.099,
+    "fullTextZH": "还是你喜欢在家？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 206.386,
+        "endTime": 207.81,
+        "gloss": "or"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 207.81,
+        "endTime": 208.251,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 208.251,
+        "endTime": 209.475,
+        "gloss": "like"
+      },
+      {
+        "word": "在家",
+        "pinyin": "zài jiā",
+        "startTime": 209.475,
+        "endTime": 211.059,
+        "gloss": "at home"
+      }
+    ],
+    "fullTextEN": "Or do you like to stay home?"
+  },
+  {
+    "startTime": 212.933,
+    "endTime": 218.199,
+    "fullTextZH": "我周末喜欢去运动。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 212.973,
+        "endTime": 213.874,
+        "gloss": "I"
+      },
+      {
+        "word": "周末",
+        "pinyin": "zhōu mò",
+        "startTime": 213.874,
+        "endTime": 215.416,
+        "gloss": "weekend"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 215.416,
+        "endTime": 216.477,
+        "gloss": "like"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 216.477,
+        "endTime": 217.158,
+        "gloss": "go"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 217.158,
+        "endTime": 218.159,
+        "gloss": "exercise"
+      }
+    ],
+    "fullTextEN": "I like to go exercise on weekends."
+  },
+  {
+    "startTime": 218.333,
+    "endTime": 221.666,
+    "fullTextZH": "我也喜欢在家。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 218.433,
+        "endTime": 218.735,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 218.735,
+        "endTime": 219.277,
+        "gloss": "also"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 219.277,
+        "endTime": 220.281,
+        "gloss": "like"
+      },
+      {
+        "word": "在家",
+        "pinyin": "zài jiā",
+        "startTime": 220.281,
+        "endTime": 221.626,
+        "gloss": "at home"
+      }
+    ],
+    "fullTextEN": "I also like to stay home."
+  },
+  {
+    "startTime": 222.6,
+    "endTime": 223.4,
+    "fullTextZH": "对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 222.682,
+        "endTime": 223.359,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right."
+  },
+  {
+    "startTime": 227.266,
+    "endTime": 231.199,
+    "fullTextZH": "好，然后我们看看这个。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 227.286,
+        "endTime": 227.447,
+        "gloss": "okay"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 228.229,
+        "endTime": 229.012,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 229.012,
+        "endTime": 229.554,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 229.554,
+        "endTime": 230.436,
+        "gloss": "look"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 230.436,
+        "endTime": 231.159,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "Okay, then let's look at this."
+  },
+  {
+    "startTime": 232.133,
+    "endTime": 242.099,
+    "fullTextZH": "今天是2022年10月26号，对。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 232.233,
+        "endTime": 233.334,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 233.334,
+        "endTime": 234.094,
+        "gloss": "is"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 236.055,
+        "endTime": 237.376,
+        "gloss": "year"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 238.577,
+        "endTime": 239.738,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 240.458,
+        "endTime": 241.118,
+        "gloss": "day"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 241.759,
+        "endTime": 242.059,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Today is October 26, 2022, right."
+  },
+  {
+    "startTime": 242.1,
+    "endTime": 244.9,
+    "fullTextZH": "你看26号。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 242.14,
+        "endTime": 242.301,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 242.301,
+        "endTime": 243.369,
+        "gloss": "look"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 244.175,
+        "endTime": 244.86,
+        "gloss": "day"
+      }
+    ],
+    "fullTextEN": "Look at the 26th."
+  },
+  {
+    "startTime": 245.966,
+    "endTime": 249.566,
+    "fullTextZH": "今天不是25号。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 245.986,
+        "endTime": 247.132,
+        "gloss": "today"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 247.132,
+        "endTime": 248.118,
+        "gloss": "not"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 248.902,
+        "endTime": 249.526,
+        "gloss": "day"
+      }
+    ],
+    "fullTextEN": "Today is not the 25th."
+  },
+  {
+    "startTime": 250.133,
+    "endTime": 252.899,
+    "fullTextZH": "不是19号。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 250.293,
+        "endTime": 251.556,
+        "gloss": "not"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 252.218,
+        "endTime": 252.859,
+        "gloss": "number"
+      }
+    ],
+    "fullTextEN": "It's not the 19th."
+  },
+  {
+    "startTime": 253.1,
+    "endTime": 257.733,
+    "fullTextZH": "不是，今天是26号。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 253.22,
+        "endTime": 253.842,
+        "gloss": "no"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 254.243,
+        "endTime": 255.126,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 255.126,
+        "endTime": 255.587,
+        "gloss": "is"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 257.071,
+        "endTime": 257.693,
+        "gloss": "number"
+      }
+    ],
+    "fullTextEN": "No, today is the 26th."
+  },
+  {
+    "startTime": 259.366,
+    "endTime": 263.566,
+    "fullTextZH": "昨天是几月几号？",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 259.386,
+        "endTime": 260.19,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 260.19,
+        "endTime": 260.994,
+        "gloss": "is"
+      },
+      {
+        "word": "几月",
+        "pinyin": "jǐ yuè",
+        "startTime": 260.994,
+        "endTime": 262.36,
+        "gloss": "which month"
+      },
+      {
+        "word": "几号",
+        "pinyin": "jǐ hào",
+        "startTime": 262.36,
+        "endTime": 263.526,
+        "gloss": "which day"
+      }
+    ],
+    "fullTextEN": "What was the date yesterday?"
+  },
+  {
+    "startTime": 264.533,
+    "endTime": 267.799,
+    "fullTextZH": "昨天是25号。",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 264.593,
+        "endTime": 265.495,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 265.495,
+        "endTime": 265.936,
+        "gloss": "is"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 267.038,
+        "endTime": 267.759,
+        "gloss": "number"
+      }
+    ],
+    "fullTextEN": "Yesterday was the 25th."
+  },
+  {
+    "startTime": 269.666,
+    "endTime": 276.966,
+    "fullTextZH": "昨天是10月25号，对。",
+    "words": [
+      {
+        "word": "昨天",
+        "pinyin": "zuó tiān",
+        "startTime": 269.686,
+        "endTime": 270.709,
+        "gloss": "yesterday"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 270.709,
+        "endTime": 272.253,
+        "gloss": "is"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 273.878,
+        "endTime": 274.339,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 275.402,
+        "endTime": 276.224,
+        "gloss": "number"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 276.445,
+        "endTime": 276.926,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Yesterday was October 25th, right."
+  },
+  {
+    "startTime": 276.966,
+    "endTime": 282.366,
+    "fullTextZH": "25号，明天是几月几号？",
+    "words": [
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 277.849,
+        "endTime": 278.953,
+        "gloss": "number"
+      },
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 278.973,
+        "endTime": 280.098,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 280.098,
+        "endTime": 280.599,
+        "gloss": "is"
+      },
+      {
+        "word": "几月",
+        "pinyin": "jǐ yuè",
+        "startTime": 280.599,
+        "endTime": 281.362,
+        "gloss": "which month"
+      },
+      {
+        "word": "几号",
+        "pinyin": "jǐ hào",
+        "startTime": 281.362,
+        "endTime": 282.326,
+        "gloss": "which day"
+      }
+    ],
+    "fullTextEN": "The 25th, what will the date be tomorrow?"
+  },
+  {
+    "startTime": 282.733,
+    "endTime": 287.799,
+    "fullTextZH": "明天是10月27号。",
+    "words": [
+      {
+        "word": "明天",
+        "pinyin": "míng tiān",
+        "startTime": 282.773,
+        "endTime": 283.694,
+        "gloss": "tomorrow"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 283.694,
+        "endTime": 284.475,
+        "gloss": "is"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 285.797,
+        "endTime": 286.177,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 287.098,
+        "endTime": 287.759,
+        "gloss": "number"
+      }
+    ],
+    "fullTextEN": "Tomorrow is October 27th."
+  },
+  {
+    "startTime": 288.966,
+    "endTime": 293.499,
+    "fullTextZH": "现在是10月。10月",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 288.966,
+        "endTime": 289.889,
+        "gloss": "now"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 289.889,
+        "endTime": 291.012,
+        "gloss": "is"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 291.714,
+        "endTime": 291.734,
+        "gloss": "month"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 292.897,
+        "endTime": 292.917,
+        "gloss": "month"
+      }
+    ],
+    "fullTextEN": "It's October now. October"
+  },
+  {
+    "startTime": 293.666,
+    "endTime": 298.199,
+    "fullTextZH": "我觉得在澳大利亚，10月。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 293.726,
+        "endTime": 294.027,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 294.027,
+        "endTime": 294.849,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 294.849,
+        "endTime": 295.291,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 295.291,
+        "endTime": 296.755,
+        "gloss": "Australia"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 297.397,
+        "endTime": 298.159,
+        "gloss": "month"
+      }
+    ],
+    "fullTextEN": "I think in Australia, October."
+  },
+  {
+    "startTime": 299.466,
+    "endTime": 302.166,
+    "fullTextZH": "嗯～有一点点热。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 299.909,
+        "endTime": 300.171,
+        "gloss": "hmm"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 300.191,
+        "endTime": 300.393,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 300.393,
+        "endTime": 301.521,
+        "gloss": "a little"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 301.521,
+        "endTime": 302.126,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Hmm, it's a little hot."
+  },
+  {
+    "startTime": 302.5,
+    "endTime": 304.333,
+    "fullTextZH": "对，有一点点热。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 302.54,
+        "endTime": 302.722,
+        "gloss": "right"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 302.802,
+        "endTime": 302.883,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 302.883,
+        "endTime": 303.688,
+        "gloss": "a little"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 303.688,
+        "endTime": 304.293,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Right, it's a little hot."
+  },
+  {
+    "startTime": 305.066,
+    "endTime": 307.133,
+    "fullTextZH": "在你的国家",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 305.106,
+        "endTime": 305.708,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 305.708,
+        "endTime": 306.029,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 306.029,
+        "endTime": 306.23,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 306.23,
+        "endTime": 306.591,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "In your country"
+  },
+  {
+    "startTime": 307.3,
+    "endTime": 309.966,
+    "fullTextZH": "10月很冷？",
+    "words": [
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 307.901,
+        "endTime": 308.843,
+        "gloss": "month"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 308.843,
+        "endTime": 309.224,
+        "gloss": "very"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 309.224,
+        "endTime": 309.926,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "Is October very cold?"
+  },
+  {
+    "startTime": 310.166,
+    "endTime": 312.199,
+    "fullTextZH": "还是很热？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 310.327,
+        "endTime": 311.273,
+        "gloss": "or"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 311.273,
+        "endTime": 311.555,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 311.555,
+        "endTime": 312.159,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Or very hot?"
+  },
+  {
+    "startTime": 312.866,
+    "endTime": 316.333,
+    "fullTextZH": "在澳大利亚有一点点热。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 313.026,
+        "endTime": 313.387,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 313.387,
+        "endTime": 314.63,
+        "gloss": "Australia"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 314.63,
+        "endTime": 314.87,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 314.87,
+        "endTime": 315.832,
+        "gloss": "a little"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 315.832,
+        "endTime": 316.293,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "It's a little hot in Australia."
+  },
+  {
+    "startTime": 316.333,
+    "endTime": 319.299,
+    "fullTextZH": "对，10月有一点点热。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 316.413,
+        "endTime": 316.634,
+        "gloss": "right"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 317.195,
+        "endTime": 317.555,
+        "gloss": "month"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 317.555,
+        "endTime": 317.916,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 317.916,
+        "endTime": 318.698,
+        "gloss": "a little"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 318.698,
+        "endTime": 319.259,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "Right, October is a little hot."
+  },
+  {
+    "startTime": 320.9,
+    "endTime": 325.133,
+    "fullTextZH": "对，所以今天是星期三。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 320.92,
+        "endTime": 321.301,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 321.442,
+        "endTime": 322.003,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 322.003,
+        "endTime": 322.906,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 322.906,
+        "endTime": 323.428,
+        "gloss": "is"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 323.428,
+        "endTime": 325.093,
+        "gloss": "Wednesday"
+      }
+    ],
+    "fullTextEN": "Right, so today is Wednesday."
+  },
+  {
+    "startTime": 325.5,
+    "endTime": 336.966,
+    "fullTextZH": "星期三，今天是2022年10月26号。",
+    "words": [
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 325.58,
+        "endTime": 326.521,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 327.061,
+        "endTime": 327.761,
+        "gloss": "today"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 327.761,
+        "endTime": 328.442,
+        "gloss": "is"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 330.102,
+        "endTime": 330.923,
+        "gloss": "year"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 331.763,
+        "endTime": 332.464,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 334.625,
+        "endTime": 334.945,
+        "gloss": "number"
+      }
+    ],
+    "fullTextEN": "Wednesday, today is October 26th, 2022."
+  },
+  {
+    "startTime": 336.966,
+    "endTime": 340.466,
+    "fullTextZH": "你喜欢星期几？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 337.147,
+        "endTime": 337.71,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 337.71,
+        "endTime": 338.937,
+        "gloss": "like"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 338.937,
+        "endTime": 339.822,
+        "gloss": "week"
+      },
+      {
+        "word": "几",
+        "pinyin": "jǐ",
+        "startTime": 339.822,
+        "endTime": 340.426,
+        "gloss": "which"
+      }
+    ],
+    "fullTextEN": "What day of the week do you like?"
+  },
+  {
+    "startTime": 341.933,
+    "endTime": 343.9,
+    "fullTextZH": "你喜欢星期一、",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 341.993,
+        "endTime": 342.214,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 342.214,
+        "endTime": 342.916,
+        "gloss": "like"
+      },
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 342.916,
+        "endTime": 343.86,
+        "gloss": "Monday"
+      }
+    ],
+    "fullTextEN": "Do you like Monday,"
+  },
+  {
+    "startTime": 343.9,
+    "endTime": 345.966,
+    "fullTextZH": "星期二、星期三、",
+    "words": [
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 343.98,
+        "endTime": 344.702,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 344.883,
+        "endTime": 345.926,
+        "gloss": "Wednesday"
+      }
+    ],
+    "fullTextEN": "Tuesday, Wednesday,"
+  },
+  {
+    "startTime": 346.0,
+    "endTime": 348.2,
+    "fullTextZH": "星期四、星期五、",
+    "words": [
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 346.081,
+        "endTime": 346.787,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 346.928,
+        "endTime": 348.16,
+        "gloss": "Friday"
+      }
+    ],
+    "fullTextEN": "Thursday, Friday,"
+  },
+  {
+    "startTime": 348.233,
+    "endTime": 351.833,
+    "fullTextZH": "星期六还是星期日？",
+    "words": [
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 348.313,
+        "endTime": 349.701,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 349.701,
+        "endTime": 350.506,
+        "gloss": "or"
+      },
+      {
+        "word": "星期日",
+        "pinyin": "xīng qī rì",
+        "startTime": 350.506,
+        "endTime": 351.793,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Saturday or Sunday?"
+  },
+  {
+    "startTime": 352.833,
+    "endTime": 358.433,
+    "fullTextZH": "我觉得我都喜欢，我都喜欢。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 352.893,
+        "endTime": 353.475,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 353.475,
+        "endTime": 354.238,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 354.238,
+        "endTime": 354.76,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 354.76,
+        "endTime": 355.623,
+        "gloss": "all"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 355.623,
+        "endTime": 355.984,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 356.526,
+        "endTime": 356.827,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 356.827,
+        "endTime": 357.53,
+        "gloss": "all"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 357.53,
+        "endTime": 358.393,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I think I like them all, I like them all."
+  },
+  {
+    "startTime": 358.5,
+    "endTime": 362.566,
+    "fullTextZH": "因为我喜欢我的工作。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 358.58,
+        "endTime": 359.161,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 359.161,
+        "endTime": 360.022,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 360.022,
+        "endTime": 360.843,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 360.843,
+        "endTime": 361.164,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 361.164,
+        "endTime": 361.625,
+        "gloss": "job"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 361.625,
+        "endTime": 362.526,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Because I like my job."
+  },
+  {
+    "startTime": 362.7,
+    "endTime": 368.233,
+    "fullTextZH": "我也喜欢不工作，我都喜欢。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 362.8,
+        "endTime": 363.161,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 363.161,
+        "endTime": 363.702,
+        "gloss": "also"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 363.702,
+        "endTime": 364.544,
+        "gloss": "like"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 364.544,
+        "endTime": 365.186,
+        "gloss": "not"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 365.186,
+        "endTime": 366.208,
+        "gloss": "work"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 366.268,
+        "endTime": 366.549,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 366.549,
+        "endTime": 367.331,
+        "gloss": "all"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 367.331,
+        "endTime": 368.193,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I also like not working, I like them all."
+  },
+  {
+    "startTime": 368.433,
+    "endTime": 373.133,
+    "fullTextZH": "你呢？你喜欢星期几？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 368.533,
+        "endTime": 368.714,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 368.714,
+        "endTime": 369.357,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 369.598,
+        "endTime": 370.08,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 370.08,
+        "endTime": 371.265,
+        "gloss": "like"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 371.265,
+        "endTime": 372.53,
+        "gloss": "week"
+      },
+      {
+        "word": "几",
+        "pinyin": "jǐ",
+        "startTime": 372.53,
+        "endTime": 373.093,
+        "gloss": "which"
+      }
+    ],
+    "fullTextEN": "What about you? Which day do you like?"
+  },
+  {
+    "startTime": 374.333,
+    "endTime": 376.0,
+    "fullTextZH": "好，谢谢。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 374.353,
+        "endTime": 375.177,
+        "gloss": "okay"
+      },
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 375.377,
+        "endTime": 375.96,
+        "gloss": "thank you"
+      }
+    ],
+    "fullTextEN": "Okay, thank you."
+  },
+  {
+    "startTime": 376.0,
+    "endTime": 378.8,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 376.04,
+        "endTime": 376.765,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 376.765,
+        "endTime": 377.652,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 377.652,
+        "endTime": 378.035,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 378.196,
+        "endTime": 378.76,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

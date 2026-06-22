@@ -1,0 +1,3279 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 1.033,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.081,
+        "endTime": 0.992,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 1.066,
+    "endTime": 3.1,
+    "fullTextZH": "我是西卡。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.328,
+        "endTime": 1.569,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.569,
+        "endTime": 1.932,
+        "gloss": "am"
+      },
+      {
+        "word": "西卡",
+        "pinyin": "xī kǎ",
+        "startTime": 1.932,
+        "endTime": 3.06,
+        "gloss": "Xika"
+      }
+    ],
+    "fullTextEN": "I am Xika."
+  },
+  {
+    "startTime": 3.166,
+    "endTime": 5.4,
+    "fullTextZH": "我是台湾人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.347,
+        "endTime": 3.649,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 3.649,
+        "endTime": 4.253,
+        "gloss": "am"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 4.253,
+        "endTime": 5.38,
+        "gloss": "Taiwanese"
+      }
+    ],
+    "fullTextEN": "I am Taiwanese."
+  },
+  {
+    "startTime": 6.633,
+    "endTime": 13.333,
+    "fullTextZH": "今天我想说说我小时候的故事。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 6.693,
+        "endTime": 7.997,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 7.997,
+        "endTime": 8.278,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 8.278,
+        "endTime": 8.799,
+        "gloss": "want"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 8.799,
+        "endTime": 9.221,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 9.221,
+        "endTime": 10.083,
+        "gloss": "talk"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 10.083,
+        "endTime": 10.846,
+        "gloss": "my"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 10.846,
+        "endTime": 12.39,
+        "gloss": "childhood"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 12.39,
+        "endTime": 12.611,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 12.611,
+        "endTime": 13.293,
+        "gloss": "stories"
+      }
+    ],
+    "fullTextEN": "Today I want to talk about my childhood stories."
+  },
+  {
+    "startTime": 14.866,
+    "endTime": 21.133,
+    "fullTextZH": "小时候，就是我还是孩子的时候。",
+    "words": [
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 14.886,
+        "endTime": 16.508,
+        "gloss": "childhood"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 16.528,
+        "endTime": 17.529,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 17.529,
+        "endTime": 18.17,
+        "gloss": "I"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 18.17,
+        "endTime": 18.971,
+        "gloss": "still"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 18.971,
+        "endTime": 20.272,
+        "gloss": "child"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.272,
+        "endTime": 20.512,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 20.512,
+        "endTime": 21.093,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Childhood is when I was still a child."
+  },
+  {
+    "startTime": 22.433,
+    "endTime": 26.833,
+    "fullTextZH": "现在我不是孩子。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 22.473,
+        "endTime": 23.779,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 23.779,
+        "endTime": 24.342,
+        "gloss": "I"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 24.342,
+        "endTime": 25.266,
+        "gloss": "am not"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 25.266,
+        "endTime": 26.793,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "Now I am not a child."
+  },
+  {
+    "startTime": 26.866,
+    "endTime": 29.266,
+    "fullTextZH": "我是大人了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 27.048,
+        "endTime": 27.491,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 27.491,
+        "endTime": 28.157,
+        "gloss": "am"
+      },
+      {
+        "word": "大人",
+        "pinyin": "dà rén",
+        "startTime": 28.157,
+        "endTime": 28.903,
+        "gloss": "adult"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 28.903,
+        "endTime": 29.226,
+        "gloss": "now"
+      }
+    ],
+    "fullTextEN": "I am an adult now."
+  },
+  {
+    "startTime": 31.533,
+    "endTime": 38.766,
+    "fullTextZH": "我的妈妈说我小时候是个好孩子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 31.593,
+        "endTime": 31.874,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 31.874,
+        "endTime": 32.234,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 32.234,
+        "endTime": 32.936,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 32.936,
+        "endTime": 34.298,
+        "gloss": "says"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 34.298,
+        "endTime": 34.959,
+        "gloss": "I"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 34.959,
+        "endTime": 36.762,
+        "gloss": "childhood"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 36.762,
+        "endTime": 37.023,
+        "gloss": "was"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 37.023,
+        "endTime": 37.624,
+        "gloss": "a"
+      },
+      {
+        "word": "好孩子",
+        "pinyin": "hǎo hái zi",
+        "startTime": 37.624,
+        "endTime": 38.726,
+        "gloss": "good child"
+      }
+    ],
+    "fullTextEN": "My mom says I was a good child when I was young."
+  },
+  {
+    "startTime": 40.166,
+    "endTime": 42.666,
+    "fullTextZH": "为什么好呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 40.247,
+        "endTime": 40.993,
+        "gloss": "why"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 40.993,
+        "endTime": 41.376,
+        "gloss": "good"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 41.376,
+        "endTime": 42.626,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Why was I good?"
+  },
+  {
+    "startTime": 42.733,
+    "endTime": 46.0,
+    "fullTextZH": "因为我不挑食。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 42.793,
+        "endTime": 43.775,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 43.775,
+        "endTime": 44.577,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 44.577,
+        "endTime": 44.998,
+        "gloss": "not"
+      },
+      {
+        "word": "挑食",
+        "pinyin": "tiāo shí",
+        "startTime": 44.998,
+        "endTime": 45.96,
+        "gloss": "picky eater"
+      }
+    ],
+    "fullTextEN": "Because I was not picky about food."
+  },
+  {
+    "startTime": 47.266,
+    "endTime": 50.866,
+    "fullTextZH": "挑食是什么意思呢？",
+    "words": [
+      {
+        "word": "挑食",
+        "pinyin": "tiāo shí",
+        "startTime": 47.286,
+        "endTime": 48.634,
+        "gloss": "picky eater"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 48.634,
+        "endTime": 48.835,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 48.835,
+        "endTime": 49.177,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 49.177,
+        "endTime": 49.659,
+        "gloss": "meaning"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 49.659,
+        "endTime": 50.826,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What does picky eater mean?"
+  },
+  {
+    "startTime": 50.933,
+    "endTime": 53.633,
+    "fullTextZH": "就是这个不吃，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 50.993,
+        "endTime": 52.021,
+        "gloss": "it means"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 52.021,
+        "endTime": 52.646,
+        "gloss": "this"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 52.646,
+        "endTime": 53.593,
+        "gloss": "not eat"
+      }
+    ],
+    "fullTextEN": "It means not eating this,"
+  },
+  {
+    "startTime": 53.666,
+    "endTime": 55.466,
+    "fullTextZH": "那个也不吃。",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 53.767,
+        "endTime": 54.495,
+        "gloss": "that"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 54.495,
+        "endTime": 54.778,
+        "gloss": "also"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 54.778,
+        "endTime": 55.426,
+        "gloss": "not eat"
+      }
+    ],
+    "fullTextEN": "and not eating that either."
+  },
+  {
+    "startTime": 56.966,
+    "endTime": 61.533,
+    "fullTextZH": "我爱吃全部的东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 57.186,
+        "endTime": 58.008,
+        "gloss": "I"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 58.008,
+        "endTime": 58.528,
+        "gloss": "love"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 58.528,
+        "endTime": 59.31,
+        "gloss": "eat"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 59.31,
+        "endTime": 60.612,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 60.612,
+        "endTime": 60.792,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 60.792,
+        "endTime": 61.493,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "I love to eat everything."
+  },
+  {
+    "startTime": 62.866,
+    "endTime": 68.5,
+    "fullTextZH": "青菜、肉、水果，我都吃。",
+    "words": [
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 62.886,
+        "endTime": 63.708,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 64.57,
+        "endTime": 64.931,
+        "gloss": "meat"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 65.793,
+        "endTime": 66.154,
+        "gloss": "fruits"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 67.237,
+        "endTime": 67.698,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 67.698,
+        "endTime": 68.079,
+        "gloss": "all"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 68.079,
+        "endTime": 68.48,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Vegetables, meat, fruits, I eat them all."
+  },
+  {
+    "startTime": 70.433,
+    "endTime": 73.633,
+    "fullTextZH": "所以我的妈妈说：",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 70.514,
+        "endTime": 71.439,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 71.439,
+        "endTime": 71.761,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 71.761,
+        "endTime": 72.063,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 72.063,
+        "endTime": 72.768,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 72.768,
+        "endTime": 73.593,
+        "gloss": "says"
+      }
+    ],
+    "fullTextEN": "So my mom says:"
+  },
+  {
+    "startTime": 73.7,
+    "endTime": 75.933,
+    "fullTextZH": "“你不挑食，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 73.74,
+        "endTime": 74.243,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 74.243,
+        "endTime": 74.565,
+        "gloss": "not"
+      },
+      {
+        "word": "挑食",
+        "pinyin": "tiāo shí",
+        "startTime": 74.565,
+        "endTime": 75.893,
+        "gloss": "picky eater"
+      }
+    ],
+    "fullTextEN": "\"You are not picky about food,"
+  },
+  {
+    "startTime": 75.966,
+    "endTime": 77.966,
+    "fullTextZH": "你是好孩子。”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 76.027,
+        "endTime": 76.511,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 76.511,
+        "endTime": 76.794,
+        "gloss": "are"
+      },
+      {
+        "word": "好孩子",
+        "pinyin": "hǎo hái zi",
+        "startTime": 76.794,
+        "endTime": 77.926,
+        "gloss": "good child"
+      }
+    ],
+    "fullTextEN": "you are a good child.\""
+  },
+  {
+    "startTime": 79.366,
+    "endTime": 84.133,
+    "fullTextZH": "所以我小时候胖嘟嘟的。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 79.446,
+        "endTime": 80.388,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 80.388,
+        "endTime": 80.848,
+        "gloss": "I"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 80.848,
+        "endTime": 82.571,
+        "gloss": "childhood"
+      },
+      {
+        "word": "胖嘟嘟",
+        "pinyin": "pàng dū dū",
+        "startTime": 82.571,
+        "endTime": 83.712,
+        "gloss": "chubby"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 83.712,
+        "endTime": 84.093,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "So I was chubby when I was young."
+  },
+  {
+    "startTime": 85.233,
+    "endTime": 88.4,
+    "fullTextZH": "因为我不挑食，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 85.333,
+        "endTime": 86.315,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 86.315,
+        "endTime": 86.817,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 86.817,
+        "endTime": 87.137,
+        "gloss": "not"
+      },
+      {
+        "word": "挑食",
+        "pinyin": "tiāo shí",
+        "startTime": 87.137,
+        "endTime": 88.36,
+        "gloss": "picky eater"
+      }
+    ],
+    "fullTextEN": "Because I was not picky about food,"
+  },
+  {
+    "startTime": 88.433,
+    "endTime": 90.833,
+    "fullTextZH": "我很爱吃东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 88.655,
+        "endTime": 88.998,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 88.998,
+        "endTime": 89.502,
+        "gloss": "very"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 89.502,
+        "endTime": 89.885,
+        "gloss": "love"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 89.885,
+        "endTime": 90.208,
+        "gloss": "eat"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 90.208,
+        "endTime": 90.793,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "I really love eating."
+  },
+  {
+    "startTime": 91.733,
+    "endTime": 94.233,
+    "fullTextZH": "我的哥哥呢？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 91.894,
+        "endTime": 92.217,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 92.217,
+        "endTime": 92.62,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 92.62,
+        "endTime": 93.164,
+        "gloss": "brother"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 93.164,
+        "endTime": 94.193,
+        "gloss": "what about"
+      }
+    ],
+    "fullTextEN": "What about my brother?"
+  },
+  {
+    "startTime": 94.3,
+    "endTime": 97.966,
+    "fullTextZH": "他和我不一样。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 94.38,
+        "endTime": 95.141,
+        "gloss": "he"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 95.141,
+        "endTime": 95.422,
+        "gloss": "and"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 95.422,
+        "endTime": 96.263,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 96.263,
+        "endTime": 96.564,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 96.564,
+        "endTime": 97.926,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "He is different from me."
+  },
+  {
+    "startTime": 98.033,
+    "endTime": 101.333,
+    "fullTextZH": "他非常挑食。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 98.073,
+        "endTime": 98.536,
+        "gloss": "he"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 98.536,
+        "endTime": 99.361,
+        "gloss": "very"
+      },
+      {
+        "word": "挑食",
+        "pinyin": "tiāo shí",
+        "startTime": 99.361,
+        "endTime": 101.293,
+        "gloss": "picky eater"
+      }
+    ],
+    "fullTextEN": "He is very picky about food."
+  },
+  {
+    "startTime": 101.366,
+    "endTime": 104.833,
+    "fullTextZH": "很多东西他不吃。",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 101.426,
+        "endTime": 102.368,
+        "gloss": "many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 102.368,
+        "endTime": 103.45,
+        "gloss": "things"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 103.45,
+        "endTime": 103.911,
+        "gloss": "he"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 103.911,
+        "endTime": 104.793,
+        "gloss": "doesn't eat"
+      }
+    ],
+    "fullTextEN": "There are many things he doesn't eat."
+  },
+  {
+    "startTime": 106.766,
+    "endTime": 109.6,
+    "fullTextZH": "他吃肉，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 106.806,
+        "endTime": 107.811,
+        "gloss": "he"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 107.811,
+        "endTime": 108.294,
+        "gloss": "eat"
+      },
+      {
+        "word": "肉",
+        "pinyin": "ròu",
+        "startTime": 108.294,
+        "endTime": 109.56,
+        "gloss": "meat"
+      }
+    ],
+    "fullTextEN": "He eats meat,"
+  },
+  {
+    "startTime": 109.666,
+    "endTime": 113.1,
+    "fullTextZH": "可是他不吃青菜。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 109.766,
+        "endTime": 110.71,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 110.71,
+        "endTime": 111.152,
+        "gloss": "he"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 111.152,
+        "endTime": 112.277,
+        "gloss": "doesn't eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 112.277,
+        "endTime": 113.06,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "but he doesn't eat vegetables."
+  },
+  {
+    "startTime": 114.633,
+    "endTime": 118.5,
+    "fullTextZH": "所以我的妈妈很生气。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 114.773,
+        "endTime": 115.655,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 115.655,
+        "endTime": 115.915,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 115.915,
+        "endTime": 116.076,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 116.076,
+        "endTime": 117.238,
+        "gloss": "mom"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 117.238,
+        "endTime": 117.679,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 117.679,
+        "endTime": 118.46,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So my mom is very angry."
+  },
+  {
+    "startTime": 120.1,
+    "endTime": 126.166,
+    "fullTextZH": "我的妈妈说：“全部的东西都要吃。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 120.18,
+        "endTime": 120.42,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 120.42,
+        "endTime": 120.621,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 120.621,
+        "endTime": 121.561,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 121.561,
+        "endTime": 122.622,
+        "gloss": "said"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 123.043,
+        "endTime": 123.804,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 123.804,
+        "endTime": 123.984,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 123.984,
+        "endTime": 125.005,
+        "gloss": "things"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 125.005,
+        "endTime": 125.325,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 125.325,
+        "endTime": 125.726,
+        "gloss": "must"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 125.726,
+        "endTime": 125.746,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "My mom said, \"You have to eat everything.\""
+  },
+  {
+    "startTime": 127.633,
+    "endTime": 133.133,
+    "fullTextZH": "我的哥哥说：“我不要吃青菜。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 127.874,
+        "endTime": 128.135,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 128.135,
+        "endTime": 128.456,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 128.456,
+        "endTime": 128.998,
+        "gloss": "brother"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 128.998,
+        "endTime": 130.584,
+        "gloss": "said"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 130.905,
+        "endTime": 131.246,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 131.246,
+        "endTime": 132.029,
+        "gloss": "don't want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 132.029,
+        "endTime": 132.35,
+        "gloss": "eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 132.35,
+        "endTime": 133.093,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "My brother said, \"I don't want to eat vegetables.\""
+  },
+  {
+    "startTime": 134.766,
+    "endTime": 142.6,
+    "fullTextZH": "我的妈妈说：“你不吃青菜就不可以出去玩。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 134.886,
+        "endTime": 135.127,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 135.127,
+        "endTime": 135.307,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 135.307,
+        "endTime": 135.828,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 135.828,
+        "endTime": 137.551,
+        "gloss": "said"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 138.332,
+        "endTime": 138.372,
+        "gloss": "you"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 138.372,
+        "endTime": 138.974,
+        "gloss": "don't eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 138.974,
+        "endTime": 139.975,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 139.975,
+        "endTime": 140.416,
+        "gloss": "then"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 140.416,
+        "endTime": 140.697,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 140.697,
+        "endTime": 141.678,
+        "gloss": "can"
+      },
+      {
+        "word": "出去玩",
+        "pinyin": "chū qù wán",
+        "startTime": 141.678,
+        "endTime": 142.56,
+        "gloss": "go out to play"
+      }
+    ],
+    "fullTextEN": "My mom said, \"If you don't eat vegetables, you can't go out to play."
+  },
+  {
+    "startTime": 143.833,
+    "endTime": 149.0,
+    "fullTextZH": "你坐在这里，全部吃完全部。”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 143.913,
+        "endTime": 144.294,
+        "gloss": "you"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 144.294,
+        "endTime": 144.975,
+        "gloss": "sit"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 144.975,
+        "endTime": 145.956,
+        "gloss": "here"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 146.296,
+        "endTime": 147.077,
+        "gloss": "all"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 147.077,
+        "endTime": 147.298,
+        "gloss": "eat"
+      },
+      {
+        "word": "完全",
+        "pinyin": "wán quán",
+        "startTime": 147.298,
+        "endTime": 148.64,
+        "gloss": "finish"
+      },
+      {
+        "word": "部",
+        "pinyin": "bù",
+        "startTime": 148.64,
+        "endTime": 148.96,
+        "gloss": "all"
+      }
+    ],
+    "fullTextEN": "You sit here and finish everything.\""
+  },
+  {
+    "startTime": 150.866,
+    "endTime": 155.666,
+    "fullTextZH": "然后我的妈妈就去睡觉了。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 150.946,
+        "endTime": 152.051,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 152.051,
+        "endTime": 152.312,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.312,
+        "endTime": 152.433,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 152.433,
+        "endTime": 153.417,
+        "gloss": "mom"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 153.417,
+        "endTime": 153.778,
+        "gloss": "then"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 153.778,
+        "endTime": 154.581,
+        "gloss": "go"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 154.581,
+        "endTime": 155.284,
+        "gloss": "sleep"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 155.284,
+        "endTime": 155.626,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Then my mom went to sleep."
+  },
+  {
+    "startTime": 156.966,
+    "endTime": 160.233,
+    "fullTextZH": "她睡了一个小时。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 157.026,
+        "endTime": 157.668,
+        "gloss": "she"
+      },
+      {
+        "word": "睡",
+        "pinyin": "shuì",
+        "startTime": 157.668,
+        "endTime": 157.968,
+        "gloss": "slept"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 157.968,
+        "endTime": 158.75,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 158.75,
+        "endTime": 159.431,
+        "gloss": "one"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 159.431,
+        "endTime": 160.193,
+        "gloss": "hour"
+      }
+    ],
+    "fullTextEN": "She slept for an hour."
+  },
+  {
+    "startTime": 161.833,
+    "endTime": 164.6,
+    "fullTextZH": "一个小时以后，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 161.873,
+        "endTime": 162.354,
+        "gloss": "one"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 162.354,
+        "endTime": 163.437,
+        "gloss": "hour"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 163.437,
+        "endTime": 164.56,
+        "gloss": "later"
+      }
+    ],
+    "fullTextEN": "An hour later,"
+  },
+  {
+    "startTime": 164.633,
+    "endTime": 166.433,
+    "fullTextZH": "她起床了。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 164.673,
+        "endTime": 165.321,
+        "gloss": "she"
+      },
+      {
+        "word": "起床",
+        "pinyin": "qǐ chuáng",
+        "startTime": 165.321,
+        "endTime": 166.049,
+        "gloss": "got up"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 166.049,
+        "endTime": 166.393,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "She got up."
+  },
+  {
+    "startTime": 167.166,
+    "endTime": 173.2,
+    "fullTextZH": "她看到哥哥还坐在那里，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 167.266,
+        "endTime": 167.787,
+        "gloss": "she"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 167.787,
+        "endTime": 170.393,
+        "gloss": "saw"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 170.393,
+        "endTime": 171.316,
+        "gloss": "brother"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 171.316,
+        "endTime": 171.797,
+        "gloss": "still"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 171.797,
+        "endTime": 172.659,
+        "gloss": "sitting"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 172.659,
+        "endTime": 173.16,
+        "gloss": "there"
+      }
+    ],
+    "fullTextEN": "She saw my brother still sitting there,"
+  },
+  {
+    "startTime": 174.833,
+    "endTime": 177.866,
+    "fullTextZH": "青菜也还在那里。",
+    "words": [
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 174.933,
+        "endTime": 176.179,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 176.179,
+        "endTime": 176.54,
+        "gloss": "also"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 176.54,
+        "endTime": 176.962,
+        "gloss": "still"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 176.962,
+        "endTime": 177.203,
+        "gloss": "at"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 177.203,
+        "endTime": 177.826,
+        "gloss": "there"
+      }
+    ],
+    "fullTextEN": "and the vegetables were still there too."
+  },
+  {
+    "startTime": 179.0,
+    "endTime": 182.5,
+    "fullTextZH": "他不吃就是不吃。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 179.04,
+        "endTime": 179.583,
+        "gloss": "he"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 179.583,
+        "endTime": 180.871,
+        "gloss": "won't eat"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 180.871,
+        "endTime": 181.675,
+        "gloss": "just"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 181.675,
+        "endTime": 182.46,
+        "gloss": "won't eat"
+      }
+    ],
+    "fullTextEN": "He just won't eat."
+  },
+  {
+    "startTime": 184.166,
+    "endTime": 185.066,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 184.227,
+        "endTime": 185.025,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right,"
+  },
+  {
+    "startTime": 185.1,
+    "endTime": 189.566,
+    "fullTextZH": "我的哥哥坐了一个小时，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.36,
+        "endTime": 185.601,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.601,
+        "endTime": 185.861,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 185.861,
+        "endTime": 186.922,
+        "gloss": "brother"
+      },
+      {
+        "word": "坐",
+        "pinyin": "zuò",
+        "startTime": 186.922,
+        "endTime": 187.243,
+        "gloss": "sit"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 187.243,
+        "endTime": 187.683,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 187.683,
+        "endTime": 188.284,
+        "gloss": "one"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 188.284,
+        "endTime": 189.526,
+        "gloss": "hour"
+      }
+    ],
+    "fullTextEN": "My brother sat for an hour,"
+  },
+  {
+    "startTime": 189.633,
+    "endTime": 193.4,
+    "fullTextZH": "他就是不吃青菜。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 189.693,
+        "endTime": 190.294,
+        "gloss": "he"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 190.294,
+        "endTime": 191.316,
+        "gloss": "just"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 191.316,
+        "endTime": 192.518,
+        "gloss": "not eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 192.518,
+        "endTime": 193.36,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "He just won't eat vegetables."
+  },
+  {
+    "startTime": 195.8,
+    "endTime": 197.166,
+    "fullTextZH": "有一次，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 195.88,
+        "endTime": 196.142,
+        "gloss": "have"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 196.142,
+        "endTime": 197.126,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "Once,"
+  },
+  {
+    "startTime": 197.2,
+    "endTime": 201.1,
+    "fullTextZH": "哥哥又不吃青菜了。",
+    "words": [
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 197.24,
+        "endTime": 198.165,
+        "gloss": "brother"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 198.165,
+        "endTime": 198.708,
+        "gloss": "again"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 198.708,
+        "endTime": 199.994,
+        "gloss": "not eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 199.994,
+        "endTime": 200.678,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 200.678,
+        "endTime": 201.06,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Brother didn't eat vegetables again."
+  },
+  {
+    "startTime": 202.2,
+    "endTime": 205.4,
+    "fullTextZH": "妈妈很生气，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 202.24,
+        "endTime": 203.247,
+        "gloss": "mom"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 203.247,
+        "endTime": 203.669,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 203.669,
+        "endTime": 205.36,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Mom was very angry,"
+  },
+  {
+    "startTime": 205.433,
+    "endTime": 208.333,
+    "fullTextZH": "她说：“你必须吃。”",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 205.493,
+        "endTime": 205.816,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 205.816,
+        "endTime": 206.118,
+        "gloss": "said"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 206.661,
+        "endTime": 207.165,
+        "gloss": "you"
+      },
+      {
+        "word": "必须",
+        "pinyin": "bì xū",
+        "startTime": 207.165,
+        "endTime": 207.95,
+        "gloss": "must"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 207.95,
+        "endTime": 208.293,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "She said, \"You must eat.\""
+  },
+  {
+    "startTime": 210.133,
+    "endTime": 213.566,
+    "fullTextZH": "哥哥看着青菜，",
+    "words": [
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 210.153,
+        "endTime": 211.117,
+        "gloss": "brother"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 211.117,
+        "endTime": 211.96,
+        "gloss": "looked at"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 211.96,
+        "endTime": 213.526,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "Brother looked at the vegetables,"
+  },
+  {
+    "startTime": 213.633,
+    "endTime": 217.833,
+    "fullTextZH": "然后把青菜放到嘴巴。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 213.713,
+        "endTime": 214.738,
+        "gloss": "then"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 214.738,
+        "endTime": 215.14,
+        "gloss": "put"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 215.14,
+        "endTime": 216.426,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "放到",
+        "pinyin": "fàng dào",
+        "startTime": 216.426,
+        "endTime": 217.17,
+        "gloss": "into"
+      },
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 217.17,
+        "endTime": 217.793,
+        "gloss": "mouth"
+      }
+    ],
+    "fullTextEN": "then put the vegetables in his mouth."
+  },
+  {
+    "startTime": 220.3,
+    "endTime": 224.3,
+    "fullTextZH": "妈妈看了很高兴，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 220.34,
+        "endTime": 221.245,
+        "gloss": "mom"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 221.245,
+        "endTime": 221.647,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 221.647,
+        "endTime": 222.29,
+        "gloss": "completed"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 222.29,
+        "endTime": 222.712,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 222.712,
+        "endTime": 224.26,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Mom was very happy to see it,"
+  },
+  {
+    "startTime": 224.333,
+    "endTime": 228.966,
+    "fullTextZH": "她说：“哥哥是好孩子，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 224.393,
+        "endTime": 224.714,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 224.714,
+        "endTime": 225.476,
+        "gloss": "said"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 225.817,
+        "endTime": 226.559,
+        "gloss": "brother"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 226.559,
+        "endTime": 226.8,
+        "gloss": "is"
+      },
+      {
+        "word": "好孩子",
+        "pinyin": "hǎo hái zi",
+        "startTime": 226.8,
+        "endTime": 228.926,
+        "gloss": "good child"
+      }
+    ],
+    "fullTextEN": "She said, \"Brother is a good child,"
+  },
+  {
+    "startTime": 229.033,
+    "endTime": 230.533,
+    "fullTextZH": "吃青菜了。”",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 229.114,
+        "endTime": 229.459,
+        "gloss": "eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 229.459,
+        "endTime": 230.188,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 230.188,
+        "endTime": 230.492,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "eating vegetables.\""
+  },
+  {
+    "startTime": 232.6,
+    "endTime": 237.066,
+    "fullTextZH": "然后哥哥说：“妈妈，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 232.62,
+        "endTime": 233.621,
+        "gloss": "then"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 233.621,
+        "endTime": 234.122,
+        "gloss": "brother"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 234.122,
+        "endTime": 234.142,
+        "gloss": "said"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 236.205,
+        "endTime": 237.026,
+        "gloss": "mom"
+      }
+    ],
+    "fullTextEN": "Then brother said, \"Mom,"
+  },
+  {
+    "startTime": 237.1,
+    "endTime": 239.866,
+    "fullTextZH": "我想去厕所。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 237.401,
+        "endTime": 237.661,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 237.661,
+        "endTime": 238.744,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 238.744,
+        "endTime": 239.124,
+        "gloss": "go"
+      },
+      {
+        "word": "厕所",
+        "pinyin": "cè suǒ",
+        "startTime": 239.124,
+        "endTime": 239.826,
+        "gloss": "bathroom"
+      }
+    ],
+    "fullTextEN": "I want to go to the bathroom.\""
+  },
+  {
+    "startTime": 241.433,
+    "endTime": 244.033,
+    "fullTextZH": "他就去了厕所。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 241.453,
+        "endTime": 241.755,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 241.755,
+        "endTime": 242.441,
+        "gloss": "then"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 242.441,
+        "endTime": 242.783,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 242.783,
+        "endTime": 243.307,
+        "gloss": "completed"
+      },
+      {
+        "word": "厕所",
+        "pinyin": "cè suǒ",
+        "startTime": 243.307,
+        "endTime": 243.993,
+        "gloss": "bathroom"
+      }
+    ],
+    "fullTextEN": "He then went to the bathroom."
+  },
+  {
+    "startTime": 245.7,
+    "endTime": 248.566,
+    "fullTextZH": "回来之后，",
+    "words": [
+      {
+        "word": "回来",
+        "pinyin": "huí lái",
+        "startTime": 245.8,
+        "endTime": 246.903,
+        "gloss": "come back"
+      },
+      {
+        "word": "之后",
+        "pinyin": "zhī hòu",
+        "startTime": 246.903,
+        "endTime": 248.526,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After coming back,"
+  },
+  {
+    "startTime": 248.633,
+    "endTime": 251.133,
+    "fullTextZH": "哥哥很高兴，",
+    "words": [
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 248.693,
+        "endTime": 249.399,
+        "gloss": "brother"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 249.399,
+        "endTime": 249.843,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 249.843,
+        "endTime": 251.093,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Brother was very happy,"
+  },
+  {
+    "startTime": 251.2,
+    "endTime": 253.2,
+    "fullTextZH": "他继续吃饭。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 251.22,
+        "endTime": 251.705,
+        "gloss": "he"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 251.705,
+        "endTime": 252.574,
+        "gloss": "continue"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 252.574,
+        "endTime": 253.18,
+        "gloss": "eating"
+      }
+    ],
+    "fullTextEN": "He continued eating."
+  },
+  {
+    "startTime": 254.966,
+    "endTime": 259.366,
+    "fullTextZH": "你会不会觉得奇怪，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 255.026,
+        "endTime": 255.508,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 255.508,
+        "endTime": 255.77,
+        "gloss": "will"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 255.77,
+        "endTime": 256.212,
+        "gloss": "not"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 256.212,
+        "endTime": 257.719,
+        "gloss": "find"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 257.719,
+        "endTime": 259.326,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Do you find it strange,"
+  },
+  {
+    "startTime": 259.4,
+    "endTime": 265.066,
+    "fullTextZH": "为什么我的哥哥这次吃青菜了呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 259.5,
+        "endTime": 260.641,
+        "gloss": "why"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 260.641,
+        "endTime": 260.862,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 260.862,
+        "endTime": 261.062,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 261.062,
+        "endTime": 262.063,
+        "gloss": "brother"
+      },
+      {
+        "word": "这次",
+        "pinyin": "zhè cì",
+        "startTime": 262.063,
+        "endTime": 263.404,
+        "gloss": "this time"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 263.404,
+        "endTime": 263.765,
+        "gloss": "eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 263.765,
+        "endTime": 264.485,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 264.485,
+        "endTime": 264.666,
+        "gloss": "completed"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 264.666,
+        "endTime": 265.026,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "why did my brother eat vegetables this time?"
+  },
+  {
+    "startTime": 266.533,
+    "endTime": 270.933,
+    "fullTextZH": "是因为他害怕妈妈吗？",
+    "words": [
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 266.573,
+        "endTime": 267.839,
+        "gloss": "is because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 267.839,
+        "endTime": 268.562,
+        "gloss": "he"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 268.562,
+        "endTime": 269.888,
+        "gloss": "afraid"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 269.888,
+        "endTime": 270.431,
+        "gloss": "mom"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 270.431,
+        "endTime": 270.893,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it because he's afraid of mom?"
+  },
+  {
+    "startTime": 272.4,
+    "endTime": 277.833,
+    "fullTextZH": "那个时候我也觉得奇怪。",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 272.54,
+        "endTime": 272.981,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 272.981,
+        "endTime": 274.244,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 274.244,
+        "endTime": 274.866,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 274.866,
+        "endTime": 275.187,
+        "gloss": "also"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 275.187,
+        "endTime": 277.051,
+        "gloss": "feel"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 277.051,
+        "endTime": 277.793,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "At that time, I also found it strange."
+  },
+  {
+    "startTime": 279.0,
+    "endTime": 285.433,
+    "fullTextZH": "我知道我的哥哥非常讨厌青菜。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 279.08,
+        "endTime": 279.641,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 279.641,
+        "endTime": 280.884,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 280.884,
+        "endTime": 281.124,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 281.124,
+        "endTime": 281.365,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 281.365,
+        "endTime": 282.467,
+        "gloss": "brother"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 282.467,
+        "endTime": 283.369,
+        "gloss": "very"
+      },
+      {
+        "word": "讨厌",
+        "pinyin": "tǎo yàn",
+        "startTime": 283.369,
+        "endTime": 284.651,
+        "gloss": "hate"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 284.651,
+        "endTime": 285.393,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "I know my brother really hates vegetables."
+  },
+  {
+    "startTime": 286.566,
+    "endTime": 288.633,
+    "fullTextZH": "妈妈生气，",
+    "words": [
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 286.606,
+        "endTime": 287.248,
+        "gloss": "mom"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 287.248,
+        "endTime": 288.593,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Mom is angry,"
+  },
+  {
+    "startTime": 288.7,
+    "endTime": 290.066,
+    "fullTextZH": "他也不吃。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 288.72,
+        "endTime": 289.021,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 289.021,
+        "endTime": 289.323,
+        "gloss": "also"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 289.323,
+        "endTime": 290.026,
+        "gloss": "not eat"
+      }
+    ],
+    "fullTextEN": "He also doesn't eat."
+  },
+  {
+    "startTime": 291.733,
+    "endTime": 293.1,
+    "fullTextZH": "后来，",
+    "words": [
+      {
+        "word": "后来",
+        "pinyin": "hòu lái",
+        "startTime": 291.773,
+        "endTime": 293.06,
+        "gloss": "later"
+      }
+    ],
+    "fullTextEN": "Later,"
+  },
+  {
+    "startTime": 293.133,
+    "endTime": 296.133,
+    "fullTextZH": "我的哥哥告诉我，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 293.375,
+        "endTime": 293.616,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 293.616,
+        "endTime": 293.858,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 293.858,
+        "endTime": 295.026,
+        "gloss": "brother"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 295.026,
+        "endTime": 295.73,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 295.73,
+        "endTime": 296.093,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "My brother told me,"
+  },
+  {
+    "startTime": 297.9,
+    "endTime": 302.333,
+    "fullTextZH": "他把青菜放到嘴巴，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 297.98,
+        "endTime": 298.883,
+        "gloss": "he"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 298.883,
+        "endTime": 299.164,
+        "gloss": "put"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 299.164,
+        "endTime": 300.066,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "放到",
+        "pinyin": "fàng dào",
+        "startTime": 300.066,
+        "endTime": 300.648,
+        "gloss": "into"
+      },
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 300.648,
+        "endTime": 302.293,
+        "gloss": "mouth"
+      }
+    ],
+    "fullTextEN": "He put the vegetables in his mouth,"
+  },
+  {
+    "startTime": 302.366,
+    "endTime": 308.833,
+    "fullTextZH": "然后去厕所把青菜吐到马桶。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 302.446,
+        "endTime": 303.087,
+        "gloss": "then"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 303.087,
+        "endTime": 303.487,
+        "gloss": "go"
+      },
+      {
+        "word": "厕所",
+        "pinyin": "cè suǒ",
+        "startTime": 303.487,
+        "endTime": 305.129,
+        "gloss": "bathroom"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 305.129,
+        "endTime": 305.389,
+        "gloss": "put"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 305.389,
+        "endTime": 307.512,
+        "gloss": "vegetables"
+      },
+      {
+        "word": "吐",
+        "pinyin": "tǔ",
+        "startTime": 307.512,
+        "endTime": 307.832,
+        "gloss": "spit"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 307.832,
+        "endTime": 308.072,
+        "gloss": "into"
+      },
+      {
+        "word": "马桶",
+        "pinyin": "mǎ tǒng",
+        "startTime": 308.072,
+        "endTime": 308.793,
+        "gloss": "toilet"
+      }
+    ],
+    "fullTextEN": "Then he went to the bathroom to spit the vegetables into the toilet."
+  },
+  {
+    "startTime": 312.066,
+    "endTime": 317.866,
+    "fullTextZH": "你觉得我的哥哥这个办法怎么样？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 312.126,
+        "endTime": 312.648,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 312.648,
+        "endTime": 313.953,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 313.953,
+        "endTime": 314.213,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 314.213,
+        "endTime": 314.454,
+        "gloss": "of"
+      },
+      {
+        "word": "哥哥",
+        "pinyin": "gē gē",
+        "startTime": 314.454,
+        "endTime": 315.618,
+        "gloss": "brother"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 315.618,
+        "endTime": 316.06,
+        "gloss": "this"
+      },
+      {
+        "word": "办法",
+        "pinyin": "bàn fǎ",
+        "startTime": 316.06,
+        "endTime": 317.144,
+        "gloss": "method"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 317.144,
+        "endTime": 317.826,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "What do you think of my brother's method?"
+  },
+  {
+    "startTime": 319.4,
+    "endTime": 323.266,
+    "fullTextZH": "如果你不吃青菜，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 319.54,
+        "endTime": 320.361,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 320.361,
+        "endTime": 320.942,
+        "gloss": "you"
+      },
+      {
+        "word": "不吃",
+        "pinyin": "bù chī",
+        "startTime": 320.942,
+        "endTime": 321.684,
+        "gloss": "not eat"
+      },
+      {
+        "word": "青菜",
+        "pinyin": "qīng cài",
+        "startTime": 321.684,
+        "endTime": 323.226,
+        "gloss": "vegetables"
+      }
+    ],
+    "fullTextEN": "If you don't eat vegetables,"
+  },
+  {
+    "startTime": 323.333,
+    "endTime": 327.533,
+    "fullTextZH": "你的妈妈说你必须吃，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 323.413,
+        "endTime": 323.634,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 323.634,
+        "endTime": 323.855,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 323.855,
+        "endTime": 324.418,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 324.418,
+        "endTime": 325.262,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 325.262,
+        "endTime": 325.604,
+        "gloss": "you"
+      },
+      {
+        "word": "必须",
+        "pinyin": "bì xū",
+        "startTime": 325.604,
+        "endTime": 326.287,
+        "gloss": "must"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 326.287,
+        "endTime": 327.493,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Your mom says you must eat,"
+  },
+  {
+    "startTime": 327.566,
+    "endTime": 328.666,
+    "fullTextZH": "你怎么办？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 327.668,
+        "endTime": 327.994,
+        "gloss": "you"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 327.994,
+        "endTime": 328.625,
+        "gloss": "do what"
+      }
+    ],
+    "fullTextEN": "What will you do?"
+  },
+  {
+    "startTime": 330.4,
+    "endTime": 336.633,
+    "fullTextZH": "你小时候不喜欢吃什么东西呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 330.46,
+        "endTime": 330.981,
+        "gloss": "you"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 330.981,
+        "endTime": 332.925,
+        "gloss": "when young"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 332.925,
+        "endTime": 333.326,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 333.326,
+        "endTime": 334.929,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 334.929,
+        "endTime": 335.37,
+        "gloss": "eat"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 335.37,
+        "endTime": 335.751,
+        "gloss": "what"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 335.751,
+        "endTime": 336.292,
+        "gloss": "things"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 336.292,
+        "endTime": 336.593,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What didn't you like to eat when you were a child?"
+  },
+  {
+    "startTime": 338.266,
+    "endTime": 343.633,
+    "fullTextZH": "你的妈妈要你吃不喜欢的东西吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 338.326,
+        "endTime": 338.546,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 338.546,
+        "endTime": 338.727,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 338.727,
+        "endTime": 339.848,
+        "gloss": "mom"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 339.848,
+        "endTime": 340.128,
+        "gloss": "want"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 340.128,
+        "endTime": 340.469,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 340.469,
+        "endTime": 341.23,
+        "gloss": "eat"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 341.23,
+        "endTime": 341.59,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 341.59,
+        "endTime": 342.512,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 342.512,
+        "endTime": 342.692,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 342.692,
+        "endTime": 343.232,
+        "gloss": "things"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 343.232,
+        "endTime": 343.593,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Did your mom make you eat things you didn't like?"
+  },
+  {
+    "startTime": 345.433,
+    "endTime": 349.033,
+    "fullTextZH": "这是我小时候的故事。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 345.473,
+        "endTime": 345.755,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 345.755,
+        "endTime": 346.097,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 346.097,
+        "endTime": 346.539,
+        "gloss": "my"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 346.539,
+        "endTime": 347.605,
+        "gloss": "childhood"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 347.605,
+        "endTime": 347.806,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 347.806,
+        "endTime": 348.993,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "This is a story from my childhood."
+  },
+  {
+    "startTime": 349.066,
+    "endTime": 355.266,
+    "fullTextZH": "也欢迎你说说你小时候的故事。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 349.126,
+        "endTime": 349.427,
+        "gloss": "also"
+      },
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 349.427,
+        "endTime": 349.949,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 349.949,
+        "endTime": 351.012,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 351.012,
+        "endTime": 351.373,
+        "gloss": "say"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 351.373,
+        "endTime": 352.016,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 352.016,
+        "endTime": 352.477,
+        "gloss": "your"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 352.477,
+        "endTime": 353.42,
+        "gloss": "childhood"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.42,
+        "endTime": 353.661,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 353.661,
+        "endTime": 355.226,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "You're also welcome to share your childhood stories."
+  },
+  {
+    "startTime": 355.3,
+    "endTime": 357.566,
+    "fullTextZH": "我们下次见。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 355.34,
+        "endTime": 355.982,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 355.982,
+        "endTime": 356.664,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 356.664,
+        "endTime": 357.526,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "See you next time."
+  },
+  {
+    "startTime": 357.633,
+    "endTime": 358.5,
+    "fullTextZH": "拜拜。",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 357.693,
+        "endTime": 358.48,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Bye."
+  }
+]

@@ -1,0 +1,7892 @@
+[
+  {
+    "startTime": 0.2,
+    "endTime": 1.0,
+    "fullTextZH": "你好，",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.282,
+        "endTime": 0.959,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 1.633,
+    "endTime": 4.333,
+    "fullTextZH": "上次我们说了，",
+    "words": [
+      {
+        "word": "上次",
+        "pinyin": "shàng cì",
+        "startTime": 1.673,
+        "endTime": 2.701,
+        "gloss": "last time"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 2.701,
+        "endTime": 3.547,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 3.547,
+        "endTime": 3.89,
+        "gloss": "said"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 3.89,
+        "endTime": 4.293,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Last time we said,"
+  },
+  {
+    "startTime": 4.533,
+    "endTime": 6.566,
+    "fullTextZH": "荷西死了，",
+    "words": [
+      {
+        "word": "荷西",
+        "pinyin": "hé xī",
+        "startTime": 4.573,
+        "endTime": 5.821,
+        "gloss": "Jose"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 5.821,
+        "endTime": 6.103,
+        "gloss": "died"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 6.103,
+        "endTime": 6.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Jose died,"
+  },
+  {
+    "startTime": 7.4,
+    "endTime": 10.8,
+    "fullTextZH": "那三毛当然非常非常难过，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 7.501,
+        "endTime": 7.863,
+        "gloss": "that"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 7.863,
+        "endTime": 8.325,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 8.325,
+        "endTime": 8.889,
+        "gloss": "of course"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 8.889,
+        "endTime": 9.452,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 9.452,
+        "endTime": 10.015,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 10.015,
+        "endTime": 10.76,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "Sanmao was, of course, very, very sad,"
+  },
+  {
+    "startTime": 11.333,
+    "endTime": 14.2,
+    "fullTextZH": "然后她回到了台湾。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 11.393,
+        "endTime": 11.894,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 11.894,
+        "endTime": 12.416,
+        "gloss": "she"
+      },
+      {
+        "word": "回到",
+        "pinyin": "huí dào",
+        "startTime": 12.416,
+        "endTime": 13.137,
+        "gloss": "returned"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 13.137,
+        "endTime": 13.458,
+        "gloss": "le"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 13.458,
+        "endTime": 14.16,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "Then she returned to Taiwan."
+  },
+  {
+    "startTime": 15.2,
+    "endTime": 17.766,
+    "fullTextZH": "她在台湾呆了三年，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 15.24,
+        "endTime": 15.38,
+        "gloss": "she"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 15.38,
+        "endTime": 15.581,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 15.581,
+        "endTime": 16.162,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "呆",
+        "pinyin": "dāi",
+        "startTime": 16.162,
+        "endTime": 16.443,
+        "gloss": "stayed"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 16.443,
+        "endTime": 17.004,
+        "gloss": "le"
+      },
+      {
+        "word": "三年",
+        "pinyin": "sān nián",
+        "startTime": 17.004,
+        "endTime": 17.726,
+        "gloss": "three years"
+      }
+    ],
+    "fullTextEN": "She stayed in Taiwan for three years,"
+  },
+  {
+    "startTime": 18.6,
+    "endTime": 19.933,
+    "fullTextZH": "三年以后，",
+    "words": [
+      {
+        "word": "三年",
+        "pinyin": "sān nián",
+        "startTime": 18.681,
+        "endTime": 19.145,
+        "gloss": "three years"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 19.145,
+        "endTime": 19.893,
+        "gloss": "later"
+      }
+    ],
+    "fullTextEN": "Three years later,"
+  },
+  {
+    "startTime": 19.966,
+    "endTime": 22.6,
+    "fullTextZH": "她终于再次决定，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 20.006,
+        "endTime": 20.227,
+        "gloss": "she"
+      },
+      {
+        "word": "终于",
+        "pinyin": "zhōng yú",
+        "startTime": 20.227,
+        "endTime": 21.152,
+        "gloss": "finally"
+      },
+      {
+        "word": "再次",
+        "pinyin": "zài cì",
+        "startTime": 21.152,
+        "endTime": 21.896,
+        "gloss": "again"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 21.896,
+        "endTime": 22.56,
+        "gloss": "decided"
+      }
+    ],
+    "fullTextEN": "She finally decided again,"
+  },
+  {
+    "startTime": 22.633,
+    "endTime": 24.933,
+    "fullTextZH": "她要去流浪，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 22.694,
+        "endTime": 22.875,
+        "gloss": "she"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 22.875,
+        "endTime": 23.218,
+        "gloss": "wanted"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 23.218,
+        "endTime": 24.045,
+        "gloss": "to"
+      },
+      {
+        "word": "流浪",
+        "pinyin": "liú làng",
+        "startTime": 24.045,
+        "endTime": 24.913,
+        "gloss": "wander"
+      }
+    ],
+    "fullTextEN": "She wanted to wander,"
+  },
+  {
+    "startTime": 25.4,
+    "endTime": 27.733,
+    "fullTextZH": "她要去很远的地方。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 25.44,
+        "endTime": 25.601,
+        "gloss": "she"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 25.601,
+        "endTime": 25.963,
+        "gloss": "wanted"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 25.963,
+        "endTime": 26.365,
+        "gloss": "to"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 26.365,
+        "endTime": 26.566,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 26.566,
+        "endTime": 26.888,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.888,
+        "endTime": 27.049,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 27.049,
+        "endTime": 27.693,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "She wanted to go to a faraway place."
+  },
+  {
+    "startTime": 29.033,
+    "endTime": 30.466,
+    "fullTextZH": "那 那个时候，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 29.073,
+        "endTime": 29.558,
+        "gloss": "that"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 29.558,
+        "endTime": 29.921,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 29.921,
+        "endTime": 30.446,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "At that time,"
+  },
+  {
+    "startTime": 30.466,
+    "endTime": 31.933,
+    "fullTextZH": "三毛很有名，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 30.506,
+        "endTime": 30.988,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 30.988,
+        "endTime": 31.23,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 31.23,
+        "endTime": 31.913,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "Sanmao was very famous,"
+  },
+  {
+    "startTime": 32.0,
+    "endTime": 35.0,
+    "fullTextZH": "她是一个很有名的作家，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 32.02,
+        "endTime": 32.503,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.503,
+        "endTime": 32.685,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 32.685,
+        "endTime": 33.107,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 33.107,
+        "endTime": 33.349,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 33.349,
+        "endTime": 33.913,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 33.913,
+        "endTime": 34.235,
+        "gloss": "de"
+      },
+      {
+        "word": "作家",
+        "pinyin": "zuò jiā",
+        "startTime": 34.235,
+        "endTime": 34.96,
+        "gloss": "writer"
+      }
+    ],
+    "fullTextEN": "She was a very famous writer,"
+  },
+  {
+    "startTime": 35.666,
+    "endTime": 38.933,
+    "fullTextZH": "所以呢，有很多公司要给她钱，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 35.666,
+        "endTime": 35.826,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 35.826,
+        "endTime": 36.027,
+        "gloss": "ne"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 36.107,
+        "endTime": 36.408,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 36.408,
+        "endTime": 36.889,
+        "gloss": "many"
+      },
+      {
+        "word": "公司",
+        "pinyin": "gōng sī",
+        "startTime": 36.889,
+        "endTime": 37.53,
+        "gloss": "companies"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 37.53,
+        "endTime": 37.851,
+        "gloss": "want"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 37.851,
+        "endTime": 38.011,
+        "gloss": "give"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 38.011,
+        "endTime": 38.432,
+        "gloss": "her"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 38.432,
+        "endTime": 38.893,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "So, many companies wanted to give her money,"
+  },
+  {
+    "startTime": 39.233,
+    "endTime": 41.566,
+    "fullTextZH": "对，然后让她去旅游，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 39.313,
+        "endTime": 39.615,
+        "gloss": "yes"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 39.716,
+        "endTime": 39.957,
+        "gloss": "then"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 39.957,
+        "endTime": 40.178,
+        "gloss": "let"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 40.178,
+        "endTime": 40.601,
+        "gloss": "her"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 40.601,
+        "endTime": 40.882,
+        "gloss": "to"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 40.882,
+        "endTime": 41.526,
+        "gloss": "travel"
+      }
+    ],
+    "fullTextEN": "Yes, and then let her travel,"
+  },
+  {
+    "startTime": 41.833,
+    "endTime": 43.933,
+    "fullTextZH": "去写书。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 41.894,
+        "endTime": 42.237,
+        "gloss": "to"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 42.237,
+        "endTime": 42.56,
+        "gloss": "write"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 42.56,
+        "endTime": 43.893,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "To write books."
+  },
+  {
+    "startTime": 44.2,
+    "endTime": 48.666,
+    "fullTextZH": "所以我看了三毛在那个时候的书。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 44.28,
+        "endTime": 44.661,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 44.661,
+        "endTime": 44.901,
+        "gloss": "I"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 44.901,
+        "endTime": 45.241,
+        "gloss": "read"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 45.241,
+        "endTime": 45.582,
+        "gloss": "le"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 45.582,
+        "endTime": 46.343,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 46.343,
+        "endTime": 47.084,
+        "gloss": "at"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 47.084,
+        "endTime": 47.544,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 47.544,
+        "endTime": 48.005,
+        "gloss": "time"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 48.005,
+        "endTime": 48.185,
+        "gloss": "de"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 48.185,
+        "endTime": 48.626,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "So I read Sanmao's books from that time."
+  },
+  {
+    "startTime": 49.966,
+    "endTime": 51.333,
+    "fullTextZH": "对，这一次，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 50.026,
+        "endTime": 50.509,
+        "gloss": "yes"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 50.589,
+        "endTime": 50.77,
+        "gloss": "this"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 50.77,
+        "endTime": 51.293,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Yes, this time,"
+  },
+  {
+    "startTime": 51.333,
+    "endTime": 54.266,
+    "fullTextZH": "三毛去了南美洲，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 51.353,
+        "endTime": 52.076,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 52.076,
+        "endTime": 52.398,
+        "gloss": "went"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 52.398,
+        "endTime": 52.96,
+        "gloss": "le"
+      },
+      {
+        "word": "南美洲",
+        "pinyin": "nán měi zhōu",
+        "startTime": 52.96,
+        "endTime": 54.226,
+        "gloss": "South America"
+      }
+    ],
+    "fullTextEN": "Sanmao went to South America,"
+  },
+  {
+    "startTime": 54.6,
+    "endTime": 55.566,
+    "fullTextZH": "不是美国，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 54.681,
+        "endTime": 55.023,
+        "gloss": "not"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 55.023,
+        "endTime": 55.546,
+        "gloss": "United States"
+      }
+    ],
+    "fullTextEN": "Not the United States,"
+  },
+  {
+    "startTime": 55.566,
+    "endTime": 57.733,
+    "fullTextZH": "加拿大，是南美洲。",
+    "words": [
+      {
+        "word": "加拿大",
+        "pinyin": "jiā ná dà",
+        "startTime": 55.566,
+        "endTime": 56.188,
+        "gloss": "Canada"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 56.308,
+        "endTime": 56.629,
+        "gloss": "is"
+      },
+      {
+        "word": "南美洲",
+        "pinyin": "nán měi zhōu",
+        "startTime": 56.629,
+        "endTime": 57.693,
+        "gloss": "South America"
+      }
+    ],
+    "fullTextEN": "Canada is in South America."
+  },
+  {
+    "startTime": 58.966,
+    "endTime": 61.4,
+    "fullTextZH": "对我看了那本书，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 59.026,
+        "endTime": 59.348,
+        "gloss": "as for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 59.348,
+        "endTime": 59.529,
+        "gloss": "I"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 59.529,
+        "endTime": 59.851,
+        "gloss": "read"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 59.851,
+        "endTime": 60.334,
+        "gloss": "completed"
+      },
+      {
+        "word": "那本书",
+        "pinyin": "nà běn shū",
+        "startTime": 60.334,
+        "endTime": 61.36,
+        "gloss": "that book"
+      }
+    ],
+    "fullTextEN": "As for me, I read that book,"
+  },
+  {
+    "startTime": 61.566,
+    "endTime": 64.833,
+    "fullTextZH": "我觉得那本书不是很有意思，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 61.746,
+        "endTime": 61.927,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 61.927,
+        "endTime": 62.268,
+        "gloss": "think"
+      },
+      {
+        "word": "那本书",
+        "pinyin": "nà běn shū",
+        "startTime": 62.268,
+        "endTime": 63.189,
+        "gloss": "that book"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 63.189,
+        "endTime": 63.691,
+        "gloss": "is not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 63.691,
+        "endTime": 63.931,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 63.931,
+        "endTime": 64.793,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think that book is not very interesting,"
+  },
+  {
+    "startTime": 65.333,
+    "endTime": 70.133,
+    "fullTextZH": "我觉得撒哈拉沙漠那本书更有意思。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 65.454,
+        "endTime": 65.574,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 65.574,
+        "endTime": 65.936,
+        "gloss": "think"
+      },
+      {
+        "word": "撒哈拉沙漠",
+        "pinyin": "sā hā lā shā mò",
+        "startTime": 65.936,
+        "endTime": 67.904,
+        "gloss": "Sahara Desert"
+      },
+      {
+        "word": "那本书",
+        "pinyin": "nà běn shū",
+        "startTime": 67.904,
+        "endTime": 68.888,
+        "gloss": "that book"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 68.888,
+        "endTime": 69.189,
+        "gloss": "more"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 69.189,
+        "endTime": 70.093,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think the book about the Sahara Desert is more interesting."
+  },
+  {
+    "startTime": 70.866,
+    "endTime": 72.0,
+    "fullTextZH": "好，然后呢，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 70.886,
+        "endTime": 71.453,
+        "gloss": "okay"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 71.555,
+        "endTime": 71.797,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 71.797,
+        "endTime": 71.818,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Okay, and then,"
+  },
+  {
+    "startTime": 72.0,
+    "endTime": 74.866,
+    "fullTextZH": "三毛在南美一段时间，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 72.06,
+        "endTime": 72.641,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 72.641,
+        "endTime": 72.942,
+        "gloss": "in"
+      },
+      {
+        "word": "南美",
+        "pinyin": "nán měi",
+        "startTime": 72.942,
+        "endTime": 73.724,
+        "gloss": "South America"
+      },
+      {
+        "word": "一段时间",
+        "pinyin": "yī duàn shí jiān",
+        "startTime": 73.724,
+        "endTime": 74.826,
+        "gloss": "a period of time"
+      }
+    ],
+    "fullTextEN": "Sanmao was in South America for a while,"
+  },
+  {
+    "startTime": 74.866,
+    "endTime": 76.733,
+    "fullTextZH": "她又回到台湾，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 74.886,
+        "endTime": 75.147,
+        "gloss": "she"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 75.147,
+        "endTime": 75.589,
+        "gloss": "again"
+      },
+      {
+        "word": "回到",
+        "pinyin": "huí dào",
+        "startTime": 75.589,
+        "endTime": 76.05,
+        "gloss": "returned to"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 76.05,
+        "endTime": 76.713,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "She returned to Taiwan again,"
+  },
+  {
+    "startTime": 77.0,
+    "endTime": 80.133,
+    "fullTextZH": "三毛开始疯狂地工作，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 77.04,
+        "endTime": 77.542,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 77.542,
+        "endTime": 78.587,
+        "gloss": "started"
+      },
+      {
+        "word": "疯狂",
+        "pinyin": "fēng kuáng",
+        "startTime": 78.587,
+        "endTime": 79.229,
+        "gloss": "frantically"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 79.229,
+        "endTime": 79.41,
+        "gloss": "particle"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 79.41,
+        "endTime": 80.093,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Sanmao started working frantically,"
+  },
+  {
+    "startTime": 80.733,
+    "endTime": 81.666,
+    "fullTextZH": "那个时候，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 80.794,
+        "endTime": 81.159,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 81.159,
+        "endTime": 81.646,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "At that time,"
+  },
+  {
+    "startTime": 81.666,
+    "endTime": 84.4,
+    "fullTextZH": "她继续写很多很多书，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 81.706,
+        "endTime": 81.947,
+        "gloss": "she"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 81.947,
+        "endTime": 82.731,
+        "gloss": "continued"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 82.731,
+        "endTime": 83.013,
+        "gloss": "write"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 83.013,
+        "endTime": 83.877,
+        "gloss": "many many"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 83.877,
+        "endTime": 84.38,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "She continued to write many, many books,"
+  },
+  {
+    "startTime": 84.533,
+    "endTime": 88.366,
+    "fullTextZH": "然后呢，她也去很多地方做演讲，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 84.613,
+        "endTime": 84.934,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 84.934,
+        "endTime": 85.075,
+        "gloss": "particle"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 85.155,
+        "endTime": 85.416,
+        "gloss": "she"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 85.416,
+        "endTime": 85.757,
+        "gloss": "also"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 85.757,
+        "endTime": 86.038,
+        "gloss": "went"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 86.038,
+        "endTime": 86.56,
+        "gloss": "many"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 86.56,
+        "endTime": 87.242,
+        "gloss": "places"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 87.242,
+        "endTime": 87.543,
+        "gloss": "give"
+      },
+      {
+        "word": "演讲",
+        "pinyin": "yǎn jiǎng",
+        "startTime": 87.543,
+        "endTime": 88.326,
+        "gloss": "speeches"
+      }
+    ],
+    "fullTextEN": "And then, she also went to many places to give speeches,"
+  },
+  {
+    "startTime": 88.566,
+    "endTime": 92.533,
+    "fullTextZH": "嗯她还开始写电视，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 88.646,
+        "endTime": 89.347,
+        "gloss": "um"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 89.347,
+        "endTime": 89.568,
+        "gloss": "she"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 89.568,
+        "endTime": 89.928,
+        "gloss": "also"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 89.928,
+        "endTime": 90.91,
+        "gloss": "started"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 90.91,
+        "endTime": 91.611,
+        "gloss": "write"
+      },
+      {
+        "word": "电视",
+        "pinyin": "diàn shì",
+        "startTime": 91.611,
+        "endTime": 92.493,
+        "gloss": "TV"
+      }
+    ],
+    "fullTextEN": "Um, she also started writing for TV,"
+  },
+  {
+    "startTime": 93.066,
+    "endTime": 95.633,
+    "fullTextZH": "呃她也开始写歌，",
+    "words": [
+      {
+        "word": "呃",
+        "pinyin": "è",
+        "startTime": 93.186,
+        "endTime": 93.467,
+        "gloss": "uh"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 93.467,
+        "endTime": 93.648,
+        "gloss": "she"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 93.648,
+        "endTime": 93.848,
+        "gloss": "also"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 93.848,
+        "endTime": 94.57,
+        "gloss": "started"
+      },
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 94.57,
+        "endTime": 95.593,
+        "gloss": "write songs"
+      }
+    ],
+    "fullTextEN": "Uh, she also started writing songs,"
+  },
+  {
+    "startTime": 96.0,
+    "endTime": 98.0,
+    "fullTextZH": "写歌。",
+    "words": [
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 97.152,
+        "endTime": 97.96,
+        "gloss": "write songs"
+      }
+    ],
+    "fullTextEN": "Writing songs."
+  },
+  {
+    "startTime": 98.266,
+    "endTime": 103.2,
+    "fullTextZH": "好，那我只听过一首三毛写的歌，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 98.366,
+        "endTime": 98.787,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 98.948,
+        "endTime": 99.028,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 99.028,
+        "endTime": 99.369,
+        "gloss": "I"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 99.369,
+        "endTime": 99.69,
+        "gloss": "only"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 99.69,
+        "endTime": 100.031,
+        "gloss": "heard"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 100.031,
+        "endTime": 100.372,
+        "gloss": "past"
+      },
+      {
+        "word": "一首",
+        "pinyin": "yī shǒu",
+        "startTime": 100.372,
+        "endTime": 101.254,
+        "gloss": "one"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 101.254,
+        "endTime": 102.217,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 102.217,
+        "endTime": 102.478,
+        "gloss": "write"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.478,
+        "endTime": 102.679,
+        "gloss": "particle"
+      },
+      {
+        "word": "歌",
+        "pinyin": "gē",
+        "startTime": 102.679,
+        "endTime": 103.16,
+        "gloss": "song"
+      }
+    ],
+    "fullTextEN": "Okay, I have only heard one song written by Sanmao,"
+  },
+  {
+    "startTime": 103.766,
+    "endTime": 106.833,
+    "fullTextZH": "名字叫做：橄榄树。",
+    "words": [
+      {
+        "word": "名字",
+        "pinyin": "míng zì",
+        "startTime": 103.786,
+        "endTime": 104.407,
+        "gloss": "name"
+      },
+      {
+        "word": "叫做",
+        "pinyin": "jiào zuò",
+        "startTime": 104.407,
+        "endTime": 105.43,
+        "gloss": "called"
+      },
+      {
+        "word": "橄榄树",
+        "pinyin": "gǎn lǎn shù",
+        "startTime": 105.73,
+        "endTime": 106.793,
+        "gloss": "Olive Tree"
+      }
+    ],
+    "fullTextEN": "It's called: Olive Tree."
+  },
+  {
+    "startTime": 107.1,
+    "endTime": 108.566,
+    "fullTextZH": "嗯，橄榄，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 107.18,
+        "endTime": 107.903,
+        "gloss": "um"
+      },
+      {
+        "word": "橄榄",
+        "pinyin": "gǎn lǎn",
+        "startTime": 108.084,
+        "endTime": 108.526,
+        "gloss": "olive"
+      }
+    ],
+    "fullTextEN": "Um, olive,"
+  },
+  {
+    "startTime": 108.966,
+    "endTime": 110.2,
+    "fullTextZH": "橄榄树。",
+    "words": [
+      {
+        "word": "橄榄树",
+        "pinyin": "gǎn lǎn shù",
+        "startTime": 108.986,
+        "endTime": 110.18,
+        "gloss": "olive tree"
+      }
+    ],
+    "fullTextEN": "Olive tree."
+  },
+  {
+    "startTime": 111.066,
+    "endTime": 114.1,
+    "fullTextZH": "这首歌不是很难，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 111.85,
+        "endTime": 111.97,
+        "gloss": "this"
+      },
+      {
+        "word": "首歌",
+        "pinyin": "shǒu gē",
+        "startTime": 111.97,
+        "endTime": 112.653,
+        "gloss": "song"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 112.653,
+        "endTime": 113.296,
+        "gloss": "is not"
+      },
+      {
+        "word": "很难",
+        "pinyin": "hěn nán",
+        "startTime": 113.296,
+        "endTime": 114.06,
+        "gloss": "very difficult"
+      }
+    ],
+    "fullTextEN": "This song is not very difficult,"
+  },
+  {
+    "startTime": 114.1,
+    "endTime": 115.8,
+    "fullTextZH": "我觉得很简单，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 114.262,
+        "endTime": 114.383,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 114.383,
+        "endTime": 114.707,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 114.707,
+        "endTime": 115.011,
+        "gloss": "very"
+      },
+      {
+        "word": "简单",
+        "pinyin": "jiǎn dān",
+        "startTime": 115.011,
+        "endTime": 115.78,
+        "gloss": "simple"
+      }
+    ],
+    "fullTextEN": "I think it's very simple,"
+  },
+  {
+    "startTime": 116.033,
+    "endTime": 120.666,
+    "fullTextZH": "这首歌我觉得它写的是三毛自己。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 116.113,
+        "endTime": 116.294,
+        "gloss": "this"
+      },
+      {
+        "word": "首歌",
+        "pinyin": "shǒu gē",
+        "startTime": 116.294,
+        "endTime": 117.036,
+        "gloss": "song"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 117.036,
+        "endTime": 117.196,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 117.196,
+        "endTime": 117.918,
+        "gloss": "think"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 117.918,
+        "endTime": 118.239,
+        "gloss": "it"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 118.239,
+        "endTime": 118.5,
+        "gloss": "write"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 118.5,
+        "endTime": 118.721,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 118.721,
+        "endTime": 119.102,
+        "gloss": "is"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 119.102,
+        "endTime": 119.884,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 119.884,
+        "endTime": 120.626,
+        "gloss": "self"
+      }
+    ],
+    "fullTextEN": "I think this song is about Sanmao herself."
+  },
+  {
+    "startTime": 121.2,
+    "endTime": 125.433,
+    "fullTextZH": "我们来看一看这首歌的歌词，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 121.381,
+        "endTime": 121.641,
+        "gloss": "we"
+      },
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 121.641,
+        "endTime": 122.223,
+        "gloss": "come look"
+      },
+      {
+        "word": "一看",
+        "pinyin": "yī kàn",
+        "startTime": 122.223,
+        "endTime": 122.865,
+        "gloss": "a look"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 122.865,
+        "endTime": 123.086,
+        "gloss": "this"
+      },
+      {
+        "word": "首歌",
+        "pinyin": "shǒu gē",
+        "startTime": 123.086,
+        "endTime": 123.728,
+        "gloss": "song"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 123.728,
+        "endTime": 124.33,
+        "gloss": "of"
+      },
+      {
+        "word": "歌词",
+        "pinyin": "gē cí",
+        "startTime": 124.33,
+        "endTime": 125.313,
+        "gloss": "lyrics"
+      }
+    ],
+    "fullTextEN": "Let's take a look at the lyrics of this song,"
+  },
+  {
+    "startTime": 125.966,
+    "endTime": 132.333,
+    "fullTextZH": "好第一句是，不要问我从哪里来，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 126.026,
+        "endTime": 126.807,
+        "gloss": "okay"
+      },
+      {
+        "word": "第一句",
+        "pinyin": "dì yī jù",
+        "startTime": 126.807,
+        "endTime": 127.528,
+        "gloss": "first line"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 127.528,
+        "endTime": 127.548,
+        "gloss": "is"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 128.629,
+        "endTime": 129.21,
+        "gloss": "don't"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 129.21,
+        "endTime": 129.53,
+        "gloss": "ask"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 129.53,
+        "endTime": 130.05,
+        "gloss": "me"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 130.05,
+        "endTime": 130.831,
+        "gloss": "from"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 130.831,
+        "endTime": 131.812,
+        "gloss": "where"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 131.812,
+        "endTime": 132.293,
+        "gloss": "come"
+      }
+    ],
+    "fullTextEN": "Okay, the first line is, don't ask me where I come from,"
+  },
+  {
+    "startTime": 132.666,
+    "endTime": 136.033,
+    "fullTextZH": "我的故乡在远方，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 132.826,
+        "endTime": 133.007,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 133.007,
+        "endTime": 133.167,
+        "gloss": "of"
+      },
+      {
+        "word": "故乡",
+        "pinyin": "gù xiāng",
+        "startTime": 133.167,
+        "endTime": 134.289,
+        "gloss": "hometown"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 134.289,
+        "endTime": 134.971,
+        "gloss": "at"
+      },
+      {
+        "word": "远方",
+        "pinyin": "yuǎn fāng",
+        "startTime": 134.971,
+        "endTime": 135.993,
+        "gloss": "far away"
+      }
+    ],
+    "fullTextEN": "My hometown is far away,"
+  },
+  {
+    "startTime": 136.9,
+    "endTime": 138.166,
+    "fullTextZH": "嗯对，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 136.9,
+        "endTime": 137.704,
+        "gloss": "hmm"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 137.704,
+        "endTime": 138.126,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Hmm, right,"
+  },
+  {
+    "startTime": 138.166,
+    "endTime": 142.9,
+    "fullTextZH": "不要问三毛是什么地方的人，",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 138.326,
+        "endTime": 138.848,
+        "gloss": "don't"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 138.848,
+        "endTime": 140.072,
+        "gloss": "ask"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 140.072,
+        "endTime": 140.754,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 140.754,
+        "endTime": 141.335,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 141.335,
+        "endTime": 141.716,
+        "gloss": "what"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 141.716,
+        "endTime": 142.238,
+        "gloss": "place"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 142.238,
+        "endTime": 142.378,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 142.378,
+        "endTime": 142.86,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Don't ask what place Sanmao is from,"
+  },
+  {
+    "startTime": 143.1,
+    "endTime": 144.766,
+    "fullTextZH": "三毛是哪里人，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 143.16,
+        "endTime": 143.642,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 143.642,
+        "endTime": 143.823,
+        "gloss": "is"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 143.823,
+        "endTime": 144.244,
+        "gloss": "where"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 144.244,
+        "endTime": 144.726,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Where is Sanmao from,"
+  },
+  {
+    "startTime": 145.033,
+    "endTime": 148.333,
+    "fullTextZH": "因为三毛觉得她的故乡，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 145.093,
+        "endTime": 145.476,
+        "gloss": "because"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 145.476,
+        "endTime": 146.099,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 146.099,
+        "endTime": 147.025,
+        "gloss": "feels"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 147.025,
+        "endTime": 147.287,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 147.287,
+        "endTime": 147.488,
+        "gloss": "of"
+      },
+      {
+        "word": "故乡",
+        "pinyin": "gù xiāng",
+        "startTime": 147.488,
+        "endTime": 148.293,
+        "gloss": "hometown"
+      }
+    ],
+    "fullTextEN": "Because Sanmao feels her hometown,"
+  },
+  {
+    "startTime": 148.5,
+    "endTime": 151.3,
+    "fullTextZH": "她的家在远方，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 148.56,
+        "endTime": 148.802,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 148.802,
+        "endTime": 149.165,
+        "gloss": "of"
+      },
+      {
+        "word": "家",
+        "pinyin": "jiā",
+        "startTime": 149.165,
+        "endTime": 149.89,
+        "gloss": "home"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 149.89,
+        "endTime": 150.333,
+        "gloss": "at"
+      },
+      {
+        "word": "远方",
+        "pinyin": "yuǎn fāng",
+        "startTime": 150.333,
+        "endTime": 151.26,
+        "gloss": "far away"
+      }
+    ],
+    "fullTextEN": "Her home is far away,"
+  },
+  {
+    "startTime": 151.533,
+    "endTime": 153.9,
+    "fullTextZH": "在很远很远的地方。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 151.593,
+        "endTime": 151.854,
+        "gloss": "at"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 151.854,
+        "endTime": 152.235,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 152.235,
+        "endTime": 152.516,
+        "gloss": "far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 152.516,
+        "endTime": 152.797,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 152.797,
+        "endTime": 153.058,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 153.058,
+        "endTime": 153.238,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 153.238,
+        "endTime": 153.86,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "In a very, very distant place."
+  },
+  {
+    "startTime": 154.833,
+    "endTime": 157.866,
+    "fullTextZH": "三毛很喜欢流浪，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 154.873,
+        "endTime": 155.516,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 155.516,
+        "endTime": 156.018,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 156.018,
+        "endTime": 156.982,
+        "gloss": "likes"
+      },
+      {
+        "word": "流浪",
+        "pinyin": "liú làng",
+        "startTime": 156.982,
+        "endTime": 157.826,
+        "gloss": "wandering"
+      }
+    ],
+    "fullTextEN": "Sanmao loves wandering,"
+  },
+  {
+    "startTime": 158.033,
+    "endTime": 161.966,
+    "fullTextZH": "嗯她喜欢去很远的地方流浪，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 158.093,
+        "endTime": 158.715,
+        "gloss": "hmm"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 158.715,
+        "endTime": 158.936,
+        "gloss": "she"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 158.936,
+        "endTime": 159.418,
+        "gloss": "likes"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 159.418,
+        "endTime": 159.618,
+        "gloss": "go"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 159.618,
+        "endTime": 159.959,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 159.959,
+        "endTime": 160.28,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.28,
+        "endTime": 160.461,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 160.461,
+        "endTime": 161.183,
+        "gloss": "place"
+      },
+      {
+        "word": "流浪",
+        "pinyin": "liú làng",
+        "startTime": 161.183,
+        "endTime": 161.926,
+        "gloss": "wander"
+      }
+    ],
+    "fullTextEN": "Hmm, she likes to wander to very distant places,"
+  },
+  {
+    "startTime": 162.433,
+    "endTime": 165.3,
+    "fullTextZH": "那为什么流浪？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 162.493,
+        "endTime": 163.716,
+        "gloss": "so"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 163.716,
+        "endTime": 164.558,
+        "gloss": "why"
+      },
+      {
+        "word": "流浪",
+        "pinyin": "liú làng",
+        "startTime": 164.558,
+        "endTime": 165.26,
+        "gloss": "wander"
+      }
+    ],
+    "fullTextEN": "So why wander?"
+  },
+  {
+    "startTime": 165.866,
+    "endTime": 169.266,
+    "fullTextZH": "为什么去远方流浪？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 165.866,
+        "endTime": 166.711,
+        "gloss": "why"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 166.711,
+        "endTime": 167.335,
+        "gloss": "go"
+      },
+      {
+        "word": "远方",
+        "pinyin": "yuǎn fāng",
+        "startTime": 167.335,
+        "endTime": 168.24,
+        "gloss": "far away"
+      },
+      {
+        "word": "流浪",
+        "pinyin": "liú làng",
+        "startTime": 168.24,
+        "endTime": 169.226,
+        "gloss": "wander"
+      }
+    ],
+    "fullTextEN": "Why wander to distant places?"
+  },
+  {
+    "startTime": 169.766,
+    "endTime": 171.9,
+    "fullTextZH": "三毛说，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 169.826,
+        "endTime": 170.35,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 170.35,
+        "endTime": 171.316,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "Sanmao said,"
+  },
+  {
+    "startTime": 171.966,
+    "endTime": 176.3,
+    "fullTextZH": "为了天空飞翔的小鸟，",
+    "words": [
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 172.046,
+        "endTime": 173.13,
+        "gloss": "for"
+      },
+      {
+        "word": "天空",
+        "pinyin": "tiān kōng",
+        "startTime": 173.13,
+        "endTime": 174.434,
+        "gloss": "sky"
+      },
+      {
+        "word": "飞翔",
+        "pinyin": "fēi xiáng",
+        "startTime": 174.434,
+        "endTime": 175.196,
+        "gloss": "flying"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 175.196,
+        "endTime": 175.437,
+        "gloss": "of"
+      },
+      {
+        "word": "小鸟",
+        "pinyin": "xiǎo niǎo",
+        "startTime": 175.437,
+        "endTime": 176.26,
+        "gloss": "birds"
+      }
+    ],
+    "fullTextEN": "For the birds flying in the sky,"
+  },
+  {
+    "startTime": 176.8,
+    "endTime": 177.4,
+    "fullTextZH": "对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 176.862,
+        "endTime": 177.379,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right,"
+  },
+  {
+    "startTime": 177.533,
+    "endTime": 180.9,
+    "fullTextZH": "为了山间的小溪，",
+    "words": [
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 177.693,
+        "endTime": 178.615,
+        "gloss": "for"
+      },
+      {
+        "word": "山间",
+        "pinyin": "shān jiān",
+        "startTime": 178.615,
+        "endTime": 179.617,
+        "gloss": "mountain"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 179.617,
+        "endTime": 179.998,
+        "gloss": "of"
+      },
+      {
+        "word": "小溪",
+        "pinyin": "xiǎo xī",
+        "startTime": 179.998,
+        "endTime": 180.86,
+        "gloss": "streams"
+      }
+    ],
+    "fullTextEN": "For the streams in the mountains,"
+  },
+  {
+    "startTime": 181.5,
+    "endTime": 184.366,
+    "fullTextZH": "为了宽阔的草原，",
+    "words": [
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 181.6,
+        "endTime": 182.021,
+        "gloss": "for"
+      },
+      {
+        "word": "宽阔",
+        "pinyin": "kuān kuò",
+        "startTime": 182.021,
+        "endTime": 182.803,
+        "gloss": "vast"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 182.803,
+        "endTime": 183.464,
+        "gloss": "of"
+      },
+      {
+        "word": "草原",
+        "pinyin": "cǎo yuán",
+        "startTime": 183.464,
+        "endTime": 184.326,
+        "gloss": "grasslands"
+      }
+    ],
+    "fullTextEN": "For the vast grasslands,"
+  },
+  {
+    "startTime": 184.9,
+    "endTime": 186.433,
+    "fullTextZH": "还有还有，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 184.94,
+        "endTime": 185.687,
+        "gloss": "also"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 185.687,
+        "endTime": 186.393,
+        "gloss": "also"
+      }
+    ],
+    "fullTextEN": "And also,"
+  },
+  {
+    "startTime": 186.933,
+    "endTime": 189.5,
+    "fullTextZH": "为了橄榄树，",
+    "words": [
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 186.993,
+        "endTime": 188.076,
+        "gloss": "for"
+      },
+      {
+        "word": "橄榄树",
+        "pinyin": "gǎn lǎn shù",
+        "startTime": 188.076,
+        "endTime": 189.46,
+        "gloss": "olive tree"
+      }
+    ],
+    "fullTextEN": "For the olive tree,"
+  },
+  {
+    "startTime": 190.033,
+    "endTime": 193.733,
+    "fullTextZH": "为了梦中的橄榄树。",
+    "words": [
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 190.093,
+        "endTime": 191.079,
+        "gloss": "for"
+      },
+      {
+        "word": "梦中",
+        "pinyin": "mèng zhōng",
+        "startTime": 191.079,
+        "endTime": 191.883,
+        "gloss": "dream"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 191.883,
+        "endTime": 192.506,
+        "gloss": "of"
+      },
+      {
+        "word": "橄榄树",
+        "pinyin": "gǎn lǎn shù",
+        "startTime": 192.506,
+        "endTime": 193.693,
+        "gloss": "olive tree"
+      }
+    ],
+    "fullTextEN": "For the olive tree in my dreams."
+  },
+  {
+    "startTime": 281.133,
+    "endTime": 282.933,
+    "fullTextZH": "好，对，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 281.922,
+        "endTime": 282.448,
+        "gloss": "good"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 282.508,
+        "endTime": 282.893,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Good, right,"
+  },
+  {
+    "startTime": 282.933,
+    "endTime": 286.9,
+    "fullTextZH": "所以那个时候三毛写了很多书，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 282.973,
+        "endTime": 283.314,
+        "gloss": "so"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 283.314,
+        "endTime": 283.795,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 283.795,
+        "endTime": 284.616,
+        "gloss": "time"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 284.616,
+        "endTime": 285.337,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 285.337,
+        "endTime": 285.658,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 285.658,
+        "endTime": 285.798,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 285.798,
+        "endTime": 286.339,
+        "gloss": "many"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 286.339,
+        "endTime": 286.86,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "So at that time, Sanmao wrote many books,"
+  },
+  {
+    "startTime": 287.033,
+    "endTime": 288.566,
+    "fullTextZH": "写了很多歌，",
+    "words": [
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 287.114,
+        "endTime": 287.376,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 287.376,
+        "endTime": 287.517,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多歌",
+        "pinyin": "hěn duō gē",
+        "startTime": 287.517,
+        "endTime": 288.546,
+        "gloss": "many songs"
+      }
+    ],
+    "fullTextEN": "Wrote many songs,"
+  },
+  {
+    "startTime": 288.733,
+    "endTime": 290.733,
+    "fullTextZH": "也写了电视剧，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 288.794,
+        "endTime": 289.036,
+        "gloss": "also"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 289.036,
+        "endTime": 289.319,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 289.319,
+        "endTime": 289.561,
+        "gloss": "completed"
+      },
+      {
+        "word": "电视剧",
+        "pinyin": "diàn shì jù",
+        "startTime": 289.561,
+        "endTime": 290.693,
+        "gloss": "TV drama"
+      }
+    ],
+    "fullTextEN": "Also wrote TV dramas,"
+  },
+  {
+    "startTime": 291.0,
+    "endTime": 294.133,
+    "fullTextZH": "然后也去了很多地方演讲，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 291.08,
+        "endTime": 291.482,
+        "gloss": "then"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 291.482,
+        "endTime": 291.783,
+        "gloss": "also"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 291.783,
+        "endTime": 292.024,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 292.024,
+        "endTime": 292.145,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 292.145,
+        "endTime": 292.627,
+        "gloss": "many"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 292.627,
+        "endTime": 293.289,
+        "gloss": "places"
+      },
+      {
+        "word": "演讲",
+        "pinyin": "yǎn jiǎng",
+        "startTime": 293.289,
+        "endTime": 294.093,
+        "gloss": "give speeches"
+      }
+    ],
+    "fullTextEN": "Then also went to many places to give speeches,"
+  },
+  {
+    "startTime": 295.0,
+    "endTime": 298.0,
+    "fullTextZH": "那个时候三毛很忙很忙，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 295.04,
+        "endTime": 295.403,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 295.403,
+        "endTime": 295.926,
+        "gloss": "time"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 295.926,
+        "endTime": 296.591,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "很忙",
+        "pinyin": "hěn máng",
+        "startTime": 296.591,
+        "endTime": 297.315,
+        "gloss": "very busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 297.315,
+        "endTime": 297.577,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 297.577,
+        "endTime": 297.597,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "At that time, Sanmao was very busy,"
+  },
+  {
+    "startTime": 298.9,
+    "endTime": 300.533,
+    "fullTextZH": "她睡得很少，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 298.9,
+        "endTime": 299.263,
+        "gloss": "she"
+      },
+      {
+        "word": "睡",
+        "pinyin": "shuì",
+        "startTime": 299.263,
+        "endTime": 299.525,
+        "gloss": "sleep"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 299.525,
+        "endTime": 299.706,
+        "gloss": "to"
+      },
+      {
+        "word": "很少",
+        "pinyin": "hěn shǎo",
+        "startTime": 299.706,
+        "endTime": 300.493,
+        "gloss": "very little"
+      }
+    ],
+    "fullTextEN": "She slept very little,"
+  },
+  {
+    "startTime": 300.533,
+    "endTime": 304.533,
+    "fullTextZH": "她每天只睡四五个小时，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 300.553,
+        "endTime": 300.714,
+        "gloss": "she"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 300.714,
+        "endTime": 301.558,
+        "gloss": "every day"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 301.558,
+        "endTime": 302.081,
+        "gloss": "only"
+      },
+      {
+        "word": "睡",
+        "pinyin": "shuì",
+        "startTime": 302.081,
+        "endTime": 302.684,
+        "gloss": "sleep"
+      },
+      {
+        "word": "四五个",
+        "pinyin": "sì wǔ gè",
+        "startTime": 302.684,
+        "endTime": 303.608,
+        "gloss": "four or five"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 303.608,
+        "endTime": 304.493,
+        "gloss": "hours"
+      }
+    ],
+    "fullTextEN": "She only slept four or five hours a day,"
+  },
+  {
+    "startTime": 305.4,
+    "endTime": 308.1,
+    "fullTextZH": "她非常疯狂地工作。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 305.44,
+        "endTime": 305.763,
+        "gloss": "she"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 305.763,
+        "endTime": 306.448,
+        "gloss": "extremely"
+      },
+      {
+        "word": "疯狂",
+        "pinyin": "fēng kuáng",
+        "startTime": 306.448,
+        "endTime": 307.052,
+        "gloss": "crazy"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 307.052,
+        "endTime": 307.375,
+        "gloss": "manner"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 307.375,
+        "endTime": 308.06,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "She worked extremely hard."
+  },
+  {
+    "startTime": 308.833,
+    "endTime": 310.266,
+    "fullTextZH": "在那个时候，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 308.833,
+        "endTime": 309.136,
+        "gloss": "at"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 309.136,
+        "endTime": 309.56,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 309.56,
+        "endTime": 310.226,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "At that time,"
+  },
+  {
+    "startTime": 310.266,
+    "endTime": 314.1,
+    "fullTextZH": "三毛也认识了一个新的男人，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 310.326,
+        "endTime": 310.969,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 310.969,
+        "endTime": 311.25,
+        "gloss": "also"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 311.25,
+        "endTime": 312.012,
+        "gloss": "meet"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 312.012,
+        "endTime": 312.313,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 312.313,
+        "endTime": 312.916,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 312.916,
+        "endTime": 313.177,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 313.177,
+        "endTime": 313.337,
+        "gloss": "of"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 313.337,
+        "endTime": 314.06,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "Sanmao also met a new man,"
+  },
+  {
+    "startTime": 314.566,
+    "endTime": 316.9,
+    "fullTextZH": "这个男人不在台湾，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 314.626,
+        "endTime": 314.848,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 314.848,
+        "endTime": 315.532,
+        "gloss": "man"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 315.532,
+        "endTime": 315.813,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 315.813,
+        "endTime": 316.176,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 316.176,
+        "endTime": 316.86,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "This man was not in Taiwan,"
+  },
+  {
+    "startTime": 317.166,
+    "endTime": 319.066,
+    "fullTextZH": "他在新疆，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 317.206,
+        "endTime": 317.469,
+        "gloss": "he"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 317.469,
+        "endTime": 318.156,
+        "gloss": "in"
+      },
+      {
+        "word": "新疆",
+        "pinyin": "xīn jiāng",
+        "startTime": 318.156,
+        "endTime": 319.026,
+        "gloss": "Xinjiang"
+      }
+    ],
+    "fullTextEN": "He was in Xinjiang,"
+  },
+  {
+    "startTime": 319.833,
+    "endTime": 323.666,
+    "fullTextZH": "台湾离新疆很远很远。",
+    "words": [
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 319.833,
+        "endTime": 320.415,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "离",
+        "pinyin": "lí",
+        "startTime": 320.415,
+        "endTime": 320.836,
+        "gloss": "from"
+      },
+      {
+        "word": "新疆",
+        "pinyin": "xīn jiāng",
+        "startTime": 320.836,
+        "endTime": 321.78,
+        "gloss": "Xinjiang"
+      },
+      {
+        "word": "很远",
+        "pinyin": "hěn yuǎn",
+        "startTime": 321.78,
+        "endTime": 322.863,
+        "gloss": "very far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 322.863,
+        "endTime": 323.204,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 323.204,
+        "endTime": 323.626,
+        "gloss": "far"
+      }
+    ],
+    "fullTextEN": "Taiwan is very far from Xinjiang."
+  },
+  {
+    "startTime": 323.733,
+    "endTime": 326.233,
+    "fullTextZH": "对，这个男人，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 323.793,
+        "endTime": 324.479,
+        "gloss": "right"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 324.56,
+        "endTime": 324.761,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 324.761,
+        "endTime": 326.193,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "Right, this man,"
+  },
+  {
+    "startTime": 326.233,
+    "endTime": 328.666,
+    "fullTextZH": "他叫王洛宾，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 326.253,
+        "endTime": 326.454,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 326.454,
+        "endTime": 327.218,
+        "gloss": "called"
+      },
+      {
+        "word": "王洛宾",
+        "pinyin": "wáng luò bīn",
+        "startTime": 327.218,
+        "endTime": 328.626,
+        "gloss": "Wang Luobin"
+      }
+    ],
+    "fullTextEN": "His name is Wang Luobin,"
+  },
+  {
+    "startTime": 328.666,
+    "endTime": 330.9,
+    "fullTextZH": "我们叫他王先生，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 328.847,
+        "endTime": 329.149,
+        "gloss": "we"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 329.149,
+        "endTime": 329.411,
+        "gloss": "call"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 329.411,
+        "endTime": 329.753,
+        "gloss": "him"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 329.753,
+        "endTime": 330.86,
+        "gloss": "Mr. Wang"
+      }
+    ],
+    "fullTextEN": "We call him Mr. Wang,"
+  },
+  {
+    "startTime": 331.533,
+    "endTime": 335.1,
+    "fullTextZH": "王先生是一个写歌的人，",
+    "words": [
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 331.573,
+        "endTime": 332.655,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 332.655,
+        "endTime": 333.296,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 333.296,
+        "endTime": 333.838,
+        "gloss": "a"
+      },
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 333.838,
+        "endTime": 334.419,
+        "gloss": "write songs"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 334.419,
+        "endTime": 334.539,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 334.539,
+        "endTime": 335.06,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Mr. Wang is a songwriter,"
+  },
+  {
+    "startTime": 335.266,
+    "endTime": 336.966,
+    "fullTextZH": "然后呢，他也唱歌。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 335.347,
+        "endTime": 335.671,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 335.671,
+        "endTime": 335.752,
+        "gloss": "particle"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 335.833,
+        "endTime": 335.995,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 335.995,
+        "endTime": 336.197,
+        "gloss": "also"
+      },
+      {
+        "word": "唱歌",
+        "pinyin": "chàng gē",
+        "startTime": 336.197,
+        "endTime": 336.926,
+        "gloss": "sing"
+      }
+    ],
+    "fullTextEN": "And then, he also sang."
+  },
+  {
+    "startTime": 337.566,
+    "endTime": 340.333,
+    "fullTextZH": "他的人生也很有意思，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 337.566,
+        "endTime": 337.746,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 337.746,
+        "endTime": 338.027,
+        "gloss": "possessive"
+      },
+      {
+        "word": "人生",
+        "pinyin": "rén shēng",
+        "startTime": 338.027,
+        "endTime": 338.849,
+        "gloss": "life"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 338.849,
+        "endTime": 339.17,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 339.17,
+        "endTime": 339.351,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 339.351,
+        "endTime": 340.313,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "His life is also very interesting,"
+  },
+  {
+    "startTime": 340.333,
+    "endTime": 342.266,
+    "fullTextZH": "他坐牢，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 340.373,
+        "endTime": 340.897,
+        "gloss": "he"
+      },
+      {
+        "word": "坐牢",
+        "pinyin": "zuò láo",
+        "startTime": 340.897,
+        "endTime": 342.226,
+        "gloss": "go to jail"
+      }
+    ],
+    "fullTextEN": "He went to jail,"
+  },
+  {
+    "startTime": 342.266,
+    "endTime": 343.966,
+    "fullTextZH": "他坐牢很多次，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 342.306,
+        "endTime": 342.529,
+        "gloss": "he"
+      },
+      {
+        "word": "坐牢",
+        "pinyin": "zuò láo",
+        "startTime": 342.529,
+        "endTime": 343.015,
+        "gloss": "go to jail"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 343.015,
+        "endTime": 343.237,
+        "gloss": "many"
+      },
+      {
+        "word": "多次",
+        "pinyin": "duō cì",
+        "startTime": 343.237,
+        "endTime": 343.926,
+        "gloss": "times"
+      }
+    ],
+    "fullTextEN": "He went to jail many times,"
+  },
+  {
+    "startTime": 343.966,
+    "endTime": 345.266,
+    "fullTextZH": "然后在牢里，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 344.027,
+        "endTime": 344.494,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 344.494,
+        "endTime": 344.758,
+        "gloss": "in"
+      },
+      {
+        "word": "牢里",
+        "pinyin": "láo lǐ",
+        "startTime": 344.758,
+        "endTime": 345.246,
+        "gloss": "jail"
+      }
+    ],
+    "fullTextEN": "Then in jail,"
+  },
+  {
+    "startTime": 345.266,
+    "endTime": 348.1,
+    "fullTextZH": "他写歌写了很多很多歌。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 345.286,
+        "endTime": 345.648,
+        "gloss": "he"
+      },
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 345.648,
+        "endTime": 346.572,
+        "gloss": "write songs"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 346.572,
+        "endTime": 346.773,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 346.773,
+        "endTime": 346.874,
+        "gloss": "particle"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 346.874,
+        "endTime": 347.638,
+        "gloss": "many many"
+      },
+      {
+        "word": "歌",
+        "pinyin": "gē",
+        "startTime": 347.638,
+        "endTime": 348.06,
+        "gloss": "songs"
+      }
+    ],
+    "fullTextEN": "He wrote many, many songs."
+  },
+  {
+    "startTime": 348.633,
+    "endTime": 350.7,
+    "fullTextZH": "那三毛听了他的歌，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 348.633,
+        "endTime": 348.773,
+        "gloss": "then"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 348.773,
+        "endTime": 349.355,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 349.355,
+        "endTime": 349.596,
+        "gloss": "listen"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 349.596,
+        "endTime": 349.797,
+        "gloss": "particle"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 349.797,
+        "endTime": 350.058,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.058,
+        "endTime": 350.218,
+        "gloss": "possessive"
+      },
+      {
+        "word": "歌",
+        "pinyin": "gē",
+        "startTime": 350.218,
+        "endTime": 350.66,
+        "gloss": "songs"
+      }
+    ],
+    "fullTextEN": "Then Sanmao listened to his songs,"
+  },
+  {
+    "startTime": 350.7,
+    "endTime": 352.966,
+    "fullTextZH": "她很喜欢这个男人，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 350.78,
+        "endTime": 350.88,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 350.88,
+        "endTime": 351.282,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 351.282,
+        "endTime": 351.883,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 351.883,
+        "endTime": 352.184,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 352.184,
+        "endTime": 352.926,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "She really liked this man,"
+  },
+  {
+    "startTime": 353.266,
+    "endTime": 354.133,
+    "fullTextZH": "对，然后，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 353.286,
+        "endTime": 353.891,
+        "gloss": "yes"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 353.952,
+        "endTime": 354.093,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Yes, and then,"
+  },
+  {
+    "startTime": 354.133,
+    "endTime": 355.066,
+    "fullTextZH": "这个男人，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 354.153,
+        "endTime": 354.336,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 354.336,
+        "endTime": 355.046,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "This man,"
+  },
+  {
+    "startTime": 355.1,
+    "endTime": 356.533,
+    "fullTextZH": "这个王先生，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 355.14,
+        "endTime": 355.483,
+        "gloss": "this"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 355.483,
+        "endTime": 356.513,
+        "gloss": "Mr. Wang"
+      }
+    ],
+    "fullTextEN": "This Mr. Wang,"
+  },
+  {
+    "startTime": 356.533,
+    "endTime": 358.566,
+    "fullTextZH": "他也看三毛的书，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 356.553,
+        "endTime": 356.775,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 356.775,
+        "endTime": 357.056,
+        "gloss": "also"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 357.056,
+        "endTime": 357.499,
+        "gloss": "read"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 357.499,
+        "endTime": 357.902,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 357.902,
+        "endTime": 358.123,
+        "gloss": "possessive"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 358.123,
+        "endTime": 358.526,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "He also read Sanmao's books,"
+  },
+  {
+    "startTime": 358.733,
+    "endTime": 361.3,
+    "fullTextZH": "所以呢他们知道对方。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 358.813,
+        "endTime": 359.074,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 359.074,
+        "endTime": 359.315,
+        "gloss": "particle"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 359.315,
+        "endTime": 359.796,
+        "gloss": "they"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 359.796,
+        "endTime": 360.498,
+        "gloss": "know"
+      },
+      {
+        "word": "对方",
+        "pinyin": "duì fāng",
+        "startTime": 360.498,
+        "endTime": 361.26,
+        "gloss": "each other"
+      }
+    ],
+    "fullTextEN": "So they knew each other."
+  },
+  {
+    "startTime": 361.433,
+    "endTime": 363.0,
+    "fullTextZH": "那有一年，",
+    "words": [
+      {
+        "word": "那有",
+        "pinyin": "nà yǒu",
+        "startTime": 361.493,
+        "endTime": 362.297,
+        "gloss": "then"
+      },
+      {
+        "word": "一年",
+        "pinyin": "yī nián",
+        "startTime": 362.297,
+        "endTime": 362.96,
+        "gloss": "one year"
+      }
+    ],
+    "fullTextEN": "Then one year,"
+  },
+  {
+    "startTime": 363.066,
+    "endTime": 367.5,
+    "fullTextZH": "三毛从台湾去新疆去看他，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 363.086,
+        "endTime": 363.768,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 363.768,
+        "endTime": 364.19,
+        "gloss": "from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 364.19,
+        "endTime": 365.012,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 365.012,
+        "endTime": 365.594,
+        "gloss": "to"
+      },
+      {
+        "word": "新疆",
+        "pinyin": "xīn jiāng",
+        "startTime": 365.594,
+        "endTime": 366.417,
+        "gloss": "Xinjiang"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 366.417,
+        "endTime": 366.697,
+        "gloss": "to"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 366.697,
+        "endTime": 367.039,
+        "gloss": "see"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 367.039,
+        "endTime": 367.46,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Sanmao went from Taiwan to Xinjiang to see him,"
+  },
+  {
+    "startTime": 367.666,
+    "endTime": 371.733,
+    "fullTextZH": "嗯三毛真的喜欢王先生，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 367.726,
+        "endTime": 368.467,
+        "gloss": "hmm"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 368.467,
+        "endTime": 368.928,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 368.928,
+        "endTime": 369.589,
+        "gloss": "really"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 369.589,
+        "endTime": 370.571,
+        "gloss": "like"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 370.571,
+        "endTime": 371.693,
+        "gloss": "Mr. Wang"
+      }
+    ],
+    "fullTextEN": "Hmm, Sanmao really liked Mr. Wang,"
+  },
+  {
+    "startTime": 371.833,
+    "endTime": 376.833,
+    "fullTextZH": "但是那个时候三毛47岁，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 371.873,
+        "endTime": 372.917,
+        "gloss": "but"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 372.917,
+        "endTime": 373.319,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 373.319,
+        "endTime": 373.901,
+        "gloss": "time"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 373.901,
+        "endTime": 375.227,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 376.391,
+        "endTime": 376.793,
+        "gloss": "years old"
+      }
+    ],
+    "fullTextEN": "But at that time Sanmao was 47 years old,"
+  },
+  {
+    "startTime": 377.1,
+    "endTime": 380.233,
+    "fullTextZH": "然后王先生77岁，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 377.16,
+        "endTime": 377.522,
+        "gloss": "then"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 377.522,
+        "endTime": 378.727,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 379.791,
+        "endTime": 380.193,
+        "gloss": "years old"
+      }
+    ],
+    "fullTextEN": "And Mr. Wang was 77 years old,"
+  },
+  {
+    "startTime": 380.666,
+    "endTime": 381.333,
+    "fullTextZH": "所以呢，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 380.706,
+        "endTime": 380.969,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 380.969,
+        "endTime": 381.313,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 381.333,
+    "endTime": 386.533,
+    "fullTextZH": "可能王先生觉得他们年龄差太多了，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 381.393,
+        "endTime": 382.156,
+        "gloss": "maybe"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 382.156,
+        "endTime": 382.939,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 382.939,
+        "endTime": 383.481,
+        "gloss": "think"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 383.481,
+        "endTime": 384.184,
+        "gloss": "they"
+      },
+      {
+        "word": "年龄",
+        "pinyin": "nián líng",
+        "startTime": 384.184,
+        "endTime": 384.907,
+        "gloss": "age"
+      },
+      {
+        "word": "差太多",
+        "pinyin": "chà tài duō",
+        "startTime": 384.907,
+        "endTime": 386.131,
+        "gloss": "difference too much"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 386.131,
+        "endTime": 386.513,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Maybe Mr. Wang thought their age difference was too much,"
+  },
+  {
+    "startTime": 386.533,
+    "endTime": 389.2,
+    "fullTextZH": "她=他们差了30岁，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 386.533,
+        "endTime": 386.553,
+        "gloss": "she"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 386.593,
+        "endTime": 386.974,
+        "gloss": "they"
+      },
+      {
+        "word": "差",
+        "pinyin": "chà",
+        "startTime": 386.974,
+        "endTime": 387.355,
+        "gloss": "differ"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 387.355,
+        "endTime": 387.917,
+        "gloss": "by"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 388.719,
+        "endTime": 389.16,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "She is 30 years younger than them,"
+  },
+  {
+    "startTime": 389.233,
+    "endTime": 390.033,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 389.274,
+        "endTime": 389.992,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 390.7,
+    "endTime": 391.7,
+    "fullTextZH": "所以，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 390.782,
+        "endTime": 391.476,
+        "gloss": "so"
+      }
+    ],
+    "fullTextEN": "So,"
+  },
+  {
+    "startTime": 391.7,
+    "endTime": 393.333,
+    "fullTextZH": "三毛常常说，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 391.74,
+        "endTime": 392.466,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 392.466,
+        "endTime": 393.031,
+        "gloss": "often"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 393.031,
+        "endTime": 393.313,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "Sanmao often said,"
+  },
+  {
+    "startTime": 393.333,
+    "endTime": 394.7,
+    "fullTextZH": "她很喜欢他，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 393.353,
+        "endTime": 393.514,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 393.514,
+        "endTime": 393.755,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 393.755,
+        "endTime": 394.238,
+        "gloss": "like"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 394.238,
+        "endTime": 394.66,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "She really liked him,"
+  },
+  {
+    "startTime": 394.833,
+    "endTime": 399.6,
+    "fullTextZH": "但是王先生没有接受三毛的心意。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 394.893,
+        "endTime": 395.334,
+        "gloss": "but"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 395.334,
+        "endTime": 396.135,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 396.135,
+        "endTime": 396.936,
+        "gloss": "did not"
+      },
+      {
+        "word": "接受",
+        "pinyin": "jiē shòu",
+        "startTime": 396.936,
+        "endTime": 397.817,
+        "gloss": "accept"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 397.817,
+        "endTime": 398.378,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 398.378,
+        "endTime": 398.859,
+        "gloss": "'s"
+      },
+      {
+        "word": "心意",
+        "pinyin": "xīn yì",
+        "startTime": 398.859,
+        "endTime": 399.56,
+        "gloss": "feelings"
+      }
+    ],
+    "fullTextEN": "But Mr. Wang did not accept Sanmao's feelings."
+  },
+  {
+    "startTime": 399.966,
+    "endTime": 402.7,
+    "fullTextZH": "然后呢，三毛离开新疆，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 399.986,
+        "endTime": 400.348,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 400.348,
+        "endTime": 400.509,
+        "gloss": "well"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 400.69,
+        "endTime": 401.132,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "离开",
+        "pinyin": "lí kāi",
+        "startTime": 401.132,
+        "endTime": 401.936,
+        "gloss": "left"
+      },
+      {
+        "word": "新疆",
+        "pinyin": "xīn jiāng",
+        "startTime": 401.936,
+        "endTime": 402.66,
+        "gloss": "Xinjiang"
+      }
+    ],
+    "fullTextEN": "Then, Sanmao left Xinjiang,"
+  },
+  {
+    "startTime": 403.2,
+    "endTime": 405.666,
+    "fullTextZH": "三毛给王先生写信，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 403.24,
+        "endTime": 403.701,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 403.701,
+        "endTime": 403.902,
+        "gloss": "to"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 403.902,
+        "endTime": 404.884,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "写信",
+        "pinyin": "xiě xìn",
+        "startTime": 404.884,
+        "endTime": 405.626,
+        "gloss": "wrote letters"
+      }
+    ],
+    "fullTextEN": "Sanmao wrote letters to Mr. Wang,"
+  },
+  {
+    "startTime": 405.833,
+    "endTime": 406.833,
+    "fullTextZH": "对，写信，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 405.874,
+        "endTime": 406.017,
+        "gloss": "yes"
+      },
+      {
+        "word": "写信",
+        "pinyin": "xiě xìn",
+        "startTime": 406.16,
+        "endTime": 406.792,
+        "gloss": "wrote letters"
+      }
+    ],
+    "fullTextEN": "Yes, wrote letters,"
+  },
+  {
+    "startTime": 406.833,
+    "endTime": 408.466,
+    "fullTextZH": "写了很多很多信，",
+    "words": [
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 406.873,
+        "endTime": 407.035,
+        "gloss": "wrote"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 407.035,
+        "endTime": 407.156,
+        "gloss": "past"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 407.156,
+        "endTime": 408.002,
+        "gloss": "many many"
+      },
+      {
+        "word": "信",
+        "pinyin": "xìn",
+        "startTime": 408.002,
+        "endTime": 408.446,
+        "gloss": "letters"
+      }
+    ],
+    "fullTextEN": "Wrote many, many letters,"
+  },
+  {
+    "startTime": 408.633,
+    "endTime": 411.2,
+    "fullTextZH": "然后呢，王先生也回信。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 408.693,
+        "endTime": 408.974,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 408.974,
+        "endTime": 409.094,
+        "gloss": "well"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 409.154,
+        "endTime": 409.937,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 409.937,
+        "endTime": 410.338,
+        "gloss": "also"
+      },
+      {
+        "word": "回信",
+        "pinyin": "huí xìn",
+        "startTime": 410.338,
+        "endTime": 411.18,
+        "gloss": "replied"
+      }
+    ],
+    "fullTextEN": "Then, Mr. Wang also replied."
+  },
+  {
+    "startTime": 411.6,
+    "endTime": 412.633,
+    "fullTextZH": "有一次呢，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 411.641,
+        "endTime": 411.803,
+        "gloss": "have"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 411.803,
+        "endTime": 412.248,
+        "gloss": "once"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 412.248,
+        "endTime": 412.592,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "Once,"
+  },
+  {
+    "startTime": 412.633,
+    "endTime": 416.7,
+    "fullTextZH": "王先生说他是一把破雨伞，",
+    "words": [
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 412.653,
+        "endTime": 413.635,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 413.635,
+        "endTime": 413.995,
+        "gloss": "said"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 413.995,
+        "endTime": 414.256,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 414.256,
+        "endTime": 414.456,
+        "gloss": "is"
+      },
+      {
+        "word": "一把",
+        "pinyin": "yī bǎ",
+        "startTime": 414.456,
+        "endTime": 415.358,
+        "gloss": "a"
+      },
+      {
+        "word": "破",
+        "pinyin": "pò",
+        "startTime": 415.358,
+        "endTime": 415.939,
+        "gloss": "broken"
+      },
+      {
+        "word": "雨伞",
+        "pinyin": "yǔ sǎn",
+        "startTime": 415.939,
+        "endTime": 416.66,
+        "gloss": "umbrella"
+      }
+    ],
+    "fullTextEN": "Mr. Wang said he was a broken umbrella,"
+  },
+  {
+    "startTime": 416.8,
+    "endTime": 419.033,
+    "fullTextZH": "对一把破雨伞，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 416.84,
+        "endTime": 417.021,
+        "gloss": "yes"
+      },
+      {
+        "word": "一把",
+        "pinyin": "yī bǎ",
+        "startTime": 417.021,
+        "endTime": 417.866,
+        "gloss": "a"
+      },
+      {
+        "word": "破",
+        "pinyin": "pò",
+        "startTime": 417.866,
+        "endTime": 418.289,
+        "gloss": "broken"
+      },
+      {
+        "word": "雨伞",
+        "pinyin": "yǔ sǎn",
+        "startTime": 418.289,
+        "endTime": 418.993,
+        "gloss": "umbrella"
+      }
+    ],
+    "fullTextEN": "Yes, a broken umbrella,"
+  },
+  {
+    "startTime": 419.4,
+    "endTime": 421.133,
+    "fullTextZH": "这把雨伞不新，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 419.46,
+        "endTime": 419.581,
+        "gloss": "this"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 419.581,
+        "endTime": 419.763,
+        "gloss": "umbrella"
+      },
+      {
+        "word": "雨伞",
+        "pinyin": "yǔ sǎn",
+        "startTime": 419.763,
+        "endTime": 420.448,
+        "gloss": "not"
+      },
+      {
+        "word": "不新",
+        "pinyin": "bù xīn",
+        "startTime": 420.448,
+        "endTime": 421.093,
+        "gloss": "new"
+      }
+    ],
+    "fullTextEN": "This umbrella is not new,"
+  },
+  {
+    "startTime": 421.2,
+    "endTime": 422.0,
+    "fullTextZH": "很破，",
+    "words": [
+      {
+        "word": "很破",
+        "pinyin": "hěn pò",
+        "startTime": 421.221,
+        "endTime": 421.959,
+        "gloss": "very"
+      }
+    ],
+    "fullTextEN": "Very broken,"
+  },
+  {
+    "startTime": 422.6,
+    "endTime": 425.233,
+    "fullTextZH": "所以呢，这把雨伞，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 422.62,
+        "endTime": 422.901,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 422.901,
+        "endTime": 423.163,
+        "gloss": "well"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 423.303,
+        "endTime": 423.444,
+        "gloss": "this"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 423.444,
+        "endTime": 423.645,
+        "gloss": "umbrella"
+      },
+      {
+        "word": "雨伞",
+        "pinyin": "yǔ sǎn",
+        "startTime": 423.645,
+        "endTime": 425.193,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "So, this umbrella,"
+  },
+  {
+    "startTime": 425.233,
+    "endTime": 428.3,
+    "fullTextZH": "如果下雨的话不可以用，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 425.313,
+        "endTime": 425.915,
+        "gloss": "if"
+      },
+      {
+        "word": "下雨",
+        "pinyin": "xià yǔ",
+        "startTime": 425.915,
+        "endTime": 426.416,
+        "gloss": "rains"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 426.416,
+        "endTime": 427.358,
+        "gloss": "if"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 427.358,
+        "endTime": 427.498,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 427.498,
+        "endTime": 427.899,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 427.899,
+        "endTime": 428.26,
+        "gloss": "use"
+      }
+    ],
+    "fullTextEN": "If it rains, it can't be used,"
+  },
+  {
+    "startTime": 428.666,
+    "endTime": 431.433,
+    "fullTextZH": "如果刮风也不可以用，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 428.746,
+        "endTime": 429.127,
+        "gloss": "if"
+      },
+      {
+        "word": "刮风",
+        "pinyin": "guā fēng",
+        "startTime": 429.127,
+        "endTime": 430.19,
+        "gloss": "windy"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 430.19,
+        "endTime": 430.43,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 430.43,
+        "endTime": 430.571,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 430.571,
+        "endTime": 430.952,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 430.952,
+        "endTime": 431.393,
+        "gloss": "use"
+      }
+    ],
+    "fullTextEN": "If it's windy, it can't be used either,"
+  },
+  {
+    "startTime": 432.1,
+    "endTime": 434.9,
+    "fullTextZH": "嗯但是如果你走路，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 432.181,
+        "endTime": 432.704,
+        "gloss": "hmm"
+      },
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 432.704,
+        "endTime": 433.712,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 433.712,
+        "endTime": 433.994,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 433.994,
+        "endTime": 434.255,
+        "gloss": "you"
+      },
+      {
+        "word": "走路",
+        "pinyin": "zǒu lù",
+        "startTime": 434.255,
+        "endTime": 434.86,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "Hmm, but if you walk,"
+  },
+  {
+    "startTime": 434.9,
+    "endTime": 436.666,
+    "fullTextZH": "你可以用它，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 435.0,
+        "endTime": 435.221,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 435.221,
+        "endTime": 435.883,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 435.883,
+        "endTime": 436.164,
+        "gloss": "use"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 436.164,
+        "endTime": 436.626,
+        "gloss": "it"
+      }
+    ],
+    "fullTextEN": "You can use it,"
+  },
+  {
+    "startTime": 437.133,
+    "endTime": 440.2,
+    "fullTextZH": "所以王先生的意思是，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 437.193,
+        "endTime": 437.694,
+        "gloss": "so"
+      },
+      {
+        "word": "王先生",
+        "pinyin": "wáng xiān shēng",
+        "startTime": 437.694,
+        "endTime": 438.656,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 438.656,
+        "endTime": 438.797,
+        "gloss": "'s"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 438.797,
+        "endTime": 439.538,
+        "gloss": "meaning"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 439.538,
+        "endTime": 440.16,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "So Mr. Wang means,"
+  },
+  {
+    "startTime": 440.566,
+    "endTime": 442.333,
+    "fullTextZH": "他觉得他很老了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 440.626,
+        "endTime": 440.807,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 440.807,
+        "endTime": 441.128,
+        "gloss": "feels"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 441.128,
+        "endTime": 441.309,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 441.309,
+        "endTime": 441.61,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 441.61,
+        "endTime": 441.911,
+        "gloss": "old"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 441.911,
+        "endTime": 442.293,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "He feels he is very old,"
+  },
+  {
+    "startTime": 442.333,
+    "endTime": 445.133,
+    "fullTextZH": "他和破雨伞一样的，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 442.373,
+        "endTime": 442.635,
+        "gloss": "he"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 442.635,
+        "endTime": 443.159,
+        "gloss": "and"
+      },
+      {
+        "word": "破",
+        "pinyin": "pò",
+        "startTime": 443.159,
+        "endTime": 443.441,
+        "gloss": "broken"
+      },
+      {
+        "word": "雨伞",
+        "pinyin": "yǔ sǎn",
+        "startTime": 443.441,
+        "endTime": 444.206,
+        "gloss": "umbrella"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 444.206,
+        "endTime": 444.69,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 444.69,
+        "endTime": 445.093,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "He is like a broken umbrella,"
+  },
+  {
+    "startTime": 445.2,
+    "endTime": 447.933,
+    "fullTextZH": "他不可以保护三毛，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 445.26,
+        "endTime": 445.481,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 445.481,
+        "endTime": 445.662,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 445.662,
+        "endTime": 446.446,
+        "gloss": "can"
+      },
+      {
+        "word": "保护",
+        "pinyin": "bǎo hù",
+        "startTime": 446.446,
+        "endTime": 447.169,
+        "gloss": "protect"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 447.169,
+        "endTime": 447.893,
+        "gloss": "Sanmao"
+      }
+    ],
+    "fullTextEN": "He cannot protect Sanmao,"
+  },
+  {
+    "startTime": 448.133,
+    "endTime": 451.2,
+    "fullTextZH": "但是他会支持三毛，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 448.193,
+        "endTime": 449.095,
+        "gloss": "but"
+      },
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 449.095,
+        "endTime": 449.576,
+        "gloss": "he will"
+      },
+      {
+        "word": "支持",
+        "pinyin": "zhī chí",
+        "startTime": 449.576,
+        "endTime": 450.458,
+        "gloss": "support"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 450.458,
+        "endTime": 451.16,
+        "gloss": "Sanmao"
+      }
+    ],
+    "fullTextEN": "But he will support Sanmao,"
+  },
+  {
+    "startTime": 451.3,
+    "endTime": 453.166,
+    "fullTextZH": "他是三毛的朋友，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 451.32,
+        "endTime": 451.521,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 451.521,
+        "endTime": 451.721,
+        "gloss": "is"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 451.721,
+        "endTime": 452.183,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 452.183,
+        "endTime": 452.464,
+        "gloss": "'s"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 452.464,
+        "endTime": 453.126,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "He is Sanmao's friend,"
+  },
+  {
+    "startTime": 453.433,
+    "endTime": 455.633,
+    "fullTextZH": "三毛听了很开心。",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 453.473,
+        "endTime": 453.958,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 453.958,
+        "endTime": 454.24,
+        "gloss": "heard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 454.24,
+        "endTime": 454.543,
+        "gloss": "le"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 454.543,
+        "endTime": 454.846,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 454.846,
+        "endTime": 455.593,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Sanmao was very happy to hear that."
+  },
+  {
+    "startTime": 455.966,
+    "endTime": 458.2,
+    "fullTextZH": "1991年的时候，",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 457.093,
+        "endTime": 457.395,
+        "gloss": "year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 457.395,
+        "endTime": 457.616,
+        "gloss": "'s"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 457.616,
+        "endTime": 458.16,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "In 1991,"
+  },
+  {
+    "startTime": 458.2,
+    "endTime": 461.133,
+    "fullTextZH": "三毛的身体变得不好，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 458.26,
+        "endTime": 458.682,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 458.682,
+        "endTime": 458.903,
+        "gloss": "'s"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 458.903,
+        "endTime": 459.847,
+        "gloss": "body"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 459.847,
+        "endTime": 460.45,
+        "gloss": "became"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 460.45,
+        "endTime": 461.093,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Sanmao's health became poor,"
+  },
+  {
+    "startTime": 461.333,
+    "endTime": 463.8,
+    "fullTextZH": "所以呢三毛进了医院，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 461.413,
+        "endTime": 461.674,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 461.674,
+        "endTime": 461.975,
+        "gloss": "ne"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 461.975,
+        "endTime": 462.637,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "进",
+        "pinyin": "jìn",
+        "startTime": 462.637,
+        "endTime": 462.857,
+        "gloss": "entered"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 462.857,
+        "endTime": 463.178,
+        "gloss": "le"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yī yuàn",
+        "startTime": 463.178,
+        "endTime": 463.76,
+        "gloss": "hospital"
+      }
+    ],
+    "fullTextEN": "So Sanmao went to the hospital,"
+  },
+  {
+    "startTime": 464.466,
+    "endTime": 468.1,
+    "fullTextZH": "1991年1月4号，",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 465.53,
+        "endTime": 466.353,
+        "gloss": "year"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 466.675,
+        "endTime": 467.337,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 467.618,
+        "endTime": 468.06,
+        "gloss": "day"
+      }
+    ],
+    "fullTextEN": "On January 4, 1991,"
+  },
+  {
+    "startTime": 468.166,
+    "endTime": 470.466,
+    "fullTextZH": "三毛自杀了，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 468.227,
+        "endTime": 469.235,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "自杀",
+        "pinyin": "zì shā",
+        "startTime": 469.235,
+        "endTime": 470.042,
+        "gloss": "suicide"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 470.042,
+        "endTime": 470.426,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Sanmao committed suicide,"
+  },
+  {
+    "startTime": 470.933,
+    "endTime": 472.5,
+    "fullTextZH": "非常突然，",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 470.993,
+        "endTime": 471.897,
+        "gloss": "very"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 471.897,
+        "endTime": 472.46,
+        "gloss": "suddenly"
+      }
+    ],
+    "fullTextEN": "Very suddenly,"
+  },
+  {
+    "startTime": 472.866,
+    "endTime": 474.866,
+    "fullTextZH": "为什么？很多人在想，",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 472.927,
+        "endTime": 473.23,
+        "gloss": "why"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 473.654,
+        "endTime": 474.058,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 474.058,
+        "endTime": 474.422,
+        "gloss": "people"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 474.422,
+        "endTime": 474.644,
+        "gloss": "are"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 474.644,
+        "endTime": 474.826,
+        "gloss": "thinking"
+      }
+    ],
+    "fullTextEN": "Why? Many people are wondering,"
+  },
+  {
+    "startTime": 474.866,
+    "endTime": 476.966,
+    "fullTextZH": "为什么三毛自杀？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 474.947,
+        "endTime": 475.492,
+        "gloss": "why"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 475.492,
+        "endTime": 476.138,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "自杀",
+        "pinyin": "zì shā",
+        "startTime": 476.138,
+        "endTime": 476.926,
+        "gloss": "suicide"
+      }
+    ],
+    "fullTextEN": "Why did Sanmao commit suicide?"
+  },
+  {
+    "startTime": 477.133,
+    "endTime": 478.566,
+    "fullTextZH": "我们不知道，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 477.234,
+        "endTime": 477.961,
+        "gloss": "we"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 477.961,
+        "endTime": 478.122,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 478.122,
+        "endTime": 478.526,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "We don't know,"
+  },
+  {
+    "startTime": 478.566,
+    "endTime": 480.233,
+    "fullTextZH": "我们也不会知道，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 478.687,
+        "endTime": 479.008,
+        "gloss": "we"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 479.008,
+        "endTime": 479.349,
+        "gloss": "also"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 479.349,
+        "endTime": 479.811,
+        "gloss": "will not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 479.811,
+        "endTime": 480.193,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "We will never know,"
+  },
+  {
+    "startTime": 480.233,
+    "endTime": 483.366,
+    "fullTextZH": "因为三毛没有说。好，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 480.273,
+        "endTime": 480.615,
+        "gloss": "because"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 480.615,
+        "endTime": 481.077,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 481.077,
+        "endTime": 481.538,
+        "gloss": "did not"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 481.538,
+        "endTime": 483.165,
+        "gloss": "say"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 483.205,
+        "endTime": 483.346,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Because Sanmao didn't say. Okay,"
+  },
+  {
+    "startTime": 483.366,
+    "endTime": 484.9,
+    "fullTextZH": "那三毛走了，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 483.386,
+        "endTime": 483.649,
+        "gloss": "then"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 483.649,
+        "endTime": 484.294,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 484.294,
+        "endTime": 484.577,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 484.577,
+        "endTime": 484.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Then Sanmao left,"
+  },
+  {
+    "startTime": 484.9,
+    "endTime": 487.233,
+    "fullTextZH": "我觉得很多人很难过，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 485.001,
+        "endTime": 485.141,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 485.141,
+        "endTime": 485.604,
+        "gloss": "feel"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 485.604,
+        "endTime": 486.026,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 486.026,
+        "endTime": 486.348,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 486.348,
+        "endTime": 486.549,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 486.549,
+        "endTime": 487.193,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "I feel that many people are very sad,"
+  },
+  {
+    "startTime": 488.033,
+    "endTime": 490.933,
+    "fullTextZH": "那个时候我还没有出生，",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 488.053,
+        "endTime": 488.496,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 488.496,
+        "endTime": 489.0,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 489.0,
+        "endTime": 489.362,
+        "gloss": "I"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 489.362,
+        "endTime": 489.604,
+        "gloss": "still"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 489.604,
+        "endTime": 490.188,
+        "gloss": "not"
+      },
+      {
+        "word": "出生",
+        "pinyin": "chū shēng",
+        "startTime": 490.188,
+        "endTime": 490.913,
+        "gloss": "born"
+      }
+    ],
+    "fullTextEN": "At that time, I was not yet born,"
+  },
+  {
+    "startTime": 491.066,
+    "endTime": 493.3,
+    "fullTextZH": "所以呢，她死的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 491.126,
+        "endTime": 491.428,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 491.428,
+        "endTime": 491.63,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 491.73,
+        "endTime": 492.515,
+        "gloss": "she"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 492.515,
+        "endTime": 492.696,
+        "gloss": "died"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 492.696,
+        "endTime": 492.877,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 492.877,
+        "endTime": 493.26,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So, when she died,"
+  },
+  {
+    "startTime": 493.3,
+    "endTime": 494.266,
+    "fullTextZH": "我不知道。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 493.34,
+        "endTime": 493.521,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 493.521,
+        "endTime": 493.662,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 493.662,
+        "endTime": 494.226,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "I don't know."
+  },
+  {
+    "startTime": 494.7,
+    "endTime": 495.633,
+    "fullTextZH": "三毛的爸爸，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 494.7,
+        "endTime": 494.943,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 494.943,
+        "endTime": 495.085,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 495.085,
+        "endTime": 495.592,
+        "gloss": "father"
+      }
+    ],
+    "fullTextEN": "Sanmao's father,"
+  },
+  {
+    "startTime": 495.633,
+    "endTime": 497.6,
+    "fullTextZH": "在三毛走了以后，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 495.653,
+        "endTime": 496.034,
+        "gloss": "after"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 496.034,
+        "endTime": 496.677,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 496.677,
+        "endTime": 496.918,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 496.918,
+        "endTime": 497.038,
+        "gloss": "particle"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 497.038,
+        "endTime": 497.56,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After Sanmao passed away,"
+  },
+  {
+    "startTime": 497.6,
+    "endTime": 498.9,
+    "fullTextZH": "他说：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 497.62,
+        "endTime": 497.905,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 497.905,
+        "endTime": 498.352,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "He said:"
+  },
+  {
+    "startTime": 499.1,
+    "endTime": 500.7,
+    "fullTextZH": "三毛走了，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 499.141,
+        "endTime": 499.951,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 499.951,
+        "endTime": 500.275,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 500.275,
+        "endTime": 500.659,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Sanmao is gone,"
+  },
+  {
+    "startTime": 501.9,
+    "endTime": 507.566,
+    "fullTextZH": "这个就像三毛和他都坐飞机去美国，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 501.96,
+        "endTime": 502.581,
+        "gloss": "this"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 502.581,
+        "endTime": 502.861,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 502.861,
+        "endTime": 503.742,
+        "gloss": "like"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 503.742,
+        "endTime": 504.343,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 504.343,
+        "endTime": 504.623,
+        "gloss": "and"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 504.623,
+        "endTime": 505.083,
+        "gloss": "he"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 505.083,
+        "endTime": 505.444,
+        "gloss": "both"
+      },
+      {
+        "word": "坐飞机",
+        "pinyin": "zuò fēi jī",
+        "startTime": 505.444,
+        "endTime": 506.525,
+        "gloss": "take plane"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 506.525,
+        "endTime": 506.805,
+        "gloss": "to"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 506.805,
+        "endTime": 507.526,
+        "gloss": "America"
+      }
+    ],
+    "fullTextEN": "It's like Sanmao and he both took a plane to America,"
+  },
+  {
+    "startTime": 508.133,
+    "endTime": 510.1,
+    "fullTextZH": "然后呢，三毛的票，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 508.213,
+        "endTime": 508.534,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 508.534,
+        "endTime": 508.896,
+        "gloss": "then"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 508.916,
+        "endTime": 509.317,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 509.317,
+        "endTime": 509.618,
+        "gloss": "of"
+      },
+      {
+        "word": "票",
+        "pinyin": "piào",
+        "startTime": 509.618,
+        "endTime": 510.06,
+        "gloss": "ticket"
+      }
+    ],
+    "fullTextEN": "And then, Sanmao's ticket,"
+  },
+  {
+    "startTime": 510.533,
+    "endTime": 515.333,
+    "fullTextZH": "三毛的飞机票是去美国的夏威夷，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 510.573,
+        "endTime": 510.955,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 510.955,
+        "endTime": 511.156,
+        "gloss": "of"
+      },
+      {
+        "word": "飞机票",
+        "pinyin": "fēi jī piào",
+        "startTime": 511.156,
+        "endTime": 512.521,
+        "gloss": "plane ticket"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 512.521,
+        "endTime": 512.863,
+        "gloss": "is"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 512.863,
+        "endTime": 513.385,
+        "gloss": "to"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 513.385,
+        "endTime": 513.907,
+        "gloss": "America"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 513.907,
+        "endTime": 514.168,
+        "gloss": "of"
+      },
+      {
+        "word": "夏威夷",
+        "pinyin": "xià wēi yí",
+        "startTime": 514.168,
+        "endTime": 515.293,
+        "gloss": "Hawaii"
+      }
+    ],
+    "fullTextEN": "Sanmao's plane ticket was to Hawaii, USA,"
+  },
+  {
+    "startTime": 515.9,
+    "endTime": 519.533,
+    "fullTextZH": "爸爸的票是去美国的华盛顿。",
+    "words": [
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 515.92,
+        "endTime": 516.281,
+        "gloss": "father"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 516.281,
+        "endTime": 516.522,
+        "gloss": "of"
+      },
+      {
+        "word": "票",
+        "pinyin": "piào",
+        "startTime": 516.522,
+        "endTime": 517.004,
+        "gloss": "ticket"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 517.004,
+        "endTime": 517.425,
+        "gloss": "is"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 517.425,
+        "endTime": 517.767,
+        "gloss": "to"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 517.767,
+        "endTime": 518.268,
+        "gloss": "America"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 518.268,
+        "endTime": 518.489,
+        "gloss": "of"
+      },
+      {
+        "word": "华盛顿",
+        "pinyin": "huá shèng dùn",
+        "startTime": 518.489,
+        "endTime": 519.493,
+        "gloss": "Washington"
+      }
+    ],
+    "fullTextEN": "Father's ticket was to Washington, USA."
+  },
+  {
+    "startTime": 520.533,
+    "endTime": 521.1,
+    "fullTextZH": "嗯，所以呢，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 520.533,
+        "endTime": 520.553,
+        "gloss": "hmm"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 520.634,
+        "endTime": 520.877,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 520.877,
+        "endTime": 521.08,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Hmm, so,"
+  },
+  {
+    "startTime": 521.1,
+    "endTime": 523.566,
+    "fullTextZH": "他们在一辆飞机上，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 521.1,
+        "endTime": 521.481,
+        "gloss": "they"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 521.481,
+        "endTime": 521.782,
+        "gloss": "on"
+      },
+      {
+        "word": "一辆",
+        "pinyin": "yī liàng",
+        "startTime": 521.782,
+        "endTime": 522.523,
+        "gloss": "one"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 522.523,
+        "endTime": 523.105,
+        "gloss": "plane"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 523.105,
+        "endTime": 523.526,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "They were on the same plane,"
+  },
+  {
+    "startTime": 523.8,
+    "endTime": 527.0,
+    "fullTextZH": "可是三毛先下飞机，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 523.921,
+        "endTime": 524.726,
+        "gloss": "but"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 524.726,
+        "endTime": 525.39,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 525.39,
+        "endTime": 525.873,
+        "gloss": "first"
+      },
+      {
+        "word": "下",
+        "pinyin": "xià",
+        "startTime": 525.873,
+        "endTime": 526.275,
+        "gloss": "get off"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 526.275,
+        "endTime": 526.96,
+        "gloss": "plane"
+      }
+    ],
+    "fullTextEN": "But Sanmao got off the plane first,"
+  },
+  {
+    "startTime": 527.133,
+    "endTime": 531.4,
+    "fullTextZH": "然后她的爸爸还要坐飞机去华盛顿，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 527.213,
+        "endTime": 527.514,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 527.514,
+        "endTime": 527.654,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 527.654,
+        "endTime": 527.794,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 527.794,
+        "endTime": 528.415,
+        "gloss": "father"
+      },
+      {
+        "word": "还要",
+        "pinyin": "hái yào",
+        "startTime": 528.415,
+        "endTime": 528.996,
+        "gloss": "still"
+      },
+      {
+        "word": "坐飞机",
+        "pinyin": "zuò fēi jī",
+        "startTime": 528.996,
+        "endTime": 530.038,
+        "gloss": "take plane"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 530.038,
+        "endTime": 530.458,
+        "gloss": "to"
+      },
+      {
+        "word": "华盛顿",
+        "pinyin": "huá shèng dùn",
+        "startTime": 530.458,
+        "endTime": 531.36,
+        "gloss": "Washington"
+      }
+    ],
+    "fullTextEN": "Then her father still had to fly to Washington,"
+  },
+  {
+    "startTime": 532.333,
+    "endTime": 537.066,
+    "fullTextZH": "爸爸说他们不在一辆飞机上，",
+    "words": [
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 532.333,
+        "endTime": 532.754,
+        "gloss": "father"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 532.754,
+        "endTime": 533.897,
+        "gloss": "said"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 533.897,
+        "endTime": 534.459,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 534.459,
+        "endTime": 534.699,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 534.699,
+        "endTime": 535.04,
+        "gloss": "on"
+      },
+      {
+        "word": "一辆",
+        "pinyin": "yī liàng",
+        "startTime": 535.04,
+        "endTime": 535.782,
+        "gloss": "one"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 535.782,
+        "endTime": 536.605,
+        "gloss": "plane"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 536.605,
+        "endTime": 537.026,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Father said they were not on the same plane,"
+  },
+  {
+    "startTime": 537.066,
+    "endTime": 540.033,
+    "fullTextZH": "可是三毛在他的心里，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 537.146,
+        "endTime": 538.048,
+        "gloss": "but"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 538.048,
+        "endTime": 538.63,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 538.63,
+        "endTime": 538.85,
+        "gloss": "in"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 538.85,
+        "endTime": 539.071,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 539.071,
+        "endTime": 539.251,
+        "gloss": "of"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 539.251,
+        "endTime": 539.993,
+        "gloss": "heart"
+      }
+    ],
+    "fullTextEN": "But Sanmao is in his heart,"
+  },
+  {
+    "startTime": 540.233,
+    "endTime": 542.833,
+    "fullTextZH": "他也在三毛的心里。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 540.273,
+        "endTime": 540.616,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 540.616,
+        "endTime": 540.838,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 540.838,
+        "endTime": 541.18,
+        "gloss": "in"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 541.18,
+        "endTime": 541.745,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 541.745,
+        "endTime": 542.107,
+        "gloss": "of"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 542.107,
+        "endTime": 542.793,
+        "gloss": "heart"
+      }
+    ],
+    "fullTextEN": "He is also in Sanmao's heart."
+  },
+  {
+    "startTime": 543.333,
+    "endTime": 544.1,
+    "fullTextZH": "哇，",
+    "words": [
+      {
+        "word": "哇",
+        "pinyin": "wa",
+        "startTime": 543.353,
+        "endTime": 544.08,
+        "gloss": "wow"
+      }
+    ],
+    "fullTextEN": "Wow,"
+  },
+  {
+    "startTime": 544.1,
+    "endTime": 546.133,
+    "fullTextZH": "看到这段话，",
+    "words": [
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 544.12,
+        "endTime": 544.945,
+        "gloss": "see"
+      },
+      {
+        "word": "这段话",
+        "pinyin": "zhè duàn huà",
+        "startTime": 544.945,
+        "endTime": 546.093,
+        "gloss": "this passage"
+      }
+    ],
+    "fullTextEN": "Seeing this passage,"
+  },
+  {
+    "startTime": 546.133,
+    "endTime": 547.033,
+    "fullTextZH": "我很难过，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 546.215,
+        "endTime": 546.358,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 546.358,
+        "endTime": 546.501,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 546.501,
+        "endTime": 546.992,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "I am very sad,"
+  },
+  {
+    "startTime": 547.033,
+    "endTime": 549.566,
+    "fullTextZH": "很难过我觉得三毛的爸爸，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 547.053,
+        "endTime": 547.174,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 547.174,
+        "endTime": 547.857,
+        "gloss": "sad"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 547.857,
+        "endTime": 547.998,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 547.998,
+        "endTime": 548.44,
+        "gloss": "feel"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 548.44,
+        "endTime": 548.802,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 548.802,
+        "endTime": 548.943,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 548.943,
+        "endTime": 549.546,
+        "gloss": "father"
+      }
+    ],
+    "fullTextEN": "I feel very sad about Sanmao's father,"
+  },
+  {
+    "startTime": 549.633,
+    "endTime": 553.766,
+    "fullTextZH": "他真的是一个很好的爸爸，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 549.693,
+        "endTime": 549.974,
+        "gloss": "he"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 549.974,
+        "endTime": 550.415,
+        "gloss": "truly"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 550.415,
+        "endTime": 550.616,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 550.616,
+        "endTime": 552.522,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 552.522,
+        "endTime": 552.783,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 552.783,
+        "endTime": 553.004,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 553.004,
+        "endTime": 553.144,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 553.144,
+        "endTime": 553.726,
+        "gloss": "father"
+      }
+    ],
+    "fullTextEN": "He truly was a very good father,"
+  },
+  {
+    "startTime": 554.166,
+    "endTime": 556.566,
+    "fullTextZH": "对他真的很爱三毛，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 554.247,
+        "endTime": 554.489,
+        "gloss": "towards"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 554.489,
+        "endTime": 554.731,
+        "gloss": "him"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 554.731,
+        "endTime": 555.215,
+        "gloss": "truly"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 555.215,
+        "endTime": 555.598,
+        "gloss": "very"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 555.598,
+        "endTime": 555.88,
+        "gloss": "love"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 555.88,
+        "endTime": 556.526,
+        "gloss": "Sanmao"
+      }
+    ],
+    "fullTextEN": "He really loved Sanmao,"
+  },
+  {
+    "startTime": 556.9,
+    "endTime": 559.866,
+    "fullTextZH": "他和三毛在一辆飞机上，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 556.94,
+        "endTime": 557.1,
+        "gloss": "he"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 557.1,
+        "endTime": 557.281,
+        "gloss": "and"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 557.281,
+        "endTime": 557.842,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 557.842,
+        "endTime": 558.163,
+        "gloss": "on"
+      },
+      {
+        "word": "一辆",
+        "pinyin": "yī liàng",
+        "startTime": 558.163,
+        "endTime": 558.804,
+        "gloss": "a"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 558.804,
+        "endTime": 559.425,
+        "gloss": "plane"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 559.425,
+        "endTime": 559.826,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "He and Sanmao were on a plane,"
+  },
+  {
+    "startTime": 559.866,
+    "endTime": 562.6,
+    "fullTextZH": "现在三毛下飞机了，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 559.886,
+        "endTime": 560.891,
+        "gloss": "now"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 560.891,
+        "endTime": 561.575,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "下",
+        "pinyin": "xià",
+        "startTime": 561.575,
+        "endTime": 561.896,
+        "gloss": "off"
+      },
+      {
+        "word": "飞机",
+        "pinyin": "fēi jī",
+        "startTime": 561.896,
+        "endTime": 562.399,
+        "gloss": "plane"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 562.399,
+        "endTime": 562.56,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Now Sanmao has gotten off the plane,"
+  },
+  {
+    "startTime": 562.6,
+    "endTime": 564.8,
+    "fullTextZH": "但是三毛还在，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 562.661,
+        "endTime": 563.65,
+        "gloss": "but"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 563.65,
+        "endTime": 564.073,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 564.073,
+        "endTime": 564.376,
+        "gloss": "still"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 564.376,
+        "endTime": 564.76,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "But Sanmao is still here,"
+  },
+  {
+    "startTime": 565.0,
+    "endTime": 566.9,
+    "fullTextZH": "三毛还在他的心里，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 565.061,
+        "endTime": 565.364,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 565.364,
+        "endTime": 565.606,
+        "gloss": "still"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 565.606,
+        "endTime": 565.829,
+        "gloss": "in"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 565.829,
+        "endTime": 566.031,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 566.031,
+        "endTime": 566.213,
+        "gloss": "of"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 566.213,
+        "endTime": 566.86,
+        "gloss": "heart"
+      }
+    ],
+    "fullTextEN": "Sanmao is still in his heart,"
+  },
+  {
+    "startTime": 567.666,
+    "endTime": 571.366,
+    "fullTextZH": "我觉得三毛在很多很多人的心里，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 567.767,
+        "endTime": 567.887,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 567.887,
+        "endTime": 568.209,
+        "gloss": "think"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 568.209,
+        "endTime": 568.732,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 568.732,
+        "endTime": 569.013,
+        "gloss": "in"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 569.013,
+        "endTime": 570.039,
+        "gloss": "many many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 570.039,
+        "endTime": 570.3,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 570.3,
+        "endTime": 570.562,
+        "gloss": "of"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 570.562,
+        "endTime": 571.326,
+        "gloss": "heart"
+      }
+    ],
+    "fullTextEN": "I think Sanmao is in many people's hearts,"
+  },
+  {
+    "startTime": 571.366,
+    "endTime": 573.466,
+    "fullTextZH": "因为在那个时候，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 571.629,
+        "endTime": 572.154,
+        "gloss": "because"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 572.154,
+        "endTime": 572.456,
+        "gloss": "at"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 572.456,
+        "endTime": 572.84,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 572.84,
+        "endTime": 573.426,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Because at that time,"
+  },
+  {
+    "startTime": 573.466,
+    "endTime": 576.566,
+    "fullTextZH": "三毛真的是一个很特别的人，",
+    "words": [
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 573.486,
+        "endTime": 574.03,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 574.03,
+        "endTime": 574.553,
+        "gloss": "truly"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 574.553,
+        "endTime": 574.754,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 574.754,
+        "endTime": 575.157,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 575.157,
+        "endTime": 575.439,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 575.439,
+        "endTime": 575.902,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 575.902,
+        "endTime": 576.043,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 576.043,
+        "endTime": 576.526,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Sanmao truly was a very special person,"
+  },
+  {
+    "startTime": 577.0,
+    "endTime": 579.566,
+    "fullTextZH": "她真的是一个很勇敢的人，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 577.02,
+        "endTime": 577.18,
+        "gloss": "she"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 577.18,
+        "endTime": 577.561,
+        "gloss": "truly"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 577.561,
+        "endTime": 577.722,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 577.722,
+        "endTime": 578.143,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 578.143,
+        "endTime": 578.423,
+        "gloss": "very"
+      },
+      {
+        "word": "勇敢的人",
+        "pinyin": "yǒng gǎn de rén",
+        "startTime": 578.423,
+        "endTime": 579.546,
+        "gloss": "brave person"
+      }
+    ],
+    "fullTextEN": "She truly was a very brave person,"
+  },
+  {
+    "startTime": 579.9,
+    "endTime": 582.533,
+    "fullTextZH": "她不是一个很完美的人，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 579.96,
+        "endTime": 580.141,
+        "gloss": "she"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 580.141,
+        "endTime": 580.523,
+        "gloss": "not"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 580.523,
+        "endTime": 580.965,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 580.965,
+        "endTime": 581.227,
+        "gloss": "very"
+      },
+      {
+        "word": "完美",
+        "pinyin": "wán měi",
+        "startTime": 581.227,
+        "endTime": 581.87,
+        "gloss": "perfect"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 581.87,
+        "endTime": 582.01,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 582.01,
+        "endTime": 582.493,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "She was not a very perfect person,"
+  },
+  {
+    "startTime": 582.533,
+    "endTime": 583.833,
+    "fullTextZH": "对，但是，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 582.574,
+        "endTime": 582.858,
+        "gloss": "yes"
+      },
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 583.0,
+        "endTime": 583.792,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "Yes, but,"
+  },
+  {
+    "startTime": 583.933,
+    "endTime": 587.933,
+    "fullTextZH": "我觉得她是一个非常非常特别的人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 584.094,
+        "endTime": 584.255,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 584.255,
+        "endTime": 584.616,
+        "gloss": "think"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 584.616,
+        "endTime": 584.878,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 584.878,
+        "endTime": 585.079,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 585.079,
+        "endTime": 585.642,
+        "gloss": "a"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 585.642,
+        "endTime": 586.144,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 586.144,
+        "endTime": 586.707,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 586.707,
+        "endTime": 587.25,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 587.25,
+        "endTime": 587.39,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 587.39,
+        "endTime": 587.893,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "I think she is a very, very special person."
+  },
+  {
+    "startTime": 588.533,
+    "endTime": 591.5,
+    "fullTextZH": "所以呢，三毛也在我的心里。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 588.593,
+        "endTime": 588.874,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 588.874,
+        "endTime": 589.014,
+        "gloss": "then"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 589.114,
+        "endTime": 589.555,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 589.555,
+        "endTime": 589.856,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 589.856,
+        "endTime": 590.137,
+        "gloss": "in"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 590.137,
+        "endTime": 590.458,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 590.458,
+        "endTime": 590.718,
+        "gloss": "of"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 590.718,
+        "endTime": 591.46,
+        "gloss": "heart"
+      }
+    ],
+    "fullTextEN": "So, Sanmao is also in my heart."
+  },
+  {
+    "startTime": 592.266,
+    "endTime": 595.566,
+    "fullTextZH": "好，那关于三毛的故事，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 592.326,
+        "endTime": 592.628,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 592.829,
+        "endTime": 593.272,
+        "gloss": "then"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 593.272,
+        "endTime": 594.077,
+        "gloss": "about"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 594.077,
+        "endTime": 594.6,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 594.6,
+        "endTime": 594.781,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 594.781,
+        "endTime": 595.526,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Okay, then about Sanmao's story,"
+  },
+  {
+    "startTime": 595.7,
+    "endTime": 598.466,
+    "fullTextZH": "这个视频是最后一个，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 595.76,
+        "endTime": 596.061,
+        "gloss": "this"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 596.061,
+        "endTime": 596.903,
+        "gloss": "video"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 596.903,
+        "endTime": 597.303,
+        "gloss": "is"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 597.303,
+        "endTime": 597.805,
+        "gloss": "last"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 597.805,
+        "endTime": 598.426,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "This is the last video,"
+  },
+  {
+    "startTime": 599.1,
+    "endTime": 601.8,
+    "fullTextZH": "你喜欢这些视频吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 599.181,
+        "endTime": 599.402,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 599.402,
+        "endTime": 600.43,
+        "gloss": "like"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 600.43,
+        "endTime": 600.913,
+        "gloss": "these"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 600.913,
+        "endTime": 601.316,
+        "gloss": "videos"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 601.316,
+        "endTime": 601.76,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like these videos?"
+  },
+  {
+    "startTime": 602.333,
+    "endTime": 604.766,
+    "fullTextZH": "你喜欢三毛的故事吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 602.434,
+        "endTime": 602.615,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 602.615,
+        "endTime": 603.258,
+        "gloss": "like"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 603.258,
+        "endTime": 603.761,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 603.761,
+        "endTime": 603.901,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 603.901,
+        "endTime": 604.344,
+        "gloss": "story"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 604.344,
+        "endTime": 604.726,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like Sanmao's stories?"
+  },
+  {
+    "startTime": 605.966,
+    "endTime": 608.6,
+    "fullTextZH": "我希望你喜欢三毛的故事，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 606.067,
+        "endTime": 606.207,
+        "gloss": "I"
+      },
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 606.207,
+        "endTime": 606.65,
+        "gloss": "hope"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 606.65,
+        "endTime": 606.891,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 606.891,
+        "endTime": 607.373,
+        "gloss": "like"
+      },
+      {
+        "word": "三毛",
+        "pinyin": "sān máo",
+        "startTime": 607.373,
+        "endTime": 607.756,
+        "gloss": "Sanmao"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 607.756,
+        "endTime": 607.896,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 607.896,
+        "endTime": 608.56,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "I hope you like Sanmao's stories,"
+  },
+  {
+    "startTime": 609.5,
+    "endTime": 614.266,
+    "fullTextZH": "那你还想看我说别人的故事吗？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 609.58,
+        "endTime": 609.84,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 609.84,
+        "endTime": 609.941,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 609.941,
+        "endTime": 610.221,
+        "gloss": "still"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 610.221,
+        "endTime": 610.702,
+        "gloss": "want"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 610.702,
+        "endTime": 611.583,
+        "gloss": "hear"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 611.583,
+        "endTime": 612.444,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 612.444,
+        "endTime": 612.844,
+        "gloss": "tell"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 612.844,
+        "endTime": 613.305,
+        "gloss": "other"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 613.305,
+        "endTime": 613.445,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 613.445,
+        "endTime": 613.845,
+        "gloss": "story"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 613.845,
+        "endTime": 614.226,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Then do you still want to hear me tell other people's stories?"
+  },
+  {
+    "startTime": 614.9,
+    "endTime": 616.133,
+    "fullTextZH": "如果你想看，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 614.92,
+        "endTime": 615.203,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 615.203,
+        "endTime": 615.385,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 615.385,
+        "endTime": 615.769,
+        "gloss": "want"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 615.769,
+        "endTime": 616.093,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "If you want to watch,"
+  },
+  {
+    "startTime": 616.133,
+    "endTime": 618.1,
+    "fullTextZH": "你可以留言告诉我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 616.213,
+        "endTime": 616.354,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 616.354,
+        "endTime": 616.615,
+        "gloss": "can"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 616.615,
+        "endTime": 617.177,
+        "gloss": "leave message"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 617.177,
+        "endTime": 617.658,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 617.658,
+        "endTime": 618.06,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You can leave a message to tell me,"
+  },
+  {
+    "startTime": 618.166,
+    "endTime": 622.5,
+    "fullTextZH": "你对中国哪个人感兴趣，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 618.266,
+        "endTime": 618.467,
+        "gloss": "you"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 618.467,
+        "endTime": 618.888,
+        "gloss": "towards"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 618.888,
+        "endTime": 619.831,
+        "gloss": "China"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 619.831,
+        "endTime": 620.373,
+        "gloss": "which"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 620.373,
+        "endTime": 621.196,
+        "gloss": "person"
+      },
+      {
+        "word": "感兴趣",
+        "pinyin": "gǎn xìng qù",
+        "startTime": 621.196,
+        "endTime": 622.46,
+        "gloss": "interested"
+      }
+    ],
+    "fullTextEN": "Which person in China are you interested in,"
+  },
+  {
+    "startTime": 622.5,
+    "endTime": 625.2,
+    "fullTextZH": "嗯你觉得哪个人有意思，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 622.54,
+        "endTime": 623.024,
+        "gloss": "hmm"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 623.024,
+        "endTime": 623.145,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 623.145,
+        "endTime": 623.507,
+        "gloss": "think"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 623.507,
+        "endTime": 623.971,
+        "gloss": "which"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 623.971,
+        "endTime": 624.233,
+        "gloss": "person"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 624.233,
+        "endTime": 625.16,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "Hmm, which person do you think is interesting,"
+  },
+  {
+    "startTime": 625.2,
+    "endTime": 627.566,
+    "fullTextZH": "你可以留言告诉我！",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 625.3,
+        "endTime": 625.441,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 625.441,
+        "endTime": 626.082,
+        "gloss": "can"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 626.082,
+        "endTime": 626.744,
+        "gloss": "leave message"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 626.744,
+        "endTime": 627.205,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 627.205,
+        "endTime": 627.526,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "You can leave a message to tell me!"
+  },
+  {
+    "startTime": 628.233,
+    "endTime": 631.0,
+    "fullTextZH": "好那我们下次见！",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 628.273,
+        "endTime": 628.754,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 628.754,
+        "endTime": 629.155,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 629.155,
+        "endTime": 629.857,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 629.857,
+        "endTime": 630.599,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 630.599,
+        "endTime": 630.96,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time!"
+  },
+  {
+    "startTime": 631.5,
+    "endTime": 632.966,
+    "fullTextZH": "谢谢拜拜！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 631.6,
+        "endTime": 632.303,
+        "gloss": "thanks"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 632.303,
+        "endTime": 632.926,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Thanks, bye!"
+  }
+]

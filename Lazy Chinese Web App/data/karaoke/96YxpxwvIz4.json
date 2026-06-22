@@ -1,0 +1,1258 @@
+[
+  {
+    "startTime": 0.266,
+    "endTime": 1.166,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.266,
+        "endTime": 1.125,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 2.0,
+    "endTime": 6.4,
+    "fullTextZH": "你好，他叫Joseph。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 2.121,
+        "endTime": 3.607,
+        "gloss": "hello"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 3.808,
+        "endTime": 4.692,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 4.692,
+        "endTime": 5.395,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "Hello, his name is Joseph."
+  },
+  {
+    "startTime": 7.2,
+    "endTime": 10.6,
+    "fullTextZH": "Joseph很喜欢。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 8.327,
+        "endTime": 9.373,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 9.373,
+        "endTime": 10.56,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Joseph really likes it."
+  },
+  {
+    "startTime": 11.266,
+    "endTime": 13.566,
+    "fullTextZH": "冷萃咖啡。",
+    "words": [
+      {
+        "word": "冷萃",
+        "pinyin": "lěng cuì",
+        "startTime": 11.367,
+        "endTime": 12.477,
+        "gloss": "cold brew"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 12.477,
+        "endTime": 13.526,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "Cold brew coffee."
+  },
+  {
+    "startTime": 14.366,
+    "endTime": 19.566,
+    "fullTextZH": "他最喜欢冷萃咖啡。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 14.486,
+        "endTime": 15.149,
+        "gloss": "he"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 15.149,
+        "endTime": 16.394,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 16.394,
+        "endTime": 17.558,
+        "gloss": "like"
+      },
+      {
+        "word": "冷萃",
+        "pinyin": "lěng cuì",
+        "startTime": 17.558,
+        "endTime": 18.723,
+        "gloss": "cold brew"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 18.723,
+        "endTime": 19.526,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "He likes cold brew coffee the most."
+  },
+  {
+    "startTime": 21.466,
+    "endTime": 25.533,
+    "fullTextZH": "他喜欢美式咖啡。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 21.486,
+        "endTime": 22.207,
+        "gloss": "he"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 22.207,
+        "endTime": 23.61,
+        "gloss": "like"
+      },
+      {
+        "word": "美式",
+        "pinyin": "měi shì",
+        "startTime": 23.61,
+        "endTime": 24.651,
+        "gloss": "American"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 24.651,
+        "endTime": 25.493,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "He likes American coffee."
+  },
+  {
+    "startTime": 26.066,
+    "endTime": 27.533,
+    "fullTextZH": "不不不！",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 26.247,
+        "endTime": 26.669,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 26.669,
+        "endTime": 27.011,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 27.011,
+        "endTime": 27.493,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No no no!"
+  },
+  {
+    "startTime": 27.6,
+    "endTime": 32.733,
+    "fullTextZH": "他不喜欢美式咖啡。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 27.66,
+        "endTime": 28.362,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 28.362,
+        "endTime": 29.565,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 29.565,
+        "endTime": 30.848,
+        "gloss": "like"
+      },
+      {
+        "word": "美式",
+        "pinyin": "měi shì",
+        "startTime": 30.848,
+        "endTime": 31.831,
+        "gloss": "American"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 31.831,
+        "endTime": 32.693,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "He doesn't like American coffee."
+  },
+  {
+    "startTime": 34.2,
+    "endTime": 37.466,
+    "fullTextZH": "他喜欢拿铁。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 34.22,
+        "endTime": 34.961,
+        "gloss": "he"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 34.961,
+        "endTime": 36.003,
+        "gloss": "like"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 36.003,
+        "endTime": 36.685,
+        "gloss": "latte"
+      },
+      {
+        "word": "铁",
+        "pinyin": "tiě",
+        "startTime": 36.685,
+        "endTime": 37.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "He likes lattes."
+  },
+  {
+    "startTime": 37.9,
+    "endTime": 43.933,
+    "fullTextZH": "不不不！他不喜欢拿铁。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 38.0,
+        "endTime": 38.04,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 38.04,
+        "endTime": 38.461,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 38.461,
+        "endTime": 38.842,
+        "gloss": "no"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 39.784,
+        "endTime": 40.706,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 40.706,
+        "endTime": 41.648,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 41.648,
+        "endTime": 42.69,
+        "gloss": "like"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 42.69,
+        "endTime": 43.292,
+        "gloss": "latte"
+      },
+      {
+        "word": "铁",
+        "pinyin": "tiě",
+        "startTime": 43.292,
+        "endTime": 43.893,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "No no no! He doesn't like lattes."
+  },
+  {
+    "startTime": 45.266,
+    "endTime": 48.799,
+    "fullTextZH": "他喜欢卡布奇诺。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 45.266,
+        "endTime": 46.089,
+        "gloss": "he"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 46.089,
+        "endTime": 47.314,
+        "gloss": "like"
+      },
+      {
+        "word": "卡布奇诺",
+        "pinyin": "kǎ bù qí nuò",
+        "startTime": 47.314,
+        "endTime": 48.759,
+        "gloss": "cappuccino"
+      }
+    ],
+    "fullTextEN": "He likes cappuccinos."
+  },
+  {
+    "startTime": 49.2,
+    "endTime": 55.1,
+    "fullTextZH": "不不不！他不喜欢卡布奇诺。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 49.32,
+        "endTime": 49.381,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 49.381,
+        "endTime": 49.762,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 49.762,
+        "endTime": 50.103,
+        "gloss": "no"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 50.745,
+        "endTime": 51.448,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 51.448,
+        "endTime": 52.411,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 52.411,
+        "endTime": 53.555,
+        "gloss": "like"
+      },
+      {
+        "word": "卡布奇诺",
+        "pinyin": "kǎ bù qí nuò",
+        "startTime": 53.555,
+        "endTime": 55.06,
+        "gloss": "cappuccino"
+      }
+    ],
+    "fullTextEN": "No no no! He doesn't like cappuccinos."
+  },
+  {
+    "startTime": 56.066,
+    "endTime": 61.533,
+    "fullTextZH": "他最喜欢冷萃咖啡。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 56.086,
+        "endTime": 56.787,
+        "gloss": "he"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 56.787,
+        "endTime": 58.109,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 58.109,
+        "endTime": 59.43,
+        "gloss": "like"
+      },
+      {
+        "word": "冷萃",
+        "pinyin": "lěng cuì",
+        "startTime": 59.43,
+        "endTime": 60.472,
+        "gloss": "cold brew"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 60.472,
+        "endTime": 61.493,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "He likes cold brew coffee the most."
+  },
+  {
+    "startTime": 61.733,
+    "endTime": 65.266,
+    "fullTextZH": "一天，他去",
+    "words": [
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 61.874,
+        "endTime": 63.138,
+        "gloss": "one day"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 63.499,
+        "endTime": 64.644,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 64.644,
+        "endTime": 64.664,
+        "gloss": "go"
+      }
+    ],
+    "fullTextEN": "One day, he went"
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 67.4,
+    "fullTextZH": "咖啡馆。",
+    "words": [
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 66.061,
+        "endTime": 67.38,
+        "gloss": "café"
+      }
+    ],
+    "fullTextEN": "to the café."
+  },
+  {
+    "startTime": 68.666,
+    "endTime": 74.099,
+    "fullTextZH": "咖啡馆有很多很多人。",
+    "words": [
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 68.666,
+        "endTime": 70.33,
+        "gloss": "café"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 70.33,
+        "endTime": 71.212,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 71.212,
+        "endTime": 73.257,
+        "gloss": "many many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 73.257,
+        "endTime": 74.079,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "The café was very crowded."
+  },
+  {
+    "startTime": 74.366,
+    "endTime": 77.133,
+    "fullTextZH": "所以很吵。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 74.526,
+        "endTime": 75.569,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 75.569,
+        "endTime": 76.451,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 76.451,
+        "endTime": 77.093,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "So it was very noisy."
+  },
+  {
+    "startTime": 80.133,
+    "endTime": 84.199,
+    "fullTextZH": "咖啡馆很安静。",
+    "words": [
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 80.153,
+        "endTime": 81.815,
+        "gloss": "café"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 81.815,
+        "endTime": 82.837,
+        "gloss": "very"
+      },
+      {
+        "word": "安静",
+        "pinyin": "ān jìng",
+        "startTime": 82.837,
+        "endTime": 84.159,
+        "gloss": "quiet"
+      }
+    ],
+    "fullTextEN": "The café was very quiet."
+  },
+  {
+    "startTime": 84.666,
+    "endTime": 90.199,
+    "fullTextZH": "不不不！咖啡馆不安静。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 84.766,
+        "endTime": 84.806,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 84.806,
+        "endTime": 85.127,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 85.127,
+        "endTime": 85.468,
+        "gloss": "no"
+      },
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 86.23,
+        "endTime": 87.573,
+        "gloss": "café"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 87.573,
+        "endTime": 88.816,
+        "gloss": "not"
+      },
+      {
+        "word": "安静",
+        "pinyin": "ān jìng",
+        "startTime": 88.816,
+        "endTime": 90.159,
+        "gloss": "quiet"
+      }
+    ],
+    "fullTextEN": "No no no! The café was not quiet."
+  },
+  {
+    "startTime": 90.566,
+    "endTime": 93.566,
+    "fullTextZH": "咖啡馆很吵。",
+    "words": [
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 90.647,
+        "endTime": 92.136,
+        "gloss": "café"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 92.136,
+        "endTime": 92.902,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 92.902,
+        "endTime": 93.526,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "The café was very noisy."
+  },
+  {
+    "startTime": 96.133,
+    "endTime": 99.799,
+    "fullTextZH": "Joseph说：你好。",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 97.075,
+        "endTime": 97.275,
+        "gloss": "say"
+      },
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 98.757,
+        "endTime": 99.759,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Joseph said: Hello."
+  },
+  {
+    "startTime": 99.966,
+    "endTime": 105.733,
+    "fullTextZH": "我要一杯冷萃咖啡。",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 100.086,
+        "endTime": 102.069,
+        "gloss": "I want"
+      },
+      {
+        "word": "一杯",
+        "pinyin": "yī bēi",
+        "startTime": 102.069,
+        "endTime": 103.47,
+        "gloss": "a cup"
+      },
+      {
+        "word": "冷萃",
+        "pinyin": "lěng cuì",
+        "startTime": 103.47,
+        "endTime": 104.752,
+        "gloss": "cold brew"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 104.752,
+        "endTime": 105.693,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "I want a cup of cold brew coffee."
+  },
+  {
+    "startTime": 107.733,
+    "endTime": 109.766,
+    "fullTextZH": "服务员说：",
+    "words": [
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 107.773,
+        "endTime": 108.981,
+        "gloss": "waiter"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 108.981,
+        "endTime": 109.726,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "The waiter said:"
+  },
+  {
+    "startTime": 110.1,
+    "endTime": 111.166,
+    "fullTextZH": "好的。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 110.18,
+        "endTime": 110.583,
+        "gloss": "okay"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 110.583,
+        "endTime": 111.126,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 111.933,
+    "endTime": 114.266,
+    "fullTextZH": "你要冰？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 112.034,
+        "endTime": 112.436,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 112.436,
+        "endTime": 113.341,
+        "gloss": "want"
+      },
+      {
+        "word": "冰",
+        "pinyin": "bīng",
+        "startTime": 113.341,
+        "endTime": 114.226,
+        "gloss": "ice"
+      }
+    ],
+    "fullTextEN": "Do you want ice?"
+  },
+  {
+    "startTime": 115.933,
+    "endTime": 119.399,
+    "fullTextZH": "咖啡馆很吵。",
+    "words": [
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 116.033,
+        "endTime": 117.836,
+        "gloss": "café"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 117.836,
+        "endTime": 118.678,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 118.678,
+        "endTime": 119.359,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "The café is very noisy."
+  },
+  {
+    "startTime": 120.2,
+    "endTime": 125.266,
+    "fullTextZH": "Joseph没听清楚。",
+    "words": [
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 121.662,
+        "endTime": 123.003,
+        "gloss": "not"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 123.003,
+        "endTime": 124.105,
+        "gloss": "hear"
+      },
+      {
+        "word": "清楚",
+        "pinyin": "qīng chǔ",
+        "startTime": 124.105,
+        "endTime": 125.226,
+        "gloss": "clearly"
+      }
+    ],
+    "fullTextEN": "Joseph didn't hear clearly."
+  },
+  {
+    "startTime": 126.133,
+    "endTime": 129.133,
+    "fullTextZH": "他说冰激凌。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 126.153,
+        "endTime": 126.757,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 126.757,
+        "endTime": 128.026,
+        "gloss": "say"
+      },
+      {
+        "word": "冰激凌",
+        "pinyin": "bīng jī líng",
+        "startTime": 128.026,
+        "endTime": 129.093,
+        "gloss": "ice cream"
+      }
+    ],
+    "fullTextEN": "He said ice cream."
+  },
+  {
+    "startTime": 129.766,
+    "endTime": 132.933,
+    "fullTextZH": "我不要冰激凌！",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 129.906,
+        "endTime": 130.367,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 130.367,
+        "endTime": 131.49,
+        "gloss": "don't want"
+      },
+      {
+        "word": "冰激凌",
+        "pinyin": "bīng jī líng",
+        "startTime": 131.49,
+        "endTime": 132.893,
+        "gloss": "ice cream"
+      }
+    ],
+    "fullTextEN": "I don't want ice cream!"
+  },
+  {
+    "startTime": 133.666,
+    "endTime": 139.166,
+    "fullTextZH": "因为他觉得他很胖。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 133.766,
+        "endTime": 135.352,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 135.352,
+        "endTime": 136.155,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 136.155,
+        "endTime": 137.139,
+        "gloss": "thinks"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 137.139,
+        "endTime": 137.962,
+        "gloss": "he"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 137.962,
+        "endTime": 139.126,
+        "gloss": "very fat"
+      }
+    ],
+    "fullTextEN": "Because he thinks he is fat."
+  },
+  {
+    "startTime": 141.566,
+    "endTime": 149.199,
+    "fullTextZH": "所以服务员给了他一杯冷萃咖啡。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 141.586,
+        "endTime": 142.548,
+        "gloss": "so"
+      },
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 142.548,
+        "endTime": 143.91,
+        "gloss": "waiter"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 143.91,
+        "endTime": 144.331,
+        "gloss": "give"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 144.331,
+        "endTime": 144.631,
+        "gloss": "particle"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 144.631,
+        "endTime": 145.573,
+        "gloss": "him"
+      },
+      {
+        "word": "一杯",
+        "pinyin": "yī bēi",
+        "startTime": 145.573,
+        "endTime": 147.095,
+        "gloss": "a cup"
+      },
+      {
+        "word": "冷萃",
+        "pinyin": "lěng cuì",
+        "startTime": 147.095,
+        "endTime": 148.257,
+        "gloss": "cold brew"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 148.257,
+        "endTime": 149.159,
+        "gloss": "coffee"
+      }
+    ],
+    "fullTextEN": "So the waiter gave him a cup of cold brew coffee."
+  },
+  {
+    "startTime": 151.0,
+    "endTime": 153.366,
+    "fullTextZH": "Joseph说：嗯，",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 151.822,
+        "endTime": 152.263,
+        "gloss": "say"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 152.825,
+        "endTime": 153.326,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Joseph said: Hmm,"
+  },
+  {
+    "startTime": 154.0,
+    "endTime": 156.766,
+    "fullTextZH": "为什么没有冰？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 154.18,
+        "endTime": 155.223,
+        "gloss": "why"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 155.223,
+        "endTime": 156.105,
+        "gloss": "no"
+      },
+      {
+        "word": "冰",
+        "pinyin": "bīng",
+        "startTime": 156.105,
+        "endTime": 156.726,
+        "gloss": "ice"
+      }
+    ],
+    "fullTextEN": "Why is there no ice?"
+  },
+  {
+    "startTime": 157.666,
+    "endTime": 159.933,
+    "fullTextZH": "服务员说：",
+    "words": [
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 157.806,
+        "endTime": 159.171,
+        "gloss": "waiter"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 159.171,
+        "endTime": 159.893,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "The waiter said:"
+  },
+  {
+    "startTime": 160.333,
+    "endTime": 168.133,
+    "fullTextZH": "可是你说你不要冰。Joseph说：",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 160.453,
+        "endTime": 161.596,
+        "gloss": "but"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 161.596,
+        "endTime": 162.519,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 162.519,
+        "endTime": 163.361,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 163.361,
+        "endTime": 164.183,
+        "gloss": "you"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 164.183,
+        "endTime": 165.426,
+        "gloss": "don't want"
+      },
+      {
+        "word": "冰",
+        "pinyin": "bīng",
+        "startTime": 165.426,
+        "endTime": 166.348,
+        "gloss": "ice"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 167.471,
+        "endTime": 168.093,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "But you said you don't want ice. Joseph said:"
+  },
+  {
+    "startTime": 169.666,
+    "endTime": 174.599,
+    "fullTextZH": "我要冰，我不要冰激凌！",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 169.666,
+        "endTime": 170.709,
+        "gloss": "I want"
+      },
+      {
+        "word": "冰",
+        "pinyin": "bīng",
+        "startTime": 170.709,
+        "endTime": 171.03,
+        "gloss": "ice"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 171.671,
+        "endTime": 172.554,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 172.554,
+        "endTime": 173.496,
+        "gloss": "don't want"
+      },
+      {
+        "word": "冰激凌",
+        "pinyin": "bīng jī líng",
+        "startTime": 173.496,
+        "endTime": 174.559,
+        "gloss": "ice cream"
+      }
+    ],
+    "fullTextEN": "I want ice, I don't want ice cream!"
+  },
+  {
+    "startTime": 175.533,
+    "endTime": 178.533,
+    "fullTextZH": "服务员很生气。",
+    "words": [
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 175.714,
+        "endTime": 176.942,
+        "gloss": "waiter"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 176.942,
+        "endTime": 177.506,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 177.506,
+        "endTime": 178.493,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "The waiter is very angry."
+  },
+  {
+    "startTime": 180.4,
+    "endTime": 181.3,
+    "fullTextZH": "谢谢。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 180.523,
+        "endTime": 181.259,
+        "gloss": "thank you"
+      }
+    ],
+    "fullTextEN": "Thank you."
+  }
+]

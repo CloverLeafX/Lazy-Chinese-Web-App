@@ -1,0 +1,3851 @@
+[
+  {
+    "startTime": 0.933,
+    "endTime": 8.466,
+    "fullTextZH": "你好，今天我们看一个视频，对。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.933,
+        "endTime": 2.055,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.235,
+        "endTime": 3.558,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 3.558,
+        "endTime": 4.92,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 4.92,
+        "endTime": 5.661,
+        "gloss": "watch"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 5.661,
+        "endTime": 6.402,
+        "gloss": "a"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 6.402,
+        "endTime": 7.705,
+        "gloss": "video"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 7.945,
+        "endTime": 8.426,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Hello, today we are watching a video, right?"
+  },
+  {
+    "startTime": 8.5,
+    "endTime": 10.4,
+    "fullTextZH": "一个视频。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 8.601,
+        "endTime": 9.268,
+        "gloss": "a"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 9.268,
+        "endTime": 10.36,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "A video."
+  },
+  {
+    "startTime": 11.9,
+    "endTime": 14.566,
+    "fullTextZH": "有三个人，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 11.92,
+        "endTime": 12.842,
+        "gloss": "there are"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 12.842,
+        "endTime": 13.684,
+        "gloss": "three"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 13.684,
+        "endTime": 14.526,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "There are three people,"
+  },
+  {
+    "startTime": 15.366,
+    "endTime": 19.933,
+    "fullTextZH": "他，他叫Bamboo，对。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 15.446,
+        "endTime": 15.747,
+        "gloss": "he"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 16.788,
+        "endTime": 17.329,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 17.329,
+        "endTime": 17.469,
+        "gloss": "called"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 19.392,
+        "endTime": 19.893,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He, he is called Bamboo, right?"
+  },
+  {
+    "startTime": 20.0,
+    "endTime": 21.866,
+    "fullTextZH": "他叫Bamboo，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 20.06,
+        "endTime": 20.401,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 20.401,
+        "endTime": 20.762,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "He is called Bamboo,"
+  },
+  {
+    "startTime": 22.366,
+    "endTime": 25.533,
+    "fullTextZH": "他叫Brag，哈哈。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 22.386,
+        "endTime": 22.887,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 22.887,
+        "endTime": 23.929,
+        "gloss": "called"
+      },
+      {
+        "word": "哈哈",
+        "pinyin": "hā hā",
+        "startTime": 24.892,
+        "endTime": 25.493,
+        "gloss": "haha"
+      }
+    ],
+    "fullTextEN": "He is called Brag, haha."
+  },
+  {
+    "startTime": 25.666,
+    "endTime": 30.399,
+    "fullTextZH": "他叫Brag，他叫Dundun，对。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 25.686,
+        "endTime": 25.967,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 25.967,
+        "endTime": 26.328,
+        "gloss": "called"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 27.531,
+        "endTime": 27.892,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 27.892,
+        "endTime": 28.373,
+        "gloss": "called"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 29.777,
+        "endTime": 30.359,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He is called Brag, he is called Dundun, right?"
+  },
+  {
+    "startTime": 30.733,
+    "endTime": 32.266,
+    "fullTextZH": "你看，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 30.814,
+        "endTime": 31.56,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 31.56,
+        "endTime": 32.226,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look,"
+  },
+  {
+    "startTime": 35.066,
+    "endTime": 38.666,
+    "fullTextZH": "戴着一个帽子。",
+    "words": [
+      {
+        "word": "戴着",
+        "pinyin": "dài zhe",
+        "startTime": 35.167,
+        "endTime": 36.494,
+        "gloss": "wearing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 36.494,
+        "endTime": 37.58,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 37.58,
+        "endTime": 38.626,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Wearing a hat."
+  },
+  {
+    "startTime": 38.7,
+    "endTime": 42.333,
+    "fullTextZH": "对不对？他戴着一个帽子。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 38.82,
+        "endTime": 38.941,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 38.941,
+        "endTime": 39.041,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 39.041,
+        "endTime": 39.202,
+        "gloss": "right"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 39.744,
+        "endTime": 40.085,
+        "gloss": "he"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 40.085,
+        "endTime": 40.426,
+        "gloss": "wear"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 40.426,
+        "endTime": 40.767,
+        "gloss": "ing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 40.767,
+        "endTime": 41.349,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 41.349,
+        "endTime": 42.293,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Right? He is wearing a hat."
+  },
+  {
+    "startTime": 44.166,
+    "endTime": 45.566,
+    "fullTextZH": "什么颜色？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 44.186,
+        "endTime": 44.612,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 44.612,
+        "endTime": 45.525,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "What color?"
+  },
+  {
+    "startTime": 46.066,
+    "endTime": 49.766,
+    "fullTextZH": "是不是白色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 46.187,
+        "endTime": 48.62,
+        "gloss": "is it"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 48.62,
+        "endTime": 49.726,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "Is it white?"
+  },
+  {
+    "startTime": 50.2,
+    "endTime": 52.1,
+    "fullTextZH": "是不是白色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 50.321,
+        "endTime": 51.11,
+        "gloss": "is it"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 51.11,
+        "endTime": 52.06,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "Is it white?"
+  },
+  {
+    "startTime": 52.733,
+    "endTime": 56.699,
+    "fullTextZH": "不是，这个不是白色。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 52.733,
+        "endTime": 53.815,
+        "gloss": "not"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 53.935,
+        "endTime": 54.656,
+        "gloss": "this"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 54.656,
+        "endTime": 55.617,
+        "gloss": "not"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 55.617,
+        "endTime": 56.659,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "No, this is not white."
+  },
+  {
+    "startTime": 56.933,
+    "endTime": 59.133,
+    "fullTextZH": "是不是黑色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 57.014,
+        "endTime": 58.003,
+        "gloss": "is it"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 58.003,
+        "endTime": 59.093,
+        "gloss": "black"
+      }
+    ],
+    "fullTextEN": "Is it black?"
+  },
+  {
+    "startTime": 59.366,
+    "endTime": 61.333,
+    "fullTextZH": "黑色？不，",
+    "words": [
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 59.426,
+        "endTime": 60.911,
+        "gloss": "black"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 61.233,
+        "endTime": 61.293,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Black? No,"
+  },
+  {
+    "startTime": 61.7,
+    "endTime": 63.466,
+    "fullTextZH": "不是黑色。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 61.78,
+        "endTime": 62.443,
+        "gloss": "not"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 62.443,
+        "endTime": 63.426,
+        "gloss": "black"
+      }
+    ],
+    "fullTextEN": "Not black."
+  },
+  {
+    "startTime": 64.1,
+    "endTime": 67.266,
+    "fullTextZH": "对，是咖啡色。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 64.1,
+        "endTime": 64.16,
+        "gloss": "right"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 64.761,
+        "endTime": 65.342,
+        "gloss": "is"
+      },
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 65.342,
+        "endTime": 67.226,
+        "gloss": "brown"
+      }
+    ],
+    "fullTextEN": "Right, it is brown."
+  },
+  {
+    "startTime": 67.3,
+    "endTime": 70.1,
+    "fullTextZH": "你看，咖啡色，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 67.36,
+        "endTime": 67.481,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 67.481,
+        "endTime": 67.945,
+        "gloss": "look"
+      },
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 68.106,
+        "endTime": 70.06,
+        "gloss": "brown"
+      }
+    ],
+    "fullTextEN": "Look, brown,"
+  },
+  {
+    "startTime": 70.3,
+    "endTime": 73.7,
+    "fullTextZH": "咖啡色的帽子。",
+    "words": [
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 70.36,
+        "endTime": 71.789,
+        "gloss": "brown"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 71.789,
+        "endTime": 72.392,
+        "gloss": "of"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 72.392,
+        "endTime": 73.66,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "A brown hat."
+  },
+  {
+    "startTime": 74.6,
+    "endTime": 79.7,
+    "fullTextZH": "然后他背着，背着一个包。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 74.6,
+        "endTime": 75.343,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 75.343,
+        "endTime": 76.106,
+        "gloss": "he"
+      },
+      {
+        "word": "背着",
+        "pinyin": "bèi zhe",
+        "startTime": 76.106,
+        "endTime": 76.528,
+        "gloss": "carrying"
+      },
+      {
+        "word": "背着",
+        "pinyin": "bèi zhe",
+        "startTime": 77.21,
+        "endTime": 78.294,
+        "gloss": "carrying"
+      },
+      {
+        "word": "一个包",
+        "pinyin": "yí gè bāo",
+        "startTime": 78.294,
+        "endTime": 79.66,
+        "gloss": "a bag"
+      }
+    ],
+    "fullTextEN": "Then he is carrying, carrying a bag."
+  },
+  {
+    "startTime": 80.133,
+    "endTime": 83.566,
+    "fullTextZH": "一个包，什么颜色？",
+    "words": [
+      {
+        "word": "一个包",
+        "pinyin": "yí gè bāo",
+        "startTime": 80.253,
+        "endTime": 81.177,
+        "gloss": "a bag"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 81.699,
+        "endTime": 82.522,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 82.522,
+        "endTime": 83.526,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "A bag, what color?"
+  },
+  {
+    "startTime": 84.466,
+    "endTime": 87.133,
+    "fullTextZH": "是不是红色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 84.486,
+        "endTime": 86.05,
+        "gloss": "is it"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 86.05,
+        "endTime": 87.093,
+        "gloss": "red"
+      }
+    ],
+    "fullTextEN": "Is it red?"
+  },
+  {
+    "startTime": 87.666,
+    "endTime": 90.566,
+    "fullTextZH": "不，不是红色。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 87.767,
+        "endTime": 88.129,
+        "gloss": "no"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 88.633,
+        "endTime": 89.478,
+        "gloss": "not"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 89.478,
+        "endTime": 90.526,
+        "gloss": "red"
+      }
+    ],
+    "fullTextEN": "No, it's not red."
+  },
+  {
+    "startTime": 90.733,
+    "endTime": 92.599,
+    "fullTextZH": "是不是绿色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 90.813,
+        "endTime": 91.576,
+        "gloss": "is it"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 91.576,
+        "endTime": 92.559,
+        "gloss": "green"
+      }
+    ],
+    "fullTextEN": "Is it green?"
+  },
+  {
+    "startTime": 93.333,
+    "endTime": 96.266,
+    "fullTextZH": "不对，不是绿色。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 93.433,
+        "endTime": 93.695,
+        "gloss": "no"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 93.695,
+        "endTime": 94.558,
+        "gloss": "correct"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 94.599,
+        "endTime": 95.322,
+        "gloss": "not"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 95.322,
+        "endTime": 96.226,
+        "gloss": "green"
+      }
+    ],
+    "fullTextEN": "No, it's not green."
+  },
+  {
+    "startTime": 96.266,
+    "endTime": 97.899,
+    "fullTextZH": "不是红色，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 96.347,
+        "endTime": 96.911,
+        "gloss": "not"
+      },
+      {
+        "word": "红色",
+        "pinyin": "hóng sè",
+        "startTime": 96.911,
+        "endTime": 97.859,
+        "gloss": "red"
+      }
+    ],
+    "fullTextEN": "It's not red,"
+  },
+  {
+    "startTime": 97.966,
+    "endTime": 100.866,
+    "fullTextZH": "是咖啡色，对。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 98.087,
+        "endTime": 98.671,
+        "gloss": "is"
+      },
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 98.671,
+        "endTime": 100.342,
+        "gloss": "brown"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 100.443,
+        "endTime": 100.826,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "It's brown, correct."
+  },
+  {
+    "startTime": 100.866,
+    "endTime": 102.999,
+    "fullTextZH": "咖啡色的包。",
+    "words": [
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 100.926,
+        "endTime": 102.093,
+        "gloss": "brown"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.093,
+        "endTime": 102.315,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 102.315,
+        "endTime": 102.959,
+        "gloss": "bag"
+      }
+    ],
+    "fullTextEN": "A brown bag."
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 107.733,
+    "fullTextZH": "好，然后我们看Brag。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 104.0,
+        "endTime": 104.02,
+        "gloss": "okay"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 104.803,
+        "endTime": 105.867,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 105.867,
+        "endTime": 106.649,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 106.649,
+        "endTime": 107.131,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Okay, then we look at Brag."
+  },
+  {
+    "startTime": 108.333,
+    "endTime": 111.266,
+    "fullTextZH": "Brag有没有帽子？",
+    "words": [
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 109.217,
+        "endTime": 110.061,
+        "gloss": "have or not"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 110.061,
+        "endTime": 111.226,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Does Brag have a hat?"
+  },
+  {
+    "startTime": 112.1,
+    "endTime": 112.9,
+    "fullTextZH": "不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 112.203,
+        "endTime": 112.859,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No,"
+  },
+  {
+    "startTime": 112.933,
+    "endTime": 115.666,
+    "fullTextZH": "Brag没有帽子。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 113.496,
+        "endTime": 114.34,
+        "gloss": "not have"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 114.34,
+        "endTime": 115.626,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Brag doesn't have a hat."
+  },
+  {
+    "startTime": 116.466,
+    "endTime": 120.133,
+    "fullTextZH": "Brag她戴着，对，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 117.568,
+        "endTime": 118.31,
+        "gloss": "she"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 118.31,
+        "endTime": 118.81,
+        "gloss": "wearing"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 118.81,
+        "endTime": 119.492,
+        "gloss": "is"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 119.612,
+        "endTime": 120.093,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Brag, she is wearing, correct,"
+  },
+  {
+    "startTime": 120.133,
+    "endTime": 122.566,
+    "fullTextZH": "她戴着眼镜。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 120.213,
+        "endTime": 120.575,
+        "gloss": "she"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 120.575,
+        "endTime": 120.937,
+        "gloss": "wearing"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 120.937,
+        "endTime": 121.46,
+        "gloss": "is"
+      },
+      {
+        "word": "眼镜",
+        "pinyin": "yǎn jìng",
+        "startTime": 121.46,
+        "endTime": 122.526,
+        "gloss": "glasses"
+      }
+    ],
+    "fullTextEN": "She is wearing glasses."
+  },
+  {
+    "startTime": 122.766,
+    "endTime": 124.899,
+    "fullTextZH": "对不对？她戴着",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 122.826,
+        "endTime": 122.927,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 122.927,
+        "endTime": 123.048,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 123.048,
+        "endTime": 123.571,
+        "gloss": "right"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 123.692,
+        "endTime": 123.993,
+        "gloss": "she"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 123.993,
+        "endTime": 124.336,
+        "gloss": "wearing"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 124.336,
+        "endTime": 124.356,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Right? She is wearing"
+  },
+  {
+    "startTime": 125.1,
+    "endTime": 129.9,
+    "fullTextZH": "眼镜。为什么她戴着眼镜？",
+    "words": [
+      {
+        "word": "眼镜",
+        "pinyin": "yǎn jìng",
+        "startTime": 125.1,
+        "endTime": 126.867,
+        "gloss": "glasses"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 126.908,
+        "endTime": 127.751,
+        "gloss": "why"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 127.751,
+        "endTime": 128.092,
+        "gloss": "she"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 128.092,
+        "endTime": 128.394,
+        "gloss": "wearing"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 128.394,
+        "endTime": 128.755,
+        "gloss": "is"
+      },
+      {
+        "word": "眼镜",
+        "pinyin": "yǎn jìng",
+        "startTime": 128.755,
+        "endTime": 129.86,
+        "gloss": "glasses"
+      }
+    ],
+    "fullTextEN": "Glasses. Why is she wearing glasses?"
+  },
+  {
+    "startTime": 130.766,
+    "endTime": 135.966,
+    "fullTextZH": "可能因为她的眼睛不好。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 130.866,
+        "endTime": 131.89,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 131.89,
+        "endTime": 132.493,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 132.493,
+        "endTime": 132.774,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 132.774,
+        "endTime": 133.175,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 133.175,
+        "endTime": 134.621,
+        "gloss": "eyes"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 134.621,
+        "endTime": 135.926,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Maybe because her eyes are not good."
+  },
+  {
+    "startTime": 137.766,
+    "endTime": 142.066,
+    "fullTextZH": "为什么她的眼睛不好？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 137.786,
+        "endTime": 138.952,
+        "gloss": "why"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 138.952,
+        "endTime": 139.233,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 139.233,
+        "endTime": 139.494,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 139.494,
+        "endTime": 140.941,
+        "gloss": "eyes"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 140.941,
+        "endTime": 142.026,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Why are her eyes not good?"
+  },
+  {
+    "startTime": 142.333,
+    "endTime": 148.766,
+    "fullTextZH": "可能因为她每天学习，对。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 142.453,
+        "endTime": 143.555,
+        "gloss": "maybe"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 143.555,
+        "endTime": 144.157,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 144.157,
+        "endTime": 145.239,
+        "gloss": "she"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 145.239,
+        "endTime": 146.602,
+        "gloss": "every day"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 146.602,
+        "endTime": 147.483,
+        "gloss": "studies"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 148.245,
+        "endTime": 148.726,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Maybe because she studies every day, correct."
+  },
+  {
+    "startTime": 148.766,
+    "endTime": 150.899,
+    "fullTextZH": "每天学习。",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 148.826,
+        "endTime": 149.832,
+        "gloss": "every day"
+      },
+      {
+        "word": "学习",
+        "pinyin": "xué xí",
+        "startTime": 149.832,
+        "endTime": 150.859,
+        "gloss": "study"
+      }
+    ],
+    "fullTextEN": "Study every day."
+  },
+  {
+    "startTime": 152.066,
+    "endTime": 152.866,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 152.087,
+        "endTime": 152.845,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 153.5,
+    "endTime": 155.366,
+    "fullTextZH": "你看Bamboo。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 153.62,
+        "endTime": 153.801,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 153.801,
+        "endTime": 154.383,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "You watch Bamboo."
+  },
+  {
+    "startTime": 155.933,
+    "endTime": 159.699,
+    "fullTextZH": "Bamboo戴着一个帽子，对。",
+    "words": [
+      {
+        "word": "戴着",
+        "pinyin": "dài zhe",
+        "startTime": 156.734,
+        "endTime": 157.355,
+        "gloss": "wearing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 157.355,
+        "endTime": 158.197,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 158.197,
+        "endTime": 159.118,
+        "gloss": "hat"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 159.318,
+        "endTime": 159.659,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Bamboo is wearing a hat, right?"
+  },
+  {
+    "startTime": 159.7,
+    "endTime": 162.366,
+    "fullTextZH": "他戴着一个帽子。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 159.74,
+        "endTime": 160.201,
+        "gloss": "he"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 160.201,
+        "endTime": 160.542,
+        "gloss": "wear"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 160.542,
+        "endTime": 160.782,
+        "gloss": "ing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 160.782,
+        "endTime": 161.324,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 161.324,
+        "endTime": 162.326,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "He is wearing a hat."
+  },
+  {
+    "startTime": 162.8,
+    "endTime": 164.666,
+    "fullTextZH": "什么颜色？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 162.961,
+        "endTime": 163.583,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 163.583,
+        "endTime": 164.626,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "What color?"
+  },
+  {
+    "startTime": 164.8,
+    "endTime": 166.166,
+    "fullTextZH": "什么颜色？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 164.9,
+        "endTime": 165.202,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 165.202,
+        "endTime": 166.126,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "What color?"
+  },
+  {
+    "startTime": 167.866,
+    "endTime": 170.333,
+    "fullTextZH": "是不是咖啡色？",
+    "words": [
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 167.886,
+        "endTime": 168.869,
+        "gloss": "is it"
+      },
+      {
+        "word": "咖啡色",
+        "pinyin": "kā fēi sè",
+        "startTime": 168.869,
+        "endTime": 170.293,
+        "gloss": "brown"
+      }
+    ],
+    "fullTextEN": "Is it brown?"
+  },
+  {
+    "startTime": 171.066,
+    "endTime": 174.333,
+    "fullTextZH": "不是，是不是白色？",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 171.146,
+        "endTime": 172.289,
+        "gloss": "no"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 172.429,
+        "endTime": 173.231,
+        "gloss": "is it"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 173.231,
+        "endTime": 174.293,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "No, is it white?"
+  },
+  {
+    "startTime": 174.766,
+    "endTime": 178.199,
+    "fullTextZH": "不是，是黑色，对。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 174.907,
+        "endTime": 175.89,
+        "gloss": "no"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 176.051,
+        "endTime": 176.432,
+        "gloss": "is"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 176.432,
+        "endTime": 177.396,
+        "gloss": "black"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 177.657,
+        "endTime": 178.159,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "No, it's black, right."
+  },
+  {
+    "startTime": 178.266,
+    "endTime": 181.699,
+    "fullTextZH": "是黑色的帽子。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 178.346,
+        "endTime": 178.647,
+        "gloss": "is"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 178.647,
+        "endTime": 179.511,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 179.511,
+        "endTime": 179.651,
+        "gloss": "of"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 179.651,
+        "endTime": 181.659,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "It's a black hat."
+  },
+  {
+    "startTime": 181.866,
+    "endTime": 186.666,
+    "fullTextZH": "Bamboo戴着一个黑色的帽子。",
+    "words": [
+      {
+        "word": "戴着",
+        "pinyin": "dài zhe",
+        "startTime": 183.031,
+        "endTime": 183.854,
+        "gloss": "wearing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 183.854,
+        "endTime": 184.477,
+        "gloss": "a"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 184.477,
+        "endTime": 185.421,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.421,
+        "endTime": 185.581,
+        "gloss": "of"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 185.581,
+        "endTime": 186.626,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Bamboo is wearing a black hat."
+  },
+  {
+    "startTime": 187.3,
+    "endTime": 190.133,
+    "fullTextZH": "然后他拿着，对，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 187.3,
+        "endTime": 187.903,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 187.903,
+        "endTime": 188.526,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 188.526,
+        "endTime": 189.008,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 189.008,
+        "endTime": 189.249,
+        "gloss": "ing"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 189.611,
+        "endTime": 190.093,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Then he is holding, right,"
+  },
+  {
+    "startTime": 190.166,
+    "endTime": 192.933,
+    "fullTextZH": "他拿着一个什么？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 190.266,
+        "endTime": 190.567,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 190.567,
+        "endTime": 190.968,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 190.968,
+        "endTime": 191.289,
+        "gloss": "ing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 191.289,
+        "endTime": 192.191,
+        "gloss": "a"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 192.191,
+        "endTime": 192.893,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is he holding?"
+  },
+  {
+    "startTime": 193.2,
+    "endTime": 195.933,
+    "fullTextZH": "对，这个是手机。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 193.22,
+        "endTime": 193.28,
+        "gloss": "right"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 194.004,
+        "endTime": 194.366,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 194.366,
+        "endTime": 194.767,
+        "gloss": "is"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 194.767,
+        "endTime": 195.893,
+        "gloss": "phone"
+      }
+    ],
+    "fullTextEN": "Right, this is a phone."
+  },
+  {
+    "startTime": 196.1,
+    "endTime": 198.6,
+    "fullTextZH": "他拿着一个手机。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 196.16,
+        "endTime": 196.443,
+        "gloss": "he"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 196.443,
+        "endTime": 196.785,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 196.785,
+        "endTime": 197.088,
+        "gloss": "ing"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 197.088,
+        "endTime": 197.652,
+        "gloss": "a"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 197.652,
+        "endTime": 198.56,
+        "gloss": "phone"
+      }
+    ],
+    "fullTextEN": "He is holding a phone."
+  },
+  {
+    "startTime": 200.733,
+    "endTime": 210.499,
+    "fullTextZH": "好，我们看看Bamboo在看什么。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 200.733,
+        "endTime": 201.153,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 202.074,
+        "endTime": 203.154,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 203.154,
+        "endTime": 204.295,
+        "gloss": "look"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 205.176,
+        "endTime": 208.138,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 208.138,
+        "endTime": 208.898,
+        "gloss": "watch"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 208.898,
+        "endTime": 210.459,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Okay, let's see what Bamboo is watching."
+  },
+  {
+    "startTime": 210.6,
+    "endTime": 212.166,
+    "fullTextZH": "我们看看。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 210.7,
+        "endTime": 211.443,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 211.443,
+        "endTime": 212.126,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Let's take a look."
+  },
+  {
+    "startTime": 226.666,
+    "endTime": 228.766,
+    "fullTextZH": "哦，你看，",
+    "words": [
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 226.727,
+        "endTime": 227.029,
+        "gloss": "oh"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 227.716,
+        "endTime": 228.1,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 228.1,
+        "endTime": 228.726,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Oh, look,"
+  },
+  {
+    "startTime": 228.766,
+    "endTime": 230.966,
+    "fullTextZH": "Bamboo在笑。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 229.634,
+        "endTime": 230.26,
+        "gloss": "is"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 230.26,
+        "endTime": 230.926,
+        "gloss": "smiling"
+      }
+    ],
+    "fullTextEN": "Bamboo is smiling."
+  },
+  {
+    "startTime": 230.966,
+    "endTime": 236.066,
+    "fullTextZH": "对不对？Bamboo哈哈哈哈哈哈哈哈哈。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 231.026,
+        "endTime": 231.187,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 231.187,
+        "endTime": 231.307,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 231.307,
+        "endTime": 232.171,
+        "gloss": "right"
+      },
+      {
+        "word": "哈哈哈",
+        "pinyin": "hā hā hā",
+        "startTime": 233.195,
+        "endTime": 234.018,
+        "gloss": "ha"
+      },
+      {
+        "word": "哈哈哈",
+        "pinyin": "hā hā hā",
+        "startTime": 234.018,
+        "endTime": 235.122,
+        "gloss": "ha"
+      },
+      {
+        "word": "哈哈哈",
+        "pinyin": "hā hā hā",
+        "startTime": 235.122,
+        "endTime": 236.026,
+        "gloss": "ha"
+      }
+    ],
+    "fullTextEN": "Isn't that right? Bamboo hahaha."
+  },
+  {
+    "startTime": 236.366,
+    "endTime": 241.933,
+    "fullTextZH": "所以你觉得Bamboo在看什么？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 236.486,
+        "endTime": 237.387,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 237.387,
+        "endTime": 237.748,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 237.748,
+        "endTime": 238.889,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 239.77,
+        "endTime": 240.271,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 240.271,
+        "endTime": 241.032,
+        "gloss": "watch"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 241.032,
+        "endTime": 241.893,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "So what do you think Bamboo is watching?"
+  },
+  {
+    "startTime": 242.866,
+    "endTime": 245.133,
+    "fullTextZH": "可能是TikTok，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 242.866,
+        "endTime": 243.889,
+        "gloss": "maybe"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 243.889,
+        "endTime": 244.371,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Maybe it's TikTok,"
+  },
+  {
+    "startTime": 245.566,
+    "endTime": 247.866,
+    "fullTextZH": "对不对？对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 245.627,
+        "endTime": 245.768,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 245.768,
+        "endTime": 245.889,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 245.889,
+        "endTime": 247.039,
+        "gloss": "right"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 247.261,
+        "endTime": 247.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Isn't that right? Yes."
+  },
+  {
+    "startTime": 248.1,
+    "endTime": 251.666,
+    "fullTextZH": "可能Bamboo在看TikTok，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 248.22,
+        "endTime": 249.102,
+        "gloss": "maybe"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 249.823,
+        "endTime": 250.224,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 250.224,
+        "endTime": 250.865,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "Maybe Bamboo is watching TikTok,"
+  },
+  {
+    "startTime": 252.133,
+    "endTime": 255.133,
+    "fullTextZH": "所以他很开心。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 252.254,
+        "endTime": 252.717,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 252.717,
+        "endTime": 253.422,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 253.422,
+        "endTime": 253.985,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 253.985,
+        "endTime": 255.093,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "So he is very happy."
+  },
+  {
+    "startTime": 255.2,
+    "endTime": 260.366,
+    "fullTextZH": "他笑哈哈哈哈哈哈，可是",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 255.26,
+        "endTime": 255.661,
+        "gloss": "he"
+      },
+      {
+        "word": "笑哈哈",
+        "pinyin": "xiào hā hā",
+        "startTime": 255.661,
+        "endTime": 256.502,
+        "gloss": "laughs"
+      },
+      {
+        "word": "哈哈哈哈",
+        "pinyin": "hā hā hā hā",
+        "startTime": 256.502,
+        "endTime": 257.783,
+        "gloss": "hahaha"
+      },
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 258.964,
+        "endTime": 259.305,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "He laughs hahaha, but"
+  },
+  {
+    "startTime": 263.7,
+    "endTime": 265.9,
+    "fullTextZH": "Brag开心吗？",
+    "words": [
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 264.669,
+        "endTime": 265.436,
+        "gloss": "happy"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 265.436,
+        "endTime": 265.86,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is Brag happy?"
+  },
+  {
+    "startTime": 265.9,
+    "endTime": 269.733,
+    "fullTextZH": "嗯，Brag不开心，Brag",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 265.98,
+        "endTime": 266.863,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 267.706,
+        "endTime": 268.208,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 268.208,
+        "endTime": 268.83,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Hmm, Brag is not happy, Brag"
+  },
+  {
+    "startTime": 269.733,
+    "endTime": 270.533,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 269.754,
+        "endTime": 270.492,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 270.8,
+    "endTime": 278.333,
+    "fullTextZH": "可能她觉得Bamboo很吵，对，很吵。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 270.92,
+        "endTime": 272.082,
+        "gloss": "maybe"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 272.082,
+        "endTime": 272.803,
+        "gloss": "she"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 272.803,
+        "endTime": 273.805,
+        "gloss": "thinks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 274.627,
+        "endTime": 275.348,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 275.348,
+        "endTime": 276.35,
+        "gloss": "noisy"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 276.41,
+        "endTime": 276.43,
+        "gloss": "yes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 277.131,
+        "endTime": 277.652,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 277.652,
+        "endTime": 278.293,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Maybe she thinks Bamboo is very noisy, yes, very noisy."
+  },
+  {
+    "startTime": 281.4,
+    "endTime": 283.933,
+    "fullTextZH": "很吵。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 281.903,
+        "endTime": 282.204,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 282.204,
+        "endTime": 283.29,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Very noisy."
+  },
+  {
+    "startTime": 284.333,
+    "endTime": 286.866,
+    "fullTextZH": "Dundun开心吗？",
+    "words": [
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 285.62,
+        "endTime": 286.263,
+        "gloss": "happy"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 286.263,
+        "endTime": 286.826,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is Dundun happy?"
+  },
+  {
+    "startTime": 286.866,
+    "endTime": 288.299,
+    "fullTextZH": "嗯，不，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 286.886,
+        "endTime": 287.593,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 287.936,
+        "endTime": 288.259,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Hmm, no,"
+  },
+  {
+    "startTime": 288.533,
+    "endTime": 291.333,
+    "fullTextZH": "Dundun不开心，对。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 289.379,
+        "endTime": 289.641,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 289.641,
+        "endTime": 290.588,
+        "gloss": "happy"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 290.729,
+        "endTime": 291.313,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Dundun is not happy, yes."
+  },
+  {
+    "startTime": 291.466,
+    "endTime": 294.533,
+    "fullTextZH": "Dundun可能也觉得",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 292.288,
+        "endTime": 293.17,
+        "gloss": "maybe"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 293.17,
+        "endTime": 293.651,
+        "gloss": "also"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 293.651,
+        "endTime": 294.052,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Dundun might also think"
+  },
+  {
+    "startTime": 294.7,
+    "endTime": 296.766,
+    "fullTextZH": "Bamboo很吵。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 295.462,
+        "endTime": 296.064,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 296.064,
+        "endTime": 296.726,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Bamboo is very noisy."
+  },
+  {
+    "startTime": 300.766,
+    "endTime": 308.099,
+    "fullTextZH": "所以你觉得Dundun和Brag做什么？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 300.786,
+        "endTime": 301.748,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 301.748,
+        "endTime": 302.289,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 302.289,
+        "endTime": 303.491,
+        "gloss": "think"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 304.633,
+        "endTime": 305.074,
+        "gloss": "and"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 306.456,
+        "endTime": 307.157,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 307.157,
+        "endTime": 308.059,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "So what do you think Dundun and Brag are doing?"
+  },
+  {
+    "startTime": 309.3,
+    "endTime": 311.466,
+    "fullTextZH": "可能他们",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 309.32,
+        "endTime": 310.323,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 310.323,
+        "endTime": 310.644,
+        "gloss": "they"
+      }
+    ],
+    "fullTextEN": "Maybe they"
+  },
+  {
+    "startTime": 312.4,
+    "endTime": 313.4,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 312.482,
+        "endTime": 313.359,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 313.533,
+    "endTime": 316.533,
+    "fullTextZH": "可能他们哭。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 313.674,
+        "endTime": 314.801,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 314.801,
+        "endTime": 315.848,
+        "gloss": "they"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 315.848,
+        "endTime": 316.493,
+        "gloss": "cry"
+      }
+    ],
+    "fullTextEN": "Maybe they are crying."
+  },
+  {
+    "startTime": 317.1,
+    "endTime": 318.866,
+    "fullTextZH": "对不对？对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 317.22,
+        "endTime": 317.361,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 317.361,
+        "endTime": 317.461,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 317.461,
+        "endTime": 318.103,
+        "gloss": "right"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 318.264,
+        "endTime": 318.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right or not? Right,"
+  },
+  {
+    "startTime": 318.933,
+    "endTime": 321.199,
+    "fullTextZH": "可能他们哭，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 319.053,
+        "endTime": 319.976,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 319.976,
+        "endTime": 320.537,
+        "gloss": "they"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 320.537,
+        "endTime": 321.159,
+        "gloss": "cry"
+      }
+    ],
+    "fullTextEN": "Maybe they are crying,"
+  },
+  {
+    "startTime": 321.4,
+    "endTime": 323.6,
+    "fullTextZH": "因为Bamboo很吵。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 321.501,
+        "endTime": 321.824,
+        "gloss": "because"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 322.45,
+        "endTime": 322.954,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 322.954,
+        "endTime": 323.56,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Because Bamboo is very noisy."
+  },
+  {
+    "startTime": 325.066,
+    "endTime": 330.466,
+    "fullTextZH": "可能他们说：“Bamboo，你很吵！”",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 325.066,
+        "endTime": 325.989,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 325.989,
+        "endTime": 326.612,
+        "gloss": "they"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 326.612,
+        "endTime": 327.555,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 328.499,
+        "endTime": 329.141,
+        "gloss": "you"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 329.141,
+        "endTime": 329.763,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 329.763,
+        "endTime": 330.426,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Maybe they say: 'Bamboo, you are very noisy!'"
+  },
+  {
+    "startTime": 332.066,
+    "endTime": 338.766,
+    "fullTextZH": "我们看看Dundun和Brag做什么。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 332.066,
+        "endTime": 332.788,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 332.788,
+        "endTime": 333.37,
+        "gloss": "see"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 335.296,
+        "endTime": 336.299,
+        "gloss": "and"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 337.262,
+        "endTime": 337.903,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 337.903,
+        "endTime": 338.726,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Let's see what Dundun and Brag are doing."
+  },
+  {
+    "startTime": 342.2,
+    "endTime": 343.0,
+    "fullTextZH": "哦，",
+    "words": [
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 342.61,
+        "endTime": 342.959,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Oh,"
+  },
+  {
+    "startTime": 343.466,
+    "endTime": 348.966,
+    "fullTextZH": "Dundun把他的包，对，他的包，",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 344.831,
+        "endTime": 346.256,
+        "gloss": "take"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 346.256,
+        "endTime": 346.497,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 346.497,
+        "endTime": 346.778,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 346.778,
+        "endTime": 347.461,
+        "gloss": "bag"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 347.681,
+        "endTime": 347.701,
+        "gloss": "right"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 347.762,
+        "endTime": 347.902,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 347.902,
+        "endTime": 348.163,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 348.163,
+        "endTime": 348.926,
+        "gloss": "bag"
+      }
+    ],
+    "fullTextEN": "Dundun takes his bag, right, his bag,"
+  },
+  {
+    "startTime": 350.2,
+    "endTime": 358.3,
+    "fullTextZH": "Dundun把他的包，对，他的包，放在Bamboo头上。",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 351.062,
+        "endTime": 351.864,
+        "gloss": "take"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 351.864,
+        "endTime": 352.065,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.065,
+        "endTime": 352.285,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 352.285,
+        "endTime": 352.766,
+        "gloss": "bag"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 352.927,
+        "endTime": 353.047,
+        "gloss": "right"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 353.167,
+        "endTime": 353.348,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.348,
+        "endTime": 353.568,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 353.568,
+        "endTime": 353.829,
+        "gloss": "bag"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 354.45,
+        "endTime": 355.834,
+        "gloss": "put"
+      },
+      {
+        "word": "头上",
+        "pinyin": "tóu shàng",
+        "startTime": 356.937,
+        "endTime": 358.26,
+        "gloss": "on head"
+      }
+    ],
+    "fullTextEN": "Dundun takes his bag, right, his bag, and puts it on Bamboo's head."
+  },
+  {
+    "startTime": 358.733,
+    "endTime": 362.533,
+    "fullTextZH": "对，这是Dundun的包，嗯。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 358.733,
+        "endTime": 358.854,
+        "gloss": "right"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 359.537,
+        "endTime": 360.1,
+        "gloss": "this is"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 360.904,
+        "endTime": 361.226,
+        "gloss": "of"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 361.226,
+        "endTime": 361.568,
+        "gloss": "bag"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 361.99,
+        "endTime": 362.493,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Right, this is Dundun's bag, hmm."
+  },
+  {
+    "startTime": 362.733,
+    "endTime": 371.099,
+    "fullTextZH": "他把包放在Bamboo的头上，然后",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 362.793,
+        "endTime": 363.153,
+        "gloss": "he"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 363.153,
+        "endTime": 363.734,
+        "gloss": "put"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 363.734,
+        "endTime": 366.075,
+        "gloss": "bag"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 366.075,
+        "endTime": 366.956,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 368.117,
+        "endTime": 368.377,
+        "gloss": "of"
+      },
+      {
+        "word": "头上",
+        "pinyin": "tóu shàng",
+        "startTime": 368.377,
+        "endTime": 369.078,
+        "gloss": "head"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 369.898,
+        "endTime": 370.378,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "He puts the bag on Bamboo's head, then"
+  },
+  {
+    "startTime": 376.0,
+    "endTime": 380.5,
+    "fullTextZH": "对，然后他打Bamboo的头。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 376.0,
+        "endTime": 376.462,
+        "gloss": "right"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 376.522,
+        "endTime": 377.346,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 377.346,
+        "endTime": 377.929,
+        "gloss": "he"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 377.929,
+        "endTime": 378.772,
+        "gloss": "hit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 379.375,
+        "endTime": 379.636,
+        "gloss": "of"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 379.636,
+        "endTime": 380.46,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "Right, then he hits Bamboo's head."
+  },
+  {
+    "startTime": 383.866,
+    "endTime": 387.366,
+    "fullTextZH": "对，你看，他打Bamboo的头。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 383.866,
+        "endTime": 383.886,
+        "gloss": "right"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 384.349,
+        "endTime": 384.51,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 384.51,
+        "endTime": 384.731,
+        "gloss": "see"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 384.791,
+        "endTime": 385.133,
+        "gloss": "he"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 385.133,
+        "endTime": 385.877,
+        "gloss": "hit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 386.4,
+        "endTime": 386.622,
+        "gloss": "of"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 386.622,
+        "endTime": 387.326,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "Right, you see, he hits Bamboo's head."
+  },
+  {
+    "startTime": 390.7,
+    "endTime": 393.5,
+    "fullTextZH": "现在我觉得",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 390.7,
+        "endTime": 391.788,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 391.788,
+        "endTime": 392.553,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 392.553,
+        "endTime": 392.916,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Now I think"
+  },
+  {
+    "startTime": 394.3,
+    "endTime": 396.9,
+    "fullTextZH": "Brag很开心，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 395.187,
+        "endTime": 395.691,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 395.691,
+        "endTime": 396.86,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Brag is very happy,"
+  },
+  {
+    "startTime": 397.3,
+    "endTime": 399.933,
+    "fullTextZH": "Dundun很开心，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 398.285,
+        "endTime": 398.828,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 398.828,
+        "endTime": 399.893,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Dundun is very happy,"
+  },
+  {
+    "startTime": 400.133,
+    "endTime": 401.499,
+    "fullTextZH": "可是",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 400.274,
+        "endTime": 400.595,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "But"
+  },
+  {
+    "startTime": 402.366,
+    "endTime": 406.399,
+    "fullTextZH": "Bamboo开心不开心？嗯，",
+    "words": [
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 403.55,
+        "endTime": 404.553,
+        "gloss": "happy"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 404.553,
+        "endTime": 404.734,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 404.734,
+        "endTime": 405.596,
+        "gloss": "happy"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 405.757,
+        "endTime": 406.359,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Is Bamboo happy or not? Hmm,"
+  },
+  {
+    "startTime": 406.6,
+    "endTime": 411.133,
+    "fullTextZH": "可能Bamboo不开心。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 406.781,
+        "endTime": 407.563,
+        "gloss": "maybe"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 408.907,
+        "endTime": 410.05,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 410.05,
+        "endTime": 411.093,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Maybe Bamboo is not happy."
+  },
+  {
+    "startTime": 411.366,
+    "endTime": 413.133,
+    "fullTextZH": "Bamboo被打（got beaten），",
+    "words": [
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 412.129,
+        "endTime": 412.29,
+        "gloss": "got"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 412.29,
+        "endTime": 412.31,
+        "gloss": "beaten"
+      }
+    ],
+    "fullTextEN": "Bamboo got beaten,"
+  },
+  {
+    "startTime": 413.366,
+    "endTime": 415.966,
+    "fullTextZH": "所以Bamboo很难过。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 413.487,
+        "endTime": 413.85,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 414.757,
+        "endTime": 415.019,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 415.019,
+        "endTime": 415.926,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "So Bamboo is very sad."
+  },
+  {
+    "startTime": 416.766,
+    "endTime": 420.899,
+    "fullTextZH": "可能Bamboo在哭。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 416.866,
+        "endTime": 417.468,
+        "gloss": "maybe"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 418.792,
+        "endTime": 420.096,
+        "gloss": "is"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 420.096,
+        "endTime": 420.859,
+        "gloss": "crying"
+      }
+    ],
+    "fullTextEN": "Maybe Bamboo is crying."
+  },
+  {
+    "startTime": 420.9,
+    "endTime": 421.866,
+    "fullTextZH": "对不对？",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 420.981,
+        "endTime": 421.141,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 421.141,
+        "endTime": 421.262,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 421.262,
+        "endTime": 421.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right?"
+  },
+  {
+    "startTime": 422.7,
+    "endTime": 428.7,
+    "fullTextZH": "现在Bamboo可以看TikTok吗？",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 422.7,
+        "endTime": 423.543,
+        "gloss": "now"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 424.867,
+        "endTime": 425.509,
+        "gloss": "can"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 425.509,
+        "endTime": 426.794,
+        "gloss": "watch"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 427.998,
+        "endTime": 428.66,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Can Bamboo watch TikTok now?"
+  },
+  {
+    "startTime": 429.0,
+    "endTime": 433.466,
+    "fullTextZH": "不可以，现在Bamboo在哭。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 429.1,
+        "endTime": 429.461,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 429.461,
+        "endTime": 430.202,
+        "gloss": "can"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 430.422,
+        "endTime": 431.503,
+        "gloss": "now"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 432.224,
+        "endTime": 432.685,
+        "gloss": "is"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 432.685,
+        "endTime": 433.426,
+        "gloss": "crying"
+      }
+    ],
+    "fullTextEN": "No, Bamboo is crying now."
+  },
+  {
+    "startTime": 435.2,
+    "endTime": 436.066,
+    "fullTextZH": "对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 435.281,
+        "endTime": 436.046,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right."
+  },
+  {
+    "startTime": 437.2,
+    "endTime": 439.766,
+    "fullTextZH": "所以这个视频",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 437.22,
+        "endTime": 438.142,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 438.142,
+        "endTime": 438.663,
+        "gloss": "this"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 438.663,
+        "endTime": 439.044,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "So this video"
+  },
+  {
+    "startTime": 439.933,
+    "endTime": 440.966,
+    "fullTextZH": "是",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 440.034,
+        "endTime": 440.055,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "is"
+  },
+  {
+    "startTime": 447.466,
+    "endTime": 449.733,
+    "fullTextZH": "Bamboo很吵，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 448.309,
+        "endTime": 448.971,
+        "gloss": "very"
+      },
+      {
+        "word": "吵",
+        "pinyin": "chǎo",
+        "startTime": 448.971,
+        "endTime": 449.693,
+        "gloss": "noisy"
+      }
+    ],
+    "fullTextEN": "Bamboo is very noisy,"
+  },
+  {
+    "startTime": 450.266,
+    "endTime": 453.299,
+    "fullTextZH": "所以Brag很生气，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 450.366,
+        "endTime": 450.889,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 451.712,
+        "endTime": 452.174,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 452.174,
+        "endTime": 453.259,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So Brag is very angry,"
+  },
+  {
+    "startTime": 453.6,
+    "endTime": 455.8,
+    "fullTextZH": "Dundun很生气。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 454.367,
+        "endTime": 454.791,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 454.791,
+        "endTime": 455.76,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Dundun is very angry."
+  },
+  {
+    "startTime": 456.166,
+    "endTime": 462.166,
+    "fullTextZH": "所以Dundun把他的包，对，他的包，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 456.306,
+        "endTime": 457.069,
+        "gloss": "so"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 458.193,
+        "endTime": 459.236,
+        "gloss": "put"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 459.236,
+        "endTime": 459.497,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 459.497,
+        "endTime": 459.798,
+        "gloss": "possessive"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 459.798,
+        "endTime": 460.199,
+        "gloss": "bag"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 460.781,
+        "endTime": 461.082,
+        "gloss": "yes"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 461.102,
+        "endTime": 461.263,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 461.263,
+        "endTime": 461.484,
+        "gloss": "possessive"
+      },
+      {
+        "word": "包",
+        "pinyin": "bāo",
+        "startTime": 461.484,
+        "endTime": 462.126,
+        "gloss": "bag"
+      }
+    ],
+    "fullTextEN": "So Dundun put his bag, yes, his bag,"
+  },
+  {
+    "startTime": 463.166,
+    "endTime": 466.499,
+    "fullTextZH": "放在Bamboo头上，",
+    "words": [
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 463.266,
+        "endTime": 464.351,
+        "gloss": "put on"
+      },
+      {
+        "word": "头上",
+        "pinyin": "tóu shàng",
+        "startTime": 465.334,
+        "endTime": 466.459,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "on Bamboo's head,"
+  },
+  {
+    "startTime": 466.6,
+    "endTime": 472.166,
+    "fullTextZH": "然后Dundun打Bamboo的头。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 466.72,
+        "endTime": 467.821,
+        "gloss": "then"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 468.882,
+        "endTime": 470.304,
+        "gloss": "hit"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 470.965,
+        "endTime": 471.265,
+        "gloss": "possessive"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 471.265,
+        "endTime": 472.126,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "then Dundun hit Bamboo's head."
+  },
+  {
+    "startTime": 473.7,
+    "endTime": 476.933,
+    "fullTextZH": "我很喜欢Bamboo，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 473.72,
+        "endTime": 474.503,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 474.503,
+        "endTime": 475.126,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 475.126,
+        "endTime": 475.929,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I really like Bamboo,"
+  },
+  {
+    "startTime": 477.3,
+    "endTime": 479.3,
+    "fullTextZH": "很喜欢Brag，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 477.361,
+        "endTime": 477.906,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 477.906,
+        "endTime": 478.512,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "really like Brag,"
+  },
+  {
+    "startTime": 479.5,
+    "endTime": 482.8,
+    "fullTextZH": "很喜欢Dundun，你呢？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 479.56,
+        "endTime": 480.224,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 480.224,
+        "endTime": 480.727,
+        "gloss": "like"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 482.015,
+        "endTime": 482.216,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 482.216,
+        "endTime": 482.76,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "really like Dundun, how about you?"
+  },
+  {
+    "startTime": 485.133,
+    "endTime": 489.233,
+    "fullTextZH": "谢谢，我们下次见，拜拜。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 485.153,
+        "endTime": 485.997,
+        "gloss": "thank you"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 486.017,
+        "endTime": 486.942,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 486.942,
+        "endTime": 487.685,
+        "gloss": "next"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 487.685,
+        "endTime": 488.047,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 488.288,
+        "endTime": 489.193,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Thank you, see you next time, bye."
+  }
+]

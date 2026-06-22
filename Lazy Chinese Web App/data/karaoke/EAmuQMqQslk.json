@@ -1,0 +1,1546 @@
+[
+  {
+    "startTime": 0.533,
+    "endTime": 6.166,
+    "fullTextZH": "你好，今天我要说一个故事。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.553,
+        "endTime": 1.656,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 1.996,
+        "endTime": 2.979,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.979,
+        "endTime": 3.239,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 3.239,
+        "endTime": 4.602,
+        "gloss": "want to say"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 4.602,
+        "endTime": 5.304,
+        "gloss": "a"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 5.304,
+        "endTime": 6.126,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Hello, today I want to tell a story."
+  },
+  {
+    "startTime": 6.5,
+    "endTime": 9.7,
+    "fullTextZH": "叫“盲人摸象”。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 6.621,
+        "endTime": 6.661,
+        "gloss": "called"
+      },
+      {
+        "word": "盲人摸象",
+        "pinyin": "máng rén mō xiàng",
+        "startTime": 7.506,
+        "endTime": 9.66,
+        "gloss": "blind men touch elephant"
+      }
+    ],
+    "fullTextEN": "Called 'The Blind Men and the Elephant'."
+  },
+  {
+    "startTime": 11.1,
+    "endTime": 15.5,
+    "fullTextZH": "以前有几个盲人，",
+    "words": [
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 11.1,
+        "endTime": 12.547,
+        "gloss": "in the past"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 12.547,
+        "endTime": 13.169,
+        "gloss": "there are"
+      },
+      {
+        "word": "几个",
+        "pinyin": "jǐ gè",
+        "startTime": 13.169,
+        "endTime": 14.194,
+        "gloss": "a few"
+      },
+      {
+        "word": "盲人",
+        "pinyin": "máng rén",
+        "startTime": 14.194,
+        "endTime": 15.199,
+        "gloss": "blind men"
+      }
+    ],
+    "fullTextEN": "In the past, there were a few blind men,"
+  },
+  {
+    "startTime": 15.666,
+    "endTime": 19.699,
+    "fullTextZH": "他们看不见。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 15.746,
+        "endTime": 17.793,
+        "gloss": "they"
+      },
+      {
+        "word": "看不见",
+        "pinyin": "kàn bú jiàn",
+        "startTime": 17.793,
+        "endTime": 19.659,
+        "gloss": "cannot see"
+      }
+    ],
+    "fullTextEN": "They couldn't see."
+  },
+  {
+    "startTime": 20.1,
+    "endTime": 26.366,
+    "fullTextZH": "可是他们想知道大象是什么样子。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 20.22,
+        "endTime": 21.181,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 21.181,
+        "endTime": 21.842,
+        "gloss": "they"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 21.842,
+        "endTime": 22.462,
+        "gloss": "want"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 22.462,
+        "endTime": 23.623,
+        "gloss": "to know"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 23.623,
+        "endTime": 24.704,
+        "gloss": "elephant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 24.704,
+        "endTime": 25.165,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 25.165,
+        "endTime": 25.525,
+        "gloss": "what"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 25.525,
+        "endTime": 26.326,
+        "gloss": "appearance"
+      }
+    ],
+    "fullTextEN": "But they wanted to know what an elephant was like."
+  },
+  {
+    "startTime": 27.0,
+    "endTime": 30.7,
+    "fullTextZH": "所以他们决定摸大象。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 27.04,
+        "endTime": 27.503,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 27.503,
+        "endTime": 28.005,
+        "gloss": "they"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 28.005,
+        "endTime": 28.77,
+        "gloss": "decide"
+      },
+      {
+        "word": "摸",
+        "pinyin": "mō",
+        "startTime": 28.77,
+        "endTime": 29.916,
+        "gloss": "to touch"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 29.916,
+        "endTime": 30.66,
+        "gloss": "elephant"
+      }
+    ],
+    "fullTextEN": "So they decided to touch the elephant."
+  },
+  {
+    "startTime": 33.166,
+    "endTime": 34.766,
+    "fullTextZH": "第一个盲人，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 33.207,
+        "endTime": 33.895,
+        "gloss": "first"
+      },
+      {
+        "word": "盲人",
+        "pinyin": "máng rén",
+        "startTime": 33.895,
+        "endTime": 34.725,
+        "gloss": "blind man"
+      }
+    ],
+    "fullTextEN": "The first blind man,"
+  },
+  {
+    "startTime": 34.766,
+    "endTime": 38.666,
+    "fullTextZH": "他摸到大象的鼻子。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 34.846,
+        "endTime": 35.148,
+        "gloss": "he"
+      },
+      {
+        "word": "摸",
+        "pinyin": "mō",
+        "startTime": 35.148,
+        "endTime": 35.49,
+        "gloss": "touch"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 35.49,
+        "endTime": 35.932,
+        "gloss": "to"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 35.932,
+        "endTime": 36.817,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 36.817,
+        "endTime": 37.58,
+        "gloss": "of"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 37.58,
+        "endTime": 38.626,
+        "gloss": "trunk"
+      }
+    ],
+    "fullTextEN": "He touched the elephant's trunk."
+  },
+  {
+    "startTime": 38.666,
+    "endTime": 39.866,
+    "fullTextZH": "鼻子。",
+    "words": [
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 39.032,
+        "endTime": 39.825,
+        "gloss": "trunk"
+      }
+    ],
+    "fullTextEN": "Trunk."
+  },
+  {
+    "startTime": 40.533,
+    "endTime": 42.699,
+    "fullTextZH": "所以他说：“嗯，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 40.553,
+        "endTime": 40.994,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 40.994,
+        "endTime": 41.395,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 41.395,
+        "endTime": 41.897,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 42.258,
+        "endTime": 42.659,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "So he said: 'Hmm,"
+  },
+  {
+    "startTime": 42.8,
+    "endTime": 46.733,
+    "fullTextZH": "我知道大象是什么样子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 42.9,
+        "endTime": 43.282,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 43.282,
+        "endTime": 43.924,
+        "gloss": "know"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 43.924,
+        "endTime": 44.807,
+        "gloss": "elephant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 44.807,
+        "endTime": 45.308,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 45.308,
+        "endTime": 45.77,
+        "gloss": "what"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 45.77,
+        "endTime": 46.472,
+        "gloss": "appearance"
+      }
+    ],
+    "fullTextEN": "I know what an elephant is like."
+  },
+  {
+    "startTime": 46.966,
+    "endTime": 51.366,
+    "fullTextZH": "大象和蛇差不多。”",
+    "words": [
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 47.107,
+        "endTime": 48.252,
+        "gloss": "elephant"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 48.252,
+        "endTime": 49.176,
+        "gloss": "and"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 49.176,
+        "endTime": 50.402,
+        "gloss": "snake"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 50.402,
+        "endTime": 51.326,
+        "gloss": "quite like"
+      }
+    ],
+    "fullTextEN": "An elephant is quite like a snake.'"
+  },
+  {
+    "startTime": 52.9,
+    "endTime": 56.3,
+    "fullTextZH": "可是第二个盲人，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 52.92,
+        "endTime": 53.825,
+        "gloss": "but"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 53.825,
+        "endTime": 55.234,
+        "gloss": "second"
+      },
+      {
+        "word": "盲人",
+        "pinyin": "máng rén",
+        "startTime": 55.234,
+        "endTime": 56.28,
+        "gloss": "blind man"
+      }
+    ],
+    "fullTextEN": "But the second blind man,"
+  },
+  {
+    "startTime": 56.4,
+    "endTime": 60.2,
+    "fullTextZH": "他摸到大象的耳朵。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 56.46,
+        "endTime": 56.923,
+        "gloss": "he"
+      },
+      {
+        "word": "摸",
+        "pinyin": "mō",
+        "startTime": 56.923,
+        "endTime": 57.305,
+        "gloss": "touch"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 57.305,
+        "endTime": 57.848,
+        "gloss": "to"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 57.848,
+        "endTime": 58.692,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.692,
+        "endTime": 59.295,
+        "gloss": "of"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 59.295,
+        "endTime": 60.16,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "He touched the elephant's ear."
+  },
+  {
+    "startTime": 60.566,
+    "endTime": 62.866,
+    "fullTextZH": "他说：“不对不对，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 60.667,
+        "endTime": 61.07,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 61.07,
+        "endTime": 61.272,
+        "gloss": "said"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 61.918,
+        "endTime": 62.039,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 62.039,
+        "endTime": 62.261,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 62.261,
+        "endTime": 62.382,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 62.382,
+        "endTime": 62.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He said: 'No, no,"
+  },
+  {
+    "startTime": 63.4,
+    "endTime": 69.3,
+    "fullTextZH": "我觉得大象和扇子差不多。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 63.54,
+        "endTime": 63.821,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 63.821,
+        "endTime": 64.604,
+        "gloss": "think"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 64.604,
+        "endTime": 65.648,
+        "gloss": "elephant"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 65.648,
+        "endTime": 66.651,
+        "gloss": "and"
+      },
+      {
+        "word": "扇子",
+        "pinyin": "shàn zi",
+        "startTime": 66.651,
+        "endTime": 68.036,
+        "gloss": "fan"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 68.036,
+        "endTime": 69.26,
+        "gloss": "quite like"
+      }
+    ],
+    "fullTextEN": "I think an elephant is quite like a fan.'"
+  },
+  {
+    "startTime": 70.733,
+    "endTime": 71.533,
+    "fullTextZH": "可是，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 70.754,
+        "endTime": 71.512,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "But,"
+  },
+  {
+    "startTime": 72.333,
+    "endTime": 74.999,
+    "fullTextZH": "第三个盲人，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 72.473,
+        "endTime": 73.897,
+        "gloss": "third"
+      },
+      {
+        "word": "盲人",
+        "pinyin": "máng rén",
+        "startTime": 73.897,
+        "endTime": 74.959,
+        "gloss": "blind man"
+      }
+    ],
+    "fullTextEN": "The third blind man,"
+  },
+  {
+    "startTime": 75.066,
+    "endTime": 80.066,
+    "fullTextZH": "他摸到大象的腿。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 75.106,
+        "endTime": 75.427,
+        "gloss": "he"
+      },
+      {
+        "word": "摸",
+        "pinyin": "mō",
+        "startTime": 75.427,
+        "endTime": 75.749,
+        "gloss": "touch"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 75.749,
+        "endTime": 76.15,
+        "gloss": "to"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 76.15,
+        "endTime": 76.974,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 76.974,
+        "endTime": 79.122,
+        "gloss": "of"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 79.122,
+        "endTime": 80.026,
+        "gloss": "leg"
+      }
+    ],
+    "fullTextEN": "He touched the elephant's leg."
+  },
+  {
+    "startTime": 80.366,
+    "endTime": 83.266,
+    "fullTextZH": "他说：“嗯，不对不对，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 80.447,
+        "endTime": 80.708,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 80.708,
+        "endTime": 80.95,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 81.836,
+        "endTime": 81.917,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 82.158,
+        "endTime": 82.319,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 82.319,
+        "endTime": 82.581,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 82.581,
+        "endTime": 82.742,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 82.742,
+        "endTime": 83.226,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He said: 'Hmm, no, no,"
+  },
+  {
+    "startTime": 83.266,
+    "endTime": 85.666,
+    "fullTextZH": "你们都不对。",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 83.327,
+        "endTime": 84.335,
+        "gloss": "you (plural)"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 84.335,
+        "endTime": 84.94,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 84.94,
+        "endTime": 85.182,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 85.182,
+        "endTime": 85.626,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "You are all wrong."
+  },
+  {
+    "startTime": 86.166,
+    "endTime": 90.666,
+    "fullTextZH": "大象和柱子差不多。”",
+    "words": [
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 86.166,
+        "endTime": 87.03,
+        "gloss": "elephant"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 87.03,
+        "endTime": 87.954,
+        "gloss": "and"
+      },
+      {
+        "word": "柱子",
+        "pinyin": "zhù zi",
+        "startTime": 87.954,
+        "endTime": 89.441,
+        "gloss": "pillar"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 89.441,
+        "endTime": 90.626,
+        "gloss": "similar"
+      }
+    ],
+    "fullTextEN": "The elephant is similar to a pillar."
+  },
+  {
+    "startTime": 91.8,
+    "endTime": 95.1,
+    "fullTextZH": "可是第四个盲人，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 91.981,
+        "endTime": 92.907,
+        "gloss": "but"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 92.907,
+        "endTime": 93.993,
+        "gloss": "fourth"
+      },
+      {
+        "word": "盲人",
+        "pinyin": "máng rén",
+        "startTime": 93.993,
+        "endTime": 94.798,
+        "gloss": "blind man"
+      }
+    ],
+    "fullTextEN": "But the fourth blind man,"
+  },
+  {
+    "startTime": 95.133,
+    "endTime": 98.766,
+    "fullTextZH": "他摸到大象的尾巴。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 95.193,
+        "endTime": 95.494,
+        "gloss": "he"
+      },
+      {
+        "word": "摸",
+        "pinyin": "mō",
+        "startTime": 95.494,
+        "endTime": 95.896,
+        "gloss": "touched"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 95.896,
+        "endTime": 96.297,
+        "gloss": "to"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 96.297,
+        "endTime": 97.08,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 97.08,
+        "endTime": 97.742,
+        "gloss": "’s"
+      },
+      {
+        "word": "尾巴",
+        "pinyin": "wěi ba",
+        "startTime": 97.742,
+        "endTime": 98.726,
+        "gloss": "tail"
+      }
+    ],
+    "fullTextEN": "He touched the elephant's tail."
+  },
+  {
+    "startTime": 99.166,
+    "endTime": 101.899,
+    "fullTextZH": "他说：“嗯，不对不对，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 99.246,
+        "endTime": 99.508,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 99.508,
+        "endTime": 99.668,
+        "gloss": "said"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 100.07,
+        "endTime": 100.573,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 100.874,
+        "endTime": 101.015,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 101.015,
+        "endTime": 101.256,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 101.256,
+        "endTime": 101.417,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 101.417,
+        "endTime": 101.859,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "He said, \"Hmm, not right, not right,"
+  },
+  {
+    "startTime": 101.9,
+    "endTime": 104.133,
+    "fullTextZH": "你们都不对。",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 101.96,
+        "endTime": 102.564,
+        "gloss": "you (plural)"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 102.564,
+        "endTime": 103.409,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 103.409,
+        "endTime": 103.59,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 103.59,
+        "endTime": 104.093,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "You are all wrong."
+  },
+  {
+    "startTime": 105.0,
+    "endTime": 108.366,
+    "fullTextZH": "大象和萝卜差不多。”",
+    "words": [
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 105.0,
+        "endTime": 105.701,
+        "gloss": "elephant"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 105.701,
+        "endTime": 106.463,
+        "gloss": "and"
+      },
+      {
+        "word": "萝卜",
+        "pinyin": "luó bo",
+        "startTime": 106.463,
+        "endTime": 107.364,
+        "gloss": "carrot"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 107.364,
+        "endTime": 108.326,
+        "gloss": "similar"
+      }
+    ],
+    "fullTextEN": "The elephant is similar to a carrot."
+  },
+  {
+    "startTime": 109.366,
+    "endTime": 111.699,
+    "fullTextZH": "很大很大的萝卜。",
+    "words": [
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 109.467,
+        "endTime": 110.231,
+        "gloss": "very big"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 110.231,
+        "endTime": 110.734,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 110.734,
+        "endTime": 110.874,
+        "gloss": "’s"
+      },
+      {
+        "word": "萝卜",
+        "pinyin": "luó bo",
+        "startTime": 110.874,
+        "endTime": 111.397,
+        "gloss": "carrot"
+      }
+    ],
+    "fullTextEN": "A very large carrot."
+  },
+  {
+    "startTime": 112.9,
+    "endTime": 115.966,
+    "fullTextZH": "因为他们都看不到，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 112.9,
+        "endTime": 113.601,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 113.601,
+        "endTime": 114.203,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 114.203,
+        "endTime": 114.744,
+        "gloss": "all"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 114.744,
+        "endTime": 115.665,
+        "gloss": "cannot see"
+      }
+    ],
+    "fullTextEN": "Because they all cannot see,"
+  },
+  {
+    "startTime": 116.166,
+    "endTime": 119.899,
+    "fullTextZH": "所以他们不知道大象的样子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 116.286,
+        "endTime": 116.748,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 116.748,
+        "endTime": 117.31,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 117.31,
+        "endTime": 117.571,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 117.571,
+        "endTime": 118.253,
+        "gloss": "know"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 118.253,
+        "endTime": 118.855,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 118.855,
+        "endTime": 118.996,
+        "gloss": "’s"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 118.996,
+        "endTime": 119.859,
+        "gloss": "appearance"
+      }
+    ],
+    "fullTextEN": "So they don't know what the elephant looks like."
+  },
+  {
+    "startTime": 120.6,
+    "endTime": 124.6,
+    "fullTextZH": "他们只知道大象的一部分。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 120.6,
+        "endTime": 121.243,
+        "gloss": "they"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 121.243,
+        "endTime": 121.565,
+        "gloss": "only"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 121.565,
+        "endTime": 122.188,
+        "gloss": "know"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 122.188,
+        "endTime": 122.871,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 122.871,
+        "endTime": 123.314,
+        "gloss": "’s"
+      },
+      {
+        "word": "一部分",
+        "pinyin": "yī bù fèn",
+        "startTime": 123.314,
+        "endTime": 124.58,
+        "gloss": "a part"
+      }
+    ],
+    "fullTextEN": "They only know a part of the elephant."
+  },
+  {
+    "startTime": 124.766,
+    "endTime": 127.733,
+    "fullTextZH": "可是他们看不到，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 124.866,
+        "endTime": 125.788,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 125.788,
+        "endTime": 126.41,
+        "gloss": "they"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 126.41,
+        "endTime": 127.693,
+        "gloss": "cannot see"
+      }
+    ],
+    "fullTextEN": "But they cannot see,"
+  },
+  {
+    "startTime": 127.9,
+    "endTime": 134.166,
+    "fullTextZH": "所以他们以为他们知道大象的全部。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 127.94,
+        "endTime": 128.34,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 128.34,
+        "endTime": 129.021,
+        "gloss": "they"
+      },
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 129.021,
+        "endTime": 130.102,
+        "gloss": "think"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 130.102,
+        "endTime": 130.523,
+        "gloss": "they"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 130.523,
+        "endTime": 131.143,
+        "gloss": "know"
+      },
+      {
+        "word": "大象",
+        "pinyin": "dà xiàng",
+        "startTime": 131.143,
+        "endTime": 131.984,
+        "gloss": "elephant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 131.984,
+        "endTime": 132.685,
+        "gloss": "’s"
+      },
+      {
+        "word": "全部",
+        "pinyin": "quán bù",
+        "startTime": 132.685,
+        "endTime": 134.126,
+        "gloss": "whole"
+      }
+    ],
+    "fullTextEN": "So they think they know the whole elephant."
+  },
+  {
+    "startTime": 135.3,
+    "endTime": 139.2,
+    "fullTextZH": "所以“盲人摸象”就是说，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 135.3,
+        "endTime": 135.581,
+        "gloss": "so"
+      },
+      {
+        "word": "盲人摸象",
+        "pinyin": "máng rén mō xiàng",
+        "startTime": 135.984,
+        "endTime": 137.753,
+        "gloss": "blind men and elephant"
+      },
+      {
+        "word": "就是说",
+        "pinyin": "jiù shì shuō",
+        "startTime": 138.054,
+        "endTime": 139.18,
+        "gloss": "means"
+      }
+    ],
+    "fullTextEN": "So 'Blind Men and the Elephant' means,"
+  },
+  {
+    "startTime": 139.466,
+    "endTime": 142.066,
+    "fullTextZH": "如果你看一个问题，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 139.567,
+        "endTime": 139.95,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 139.95,
+        "endTime": 140.232,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 140.232,
+        "endTime": 140.655,
+        "gloss": "look"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 140.655,
+        "endTime": 141.078,
+        "gloss": "a"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 141.078,
+        "endTime": 142.026,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "If you look at a problem,"
+  },
+  {
+    "startTime": 142.1,
+    "endTime": 144.933,
+    "fullTextZH": "你要很全面地看。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 142.14,
+        "endTime": 142.301,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 142.301,
+        "endTime": 142.542,
+        "gloss": "need"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 142.542,
+        "endTime": 143.064,
+        "gloss": "very"
+      },
+      {
+        "word": "全面",
+        "pinyin": "quán miàn",
+        "startTime": 143.064,
+        "endTime": 144.029,
+        "gloss": "comprehensive"
+      },
+      {
+        "word": "地看",
+        "pinyin": "dì kàn",
+        "startTime": 144.029,
+        "endTime": 144.893,
+        "gloss": "to look"
+      }
+    ],
+    "fullTextEN": "You need to look comprehensively."
+  },
+  {
+    "startTime": 145.066,
+    "endTime": 148.099,
+    "fullTextZH": "你不可以看得很片面。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 145.146,
+        "endTime": 145.367,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 145.367,
+        "endTime": 145.568,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 145.568,
+        "endTime": 146.171,
+        "gloss": "can"
+      },
+      {
+        "word": "看得",
+        "pinyin": "kàn dé",
+        "startTime": 146.171,
+        "endTime": 146.753,
+        "gloss": "look"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 146.753,
+        "endTime": 147.215,
+        "gloss": "very"
+      },
+      {
+        "word": "片面",
+        "pinyin": "piàn miàn",
+        "startTime": 147.215,
+        "endTime": 148.059,
+        "gloss": "superficially"
+      }
+    ],
+    "fullTextEN": "You cannot look at it superficially."
+  },
+  {
+    "startTime": 149.8,
+    "endTime": 151.533,
+    "fullTextZH": "你明白了吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 149.84,
+        "endTime": 150.344,
+        "gloss": "you"
+      },
+      {
+        "word": "明白",
+        "pinyin": "míng bái",
+        "startTime": 150.344,
+        "endTime": 150.808,
+        "gloss": "understand"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 150.808,
+        "endTime": 150.928,
+        "gloss": "completed"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 150.928,
+        "endTime": 151.493,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you understand?"
+  },
+  {
+    "startTime": 152.5,
+    "endTime": 154.266,
+    "fullTextZH": "谢谢，再见。",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 152.6,
+        "endTime": 153.222,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 153.343,
+        "endTime": 154.226,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye."
+  }
+]

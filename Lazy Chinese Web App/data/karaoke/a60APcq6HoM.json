@@ -1,0 +1,5580 @@
+[
+  {
+    "startTime": 6.633,
+    "endTime": 7.5,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 6.835,
+        "endTime": 7.48,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 8.166,
+    "endTime": 14.633,
+    "fullTextZH": "今天我们看一个电影的片段。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 8.166,
+        "endTime": 8.647,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 8.647,
+        "endTime": 9.067,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 9.067,
+        "endTime": 9.167,
+        "gloss": "watch"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 9.167,
+        "endTime": 9.307,
+        "gloss": "a"
+      },
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 9.307,
+        "endTime": 9.347,
+        "gloss": "movie"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 9.347,
+        "endTime": 9.487,
+        "gloss": "of"
+      },
+      {
+        "word": "片段",
+        "pinyin": "piàn duàn",
+        "startTime": 9.487,
+        "endTime": 10.609,
+        "gloss": "clip"
+      }
+    ],
+    "fullTextEN": "Today we are watching a movie clip."
+  },
+  {
+    "startTime": 15.633,
+    "endTime": 22.2,
+    "fullTextZH": "这个片段说的是两个人离婚，对吗？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 15.793,
+        "endTime": 16.234,
+        "gloss": "this"
+      },
+      {
+        "word": "片段",
+        "pinyin": "piàn duàn",
+        "startTime": 16.234,
+        "endTime": 17.295,
+        "gloss": "clip"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 17.295,
+        "endTime": 17.595,
+        "gloss": "say"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 17.595,
+        "endTime": 18.076,
+        "gloss": "of"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 18.076,
+        "endTime": 18.696,
+        "gloss": "is"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 18.696,
+        "endTime": 19.277,
+        "gloss": "two"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 19.277,
+        "endTime": 19.737,
+        "gloss": "people"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 19.737,
+        "endTime": 21.339,
+        "gloss": "divorce"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 21.519,
+        "endTime": 21.639,
+        "gloss": "right"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 21.639,
+        "endTime": 22.16,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "This clip is about two people getting divorced, right?"
+  },
+  {
+    "startTime": 22.4,
+    "endTime": 24.533,
+    "fullTextZH": "不是结婚。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 22.44,
+        "endTime": 23.225,
+        "gloss": "not"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 23.225,
+        "endTime": 24.493,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "Not getting married."
+  },
+  {
+    "startTime": 24.666,
+    "endTime": 27.433,
+    "fullTextZH": "是两个人离婚。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 25.769,
+        "endTime": 26.23,
+        "gloss": "is"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 26.23,
+        "endTime": 26.41,
+        "gloss": "two"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 26.41,
+        "endTime": 26.591,
+        "gloss": "people"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 26.591,
+        "endTime": 27.413,
+        "gloss": "divorce"
+      }
+    ],
+    "fullTextEN": "It's two people getting divorced."
+  },
+  {
+    "startTime": 27.9,
+    "endTime": 31.766,
+    "fullTextZH": "然后他们有一个婚礼。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 27.9,
+        "endTime": 27.94,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 27.94,
+        "endTime": 27.98,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 27.98,
+        "endTime": 28.22,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 28.22,
+        "endTime": 28.381,
+        "gloss": "a"
+      },
+      {
+        "word": "婚礼",
+        "pinyin": "hūn lǐ",
+        "startTime": 28.381,
+        "endTime": 30.604,
+        "gloss": "wedding"
+      }
+    ],
+    "fullTextEN": "Then they have a wedding."
+  },
+  {
+    "startTime": 32.366,
+    "endTime": 36.133,
+    "fullTextZH": "是离婚的婚礼。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.366,
+        "endTime": 32.466,
+        "gloss": "is"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 32.466,
+        "endTime": 32.647,
+        "gloss": "divorce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.647,
+        "endTime": 32.727,
+        "gloss": "of"
+      },
+      {
+        "word": "婚礼",
+        "pinyin": "hūn lǐ",
+        "startTime": 32.727,
+        "endTime": 33.708,
+        "gloss": "wedding"
+      }
+    ],
+    "fullTextEN": "It's a divorce wedding."
+  },
+  {
+    "startTime": 37.233,
+    "endTime": 42.666,
+    "fullTextZH": "那离婚的时候，两个人做什么？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 37.654,
+        "endTime": 37.854,
+        "gloss": "so"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 37.854,
+        "endTime": 38.336,
+        "gloss": "divorce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 38.336,
+        "endTime": 38.356,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 38.356,
+        "endTime": 40.701,
+        "gloss": "time"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 40.802,
+        "endTime": 41.283,
+        "gloss": "two"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 41.283,
+        "endTime": 41.543,
+        "gloss": "people"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 41.543,
+        "endTime": 41.884,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 41.884,
+        "endTime": 42.626,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "So when they divorce, what do the two people do?"
+  },
+  {
+    "startTime": 43.533,
+    "endTime": 45.366,
+    "fullTextZH": "我们看看。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 43.533,
+        "endTime": 45.185,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 45.185,
+        "endTime": 45.326,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Let's take a look."
+  },
+  {
+    "startTime": 46.833,
+    "endTime": 50.633,
+    "fullTextZH": "好，我们可以看到有三个人。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 46.833,
+        "endTime": 46.873,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 47.195,
+        "endTime": 47.235,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 47.235,
+        "endTime": 47.798,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 47.798,
+        "endTime": 48.884,
+        "gloss": "see"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 48.884,
+        "endTime": 48.984,
+        "gloss": "there are"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 48.984,
+        "endTime": 49.346,
+        "gloss": "three"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 49.346,
+        "endTime": 49.708,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "Okay, we can see there are three people."
+  },
+  {
+    "startTime": 51.8,
+    "endTime": 53.133,
+    "fullTextZH": "一个男的，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 52.628,
+        "endTime": 52.85,
+        "gloss": "a"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 52.85,
+        "endTime": 53.012,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 53.012,
+        "endTime": 53.113,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "A man,"
+  },
+  {
+    "startTime": 53.133,
+    "endTime": 55.0,
+    "fullTextZH": "他是丈夫。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 53.775,
+        "endTime": 54.056,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 54.056,
+        "endTime": 54.137,
+        "gloss": "is"
+      },
+      {
+        "word": "丈夫",
+        "pinyin": "zhàng fū",
+        "startTime": 54.137,
+        "endTime": 54.96,
+        "gloss": "husband"
+      }
+    ],
+    "fullTextEN": "He is the husband."
+  },
+  {
+    "startTime": 55.6,
+    "endTime": 56.766,
+    "fullTextZH": "一个女的，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 55.6,
+        "endTime": 55.841,
+        "gloss": "a"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 55.841,
+        "endTime": 56.082,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 56.082,
+        "endTime": 56.726,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "A woman,"
+  },
+  {
+    "startTime": 56.766,
+    "endTime": 58.5,
+    "fullTextZH": "她是妻子。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 57.149,
+        "endTime": 57.431,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 57.431,
+        "endTime": 57.653,
+        "gloss": "is"
+      },
+      {
+        "word": "妻子",
+        "pinyin": "qī zǐ",
+        "startTime": 57.653,
+        "endTime": 58.46,
+        "gloss": "wife"
+      }
+    ],
+    "fullTextEN": "She is the wife."
+  },
+  {
+    "startTime": 59.2,
+    "endTime": 61.433,
+    "fullTextZH": "今天他们",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 59.2,
+        "endTime": 61.212,
+        "gloss": "today"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 61.212,
+        "endTime": 61.252,
+        "gloss": "they"
+      }
+    ],
+    "fullTextEN": "Today they"
+  },
+  {
+    "startTime": 61.9,
+    "endTime": 63.1,
+    "fullTextZH": "离婚。",
+    "words": [
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 62.042,
+        "endTime": 62.49,
+        "gloss": "divorce"
+      }
+    ],
+    "fullTextEN": "divorce."
+  },
+  {
+    "startTime": 63.733,
+    "endTime": 70.6,
+    "fullTextZH": "所以现在，她是前妻。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 63.733,
+        "endTime": 63.813,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 63.813,
+        "endTime": 63.853,
+        "gloss": "now"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 63.933,
+        "endTime": 64.274,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 64.274,
+        "endTime": 65.054,
+        "gloss": "is"
+      },
+      {
+        "word": "前妻",
+        "pinyin": "qián qī",
+        "startTime": 65.054,
+        "endTime": 67.517,
+        "gloss": "ex-wife"
+      }
+    ],
+    "fullTextEN": "So now, she is the ex-wife."
+  },
+  {
+    "startTime": 70.7,
+    "endTime": 72.933,
+    "fullTextZH": "他是前夫。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 70.7,
+        "endTime": 70.881,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 70.881,
+        "endTime": 70.901,
+        "gloss": "is"
+      },
+      {
+        "word": "前夫",
+        "pinyin": "qián fū",
+        "startTime": 70.901,
+        "endTime": 72.893,
+        "gloss": "ex-husband"
+      }
+    ],
+    "fullTextEN": "He is the ex-husband."
+  },
+  {
+    "startTime": 74.1,
+    "endTime": 75.533,
+    "fullTextZH": "还有一个人，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 74.383,
+        "endTime": 74.443,
+        "gloss": "and"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 74.443,
+        "endTime": 75.25,
+        "gloss": "another"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 75.25,
+        "endTime": 75.493,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "And another person,"
+  },
+  {
+    "startTime": 75.666,
+    "endTime": 78.333,
+    "fullTextZH": "他是司仪。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 76.187,
+        "endTime": 76.629,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 76.629,
+        "endTime": 77.17,
+        "gloss": "is"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 77.17,
+        "endTime": 77.751,
+        "gloss": "master of ceremonies"
+      }
+    ],
+    "fullTextEN": "He is the master of ceremonies."
+  },
+  {
+    "startTime": 81.166,
+    "endTime": 84.966,
+    "fullTextZH": "对，今天他们要离婚。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 81.186,
+        "endTime": 81.588,
+        "gloss": "yes"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 81.97,
+        "endTime": 82.754,
+        "gloss": "today"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 82.754,
+        "endTime": 83.92,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 83.92,
+        "endTime": 83.981,
+        "gloss": "will"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 83.981,
+        "endTime": 84.946,
+        "gloss": "divorce"
+      }
+    ],
+    "fullTextEN": "Yes, today they are getting divorced."
+  },
+  {
+    "startTime": 86.233,
+    "endTime": 87.833,
+    "fullTextZH": "结婚的时候，",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 86.233,
+        "endTime": 86.598,
+        "gloss": "get married"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 86.598,
+        "endTime": 86.699,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 86.699,
+        "endTime": 87.144,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When getting married,"
+  },
+  {
+    "startTime": 88.166,
+    "endTime": 90.0,
+    "fullTextZH": "一般来说，",
+    "words": [
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 88.166,
+        "endTime": 89.819,
+        "gloss": "generally speaking"
+      }
+    ],
+    "fullTextEN": "Generally speaking,"
+  },
+  {
+    "startTime": 90.233,
+    "endTime": 94.4,
+    "fullTextZH": "女的穿白色的婚纱。",
+    "words": [
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 92.437,
+        "endTime": 92.777,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 92.777,
+        "endTime": 93.338,
+        "gloss": "of"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 93.338,
+        "endTime": 93.458,
+        "gloss": "wear"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 93.458,
+        "endTime": 93.498,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 93.498,
+        "endTime": 93.639,
+        "gloss": "of"
+      },
+      {
+        "word": "婚纱",
+        "pinyin": "hūn shā",
+        "startTime": 93.639,
+        "endTime": 94.36,
+        "gloss": "wedding dress"
+      }
+    ],
+    "fullTextEN": "The woman wears a white wedding dress."
+  },
+  {
+    "startTime": 94.8,
+    "endTime": 97.533,
+    "fullTextZH": "白色、白色的婚纱。",
+    "words": [
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 94.8,
+        "endTime": 95.222,
+        "gloss": "white"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 95.242,
+        "endTime": 95.343,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 95.343,
+        "endTime": 95.523,
+        "gloss": "of"
+      },
+      {
+        "word": "婚纱",
+        "pinyin": "hūn shā",
+        "startTime": 95.523,
+        "endTime": 96.83,
+        "gloss": "wedding dress"
+      }
+    ],
+    "fullTextEN": "White, a white wedding dress."
+  },
+  {
+    "startTime": 97.733,
+    "endTime": 103.133,
+    "fullTextZH": "可是这个女的，她穿黑色的婚纱。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 98.014,
+        "endTime": 98.596,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 98.596,
+        "endTime": 99.66,
+        "gloss": "this"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 99.66,
+        "endTime": 99.781,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 99.781,
+        "endTime": 99.861,
+        "gloss": "of"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 100.042,
+        "endTime": 101.186,
+        "gloss": "she"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 101.186,
+        "endTime": 101.647,
+        "gloss": "wear"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 101.647,
+        "endTime": 102.089,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.089,
+        "endTime": 102.25,
+        "gloss": "of"
+      },
+      {
+        "word": "婚纱",
+        "pinyin": "hūn shā",
+        "startTime": 102.25,
+        "endTime": 102.711,
+        "gloss": "wedding dress"
+      }
+    ],
+    "fullTextEN": "But this woman, she wears a black wedding dress."
+  },
+  {
+    "startTime": 103.466,
+    "endTime": 106.166,
+    "fullTextZH": "黑色的，不是白色。",
+    "words": [
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 103.466,
+        "endTime": 103.929,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 103.929,
+        "endTime": 104.091,
+        "gloss": "of"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 104.111,
+        "endTime": 104.514,
+        "gloss": "not"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 104.514,
+        "endTime": 105.602,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "Black, not white."
+  },
+  {
+    "startTime": 106.266,
+    "endTime": 108.233,
+    "fullTextZH": "为什么？对，",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 106.286,
+        "endTime": 107.149,
+        "gloss": "why"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 107.39,
+        "endTime": 107.771,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Why? Yes,"
+  },
+  {
+    "startTime": 108.233,
+    "endTime": 111.733,
+    "fullTextZH": "因为今天她离婚。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 108.293,
+        "endTime": 108.454,
+        "gloss": "because"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 108.454,
+        "endTime": 110.707,
+        "gloss": "today"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 110.707,
+        "endTime": 111.029,
+        "gloss": "she"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 111.029,
+        "endTime": 111.713,
+        "gloss": "divorce"
+      }
+    ],
+    "fullTextEN": "Because today she is getting divorced."
+  },
+  {
+    "startTime": 111.866,
+    "endTime": 115.9,
+    "fullTextZH": "所以她穿黑色的婚纱。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 111.886,
+        "endTime": 112.468,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 112.468,
+        "endTime": 112.789,
+        "gloss": "she"
+      },
+      {
+        "word": "穿",
+        "pinyin": "chuān",
+        "startTime": 112.789,
+        "endTime": 113.472,
+        "gloss": "wear"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 113.472,
+        "endTime": 113.813,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 113.813,
+        "endTime": 114.676,
+        "gloss": "of"
+      },
+      {
+        "word": "婚纱",
+        "pinyin": "hūn shā",
+        "startTime": 114.676,
+        "endTime": 115.157,
+        "gloss": "wedding dress"
+      }
+    ],
+    "fullTextEN": "So she wears a black wedding dress."
+  },
+  {
+    "startTime": 117.3,
+    "endTime": 122.7,
+    "fullTextZH": "现在，我们看看他们做什么。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 118.304,
+        "endTime": 118.525,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 118.725,
+        "endTime": 118.846,
+        "gloss": "we"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 118.846,
+        "endTime": 119.849,
+        "gloss": "look"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 119.849,
+        "endTime": 120.251,
+        "gloss": "they"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 120.251,
+        "endTime": 120.793,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 120.793,
+        "endTime": 122.68,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Now, let's see what they are doing."
+  },
+  {
+    "startTime": 124.9,
+    "endTime": 128.4,
+    "fullTextZH": "第一件事，他们要发誓。",
+    "words": [
+      {
+        "word": "第一件",
+        "pinyin": "dì yī jiàn",
+        "startTime": 124.94,
+        "endTime": 125.282,
+        "gloss": "first"
+      },
+      {
+        "word": "事",
+        "pinyin": "shì",
+        "startTime": 125.282,
+        "endTime": 126.389,
+        "gloss": "thing"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 126.65,
+        "endTime": 127.274,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 127.274,
+        "endTime": 127.555,
+        "gloss": "need"
+      },
+      {
+        "word": "发誓",
+        "pinyin": "fā shì",
+        "startTime": 127.555,
+        "endTime": 128.36,
+        "gloss": "swear"
+      }
+    ],
+    "fullTextEN": "The first thing, they need to swear."
+  },
+  {
+    "startTime": 129.5,
+    "endTime": 132.566,
+    "fullTextZH": "他们对什么发誓？",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 129.52,
+        "endTime": 129.961,
+        "gloss": "they"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 129.961,
+        "endTime": 130.322,
+        "gloss": "on"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 130.322,
+        "endTime": 131.364,
+        "gloss": "what"
+      },
+      {
+        "word": "发誓",
+        "pinyin": "fā shì",
+        "startTime": 131.364,
+        "endTime": 132.526,
+        "gloss": "swear"
+      }
+    ],
+    "fullTextEN": "What do they swear on?"
+  },
+  {
+    "startTime": 132.966,
+    "endTime": 134.866,
+    "fullTextZH": "不是对天，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 133.694,
+        "endTime": 134.522,
+        "gloss": "not"
+      },
+      {
+        "word": "对天",
+        "pinyin": "duì tiān",
+        "startTime": 134.522,
+        "endTime": 134.846,
+        "gloss": "on sky"
+      }
+    ],
+    "fullTextEN": "Not on the sky,"
+  },
+  {
+    "startTime": 134.966,
+    "endTime": 138.9,
+    "fullTextZH": "是对钱发誓。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 135.608,
+        "endTime": 136.572,
+        "gloss": "is"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 136.572,
+        "endTime": 136.813,
+        "gloss": "on"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 136.813,
+        "endTime": 137.154,
+        "gloss": "money"
+      },
+      {
+        "word": "发誓",
+        "pinyin": "fā shì",
+        "startTime": 137.154,
+        "endTime": 138.338,
+        "gloss": "swear"
+      }
+    ],
+    "fullTextEN": "But on money."
+  },
+  {
+    "startTime": 140.3,
+    "endTime": 144.8,
+    "fullTextZH": "如果今天她结婚，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 140.441,
+        "endTime": 140.481,
+        "gloss": "if"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 140.481,
+        "endTime": 140.943,
+        "gloss": "today"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 140.943,
+        "endTime": 142.711,
+        "gloss": "she"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 142.711,
+        "endTime": 143.354,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "If today she gets married,"
+  },
+  {
+    "startTime": 144.8,
+    "endTime": 148.7,
+    "fullTextZH": "可能司仪问她：",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 144.82,
+        "endTime": 145.041,
+        "gloss": "might"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 145.041,
+        "endTime": 145.564,
+        "gloss": "officiant"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 145.564,
+        "endTime": 145.685,
+        "gloss": "ask"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 145.685,
+        "endTime": 145.986,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "The officiant might ask her:"
+  },
+  {
+    "startTime": 149.3,
+    "endTime": 153.933,
+    "fullTextZH": "“无论这个男的贫穷还是富有，",
+    "words": [
+      {
+        "word": "无论",
+        "pinyin": "wú lùn",
+        "startTime": 152.008,
+        "endTime": 152.349,
+        "gloss": "whether"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 152.349,
+        "endTime": 152.389,
+        "gloss": "this"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 152.389,
+        "endTime": 152.429,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.429,
+        "endTime": 152.449,
+        "gloss": "of"
+      },
+      {
+        "word": "贫穷",
+        "pinyin": "pín qióng",
+        "startTime": 152.449,
+        "endTime": 152.69,
+        "gloss": "poor"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 152.69,
+        "endTime": 153.592,
+        "gloss": "or"
+      },
+      {
+        "word": "富有",
+        "pinyin": "fù yǒu",
+        "startTime": 153.592,
+        "endTime": 153.913,
+        "gloss": "rich"
+      }
+    ],
+    "fullTextEN": "\"Whether this man is poor or rich,"
+  },
+  {
+    "startTime": 154.2,
+    "endTime": 158.066,
+    "fullTextZH": "就是不管他有钱没有钱，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 156.504,
+        "endTime": 156.904,
+        "gloss": "that is"
+      },
+      {
+        "word": "不管",
+        "pinyin": "bù guǎn",
+        "startTime": 156.904,
+        "endTime": 157.305,
+        "gloss": "whether"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 157.305,
+        "endTime": 157.645,
+        "gloss": "he"
+      },
+      {
+        "word": "有钱",
+        "pinyin": "yǒu qián",
+        "startTime": 157.645,
+        "endTime": 157.846,
+        "gloss": "has money"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 157.846,
+        "endTime": 157.986,
+        "gloss": "no"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 157.986,
+        "endTime": 158.046,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "That is, whether he has money or not,"
+  },
+  {
+    "startTime": 158.6,
+    "endTime": 162.9,
+    "fullTextZH": "无论他是健康还是疾病，",
+    "words": [
+      {
+        "word": "无论",
+        "pinyin": "wú lùn",
+        "startTime": 158.68,
+        "endTime": 159.605,
+        "gloss": "whether"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 159.605,
+        "endTime": 159.665,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 159.665,
+        "endTime": 160.79,
+        "gloss": "is"
+      },
+      {
+        "word": "健康",
+        "pinyin": "jiàn kāng",
+        "startTime": 160.79,
+        "endTime": 161.574,
+        "gloss": "healthy"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 161.574,
+        "endTime": 161.976,
+        "gloss": "or"
+      },
+      {
+        "word": "疾病",
+        "pinyin": "jí bìng",
+        "startTime": 161.976,
+        "endTime": 162.86,
+        "gloss": "sick"
+      }
+    ],
+    "fullTextEN": "Whether he is healthy or sick,"
+  },
+  {
+    "startTime": 163.1,
+    "endTime": 166.9,
+    "fullTextZH": "就是不管他身体好不好，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 163.1,
+        "endTime": 163.16,
+        "gloss": "just"
+      },
+      {
+        "word": "不管",
+        "pinyin": "bù guǎn",
+        "startTime": 163.16,
+        "endTime": 163.201,
+        "gloss": "regardless"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 163.201,
+        "endTime": 163.241,
+        "gloss": "he"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 163.241,
+        "endTime": 163.864,
+        "gloss": "body"
+      },
+      {
+        "word": "好不好",
+        "pinyin": "hǎo bù hǎo",
+        "startTime": 163.864,
+        "endTime": 166.216,
+        "gloss": "good or not"
+      }
+    ],
+    "fullTextEN": "Even if his health is good or not,"
+  },
+  {
+    "startTime": 167.4,
+    "endTime": 171.1,
+    "fullTextZH": "你都要和他在一起吗？”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 167.501,
+        "endTime": 167.782,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 167.782,
+        "endTime": 167.802,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 167.802,
+        "endTime": 167.822,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 167.822,
+        "endTime": 168.084,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 168.084,
+        "endTime": 168.385,
+        "gloss": "him"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 168.385,
+        "endTime": 168.426,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 168.426,
+        "endTime": 168.928,
+        "gloss": "together"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 168.928,
+        "endTime": 169.994,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "will you still be with him?"
+  },
+  {
+    "startTime": 171.933,
+    "endTime": 176.2,
+    "fullTextZH": "然后这个女的会说：“我愿意。”",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 171.953,
+        "endTime": 172.374,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 172.374,
+        "endTime": 172.855,
+        "gloss": "this"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 172.855,
+        "endTime": 173.295,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 173.295,
+        "endTime": 173.415,
+        "gloss": "particle"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 173.415,
+        "endTime": 174.778,
+        "gloss": "will"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 174.778,
+        "endTime": 175.078,
+        "gloss": "say"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 175.9,
+        "endTime": 175.92,
+        "gloss": "I"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 175.92,
+        "endTime": 176.16,
+        "gloss": "willing"
+      }
+    ],
+    "fullTextEN": "Then the woman would say, \"I do.\""
+  },
+  {
+    "startTime": 176.6,
+    "endTime": 180.666,
+    "fullTextZH": "可是今天，他们要离婚。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 176.62,
+        "endTime": 176.7,
+        "gloss": "but"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 176.7,
+        "endTime": 176.9,
+        "gloss": "today"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 177.301,
+        "endTime": 178.883,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 178.883,
+        "endTime": 179.044,
+        "gloss": "want"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 179.044,
+        "endTime": 179.564,
+        "gloss": "divorce"
+      }
+    ],
+    "fullTextEN": "But today, they are getting divorced."
+  },
+  {
+    "startTime": 181.366,
+    "endTime": 184.533,
+    "fullTextZH": "所以司仪问她，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 181.366,
+        "endTime": 181.566,
+        "gloss": "so"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 181.566,
+        "endTime": 182.408,
+        "gloss": "officiant"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 182.408,
+        "endTime": 182.589,
+        "gloss": "ask"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 182.589,
+        "endTime": 182.689,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "So the officiant asked her,"
+  },
+  {
+    "startTime": 185.666,
+    "endTime": 189.1,
+    "fullTextZH": "“无论这个男的多么富有，",
+    "words": [
+      {
+        "word": "无论",
+        "pinyin": "wú lùn",
+        "startTime": 185.766,
+        "endTime": 186.871,
+        "gloss": "no matter"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 186.871,
+        "endTime": 187.112,
+        "gloss": "this"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 187.112,
+        "endTime": 187.152,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 187.152,
+        "endTime": 187.232,
+        "gloss": "particle"
+      },
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 187.232,
+        "endTime": 188.036,
+        "gloss": "how"
+      },
+      {
+        "word": "富有",
+        "pinyin": "fù yǒu",
+        "startTime": 188.036,
+        "endTime": 189.06,
+        "gloss": "rich"
+      }
+    ],
+    "fullTextEN": "\"No matter how rich this man is,"
+  },
+  {
+    "startTime": 189.333,
+    "endTime": 191.266,
+    "fullTextZH": "多么健康，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 189.353,
+        "endTime": 190.138,
+        "gloss": "how"
+      },
+      {
+        "word": "健康",
+        "pinyin": "jiàn kāng",
+        "startTime": 190.138,
+        "endTime": 190.863,
+        "gloss": "healthy"
+      }
+    ],
+    "fullTextEN": "how healthy,"
+  },
+  {
+    "startTime": 191.4,
+    "endTime": 193.433,
+    "fullTextZH": "多么爱你，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 191.501,
+        "endTime": 192.004,
+        "gloss": "how"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 192.004,
+        "endTime": 192.105,
+        "gloss": "love"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 192.105,
+        "endTime": 193.393,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "how much he loves you,"
+  },
+  {
+    "startTime": 193.5,
+    "endTime": 199.033,
+    "fullTextZH": "你都不愿意和他在一起吗？”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 193.801,
+        "endTime": 194.001,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 194.001,
+        "endTime": 194.242,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 194.242,
+        "endTime": 194.743,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 194.743,
+        "endTime": 195.284,
+        "gloss": "willing"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 195.284,
+        "endTime": 195.645,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 195.645,
+        "endTime": 196.146,
+        "gloss": "him"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 196.146,
+        "endTime": 196.327,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 196.327,
+        "endTime": 196.527,
+        "gloss": "together"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 196.527,
+        "endTime": 198.993,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "you still don't want to be with him?\""
+  },
+  {
+    "startTime": 200.133,
+    "endTime": 201.9,
+    "fullTextZH": "这个女的说：“对，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 200.354,
+        "endTime": 200.816,
+        "gloss": "this"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 200.816,
+        "endTime": 200.856,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.856,
+        "endTime": 200.876,
+        "gloss": "particle"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 200.876,
+        "endTime": 200.976,
+        "gloss": "say"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 201.86,
+        "endTime": 201.88,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "The woman said, \"Yes,"
+  },
+  {
+    "startTime": 201.9,
+    "endTime": 203.733,
+    "fullTextZH": "我不愿意。”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 201.96,
+        "endTime": 202.222,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 202.222,
+        "endTime": 202.988,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 202.988,
+        "endTime": 203.693,
+        "gloss": "willing"
+      }
+    ],
+    "fullTextEN": "I am not willing.\""
+  },
+  {
+    "startTime": 207.6,
+    "endTime": 211.766,
+    "fullTextZH": "然后司仪又问这个男的，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 208.241,
+        "endTime": 208.942,
+        "gloss": "then"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 208.942,
+        "endTime": 209.703,
+        "gloss": "officiant"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 209.703,
+        "endTime": 211.025,
+        "gloss": "again"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 211.025,
+        "endTime": 211.506,
+        "gloss": "ask"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 211.506,
+        "endTime": 211.646,
+        "gloss": "this"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 211.646,
+        "endTime": 211.686,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 211.686,
+        "endTime": 211.746,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Then the officiant asked the man again,"
+  },
+  {
+    "startTime": 212.4,
+    "endTime": 216.933,
+    "fullTextZH": "他问他说：“从今天开始，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 212.44,
+        "endTime": 212.701,
+        "gloss": "he"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 212.701,
+        "endTime": 212.801,
+        "gloss": "ask"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 212.801,
+        "endTime": 213.062,
+        "gloss": "him"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 213.062,
+        "endTime": 213.262,
+        "gloss": "say"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 214.165,
+        "endTime": 214.606,
+        "gloss": "from"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 214.606,
+        "endTime": 214.646,
+        "gloss": "today"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 214.646,
+        "endTime": 214.827,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "He asked him, \"From today,"
+  },
+  {
+    "startTime": 217.466,
+    "endTime": 221.433,
+    "fullTextZH": "无论这个女的多么漂亮，",
+    "words": [
+      {
+        "word": "无论",
+        "pinyin": "wú lùn",
+        "startTime": 217.466,
+        "endTime": 218.127,
+        "gloss": "no matter"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 218.127,
+        "endTime": 218.267,
+        "gloss": "this"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 218.267,
+        "endTime": 218.287,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 218.287,
+        "endTime": 218.368,
+        "gloss": "particle"
+      },
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 218.368,
+        "endTime": 219.369,
+        "gloss": "how"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 219.369,
+        "endTime": 220.371,
+        "gloss": "beautiful"
+      }
+    ],
+    "fullTextEN": "no matter how beautiful this woman is,"
+  },
+  {
+    "startTime": 221.466,
+    "endTime": 223.0,
+    "fullTextZH": "多么动人，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 221.466,
+        "endTime": 221.85,
+        "gloss": "how"
+      },
+      {
+        "word": "动人",
+        "pinyin": "dòng rén",
+        "startTime": 221.85,
+        "endTime": 222.132,
+        "gloss": "charming"
+      }
+    ],
+    "fullTextEN": "how charming,"
+  },
+  {
+    "startTime": 223.0,
+    "endTime": 224.733,
+    "fullTextZH": "多么爱你，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 223.645,
+        "endTime": 223.685,
+        "gloss": "how"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 223.685,
+        "endTime": 223.705,
+        "gloss": "love"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 223.705,
+        "endTime": 223.766,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "how much she loves you,"
+  },
+  {
+    "startTime": 224.733,
+    "endTime": 229.366,
+    "fullTextZH": "你都不愿意和她在一起吗？”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 225.134,
+        "endTime": 225.796,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 225.796,
+        "endTime": 226.518,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 226.518,
+        "endTime": 226.979,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 226.979,
+        "endTime": 228.965,
+        "gloss": "willing"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 228.965,
+        "endTime": 229.005,
+        "gloss": "with"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 229.005,
+        "endTime": 229.246,
+        "gloss": "her"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 229.246,
+        "endTime": 229.266,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 229.266,
+        "endTime": 229.306,
+        "gloss": "together"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 229.306,
+        "endTime": 229.326,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "you still don't want to be with her?\""
+  },
+  {
+    "startTime": 230.366,
+    "endTime": 233.0,
+    "fullTextZH": "然后这个男的说：“对，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 230.467,
+        "endTime": 231.251,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 231.251,
+        "endTime": 231.412,
+        "gloss": "this"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 231.412,
+        "endTime": 231.432,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 231.432,
+        "endTime": 231.593,
+        "gloss": "particle"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 231.593,
+        "endTime": 231.673,
+        "gloss": "say"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 232.497,
+        "endTime": 232.98,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Then the man said, \"Yes,"
+  },
+  {
+    "startTime": 233.133,
+    "endTime": 234.6,
+    "fullTextZH": "不愿意。”",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 233.133,
+        "endTime": 233.254,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 233.254,
+        "endTime": 234.319,
+        "gloss": "willing"
+      }
+    ],
+    "fullTextEN": "not willing.\""
+  },
+  {
+    "startTime": 235.633,
+    "endTime": 240.6,
+    "fullTextZH": "好，结婚的时候，我们要戴戒指。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 235.633,
+        "endTime": 235.673,
+        "gloss": "okay"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 235.793,
+        "endTime": 235.833,
+        "gloss": "marry"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.833,
+        "endTime": 235.853,
+        "gloss": "particle"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 235.853,
+        "endTime": 236.474,
+        "gloss": "time"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 236.594,
+        "endTime": 237.115,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 237.115,
+        "endTime": 237.375,
+        "gloss": "want"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 237.375,
+        "endTime": 237.636,
+        "gloss": "wear"
+      },
+      {
+        "word": "戒指",
+        "pinyin": "jiè zhǐ",
+        "startTime": 237.636,
+        "endTime": 237.976,
+        "gloss": "ring"
+      }
+    ],
+    "fullTextEN": "Okay, when getting married, we wear rings."
+  },
+  {
+    "startTime": 240.933,
+    "endTime": 242.9,
+    "fullTextZH": "所以离婚的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 240.953,
+        "endTime": 241.013,
+        "gloss": "so"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 241.013,
+        "endTime": 241.977,
+        "gloss": "divorce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.977,
+        "endTime": 242.458,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 242.458,
+        "endTime": 242.88,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So when getting divorced,"
+  },
+  {
+    "startTime": 243.266,
+    "endTime": 245.466,
+    "fullTextZH": "我们做什么？",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 244.578,
+        "endTime": 244.76,
+        "gloss": "we"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 244.76,
+        "endTime": 245.062,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 245.062,
+        "endTime": 245.426,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do we do?"
+  },
+  {
+    "startTime": 251.333,
+    "endTime": 254.466,
+    "fullTextZH": "对，我们脱戒指。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 251.413,
+        "endTime": 251.895,
+        "gloss": "right"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 251.935,
+        "endTime": 252.177,
+        "gloss": "we"
+      },
+      {
+        "word": "脱",
+        "pinyin": "tuō",
+        "startTime": 252.177,
+        "endTime": 252.337,
+        "gloss": "take off"
+      },
+      {
+        "word": "戒指",
+        "pinyin": "jiè zhǐ",
+        "startTime": 252.337,
+        "endTime": 254.446,
+        "gloss": "rings"
+      }
+    ],
+    "fullTextEN": "Right, we take off the rings."
+  },
+  {
+    "startTime": 261.266,
+    "endTime": 262.866,
+    "fullTextZH": "然后司仪说，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 261.266,
+        "endTime": 262.015,
+        "gloss": "then"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 262.015,
+        "endTime": 262.42,
+        "gloss": "emcee"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 262.42,
+        "endTime": 262.825,
+        "gloss": "says"
+      }
+    ],
+    "fullTextEN": "Then the emcee says,"
+  },
+  {
+    "startTime": 263.033,
+    "endTime": 265.766,
+    "fullTextZH": "“你们要不要最后",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 263.053,
+        "endTime": 263.475,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 263.475,
+        "endTime": 263.515,
+        "gloss": "want"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 263.515,
+        "endTime": 263.616,
+        "gloss": "not want"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 263.616,
+        "endTime": 263.696,
+        "gloss": "last"
+      }
+    ],
+    "fullTextEN": "\"Do you want to"
+  },
+  {
+    "startTime": 266.766,
+    "endTime": 267.566,
+    "fullTextZH": "吻",
+    "words": [
+      {
+        "word": "吻",
+        "pinyin": "wěn",
+        "startTime": 266.869,
+        "endTime": 266.889,
+        "gloss": "kiss"
+      }
+    ],
+    "fullTextEN": "kiss"
+  },
+  {
+    "startTime": 268.633,
+    "endTime": 270.433,
+    "fullTextZH": "最后一吻？”",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 268.694,
+        "endTime": 268.855,
+        "gloss": "last"
+      },
+      {
+        "word": "一吻",
+        "pinyin": "yī wěn",
+        "startTime": 268.855,
+        "endTime": 269.806,
+        "gloss": "one kiss"
+      }
+    ],
+    "fullTextEN": "one last kiss?\""
+  },
+  {
+    "startTime": 275.5,
+    "endTime": 278.166,
+    "fullTextZH": "大家说：“要！要！要！”",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 275.5,
+        "endTime": 275.64,
+        "gloss": "everyone"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 275.64,
+        "endTime": 275.781,
+        "gloss": "says"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 276.582,
+        "endTime": 276.663,
+        "gloss": "yes"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 276.823,
+        "endTime": 277.284,
+        "gloss": "yes"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 277.645,
+        "endTime": 278.126,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Everyone says: \"Yes! Yes! Yes!\""
+  },
+  {
+    "startTime": 279.233,
+    "endTime": 282.266,
+    "fullTextZH": "因为大家觉得很好玩。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 279.615,
+        "endTime": 279.956,
+        "gloss": "because"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 279.956,
+        "endTime": 280.217,
+        "gloss": "everyone"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 280.217,
+        "endTime": 281.382,
+        "gloss": "thinks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 281.382,
+        "endTime": 281.523,
+        "gloss": "very"
+      },
+      {
+        "word": "好玩",
+        "pinyin": "hǎo wán",
+        "startTime": 281.523,
+        "endTime": 282.226,
+        "gloss": "fun"
+      }
+    ],
+    "fullTextEN": "Because everyone thinks it's fun."
+  },
+  {
+    "startTime": 282.433,
+    "endTime": 284.833,
+    "fullTextZH": "可是这个女的，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 282.494,
+        "endTime": 283.583,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 283.583,
+        "endTime": 284.288,
+        "gloss": "this"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 284.288,
+        "endTime": 284.793,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 284.793,
+        "endTime": 284.813,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "But this woman,"
+  },
+  {
+    "startTime": 285.033,
+    "endTime": 287.433,
+    "fullTextZH": "她说：“不必了吧。”",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 285.154,
+        "endTime": 285.275,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 285.275,
+        "endTime": 285.477,
+        "gloss": "says"
+      },
+      {
+        "word": "不必",
+        "pinyin": "bù bì",
+        "startTime": 285.84,
+        "endTime": 286.384,
+        "gloss": "no need"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 286.384,
+        "endTime": 286.788,
+        "gloss": "particle"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 286.788,
+        "endTime": 287.11,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "she says: \"No need.\""
+  },
+  {
+    "startTime": 287.833,
+    "endTime": 288.866,
+    "fullTextZH": "就是不要。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 287.853,
+        "endTime": 288.015,
+        "gloss": "just"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 288.015,
+        "endTime": 288.441,
+        "gloss": "don't want"
+      }
+    ],
+    "fullTextEN": "Just don't want to."
+  },
+  {
+    "startTime": 291.966,
+    "endTime": 295.733,
+    "fullTextZH": "然后这个男的，他也说：“不必了吧。”",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 291.986,
+        "endTime": 292.026,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 292.026,
+        "endTime": 292.066,
+        "gloss": "this"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 292.066,
+        "endTime": 292.427,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 292.427,
+        "endTime": 292.447,
+        "gloss": "of"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 292.567,
+        "endTime": 292.627,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 292.627,
+        "endTime": 292.727,
+        "gloss": "also"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 292.727,
+        "endTime": 292.828,
+        "gloss": "says"
+      },
+      {
+        "word": "不必",
+        "pinyin": "bù bì",
+        "startTime": 293.809,
+        "endTime": 294.811,
+        "gloss": "no need"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 294.811,
+        "endTime": 295.673,
+        "gloss": "particle"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 295.673,
+        "endTime": 295.693,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Then this man, he also says: \"No need.\""
+  },
+  {
+    "startTime": 302.7,
+    "endTime": 304.133,
+    "fullTextZH": "结婚的时候，",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 302.7,
+        "endTime": 302.781,
+        "gloss": "marry"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.781,
+        "endTime": 302.801,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 302.801,
+        "endTime": 304.113,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When getting married,"
+  },
+  {
+    "startTime": 304.333,
+    "endTime": 305.666,
+    "fullTextZH": "我们贴",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 304.333,
+        "endTime": 304.474,
+        "gloss": "we"
+      },
+      {
+        "word": "贴",
+        "pinyin": "tiē",
+        "startTime": 304.474,
+        "endTime": 304.495,
+        "gloss": "put up"
+      }
+    ],
+    "fullTextEN": "we put up"
+  },
+  {
+    "startTime": 306.366,
+    "endTime": 308.166,
+    "fullTextZH": "贴很多很多",
+    "words": [
+      {
+        "word": "贴",
+        "pinyin": "tiē",
+        "startTime": 306.366,
+        "endTime": 306.487,
+        "gloss": "put up"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 306.487,
+        "endTime": 307.559,
+        "gloss": "many many"
+      }
+    ],
+    "fullTextEN": "put up many, many"
+  },
+  {
+    "startTime": 308.566,
+    "endTime": 309.733,
+    "fullTextZH": "喜字。",
+    "words": [
+      {
+        "word": "喜字",
+        "pinyin": "xǐ zì",
+        "startTime": 309.552,
+        "endTime": 309.713,
+        "gloss": "double happiness"
+      }
+    ],
+    "fullTextEN": "double happiness characters."
+  },
+  {
+    "startTime": 310.8,
+    "endTime": 315.233,
+    "fullTextZH": "喜——有两个喜欢的喜，喜字。",
+    "words": [
+      {
+        "word": "喜",
+        "pinyin": "xǐ",
+        "startTime": 310.8,
+        "endTime": 310.981,
+        "gloss": "happiness"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 311.502,
+        "endTime": 311.843,
+        "gloss": "there are"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 311.843,
+        "endTime": 312.024,
+        "gloss": "two"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 312.024,
+        "endTime": 312.485,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 312.485,
+        "endTime": 312.545,
+        "gloss": "of"
+      },
+      {
+        "word": "喜",
+        "pinyin": "xǐ",
+        "startTime": 312.545,
+        "endTime": 312.786,
+        "gloss": "happiness"
+      },
+      {
+        "word": "喜字",
+        "pinyin": "xǐ zì",
+        "startTime": 313.327,
+        "endTime": 315.193,
+        "gloss": "happiness character"
+      }
+    ],
+    "fullTextEN": "Happiness—there are two likes, happiness characters."
+  },
+  {
+    "startTime": 316.266,
+    "endTime": 320.8,
+    "fullTextZH": "那离婚的时候，我们做什么？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 316.266,
+        "endTime": 317.871,
+        "gloss": "so"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 317.871,
+        "endTime": 318.473,
+        "gloss": "divorce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 318.473,
+        "endTime": 318.513,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 318.513,
+        "endTime": 319.396,
+        "gloss": "time"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 320.038,
+        "endTime": 320.118,
+        "gloss": "we"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 320.118,
+        "endTime": 320.66,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 320.66,
+        "endTime": 320.78,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "So when getting divorced, what do we do?"
+  },
+  {
+    "startTime": 324.5,
+    "endTime": 325.3,
+    "fullTextZH": "啊，",
+    "words": [
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 324.685,
+        "endTime": 325.259,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Ah,"
+  },
+  {
+    "startTime": 326.7,
+    "endTime": 330.133,
+    "fullTextZH": "对，我们剪喜字。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 326.7,
+        "endTime": 326.72,
+        "gloss": "yes"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 326.74,
+        "endTime": 326.841,
+        "gloss": "we"
+      },
+      {
+        "word": "剪",
+        "pinyin": "jiǎn",
+        "startTime": 326.841,
+        "endTime": 327.102,
+        "gloss": "cut"
+      },
+      {
+        "word": "喜字",
+        "pinyin": "xǐ zì",
+        "startTime": 327.102,
+        "endTime": 330.093,
+        "gloss": "'double happiness'"
+      }
+    ],
+    "fullTextEN": "Yes, we cut the 'double happiness' character."
+  },
+  {
+    "startTime": 330.133,
+    "endTime": 332.866,
+    "fullTextZH": "然后我们烧喜字。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 330.153,
+        "endTime": 330.193,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 330.193,
+        "endTime": 330.233,
+        "gloss": "we"
+      },
+      {
+        "word": "烧",
+        "pinyin": "shāo",
+        "startTime": 330.233,
+        "endTime": 330.274,
+        "gloss": "burn"
+      },
+      {
+        "word": "喜字",
+        "pinyin": "xǐ zì",
+        "startTime": 330.274,
+        "endTime": 332.826,
+        "gloss": "'double happiness'"
+      }
+    ],
+    "fullTextEN": "Then we burn the 'double happiness' character."
+  },
+  {
+    "startTime": 333.5,
+    "endTime": 334.3,
+    "fullTextZH": "烧。",
+    "words": [
+      {
+        "word": "烧",
+        "pinyin": "shāo",
+        "startTime": 334.259,
+        "endTime": 334.279,
+        "gloss": "burn"
+      }
+    ],
+    "fullTextEN": "Burn."
+  },
+  {
+    "startTime": 341.733,
+    "endTime": 348.4,
+    "fullTextZH": "司仪说：“现在你们像熟人一样握手吧。”",
+    "words": [
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 341.873,
+        "endTime": 342.173,
+        "gloss": "host"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 342.173,
+        "endTime": 342.294,
+        "gloss": "said"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 342.694,
+        "endTime": 343.435,
+        "gloss": "now"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 343.435,
+        "endTime": 343.955,
+        "gloss": "you"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 343.955,
+        "endTime": 344.276,
+        "gloss": "like"
+      },
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 344.276,
+        "endTime": 344.716,
+        "gloss": "acquaintances"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 344.716,
+        "endTime": 345.077,
+        "gloss": "same"
+      },
+      {
+        "word": "握手",
+        "pinyin": "wò shǒu",
+        "startTime": 345.077,
+        "endTime": 345.317,
+        "gloss": "shake hands"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 345.317,
+        "endTime": 345.697,
+        "gloss": "let's"
+      }
+    ],
+    "fullTextEN": "The host said, 'Now shake hands like acquaintances.'"
+  },
+  {
+    "startTime": 348.9,
+    "endTime": 352.3,
+    "fullTextZH": "因为现在他们不是夫妻，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 348.9,
+        "endTime": 349.423,
+        "gloss": "because"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 349.423,
+        "endTime": 350.349,
+        "gloss": "now"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 350.349,
+        "endTime": 350.892,
+        "gloss": "they"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 350.892,
+        "endTime": 351.354,
+        "gloss": "are not"
+      },
+      {
+        "word": "夫妻",
+        "pinyin": "fū qī",
+        "startTime": 351.354,
+        "endTime": 352.26,
+        "gloss": "couple"
+      }
+    ],
+    "fullTextEN": "Because now they are not a couple,"
+  },
+  {
+    "startTime": 352.3,
+    "endTime": 354.533,
+    "fullTextZH": "他们是熟人。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 352.32,
+        "endTime": 352.642,
+        "gloss": "they"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 352.642,
+        "endTime": 352.783,
+        "gloss": "are"
+      },
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 352.783,
+        "endTime": 353.527,
+        "gloss": "acquaintances"
+      }
+    ],
+    "fullTextEN": "They are acquaintances."
+  },
+  {
+    "startTime": 355.366,
+    "endTime": 356.966,
+    "fullTextZH": "熟人是什么？",
+    "words": [
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 355.407,
+        "endTime": 355.71,
+        "gloss": "acquaintance"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 355.71,
+        "endTime": 355.933,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 355.933,
+        "endTime": 356.925,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is an acquaintance?"
+  },
+  {
+    "startTime": 356.966,
+    "endTime": 360.733,
+    "fullTextZH": "熟人就是认识很长时间，",
+    "words": [
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 357.046,
+        "endTime": 357.267,
+        "gloss": "acquaintance"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 357.267,
+        "endTime": 358.148,
+        "gloss": "is"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 358.148,
+        "endTime": 358.549,
+        "gloss": "know"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 358.549,
+        "endTime": 358.769,
+        "gloss": "very"
+      },
+      {
+        "word": "长时间",
+        "pinyin": "zhǎng shí jiān",
+        "startTime": 358.769,
+        "endTime": 360.693,
+        "gloss": "long time"
+      }
+    ],
+    "fullTextEN": "An acquaintance is someone you have known for a long time,"
+  },
+  {
+    "startTime": 361.1,
+    "endTime": 363.2,
+    "fullTextZH": "不一定是朋友。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 361.201,
+        "endTime": 361.363,
+        "gloss": "not"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 361.363,
+        "endTime": 361.564,
+        "gloss": "necessarily"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 361.564,
+        "endTime": 362.554,
+        "gloss": "is"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 362.554,
+        "endTime": 363.18,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "Not necessarily a friend."
+  },
+  {
+    "startTime": 371.066,
+    "endTime": 372.933,
+    "fullTextZH": "对，所以他们握手。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 371.307,
+        "endTime": 371.387,
+        "gloss": "yes"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 371.528,
+        "endTime": 371.568,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 371.568,
+        "endTime": 371.708,
+        "gloss": "they"
+      },
+      {
+        "word": "握手",
+        "pinyin": "wò shǒu",
+        "startTime": 371.708,
+        "endTime": 372.893,
+        "gloss": "shake hands"
+      }
+    ],
+    "fullTextEN": "Yes, so they shake hands."
+  },
+  {
+    "startTime": 375.7,
+    "endTime": 376.5,
+    "fullTextZH": "然后，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 375.741,
+        "endTime": 376.459,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Then,"
+  },
+  {
+    "startTime": 377.1,
+    "endTime": 378.866,
+    "fullTextZH": "拥抱，拥抱。",
+    "words": [
+      {
+        "word": "拥抱",
+        "pinyin": "yōng bào",
+        "startTime": 377.421,
+        "endTime": 377.602,
+        "gloss": "hug"
+      },
+      {
+        "word": "拥抱",
+        "pinyin": "yōng bào",
+        "startTime": 377.903,
+        "endTime": 378.384,
+        "gloss": "hug"
+      }
+    ],
+    "fullTextEN": "Hug, hug."
+  },
+  {
+    "startTime": 384.033,
+    "endTime": 385.6,
+    "fullTextZH": "然后司仪说，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 384.254,
+        "endTime": 384.535,
+        "gloss": "then"
+      },
+      {
+        "word": "司仪",
+        "pinyin": "sī yí",
+        "startTime": 384.535,
+        "endTime": 384.977,
+        "gloss": "host"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 384.977,
+        "endTime": 385.56,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "Then the host said,"
+  },
+  {
+    "startTime": 386.066,
+    "endTime": 391.533,
+    "fullTextZH": "“离了，就是你们离婚了，也是好朋友。”",
+    "words": [
+      {
+        "word": "离",
+        "pinyin": "lí",
+        "startTime": 386.807,
+        "endTime": 386.907,
+        "gloss": "divorce"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 386.907,
+        "endTime": 387.948,
+        "gloss": "completed"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 388.369,
+        "endTime": 388.83,
+        "gloss": "is"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 388.83,
+        "endTime": 389.871,
+        "gloss": "you"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 389.871,
+        "endTime": 390.712,
+        "gloss": "divorce"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 390.712,
+        "endTime": 390.732,
+        "gloss": "completed"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 390.752,
+        "endTime": 390.772,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 390.772,
+        "endTime": 391.052,
+        "gloss": "are"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 391.052,
+        "endTime": 391.193,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 391.193,
+        "endTime": 391.493,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "'Divorced, even if you are divorced, you are still good friends.'"
+  },
+  {
+    "startTime": 393.233,
+    "endTime": 394.033,
+    "fullTextZH": "好，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 393.233,
+        "endTime": 393.5,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 394.6,
+    "endTime": 398.833,
+    "fullTextZH": "这就是他们的离婚婚礼。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 394.941,
+        "endTime": 395.683,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 395.683,
+        "endTime": 396.305,
+        "gloss": "is"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 396.305,
+        "endTime": 397.027,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 397.027,
+        "endTime": 397.268,
+        "gloss": "of"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 397.268,
+        "endTime": 397.83,
+        "gloss": "divorce"
+      },
+      {
+        "word": "婚礼",
+        "pinyin": "hūn lǐ",
+        "startTime": 397.83,
+        "endTime": 398.813,
+        "gloss": "wedding"
+      }
+    ],
+    "fullTextEN": "This is their divorce wedding."
+  },
+  {
+    "startTime": 399.8,
+    "endTime": 405.066,
+    "fullTextZH": "现在，你们看这个电影的片段，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 399.8,
+        "endTime": 399.86,
+        "gloss": "now"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 400.2,
+        "endTime": 400.741,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 400.741,
+        "endTime": 401.382,
+        "gloss": "watch"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 401.382,
+        "endTime": 401.842,
+        "gloss": "this"
+      },
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 401.842,
+        "endTime": 402.243,
+        "gloss": "movie"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 402.243,
+        "endTime": 402.263,
+        "gloss": "of"
+      },
+      {
+        "word": "片段",
+        "pinyin": "piàn duàn",
+        "startTime": 402.263,
+        "endTime": 402.663,
+        "gloss": "clip"
+      }
+    ],
+    "fullTextEN": "Now, you watch this movie clip,"
+  },
+  {
+    "startTime": 405.3,
+    "endTime": 409.9,
+    "fullTextZH": "然后看看你们明白多少。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 405.3,
+        "endTime": 405.36,
+        "gloss": "then"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 405.36,
+        "endTime": 405.501,
+        "gloss": "see"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 405.501,
+        "endTime": 405.943,
+        "gloss": "you"
+      },
+      {
+        "word": "明白",
+        "pinyin": "míng bái",
+        "startTime": 405.943,
+        "endTime": 407.188,
+        "gloss": "understand"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 407.188,
+        "endTime": 407.61,
+        "gloss": "how much"
+      }
+    ],
+    "fullTextEN": "Then see how much you understand."
+  },
+  {
+    "startTime": 425.833,
+    "endTime": 426.633,
+    "fullTextZH": "停。",
+    "words": [
+      {
+        "word": "停",
+        "pinyin": "tíng",
+        "startTime": 425.874,
+        "endTime": 426.612,
+        "gloss": "stop"
+      }
+    ],
+    "fullTextEN": "Stop."
+  },
+  {
+    "startTime": 431.233,
+    "endTime": 432.033,
+    "fullTextZH": "今天，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 431.233,
+        "endTime": 432.012,
+        "gloss": "today"
+      }
+    ],
+    "fullTextEN": "Today,"
+  },
+  {
+    "startTime": 433.533,
+    "endTime": 434.766,
+    "fullTextZH": "我们在一起",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 433.533,
+        "endTime": 433.634,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 433.634,
+        "endTime": 433.776,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 433.776,
+        "endTime": 434.422,
+        "gloss": "together"
+      }
+    ],
+    "fullTextEN": "We are together."
+  },
+  {
+    "startTime": 435.6,
+    "endTime": 436.433,
+    "fullTextZH": "见证",
+    "words": [
+      {
+        "word": "见证",
+        "pinyin": "jiàn zhèng",
+        "startTime": 435.681,
+        "endTime": 435.925,
+        "gloss": "witness"
+      }
+    ],
+    "fullTextEN": "Witness."
+  },
+  {
+    "startTime": 437.433,
+    "endTime": 440.233,
+    "fullTextZH": "我们的共同的好朋友",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 437.574,
+        "endTime": 437.876,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 437.876,
+        "endTime": 438.078,
+        "gloss": "of"
+      },
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 438.078,
+        "endTime": 438.46,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 438.46,
+        "endTime": 438.561,
+        "gloss": "of"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 438.561,
+        "endTime": 438.621,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 438.621,
+        "endTime": 438.863,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "Our mutual good friend."
+  },
+  {
+    "startTime": 441.066,
+    "endTime": 442.8,
+    "fullTextZH": "芒果和香山",
+    "words": [
+      {
+        "word": "芒果",
+        "pinyin": "máng guǒ",
+        "startTime": 441.147,
+        "endTime": 442.195,
+        "gloss": "mango"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 442.195,
+        "endTime": 442.356,
+        "gloss": "and"
+      },
+      {
+        "word": "香山",
+        "pinyin": "xiāng shān",
+        "startTime": 442.356,
+        "endTime": 442.639,
+        "gloss": "Xiangshan"
+      }
+    ],
+    "fullTextEN": "Mango and Xiangshan."
+  },
+  {
+    "startTime": 443.633,
+    "endTime": 446.733,
+    "fullTextZH": "结束他们维持五年的婚姻，",
+    "words": [
+      {
+        "word": "结束",
+        "pinyin": "jié shù",
+        "startTime": 443.633,
+        "endTime": 443.714,
+        "gloss": "end"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 443.714,
+        "endTime": 444.156,
+        "gloss": "they"
+      },
+      {
+        "word": "维持",
+        "pinyin": "wéi chí",
+        "startTime": 444.156,
+        "endTime": 444.74,
+        "gloss": "maintain"
+      },
+      {
+        "word": "五年",
+        "pinyin": "wǔ nián",
+        "startTime": 444.74,
+        "endTime": 445.465,
+        "gloss": "five years"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 445.465,
+        "endTime": 446.391,
+        "gloss": "of"
+      },
+      {
+        "word": "婚姻",
+        "pinyin": "hūn yīn",
+        "startTime": 446.391,
+        "endTime": 446.713,
+        "gloss": "marriage"
+      }
+    ],
+    "fullTextEN": "End their five-year marriage,"
+  },
+  {
+    "startTime": 447.1,
+    "endTime": 450.066,
+    "fullTextZH": "从夫妻变回熟人。",
+    "words": [
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 447.2,
+        "endTime": 447.561,
+        "gloss": "from"
+      },
+      {
+        "word": "夫妻",
+        "pinyin": "fū qī",
+        "startTime": 447.561,
+        "endTime": 448.262,
+        "gloss": "spouses"
+      },
+      {
+        "word": "变",
+        "pinyin": "biàn",
+        "startTime": 448.262,
+        "endTime": 448.423,
+        "gloss": "change"
+      },
+      {
+        "word": "回",
+        "pinyin": "huí",
+        "startTime": 448.423,
+        "endTime": 448.643,
+        "gloss": "back"
+      },
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 448.643,
+        "endTime": 449.465,
+        "gloss": "acquaintances"
+      }
+    ],
+    "fullTextEN": "From spouses back to acquaintances."
+  },
+  {
+    "startTime": 453.433,
+    "endTime": 455.8,
+    "fullTextZH": "请你们对钱发誓，",
+    "words": [
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 453.694,
+        "endTime": 453.794,
+        "gloss": "please"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 453.794,
+        "endTime": 454.215,
+        "gloss": "you"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 454.215,
+        "endTime": 454.416,
+        "gloss": "on"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 454.416,
+        "endTime": 455.098,
+        "gloss": "money"
+      },
+      {
+        "word": "发誓",
+        "pinyin": "fā shì",
+        "startTime": 455.098,
+        "endTime": 455.76,
+        "gloss": "swear"
+      }
+    ],
+    "fullTextEN": "Please swear on money,"
+  },
+  {
+    "startTime": 456.133,
+    "endTime": 458.033,
+    "fullTextZH": "以下你们做出的承诺",
+    "words": [
+      {
+        "word": "以下",
+        "pinyin": "yǐ xià",
+        "startTime": 456.133,
+        "endTime": 456.194,
+        "gloss": "following"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 456.194,
+        "endTime": 456.315,
+        "gloss": "you"
+      },
+      {
+        "word": "做出",
+        "pinyin": "zuò chū",
+        "startTime": 456.315,
+        "endTime": 457.548,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 457.548,
+        "endTime": 457.609,
+        "gloss": "of"
+      },
+      {
+        "word": "承诺",
+        "pinyin": "chéng nuò",
+        "startTime": 457.609,
+        "endTime": 457.851,
+        "gloss": "promise"
+      }
+    ],
+    "fullTextEN": "The following promises you make"
+  },
+  {
+    "startTime": 458.633,
+    "endTime": 460.033,
+    "fullTextZH": "是诚实可信、",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 458.633,
+        "endTime": 458.876,
+        "gloss": "are"
+      },
+      {
+        "word": "诚实",
+        "pinyin": "chéng shí",
+        "startTime": 458.876,
+        "endTime": 459.445,
+        "gloss": "honest"
+      },
+      {
+        "word": "可信",
+        "pinyin": "kě xìn",
+        "startTime": 459.445,
+        "endTime": 460.013,
+        "gloss": "trustworthy"
+      }
+    ],
+    "fullTextEN": "are honest and trustworthy,"
+  },
+  {
+    "startTime": 460.333,
+    "endTime": 461.566,
+    "fullTextZH": "深思熟虑、",
+    "words": [
+      {
+        "word": "深思熟虑",
+        "pinyin": "shēn sī shú lǜ",
+        "startTime": 460.353,
+        "endTime": 460.96,
+        "gloss": "thoughtful"
+      }
+    ],
+    "fullTextEN": "thoughtful,"
+  },
+  {
+    "startTime": 461.8,
+    "endTime": 464.066,
+    "fullTextZH": "义无反顾的。",
+    "words": [
+      {
+        "word": "义无反顾",
+        "pinyin": "yì wú fǎn gù",
+        "startTime": 463.745,
+        "endTime": 464.026,
+        "gloss": "unwavering"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 464.026,
+        "endTime": 464.046,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "and unwavering."
+  },
+  {
+    "startTime": 464.1,
+    "endTime": 465.333,
+    "fullTextZH": "芒果，",
+    "words": [
+      {
+        "word": "芒果",
+        "pinyin": "máng guǒ",
+        "startTime": 464.181,
+        "endTime": 465.293,
+        "gloss": "mango"
+      }
+    ],
+    "fullTextEN": "Mango,"
+  },
+  {
+    "startTime": 466.966,
+    "endTime": 468.733,
+    "fullTextZH": "你诚实地回答我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 466.986,
+        "endTime": 467.107,
+        "gloss": "you"
+      },
+      {
+        "word": "诚实",
+        "pinyin": "chéng shí",
+        "startTime": 467.107,
+        "endTime": 467.287,
+        "gloss": "honestly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 467.287,
+        "endTime": 467.448,
+        "gloss": "ly"
+      },
+      {
+        "word": "回答",
+        "pinyin": "huí dá",
+        "startTime": 467.448,
+        "endTime": 467.709,
+        "gloss": "answer"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 467.709,
+        "endTime": 468.693,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Answer me honestly,"
+  },
+  {
+    "startTime": 470.4,
+    "endTime": 471.266,
+    "fullTextZH": "把手放上。",
+    "words": [
+      {
+        "word": "把手",
+        "pinyin": "bǎ shǒu",
+        "startTime": 470.702,
+        "endTime": 470.883,
+        "gloss": "hand"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 470.883,
+        "endTime": 471.125,
+        "gloss": "put"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 471.125,
+        "endTime": 471.226,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Put your hand up."
+  },
+  {
+    "startTime": 473.6,
+    "endTime": 474.7,
+    "fullTextZH": "从今往后，",
+    "words": [
+      {
+        "word": "从今往后",
+        "pinyin": "cóng jīn wǎng hòu",
+        "startTime": 473.681,
+        "endTime": 474.456,
+        "gloss": "from now on"
+      }
+    ],
+    "fullTextEN": "From now on,"
+  },
+  {
+    "startTime": 475.4,
+    "endTime": 476.533,
+    "fullTextZH": "不论香山",
+    "words": [
+      {
+        "word": "不论",
+        "pinyin": "bù lùn",
+        "startTime": 476.027,
+        "endTime": 476.351,
+        "gloss": "no matter"
+      },
+      {
+        "word": "香山",
+        "pinyin": "xiāng shān",
+        "startTime": 476.351,
+        "endTime": 476.513,
+        "gloss": "Xiangshan"
+      }
+    ],
+    "fullTextEN": "No matter how rich Xiangshan is,"
+  },
+  {
+    "startTime": 477.2,
+    "endTime": 478.266,
+    "fullTextZH": "多么富有，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 477.24,
+        "endTime": 477.321,
+        "gloss": "how"
+      },
+      {
+        "word": "富有",
+        "pinyin": "fù yǒu",
+        "startTime": 477.321,
+        "endTime": 477.522,
+        "gloss": "wealthy"
+      }
+    ],
+    "fullTextEN": "how wealthy,"
+  },
+  {
+    "startTime": 479.166,
+    "endTime": 480.233,
+    "fullTextZH": "多么健康，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 479.689,
+        "endTime": 479.931,
+        "gloss": "how"
+      },
+      {
+        "word": "健康",
+        "pinyin": "jiàn kāng",
+        "startTime": 479.931,
+        "endTime": 480.213,
+        "gloss": "healthy"
+      }
+    ],
+    "fullTextEN": "how healthy,"
+  },
+  {
+    "startTime": 480.6,
+    "endTime": 481.733,
+    "fullTextZH": "多么爱你，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 481.51,
+        "endTime": 481.571,
+        "gloss": "how"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 481.571,
+        "endTime": 481.693,
+        "gloss": "love"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 481.693,
+        "endTime": 481.713,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "how much he loves you,"
+  },
+  {
+    "startTime": 482.8,
+    "endTime": 485.633,
+    "fullTextZH": "你都不愿意和他在一起吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 484.247,
+        "endTime": 484.669,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 484.669,
+        "endTime": 484.689,
+        "gloss": "still"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 484.689,
+        "endTime": 484.709,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 484.709,
+        "endTime": 485.171,
+        "gloss": "willing"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 485.171,
+        "endTime": 485.291,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 485.291,
+        "endTime": 485.312,
+        "gloss": "him"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 485.312,
+        "endTime": 485.392,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 485.392,
+        "endTime": 485.593,
+        "gloss": "together"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 485.593,
+        "endTime": 485.613,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "are you still unwilling to be with him?"
+  },
+  {
+    "startTime": 486.6,
+    "endTime": 487.5,
+    "fullTextZH": "不愿意。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 486.661,
+        "endTime": 487.152,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 487.152,
+        "endTime": 487.48,
+        "gloss": "willing"
+      }
+    ],
+    "fullTextEN": "Unwilling."
+  },
+  {
+    "startTime": 488.366,
+    "endTime": 489.166,
+    "fullTextZH": "香山，",
+    "words": [
+      {
+        "word": "香山",
+        "pinyin": "xiāng shān",
+        "startTime": 488.366,
+        "endTime": 489.125,
+        "gloss": "Fragrant Hill"
+      }
+    ],
+    "fullTextEN": "Fragrant Hill,"
+  },
+  {
+    "startTime": 490.966,
+    "endTime": 492.966,
+    "fullTextZH": "你诚实地回答我，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 491.027,
+        "endTime": 491.208,
+        "gloss": "you"
+      },
+      {
+        "word": "诚实",
+        "pinyin": "chéng shí",
+        "startTime": 491.208,
+        "endTime": 491.451,
+        "gloss": "honest"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 491.451,
+        "endTime": 491.713,
+        "gloss": "particle"
+      },
+      {
+        "word": "回答",
+        "pinyin": "huí dá",
+        "startTime": 491.713,
+        "endTime": 492.764,
+        "gloss": "answer"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 492.764,
+        "endTime": 492.926,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Answer me honestly,"
+  },
+  {
+    "startTime": 494.166,
+    "endTime": 495.233,
+    "fullTextZH": "从今往后，",
+    "words": [
+      {
+        "word": "从今往后",
+        "pinyin": "cóng jīn wǎng hòu",
+        "startTime": 494.166,
+        "endTime": 494.428,
+        "gloss": "from now on"
+      }
+    ],
+    "fullTextEN": "From now on,"
+  },
+  {
+    "startTime": 496.0,
+    "endTime": 497.1,
+    "fullTextZH": "无论芒果",
+    "words": [
+      {
+        "word": "无论",
+        "pinyin": "wú lùn",
+        "startTime": 496.041,
+        "endTime": 496.346,
+        "gloss": "no matter"
+      },
+      {
+        "word": "芒果",
+        "pinyin": "máng guǒ",
+        "startTime": 496.346,
+        "endTime": 497.039,
+        "gloss": "mango"
+      }
+    ],
+    "fullTextEN": "No matter the mango"
+  },
+  {
+    "startTime": 497.7,
+    "endTime": 498.966,
+    "fullTextZH": "多么漂亮，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 497.76,
+        "endTime": 497.901,
+        "gloss": "how"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 497.901,
+        "endTime": 498.283,
+        "gloss": "beautiful"
+      }
+    ],
+    "fullTextEN": "How beautiful,"
+  },
+  {
+    "startTime": 499.4,
+    "endTime": 500.433,
+    "fullTextZH": "多么动人，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 500.028,
+        "endTime": 500.17,
+        "gloss": "how"
+      },
+      {
+        "word": "动人",
+        "pinyin": "dòng rén",
+        "startTime": 500.17,
+        "endTime": 500.413,
+        "gloss": "moving"
+      }
+    ],
+    "fullTextEN": "How moving,"
+  },
+  {
+    "startTime": 500.766,
+    "endTime": 501.9,
+    "fullTextZH": "多么爱你，",
+    "words": [
+      {
+        "word": "多么",
+        "pinyin": "duō me",
+        "startTime": 500.867,
+        "endTime": 501.556,
+        "gloss": "how"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 501.556,
+        "endTime": 501.859,
+        "gloss": "love"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 501.859,
+        "endTime": 501.88,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "How much I love you,"
+  },
+  {
+    "startTime": 503.066,
+    "endTime": 505.766,
+    "fullTextZH": "你都不愿意和她在一起吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 503.872,
+        "endTime": 503.993,
+        "gloss": "you"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 503.993,
+        "endTime": 504.073,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 504.073,
+        "endTime": 504.114,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 504.114,
+        "endTime": 504.476,
+        "gloss": "willing"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 504.476,
+        "endTime": 504.718,
+        "gloss": "with"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 504.718,
+        "endTime": 504.9,
+        "gloss": "her"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 504.9,
+        "endTime": 505.182,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 505.182,
+        "endTime": 505.625,
+        "gloss": "together"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 505.625,
+        "endTime": 505.726,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Are you unwilling to be with her?"
+  },
+  {
+    "startTime": 506.8,
+    "endTime": 507.6,
+    "fullTextZH": "不愿意。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 506.985,
+        "endTime": 507.087,
+        "gloss": "not"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 507.087,
+        "endTime": 507.559,
+        "gloss": "willing"
+      }
+    ],
+    "fullTextEN": "Unwilling."
+  },
+  {
+    "startTime": 510.566,
+    "endTime": 513.7,
+    "fullTextZH": "下面，请二位互相交回戒指。",
+    "words": [
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 510.646,
+        "endTime": 511.972,
+        "gloss": "next"
+      },
+      {
+        "word": "请",
+        "pinyin": "qǐng",
+        "startTime": 512.053,
+        "endTime": 512.073,
+        "gloss": "please"
+      },
+      {
+        "word": "二位",
+        "pinyin": "èr wèi",
+        "startTime": 512.073,
+        "endTime": 512.334,
+        "gloss": "two people"
+      },
+      {
+        "word": "互相",
+        "pinyin": "hù xiāng",
+        "startTime": 512.334,
+        "endTime": 513.117,
+        "gloss": "mutually"
+      },
+      {
+        "word": "交回",
+        "pinyin": "jiāo huí",
+        "startTime": 513.117,
+        "endTime": 513.158,
+        "gloss": "exchange"
+      },
+      {
+        "word": "戒指",
+        "pinyin": "jiè zhǐ",
+        "startTime": 513.158,
+        "endTime": 513.68,
+        "gloss": "rings"
+      }
+    ],
+    "fullTextEN": "Next, please exchange rings."
+  },
+  {
+    "startTime": 520.666,
+    "endTime": 522.1,
+    "fullTextZH": "我替你们挖坑埋了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 520.767,
+        "endTime": 520.888,
+        "gloss": "I"
+      },
+      {
+        "word": "替",
+        "pinyin": "tì",
+        "startTime": 520.888,
+        "endTime": 520.908,
+        "gloss": "for"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 520.908,
+        "endTime": 521.03,
+        "gloss": "you"
+      },
+      {
+        "word": "挖坑",
+        "pinyin": "wā kēng",
+        "startTime": 521.03,
+        "endTime": 521.232,
+        "gloss": "dig hole"
+      },
+      {
+        "word": "埋",
+        "pinyin": "mái",
+        "startTime": 521.232,
+        "endTime": 521.333,
+        "gloss": "bury"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 521.333,
+        "endTime": 522.06,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "I dug a hole and buried it for you."
+  },
+  {
+    "startTime": 525.5,
+    "endTime": 528.033,
+    "fullTextZH": "要最后一吻吗？",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 526.968,
+        "endTime": 527.209,
+        "gloss": "want"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 527.209,
+        "endTime": 527.571,
+        "gloss": "last"
+      },
+      {
+        "word": "一吻",
+        "pinyin": "yī wěn",
+        "startTime": 527.571,
+        "endTime": 527.932,
+        "gloss": "kiss"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 527.932,
+        "endTime": 527.993,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you want a last kiss?"
+  },
+  {
+    "startTime": 528.033,
+    "endTime": 528.833,
+    "fullTextZH": "要！",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 528.095,
+        "endTime": 528.792,
+        "gloss": "want"
+      }
+    ],
+    "fullTextEN": "Yes!"
+  },
+  {
+    "startTime": 530.7,
+    "endTime": 531.533,
+    "fullTextZH": "不必了吧。",
+    "words": [
+      {
+        "word": "不必",
+        "pinyin": "bù bì",
+        "startTime": 530.7,
+        "endTime": 530.842,
+        "gloss": "no need"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 530.842,
+        "endTime": 531.045,
+        "gloss": "particle"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 531.045,
+        "endTime": 531.492,
+        "gloss": "suggestion"
+      }
+    ],
+    "fullTextEN": "No need."
+  },
+  {
+    "startTime": 531.833,
+    "endTime": 532.966,
+    "fullTextZH": "那就不必了吧。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 531.894,
+        "endTime": 531.914,
+        "gloss": "then"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 531.914,
+        "endTime": 532.399,
+        "gloss": "just"
+      },
+      {
+        "word": "不必",
+        "pinyin": "bù bì",
+        "startTime": 532.399,
+        "endTime": 532.44,
+        "gloss": "no need"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 532.44,
+        "endTime": 532.683,
+        "gloss": "particle"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 532.683,
+        "endTime": 532.926,
+        "gloss": "suggestion"
+      }
+    ],
+    "fullTextEN": "Then no need."
+  },
+  {
+    "startTime": 533.666,
+    "endTime": 534.766,
+    "fullTextZH": "他们说不必了。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 533.686,
+        "endTime": 533.727,
+        "gloss": "they"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 533.727,
+        "endTime": 533.747,
+        "gloss": "say"
+      },
+      {
+        "word": "不必",
+        "pinyin": "bù bì",
+        "startTime": 533.747,
+        "endTime": 533.951,
+        "gloss": "no need"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 533.951,
+        "endTime": 534.725,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "They said no need."
+  },
+  {
+    "startTime": 537.033,
+    "endTime": 537.833,
+    "fullTextZH": "下面，",
+    "words": [
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 537.033,
+        "endTime": 537.792,
+        "gloss": "next"
+      }
+    ],
+    "fullTextEN": "Next,"
+  },
+  {
+    "startTime": 538.666,
+    "endTime": 540.166,
+    "fullTextZH": "剪喜字。",
+    "words": [
+      {
+        "word": "剪",
+        "pinyin": "jiǎn",
+        "startTime": 539.031,
+        "endTime": 539.254,
+        "gloss": "cut"
+      },
+      {
+        "word": "喜字",
+        "pinyin": "xǐ zì",
+        "startTime": 539.254,
+        "endTime": 540.146,
+        "gloss": "happiness character"
+      }
+    ],
+    "fullTextEN": "Cut the happiness character."
+  },
+  {
+    "startTime": 552.566,
+    "endTime": 554.966,
+    "fullTextZH": "那就像熟人一样，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 553.615,
+        "endTime": 553.756,
+        "gloss": "then"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 553.756,
+        "endTime": 553.917,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 553.917,
+        "endTime": 553.958,
+        "gloss": "like"
+      },
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 553.958,
+        "endTime": 554.099,
+        "gloss": "acquaintances"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 554.099,
+        "endTime": 554.926,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "Then like acquaintances,"
+  },
+  {
+    "startTime": 555.333,
+    "endTime": 556.533,
+    "fullTextZH": "握个手吧。",
+    "words": [
+      {
+        "word": "握个",
+        "pinyin": "wò gè",
+        "startTime": 555.394,
+        "endTime": 555.862,
+        "gloss": "shake"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 555.862,
+        "endTime": 556.086,
+        "gloss": "hand"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 556.086,
+        "endTime": 556.492,
+        "gloss": "let's"
+      }
+    ],
+    "fullTextEN": "Let's shake hands."
+  },
+  {
+    "startTime": 560.433,
+    "endTime": 561.233,
+    "fullTextZH": "去呀，",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 560.577,
+        "endTime": 561.192,
+        "gloss": "go"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 561.192,
+        "endTime": 561.212,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Go on,"
+  },
+  {
+    "startTime": 562.066,
+    "endTime": 563.3,
+    "fullTextZH": "去呀，去呀。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 562.086,
+        "endTime": 562.248,
+        "gloss": "go"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 562.248,
+        "endTime": 562.268,
+        "gloss": "on"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 562.491,
+        "endTime": 562.895,
+        "gloss": "go"
+      },
+      {
+        "word": "呀",
+        "pinyin": "ya",
+        "startTime": 562.895,
+        "endTime": 563.26,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Go on, go on."
+  },
+  {
+    "startTime": 565.166,
+    "endTime": 568.3,
+    "fullTextZH": "再像熟人一样拥个抱吧。",
+    "words": [
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 565.528,
+        "endTime": 565.548,
+        "gloss": "again"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 565.548,
+        "endTime": 566.391,
+        "gloss": "like"
+      },
+      {
+        "word": "熟人",
+        "pinyin": "shú rén",
+        "startTime": 566.391,
+        "endTime": 567.095,
+        "gloss": "old friends"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 567.095,
+        "endTime": 567.476,
+        "gloss": "like"
+      },
+      {
+        "word": "拥个",
+        "pinyin": "yōng gè",
+        "startTime": 567.476,
+        "endTime": 567.657,
+        "gloss": "hug"
+      },
+      {
+        "word": "抱",
+        "pinyin": "bào",
+        "startTime": 567.657,
+        "endTime": 568.179,
+        "gloss": "embrace"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 568.179,
+        "endTime": 568.26,
+        "gloss": "let's"
+      }
+    ],
+    "fullTextEN": "Let's hug like old friends."
+  },
+  {
+    "startTime": 569.433,
+    "endTime": 570.333,
+    "fullTextZH": "抱吧。",
+    "words": [
+      {
+        "word": "抱",
+        "pinyin": "bào",
+        "startTime": 569.903,
+        "endTime": 569.924,
+        "gloss": "hug"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 569.924,
+        "endTime": 570.292,
+        "gloss": "let's"
+      }
+    ],
+    "fullTextEN": "Let's hug."
+  },
+  {
+    "startTime": 575.133,
+    "endTime": 577.1,
+    "fullTextZH": "离了也是好朋友。",
+    "words": [
+      {
+        "word": "离",
+        "pinyin": "lí",
+        "startTime": 575.394,
+        "endTime": 575.615,
+        "gloss": "apart"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 575.615,
+        "endTime": 575.755,
+        "gloss": "le"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 575.755,
+        "endTime": 575.956,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 575.956,
+        "endTime": 576.197,
+        "gloss": "are"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 576.197,
+        "endTime": 576.498,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 576.498,
+        "endTime": 577.06,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "Even apart, we are good friends."
+  },
+  {
+    "startTime": 577.933,
+    "endTime": 580.9,
+    "fullTextZH": "散买卖不散交情。",
+    "words": [
+      {
+        "word": "散",
+        "pinyin": "sàn",
+        "startTime": 578.214,
+        "endTime": 578.795,
+        "gloss": "end"
+      },
+      {
+        "word": "买卖",
+        "pinyin": "mǎi mài",
+        "startTime": 578.795,
+        "endTime": 578.935,
+        "gloss": "business"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 578.935,
+        "endTime": 579.176,
+        "gloss": "not"
+      },
+      {
+        "word": "散",
+        "pinyin": "sàn",
+        "startTime": 579.176,
+        "endTime": 579.717,
+        "gloss": "end"
+      },
+      {
+        "word": "交情",
+        "pinyin": "jiāo qíng",
+        "startTime": 579.717,
+        "endTime": 580.86,
+        "gloss": "friendship"
+      }
+    ],
+    "fullTextEN": "End the business but not the friendship."
+  },
+  {
+    "startTime": 596.3,
+    "endTime": 598.6,
+    "fullTextZH": "二位倒香槟。",
+    "words": [
+      {
+        "word": "二位",
+        "pinyin": "èr wèi",
+        "startTime": 596.825,
+        "endTime": 597.49,
+        "gloss": "you two"
+      },
+      {
+        "word": "倒",
+        "pinyin": "dào",
+        "startTime": 597.49,
+        "endTime": 597.833,
+        "gloss": "pour"
+      },
+      {
+        "word": "香槟",
+        "pinyin": "xiāng bīn",
+        "startTime": 597.833,
+        "endTime": 598.56,
+        "gloss": "champagne"
+      }
+    ],
+    "fullTextEN": "You two pour the champagne."
+  },
+  {
+    "startTime": 601.666,
+    "endTime": 605.366,
+    "fullTextZH": "你喜欢这个电影吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 601.686,
+        "endTime": 602.048,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 602.048,
+        "endTime": 602.49,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 602.49,
+        "endTime": 603.214,
+        "gloss": "this"
+      },
+      {
+        "word": "电影",
+        "pinyin": "diàn yǐng",
+        "startTime": 603.214,
+        "endTime": 603.617,
+        "gloss": "movie"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 603.617,
+        "endTime": 603.918,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like this movie?"
+  },
+  {
+    "startTime": 605.633,
+    "endTime": 607.766,
+    "fullTextZH": "如果你喜欢，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 605.895,
+        "endTime": 606.539,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 606.539,
+        "endTime": 606.599,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 606.599,
+        "endTime": 607.726,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "If you like it,"
+  },
+  {
+    "startTime": 608.1,
+    "endTime": 612.066,
+    "fullTextZH": "你可以在 YouTube 上看。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 608.1,
+        "endTime": 608.2,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 608.2,
+        "endTime": 608.34,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 608.34,
+        "endTime": 608.701,
+        "gloss": "on"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 610.484,
+        "endTime": 610.544,
+        "gloss": "up"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 610.544,
+        "endTime": 610.864,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "You can watch it on YouTube."
+  },
+  {
+    "startTime": 613.033,
+    "endTime": 616.933,
+    "fullTextZH": "我把链接放在 description。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 613.113,
+        "endTime": 613.134,
+        "gloss": "I"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 613.134,
+        "endTime": 613.435,
+        "gloss": "ba"
+      },
+      {
+        "word": "链接",
+        "pinyin": "liàn jiē",
+        "startTime": 613.435,
+        "endTime": 613.717,
+        "gloss": "link"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 613.717,
+        "endTime": 613.877,
+        "gloss": "put in"
+      }
+    ],
+    "fullTextEN": "I put the link in the description."
+  },
+  {
+    "startTime": 616.966,
+    "endTime": 620.6,
+    "fullTextZH": "好，那我们下次见，拜拜。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 617.026,
+        "endTime": 617.448,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 617.99,
+        "endTime": 618.452,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 618.452,
+        "endTime": 618.753,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 618.753,
+        "endTime": 618.793,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 618.793,
+        "endTime": 619.014,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 619.315,
+        "endTime": 620.56,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time, bye."
+  }
+]

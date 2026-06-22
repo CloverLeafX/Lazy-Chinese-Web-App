@@ -1,0 +1,2252 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 2.566,
+    "fullTextZH": "还有一种树，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 0.02,
+        "endTime": 0.541,
+        "gloss": "also"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 0.541,
+        "endTime": 1.143,
+        "gloss": "one kind"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 1.143,
+        "endTime": 2.526,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "There is another kind of tree,"
+  },
+  {
+    "startTime": 2.566,
+    "endTime": 5.166,
+    "fullTextZH": "白天的时候笑，",
+    "words": [
+      {
+        "word": "白天",
+        "pinyin": "bái tiān",
+        "startTime": 2.687,
+        "endTime": 3.775,
+        "gloss": "daytime"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 3.775,
+        "endTime": 3.977,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 3.977,
+        "endTime": 4.743,
+        "gloss": "time"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 4.743,
+        "endTime": 5.126,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "that laughs during the day,"
+  },
+  {
+    "startTime": 6.2,
+    "endTime": 8.633,
+    "fullTextZH": "晚上的时候哭。",
+    "words": [
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 6.341,
+        "endTime": 7.406,
+        "gloss": "night"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 7.406,
+        "endTime": 7.628,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 7.628,
+        "endTime": 8.311,
+        "gloss": "time"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 8.311,
+        "endTime": 8.593,
+        "gloss": "cry"
+      }
+    ],
+    "fullTextEN": "and cries at night."
+  },
+  {
+    "startTime": 9.933,
+    "endTime": 10.733,
+    "fullTextZH": "你好，",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 10.015,
+        "endTime": 10.712,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 10.766,
+    "endTime": 12.433,
+    "fullTextZH": "我是西卡，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 10.947,
+        "endTime": 11.168,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 11.168,
+        "endTime": 11.509,
+        "gloss": "am"
+      },
+      {
+        "word": "西卡",
+        "pinyin": "xī kǎ",
+        "startTime": 11.509,
+        "endTime": 12.393,
+        "gloss": "Xika"
+      }
+    ],
+    "fullTextEN": "I am Xika,"
+  },
+  {
+    "startTime": 12.466,
+    "endTime": 14.766,
+    "fullTextZH": "我是台湾人，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 12.688,
+        "endTime": 12.991,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 12.991,
+        "endTime": 13.354,
+        "gloss": "am"
+      },
+      {
+        "word": "台湾人",
+        "pinyin": "tái wān rén",
+        "startTime": 13.354,
+        "endTime": 14.726,
+        "gloss": "Taiwanese"
+      }
+    ],
+    "fullTextEN": "I am Taiwanese,"
+  },
+  {
+    "startTime": 14.833,
+    "endTime": 16.9,
+    "fullTextZH": "我住在英国。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 15.014,
+        "endTime": 15.515,
+        "gloss": "I"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 15.515,
+        "endTime": 15.776,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 15.776,
+        "endTime": 16.198,
+        "gloss": "in"
+      },
+      {
+        "word": "英国",
+        "pinyin": "yīng guó",
+        "startTime": 16.198,
+        "endTime": 16.86,
+        "gloss": "UK"
+      }
+    ],
+    "fullTextEN": "I live in the UK."
+  },
+  {
+    "startTime": 18.166,
+    "endTime": 24.233,
+    "fullTextZH": "今天我要介绍一种会笑的树。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 18.166,
+        "endTime": 19.287,
+        "gloss": "today"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 19.287,
+        "endTime": 19.768,
+        "gloss": "I want"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 19.768,
+        "endTime": 20.709,
+        "gloss": "introduce"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 20.709,
+        "endTime": 21.69,
+        "gloss": "one kind"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 21.69,
+        "endTime": 22.171,
+        "gloss": "can"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 22.171,
+        "endTime": 22.831,
+        "gloss": "laugh"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 22.831,
+        "endTime": 23.032,
+        "gloss": "of"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 23.032,
+        "endTime": 24.193,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "Today I want to introduce a tree that laughs."
+  },
+  {
+    "startTime": 24.266,
+    "endTime": 25.533,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 24.387,
+        "endTime": 25.493,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 25.6,
+    "endTime": 28.066,
+    "fullTextZH": "树怎么会笑呢？",
+    "words": [
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 25.64,
+        "endTime": 26.402,
+        "gloss": "tree"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 26.402,
+        "endTime": 26.803,
+        "gloss": "how"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 26.803,
+        "endTime": 27.244,
+        "gloss": "can"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 27.244,
+        "endTime": 27.585,
+        "gloss": "laugh"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 27.585,
+        "endTime": 28.026,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "How can a tree laugh?"
+  },
+  {
+    "startTime": 29.366,
+    "endTime": 34.6,
+    "fullTextZH": "通常树是安静不动的，",
+    "words": [
+      {
+        "word": "通常",
+        "pinyin": "tōng cháng",
+        "startTime": 29.386,
+        "endTime": 30.83,
+        "gloss": "usually"
+      },
+      {
+        "word": "树是",
+        "pinyin": "shù shì",
+        "startTime": 30.83,
+        "endTime": 31.913,
+        "gloss": "trees are"
+      },
+      {
+        "word": "安静",
+        "pinyin": "ān jìng",
+        "startTime": 31.913,
+        "endTime": 33.557,
+        "gloss": "quiet"
+      },
+      {
+        "word": "不动",
+        "pinyin": "bù dòng",
+        "startTime": 33.557,
+        "endTime": 34.199,
+        "gloss": "still"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.199,
+        "endTime": 34.58,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Usually trees are quiet and still,"
+  },
+  {
+    "startTime": 36.466,
+    "endTime": 41.266,
+    "fullTextZH": "可是在非洲有一种树，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 36.526,
+        "endTime": 37.47,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 37.47,
+        "endTime": 38.033,
+        "gloss": "in"
+      },
+      {
+        "word": "非洲",
+        "pinyin": "fēi zhōu",
+        "startTime": 38.033,
+        "endTime": 39.298,
+        "gloss": "Africa"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 39.298,
+        "endTime": 39.539,
+        "gloss": "there is"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 39.539,
+        "endTime": 40.101,
+        "gloss": "one kind"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 40.101,
+        "endTime": 41.226,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "but in Africa, there is a kind of tree,"
+  },
+  {
+    "startTime": 41.333,
+    "endTime": 46.533,
+    "fullTextZH": "它会发出哈哈哈的声音，",
+    "words": [
+      {
+        "word": "它会",
+        "pinyin": "tā huì",
+        "startTime": 41.373,
+        "endTime": 42.317,
+        "gloss": "it can"
+      },
+      {
+        "word": "发出",
+        "pinyin": "fā chū",
+        "startTime": 42.317,
+        "endTime": 43.301,
+        "gloss": "make"
+      },
+      {
+        "word": "哈哈哈",
+        "pinyin": "hā hā hā",
+        "startTime": 43.301,
+        "endTime": 44.666,
+        "gloss": "ha ha ha"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 44.666,
+        "endTime": 44.927,
+        "gloss": "of"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 44.927,
+        "endTime": 46.493,
+        "gloss": "sound"
+      }
+    ],
+    "fullTextEN": "that makes a 'ha ha ha' sound,"
+  },
+  {
+    "startTime": 46.566,
+    "endTime": 51.0,
+    "fullTextZH": "所以大家叫它笑树。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 46.646,
+        "endTime": 47.509,
+        "gloss": "so"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 47.509,
+        "endTime": 48.713,
+        "gloss": "everyone"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 48.713,
+        "endTime": 49.134,
+        "gloss": "call"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 49.134,
+        "endTime": 50.077,
+        "gloss": "it"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 50.077,
+        "endTime": 50.619,
+        "gloss": "laughing"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 50.619,
+        "endTime": 50.96,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "so everyone calls it the laughing tree."
+  },
+  {
+    "startTime": 52.0,
+    "endTime": 55.6,
+    "fullTextZH": "笑树长得很高，",
+    "words": [
+      {
+        "word": "笑树长",
+        "pinyin": "xiào shù zhǎng",
+        "startTime": 52.06,
+        "endTime": 53.669,
+        "gloss": "laughing tree grows"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 53.669,
+        "endTime": 54.072,
+        "gloss": "particle"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.072,
+        "endTime": 54.594,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 54.594,
+        "endTime": 55.56,
+        "gloss": "tall"
+      }
+    ],
+    "fullTextEN": "The laughing tree grows very tall,"
+  },
+  {
+    "startTime": 55.633,
+    "endTime": 60.633,
+    "fullTextZH": "它可以长到 7 公尺高，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 55.693,
+        "endTime": 55.994,
+        "gloss": "it"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 55.994,
+        "endTime": 56.597,
+        "gloss": "can"
+      },
+      {
+        "word": "长到",
+        "pinyin": "zhǎng dào",
+        "startTime": 56.597,
+        "endTime": 57.942,
+        "gloss": "grow to"
+      },
+      {
+        "word": "公尺",
+        "pinyin": "gōng chǐ",
+        "startTime": 58.324,
+        "endTime": 59.308,
+        "gloss": "meters"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 59.308,
+        "endTime": 60.593,
+        "gloss": "tall"
+      }
+    ],
+    "fullTextEN": "it can grow up to 7 meters tall,"
+  },
+  {
+    "startTime": 60.7,
+    "endTime": 64.266,
+    "fullTextZH": "像三层楼的房子。",
+    "words": [
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 60.72,
+        "endTime": 61.581,
+        "gloss": "like"
+      },
+      {
+        "word": "三层楼",
+        "pinyin": "sān céng lóu",
+        "startTime": 61.581,
+        "endTime": 63.104,
+        "gloss": "three-story"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 63.104,
+        "endTime": 63.445,
+        "gloss": "of"
+      },
+      {
+        "word": "房子",
+        "pinyin": "fáng zi",
+        "startTime": 63.445,
+        "endTime": 64.226,
+        "gloss": "building"
+      }
+    ],
+    "fullTextEN": "like a three-story building."
+  },
+  {
+    "startTime": 65.7,
+    "endTime": 69.9,
+    "fullTextZH": "它的树干就是树的身体，",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 65.72,
+        "endTime": 66.001,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 66.001,
+        "endTime": 66.665,
+        "gloss": "of"
+      },
+      {
+        "word": "树干",
+        "pinyin": "shù gàn",
+        "startTime": 66.665,
+        "endTime": 67.81,
+        "gloss": "trunk"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 67.81,
+        "endTime": 68.433,
+        "gloss": "is"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 68.433,
+        "endTime": 68.734,
+        "gloss": "tree"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 68.734,
+        "endTime": 69.156,
+        "gloss": "of"
+      },
+      {
+        "word": "身体",
+        "pinyin": "shēn tǐ",
+        "startTime": 69.156,
+        "endTime": 69.86,
+        "gloss": "body"
+      }
+    ],
+    "fullTextEN": "Its trunk is the body of the tree,"
+  },
+  {
+    "startTime": 71.1,
+    "endTime": 73.133,
+    "fullTextZH": "直直的，",
+    "words": [
+      {
+        "word": "直直的",
+        "pinyin": "zhí zhí de",
+        "startTime": 71.181,
+        "endTime": 73.093,
+        "gloss": "straight"
+      }
+    ],
+    "fullTextEN": "straight,"
+  },
+  {
+    "startTime": 73.166,
+    "endTime": 74.733,
+    "fullTextZH": "胖胖的，",
+    "words": [
+      {
+        "word": "胖胖的",
+        "pinyin": "pàng pàng de",
+        "startTime": 73.206,
+        "endTime": 74.693,
+        "gloss": "chubby"
+      }
+    ],
+    "fullTextEN": "chubby,"
+  },
+  {
+    "startTime": 74.766,
+    "endTime": 76.666,
+    "fullTextZH": "胖胖的，",
+    "words": [
+      {
+        "word": "胖胖的",
+        "pinyin": "pàng pàng de",
+        "startTime": 74.806,
+        "endTime": 76.626,
+        "gloss": "chubby"
+      }
+    ],
+    "fullTextEN": "Chubby,"
+  },
+  {
+    "startTime": 76.733,
+    "endTime": 80.2,
+    "fullTextZH": "你看是不是很可爱呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 76.873,
+        "endTime": 77.054,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 77.054,
+        "endTime": 77.996,
+        "gloss": "look"
+      },
+      {
+        "word": "是不是",
+        "pinyin": "shì bú shì",
+        "startTime": 77.996,
+        "endTime": 78.837,
+        "gloss": "isn't"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 78.837,
+        "endTime": 79.198,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 79.198,
+        "endTime": 79.739,
+        "gloss": "cute"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 79.739,
+        "endTime": 80.16,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Doesn't it look very cute?"
+  },
+  {
+    "startTime": 81.1,
+    "endTime": 85.466,
+    "fullTextZH": "笑树为什么会笑呢？",
+    "words": [
+      {
+        "word": "笑树",
+        "pinyin": "xiào shù",
+        "startTime": 81.1,
+        "endTime": 82.141,
+        "gloss": "laughing tree"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 82.141,
+        "endTime": 83.203,
+        "gloss": "why"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 83.203,
+        "endTime": 83.664,
+        "gloss": "can"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 83.664,
+        "endTime": 84.044,
+        "gloss": "laugh"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 84.044,
+        "endTime": 85.426,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Why does the laughing tree laugh?"
+  },
+  {
+    "startTime": 85.5,
+    "endTime": 89.133,
+    "fullTextZH": "因为笑树上有很多颗",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 85.56,
+        "endTime": 86.484,
+        "gloss": "because"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 86.484,
+        "endTime": 86.765,
+        "gloss": "laugh"
+      },
+      {
+        "word": "树上",
+        "pinyin": "shù shàng",
+        "startTime": 86.765,
+        "endTime": 87.788,
+        "gloss": "on tree"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 87.788,
+        "endTime": 88.089,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 88.089,
+        "endTime": 88.932,
+        "gloss": "many"
+      },
+      {
+        "word": "颗",
+        "pinyin": "kē",
+        "startTime": 88.932,
+        "endTime": 88.952,
+        "gloss": "pieces"
+      }
+    ],
+    "fullTextEN": "Because there are many on the laughing tree"
+  },
+  {
+    "startTime": 89.666,
+    "endTime": 92.766,
+    "fullTextZH": "圆圆的果实，",
+    "words": [
+      {
+        "word": "圆圆的",
+        "pinyin": "yuán yuán de",
+        "startTime": 89.686,
+        "endTime": 90.934,
+        "gloss": "round"
+      },
+      {
+        "word": "果实",
+        "pinyin": "guǒ shí",
+        "startTime": 90.934,
+        "endTime": 92.726,
+        "gloss": "fruits"
+      }
+    ],
+    "fullTextEN": "Round fruits,"
+  },
+  {
+    "startTime": 92.833,
+    "endTime": 97.466,
+    "fullTextZH": "果实里面有很多小珠子，",
+    "words": [
+      {
+        "word": "果实",
+        "pinyin": "guǒ shí",
+        "startTime": 92.873,
+        "endTime": 93.816,
+        "gloss": "fruits"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 93.816,
+        "endTime": 95.099,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 95.099,
+        "endTime": 95.32,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 95.32,
+        "endTime": 96.363,
+        "gloss": "many"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 96.363,
+        "endTime": 96.764,
+        "gloss": "small"
+      },
+      {
+        "word": "珠子",
+        "pinyin": "zhū zi",
+        "startTime": 96.764,
+        "endTime": 97.426,
+        "gloss": "beads"
+      }
+    ],
+    "fullTextEN": "Inside the fruits are many small beads,"
+  },
+  {
+    "startTime": 98.9,
+    "endTime": 104.066,
+    "fullTextZH": "这些小珠子可以动来动去，",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 98.92,
+        "endTime": 99.501,
+        "gloss": "these"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 99.501,
+        "endTime": 99.861,
+        "gloss": "small"
+      },
+      {
+        "word": "珠子",
+        "pinyin": "zhū zi",
+        "startTime": 99.861,
+        "endTime": 100.922,
+        "gloss": "beads"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 100.922,
+        "endTime": 101.583,
+        "gloss": "can"
+      },
+      {
+        "word": "动来动去",
+        "pinyin": "dòng lái dòng qù",
+        "startTime": 101.583,
+        "endTime": 104.026,
+        "gloss": "move around"
+      }
+    ],
+    "fullTextEN": "These small beads can move around,"
+  },
+  {
+    "startTime": 104.1,
+    "endTime": 106.466,
+    "fullTextZH": "就像铃铛一样，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 104.18,
+        "endTime": 104.401,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 104.401,
+        "endTime": 105.042,
+        "gloss": "like"
+      },
+      {
+        "word": "铃铛",
+        "pinyin": "líng dāng",
+        "startTime": 105.042,
+        "endTime": 105.864,
+        "gloss": "bells"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 105.864,
+        "endTime": 106.426,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "Just like bells,"
+  },
+  {
+    "startTime": 108.5,
+    "endTime": 112.2,
+    "fullTextZH": "有风的时候，",
+    "words": [
+      {
+        "word": "有风",
+        "pinyin": "yǒu fēng",
+        "startTime": 108.58,
+        "endTime": 110.712,
+        "gloss": "have wind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 110.712,
+        "endTime": 110.913,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 110.913,
+        "endTime": 112.16,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When there is wind,"
+  },
+  {
+    "startTime": 112.266,
+    "endTime": 116.9,
+    "fullTextZH": "笑树的果实就动起来，",
+    "words": [
+      {
+        "word": "笑树",
+        "pinyin": "xiào shù",
+        "startTime": 112.366,
+        "endTime": 113.048,
+        "gloss": "laughing tree"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 113.048,
+        "endTime": 113.329,
+        "gloss": "de"
+      },
+      {
+        "word": "果实",
+        "pinyin": "guǒ shí",
+        "startTime": 113.329,
+        "endTime": 114.493,
+        "gloss": "fruits"
+      },
+      {
+        "word": "就动",
+        "pinyin": "jiù dòng",
+        "startTime": 114.493,
+        "endTime": 115.215,
+        "gloss": "then move"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 115.215,
+        "endTime": 116.86,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "The fruits of the laughing tree start to move,"
+  },
+  {
+    "startTime": 116.933,
+    "endTime": 121.333,
+    "fullTextZH": "发出哈哈哈的笑声，",
+    "words": [
+      {
+        "word": "发出",
+        "pinyin": "fā chū",
+        "startTime": 117.054,
+        "endTime": 118.018,
+        "gloss": "emit"
+      },
+      {
+        "word": "哈哈哈",
+        "pinyin": "hā hā hā",
+        "startTime": 118.018,
+        "endTime": 120.308,
+        "gloss": "ha ha ha"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 120.308,
+        "endTime": 120.57,
+        "gloss": "de"
+      },
+      {
+        "word": "笑声",
+        "pinyin": "xiào shēng",
+        "startTime": 120.57,
+        "endTime": 121.313,
+        "gloss": "laughter"
+      }
+    ],
+    "fullTextEN": "Emitting a 'ha ha ha' laughter,"
+  },
+  {
+    "startTime": 122.5,
+    "endTime": 126.5,
+    "fullTextZH": "听起来像人在笑，",
+    "words": [
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 122.52,
+        "endTime": 122.862,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 122.862,
+        "endTime": 123.927,
+        "gloss": "like"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 123.927,
+        "endTime": 124.53,
+        "gloss": "like"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 124.53,
+        "endTime": 125.354,
+        "gloss": "people"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 125.354,
+        "endTime": 125.796,
+        "gloss": "are"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 125.796,
+        "endTime": 126.46,
+        "gloss": "laughing"
+      }
+    ],
+    "fullTextEN": "Sounds like people laughing,"
+  },
+  {
+    "startTime": 126.533,
+    "endTime": 127.6,
+    "fullTextZH": "哈哈哈哈。",
+    "words": [
+      {
+        "word": "哈哈哈哈",
+        "pinyin": "hā hā hā hā",
+        "startTime": 126.614,
+        "endTime": 127.56,
+        "gloss": "ha ha ha ha"
+      }
+    ],
+    "fullTextEN": "Ha ha ha ha."
+  },
+  {
+    "startTime": 128.6,
+    "endTime": 132.633,
+    "fullTextZH": "有人听到笑树笑，",
+    "words": [
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 128.68,
+        "endTime": 129.643,
+        "gloss": "some people"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 129.643,
+        "endTime": 130.747,
+        "gloss": "hear"
+      },
+      {
+        "word": "笑树笑",
+        "pinyin": "xiào shù xiào",
+        "startTime": 130.747,
+        "endTime": 132.593,
+        "gloss": "laughing tree laugh"
+      }
+    ],
+    "fullTextEN": "Some people hear the laughing tree laugh,"
+  },
+  {
+    "startTime": 132.7,
+    "endTime": 137.133,
+    "fullTextZH": "觉得很害怕，",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 132.7,
+        "endTime": 135.007,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 135.007,
+        "endTime": 135.368,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 135.368,
+        "endTime": 137.093,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "Feel very scared,"
+  },
+  {
+    "startTime": 137.166,
+    "endTime": 142.266,
+    "fullTextZH": "因为他们听到笑声哈哈哈哈，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 137.166,
+        "endTime": 138.049,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 138.049,
+        "endTime": 138.732,
+        "gloss": "they"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 138.732,
+        "endTime": 139.857,
+        "gloss": "hear"
+      },
+      {
+        "word": "笑声",
+        "pinyin": "xiào shēng",
+        "startTime": 139.857,
+        "endTime": 140.78,
+        "gloss": "laughter"
+      },
+      {
+        "word": "哈哈哈哈",
+        "pinyin": "hā hā hā hā",
+        "startTime": 140.78,
+        "endTime": 141.543,
+        "gloss": "ha ha ha ha"
+      }
+    ],
+    "fullTextEN": "Because they hear the laughter 'ha ha ha ha',"
+  },
+  {
+    "startTime": 142.333,
+    "endTime": 145.733,
+    "fullTextZH": "可是没有看到人。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 142.434,
+        "endTime": 143.922,
+        "gloss": "but"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 143.922,
+        "endTime": 144.526,
+        "gloss": "not"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 144.526,
+        "endTime": 145.21,
+        "gloss": "see"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 145.21,
+        "endTime": 145.693,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "But don't see anyone."
+  },
+  {
+    "startTime": 147.233,
+    "endTime": 151.066,
+    "fullTextZH": "后来才知道哦，",
+    "words": [
+      {
+        "word": "后来",
+        "pinyin": "hòu lái",
+        "startTime": 147.293,
+        "endTime": 148.357,
+        "gloss": "later"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 148.357,
+        "endTime": 148.818,
+        "gloss": "only"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 148.818,
+        "endTime": 150.344,
+        "gloss": "know"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 150.344,
+        "endTime": 151.026,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Later they found out,"
+  },
+  {
+    "startTime": 151.133,
+    "endTime": 153.733,
+    "fullTextZH": "原来是树在笑，",
+    "words": [
+      {
+        "word": "原来",
+        "pinyin": "yuán lái",
+        "startTime": 151.193,
+        "endTime": 151.758,
+        "gloss": "turns out"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 151.758,
+        "endTime": 152.221,
+        "gloss": "is"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 152.221,
+        "endTime": 152.826,
+        "gloss": "tree"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 152.826,
+        "endTime": 153.269,
+        "gloss": "is"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 153.269,
+        "endTime": 153.693,
+        "gloss": "laughing"
+      }
+    ],
+    "fullTextEN": "It turns out the tree is laughing,"
+  },
+  {
+    "startTime": 154.5,
+    "endTime": 157.966,
+    "fullTextZH": "笑树也会帮助人哦。",
+    "words": [
+      {
+        "word": "笑树",
+        "pinyin": "xiào shù",
+        "startTime": 154.56,
+        "endTime": 155.582,
+        "gloss": "laughing tree"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 155.582,
+        "endTime": 155.983,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 155.983,
+        "endTime": 156.604,
+        "gloss": "can"
+      },
+      {
+        "word": "帮助",
+        "pinyin": "bāng zhù",
+        "startTime": 156.604,
+        "endTime": 157.285,
+        "gloss": "help"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 157.285,
+        "endTime": 157.525,
+        "gloss": "people"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 157.525,
+        "endTime": 157.926,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "The laughing tree can also help people."
+  },
+  {
+    "startTime": 158.5,
+    "endTime": 162.533,
+    "fullTextZH": "非洲人知道哦，",
+    "words": [
+      {
+        "word": "非洲人",
+        "pinyin": "fēi zhōu rén",
+        "startTime": 159.042,
+        "endTime": 160.406,
+        "gloss": "Africans"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 160.406,
+        "endTime": 161.891,
+        "gloss": "know"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 161.891,
+        "endTime": 162.493,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Africans know, oh,"
+  },
+  {
+    "startTime": 162.566,
+    "endTime": 166.0,
+    "fullTextZH": "笑树会哈哈哈哈笑，",
+    "words": [
+      {
+        "word": "笑树会",
+        "pinyin": "xiào shù huì",
+        "startTime": 162.646,
+        "endTime": 164.012,
+        "gloss": "laughing tree"
+      },
+      {
+        "word": "哈哈哈哈",
+        "pinyin": "hā hā hā hā",
+        "startTime": 164.012,
+        "endTime": 165.237,
+        "gloss": "ha ha ha ha"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 165.237,
+        "endTime": 165.96,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "The laughing tree will laugh, ha ha ha ha,"
+  },
+  {
+    "startTime": 166.066,
+    "endTime": 172.066,
+    "fullTextZH": "以后就在田旁边种笑树。",
+    "words": [
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 166.126,
+        "endTime": 167.491,
+        "gloss": "in future"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 167.491,
+        "endTime": 167.691,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 167.691,
+        "endTime": 168.253,
+        "gloss": "at"
+      },
+      {
+        "word": "田",
+        "pinyin": "tián",
+        "startTime": 168.253,
+        "endTime": 169.076,
+        "gloss": "field"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 169.076,
+        "endTime": 170.621,
+        "gloss": "beside"
+      },
+      {
+        "word": "种笑",
+        "pinyin": "zhǒng xiào",
+        "startTime": 170.621,
+        "endTime": 171.665,
+        "gloss": "plant laugh"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 171.665,
+        "endTime": 172.026,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "In the future, plant laughing trees next to the field."
+  },
+  {
+    "startTime": 173.8,
+    "endTime": 179.033,
+    "fullTextZH": "如果有鸟想吃田里的东西，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 173.92,
+        "endTime": 174.462,
+        "gloss": "if"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 174.462,
+        "endTime": 174.762,
+        "gloss": "have"
+      },
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 174.762,
+        "endTime": 175.885,
+        "gloss": "birds"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 175.885,
+        "endTime": 176.386,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 176.386,
+        "endTime": 177.429,
+        "gloss": "eat"
+      },
+      {
+        "word": "田里",
+        "pinyin": "tián lǐ",
+        "startTime": 177.429,
+        "endTime": 178.171,
+        "gloss": "in field"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 178.171,
+        "endTime": 178.331,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 178.331,
+        "endTime": 178.993,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "If birds want to eat things in the field,"
+  },
+  {
+    "startTime": 180.133,
+    "endTime": 183.766,
+    "fullTextZH": "听到笑树哈哈笑，",
+    "words": [
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 180.153,
+        "endTime": 181.076,
+        "gloss": "hear"
+      },
+      {
+        "word": "笑树",
+        "pinyin": "xiào shù",
+        "startTime": 181.076,
+        "endTime": 181.859,
+        "gloss": "laughing tree"
+      },
+      {
+        "word": "哈哈笑",
+        "pinyin": "hā hā xiào",
+        "startTime": 181.859,
+        "endTime": 183.726,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "When they hear the laughing tree laugh,"
+  },
+  {
+    "startTime": 183.8,
+    "endTime": 186.866,
+    "fullTextZH": "以为是人来了，",
+    "words": [
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 183.92,
+        "endTime": 184.902,
+        "gloss": "think"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 184.902,
+        "endTime": 185.203,
+        "gloss": "is"
+      },
+      {
+        "word": "人来",
+        "pinyin": "rén lái",
+        "startTime": 185.203,
+        "endTime": 186.465,
+        "gloss": "people come"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 186.465,
+        "endTime": 186.826,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "They think people have come,"
+  },
+  {
+    "startTime": 188.0,
+    "endTime": 191.866,
+    "fullTextZH": "鸟就不敢飞到田里。",
+    "words": [
+      {
+        "word": "鸟",
+        "pinyin": "niǎo",
+        "startTime": 188.02,
+        "endTime": 188.641,
+        "gloss": "birds"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 188.641,
+        "endTime": 189.002,
+        "gloss": "then"
+      },
+      {
+        "word": "不敢",
+        "pinyin": "bù gǎn",
+        "startTime": 189.002,
+        "endTime": 190.183,
+        "gloss": "not dare"
+      },
+      {
+        "word": "飞",
+        "pinyin": "fēi",
+        "startTime": 190.183,
+        "endTime": 190.564,
+        "gloss": "fly"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 190.564,
+        "endTime": 191.105,
+        "gloss": "to"
+      },
+      {
+        "word": "田里",
+        "pinyin": "tián lǐ",
+        "startTime": 191.105,
+        "endTime": 191.826,
+        "gloss": "in field"
+      }
+    ],
+    "fullTextEN": "The birds won't dare to fly into the field."
+  },
+  {
+    "startTime": 193.066,
+    "endTime": 198.666,
+    "fullTextZH": "听说在巴西还有一种树，",
+    "words": [
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 193.227,
+        "endTime": 194.27,
+        "gloss": "it's said"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 194.27,
+        "endTime": 194.772,
+        "gloss": "in"
+      },
+      {
+        "word": "巴西",
+        "pinyin": "bā xī",
+        "startTime": 194.772,
+        "endTime": 196.037,
+        "gloss": "Brazil"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 196.037,
+        "endTime": 196.679,
+        "gloss": "also have"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 196.679,
+        "endTime": 197.281,
+        "gloss": "one kind"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 197.281,
+        "endTime": 198.626,
+        "gloss": "tree"
+      }
+    ],
+    "fullTextEN": "It's said there's another kind of tree in Brazil,"
+  },
+  {
+    "startTime": 198.733,
+    "endTime": 201.333,
+    "fullTextZH": "白天的时候笑，",
+    "words": [
+      {
+        "word": "白天",
+        "pinyin": "bái tiān",
+        "startTime": 198.834,
+        "endTime": 199.902,
+        "gloss": "daytime"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 199.902,
+        "endTime": 200.124,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 200.124,
+        "endTime": 200.89,
+        "gloss": "time"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 200.89,
+        "endTime": 201.293,
+        "gloss": "laugh"
+      }
+    ],
+    "fullTextEN": "It laughs during the day,"
+  },
+  {
+    "startTime": 202.466,
+    "endTime": 204.9,
+    "fullTextZH": "晚上的时候哭。",
+    "words": [
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 202.486,
+        "endTime": 203.532,
+        "gloss": "night"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 203.532,
+        "endTime": 203.753,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 203.753,
+        "endTime": 204.437,
+        "gloss": "time"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 204.437,
+        "endTime": 204.86,
+        "gloss": "cry"
+      }
+    ],
+    "fullTextEN": "And cries at night."
+  },
+  {
+    "startTime": 206.633,
+    "endTime": 209.933,
+    "fullTextZH": "它会发出声音，",
+    "words": [
+      {
+        "word": "它会",
+        "pinyin": "tā huì",
+        "startTime": 206.653,
+        "endTime": 207.538,
+        "gloss": "it can"
+      },
+      {
+        "word": "发出声音",
+        "pinyin": "fā chū shēng yīn",
+        "startTime": 207.538,
+        "endTime": 209.893,
+        "gloss": "make sounds"
+      }
+    ],
+    "fullTextEN": "It can make sounds,"
+  },
+  {
+    "startTime": 210.0,
+    "endTime": 213.466,
+    "fullTextZH": "听起来像人在哭。",
+    "words": [
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 210.06,
+        "endTime": 210.501,
+        "gloss": "sound"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 210.501,
+        "endTime": 211.563,
+        "gloss": "like"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 211.563,
+        "endTime": 211.963,
+        "gloss": "people"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 211.963,
+        "endTime": 212.725,
+        "gloss": "at"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 212.725,
+        "endTime": 213.085,
+        "gloss": "crying"
+      },
+      {
+        "word": "哭",
+        "pinyin": "kū",
+        "startTime": 213.085,
+        "endTime": 213.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "That sound like people crying."
+  },
+  {
+    "startTime": 214.566,
+    "endTime": 220.466,
+    "fullTextZH": "如果你在晚上听到哭声，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 214.686,
+        "endTime": 215.63,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 215.63,
+        "endTime": 215.85,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 215.85,
+        "endTime": 216.212,
+        "gloss": "at"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 216.212,
+        "endTime": 217.596,
+        "gloss": "night"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 217.596,
+        "endTime": 218.82,
+        "gloss": "hear"
+      },
+      {
+        "word": "哭声",
+        "pinyin": "kū shēng",
+        "startTime": 218.82,
+        "endTime": 220.426,
+        "gloss": "crying sound"
+      }
+    ],
+    "fullTextEN": "If you hear crying at night,"
+  },
+  {
+    "startTime": 220.5,
+    "endTime": 225.0,
+    "fullTextZH": "可是没有看到人，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 220.6,
+        "endTime": 221.665,
+        "gloss": "but"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 221.665,
+        "endTime": 222.931,
+        "gloss": "not"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 222.931,
+        "endTime": 223.574,
+        "gloss": "see"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 223.574,
+        "endTime": 224.96,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "But don't see anyone,"
+  },
+  {
+    "startTime": 225.066,
+    "endTime": 228.733,
+    "fullTextZH": "会不会觉得很害怕呢？",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 225.166,
+        "endTime": 225.347,
+        "gloss": "would"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 225.347,
+        "endTime": 226.228,
+        "gloss": "not"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 226.228,
+        "endTime": 227.39,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 227.39,
+        "endTime": 227.691,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 227.691,
+        "endTime": 228.312,
+        "gloss": "scared"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 228.312,
+        "endTime": 228.693,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Wouldn't you feel scared?"
+  },
+  {
+    "startTime": 230.066,
+    "endTime": 233.633,
+    "fullTextZH": "你喜欢今天的影片吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 230.086,
+        "endTime": 230.487,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 230.487,
+        "endTime": 231.268,
+        "gloss": "like"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 231.268,
+        "endTime": 231.829,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 231.829,
+        "endTime": 232.15,
+        "gloss": "of"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 232.15,
+        "endTime": 232.671,
+        "gloss": "video"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 232.671,
+        "endTime": 233.593,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like today's video?"
+  },
+  {
+    "startTime": 233.666,
+    "endTime": 239.433,
+    "fullTextZH": "我希望你像笑树一样开心。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 233.886,
+        "endTime": 234.287,
+        "gloss": "I"
+      },
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 234.287,
+        "endTime": 235.288,
+        "gloss": "hope"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 235.288,
+        "endTime": 235.508,
+        "gloss": "you"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 235.508,
+        "endTime": 235.949,
+        "gloss": "like"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 235.949,
+        "endTime": 236.409,
+        "gloss": "laugh"
+      },
+      {
+        "word": "树",
+        "pinyin": "shù",
+        "startTime": 236.409,
+        "endTime": 236.93,
+        "gloss": "tree"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 236.93,
+        "endTime": 237.691,
+        "gloss": "same"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 237.691,
+        "endTime": 239.373,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "I hope you are as happy as the laughing tree."
+  },
+  {
+    "startTime": 239.466,
+    "endTime": 241.266,
+    "fullTextZH": "我们下次见，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 239.608,
+        "endTime": 239.951,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 239.951,
+        "endTime": 240.477,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 240.477,
+        "endTime": 241.226,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "See you next time,"
+  },
+  {
+    "startTime": 241.3,
+    "endTime": 242.0,
+    "fullTextZH": "拜拜。",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 241.382,
+        "endTime": 241.979,
+        "gloss": "bye bye"
+      }
+    ],
+    "fullTextEN": "Bye bye."
+  }
+]

@@ -1,0 +1,4345 @@
+[
+  {
+    "startTime": 0.8,
+    "endTime": 10.066,
+    "fullTextZH": "你好！今天我要说一只猫，对。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.92,
+        "endTime": 1.54,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.621,
+        "endTime": 3.862,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.862,
+        "endTime": 4.983,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 4.983,
+        "endTime": 6.724,
+        "gloss": "want to talk"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 6.724,
+        "endTime": 8.065,
+        "gloss": "a"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 8.065,
+        "endTime": 8.625,
+        "gloss": "cat"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 9.426,
+        "endTime": 10.026,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Hello! Today I want to talk about a cat, right."
+  },
+  {
+    "startTime": 10.2,
+    "endTime": 12.066,
+    "fullTextZH": "一只猫。",
+    "words": [
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 10.401,
+        "endTime": 11.424,
+        "gloss": "a"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 11.424,
+        "endTime": 12.026,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "A cat."
+  },
+  {
+    "startTime": 12.9,
+    "endTime": 18.166,
+    "fullTextZH": "不是一只狗，不，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 13.02,
+        "endTime": 14.161,
+        "gloss": "not"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 14.161,
+        "endTime": 15.343,
+        "gloss": "a"
+      },
+      {
+        "word": "狗",
+        "pinyin": "gǒu",
+        "startTime": 15.343,
+        "endTime": 17.085,
+        "gloss": "dog"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 17.766,
+        "endTime": 18.126,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Not a dog, no,"
+  },
+  {
+    "startTime": 18.466,
+    "endTime": 20.866,
+    "fullTextZH": "不是一只狗，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 18.708,
+        "endTime": 19.474,
+        "gloss": "not"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 19.474,
+        "endTime": 20.12,
+        "gloss": "a"
+      },
+      {
+        "word": "狗",
+        "pinyin": "gǒu",
+        "startTime": 20.12,
+        "endTime": 20.826,
+        "gloss": "dog"
+      }
+    ],
+    "fullTextEN": "Not a dog,"
+  },
+  {
+    "startTime": 21.266,
+    "endTime": 24.733,
+    "fullTextZH": "不是一只猪，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 21.466,
+        "endTime": 22.488,
+        "gloss": "not"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 22.488,
+        "endTime": 24.372,
+        "gloss": "a"
+      },
+      {
+        "word": "猪",
+        "pinyin": "zhū",
+        "startTime": 24.372,
+        "endTime": 24.693,
+        "gloss": "pig"
+      }
+    ],
+    "fullTextEN": "Not a pig,"
+  },
+  {
+    "startTime": 24.733,
+    "endTime": 25.199,
+    "fullTextZH": "不！",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 24.814,
+        "endTime": 25.179,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No!"
+  },
+  {
+    "startTime": 25.2,
+    "endTime": 26.0,
+    "fullTextZH": "不不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 25.282,
+        "endTime": 25.549,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 25.549,
+        "endTime": 25.959,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no,"
+  },
+  {
+    "startTime": 26.0,
+    "endTime": 28.166,
+    "fullTextZH": "不是一只猪，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 26.261,
+        "endTime": 26.943,
+        "gloss": "not"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 26.943,
+        "endTime": 27.665,
+        "gloss": "a"
+      },
+      {
+        "word": "猪",
+        "pinyin": "zhū",
+        "startTime": 27.665,
+        "endTime": 28.126,
+        "gloss": "pig"
+      }
+    ],
+    "fullTextEN": "Not a pig,"
+  },
+  {
+    "startTime": 29.4,
+    "endTime": 32.133,
+    "fullTextZH": "是一只兔子吗？",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 29.521,
+        "endTime": 30.164,
+        "gloss": "is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 30.164,
+        "endTime": 31.068,
+        "gloss": "a"
+      },
+      {
+        "word": "兔子",
+        "pinyin": "tù zi",
+        "startTime": 31.068,
+        "endTime": 31.611,
+        "gloss": "rabbit"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 31.611,
+        "endTime": 32.093,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it a rabbit?"
+  },
+  {
+    "startTime": 32.666,
+    "endTime": 39.599,
+    "fullTextZH": "不，今天我不说兔子，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 32.846,
+        "endTime": 34.269,
+        "gloss": "no"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 34.289,
+        "endTime": 35.531,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 35.531,
+        "endTime": 36.413,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 36.413,
+        "endTime": 37.235,
+        "gloss": "not"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 37.235,
+        "endTime": 38.377,
+        "gloss": "talk"
+      },
+      {
+        "word": "兔子",
+        "pinyin": "tù zi",
+        "startTime": 38.377,
+        "endTime": 39.579,
+        "gloss": "rabbit"
+      }
+    ],
+    "fullTextEN": "No, today I'm not talking about rabbits,"
+  },
+  {
+    "startTime": 39.866,
+    "endTime": 44.366,
+    "fullTextZH": "我要说一只猫。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 40.067,
+        "endTime": 40.87,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 40.87,
+        "endTime": 42.618,
+        "gloss": "want to talk"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 42.618,
+        "endTime": 43.803,
+        "gloss": "a"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 43.803,
+        "endTime": 44.326,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "I want to talk about a cat."
+  },
+  {
+    "startTime": 45.666,
+    "endTime": 47.599,
+    "fullTextZH": "什么猫？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 45.867,
+        "endTime": 46.914,
+        "gloss": "what"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 46.914,
+        "endTime": 47.559,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "What cat?"
+  },
+  {
+    "startTime": 48.8,
+    "endTime": 52.366,
+    "fullTextZH": "我要说一只猫。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 48.86,
+        "endTime": 49.161,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 49.161,
+        "endTime": 50.583,
+        "gloss": "want to talk"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 50.583,
+        "endTime": 51.705,
+        "gloss": "a"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 51.705,
+        "endTime": 52.326,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "I want to talk about a cat."
+  },
+  {
+    "startTime": 52.666,
+    "endTime": 61.366,
+    "fullTextZH": "我觉得可能所有的中国人都知道。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 52.887,
+        "endTime": 53.829,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 53.829,
+        "endTime": 55.372,
+        "gloss": "think"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 55.372,
+        "endTime": 56.896,
+        "gloss": "maybe"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 56.896,
+        "endTime": 57.998,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 57.998,
+        "endTime": 58.259,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 58.259,
+        "endTime": 58.94,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 58.94,
+        "endTime": 59.722,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 59.722,
+        "endTime": 60.504,
+        "gloss": "all"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 60.504,
+        "endTime": 61.326,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "I think maybe all Chinese people know."
+  },
+  {
+    "startTime": 61.9,
+    "endTime": 66.666,
+    "fullTextZH": "所有的中国人都喜欢。",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 62.2,
+        "endTime": 63.122,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 63.122,
+        "endTime": 63.382,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 63.382,
+        "endTime": 63.983,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 63.983,
+        "endTime": 64.784,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 64.784,
+        "endTime": 65.665,
+        "gloss": "all"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 65.665,
+        "endTime": 66.626,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "All Chinese people like it."
+  },
+  {
+    "startTime": 68.133,
+    "endTime": 74.499,
+    "fullTextZH": "我说5个特点(characteristic)对，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 68.173,
+        "endTime": 69.134,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 69.134,
+        "endTime": 70.435,
+        "gloss": "say"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 71.016,
+        "endTime": 71.997,
+        "gloss": "five"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 71.997,
+        "endTime": 73.358,
+        "gloss": "characteristics"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 74.019,
+        "endTime": 74.459,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "I'll say 5 characteristics, right,"
+  },
+  {
+    "startTime": 74.566,
+    "endTime": 76.933,
+    "fullTextZH": "5个特点。",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 75.208,
+        "endTime": 75.77,
+        "gloss": "five"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 75.77,
+        "endTime": 76.893,
+        "gloss": "characteristics"
+      }
+    ],
+    "fullTextEN": "5 characteristics."
+  },
+  {
+    "startTime": 77.2,
+    "endTime": 80.5,
+    "fullTextZH": "然后你猜猜(guess)。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 77.421,
+        "endTime": 78.669,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 78.669,
+        "endTime": 79.655,
+        "gloss": "you"
+      },
+      {
+        "word": "猜猜",
+        "pinyin": "cāi cāi",
+        "startTime": 79.655,
+        "endTime": 80.017,
+        "gloss": "guess"
+      }
+    ],
+    "fullTextEN": "Then you guess."
+  },
+  {
+    "startTime": 81.566,
+    "endTime": 86.966,
+    "fullTextZH": "我说的猫是什么猫？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 81.626,
+        "endTime": 82.289,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 82.289,
+        "endTime": 82.75,
+        "gloss": "talk"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 82.75,
+        "endTime": 82.951,
+        "gloss": "about"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 82.951,
+        "endTime": 84.095,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 84.095,
+        "endTime": 85.019,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 85.019,
+        "endTime": 86.324,
+        "gloss": "what"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 86.324,
+        "endTime": 86.926,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "What cat am I talking about?"
+  },
+  {
+    "startTime": 88.5,
+    "endTime": 92.6,
+    "fullTextZH": "好，第一个特点：",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 88.5,
+        "endTime": 89.485,
+        "gloss": "okay"
+      },
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 89.525,
+        "endTime": 91.274,
+        "gloss": "first"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 91.274,
+        "endTime": 92.58,
+        "gloss": "characteristic"
+      }
+    ],
+    "fullTextEN": "Okay, the first characteristic:"
+  },
+  {
+    "startTime": 93.533,
+    "endTime": 98.866,
+    "fullTextZH": "这只猫很胖，对。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 93.673,
+        "endTime": 94.195,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 94.195,
+        "endTime": 94.576,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 94.576,
+        "endTime": 95.718,
+        "gloss": "cat"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 95.718,
+        "endTime": 97.964,
+        "gloss": "very fat"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 98.345,
+        "endTime": 98.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "This cat is very fat, right."
+  },
+  {
+    "startTime": 98.866,
+    "endTime": 101.533,
+    "fullTextZH": "这只猫很胖。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 99.187,
+        "endTime": 99.508,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 99.508,
+        "endTime": 99.748,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 99.748,
+        "endTime": 100.29,
+        "gloss": "cat"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 100.29,
+        "endTime": 101.493,
+        "gloss": "very fat"
+      }
+    ],
+    "fullTextEN": "This cat is very fat."
+  },
+  {
+    "startTime": 102.333,
+    "endTime": 105.799,
+    "fullTextZH": "这只猫很瘦吗？",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 102.674,
+        "endTime": 102.994,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 102.994,
+        "endTime": 103.235,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 103.235,
+        "endTime": 103.856,
+        "gloss": "cat"
+      },
+      {
+        "word": "很瘦",
+        "pinyin": "hěn shòu",
+        "startTime": 103.856,
+        "endTime": 105.358,
+        "gloss": "very thin"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 105.358,
+        "endTime": 105.759,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is this cat very thin?"
+  },
+  {
+    "startTime": 106.5,
+    "endTime": 110.5,
+    "fullTextZH": "不，这只猫不瘦。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 106.701,
+        "endTime": 107.083,
+        "gloss": "no"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 107.867,
+        "endTime": 108.128,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 108.128,
+        "endTime": 108.349,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 108.349,
+        "endTime": 109.033,
+        "gloss": "cat"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 109.033,
+        "endTime": 109.977,
+        "gloss": "not"
+      },
+      {
+        "word": "瘦",
+        "pinyin": "shòu",
+        "startTime": 109.977,
+        "endTime": 110.46,
+        "gloss": "thin"
+      }
+    ],
+    "fullTextEN": "No, this cat is not thin."
+  },
+  {
+    "startTime": 110.7,
+    "endTime": 113.7,
+    "fullTextZH": "这只猫很胖。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 111.042,
+        "endTime": 111.344,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 111.344,
+        "endTime": 111.606,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 111.606,
+        "endTime": 112.351,
+        "gloss": "cat"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 112.351,
+        "endTime": 113.66,
+        "gloss": "very fat"
+      }
+    ],
+    "fullTextEN": "This cat is very fat."
+  },
+  {
+    "startTime": 115.566,
+    "endTime": 121.166,
+    "fullTextZH": "所以这只猫很可爱，对。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 115.566,
+        "endTime": 116.59,
+        "gloss": "so"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 116.59,
+        "endTime": 116.911,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 116.911,
+        "endTime": 117.152,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 117.152,
+        "endTime": 117.834,
+        "gloss": "cat"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 117.834,
+        "endTime": 118.617,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 118.617,
+        "endTime": 120.263,
+        "gloss": "cute"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 120.363,
+        "endTime": 121.126,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "So this cat is very cute, right."
+  },
+  {
+    "startTime": 121.766,
+    "endTime": 125.066,
+    "fullTextZH": "好，第二个特点：",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 121.786,
+        "endTime": 122.048,
+        "gloss": "okay"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 122.692,
+        "endTime": 124.0,
+        "gloss": "second"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 124.0,
+        "endTime": 125.026,
+        "gloss": "characteristic"
+      }
+    ],
+    "fullTextEN": "Okay, the second characteristic:"
+  },
+  {
+    "startTime": 125.6,
+    "endTime": 131.266,
+    "fullTextZH": "这只猫是蓝色的，对。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 125.7,
+        "endTime": 126.121,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 126.121,
+        "endTime": 126.501,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 126.501,
+        "endTime": 127.442,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 127.442,
+        "endTime": 128.443,
+        "gloss": "is"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 128.443,
+        "endTime": 129.604,
+        "gloss": "blue"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 129.604,
+        "endTime": 129.684,
+        "gloss": "particle"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 130.685,
+        "endTime": 131.226,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "This cat is blue, right."
+  },
+  {
+    "startTime": 131.333,
+    "endTime": 133.533,
+    "fullTextZH": "蓝色蓝色。",
+    "words": [
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 131.353,
+        "endTime": 132.443,
+        "gloss": "blue"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 132.443,
+        "endTime": 133.493,
+        "gloss": "blue"
+      }
+    ],
+    "fullTextEN": "Blue, blue."
+  },
+  {
+    "startTime": 134.366,
+    "endTime": 138.766,
+    "fullTextZH": "这只猫是白色的吗？",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 134.366,
+        "endTime": 134.627,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 134.627,
+        "endTime": 134.908,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 134.908,
+        "endTime": 135.732,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 135.732,
+        "endTime": 136.737,
+        "gloss": "is"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 136.737,
+        "endTime": 137.782,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 137.782,
+        "endTime": 138.023,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 138.023,
+        "endTime": 138.726,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is this cat white?"
+  },
+  {
+    "startTime": 139.366,
+    "endTime": 144.866,
+    "fullTextZH": "不，这只猫不是白色的。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 139.406,
+        "endTime": 139.466,
+        "gloss": "no"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 140.59,
+        "endTime": 140.892,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 140.892,
+        "endTime": 141.152,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 141.152,
+        "endTime": 141.855,
+        "gloss": "cat"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 141.855,
+        "endTime": 143.039,
+        "gloss": "not"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 143.039,
+        "endTime": 144.204,
+        "gloss": "white"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 144.204,
+        "endTime": 144.826,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "No, this cat is not white."
+  },
+  {
+    "startTime": 145.4,
+    "endTime": 149.666,
+    "fullTextZH": "这只猫是黑色的吗？",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 145.4,
+        "endTime": 145.62,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 145.62,
+        "endTime": 145.881,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 145.881,
+        "endTime": 146.642,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 146.642,
+        "endTime": 147.623,
+        "gloss": "is"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 147.623,
+        "endTime": 148.745,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 148.745,
+        "endTime": 148.945,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 148.945,
+        "endTime": 149.626,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is this cat black?"
+  },
+  {
+    "startTime": 150.133,
+    "endTime": 156.199,
+    "fullTextZH": "不，这只猫不是黑色的。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 150.213,
+        "endTime": 150.253,
+        "gloss": "no"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 151.354,
+        "endTime": 151.614,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 151.614,
+        "endTime": 151.895,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 151.895,
+        "endTime": 152.756,
+        "gloss": "cat"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 152.756,
+        "endTime": 154.217,
+        "gloss": "not"
+      },
+      {
+        "word": "黑色",
+        "pinyin": "hēi sè",
+        "startTime": 154.217,
+        "endTime": 155.478,
+        "gloss": "black"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 155.478,
+        "endTime": 156.159,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "No, this cat is not black."
+  },
+  {
+    "startTime": 156.933,
+    "endTime": 160.933,
+    "fullTextZH": "这只猫是绿色的吗？",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 156.933,
+        "endTime": 157.174,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 157.174,
+        "endTime": 157.456,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 157.456,
+        "endTime": 158.159,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 158.159,
+        "endTime": 159.064,
+        "gloss": "is"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 159.064,
+        "endTime": 160.109,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 160.109,
+        "endTime": 160.33,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 160.33,
+        "endTime": 160.893,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is this cat green?"
+  },
+  {
+    "startTime": 161.366,
+    "endTime": 167.333,
+    "fullTextZH": "不，这只猫不是绿色的。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 161.366,
+        "endTime": 161.446,
+        "gloss": "no"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 163.048,
+        "endTime": 163.368,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 163.368,
+        "endTime": 163.609,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 163.609,
+        "endTime": 164.229,
+        "gloss": "cat"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 164.229,
+        "endTime": 165.511,
+        "gloss": "not"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 165.511,
+        "endTime": 166.592,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 166.592,
+        "endTime": 167.293,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "No, this cat is not green."
+  },
+  {
+    "startTime": 167.666,
+    "endTime": 172.266,
+    "fullTextZH": "这只猫是蓝色的。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 167.766,
+        "endTime": 168.088,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 168.088,
+        "endTime": 168.349,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 168.349,
+        "endTime": 169.173,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 169.173,
+        "endTime": 170.559,
+        "gloss": "is"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 170.559,
+        "endTime": 171.643,
+        "gloss": "blue"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 171.643,
+        "endTime": 172.226,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This cat is blue."
+  },
+  {
+    "startTime": 173.0,
+    "endTime": 176.266,
+    "fullTextZH": "好，第3个特点：",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 173.02,
+        "endTime": 173.701,
+        "gloss": "okay"
+      },
+      {
+        "word": "第",
+        "pinyin": "dì",
+        "startTime": 173.842,
+        "endTime": 174.623,
+        "gloss": "third"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 175.144,
+        "endTime": 175.485,
+        "gloss": "measure"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 175.485,
+        "endTime": 176.226,
+        "gloss": "characteristic"
+      }
+    ],
+    "fullTextEN": "Okay, the third characteristic:"
+  },
+  {
+    "startTime": 176.5,
+    "endTime": 181.6,
+    "fullTextZH": "这只猫害怕(fear)一个东西。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 176.62,
+        "endTime": 176.942,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 176.942,
+        "endTime": 177.183,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 177.183,
+        "endTime": 177.986,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 177.986,
+        "endTime": 178.869,
+        "gloss": "afraid"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 179.411,
+        "endTime": 180.395,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 180.395,
+        "endTime": 181.56,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "This cat is afraid of something."
+  },
+  {
+    "startTime": 182.2,
+    "endTime": 183.8,
+    "fullTextZH": "什么东西？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 182.322,
+        "endTime": 182.747,
+        "gloss": "what"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 182.747,
+        "endTime": 183.759,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "What thing?"
+  },
+  {
+    "startTime": 184.6,
+    "endTime": 189.866,
+    "fullTextZH": "这只猫害怕老鼠，老鼠。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 184.7,
+        "endTime": 185.121,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 185.121,
+        "endTime": 185.361,
+        "gloss": "measure"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 185.361,
+        "endTime": 186.122,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 186.122,
+        "endTime": 187.303,
+        "gloss": "afraid"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 187.303,
+        "endTime": 188.765,
+        "gloss": "mouse"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 188.865,
+        "endTime": 189.826,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "This cat is afraid of mice, mice."
+  },
+  {
+    "startTime": 191.0,
+    "endTime": 193.4,
+    "fullTextZH": "一般来说(generally speaking)",
+    "words": [
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 191.0,
+        "endTime": 191.504,
+        "gloss": "generally speaking"
+      }
+    ],
+    "fullTextEN": "Generally speaking"
+  },
+  {
+    "startTime": 193.666,
+    "endTime": 197.299,
+    "fullTextZH": "老鼠害怕猫。",
+    "words": [
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 193.706,
+        "endTime": 195.232,
+        "gloss": "mouse"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 195.232,
+        "endTime": 196.536,
+        "gloss": "afraid"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 196.536,
+        "endTime": 197.259,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "Mice are afraid of cats."
+  },
+  {
+    "startTime": 197.7,
+    "endTime": 202.8,
+    "fullTextZH": "可是这只猫害怕老鼠。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 197.76,
+        "endTime": 199.005,
+        "gloss": "but"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 199.005,
+        "endTime": 199.507,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 199.507,
+        "endTime": 199.828,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 199.828,
+        "endTime": 200.511,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 200.511,
+        "endTime": 201.756,
+        "gloss": "afraid"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 201.756,
+        "endTime": 202.76,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "But this cat is afraid of mice."
+  },
+  {
+    "startTime": 203.866,
+    "endTime": 206.733,
+    "fullTextZH": "很奇怪对不对？",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 203.866,
+        "endTime": 204.488,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 204.488,
+        "endTime": 205.771,
+        "gloss": "strange"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 205.771,
+        "endTime": 205.931,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 205.931,
+        "endTime": 206.071,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 206.071,
+        "endTime": 206.693,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Very strange, right?"
+  },
+  {
+    "startTime": 207.133,
+    "endTime": 212.599,
+    "fullTextZH": "为什么这只猫害怕老鼠？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 207.253,
+        "endTime": 208.755,
+        "gloss": "why"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 208.755,
+        "endTime": 209.255,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 209.255,
+        "endTime": 209.576,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 209.576,
+        "endTime": 210.276,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 210.276,
+        "endTime": 211.498,
+        "gloss": "afraid"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 211.498,
+        "endTime": 212.559,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "Why is this cat afraid of mice?"
+  },
+  {
+    "startTime": 213.533,
+    "endTime": 219.366,
+    "fullTextZH": "因为有一只老鼠吃，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 213.533,
+        "endTime": 214.696,
+        "gloss": "because"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 214.696,
+        "endTime": 215.477,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 215.477,
+        "endTime": 216.88,
+        "gloss": "a"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 216.88,
+        "endTime": 218.624,
+        "gloss": "mouse"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 218.624,
+        "endTime": 219.326,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Because there was a mouse that ate,"
+  },
+  {
+    "startTime": 220.166,
+    "endTime": 224.266,
+    "fullTextZH": "吃了他的耳朵。",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 220.427,
+        "endTime": 220.829,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 220.829,
+        "endTime": 221.633,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 221.633,
+        "endTime": 222.116,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 222.116,
+        "endTime": 222.899,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 222.899,
+        "endTime": 224.226,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "ate his ear."
+  },
+  {
+    "startTime": 224.966,
+    "endTime": 232.333,
+    "fullTextZH": "对，有一只老鼠吃了他的耳朵。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 225.066,
+        "endTime": 225.446,
+        "gloss": "yes"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 226.287,
+        "endTime": 226.548,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 226.548,
+        "endTime": 227.368,
+        "gloss": "a"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 227.368,
+        "endTime": 228.93,
+        "gloss": "mouse"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 228.93,
+        "endTime": 229.33,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 229.33,
+        "endTime": 230.071,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 230.071,
+        "endTime": 230.491,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 230.491,
+        "endTime": 231.072,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 231.072,
+        "endTime": 232.293,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "Yes, there was a mouse that ate his ear."
+  },
+  {
+    "startTime": 233.766,
+    "endTime": 237.866,
+    "fullTextZH": "所以有一只老鼠，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 233.766,
+        "endTime": 234.751,
+        "gloss": "so"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 234.751,
+        "endTime": 235.354,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 235.354,
+        "endTime": 236.54,
+        "gloss": "a"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 236.54,
+        "endTime": 237.826,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "So there was a mouse,"
+  },
+  {
+    "startTime": 239.566,
+    "endTime": 242.599,
+    "fullTextZH": "亲了(kissed)他的耳朵。",
+    "words": [
+      {
+        "word": "亲",
+        "pinyin": "qīn",
+        "startTime": 239.586,
+        "endTime": 239.807,
+        "gloss": "kiss"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 239.807,
+        "endTime": 239.827,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 240.771,
+        "endTime": 241.133,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.133,
+        "endTime": 241.434,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 241.434,
+        "endTime": 242.559,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "kissed his ear."
+  },
+  {
+    "startTime": 242.9,
+    "endTime": 246.4,
+    "fullTextZH": "对不对？不对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 243.001,
+        "endTime": 243.664,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 243.664,
+        "endTime": 243.886,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 243.886,
+        "endTime": 244.831,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 245.072,
+        "endTime": 245.495,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 245.495,
+        "endTime": 246.36,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right? Wrong,"
+  },
+  {
+    "startTime": 247.066,
+    "endTime": 253.299,
+    "fullTextZH": "有一只老鼠打了他的耳朵。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 247.066,
+        "endTime": 247.327,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 247.327,
+        "endTime": 248.469,
+        "gloss": "a"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 248.469,
+        "endTime": 250.172,
+        "gloss": "mouse"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 250.172,
+        "endTime": 250.674,
+        "gloss": "hit"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 250.674,
+        "endTime": 251.395,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 251.395,
+        "endTime": 251.716,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 251.716,
+        "endTime": 252.137,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 252.137,
+        "endTime": 253.259,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "There was a mouse that hit his ear."
+  },
+  {
+    "startTime": 253.6,
+    "endTime": 257.266,
+    "fullTextZH": "对不对？不对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 253.68,
+        "endTime": 254.481,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 254.481,
+        "endTime": 254.742,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 254.742,
+        "endTime": 255.884,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 256.144,
+        "endTime": 256.405,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 256.405,
+        "endTime": 257.226,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right? Wrong,"
+  },
+  {
+    "startTime": 257.533,
+    "endTime": 259.999,
+    "fullTextZH": "有一只老鼠",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 257.613,
+        "endTime": 257.914,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 257.914,
+        "endTime": 258.596,
+        "gloss": "a"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 258.596,
+        "endTime": 259.237,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "There was a mouse"
+  },
+  {
+    "startTime": 261.366,
+    "endTime": 264.733,
+    "fullTextZH": "吃了他的耳朵。",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 261.566,
+        "endTime": 261.927,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 261.927,
+        "endTime": 262.468,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 262.468,
+        "endTime": 262.769,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 262.769,
+        "endTime": 263.07,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 263.07,
+        "endTime": 264.693,
+        "gloss": "ear"
+      }
+    ],
+    "fullTextEN": "ate his ear."
+  },
+  {
+    "startTime": 265.0,
+    "endTime": 269.5,
+    "fullTextZH": "所以这只猫害怕什么？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 265.141,
+        "endTime": 266.165,
+        "gloss": "so"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 266.165,
+        "endTime": 266.527,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 266.527,
+        "endTime": 266.788,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 266.788,
+        "endTime": 267.471,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 267.471,
+        "endTime": 268.596,
+        "gloss": "afraid"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 268.596,
+        "endTime": 269.46,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "So what is this cat afraid of?"
+  },
+  {
+    "startTime": 270.166,
+    "endTime": 274.599,
+    "fullTextZH": "对，这只猫害怕老鼠。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 270.286,
+        "endTime": 270.607,
+        "gloss": "yes"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 271.269,
+        "endTime": 271.57,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 271.57,
+        "endTime": 271.851,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 271.851,
+        "endTime": 272.593,
+        "gloss": "cat"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 272.593,
+        "endTime": 273.616,
+        "gloss": "afraid"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 273.616,
+        "endTime": 274.559,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "Yes, this cat is afraid of mice."
+  },
+  {
+    "startTime": 275.566,
+    "endTime": 277.333,
+    "fullTextZH": "好，所以",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 275.707,
+        "endTime": 276.409,
+        "gloss": "okay"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 276.429,
+        "endTime": 276.811,
+        "gloss": "so"
+      }
+    ],
+    "fullTextEN": "Okay, so"
+  },
+  {
+    "startTime": 277.466,
+    "endTime": 280.399,
+    "fullTextZH": "第4个特点：",
+    "words": [
+      {
+        "word": "第",
+        "pinyin": "dì",
+        "startTime": 277.486,
+        "endTime": 278.069,
+        "gloss": "ordinal"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 278.43,
+        "endTime": 279.153,
+        "gloss": "measure word"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 279.153,
+        "endTime": 280.359,
+        "gloss": "characteristic"
+      }
+    ],
+    "fullTextEN": "The fourth characteristic:"
+  },
+  {
+    "startTime": 281.0,
+    "endTime": 287.5,
+    "fullTextZH": "这只猫没有耳朵，对。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 281.14,
+        "endTime": 281.481,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 281.481,
+        "endTime": 281.742,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 281.742,
+        "endTime": 282.705,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 282.705,
+        "endTime": 284.39,
+        "gloss": "no"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 284.39,
+        "endTime": 286.035,
+        "gloss": "ears"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 286.096,
+        "endTime": 287.46,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "This cat has no ears, right."
+  },
+  {
+    "startTime": 287.7,
+    "endTime": 293.1,
+    "fullTextZH": "一只没有耳朵的猫。",
+    "words": [
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 287.82,
+        "endTime": 288.844,
+        "gloss": "one"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 288.844,
+        "endTime": 290.209,
+        "gloss": "not have"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 290.209,
+        "endTime": 290.972,
+        "gloss": "ears"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 290.972,
+        "endTime": 291.233,
+        "gloss": "of"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 291.233,
+        "endTime": 293.06,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "A cat without ears."
+  },
+  {
+    "startTime": 294.333,
+    "endTime": 297.933,
+    "fullTextZH": "这只猫没有嘴巴。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 294.333,
+        "endTime": 294.534,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 294.534,
+        "endTime": 294.755,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 294.755,
+        "endTime": 295.439,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 295.439,
+        "endTime": 296.686,
+        "gloss": "not have"
+      },
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 296.686,
+        "endTime": 297.893,
+        "gloss": "mouth"
+      }
+    ],
+    "fullTextEN": "This cat has no mouth."
+  },
+  {
+    "startTime": 298.133,
+    "endTime": 300.733,
+    "fullTextZH": "对不对？不对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 298.173,
+        "endTime": 298.375,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 298.375,
+        "endTime": 298.516,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 298.516,
+        "endTime": 299.705,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 299.927,
+        "endTime": 300.128,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 300.128,
+        "endTime": 300.693,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right or not? Not right,"
+  },
+  {
+    "startTime": 300.733,
+    "endTime": 304.299,
+    "fullTextZH": "这只猫有嘴巴。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 300.813,
+        "endTime": 301.074,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 301.074,
+        "endTime": 301.294,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 301.294,
+        "endTime": 302.135,
+        "gloss": "cat"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 302.135,
+        "endTime": 303.197,
+        "gloss": "have"
+      },
+      {
+        "word": "嘴巴",
+        "pinyin": "zuǐ bā",
+        "startTime": 303.197,
+        "endTime": 304.259,
+        "gloss": "mouth"
+      }
+    ],
+    "fullTextEN": "This cat has a mouth."
+  },
+  {
+    "startTime": 305.2,
+    "endTime": 308.366,
+    "fullTextZH": "这只猫没有鼻子。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 305.2,
+        "endTime": 305.42,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 305.42,
+        "endTime": 305.641,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 305.641,
+        "endTime": 306.182,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 306.182,
+        "endTime": 307.104,
+        "gloss": "not have"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 307.104,
+        "endTime": 308.326,
+        "gloss": "nose"
+      }
+    ],
+    "fullTextEN": "This cat has no nose."
+  },
+  {
+    "startTime": 308.466,
+    "endTime": 311.333,
+    "fullTextZH": "对不对？不对，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 308.506,
+        "endTime": 308.707,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 308.707,
+        "endTime": 308.867,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 308.867,
+        "endTime": 310.11,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 310.27,
+        "endTime": 310.391,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 310.391,
+        "endTime": 311.293,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right or not? Not right,"
+  },
+  {
+    "startTime": 311.466,
+    "endTime": 314.599,
+    "fullTextZH": "这只猫有鼻子。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 311.546,
+        "endTime": 311.827,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 311.827,
+        "endTime": 312.069,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 312.069,
+        "endTime": 312.671,
+        "gloss": "cat"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 312.671,
+        "endTime": 313.514,
+        "gloss": "have"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 313.514,
+        "endTime": 314.559,
+        "gloss": "nose"
+      }
+    ],
+    "fullTextEN": "This cat has a nose."
+  },
+  {
+    "startTime": 314.933,
+    "endTime": 318.499,
+    "fullTextZH": "这只猫没有眼睛。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 314.933,
+        "endTime": 315.093,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 315.093,
+        "endTime": 315.314,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 315.314,
+        "endTime": 316.115,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 316.115,
+        "endTime": 317.077,
+        "gloss": "not have"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 317.077,
+        "endTime": 318.459,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "This cat has no eyes."
+  },
+  {
+    "startTime": 318.666,
+    "endTime": 321.066,
+    "fullTextZH": "眼睛对不对？",
+    "words": [
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 318.706,
+        "endTime": 320.037,
+        "gloss": "eyes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 320.037,
+        "endTime": 320.259,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 320.259,
+        "endTime": 320.421,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 320.421,
+        "endTime": 321.026,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Eyes, right or not?"
+  },
+  {
+    "startTime": 321.366,
+    "endTime": 325.766,
+    "fullTextZH": "不对，这只猫有眼睛。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 321.466,
+        "endTime": 321.828,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 321.828,
+        "endTime": 322.772,
+        "gloss": "right"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 322.893,
+        "endTime": 323.013,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 323.013,
+        "endTime": 323.214,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 323.214,
+        "endTime": 323.797,
+        "gloss": "cat"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 323.797,
+        "endTime": 324.561,
+        "gloss": "have"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 324.561,
+        "endTime": 325.726,
+        "gloss": "eyes"
+      }
+    ],
+    "fullTextEN": "Not right, this cat has eyes."
+  },
+  {
+    "startTime": 326.133,
+    "endTime": 333.499,
+    "fullTextZH": "可是这只猫没有耳朵，为什么？",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 326.193,
+        "endTime": 327.434,
+        "gloss": "but"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 327.434,
+        "endTime": 327.754,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 327.754,
+        "endTime": 328.015,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 328.015,
+        "endTime": 328.715,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 328.715,
+        "endTime": 329.836,
+        "gloss": "not have"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 329.836,
+        "endTime": 330.677,
+        "gloss": "ears"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 331.798,
+        "endTime": 333.459,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "But this cat has no ears, why?"
+  },
+  {
+    "startTime": 333.5,
+    "endTime": 337.466,
+    "fullTextZH": "因为有一只老鼠",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 333.5,
+        "endTime": 334.602,
+        "gloss": "because"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 334.602,
+        "endTime": 334.982,
+        "gloss": "there is"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 334.982,
+        "endTime": 336.144,
+        "gloss": "one"
+      },
+      {
+        "word": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "startTime": 336.144,
+        "endTime": 336.685,
+        "gloss": "mouse"
+      }
+    ],
+    "fullTextEN": "Because there is a mouse"
+  },
+  {
+    "startTime": 338.533,
+    "endTime": 341.999,
+    "fullTextZH": "吃了他的耳朵。",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 338.773,
+        "endTime": 339.134,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 339.134,
+        "endTime": 339.795,
+        "gloss": "completed"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 339.795,
+        "endTime": 340.236,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 340.236,
+        "endTime": 340.917,
+        "gloss": "of"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 340.917,
+        "endTime": 341.959,
+        "gloss": "ears"
+      }
+    ],
+    "fullTextEN": "that ate its ears."
+  },
+  {
+    "startTime": 342.266,
+    "endTime": 348.733,
+    "fullTextZH": "所以现在这只猫没有耳朵。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 342.346,
+        "endTime": 343.447,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 343.447,
+        "endTime": 344.809,
+        "gloss": "now"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 344.809,
+        "endTime": 345.229,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 345.229,
+        "endTime": 345.55,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 345.55,
+        "endTime": 346.39,
+        "gloss": "cat"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 346.39,
+        "endTime": 347.672,
+        "gloss": "not have"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 347.672,
+        "endTime": 348.693,
+        "gloss": "ears"
+      }
+    ],
+    "fullTextEN": "So now this cat has no ears."
+  },
+  {
+    "startTime": 349.866,
+    "endTime": 353.166,
+    "fullTextZH": "好，第5个特点：",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 349.886,
+        "endTime": 350.107,
+        "gloss": "okay"
+      },
+      {
+        "word": "第",
+        "pinyin": "dì",
+        "startTime": 350.611,
+        "endTime": 351.194,
+        "gloss": "number"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 351.717,
+        "endTime": 352.12,
+        "gloss": "measure word"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 352.12,
+        "endTime": 353.126,
+        "gloss": "feature"
+      }
+    ],
+    "fullTextEN": "Okay, the fifth feature:"
+  },
+  {
+    "startTime": 353.533,
+    "endTime": 358.699,
+    "fullTextZH": "这只猫有一个口袋(pocket)，对。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 353.653,
+        "endTime": 353.913,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 353.913,
+        "endTime": 354.134,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 354.134,
+        "endTime": 354.915,
+        "gloss": "cat"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 354.915,
+        "endTime": 355.415,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 355.415,
+        "endTime": 356.396,
+        "gloss": "one"
+      },
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 356.396,
+        "endTime": 357.397,
+        "gloss": "pocket"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 358.238,
+        "endTime": 358.679,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "This cat has a pocket, right."
+  },
+  {
+    "startTime": 358.7,
+    "endTime": 360.666,
+    "fullTextZH": "它有一个口袋。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 358.7,
+        "endTime": 358.881,
+        "gloss": "it"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 358.881,
+        "endTime": 359.061,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 359.061,
+        "endTime": 359.583,
+        "gloss": "one"
+      },
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 359.583,
+        "endTime": 360.626,
+        "gloss": "pocket"
+      }
+    ],
+    "fullTextEN": "It has a pocket."
+  },
+  {
+    "startTime": 361.066,
+    "endTime": 367.499,
+    "fullTextZH": "它的口袋里有很多很多东西。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 361.146,
+        "endTime": 361.367,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 361.367,
+        "endTime": 361.587,
+        "gloss": "of"
+      },
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 361.587,
+        "endTime": 362.629,
+        "gloss": "pocket"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 362.629,
+        "endTime": 363.671,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 363.671,
+        "endTime": 364.152,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 364.152,
+        "endTime": 366.256,
+        "gloss": "many many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 366.256,
+        "endTime": 367.459,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Its pocket has many things inside."
+  },
+  {
+    "startTime": 368.533,
+    "endTime": 370.999,
+    "fullTextZH": "很多很多东西。",
+    "words": [
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 368.533,
+        "endTime": 370.037,
+        "gloss": "many many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 370.037,
+        "endTime": 370.959,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Many, many things."
+  },
+  {
+    "startTime": 372.6,
+    "endTime": 380.533,
+    "fullTextZH": "现在你知道这只猫是什么猫吗？",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 372.72,
+        "endTime": 373.782,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 373.782,
+        "endTime": 374.323,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 374.323,
+        "endTime": 375.525,
+        "gloss": "know"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 375.525,
+        "endTime": 375.945,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 375.945,
+        "endTime": 376.246,
+        "gloss": "measure word"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 376.246,
+        "endTime": 376.987,
+        "gloss": "cat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 376.987,
+        "endTime": 377.869,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 377.869,
+        "endTime": 378.99,
+        "gloss": "what"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 378.99,
+        "endTime": 379.792,
+        "gloss": "cat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 379.792,
+        "endTime": 380.493,
+        "gloss": "question particle"
+      }
+    ],
+    "fullTextEN": "Now do you know what kind of cat this is?"
+  },
+  {
+    "startTime": 381.866,
+    "endTime": 384.599,
+    "fullTextZH": "当当当当～对！",
+    "words": [
+      {
+        "word": "当当",
+        "pinyin": "dāng dāng",
+        "startTime": 381.866,
+        "endTime": 382.167,
+        "gloss": "ding"
+      },
+      {
+        "word": "当当",
+        "pinyin": "dāng dāng",
+        "startTime": 382.167,
+        "endTime": 382.569,
+        "gloss": "ding"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 383.876,
+        "endTime": 384.559,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Ding ding ding ding~ Correct!"
+  },
+  {
+    "startTime": 384.666,
+    "endTime": 387.666,
+    "fullTextZH": "他是哆啦a梦。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 384.686,
+        "endTime": 385.089,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 385.089,
+        "endTime": 385.673,
+        "gloss": "is"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 385.673,
+        "endTime": 386.156,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 386.156,
+        "endTime": 386.619,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 387.022,
+        "endTime": 387.626,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "He is Doraemon."
+  },
+  {
+    "startTime": 388.9,
+    "endTime": 392.533,
+    "fullTextZH": "我觉得在中国",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 388.9,
+        "endTime": 389.342,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 389.342,
+        "endTime": 390.546,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 390.546,
+        "endTime": 391.248,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 391.248,
+        "endTime": 391.67,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "I think in China"
+  },
+  {
+    "startTime": 392.6,
+    "endTime": 399.766,
+    "fullTextZH": "所有的中国人可能都知道哆啦a梦。",
+    "words": [
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 392.74,
+        "endTime": 393.701,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 393.701,
+        "endTime": 393.921,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 393.921,
+        "endTime": 394.602,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 394.602,
+        "endTime": 395.382,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 395.382,
+        "endTime": 396.543,
+        "gloss": "probably"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 396.543,
+        "endTime": 397.184,
+        "gloss": "all"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 397.184,
+        "endTime": 398.285,
+        "gloss": "know"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 398.285,
+        "endTime": 398.545,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 398.545,
+        "endTime": 398.865,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 399.105,
+        "endTime": 399.726,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "All Chinese people probably know Doraemon."
+  },
+  {
+    "startTime": 400.566,
+    "endTime": 403.666,
+    "fullTextZH": "我小时候",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 400.667,
+        "endTime": 401.713,
+        "gloss": "I"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 401.713,
+        "endTime": 402.72,
+        "gloss": "when young"
+      }
+    ],
+    "fullTextEN": "When I was young"
+  },
+  {
+    "startTime": 404.1,
+    "endTime": 407.266,
+    "fullTextZH": "很喜欢哆啦a梦。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 404.16,
+        "endTime": 404.942,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 404.942,
+        "endTime": 405.883,
+        "gloss": "like"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 405.883,
+        "endTime": 406.084,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 406.084,
+        "endTime": 406.364,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 406.565,
+        "endTime": 407.226,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "I really liked Doraemon."
+  },
+  {
+    "startTime": 408.4,
+    "endTime": 414.1,
+    "fullTextZH": "你们看哆啦a梦是什么颜色？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 408.42,
+        "endTime": 409.223,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 409.223,
+        "endTime": 410.407,
+        "gloss": "see"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 410.407,
+        "endTime": 410.588,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 410.588,
+        "endTime": 410.929,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 411.19,
+        "endTime": 411.812,
+        "gloss": "a"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 411.812,
+        "endTime": 412.494,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 412.494,
+        "endTime": 412.936,
+        "gloss": "what"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 412.936,
+        "endTime": 414.06,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "What color do you think Doraemon is?"
+  },
+  {
+    "startTime": 414.466,
+    "endTime": 419.499,
+    "fullTextZH": "对，哆啦a梦是蓝色的。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 414.526,
+        "endTime": 414.707,
+        "gloss": "correct"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 415.368,
+        "endTime": 415.529,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 415.529,
+        "endTime": 415.809,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 416.03,
+        "endTime": 416.672,
+        "gloss": "a"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 416.672,
+        "endTime": 417.594,
+        "gloss": "is"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 417.594,
+        "endTime": 418.777,
+        "gloss": "blue"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 418.777,
+        "endTime": 419.459,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Correct, Doraemon is blue."
+  },
+  {
+    "startTime": 420.4,
+    "endTime": 423.066,
+    "fullTextZH": "哆啦a梦胖吗？",
+    "words": [
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 420.4,
+        "endTime": 420.48,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 420.48,
+        "endTime": 420.52,
+        "gloss": "la"
+      },
+      {
+        "word": "梦胖",
+        "pinyin": "mèng pàng",
+        "startTime": 420.961,
+        "endTime": 422.445,
+        "gloss": "a fat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 422.445,
+        "endTime": 423.026,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is Doraemon fat?"
+  },
+  {
+    "startTime": 423.6,
+    "endTime": 427.766,
+    "fullTextZH": "对，哆啦a梦很胖很胖。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 423.68,
+        "endTime": 423.8,
+        "gloss": "correct"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 424.662,
+        "endTime": 424.822,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 424.822,
+        "endTime": 425.062,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 425.262,
+        "endTime": 425.743,
+        "gloss": "a"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 425.743,
+        "endTime": 426.745,
+        "gloss": "very fat"
+      },
+      {
+        "word": "很胖",
+        "pinyin": "hěn pàng",
+        "startTime": 426.745,
+        "endTime": 427.466,
+        "gloss": "very fat"
+      }
+    ],
+    "fullTextEN": "Correct, Doraemon is very fat."
+  },
+  {
+    "startTime": 428.066,
+    "endTime": 431.399,
+    "fullTextZH": "所以哆啦a梦很可爱。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 428.126,
+        "endTime": 428.869,
+        "gloss": "so"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 428.869,
+        "endTime": 429.01,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 429.01,
+        "endTime": 429.291,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 429.451,
+        "endTime": 429.793,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 429.793,
+        "endTime": 430.435,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 430.435,
+        "endTime": 431.359,
+        "gloss": "cute"
+      }
+    ],
+    "fullTextEN": "So Doraemon is very cute."
+  },
+  {
+    "startTime": 432.3,
+    "endTime": 436.5,
+    "fullTextZH": "哆啦a梦有没有耳朵？",
+    "words": [
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 432.3,
+        "endTime": 432.441,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 432.441,
+        "endTime": 432.782,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 433.144,
+        "endTime": 433.787,
+        "gloss": "a"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 433.787,
+        "endTime": 435.234,
+        "gloss": "have not"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 435.234,
+        "endTime": 436.46,
+        "gloss": "ears"
+      }
+    ],
+    "fullTextEN": "Does Doraemon have ears?"
+  },
+  {
+    "startTime": 436.7,
+    "endTime": 438.4,
+    "fullTextZH": "嗯～不。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 436.821,
+        "endTime": 437.611,
+        "gloss": "hmm"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 437.773,
+        "endTime": 438.36,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "Hmm~ No."
+  },
+  {
+    "startTime": 438.566,
+    "endTime": 442.666,
+    "fullTextZH": "哆啦a梦没有耳朵。",
+    "words": [
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 438.666,
+        "endTime": 438.807,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 438.807,
+        "endTime": 439.048,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 439.269,
+        "endTime": 439.892,
+        "gloss": "a"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 439.892,
+        "endTime": 441.52,
+        "gloss": "not have"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 441.52,
+        "endTime": 442.626,
+        "gloss": "ears"
+      }
+    ],
+    "fullTextEN": "Doraemon doesn't have ears."
+  },
+  {
+    "startTime": 444.2,
+    "endTime": 448.833,
+    "fullTextZH": "哆啦a梦有一个口袋，对。",
+    "words": [
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 444.2,
+        "endTime": 444.32,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 444.32,
+        "endTime": 444.581,
+        "gloss": "la"
+      },
+      {
+        "word": "梦有",
+        "pinyin": "mèng yǒu",
+        "startTime": 444.822,
+        "endTime": 446.005,
+        "gloss": "a has"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 446.005,
+        "endTime": 446.928,
+        "gloss": "a"
+      },
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 446.928,
+        "endTime": 448.612,
+        "gloss": "pocket"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 448.713,
+        "endTime": 448.793,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Doraemon has a pocket, correct."
+  },
+  {
+    "startTime": 449.7,
+    "endTime": 456.066,
+    "fullTextZH": "口袋口袋里有很多很多东西。",
+    "words": [
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 449.74,
+        "endTime": 451.021,
+        "gloss": "pocket"
+      },
+      {
+        "word": "口袋",
+        "pinyin": "kǒu dài",
+        "startTime": 451.021,
+        "endTime": 451.762,
+        "gloss": "pocket"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 451.762,
+        "endTime": 452.503,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 452.503,
+        "endTime": 452.963,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 452.963,
+        "endTime": 455.125,
+        "gloss": "many many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 455.125,
+        "endTime": 456.026,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "The pocket has many things inside."
+  },
+  {
+    "startTime": 457.166,
+    "endTime": 462.999,
+    "fullTextZH": "好，以前你知道哆啦a梦吗？",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 457.166,
+        "endTime": 457.306,
+        "gloss": "okay"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 458.268,
+        "endTime": 459.211,
+        "gloss": "before"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 459.211,
+        "endTime": 460.373,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 460.373,
+        "endTime": 461.275,
+        "gloss": "know"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 461.275,
+        "endTime": 461.516,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 461.516,
+        "endTime": 461.796,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 462.037,
+        "endTime": 462.358,
+        "gloss": "a"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 462.358,
+        "endTime": 462.959,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Okay, did you know Doraemon before?"
+  },
+  {
+    "startTime": 463.166,
+    "endTime": 466.666,
+    "fullTextZH": "你喜欢哆啦a梦吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 463.246,
+        "endTime": 464.051,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 464.051,
+        "endTime": 465.037,
+        "gloss": "like"
+      },
+      {
+        "word": "哆",
+        "pinyin": "duō",
+        "startTime": 465.037,
+        "endTime": 465.238,
+        "gloss": "Dora"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 465.238,
+        "endTime": 465.499,
+        "gloss": "la"
+      },
+      {
+        "word": "梦",
+        "pinyin": "mèng",
+        "startTime": 465.761,
+        "endTime": 466.042,
+        "gloss": "a"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 466.042,
+        "endTime": 466.626,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like Doraemon?"
+  },
+  {
+    "startTime": 467.933,
+    "endTime": 473.333,
+    "fullTextZH": "你最喜欢什么猫？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 467.953,
+        "endTime": 468.776,
+        "gloss": "you"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 468.776,
+        "endTime": 469.961,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 469.961,
+        "endTime": 471.305,
+        "gloss": "like"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 471.305,
+        "endTime": 472.53,
+        "gloss": "what"
+      },
+      {
+        "word": "猫",
+        "pinyin": "māo",
+        "startTime": 472.53,
+        "endTime": 473.293,
+        "gloss": "cat"
+      }
+    ],
+    "fullTextEN": "What is your favorite cat?"
+  },
+  {
+    "startTime": 473.9,
+    "endTime": 476.7,
+    "fullTextZH": "留言(comment)告诉我。",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 473.92,
+        "endTime": 474.645,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 475.008,
+        "endTime": 475.713,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 475.713,
+        "endTime": 476.66,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment to tell me."
+  },
+  {
+    "startTime": 477.0,
+    "endTime": 482.0,
+    "fullTextZH": "我们下次见！拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 477.161,
+        "endTime": 478.787,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 478.787,
+        "endTime": 479.992,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 479.992,
+        "endTime": 480.454,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 480.976,
+        "endTime": 481.96,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time! Bye!"
+  }
+]

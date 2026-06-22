@@ -1,0 +1,5462 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 1.366,
+    "fullTextZH": "大家好，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.02,
+        "endTime": 0.402,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 0.402,
+        "endTime": 1.326,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello everyone,"
+  },
+  {
+    "startTime": 1.4,
+    "endTime": 5.033,
+    "fullTextZH": "我是来自台湾的西卡，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.561,
+        "endTime": 1.801,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.801,
+        "endTime": 2.062,
+        "gloss": "am"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 2.062,
+        "endTime": 2.725,
+        "gloss": "from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 2.725,
+        "endTime": 3.267,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 3.267,
+        "endTime": 3.487,
+        "gloss": "of"
+      },
+      {
+        "word": "西卡",
+        "pinyin": "xī kǎ",
+        "startTime": 3.487,
+        "endTime": 4.993,
+        "gloss": "Xika"
+      }
+    ],
+    "fullTextEN": "I am Xika from Taiwan,"
+  },
+  {
+    "startTime": 5.066,
+    "endTime": 11.566,
+    "fullTextZH": "今天我想聊聊一个非常非常有名的人，",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 5.106,
+        "endTime": 6.189,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 6.189,
+        "endTime": 6.37,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 6.37,
+        "endTime": 6.671,
+        "gloss": "want"
+      },
+      {
+        "word": "聊聊",
+        "pinyin": "liáo liáo",
+        "startTime": 6.671,
+        "endTime": 7.273,
+        "gloss": "talk"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 7.273,
+        "endTime": 7.955,
+        "gloss": "a"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 7.955,
+        "endTime": 8.737,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 8.737,
+        "endTime": 9.399,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 9.399,
+        "endTime": 10.122,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 10.122,
+        "endTime": 10.282,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 10.282,
+        "endTime": 11.526,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Today I want to talk about a very, very famous person,"
+  },
+  {
+    "startTime": 11.633,
+    "endTime": 16.0,
+    "fullTextZH": "可能你早就听过他的名字，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 11.653,
+        "endTime": 12.474,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 12.474,
+        "endTime": 12.715,
+        "gloss": "you"
+      },
+      {
+        "word": "早就",
+        "pinyin": "zǎo jiù",
+        "startTime": 12.715,
+        "endTime": 13.356,
+        "gloss": "already"
+      },
+      {
+        "word": "听过",
+        "pinyin": "tīng guò",
+        "startTime": 13.356,
+        "endTime": 13.997,
+        "gloss": "heard"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 13.997,
+        "endTime": 14.317,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 14.317,
+        "endTime": 14.458,
+        "gloss": "of"
+      },
+      {
+        "word": "名字",
+        "pinyin": "míng zì",
+        "startTime": 14.458,
+        "endTime": 15.96,
+        "gloss": "name"
+      }
+    ],
+    "fullTextEN": "You might have already heard his name,"
+  },
+  {
+    "startTime": 16.033,
+    "endTime": 21.833,
+    "fullTextZH": "他就是华语音乐的天王周杰伦，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 16.073,
+        "endTime": 16.334,
+        "gloss": "he"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 16.334,
+        "endTime": 17.498,
+        "gloss": "is"
+      },
+      {
+        "word": "华语音乐",
+        "pinyin": "huá yǔ yīn yuè",
+        "startTime": 17.498,
+        "endTime": 18.863,
+        "gloss": "Mandopop"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 18.863,
+        "endTime": 19.425,
+        "gloss": "of"
+      },
+      {
+        "word": "天王",
+        "pinyin": "tiān wáng",
+        "startTime": 19.425,
+        "endTime": 20.629,
+        "gloss": "king"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 20.629,
+        "endTime": 21.793,
+        "gloss": "Jay Chou"
+      }
+    ],
+    "fullTextEN": "He is the king of Mandopop, Jay Chou,"
+  },
+  {
+    "startTime": 23.333,
+    "endTime": 28.4,
+    "fullTextZH": "他是一个来自台湾的歌手，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 23.373,
+        "endTime": 23.693,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 23.693,
+        "endTime": 23.894,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 23.894,
+        "endTime": 24.735,
+        "gloss": "a"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 24.735,
+        "endTime": 25.736,
+        "gloss": "from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 25.736,
+        "endTime": 26.397,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.397,
+        "endTime": 26.798,
+        "gloss": "of"
+      },
+      {
+        "word": "歌手",
+        "pinyin": "gē shǒu",
+        "startTime": 26.798,
+        "endTime": 28.36,
+        "gloss": "singer"
+      }
+    ],
+    "fullTextEN": "He is a singer from Taiwan,"
+  },
+  {
+    "startTime": 28.433,
+    "endTime": 31.0,
+    "fullTextZH": "他不止会唱歌，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 28.493,
+        "endTime": 28.854,
+        "gloss": "he"
+      },
+      {
+        "word": "不止",
+        "pinyin": "bù zhǐ",
+        "startTime": 28.854,
+        "endTime": 29.456,
+        "gloss": "not only"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 29.456,
+        "endTime": 29.777,
+        "gloss": "can"
+      },
+      {
+        "word": "唱歌",
+        "pinyin": "chàng gē",
+        "startTime": 29.777,
+        "endTime": 30.96,
+        "gloss": "sing"
+      }
+    ],
+    "fullTextEN": "He not only sings,"
+  },
+  {
+    "startTime": 31.033,
+    "endTime": 34.133,
+    "fullTextZH": "也会自己写歌。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 31.093,
+        "endTime": 31.375,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 31.375,
+        "endTime": 31.697,
+        "gloss": "can"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 31.697,
+        "endTime": 32.321,
+        "gloss": "self"
+      },
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 32.321,
+        "endTime": 34.093,
+        "gloss": "write songs"
+      }
+    ],
+    "fullTextEN": "but also writes his own songs."
+  },
+  {
+    "startTime": 34.2,
+    "endTime": 37.6,
+    "fullTextZH": "他也是导演和演员。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 34.26,
+        "endTime": 34.542,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 34.542,
+        "endTime": 34.844,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 34.844,
+        "endTime": 35.347,
+        "gloss": "is"
+      },
+      {
+        "word": "导演",
+        "pinyin": "dǎo yǎn",
+        "startTime": 35.347,
+        "endTime": 36.514,
+        "gloss": "director"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 36.514,
+        "endTime": 36.836,
+        "gloss": "and"
+      },
+      {
+        "word": "演员",
+        "pinyin": "yǎn yuán",
+        "startTime": 36.836,
+        "endTime": 37.56,
+        "gloss": "actor"
+      }
+    ],
+    "fullTextEN": "He is also a director and actor."
+  },
+  {
+    "startTime": 38.8,
+    "endTime": 41.433,
+    "fullTextZH": "他是个非常有名，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 38.86,
+        "endTime": 39.162,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 39.162,
+        "endTime": 39.363,
+        "gloss": "is"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 39.363,
+        "endTime": 39.926,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 39.926,
+        "endTime": 40.569,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 40.569,
+        "endTime": 41.393,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "He is very famous,"
+  },
+  {
+    "startTime": 41.5,
+    "endTime": 44.266,
+    "fullTextZH": "很有才华的人，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 41.54,
+        "endTime": 41.741,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 41.741,
+        "endTime": 42.141,
+        "gloss": "have"
+      },
+      {
+        "word": "才华",
+        "pinyin": "cái huá",
+        "startTime": 42.141,
+        "endTime": 42.863,
+        "gloss": "talent"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 42.863,
+        "endTime": 43.003,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 43.003,
+        "endTime": 44.226,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "a very talented person,"
+  },
+  {
+    "startTime": 44.3,
+    "endTime": 49.133,
+    "fullTextZH": "他的音乐影响了非常多人。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 44.3,
+        "endTime": 44.521,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 44.521,
+        "endTime": 44.761,
+        "gloss": "of"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 44.761,
+        "endTime": 45.864,
+        "gloss": "music"
+      },
+      {
+        "word": "影响",
+        "pinyin": "yǐng xiǎng",
+        "startTime": 45.864,
+        "endTime": 46.606,
+        "gloss": "influenced"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 46.606,
+        "endTime": 46.987,
+        "gloss": "completed"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 46.987,
+        "endTime": 47.609,
+        "gloss": "many"
+      },
+      {
+        "word": "多人",
+        "pinyin": "duō rén",
+        "startTime": 47.609,
+        "endTime": 49.093,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "His music has influenced many people."
+  },
+  {
+    "startTime": 49.166,
+    "endTime": 54.666,
+    "fullTextZH": "今天我想告诉你他长大的故事。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 49.226,
+        "endTime": 50.23,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 50.23,
+        "endTime": 50.411,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 50.411,
+        "endTime": 50.752,
+        "gloss": "want"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 50.752,
+        "endTime": 51.314,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 51.314,
+        "endTime": 51.876,
+        "gloss": "you"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 51.876,
+        "endTime": 52.237,
+        "gloss": "he"
+      },
+      {
+        "word": "长大",
+        "pinyin": "zhǎng dà",
+        "startTime": 52.237,
+        "endTime": 53.04,
+        "gloss": "grew up"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 53.04,
+        "endTime": 53.201,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 53.201,
+        "endTime": 54.626,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Today I want to tell you the story of his upbringing."
+  },
+  {
+    "startTime": 54.733,
+    "endTime": 63.366,
+    "fullTextZH": "周杰伦在 1979年1月18号出生，",
+    "words": [
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 54.733,
+        "endTime": 55.694,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 55.694,
+        "endTime": 56.396,
+        "gloss": "in"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 58.479,
+        "endTime": 59.46,
+        "gloss": "year"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 59.741,
+        "endTime": 60.522,
+        "gloss": "month"
+      },
+      {
+        "word": "号",
+        "pinyin": "hào",
+        "startTime": 61.163,
+        "endTime": 61.744,
+        "gloss": "day"
+      },
+      {
+        "word": "出生",
+        "pinyin": "chū shēng",
+        "startTime": 61.744,
+        "endTime": 63.346,
+        "gloss": "born"
+      }
+    ],
+    "fullTextEN": "Jay Chou was born on January 18, 1979,"
+  },
+  {
+    "startTime": 63.4,
+    "endTime": 67.0,
+    "fullTextZH": "出生在台湾的新北市。",
+    "words": [
+      {
+        "word": "出生",
+        "pinyin": "chū shēng",
+        "startTime": 63.42,
+        "endTime": 63.883,
+        "gloss": "born"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 63.883,
+        "endTime": 64.305,
+        "gloss": "in"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 64.305,
+        "endTime": 64.868,
+        "gloss": "Taiwan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 64.868,
+        "endTime": 65.13,
+        "gloss": "of"
+      },
+      {
+        "word": "新北市",
+        "pinyin": "xīn běi shì",
+        "startTime": 65.13,
+        "endTime": 66.96,
+        "gloss": "New Taipei City"
+      }
+    ],
+    "fullTextEN": "born in New Taipei City, Taiwan."
+  },
+  {
+    "startTime": 67.033,
+    "endTime": 71.033,
+    "fullTextZH": "他的爸爸妈妈都是老师，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 67.093,
+        "endTime": 67.335,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 67.335,
+        "endTime": 67.636,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 67.636,
+        "endTime": 69.405,
+        "gloss": "parents"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 69.405,
+        "endTime": 69.666,
+        "gloss": "both"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 69.666,
+        "endTime": 70.149,
+        "gloss": "are"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 70.149,
+        "endTime": 70.993,
+        "gloss": "teachers"
+      }
+    ],
+    "fullTextEN": "His parents are both teachers,"
+  },
+  {
+    "startTime": 72.4,
+    "endTime": 76.5,
+    "fullTextZH": "他没有其他兄弟姐妹，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 72.42,
+        "endTime": 72.762,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 72.762,
+        "endTime": 73.566,
+        "gloss": "has no"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 73.566,
+        "endTime": 74.229,
+        "gloss": "other"
+      },
+      {
+        "word": "兄弟姐妹",
+        "pinyin": "xiōng dì jiě mèi",
+        "startTime": 74.229,
+        "endTime": 76.46,
+        "gloss": "siblings"
+      }
+    ],
+    "fullTextEN": "He has no siblings,"
+  },
+  {
+    "startTime": 76.566,
+    "endTime": 81.133,
+    "fullTextZH": "家里只有他自己一个孩子，",
+    "words": [
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 76.606,
+        "endTime": 77.608,
+        "gloss": "family"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 77.608,
+        "endTime": 78.028,
+        "gloss": "only"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 78.028,
+        "endTime": 78.389,
+        "gloss": "he"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 78.389,
+        "endTime": 79.15,
+        "gloss": "self"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 79.15,
+        "endTime": 79.671,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 79.671,
+        "endTime": 81.093,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "He is the only child in the family,"
+  },
+  {
+    "startTime": 81.166,
+    "endTime": 83.766,
+    "fullTextZH": "所以没有人跟他玩。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 81.267,
+        "endTime": 82.113,
+        "gloss": "so"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 82.113,
+        "endTime": 82.577,
+        "gloss": "no"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 82.577,
+        "endTime": 82.879,
+        "gloss": "one"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 82.879,
+        "endTime": 83.101,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 83.101,
+        "endTime": 83.363,
+        "gloss": "him"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 83.363,
+        "endTime": 83.726,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "so no one played with him."
+  },
+  {
+    "startTime": 85.2,
+    "endTime": 91.3,
+    "fullTextZH": "他最喜欢做的事就是听音乐和录音，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 85.22,
+        "endTime": 85.621,
+        "gloss": "he"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 85.621,
+        "endTime": 86.043,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 86.043,
+        "endTime": 86.625,
+        "gloss": "like"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 86.625,
+        "endTime": 86.886,
+        "gloss": "do"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 86.886,
+        "endTime": 87.126,
+        "gloss": "of"
+      },
+      {
+        "word": "事",
+        "pinyin": "shì",
+        "startTime": 87.126,
+        "endTime": 87.989,
+        "gloss": "things"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 87.989,
+        "endTime": 88.671,
+        "gloss": "are"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 88.671,
+        "endTime": 88.992,
+        "gloss": "listen"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 88.992,
+        "endTime": 90.257,
+        "gloss": "music"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 90.257,
+        "endTime": 90.638,
+        "gloss": "and"
+      },
+      {
+        "word": "录音",
+        "pinyin": "lù yīn",
+        "startTime": 90.638,
+        "endTime": 91.26,
+        "gloss": "recording"
+      }
+    ],
+    "fullTextEN": "His favorite things to do were listening to music and recording,"
+  },
+  {
+    "startTime": 92.733,
+    "endTime": 98.0,
+    "fullTextZH": "他会拿着录音机录自己的声音，",
+    "words": [
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 92.753,
+        "endTime": 93.174,
+        "gloss": "he would"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 93.174,
+        "endTime": 93.434,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 93.434,
+        "endTime": 93.774,
+        "gloss": "with"
+      },
+      {
+        "word": "录音机",
+        "pinyin": "lù yīn jī",
+        "startTime": 93.774,
+        "endTime": 95.557,
+        "gloss": "tape recorder"
+      },
+      {
+        "word": "录",
+        "pinyin": "lù",
+        "startTime": 95.557,
+        "endTime": 95.977,
+        "gloss": "record"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 95.977,
+        "endTime": 96.438,
+        "gloss": "self"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 96.438,
+        "endTime": 96.778,
+        "gloss": "'s"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 96.778,
+        "endTime": 97.96,
+        "gloss": "voice"
+      }
+    ],
+    "fullTextEN": "He would hold a tape recorder to record his own voice,"
+  },
+  {
+    "startTime": 98.2,
+    "endTime": 103.766,
+    "fullTextZH": "录自己唱歌或自己编的故事。",
+    "words": [
+      {
+        "word": "录",
+        "pinyin": "lù",
+        "startTime": 98.54,
+        "endTime": 98.941,
+        "gloss": "record"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 98.941,
+        "endTime": 99.401,
+        "gloss": "self"
+      },
+      {
+        "word": "唱歌",
+        "pinyin": "chàng gē",
+        "startTime": 99.401,
+        "endTime": 101.163,
+        "gloss": "singing"
+      },
+      {
+        "word": "或",
+        "pinyin": "huò",
+        "startTime": 101.163,
+        "endTime": 101.884,
+        "gloss": "or"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 101.884,
+        "endTime": 102.364,
+        "gloss": "self"
+      },
+      {
+        "word": "编",
+        "pinyin": "biān",
+        "startTime": 102.364,
+        "endTime": 102.725,
+        "gloss": "make up"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.725,
+        "endTime": 102.945,
+        "gloss": "'s"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 102.945,
+        "endTime": 103.726,
+        "gloss": "stories"
+      }
+    ],
+    "fullTextEN": "record himself singing or stories he made up."
+  },
+  {
+    "startTime": 105.2,
+    "endTime": 109.366,
+    "fullTextZH": "他也喜欢模仿其他明星，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 105.24,
+        "endTime": 105.5,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 105.5,
+        "endTime": 105.801,
+        "gloss": "also"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 105.801,
+        "endTime": 106.682,
+        "gloss": "likes"
+      },
+      {
+        "word": "模仿",
+        "pinyin": "mó fǎng",
+        "startTime": 106.682,
+        "endTime": 107.483,
+        "gloss": "imitate"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 107.483,
+        "endTime": 107.924,
+        "gloss": "other"
+      },
+      {
+        "word": "明星",
+        "pinyin": "míng xīng",
+        "startTime": 107.924,
+        "endTime": 109.326,
+        "gloss": "celebrities"
+      }
+    ],
+    "fullTextEN": "He also likes to imitate other celebrities,"
+  },
+  {
+    "startTime": 109.4,
+    "endTime": 115.6,
+    "fullTextZH": "模仿就是学明星唱歌跳舞的样子。",
+    "words": [
+      {
+        "word": "模仿",
+        "pinyin": "mó fǎng",
+        "startTime": 109.44,
+        "endTime": 110.664,
+        "gloss": "imitate"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 110.664,
+        "endTime": 111.106,
+        "gloss": "means"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 111.106,
+        "endTime": 111.487,
+        "gloss": "learn"
+      },
+      {
+        "word": "明星",
+        "pinyin": "míng xīng",
+        "startTime": 111.487,
+        "endTime": 112.59,
+        "gloss": "celebrities"
+      },
+      {
+        "word": "唱歌跳舞",
+        "pinyin": "chàng gē tiào wǔ",
+        "startTime": 112.59,
+        "endTime": 114.737,
+        "gloss": "sing and dance"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 114.737,
+        "endTime": 114.858,
+        "gloss": "'s"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 114.858,
+        "endTime": 115.56,
+        "gloss": "style"
+      }
+    ],
+    "fullTextEN": "Imitating means learning to sing and dance like celebrities."
+  },
+  {
+    "startTime": 116.333,
+    "endTime": 118.8,
+    "fullTextZH": "他的妈妈发现，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 116.373,
+        "endTime": 116.674,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 116.674,
+        "endTime": 116.794,
+        "gloss": "'s"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 116.794,
+        "endTime": 117.717,
+        "gloss": "mother"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 117.717,
+        "endTime": 118.76,
+        "gloss": "discovered"
+      }
+    ],
+    "fullTextEN": "His mother discovered,"
+  },
+  {
+    "startTime": 118.866,
+    "endTime": 119.866,
+    "fullTextZH": "嗯，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 119.131,
+        "endTime": 119.825,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm,"
+  },
+  {
+    "startTime": 119.9,
+    "endTime": 123.966,
+    "fullTextZH": "这个孩子很喜欢音乐，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 119.98,
+        "endTime": 120.381,
+        "gloss": "this"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 120.381,
+        "endTime": 121.442,
+        "gloss": "child"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 121.442,
+        "endTime": 122.003,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 122.003,
+        "endTime": 122.744,
+        "gloss": "likes"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 122.744,
+        "endTime": 123.926,
+        "gloss": "music"
+      }
+    ],
+    "fullTextEN": "this child really likes music,"
+  },
+  {
+    "startTime": 124.033,
+    "endTime": 127.4,
+    "fullTextZH": "也很有音乐天分，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 124.073,
+        "endTime": 124.233,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 124.233,
+        "endTime": 124.554,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 124.554,
+        "endTime": 124.955,
+        "gloss": "has"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 124.955,
+        "endTime": 125.656,
+        "gloss": "music"
+      },
+      {
+        "word": "天分",
+        "pinyin": "tiān fèn",
+        "startTime": 125.656,
+        "endTime": 127.36,
+        "gloss": "talent"
+      }
+    ],
+    "fullTextEN": "and also has a talent for music,"
+  },
+  {
+    "startTime": 127.433,
+    "endTime": 131.6,
+    "fullTextZH": "所以不顾他爸爸的反对，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 127.513,
+        "endTime": 128.395,
+        "gloss": "so"
+      },
+      {
+        "word": "不顾",
+        "pinyin": "bù gù",
+        "startTime": 128.395,
+        "endTime": 129.016,
+        "gloss": "despite"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 129.016,
+        "endTime": 129.316,
+        "gloss": "his"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 129.316,
+        "endTime": 129.817,
+        "gloss": "father"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 129.817,
+        "endTime": 130.097,
+        "gloss": "'s"
+      },
+      {
+        "word": "反对",
+        "pinyin": "fǎn duì",
+        "startTime": 130.097,
+        "endTime": 131.56,
+        "gloss": "objections"
+      }
+    ],
+    "fullTextEN": "so despite his father's objections,"
+  },
+  {
+    "startTime": 131.633,
+    "endTime": 136.133,
+    "fullTextZH": "花了很多钱买了一架钢琴，",
+    "words": [
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 131.673,
+        "endTime": 131.874,
+        "gloss": "spend"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 131.874,
+        "endTime": 132.015,
+        "gloss": "le"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 132.015,
+        "endTime": 132.818,
+        "gloss": "a lot"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 132.818,
+        "endTime": 133.903,
+        "gloss": "money"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 133.903,
+        "endTime": 134.184,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 134.184,
+        "endTime": 134.466,
+        "gloss": "le"
+      },
+      {
+        "word": "一架",
+        "pinyin": "yī jià",
+        "startTime": 134.466,
+        "endTime": 135.37,
+        "gloss": "one"
+      },
+      {
+        "word": "钢琴",
+        "pinyin": "gāng qín",
+        "startTime": 135.37,
+        "endTime": 136.093,
+        "gloss": "piano"
+      }
+    ],
+    "fullTextEN": "she spent a lot of money to buy a piano,"
+  },
+  {
+    "startTime": 137.333,
+    "endTime": 140.633,
+    "fullTextZH": "还送他去上钢琴课。",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 137.413,
+        "endTime": 137.695,
+        "gloss": "also"
+      },
+      {
+        "word": "送",
+        "pinyin": "sòng",
+        "startTime": 137.695,
+        "endTime": 138.037,
+        "gloss": "send"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 138.037,
+        "endTime": 138.822,
+        "gloss": "him"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 138.822,
+        "endTime": 139.084,
+        "gloss": "to"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 139.084,
+        "endTime": 139.506,
+        "gloss": "attend"
+      },
+      {
+        "word": "钢琴课",
+        "pinyin": "gāng qín kè",
+        "startTime": 139.506,
+        "endTime": 140.593,
+        "gloss": "piano lessons"
+      }
+    ],
+    "fullTextEN": "and also sent him to piano lessons."
+  },
+  {
+    "startTime": 142.333,
+    "endTime": 144.233,
+    "fullTextZH": "你想想，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 142.414,
+        "endTime": 142.636,
+        "gloss": "you"
+      },
+      {
+        "word": "想想",
+        "pinyin": "xiǎng xiǎng",
+        "startTime": 142.636,
+        "endTime": 144.213,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Just think,"
+  },
+  {
+    "startTime": 144.3,
+    "endTime": 148.6,
+    "fullTextZH": "喜欢音乐的周杰伦应该很开心吧。",
+    "words": [
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 144.36,
+        "endTime": 144.903,
+        "gloss": "love"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 144.903,
+        "endTime": 145.385,
+        "gloss": "music"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 145.385,
+        "endTime": 145.566,
+        "gloss": "'s"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 145.566,
+        "endTime": 146.852,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 146.852,
+        "endTime": 147.294,
+        "gloss": "should"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 147.294,
+        "endTime": 147.575,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 147.575,
+        "endTime": 148.238,
+        "gloss": "happy"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 148.238,
+        "endTime": 148.56,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Jay Chou, who loves music, should be very happy."
+  },
+  {
+    "startTime": 150.9,
+    "endTime": 155.466,
+    "fullTextZH": "其实他变得没那么开心了，",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 150.92,
+        "endTime": 151.901,
+        "gloss": "actually"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 151.901,
+        "endTime": 152.182,
+        "gloss": "he"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 152.182,
+        "endTime": 152.642,
+        "gloss": "became"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 152.642,
+        "endTime": 152.983,
+        "gloss": "not"
+      },
+      {
+        "word": "那么",
+        "pinyin": "nà me",
+        "startTime": 152.983,
+        "endTime": 153.423,
+        "gloss": "so"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 153.423,
+        "endTime": 154.024,
+        "gloss": "happy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 154.024,
+        "endTime": 155.426,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Actually, he became less happy,"
+  },
+  {
+    "startTime": 155.5,
+    "endTime": 159.466,
+    "fullTextZH": "因为那个时候他才 4 岁，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 155.58,
+        "endTime": 156.502,
+        "gloss": "because"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 156.502,
+        "endTime": 156.942,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 156.942,
+        "endTime": 157.763,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 157.763,
+        "endTime": 158.064,
+        "gloss": "he"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 158.064,
+        "endTime": 158.605,
+        "gloss": "only"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 159.005,
+        "endTime": 159.426,
+        "gloss": "years old"
+      }
+    ],
+    "fullTextEN": "because at that time he was only 4 years old,"
+  },
+  {
+    "startTime": 160.566,
+    "endTime": 166.733,
+    "fullTextZH": "每天他都要练习两个小时以上的钢琴。",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 160.606,
+        "endTime": 161.908,
+        "gloss": "every day"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 161.908,
+        "endTime": 162.188,
+        "gloss": "he"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 162.188,
+        "endTime": 162.348,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 162.348,
+        "endTime": 162.668,
+        "gloss": "must"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 162.668,
+        "endTime": 163.81,
+        "gloss": "practice"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 163.81,
+        "endTime": 164.51,
+        "gloss": "two"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 164.51,
+        "endTime": 165.071,
+        "gloss": "hours"
+      },
+      {
+        "word": "以上",
+        "pinyin": "yǐ shàng",
+        "startTime": 165.071,
+        "endTime": 165.632,
+        "gloss": "more than"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 165.632,
+        "endTime": 165.932,
+        "gloss": "'s"
+      },
+      {
+        "word": "钢琴",
+        "pinyin": "gāng qín",
+        "startTime": 165.932,
+        "endTime": 166.693,
+        "gloss": "piano"
+      }
+    ],
+    "fullTextEN": "and he had to practice piano for more than two hours every day."
+  },
+  {
+    "startTime": 168.5,
+    "endTime": 173.666,
+    "fullTextZH": "他的钢琴老师很严格很凶。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 168.52,
+        "endTime": 168.82,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 168.82,
+        "endTime": 169.021,
+        "gloss": "'s"
+      },
+      {
+        "word": "钢琴",
+        "pinyin": "gāng qín",
+        "startTime": 169.021,
+        "endTime": 169.581,
+        "gloss": "piano"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 169.581,
+        "endTime": 170.943,
+        "gloss": "teacher"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 170.943,
+        "endTime": 171.303,
+        "gloss": "very"
+      },
+      {
+        "word": "严格",
+        "pinyin": "yán gé",
+        "startTime": 171.303,
+        "endTime": 172.745,
+        "gloss": "strict"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 172.745,
+        "endTime": 173.185,
+        "gloss": "very"
+      },
+      {
+        "word": "凶",
+        "pinyin": "xiōng",
+        "startTime": 173.185,
+        "endTime": 173.626,
+        "gloss": "fierce"
+      }
+    ],
+    "fullTextEN": "His piano teacher was very strict and fierce."
+  },
+  {
+    "startTime": 174.833,
+    "endTime": 181.0,
+    "fullTextZH": "如果他弹错了或是不专心，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 174.993,
+        "endTime": 175.454,
+        "gloss": "if"
+      },
+      {
+        "word": "他弹",
+        "pinyin": "tā dàn",
+        "startTime": 175.454,
+        "endTime": 176.515,
+        "gloss": "he play"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 176.515,
+        "endTime": 176.775,
+        "gloss": "wrong"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 176.775,
+        "endTime": 178.157,
+        "gloss": "le"
+      },
+      {
+        "word": "或是",
+        "pinyin": "huò shì",
+        "startTime": 178.157,
+        "endTime": 178.858,
+        "gloss": "or"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 178.858,
+        "endTime": 179.158,
+        "gloss": "not"
+      },
+      {
+        "word": "专心",
+        "pinyin": "zhuān xīn",
+        "startTime": 179.158,
+        "endTime": 180.96,
+        "gloss": "focused"
+      }
+    ],
+    "fullTextEN": "If he played wrong or was not focused,"
+  },
+  {
+    "startTime": 181.033,
+    "endTime": 183.633,
+    "fullTextZH": "他的老师就会打他。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 181.073,
+        "endTime": 181.315,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 181.315,
+        "endTime": 181.456,
+        "gloss": "'s"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 181.456,
+        "endTime": 182.464,
+        "gloss": "teacher"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 182.464,
+        "endTime": 182.706,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 182.706,
+        "endTime": 182.948,
+        "gloss": "would"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 182.948,
+        "endTime": 182.988,
+        "gloss": "hit"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 182.988,
+        "endTime": 183.593,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "his teacher would hit him."
+  },
+  {
+    "startTime": 184.033,
+    "endTime": 187.666,
+    "fullTextZH": "他的妈妈也很严格，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 184.093,
+        "endTime": 184.394,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 184.394,
+        "endTime": 184.535,
+        "gloss": "'s"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 184.535,
+        "endTime": 185.418,
+        "gloss": "mother"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 185.418,
+        "endTime": 185.659,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 185.659,
+        "endTime": 186.06,
+        "gloss": "very"
+      },
+      {
+        "word": "严格",
+        "pinyin": "yán gé",
+        "startTime": 186.06,
+        "endTime": 187.626,
+        "gloss": "strict"
+      }
+    ],
+    "fullTextEN": "His mother was also very strict,"
+  },
+  {
+    "startTime": 187.7,
+    "endTime": 192.366,
+    "fullTextZH": "有的时候他实在不想练习，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 187.76,
+        "endTime": 188.02,
+        "gloss": "have"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 188.02,
+        "endTime": 188.201,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 188.201,
+        "endTime": 189.162,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 189.162,
+        "endTime": 189.582,
+        "gloss": "he"
+      },
+      {
+        "word": "实在",
+        "pinyin": "shí zài",
+        "startTime": 189.582,
+        "endTime": 190.263,
+        "gloss": "really"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 190.263,
+        "endTime": 190.864,
+        "gloss": "not want"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 190.864,
+        "endTime": 192.326,
+        "gloss": "practice"
+      }
+    ],
+    "fullTextEN": "Sometimes he really doesn't want to practice,"
+  },
+  {
+    "startTime": 192.433,
+    "endTime": 201.066,
+    "fullTextZH": "他的妈妈就会拿着棍子站在他的后面看着他，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 192.493,
+        "endTime": 192.713,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 192.713,
+        "endTime": 192.854,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 192.854,
+        "endTime": 193.655,
+        "gloss": "mom"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 193.655,
+        "endTime": 193.895,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 193.895,
+        "endTime": 194.075,
+        "gloss": "would"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 194.075,
+        "endTime": 194.356,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 194.356,
+        "endTime": 194.777,
+        "gloss": "with"
+      },
+      {
+        "word": "棍子",
+        "pinyin": "gùn zi",
+        "startTime": 194.777,
+        "endTime": 196.259,
+        "gloss": "stick"
+      },
+      {
+        "word": "站",
+        "pinyin": "zhàn",
+        "startTime": 196.259,
+        "endTime": 196.479,
+        "gloss": "stand"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 196.479,
+        "endTime": 196.76,
+        "gloss": "at"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 196.76,
+        "endTime": 197.02,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 197.02,
+        "endTime": 197.34,
+        "gloss": "of"
+      },
+      {
+        "word": "后面",
+        "pinyin": "hòu miàn",
+        "startTime": 197.34,
+        "endTime": 199.043,
+        "gloss": "behind"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 199.043,
+        "endTime": 199.684,
+        "gloss": "watching"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 199.684,
+        "endTime": 201.026,
+        "gloss": "he"
+      }
+    ],
+    "fullTextEN": "His mom would stand behind him with a stick watching him,"
+  },
+  {
+    "startTime": 201.1,
+    "endTime": 203.3,
+    "fullTextZH": "直到他练习完。",
+    "words": [
+      {
+        "word": "直到",
+        "pinyin": "zhí dào",
+        "startTime": 201.14,
+        "endTime": 201.625,
+        "gloss": "until"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 201.625,
+        "endTime": 202.17,
+        "gloss": "he"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 202.17,
+        "endTime": 202.896,
+        "gloss": "practice"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 202.896,
+        "endTime": 203.26,
+        "gloss": "finish"
+      }
+    ],
+    "fullTextEN": "until he finishes practicing."
+  },
+  {
+    "startTime": 204.933,
+    "endTime": 207.7,
+    "fullTextZH": "如果他不听话，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 205.013,
+        "endTime": 205.514,
+        "gloss": "if"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 205.514,
+        "endTime": 205.996,
+        "gloss": "he"
+      },
+      {
+        "word": "不听话",
+        "pinyin": "bù tīng huà",
+        "startTime": 205.996,
+        "endTime": 207.66,
+        "gloss": "disobey"
+      }
+    ],
+    "fullTextEN": "If he disobeys,"
+  },
+  {
+    "startTime": 207.733,
+    "endTime": 210.133,
+    "fullTextZH": "他的妈妈就会打他，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 207.794,
+        "endTime": 208.076,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 208.076,
+        "endTime": 208.217,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 208.217,
+        "endTime": 208.943,
+        "gloss": "mom"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 208.943,
+        "endTime": 209.165,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 209.165,
+        "endTime": 209.326,
+        "gloss": "would"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 209.326,
+        "endTime": 209.427,
+        "gloss": "hit"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 209.427,
+        "endTime": 210.093,
+        "gloss": "he"
+      }
+    ],
+    "fullTextEN": "his mom would hit him,"
+  },
+  {
+    "startTime": 210.966,
+    "endTime": 217.2,
+    "fullTextZH": "当其他的小朋友在玩在看电视的时候，",
+    "words": [
+      {
+        "word": "当",
+        "pinyin": "dāng",
+        "startTime": 210.986,
+        "endTime": 211.487,
+        "gloss": "when"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 211.487,
+        "endTime": 212.169,
+        "gloss": "other"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 212.169,
+        "endTime": 212.429,
+        "gloss": "of"
+      },
+      {
+        "word": "小朋友",
+        "pinyin": "xiǎo péng yǒu",
+        "startTime": 212.429,
+        "endTime": 213.532,
+        "gloss": "kids"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 213.532,
+        "endTime": 213.893,
+        "gloss": "at"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 213.893,
+        "endTime": 214.734,
+        "gloss": "play"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 214.734,
+        "endTime": 215.055,
+        "gloss": "at"
+      },
+      {
+        "word": "看电视",
+        "pinyin": "kàn diàn shì",
+        "startTime": 215.055,
+        "endTime": 215.957,
+        "gloss": "watch TV"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 215.957,
+        "endTime": 216.198,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 216.198,
+        "endTime": 217.16,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When other kids are playing and watching TV,"
+  },
+  {
+    "startTime": 217.266,
+    "endTime": 221.566,
+    "fullTextZH": "周杰伦却得练习弹钢琴，",
+    "words": [
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 217.266,
+        "endTime": 218.452,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "却",
+        "pinyin": "què",
+        "startTime": 218.452,
+        "endTime": 218.833,
+        "gloss": "yet"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 218.833,
+        "endTime": 219.115,
+        "gloss": "must"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 219.115,
+        "endTime": 219.838,
+        "gloss": "practice"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 219.838,
+        "endTime": 221.526,
+        "gloss": "play piano"
+      }
+    ],
+    "fullTextEN": "Jay Chou had to practice playing the piano,"
+  },
+  {
+    "startTime": 221.6,
+    "endTime": 224.433,
+    "fullTextZH": "他觉得好不公平。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 221.64,
+        "endTime": 221.921,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 221.921,
+        "endTime": 223.107,
+        "gloss": "feel"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 223.107,
+        "endTime": 223.509,
+        "gloss": "so"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 223.509,
+        "endTime": 223.73,
+        "gloss": "not"
+      },
+      {
+        "word": "公平",
+        "pinyin": "gōng píng",
+        "startTime": 223.73,
+        "endTime": 224.393,
+        "gloss": "fair"
+      }
+    ],
+    "fullTextEN": "he felt it was so unfair."
+  },
+  {
+    "startTime": 225.733,
+    "endTime": 226.9,
+    "fullTextZH": "你想，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 225.773,
+        "endTime": 226.015,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 226.015,
+        "endTime": 226.86,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "You think,"
+  },
+  {
+    "startTime": 226.933,
+    "endTime": 228.433,
+    "fullTextZH": "如果是你，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 227.055,
+        "endTime": 227.521,
+        "gloss": "if"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.521,
+        "endTime": 227.784,
+        "gloss": "be"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 227.784,
+        "endTime": 228.392,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "if it were you,"
+  },
+  {
+    "startTime": 228.5,
+    "endTime": 231.566,
+    "fullTextZH": "你会不会放弃弹钢琴？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 228.58,
+        "endTime": 228.841,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 228.841,
+        "endTime": 229.041,
+        "gloss": "would"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 229.041,
+        "endTime": 229.682,
+        "gloss": "not"
+      },
+      {
+        "word": "放弃",
+        "pinyin": "fàng qì",
+        "startTime": 229.682,
+        "endTime": 230.604,
+        "gloss": "give up"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 230.604,
+        "endTime": 231.526,
+        "gloss": "play piano"
+      }
+    ],
+    "fullTextEN": "would you give up playing the piano?"
+  },
+  {
+    "startTime": 233.366,
+    "endTime": 237.366,
+    "fullTextZH": "周杰伦也曾经想放弃，",
+    "words": [
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 233.386,
+        "endTime": 234.512,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 234.512,
+        "endTime": 234.793,
+        "gloss": "also"
+      },
+      {
+        "word": "曾经",
+        "pinyin": "céng jīng",
+        "startTime": 234.793,
+        "endTime": 235.778,
+        "gloss": "once"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 235.778,
+        "endTime": 236.16,
+        "gloss": "want"
+      },
+      {
+        "word": "放弃",
+        "pinyin": "fàng qì",
+        "startTime": 236.16,
+        "endTime": 237.326,
+        "gloss": "give up"
+      }
+    ],
+    "fullTextEN": "Jay Chou also once wanted to give up,"
+  },
+  {
+    "startTime": 237.4,
+    "endTime": 239.966,
+    "fullTextZH": "不想再学钢琴了，",
+    "words": [
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 237.54,
+        "endTime": 238.402,
+        "gloss": "not want"
+      },
+      {
+        "word": "再学",
+        "pinyin": "zài xué",
+        "startTime": 238.402,
+        "endTime": 239.024,
+        "gloss": "learn again"
+      },
+      {
+        "word": "钢琴",
+        "pinyin": "gāng qín",
+        "startTime": 239.024,
+        "endTime": 239.585,
+        "gloss": "piano"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 239.585,
+        "endTime": 239.926,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "didn't want to learn piano anymore,"
+  },
+  {
+    "startTime": 241.1,
+    "endTime": 247.0,
+    "fullTextZH": "但是等他冷静下来，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 241.12,
+        "endTime": 242.224,
+        "gloss": "but"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 242.224,
+        "endTime": 242.505,
+        "gloss": "when"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 242.505,
+        "endTime": 245.254,
+        "gloss": "he"
+      },
+      {
+        "word": "冷静下来",
+        "pinyin": "lěng jìng xià lái",
+        "startTime": 245.254,
+        "endTime": 246.96,
+        "gloss": "calm down"
+      }
+    ],
+    "fullTextEN": "but when he calmed down,"
+  },
+  {
+    "startTime": 247.066,
+    "endTime": 249.433,
+    "fullTextZH": "又忍不住想弹，",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 247.126,
+        "endTime": 247.367,
+        "gloss": "again"
+      },
+      {
+        "word": "忍不住",
+        "pinyin": "rěn bú zhù",
+        "startTime": 247.367,
+        "endTime": 248.591,
+        "gloss": "can't help"
+      },
+      {
+        "word": "想弹",
+        "pinyin": "xiǎng dàn",
+        "startTime": 248.591,
+        "endTime": 249.393,
+        "gloss": "want play"
+      }
+    ],
+    "fullTextEN": "he couldn't help but want to play again,"
+  },
+  {
+    "startTime": 250.6,
+    "endTime": 254.3,
+    "fullTextZH": "所以他没有放弃弹钢琴。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 250.721,
+        "endTime": 251.505,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 251.505,
+        "endTime": 251.827,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 251.827,
+        "endTime": 252.591,
+        "gloss": "not"
+      },
+      {
+        "word": "放弃",
+        "pinyin": "fàng qì",
+        "startTime": 252.591,
+        "endTime": 253.274,
+        "gloss": "give up"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 253.274,
+        "endTime": 254.26,
+        "gloss": "play piano"
+      }
+    ],
+    "fullTextEN": "so he didn't give up playing the piano."
+  },
+  {
+    "startTime": 255.1,
+    "endTime": 259.566,
+    "fullTextZH": "到了他小学三年级的时候，",
+    "words": [
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 255.12,
+        "endTime": 255.44,
+        "gloss": "by"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 255.44,
+        "endTime": 255.641,
+        "gloss": "le"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 255.641,
+        "endTime": 256.061,
+        "gloss": "he"
+      },
+      {
+        "word": "小学",
+        "pinyin": "xiǎo xué",
+        "startTime": 256.061,
+        "endTime": 257.243,
+        "gloss": "elementary"
+      },
+      {
+        "word": "三年级",
+        "pinyin": "sān nián jí",
+        "startTime": 257.243,
+        "endTime": 258.244,
+        "gloss": "third grade"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 258.244,
+        "endTime": 258.465,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 258.465,
+        "endTime": 259.526,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "By the time he was in third grade,"
+  },
+  {
+    "startTime": 259.6,
+    "endTime": 264.833,
+    "fullTextZH": "他主动跟妈妈说他要学大提琴。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 259.64,
+        "endTime": 259.981,
+        "gloss": "he"
+      },
+      {
+        "word": "主动",
+        "pinyin": "zhǔ dòng",
+        "startTime": 259.981,
+        "endTime": 260.903,
+        "gloss": "proactively"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 260.903,
+        "endTime": 261.084,
+        "gloss": "to"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 261.084,
+        "endTime": 261.625,
+        "gloss": "mom"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 261.625,
+        "endTime": 262.427,
+        "gloss": "say"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 262.427,
+        "endTime": 262.668,
+        "gloss": "he"
+      },
+      {
+        "word": "要学",
+        "pinyin": "yào xué",
+        "startTime": 262.668,
+        "endTime": 263.67,
+        "gloss": "want learn"
+      },
+      {
+        "word": "大提琴",
+        "pinyin": "dà tí qín",
+        "startTime": 263.67,
+        "endTime": 264.793,
+        "gloss": "cello"
+      }
+    ],
+    "fullTextEN": "he proactively told his mom he wanted to learn the cello."
+  },
+  {
+    "startTime": 266.766,
+    "endTime": 271.766,
+    "fullTextZH": "每次他去上大提琴课的时候，",
+    "words": [
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 266.786,
+        "endTime": 267.971,
+        "gloss": "every time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 267.971,
+        "endTime": 268.252,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 268.252,
+        "endTime": 268.533,
+        "gloss": "go"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 268.533,
+        "endTime": 269.135,
+        "gloss": "attend"
+      },
+      {
+        "word": "大提琴",
+        "pinyin": "dà tí qín",
+        "startTime": 269.135,
+        "endTime": 270.16,
+        "gloss": "cello"
+      },
+      {
+        "word": "课",
+        "pinyin": "kè",
+        "startTime": 270.16,
+        "endTime": 270.421,
+        "gloss": "class"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.421,
+        "endTime": 270.642,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 270.642,
+        "endTime": 271.726,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Every time he went to cello class,"
+  },
+  {
+    "startTime": 271.8,
+    "endTime": 277.9,
+    "fullTextZH": "他要背着好大好重的大提琴，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 271.84,
+        "endTime": 272.041,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 272.041,
+        "endTime": 272.382,
+        "gloss": "must"
+      },
+      {
+        "word": "背着",
+        "pinyin": "bèi zhe",
+        "startTime": 272.382,
+        "endTime": 273.405,
+        "gloss": "carry"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 273.405,
+        "endTime": 273.807,
+        "gloss": "very"
+      },
+      {
+        "word": "大好",
+        "pinyin": "dà hǎo",
+        "startTime": 273.807,
+        "endTime": 275.071,
+        "gloss": "big"
+      },
+      {
+        "word": "重",
+        "pinyin": "zhòng",
+        "startTime": 275.071,
+        "endTime": 275.793,
+        "gloss": "heavy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 275.793,
+        "endTime": 276.034,
+        "gloss": "of"
+      },
+      {
+        "word": "大提琴",
+        "pinyin": "dà tí qín",
+        "startTime": 276.034,
+        "endTime": 277.86,
+        "gloss": "cello"
+      }
+    ],
+    "fullTextEN": "he had to carry a very big and heavy cello,"
+  },
+  {
+    "startTime": 277.966,
+    "endTime": 280.733,
+    "fullTextZH": "自己坐公车去上课。",
+    "words": [
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 278.046,
+        "endTime": 278.427,
+        "gloss": "self"
+      },
+      {
+        "word": "坐公车",
+        "pinyin": "zuò gōng chē",
+        "startTime": 278.427,
+        "endTime": 279.69,
+        "gloss": "take bus"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 279.69,
+        "endTime": 279.971,
+        "gloss": "go"
+      },
+      {
+        "word": "上课",
+        "pinyin": "shàng kè",
+        "startTime": 279.971,
+        "endTime": 280.693,
+        "gloss": "attend class"
+      }
+    ],
+    "fullTextEN": "Go to class by bus by myself."
+  },
+  {
+    "startTime": 282.4,
+    "endTime": 287.866,
+    "fullTextZH": "他的妈妈看了觉得很心疼，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 282.44,
+        "endTime": 282.64,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 282.64,
+        "endTime": 282.78,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 282.78,
+        "endTime": 283.401,
+        "gloss": "mother"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 283.401,
+        "endTime": 283.842,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 283.842,
+        "endTime": 284.562,
+        "gloss": "le"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 284.562,
+        "endTime": 285.824,
+        "gloss": "feel"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 285.824,
+        "endTime": 286.244,
+        "gloss": "very"
+      },
+      {
+        "word": "心疼",
+        "pinyin": "xīn téng",
+        "startTime": 286.244,
+        "endTime": 287.826,
+        "gloss": "distressed"
+      }
+    ],
+    "fullTextEN": "His mother felt very distressed after seeing it,"
+  },
+  {
+    "startTime": 287.933,
+    "endTime": 296.1,
+    "fullTextZH": "可是周杰伦觉得能背着大提琴走来走去很酷。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 287.993,
+        "endTime": 288.534,
+        "gloss": "but"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 288.534,
+        "endTime": 289.294,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 289.294,
+        "endTime": 290.475,
+        "gloss": "think"
+      },
+      {
+        "word": "能",
+        "pinyin": "néng",
+        "startTime": 290.475,
+        "endTime": 290.735,
+        "gloss": "can"
+      },
+      {
+        "word": "背着",
+        "pinyin": "bèi zhe",
+        "startTime": 290.735,
+        "endTime": 291.576,
+        "gloss": "carry"
+      },
+      {
+        "word": "大提琴",
+        "pinyin": "dà tí qín",
+        "startTime": 291.576,
+        "endTime": 293.117,
+        "gloss": "cello"
+      },
+      {
+        "word": "走来走去",
+        "pinyin": "zǒu lái zǒu qù",
+        "startTime": 293.117,
+        "endTime": 295.239,
+        "gloss": "walk around"
+      },
+      {
+        "word": "很酷",
+        "pinyin": "hěn kù",
+        "startTime": 295.239,
+        "endTime": 296.06,
+        "gloss": "very cool"
+      }
+    ],
+    "fullTextEN": "But Jay Chou thought carrying a cello around was cool."
+  },
+  {
+    "startTime": 297.633,
+    "endTime": 304.633,
+    "fullTextZH": "周杰伦花这么多时间在弹钢琴学音乐，",
+    "words": [
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 297.653,
+        "endTime": 298.656,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 298.656,
+        "endTime": 299.037,
+        "gloss": "spend"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 299.037,
+        "endTime": 299.619,
+        "gloss": "so"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 299.619,
+        "endTime": 299.92,
+        "gloss": "much"
+      },
+      {
+        "word": "时间",
+        "pinyin": "shí jiān",
+        "startTime": 299.92,
+        "endTime": 300.802,
+        "gloss": "time"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 300.802,
+        "endTime": 301.143,
+        "gloss": "at"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 301.143,
+        "endTime": 302.968,
+        "gloss": "play piano"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 302.968,
+        "endTime": 303.289,
+        "gloss": "learn"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 303.289,
+        "endTime": 304.593,
+        "gloss": "music"
+      }
+    ],
+    "fullTextEN": "Jay Chou spent so much time playing piano and learning music,"
+  },
+  {
+    "startTime": 304.7,
+    "endTime": 308.933,
+    "fullTextZH": "又没有其他兄弟姐妹一起玩，",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 304.76,
+        "endTime": 305.001,
+        "gloss": "and"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 305.001,
+        "endTime": 305.643,
+        "gloss": "not have"
+      },
+      {
+        "word": "其他",
+        "pinyin": "qí tā",
+        "startTime": 305.643,
+        "endTime": 306.124,
+        "gloss": "other"
+      },
+      {
+        "word": "兄弟姐妹",
+        "pinyin": "xiōng dì jiě mèi",
+        "startTime": 306.124,
+        "endTime": 307.228,
+        "gloss": "siblings"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 307.228,
+        "endTime": 307.769,
+        "gloss": "together"
+      },
+      {
+        "word": "玩",
+        "pinyin": "wán",
+        "startTime": 307.769,
+        "endTime": 308.893,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "and had no siblings to play with,"
+  },
+  {
+    "startTime": 308.966,
+    "endTime": 313.133,
+    "fullTextZH": "所以他的性格很内向，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 309.026,
+        "endTime": 309.787,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 309.787,
+        "endTime": 310.008,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 310.008,
+        "endTime": 310.248,
+        "gloss": "of"
+      },
+      {
+        "word": "性格",
+        "pinyin": "xìng gé",
+        "startTime": 310.248,
+        "endTime": 311.27,
+        "gloss": "personality"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 311.27,
+        "endTime": 311.61,
+        "gloss": "very"
+      },
+      {
+        "word": "内向",
+        "pinyin": "nèi xiàng",
+        "startTime": 311.61,
+        "endTime": 313.093,
+        "gloss": "introverted"
+      }
+    ],
+    "fullTextEN": "so his personality was very introverted,"
+  },
+  {
+    "startTime": 313.166,
+    "endTime": 314.933,
+    "fullTextZH": "没有什么朋友。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 313.226,
+        "endTime": 313.768,
+        "gloss": "not have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 313.768,
+        "endTime": 314.25,
+        "gloss": "any"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 314.25,
+        "endTime": 314.893,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "and he had no friends."
+  },
+  {
+    "startTime": 316.366,
+    "endTime": 319.033,
+    "fullTextZH": "他 14 岁的时候，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 316.406,
+        "endTime": 316.867,
+        "gloss": "he"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 317.609,
+        "endTime": 317.85,
+        "gloss": "years"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 317.85,
+        "endTime": 318.07,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 318.07,
+        "endTime": 319.013,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When he was 14 years old,"
+  },
+  {
+    "startTime": 319.1,
+    "endTime": 320.766,
+    "fullTextZH": "父母离婚了。",
+    "words": [
+      {
+        "word": "父母",
+        "pinyin": "fù mǔ",
+        "startTime": 319.2,
+        "endTime": 319.682,
+        "gloss": "parents"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 319.682,
+        "endTime": 320.365,
+        "gloss": "divorce"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 320.365,
+        "endTime": 320.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "his parents divorced."
+  },
+  {
+    "startTime": 322.0,
+    "endTime": 326.1,
+    "fullTextZH": "他的成绩本来就不好，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 322.06,
+        "endTime": 322.322,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 322.322,
+        "endTime": 322.563,
+        "gloss": "of"
+      },
+      {
+        "word": "成绩",
+        "pinyin": "chéng jì",
+        "startTime": 322.563,
+        "endTime": 323.708,
+        "gloss": "grades"
+      },
+      {
+        "word": "本来",
+        "pinyin": "běn lái",
+        "startTime": 323.708,
+        "endTime": 324.171,
+        "gloss": "originally"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 324.171,
+        "endTime": 324.472,
+        "gloss": "just"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 324.472,
+        "endTime": 326.06,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "His grades were already not good,"
+  },
+  {
+    "startTime": 326.166,
+    "endTime": 329.833,
+    "fullTextZH": "受到父母离婚的影响，",
+    "words": [
+      {
+        "word": "受到",
+        "pinyin": "shòu dào",
+        "startTime": 326.226,
+        "endTime": 326.787,
+        "gloss": "affected"
+      },
+      {
+        "word": "父母",
+        "pinyin": "fù mǔ",
+        "startTime": 326.787,
+        "endTime": 327.569,
+        "gloss": "parents"
+      },
+      {
+        "word": "离婚",
+        "pinyin": "lí hūn",
+        "startTime": 327.569,
+        "endTime": 328.31,
+        "gloss": "divorce"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 328.31,
+        "endTime": 328.47,
+        "gloss": "of"
+      },
+      {
+        "word": "影响",
+        "pinyin": "yǐng xiǎng",
+        "startTime": 328.47,
+        "endTime": 329.793,
+        "gloss": "influence"
+      }
+    ],
+    "fullTextEN": "and were affected by his parents' divorce,"
+  },
+  {
+    "startTime": 329.9,
+    "endTime": 333.3,
+    "fullTextZH": "他的成绩变得更差了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 329.96,
+        "endTime": 330.141,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 330.141,
+        "endTime": 330.343,
+        "gloss": "of"
+      },
+      {
+        "word": "成绩",
+        "pinyin": "chéng jì",
+        "startTime": 330.343,
+        "endTime": 331.409,
+        "gloss": "grades"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 331.409,
+        "endTime": 331.952,
+        "gloss": "became"
+      },
+      {
+        "word": "更差",
+        "pinyin": "gèng chà",
+        "startTime": 331.952,
+        "endTime": 332.918,
+        "gloss": "worse"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 332.918,
+        "endTime": 333.26,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "his grades became even worse."
+  },
+  {
+    "startTime": 333.733,
+    "endTime": 336.0,
+    "fullTextZH": "他也变得更安静，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 333.733,
+        "endTime": 333.873,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 333.873,
+        "endTime": 334.134,
+        "gloss": "also"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 334.134,
+        "endTime": 334.676,
+        "gloss": "became"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 334.676,
+        "endTime": 335.218,
+        "gloss": "more"
+      },
+      {
+        "word": "安静",
+        "pinyin": "ān jìng",
+        "startTime": 335.218,
+        "endTime": 335.96,
+        "gloss": "quiet"
+      }
+    ],
+    "fullTextEN": "He also became quieter,"
+  },
+  {
+    "startTime": 338.266,
+    "endTime": 341.366,
+    "fullTextZH": "一直到他上了高中，",
+    "words": [
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 338.326,
+        "endTime": 338.81,
+        "gloss": "always"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 338.81,
+        "endTime": 339.071,
+        "gloss": "until"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 339.071,
+        "endTime": 339.454,
+        "gloss": "he"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 339.454,
+        "endTime": 339.796,
+        "gloss": "attend"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 339.796,
+        "endTime": 339.977,
+        "gloss": "le"
+      },
+      {
+        "word": "高中",
+        "pinyin": "gāo zhōng",
+        "startTime": 339.977,
+        "endTime": 341.326,
+        "gloss": "high school"
+      }
+    ],
+    "fullTextEN": "until he went to high school,"
+  },
+  {
+    "startTime": 341.433,
+    "endTime": 348.333,
+    "fullTextZH": "他发现很多人都羡慕他会弹钢琴，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 341.453,
+        "endTime": 341.834,
+        "gloss": "he"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 341.834,
+        "endTime": 343.76,
+        "gloss": "found"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 343.76,
+        "endTime": 344.562,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 344.562,
+        "endTime": 345.344,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 345.344,
+        "endTime": 345.705,
+        "gloss": "all"
+      },
+      {
+        "word": "羡慕",
+        "pinyin": "xiàn mù",
+        "startTime": 345.705,
+        "endTime": 346.688,
+        "gloss": "admire"
+      },
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 346.688,
+        "endTime": 347.23,
+        "gloss": "he can"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 347.23,
+        "endTime": 348.293,
+        "gloss": "play piano"
+      }
+    ],
+    "fullTextEN": "he found that many people admired his piano skills,"
+  },
+  {
+    "startTime": 349.766,
+    "endTime": 353.133,
+    "fullTextZH": "也因为他会弹钢琴，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 349.806,
+        "endTime": 350.027,
+        "gloss": "also"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 350.027,
+        "endTime": 350.848,
+        "gloss": "because"
+      },
+      {
+        "word": "他会",
+        "pinyin": "tā huì",
+        "startTime": 350.848,
+        "endTime": 351.49,
+        "gloss": "he can"
+      },
+      {
+        "word": "弹钢琴",
+        "pinyin": "tán gāng qín",
+        "startTime": 351.49,
+        "endTime": 353.093,
+        "gloss": "play piano"
+      }
+    ],
+    "fullTextEN": "and because he could play piano,"
+  },
+  {
+    "startTime": 353.166,
+    "endTime": 356.533,
+    "fullTextZH": "很多女同学喜欢他，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 353.226,
+        "endTime": 353.787,
+        "gloss": "many"
+      },
+      {
+        "word": "女同学",
+        "pinyin": "nǚ tóng xué",
+        "startTime": 353.787,
+        "endTime": 355.411,
+        "gloss": "female classmates"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 355.411,
+        "endTime": 356.092,
+        "gloss": "like"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 356.092,
+        "endTime": 356.493,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "many female classmates liked him,"
+  },
+  {
+    "startTime": 357.633,
+    "endTime": 360.733,
+    "fullTextZH": "觉得他好有才华。",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 357.653,
+        "endTime": 358.941,
+        "gloss": "think"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 358.941,
+        "endTime": 359.223,
+        "gloss": "he"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 359.223,
+        "endTime": 359.586,
+        "gloss": "very"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 359.586,
+        "endTime": 359.968,
+        "gloss": "have"
+      },
+      {
+        "word": "才华",
+        "pinyin": "cái huá",
+        "startTime": 359.968,
+        "endTime": 360.693,
+        "gloss": "talent"
+      }
+    ],
+    "fullTextEN": "thinking he was very talented."
+  },
+  {
+    "startTime": 362.066,
+    "endTime": 366.7,
+    "fullTextZH": "所以到这个时候他开始有了自信，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 362.166,
+        "endTime": 363.089,
+        "gloss": "so"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 363.089,
+        "endTime": 363.39,
+        "gloss": "by"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 363.39,
+        "endTime": 363.851,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 363.851,
+        "endTime": 364.694,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 364.694,
+        "endTime": 364.915,
+        "gloss": "he"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 364.915,
+        "endTime": 365.436,
+        "gloss": "start"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 365.436,
+        "endTime": 365.657,
+        "gloss": "have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 365.657,
+        "endTime": 365.938,
+        "gloss": "le"
+      },
+      {
+        "word": "自信",
+        "pinyin": "zì xìn",
+        "startTime": 365.938,
+        "endTime": 366.66,
+        "gloss": "confidence"
+      }
+    ],
+    "fullTextEN": "So by this time he started to gain confidence,"
+  },
+  {
+    "startTime": 366.933,
+    "endTime": 369.6,
+    "fullTextZH": "也交到一些好朋友，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 366.993,
+        "endTime": 367.254,
+        "gloss": "also"
+      },
+      {
+        "word": "交到",
+        "pinyin": "jiāo dào",
+        "startTime": 367.254,
+        "endTime": 367.916,
+        "gloss": "made"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 367.916,
+        "endTime": 368.557,
+        "gloss": "some"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 368.557,
+        "endTime": 368.898,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 368.898,
+        "endTime": 369.56,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "and made some good friends,"
+  },
+  {
+    "startTime": 370.733,
+    "endTime": 376.033,
+    "fullTextZH": "这些好朋友也鼓励他自己作曲，",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 370.773,
+        "endTime": 371.215,
+        "gloss": "these"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 371.215,
+        "endTime": 371.476,
+        "gloss": "good"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 371.476,
+        "endTime": 372.46,
+        "gloss": "friends"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 372.46,
+        "endTime": 372.841,
+        "gloss": "also"
+      },
+      {
+        "word": "鼓励",
+        "pinyin": "gǔ lì",
+        "startTime": 372.841,
+        "endTime": 373.443,
+        "gloss": "encourage"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 373.443,
+        "endTime": 374.246,
+        "gloss": "him"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 374.246,
+        "endTime": 374.668,
+        "gloss": "self"
+      },
+      {
+        "word": "作曲",
+        "pinyin": "zuò qǔ",
+        "startTime": 374.668,
+        "endTime": 375.993,
+        "gloss": "compose"
+      }
+    ],
+    "fullTextEN": "These good friends also encouraged him to compose his own music,"
+  },
+  {
+    "startTime": 376.066,
+    "endTime": 378.366,
+    "fullTextZH": "就是自己写歌。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 376.147,
+        "endTime": 376.994,
+        "gloss": "which means"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 376.994,
+        "endTime": 377.579,
+        "gloss": "self"
+      },
+      {
+        "word": "写歌",
+        "pinyin": "xiě gē",
+        "startTime": 377.579,
+        "endTime": 378.326,
+        "gloss": "write songs"
+      }
+    ],
+    "fullTextEN": "which means writing songs himself."
+  },
+  {
+    "startTime": 379.466,
+    "endTime": 381.633,
+    "fullTextZH": "就是这个时候，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 379.506,
+        "endTime": 380.108,
+        "gloss": "it was"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 380.108,
+        "endTime": 380.59,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 380.59,
+        "endTime": 381.613,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "It was at this time,"
+  },
+  {
+    "startTime": 381.666,
+    "endTime": 385.166,
+    "fullTextZH": "周杰伦才真正体会到，",
+    "words": [
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 381.706,
+        "endTime": 382.591,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 382.591,
+        "endTime": 382.893,
+        "gloss": "only then"
+      },
+      {
+        "word": "真正",
+        "pinyin": "zhēn zhèng",
+        "startTime": 382.893,
+        "endTime": 383.597,
+        "gloss": "truly"
+      },
+      {
+        "word": "体会",
+        "pinyin": "tǐ huì",
+        "startTime": 383.597,
+        "endTime": 384.241,
+        "gloss": "realize"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 384.241,
+        "endTime": 385.126,
+        "gloss": "to"
+      }
+    ],
+    "fullTextEN": "that Jay Chou truly realized,"
+  },
+  {
+    "startTime": 385.233,
+    "endTime": 389.2,
+    "fullTextZH": "他的钢琴能弹得这么好，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 385.273,
+        "endTime": 385.513,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 385.513,
+        "endTime": 385.734,
+        "gloss": "possessive"
+      },
+      {
+        "word": "钢琴",
+        "pinyin": "gāng qín",
+        "startTime": 385.734,
+        "endTime": 386.615,
+        "gloss": "piano"
+      },
+      {
+        "word": "能弹",
+        "pinyin": "néng dàn",
+        "startTime": 386.615,
+        "endTime": 387.196,
+        "gloss": "can play"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 387.196,
+        "endTime": 387.517,
+        "gloss": "so"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 387.517,
+        "endTime": 388.138,
+        "gloss": "good"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 388.138,
+        "endTime": 389.16,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "his piano skills could be so good,"
+  },
+  {
+    "startTime": 389.233,
+    "endTime": 392.533,
+    "fullTextZH": "都要感谢他的妈妈，",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 389.293,
+        "endTime": 389.454,
+        "gloss": "all"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 389.454,
+        "endTime": 389.776,
+        "gloss": "must"
+      },
+      {
+        "word": "感谢",
+        "pinyin": "gǎn xiè",
+        "startTime": 389.776,
+        "endTime": 390.662,
+        "gloss": "thank"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 390.662,
+        "endTime": 390.923,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 390.923,
+        "endTime": 391.084,
+        "gloss": "possessive"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 391.084,
+        "endTime": 392.493,
+        "gloss": "mother"
+      }
+    ],
+    "fullTextEN": "he had to thank his mother,"
+  },
+  {
+    "startTime": 392.6,
+    "endTime": 397.766,
+    "fullTextZH": "感谢妈妈拿着棍子逼他练习。",
+    "words": [
+      {
+        "word": "感谢",
+        "pinyin": "gǎn xiè",
+        "startTime": 392.62,
+        "endTime": 393.261,
+        "gloss": "thank"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 393.261,
+        "endTime": 394.222,
+        "gloss": "mother"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 394.222,
+        "endTime": 394.522,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 394.522,
+        "endTime": 394.863,
+        "gloss": "with"
+      },
+      {
+        "word": "棍子",
+        "pinyin": "gùn zi",
+        "startTime": 394.863,
+        "endTime": 396.324,
+        "gloss": "stick"
+      },
+      {
+        "word": "逼",
+        "pinyin": "bī",
+        "startTime": 396.324,
+        "endTime": 396.625,
+        "gloss": "force"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 396.625,
+        "endTime": 396.965,
+        "gloss": "him"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 396.965,
+        "endTime": 397.726,
+        "gloss": "practice"
+      }
+    ],
+    "fullTextEN": "thank his mother for forcing him to practice with a stick."
+  },
+  {
+    "startTime": 398.866,
+    "endTime": 407.333,
+    "fullTextZH": "所以他写了一首歌叫做《听妈妈的话》送给他的妈妈。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 398.946,
+        "endTime": 399.747,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 399.747,
+        "endTime": 400.147,
+        "gloss": "he"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 400.147,
+        "endTime": 400.427,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 400.427,
+        "endTime": 400.728,
+        "gloss": "completed"
+      },
+      {
+        "word": "一首歌",
+        "pinyin": "yī shǒu gē",
+        "startTime": 400.728,
+        "endTime": 402.069,
+        "gloss": "a song"
+      },
+      {
+        "word": "叫做",
+        "pinyin": "jiào zuò",
+        "startTime": 402.069,
+        "endTime": 402.829,
+        "gloss": "called"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 403.089,
+        "endTime": 403.49,
+        "gloss": "listen"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 403.49,
+        "endTime": 404.13,
+        "gloss": "mother"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 404.13,
+        "endTime": 405.491,
+        "gloss": "possessive"
+      },
+      {
+        "word": "送给",
+        "pinyin": "sòng gěi",
+        "startTime": 405.692,
+        "endTime": 406.392,
+        "gloss": "words"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 406.392,
+        "endTime": 406.572,
+        "gloss": "give"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 406.572,
+        "endTime": 406.712,
+        "gloss": "his"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 406.712,
+        "endTime": 407.293,
+        "gloss": "possessive"
+      }
+    ],
+    "fullTextEN": "So he wrote a song called 'Listen to Mother's Words' for his mother."
+  },
+  {
+    "startTime": 408.766,
+    "endTime": 412.633,
+    "fullTextZH": "他想告诉所有小朋友，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 408.806,
+        "endTime": 408.946,
+        "gloss": "he"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 408.946,
+        "endTime": 409.367,
+        "gloss": "want"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 409.367,
+        "endTime": 410.349,
+        "gloss": "tell"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 410.349,
+        "endTime": 411.01,
+        "gloss": "all"
+      },
+      {
+        "word": "小朋友",
+        "pinyin": "xiǎo péng yǒu",
+        "startTime": 411.01,
+        "endTime": 412.593,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "He wants to tell all the children,"
+  },
+  {
+    "startTime": 412.666,
+    "endTime": 416.633,
+    "fullTextZH": "不要因为妈妈逼你练习，",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 412.786,
+        "endTime": 413.247,
+        "gloss": "do not"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 413.247,
+        "endTime": 413.748,
+        "gloss": "because"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 413.748,
+        "endTime": 414.73,
+        "gloss": "mother"
+      },
+      {
+        "word": "逼",
+        "pinyin": "bī",
+        "startTime": 414.73,
+        "endTime": 415.03,
+        "gloss": "force"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 415.03,
+        "endTime": 415.331,
+        "gloss": "you"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 415.331,
+        "endTime": 416.593,
+        "gloss": "practice"
+      }
+    ],
+    "fullTextEN": "not to be angry with your mother for forcing you to practice,"
+  },
+  {
+    "startTime": 416.666,
+    "endTime": 421.033,
+    "fullTextZH": "逼你努力学习就生妈妈的气，",
+    "words": [
+      {
+        "word": "逼",
+        "pinyin": "bī",
+        "startTime": 416.706,
+        "endTime": 416.966,
+        "gloss": "force"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 416.966,
+        "endTime": 417.587,
+        "gloss": "you"
+      },
+      {
+        "word": "努力学习",
+        "pinyin": "nǔ lì xué xí",
+        "startTime": 417.587,
+        "endTime": 419.47,
+        "gloss": "study hard"
+      },
+      {
+        "word": "就生",
+        "pinyin": "jiù shēng",
+        "startTime": 419.47,
+        "endTime": 419.951,
+        "gloss": "then get"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 419.951,
+        "endTime": 420.412,
+        "gloss": "mother"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 420.412,
+        "endTime": 420.652,
+        "gloss": "possessive"
+      },
+      {
+        "word": "气",
+        "pinyin": "qì",
+        "startTime": 420.652,
+        "endTime": 420.993,
+        "gloss": "mad"
+      }
+    ],
+    "fullTextEN": "forcing you to study hard and then getting mad at your mother,"
+  },
+  {
+    "startTime": 422.066,
+    "endTime": 428.333,
+    "fullTextZH": "要知道现在努力以后才会有收获，",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 422.106,
+        "endTime": 422.386,
+        "gloss": "must"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 422.386,
+        "endTime": 423.668,
+        "gloss": "know"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 423.668,
+        "endTime": 424.529,
+        "gloss": "now"
+      },
+      {
+        "word": "努力",
+        "pinyin": "nǔ lì",
+        "startTime": 424.529,
+        "endTime": 425.85,
+        "gloss": "work hard"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 425.85,
+        "endTime": 426.771,
+        "gloss": "later"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 426.771,
+        "endTime": 427.132,
+        "gloss": "only then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 427.132,
+        "endTime": 427.372,
+        "gloss": "will"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 427.372,
+        "endTime": 427.592,
+        "gloss": "have"
+      },
+      {
+        "word": "收获",
+        "pinyin": "shōu huò",
+        "startTime": 427.592,
+        "endTime": 428.293,
+        "gloss": "rewards"
+      }
+    ],
+    "fullTextEN": "you should know that working hard now will lead to rewards later,"
+  },
+  {
+    "startTime": 429.566,
+    "endTime": 432.966,
+    "fullTextZH": "长大以后你会感谢妈妈。",
+    "words": [
+      {
+        "word": "长大",
+        "pinyin": "zhǎng dà",
+        "startTime": 429.586,
+        "endTime": 430.17,
+        "gloss": "grow up"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 430.17,
+        "endTime": 431.175,
+        "gloss": "later"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 431.175,
+        "endTime": 431.377,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 431.377,
+        "endTime": 431.719,
+        "gloss": "will"
+      },
+      {
+        "word": "感谢",
+        "pinyin": "gǎn xiè",
+        "startTime": 431.719,
+        "endTime": 432.383,
+        "gloss": "thank"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 432.383,
+        "endTime": 432.926,
+        "gloss": "mother"
+      }
+    ],
+    "fullTextEN": "when you grow up, you will thank your mother."
+  },
+  {
+    "startTime": 433.766,
+    "endTime": 437.633,
+    "fullTextZH": "你们小时候有听妈妈的话吗？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 433.806,
+        "endTime": 434.287,
+        "gloss": "you"
+      },
+      {
+        "word": "小时候",
+        "pinyin": "xiǎo shí hòu",
+        "startTime": 434.287,
+        "endTime": 435.75,
+        "gloss": "when young"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 435.75,
+        "endTime": 436.07,
+        "gloss": "did"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 436.07,
+        "endTime": 436.271,
+        "gloss": "listen"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 436.271,
+        "endTime": 436.751,
+        "gloss": "mother"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 436.751,
+        "endTime": 437.212,
+        "gloss": "possessive"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 437.212,
+        "endTime": 437.593,
+        "gloss": "words"
+      }
+    ],
+    "fullTextEN": "Did you listen to your mother when you were young?"
+  },
+  {
+    "startTime": 438.9,
+    "endTime": 443.666,
+    "fullTextZH": "现在你知道周杰伦长大的故事，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 438.9,
+        "endTime": 439.581,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 439.581,
+        "endTime": 439.821,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 439.821,
+        "endTime": 440.662,
+        "gloss": "know"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 440.662,
+        "endTime": 441.483,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "长大",
+        "pinyin": "zhǎng dà",
+        "startTime": 441.483,
+        "endTime": 442.104,
+        "gloss": "grow up"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 442.104,
+        "endTime": 442.284,
+        "gloss": "possessive"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 442.284,
+        "endTime": 443.626,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Now you know the story of Jay Chou growing up,"
+  },
+  {
+    "startTime": 443.7,
+    "endTime": 450.666,
+    "fullTextZH": "你会更了解周杰伦是怎样写出这首听妈妈的话，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 443.78,
+        "endTime": 443.96,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 443.96,
+        "endTime": 444.16,
+        "gloss": "will"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 444.16,
+        "endTime": 444.401,
+        "gloss": "more"
+      },
+      {
+        "word": "了解",
+        "pinyin": "liǎo jiě",
+        "startTime": 444.401,
+        "endTime": 445.682,
+        "gloss": "understand"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 445.682,
+        "endTime": 446.823,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 446.823,
+        "endTime": 447.063,
+        "gloss": "is"
+      },
+      {
+        "word": "怎样",
+        "pinyin": "zěn yàng",
+        "startTime": 447.063,
+        "endTime": 447.703,
+        "gloss": "how"
+      },
+      {
+        "word": "写出",
+        "pinyin": "xiě chū",
+        "startTime": 447.703,
+        "endTime": 448.424,
+        "gloss": "write"
+      },
+      {
+        "word": "这首",
+        "pinyin": "zhè shǒu",
+        "startTime": 448.424,
+        "endTime": 449.265,
+        "gloss": "this"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 449.265,
+        "endTime": 449.565,
+        "gloss": "listen"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 449.565,
+        "endTime": 450.065,
+        "gloss": "mother"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 450.065,
+        "endTime": 450.626,
+        "gloss": "possessive"
+      }
+    ],
+    "fullTextEN": "you will better understand how Jay Chou wrote the song 'Listen to Mother's Words',"
+  },
+  {
+    "startTime": 451.066,
+    "endTime": 454.333,
+    "fullTextZH": "你可以去听听这首歌，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 451.066,
+        "endTime": 451.206,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 451.206,
+        "endTime": 452.008,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 452.008,
+        "endTime": 452.409,
+        "gloss": "go"
+      },
+      {
+        "word": "听听",
+        "pinyin": "tīng tīng",
+        "startTime": 452.409,
+        "endTime": 452.97,
+        "gloss": "listen"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 452.97,
+        "endTime": 453.211,
+        "gloss": "this"
+      },
+      {
+        "word": "首歌",
+        "pinyin": "shǒu gē",
+        "startTime": 453.211,
+        "endTime": 454.293,
+        "gloss": "song"
+      }
+    ],
+    "fullTextEN": "you can go listen to this song,"
+  },
+  {
+    "startTime": 454.366,
+    "endTime": 459.333,
+    "fullTextZH": "然后告诉我你喜不喜欢周杰伦的音乐。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 454.426,
+        "endTime": 454.907,
+        "gloss": "then"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 454.907,
+        "endTime": 455.448,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 455.448,
+        "endTime": 456.108,
+        "gloss": "me"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 456.108,
+        "endTime": 456.469,
+        "gloss": "you"
+      },
+      {
+        "word": "喜不喜欢",
+        "pinyin": "xǐ bù xǐ huān",
+        "startTime": 456.469,
+        "endTime": 457.711,
+        "gloss": "like or not"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 457.711,
+        "endTime": 458.452,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 458.452,
+        "endTime": 458.632,
+        "gloss": "possessive"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīn yuè",
+        "startTime": 458.632,
+        "endTime": 459.293,
+        "gloss": "music"
+      }
+    ],
+    "fullTextEN": "then tell me if you like Jay Chou's music."
+  },
+  {
+    "startTime": 459.7,
+    "endTime": 473.033,
+    "fullTextZH": "接下来你想不想知道，为什么这么有才华的周杰伦从学校毕业后没有很快的变成一个明星呢？",
+    "words": [
+      {
+        "word": "接下来",
+        "pinyin": "jiē xià lái",
+        "startTime": 460.04,
+        "endTime": 461.061,
+        "gloss": "next"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 461.061,
+        "endTime": 461.282,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 461.282,
+        "endTime": 461.542,
+        "gloss": "want"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 461.542,
+        "endTime": 461.962,
+        "gloss": "or not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 461.962,
+        "endTime": 463.163,
+        "gloss": "know"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 463.203,
+        "endTime": 464.425,
+        "gloss": "why"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 464.425,
+        "endTime": 464.825,
+        "gloss": "so"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 464.825,
+        "endTime": 465.065,
+        "gloss": "have"
+      },
+      {
+        "word": "才华",
+        "pinyin": "cái huá",
+        "startTime": 465.065,
+        "endTime": 465.606,
+        "gloss": "talent"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 465.606,
+        "endTime": 465.786,
+        "gloss": "possessive"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 465.786,
+        "endTime": 466.987,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 466.987,
+        "endTime": 467.287,
+        "gloss": "from"
+      },
+      {
+        "word": "学校",
+        "pinyin": "xué xiào",
+        "startTime": 467.287,
+        "endTime": 467.968,
+        "gloss": "school"
+      },
+      {
+        "word": "毕业",
+        "pinyin": "bì yè",
+        "startTime": 467.968,
+        "endTime": 468.408,
+        "gloss": "graduate"
+      },
+      {
+        "word": "后",
+        "pinyin": "hòu",
+        "startTime": 468.408,
+        "endTime": 469.129,
+        "gloss": "after"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 469.129,
+        "endTime": 469.51,
+        "gloss": "not"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 469.51,
+        "endTime": 470.19,
+        "gloss": "quickly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 470.19,
+        "endTime": 470.831,
+        "gloss": "possessive"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 470.831,
+        "endTime": 471.231,
+        "gloss": "become"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 471.231,
+        "endTime": 471.612,
+        "gloss": "a"
+      },
+      {
+        "word": "明星",
+        "pinyin": "míng xīng",
+        "startTime": 471.612,
+        "endTime": 472.292,
+        "gloss": "star"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 472.292,
+        "endTime": 472.993,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Next, do you want to know why such a talented Jay Chou didn't quickly become a star after graduating from school?"
+  },
+  {
+    "startTime": 473.833,
+    "endTime": 479.233,
+    "fullTextZH": "而是去餐厅当服务生端盘子呢？",
+    "words": [
+      {
+        "word": "而是",
+        "pinyin": "ér shì",
+        "startTime": 473.893,
+        "endTime": 474.776,
+        "gloss": "but instead"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 474.776,
+        "endTime": 475.118,
+        "gloss": "go"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 475.118,
+        "endTime": 476.362,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "当",
+        "pinyin": "dāng",
+        "startTime": 476.362,
+        "endTime": 476.724,
+        "gloss": "be"
+      },
+      {
+        "word": "服务生",
+        "pinyin": "fú wù shēng",
+        "startTime": 476.724,
+        "endTime": 478.008,
+        "gloss": "waiter"
+      },
+      {
+        "word": "端盘子",
+        "pinyin": "duān pán zi",
+        "startTime": 478.008,
+        "endTime": 478.852,
+        "gloss": "serve plates"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 478.852,
+        "endTime": 479.193,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "but instead went to work as a waiter in a restaurant?"
+  },
+  {
+    "startTime": 480.8,
+    "endTime": 483.1,
+    "fullTextZH": "如果你想知道，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 480.921,
+        "endTime": 481.526,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 481.526,
+        "endTime": 481.728,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 481.728,
+        "endTime": 482.031,
+        "gloss": "want"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 482.031,
+        "endTime": 483.06,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "If you want to know,"
+  },
+  {
+    "startTime": 483.166,
+    "endTime": 487.233,
+    "fullTextZH": "欢迎你去 lazy Chinese 的网站。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 483.266,
+        "endTime": 483.667,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 483.667,
+        "endTime": 483.987,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 483.987,
+        "endTime": 484.228,
+        "gloss": "go"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 485.931,
+        "endTime": 486.051,
+        "gloss": "of"
+      },
+      {
+        "word": "网站",
+        "pinyin": "wǎng zhàn",
+        "startTime": 486.051,
+        "endTime": 487.193,
+        "gloss": "website"
+      }
+    ],
+    "fullTextEN": "You are welcome to visit the lazy Chinese website."
+  },
+  {
+    "startTime": 487.266,
+    "endTime": 492.5,
+    "fullTextZH": "你会在这里找到更多关于周杰伦的故事。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 487.346,
+        "endTime": 487.527,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 487.527,
+        "endTime": 487.687,
+        "gloss": "will"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 487.687,
+        "endTime": 488.068,
+        "gloss": "at"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 488.068,
+        "endTime": 489.171,
+        "gloss": "here"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 489.171,
+        "endTime": 489.692,
+        "gloss": "find"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 489.692,
+        "endTime": 489.953,
+        "gloss": "more"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 489.953,
+        "endTime": 490.334,
+        "gloss": "more"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 490.334,
+        "endTime": 490.856,
+        "gloss": "about"
+      },
+      {
+        "word": "周杰伦",
+        "pinyin": "zhōu jié lún",
+        "startTime": 490.856,
+        "endTime": 491.618,
+        "gloss": "Jay Chou"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 491.618,
+        "endTime": 491.778,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 491.778,
+        "endTime": 492.46,
+        "gloss": "stories"
+      }
+    ],
+    "fullTextEN": "You will find more stories about Jay Chou here."
+  },
+  {
+    "startTime": 493.633,
+    "endTime": 495.8,
+    "fullTextZH": "那我们下集再见喽，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 493.693,
+        "endTime": 493.834,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 493.834,
+        "endTime": 494.155,
+        "gloss": "we"
+      },
+      {
+        "word": "下集",
+        "pinyin": "xià jí",
+        "startTime": 494.155,
+        "endTime": 494.676,
+        "gloss": "next episode"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 494.676,
+        "endTime": 495.138,
+        "gloss": "see again"
+      },
+      {
+        "word": "喽",
+        "pinyin": "lóu",
+        "startTime": 495.138,
+        "endTime": 495.76,
+        "gloss": "then"
+      }
+    ],
+    "fullTextEN": "Then we'll see you in the next episode,"
+  },
+  {
+    "startTime": 495.833,
+    "endTime": 496.433,
+    "fullTextZH": "拜拜。",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 495.854,
+        "endTime": 496.392,
+        "gloss": "bye bye"
+      }
+    ],
+    "fullTextEN": "Bye bye."
+  }
+]

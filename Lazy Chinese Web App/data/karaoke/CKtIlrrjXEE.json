@@ -1,0 +1,4153 @@
+[
+  {
+    "startTime": 0.2,
+    "endTime": 1.133,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.423,
+        "endTime": 1.092,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 2.1,
+    "endTime": 6.966,
+    "fullTextZH": "你知道，我是中国人，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 2.32,
+        "endTime": 2.641,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 2.641,
+        "endTime": 2.901,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.642,
+        "endTime": 4.583,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 4.583,
+        "endTime": 5.384,
+        "gloss": "am"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 5.384,
+        "endTime": 6.465,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 6.465,
+        "endTime": 6.926,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "You know, I am Chinese,"
+  },
+  {
+    "startTime": 7.333,
+    "endTime": 12.933,
+    "fullTextZH": "可是我住在澳大利亚。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 7.594,
+        "endTime": 8.758,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 8.758,
+        "endTime": 9.902,
+        "gloss": "I"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 9.902,
+        "endTime": 10.284,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 10.284,
+        "endTime": 11.066,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 11.066,
+        "endTime": 12.893,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "but I live in Australia."
+  },
+  {
+    "startTime": 13.5,
+    "endTime": 17.666,
+    "fullTextZH": "所以，今天我要说说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 13.68,
+        "endTime": 14.221,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 14.622,
+        "endTime": 15.823,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 15.823,
+        "endTime": 16.144,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 16.144,
+        "endTime": 17.205,
+        "gloss": "want to"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 17.205,
+        "endTime": 17.225,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "So, today I want to talk about"
+  },
+  {
+    "startTime": 17.933,
+    "endTime": 24.866,
+    "fullTextZH": "我在澳大利亚的有趣发现。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 18.133,
+        "endTime": 18.514,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 18.514,
+        "endTime": 19.195,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 19.195,
+        "endTime": 20.858,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.858,
+        "endTime": 21.68,
+        "gloss": "of"
+      },
+      {
+        "word": "有趣",
+        "pinyin": "yǒu qù",
+        "startTime": 21.68,
+        "endTime": 22.822,
+        "gloss": "interesting"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 22.822,
+        "endTime": 24.826,
+        "gloss": "discoveries"
+      }
+    ],
+    "fullTextEN": "my interesting discoveries in Australia."
+  },
+  {
+    "startTime": 24.866,
+    "endTime": 28.766,
+    "fullTextZH": "第一个是我发现",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 25.127,
+        "endTime": 26.132,
+        "gloss": "first"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 26.132,
+        "endTime": 26.856,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 26.856,
+        "endTime": 27.841,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 27.841,
+        "endTime": 28.263,
+        "gloss": "found"
+      }
+    ],
+    "fullTextEN": "The first is I found"
+  },
+  {
+    "startTime": 28.933,
+    "endTime": 36.366,
+    "fullTextZH": "澳大利亚的牛奶很便宜、很便宜。",
+    "words": [
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 29.234,
+        "endTime": 30.676,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 30.676,
+        "endTime": 31.538,
+        "gloss": "of"
+      },
+      {
+        "word": "牛奶",
+        "pinyin": "niú nǎi",
+        "startTime": 31.538,
+        "endTime": 33.04,
+        "gloss": "milk"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 33.04,
+        "endTime": 33.842,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 33.842,
+        "endTime": 34.282,
+        "gloss": "cheap"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 34.883,
+        "endTime": 35.464,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 35.464,
+        "endTime": 36.326,
+        "gloss": "cheap"
+      }
+    ],
+    "fullTextEN": "milk in Australia is very cheap, very cheap."
+  },
+  {
+    "startTime": 37.233,
+    "endTime": 41.2,
+    "fullTextZH": "你可以花一刀、两刀，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 37.473,
+        "endTime": 37.754,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 37.754,
+        "endTime": 38.555,
+        "gloss": "can"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 38.555,
+        "endTime": 39.237,
+        "gloss": "spend"
+      },
+      {
+        "word": "一刀",
+        "pinyin": "yī dāo",
+        "startTime": 39.237,
+        "endTime": 40.218,
+        "gloss": "one dollar"
+      },
+      {
+        "word": "两刀",
+        "pinyin": "liǎng dāo",
+        "startTime": 40.278,
+        "endTime": 41.16,
+        "gloss": "two dollars"
+      }
+    ],
+    "fullTextEN": "You can spend one dollar, two dollars,"
+  },
+  {
+    "startTime": 42.233,
+    "endTime": 45.7,
+    "fullTextZH": "八毛、七毛买",
+    "words": [
+      {
+        "word": "八毛",
+        "pinyin": "bā máo",
+        "startTime": 42.494,
+        "endTime": 43.736,
+        "gloss": "eighty cents"
+      },
+      {
+        "word": "七毛",
+        "pinyin": "qī máo",
+        "startTime": 43.936,
+        "endTime": 45.159,
+        "gloss": "seventy cents"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 45.159,
+        "endTime": 45.179,
+        "gloss": "buy"
+      }
+    ],
+    "fullTextEN": "eighty cents, seventy cents to buy"
+  },
+  {
+    "startTime": 46.133,
+    "endTime": 47.433,
+    "fullTextZH": "牛奶。",
+    "words": [
+      {
+        "word": "牛奶",
+        "pinyin": "niú nǎi",
+        "startTime": 46.356,
+        "endTime": 47.392,
+        "gloss": "milk"
+      }
+    ],
+    "fullTextEN": "milk."
+  },
+  {
+    "startTime": 48.7,
+    "endTime": 53.4,
+    "fullTextZH": "澳大利亚的牛奶很便宜，",
+    "words": [
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 48.961,
+        "endTime": 50.327,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 50.327,
+        "endTime": 50.628,
+        "gloss": "of"
+      },
+      {
+        "word": "牛奶",
+        "pinyin": "niú nǎi",
+        "startTime": 50.628,
+        "endTime": 51.653,
+        "gloss": "milk"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 51.653,
+        "endTime": 52.376,
+        "gloss": "very"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 52.376,
+        "endTime": 53.36,
+        "gloss": "cheap"
+      }
+    ],
+    "fullTextEN": "Milk in Australia is very cheap,"
+  },
+  {
+    "startTime": 53.666,
+    "endTime": 56.933,
+    "fullTextZH": "可是很好喝。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 53.886,
+        "endTime": 55.029,
+        "gloss": "but"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 55.029,
+        "endTime": 55.75,
+        "gloss": "very"
+      },
+      {
+        "word": "好喝",
+        "pinyin": "hǎo hē",
+        "startTime": 55.75,
+        "endTime": 56.893,
+        "gloss": "tasty"
+      }
+    ],
+    "fullTextEN": "but it's very tasty."
+  },
+  {
+    "startTime": 58.166,
+    "endTime": 66.766,
+    "fullTextZH": "第二个是澳大利亚人不喜欢星巴克。",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 58.447,
+        "endTime": 59.91,
+        "gloss": "second"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 59.91,
+        "endTime": 60.732,
+        "gloss": "is"
+      },
+      {
+        "word": "澳大利亚人",
+        "pinyin": "ào dà lì yà rén",
+        "startTime": 60.732,
+        "endTime": 63.178,
+        "gloss": "Australians"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 63.178,
+        "endTime": 63.879,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 63.879,
+        "endTime": 65.182,
+        "gloss": "like"
+      },
+      {
+        "word": "星巴克",
+        "pinyin": "xīng bā kè",
+        "startTime": 65.182,
+        "endTime": 66.726,
+        "gloss": "Starbucks"
+      }
+    ],
+    "fullTextEN": "The second is Australians don't like Starbucks."
+  },
+  {
+    "startTime": 67.6,
+    "endTime": 72.333,
+    "fullTextZH": "在澳大利亚，咖啡很好、很好，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 67.801,
+        "endTime": 68.382,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 68.382,
+        "endTime": 69.786,
+        "gloss": "Australia"
+      },
+      {
+        "word": "咖啡",
+        "pinyin": "kā fēi",
+        "startTime": 69.966,
+        "endTime": 70.869,
+        "gloss": "coffee"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 70.869,
+        "endTime": 71.25,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 71.25,
+        "endTime": 71.31,
+        "gloss": "good"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 71.591,
+        "endTime": 71.912,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 71.912,
+        "endTime": 72.293,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "In Australia, coffee is very good, very good,"
+  },
+  {
+    "startTime": 72.7,
+    "endTime": 79.066,
+    "fullTextZH": "所以澳大利亚遍地都是咖啡馆。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 72.9,
+        "endTime": 73.621,
+        "gloss": "so"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 73.621,
+        "endTime": 75.182,
+        "gloss": "Australia"
+      },
+      {
+        "word": "遍地",
+        "pinyin": "biàn dì",
+        "startTime": 75.182,
+        "endTime": 76.584,
+        "gloss": "everywhere"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 76.584,
+        "endTime": 76.944,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 76.944,
+        "endTime": 77.665,
+        "gloss": "is"
+      },
+      {
+        "word": "咖啡馆",
+        "pinyin": "kā fēi guǎn",
+        "startTime": 77.665,
+        "endTime": 79.026,
+        "gloss": "cafes"
+      }
+    ],
+    "fullTextEN": "so Australia is full of cafes."
+  },
+  {
+    "startTime": 79.6,
+    "endTime": 85.933,
+    "fullTextZH": "所以，星巴克在澳大利亚的生意不好。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 79.76,
+        "endTime": 80.342,
+        "gloss": "so"
+      },
+      {
+        "word": "星巴克",
+        "pinyin": "xīng bā kè",
+        "startTime": 80.742,
+        "endTime": 81.965,
+        "gloss": "Starbucks"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 81.965,
+        "endTime": 82.526,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 82.526,
+        "endTime": 83.789,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 83.789,
+        "endTime": 83.989,
+        "gloss": "of"
+      },
+      {
+        "word": "生意",
+        "pinyin": "shēng yì",
+        "startTime": 83.989,
+        "endTime": 85.051,
+        "gloss": "business"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 85.051,
+        "endTime": 85.893,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "So, Starbucks doesn't do well in Australia."
+  },
+  {
+    "startTime": 86.533,
+    "endTime": 92.7,
+    "fullTextZH": "在澳大利亚，很多星巴克关门倒闭，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 86.693,
+        "endTime": 86.974,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 86.974,
+        "endTime": 88.095,
+        "gloss": "Australia"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 88.355,
+        "endTime": 89.276,
+        "gloss": "many"
+      },
+      {
+        "word": "星巴克",
+        "pinyin": "xīng bā kè",
+        "startTime": 89.276,
+        "endTime": 90.718,
+        "gloss": "Starbucks"
+      },
+      {
+        "word": "关门",
+        "pinyin": "guān mén",
+        "startTime": 90.718,
+        "endTime": 91.939,
+        "gloss": "closed"
+      },
+      {
+        "word": "倒闭",
+        "pinyin": "dǎo bì",
+        "startTime": 91.939,
+        "endTime": 92.6,
+        "gloss": "down"
+      }
+    ],
+    "fullTextEN": "In Australia, many Starbucks have closed down,"
+  },
+  {
+    "startTime": 93.033,
+    "endTime": 99.0,
+    "fullTextZH": "因为澳大利亚人不喜欢星巴克。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 93.253,
+        "endTime": 93.954,
+        "gloss": "because"
+      },
+      {
+        "word": "澳大利亚人",
+        "pinyin": "ào dà lì yà rén",
+        "startTime": 93.954,
+        "endTime": 95.636,
+        "gloss": "Australians"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 95.636,
+        "endTime": 96.377,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 96.377,
+        "endTime": 97.598,
+        "gloss": "like"
+      },
+      {
+        "word": "星巴克",
+        "pinyin": "xīng bā kè",
+        "startTime": 97.598,
+        "endTime": 98.82,
+        "gloss": "Starbucks"
+      }
+    ],
+    "fullTextEN": "because Australians don't like Starbucks."
+  },
+  {
+    "startTime": 100.133,
+    "endTime": 108.133,
+    "fullTextZH": "第三个是，如果你去澳大利亚的超市，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 100.354,
+        "endTime": 101.537,
+        "gloss": "third"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 101.537,
+        "endTime": 101.557,
+        "gloss": "is"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 102.399,
+        "endTime": 103.301,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 103.301,
+        "endTime": 103.862,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 103.862,
+        "endTime": 104.765,
+        "gloss": "go"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 104.765,
+        "endTime": 106.168,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 106.168,
+        "endTime": 106.97,
+        "gloss": "of"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 106.97,
+        "endTime": 108.093,
+        "gloss": "supermarket"
+      }
+    ],
+    "fullTextEN": "The third is, if you go to an Australian supermarket,"
+  },
+  {
+    "startTime": 108.566,
+    "endTime": 115.1,
+    "fullTextZH": "你会发现很多、很多东西半价。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 108.807,
+        "endTime": 109.107,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 109.107,
+        "endTime": 109.528,
+        "gloss": "will"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 109.528,
+        "endTime": 110.711,
+        "gloss": "find"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 110.711,
+        "endTime": 111.232,
+        "gloss": "many"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 111.613,
+        "endTime": 112.234,
+        "gloss": "many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 112.234,
+        "endTime": 113.517,
+        "gloss": "things"
+      },
+      {
+        "word": "半价",
+        "pinyin": "bàn jià",
+        "startTime": 113.517,
+        "endTime": 115.06,
+        "gloss": "half price"
+      }
+    ],
+    "fullTextEN": "you will find many, many things at half price."
+  },
+  {
+    "startTime": 117.033,
+    "endTime": 122.1,
+    "fullTextZH": "在中国，如果一个东西半价，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 117.213,
+        "endTime": 117.754,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 117.754,
+        "endTime": 118.976,
+        "gloss": "China"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 119.036,
+        "endTime": 119.697,
+        "gloss": "if"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 119.697,
+        "endTime": 120.177,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 120.177,
+        "endTime": 121.019,
+        "gloss": "thing"
+      },
+      {
+        "word": "半价",
+        "pinyin": "bàn jià",
+        "startTime": 121.019,
+        "endTime": 122.06,
+        "gloss": "half price"
+      }
+    ],
+    "fullTextEN": "In China, if something is half price,"
+  },
+  {
+    "startTime": 122.533,
+    "endTime": 125.866,
+    "fullTextZH": "可能因为这个东西",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 122.613,
+        "endTime": 123.637,
+        "gloss": "might"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 123.637,
+        "endTime": 124.581,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 124.581,
+        "endTime": 125.023,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 125.023,
+        "endTime": 125.444,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "it might be because this item"
+  },
+  {
+    "startTime": 126.6,
+    "endTime": 128.666,
+    "fullTextZH": "快过期了，",
+    "words": [
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 126.76,
+        "endTime": 127.342,
+        "gloss": "about to"
+      },
+      {
+        "word": "过期",
+        "pinyin": "guò qī",
+        "startTime": 127.342,
+        "endTime": 128.265,
+        "gloss": "expire"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 128.265,
+        "endTime": 128.626,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "is about to expire,"
+  },
+  {
+    "startTime": 129.066,
+    "endTime": 133.966,
+    "fullTextZH": "可能因为这个东西卖得不好。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 129.227,
+        "endTime": 130.03,
+        "gloss": "might"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 130.03,
+        "endTime": 130.893,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 130.893,
+        "endTime": 131.215,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 131.215,
+        "endTime": 132.239,
+        "gloss": "thing"
+      },
+      {
+        "word": "卖得",
+        "pinyin": "mài dé",
+        "startTime": 132.239,
+        "endTime": 133.203,
+        "gloss": "sells"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 133.203,
+        "endTime": 133.926,
+        "gloss": "not well"
+      }
+    ],
+    "fullTextEN": "or because it doesn't sell well."
+  },
+  {
+    "startTime": 134.1,
+    "endTime": 137.2,
+    "fullTextZH": "可是在澳大利亚，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 134.321,
+        "endTime": 135.348,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 135.348,
+        "endTime": 135.811,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 135.811,
+        "endTime": 137.16,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "But in Australia,"
+  },
+  {
+    "startTime": 137.433,
+    "endTime": 141.233,
+    "fullTextZH": "很多、很多东西半价，",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 137.554,
+        "endTime": 138.458,
+        "gloss": "many"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 138.559,
+        "endTime": 139.182,
+        "gloss": "many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 139.182,
+        "endTime": 140.147,
+        "gloss": "things"
+      },
+      {
+        "word": "半价",
+        "pinyin": "bàn jià",
+        "startTime": 140.147,
+        "endTime": 141.193,
+        "gloss": "half price"
+      }
+    ],
+    "fullTextEN": "many, many things are half price,"
+  },
+  {
+    "startTime": 141.7,
+    "endTime": 144.133,
+    "fullTextZH": "不是快过期，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 141.921,
+        "endTime": 142.846,
+        "gloss": "not"
+      },
+      {
+        "word": "快",
+        "pinyin": "kuài",
+        "startTime": 142.846,
+        "endTime": 143.248,
+        "gloss": "about to"
+      },
+      {
+        "word": "过期",
+        "pinyin": "guò qī",
+        "startTime": 143.248,
+        "endTime": 144.093,
+        "gloss": "expire"
+      }
+    ],
+    "fullTextEN": "not because they are about to expire,"
+  },
+  {
+    "startTime": 144.266,
+    "endTime": 146.766,
+    "fullTextZH": "不是卖得不好，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 144.488,
+        "endTime": 145.536,
+        "gloss": "not"
+      },
+      {
+        "word": "卖得",
+        "pinyin": "mài dé",
+        "startTime": 145.536,
+        "endTime": 146.081,
+        "gloss": "sell"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 146.081,
+        "endTime": 146.726,
+        "gloss": "not well"
+      }
+    ],
+    "fullTextEN": "not because they don't sell well,"
+  },
+  {
+    "startTime": 147.866,
+    "endTime": 153.766,
+    "fullTextZH": "所以你可以放心买很多、很多。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 148.067,
+        "endTime": 148.889,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 148.889,
+        "endTime": 149.211,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 149.211,
+        "endTime": 150.094,
+        "gloss": "can"
+      },
+      {
+        "word": "放心",
+        "pinyin": "fàng xīn",
+        "startTime": 150.094,
+        "endTime": 151.177,
+        "gloss": "peacefully"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 151.177,
+        "endTime": 152.221,
+        "gloss": "buy"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 152.221,
+        "endTime": 152.903,
+        "gloss": "many"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 152.963,
+        "endTime": 153.726,
+        "gloss": "many"
+      }
+    ],
+    "fullTextEN": "so you can buy a lot with peace of mind."
+  },
+  {
+    "startTime": 154.966,
+    "endTime": 161.366,
+    "fullTextZH": "第四个，澳大利亚的产品常常写：",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 155.207,
+        "endTime": 156.631,
+        "gloss": "fourth"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 156.872,
+        "endTime": 158.036,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.036,
+        "endTime": 158.557,
+        "gloss": "de"
+      },
+      {
+        "word": "产品",
+        "pinyin": "chǎn pǐn",
+        "startTime": 158.557,
+        "endTime": 159.841,
+        "gloss": "products"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 159.841,
+        "endTime": 160.905,
+        "gloss": "often"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 160.905,
+        "endTime": 161.346,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Fourth, Australian products often say:"
+  },
+  {
+    "startTime": 161.8,
+    "endTime": 169.966,
+    "fullTextZH": "“如果你对这个东西不是百分之百满意，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 162.06,
+        "endTime": 163.081,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 163.081,
+        "endTime": 163.461,
+        "gloss": "you"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 163.461,
+        "endTime": 163.902,
+        "gloss": "towards"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 163.902,
+        "endTime": 164.302,
+        "gloss": "this"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 164.302,
+        "endTime": 165.543,
+        "gloss": "thing"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 165.543,
+        "endTime": 166.964,
+        "gloss": "not"
+      },
+      {
+        "word": "百分之百",
+        "pinyin": "bǎi fēn zhī bǎi",
+        "startTime": 166.964,
+        "endTime": 169.025,
+        "gloss": "100%"
+      },
+      {
+        "word": "满意",
+        "pinyin": "mǎn yì",
+        "startTime": 169.025,
+        "endTime": 169.926,
+        "gloss": "satisfied"
+      }
+    ],
+    "fullTextEN": "\"If you are not 100% satisfied with this item,"
+  },
+  {
+    "startTime": 170.266,
+    "endTime": 172.633,
+    "fullTextZH": "你可以退货，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 170.346,
+        "endTime": 170.647,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 170.647,
+        "endTime": 171.69,
+        "gloss": "can"
+      },
+      {
+        "word": "退货",
+        "pinyin": "tuì huò",
+        "startTime": 171.69,
+        "endTime": 172.593,
+        "gloss": "return"
+      }
+    ],
+    "fullTextEN": "you can return it,"
+  },
+  {
+    "startTime": 172.8,
+    "endTime": 175.7,
+    "fullTextZH": "也可以退款。”",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 173.001,
+        "endTime": 173.384,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 173.384,
+        "endTime": 174.411,
+        "gloss": "can"
+      },
+      {
+        "word": "退款",
+        "pinyin": "tuì kuǎn",
+        "startTime": 174.411,
+        "endTime": 175.66,
+        "gloss": "refund"
+      }
+    ],
+    "fullTextEN": "or get a refund.\""
+  },
+  {
+    "startTime": 177.4,
+    "endTime": 180.033,
+    "fullTextZH": "我觉得很有意思，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 177.601,
+        "endTime": 177.782,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得很有",
+        "pinyin": "jué de hěn yǒu",
+        "startTime": 177.782,
+        "endTime": 179.129,
+        "gloss": "find very"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 179.129,
+        "endTime": 179.993,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I find it very interesting,"
+  },
+  {
+    "startTime": 180.033,
+    "endTime": 181.866,
+    "fullTextZH": "因为在中国，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 180.255,
+        "endTime": 180.798,
+        "gloss": "because"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 180.798,
+        "endTime": 181.101,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 181.101,
+        "endTime": 181.846,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "because in China,"
+  },
+  {
+    "startTime": 182.3,
+    "endTime": 186.9,
+    "fullTextZH": "一般来说，你不可以退款。",
+    "words": [
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 182.481,
+        "endTime": 184.329,
+        "gloss": "generally speaking"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 184.59,
+        "endTime": 184.911,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 184.911,
+        "endTime": 185.152,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 185.152,
+        "endTime": 185.976,
+        "gloss": "can"
+      },
+      {
+        "word": "退款",
+        "pinyin": "tuì kuǎn",
+        "startTime": 185.976,
+        "endTime": 186.88,
+        "gloss": "refund"
+      }
+    ],
+    "fullTextEN": "generally speaking, you can't get a refund."
+  },
+  {
+    "startTime": 187.8,
+    "endTime": 191.166,
+    "fullTextZH": "可能如果东西不好，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 187.92,
+        "endTime": 188.922,
+        "gloss": "maybe"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 188.922,
+        "endTime": 189.303,
+        "gloss": "if"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 189.303,
+        "endTime": 190.144,
+        "gloss": "thing"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 190.144,
+        "endTime": 191.126,
+        "gloss": "bad"
+      }
+    ],
+    "fullTextEN": "Maybe if the item is bad,"
+  },
+  {
+    "startTime": 191.5,
+    "endTime": 193.766,
+    "fullTextZH": "你可以退货。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 191.66,
+        "endTime": 192.001,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 192.001,
+        "endTime": 192.844,
+        "gloss": "can"
+      },
+      {
+        "word": "退货",
+        "pinyin": "tuì huò",
+        "startTime": 192.844,
+        "endTime": 193.726,
+        "gloss": "return"
+      }
+    ],
+    "fullTextEN": "you can return it."
+  },
+  {
+    "startTime": 196.033,
+    "endTime": 202.033,
+    "fullTextZH": "第五个，如果你去澳大利亚超市，",
+    "words": [
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 196.254,
+        "endTime": 197.377,
+        "gloss": "fifth"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 198.16,
+        "endTime": 198.842,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 198.842,
+        "endTime": 199.204,
+        "gloss": "you"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 199.204,
+        "endTime": 199.485,
+        "gloss": "go"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 199.485,
+        "endTime": 200.969,
+        "gloss": "Australia"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 200.969,
+        "endTime": 202.013,
+        "gloss": "supermarket"
+      }
+    ],
+    "fullTextEN": "Fifth, if you go to an Australian supermarket,"
+  },
+  {
+    "startTime": 202.2,
+    "endTime": 209.2,
+    "fullTextZH": "你发现标价和你付的价格不一样，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 202.401,
+        "endTime": 202.701,
+        "gloss": "you"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 202.701,
+        "endTime": 204.025,
+        "gloss": "find"
+      },
+      {
+        "word": "标价",
+        "pinyin": "biāo jià",
+        "startTime": 204.025,
+        "endTime": 205.409,
+        "gloss": "listed price"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 205.409,
+        "endTime": 205.75,
+        "gloss": "and"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 205.75,
+        "endTime": 206.171,
+        "gloss": "you"
+      },
+      {
+        "word": "付",
+        "pinyin": "fù",
+        "startTime": 206.171,
+        "endTime": 206.452,
+        "gloss": "pay"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 206.452,
+        "endTime": 206.613,
+        "gloss": "de"
+      },
+      {
+        "word": "价格",
+        "pinyin": "jià gé",
+        "startTime": 206.613,
+        "endTime": 207.656,
+        "gloss": "price"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 207.656,
+        "endTime": 208.338,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 208.338,
+        "endTime": 209.16,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "and you find the listed price is different from what you pay,"
+  },
+  {
+    "startTime": 209.766,
+    "endTime": 216.1,
+    "fullTextZH": "你可以告诉他们，他们会退钱给你，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 209.906,
+        "endTime": 210.207,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 210.207,
+        "endTime": 210.888,
+        "gloss": "can"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 210.888,
+        "endTime": 211.73,
+        "gloss": "tell"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 211.73,
+        "endTime": 212.071,
+        "gloss": "them"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 212.813,
+        "endTime": 213.454,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 213.454,
+        "endTime": 213.855,
+        "gloss": "will"
+      },
+      {
+        "word": "退钱",
+        "pinyin": "tuì qián",
+        "startTime": 213.855,
+        "endTime": 215.398,
+        "gloss": "refund"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 215.398,
+        "endTime": 215.659,
+        "gloss": "to"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 215.659,
+        "endTime": 216.06,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "You can tell them, they will refund you,"
+  },
+  {
+    "startTime": 216.2,
+    "endTime": 221.233,
+    "fullTextZH": "他们还会把东西免费送给你。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 216.401,
+        "endTime": 217.223,
+        "gloss": "they"
+      },
+      {
+        "word": "还会",
+        "pinyin": "hái huì",
+        "startTime": 217.223,
+        "endTime": 217.684,
+        "gloss": "also will"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 217.684,
+        "endTime": 217.965,
+        "gloss": "take"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 217.965,
+        "endTime": 218.927,
+        "gloss": "items"
+      },
+      {
+        "word": "免费",
+        "pinyin": "miǎn fèi",
+        "startTime": 218.927,
+        "endTime": 220.21,
+        "gloss": "free"
+      },
+      {
+        "word": "送给",
+        "pinyin": "sòng gěi",
+        "startTime": 220.21,
+        "endTime": 220.792,
+        "gloss": "send to"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 220.792,
+        "endTime": 221.193,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "They will also send the items to you for free."
+  },
+  {
+    "startTime": 222.3,
+    "endTime": 226.366,
+    "fullTextZH": "我买了两个东西，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 222.5,
+        "endTime": 223.442,
+        "gloss": "I"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 223.442,
+        "endTime": 223.922,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 223.922,
+        "endTime": 224.543,
+        "gloss": "completed"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 224.543,
+        "endTime": 225.465,
+        "gloss": "two"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 225.465,
+        "endTime": 226.326,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "I bought two things,"
+  },
+  {
+    "startTime": 226.366,
+    "endTime": 229.566,
+    "fullTextZH": "一个是坚果，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 226.648,
+        "endTime": 227.453,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.453,
+        "endTime": 228.278,
+        "gloss": "is"
+      },
+      {
+        "word": "坚果",
+        "pinyin": "jiān guǒ",
+        "startTime": 228.278,
+        "endTime": 229.526,
+        "gloss": "nuts"
+      }
+    ],
+    "fullTextEN": "One is nuts,"
+  },
+  {
+    "startTime": 230.3,
+    "endTime": 233.066,
+    "fullTextZH": "一个是包菜。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 230.561,
+        "endTime": 231.282,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 231.282,
+        "endTime": 231.803,
+        "gloss": "is"
+      },
+      {
+        "word": "包菜",
+        "pinyin": "bāo cài",
+        "startTime": 231.803,
+        "endTime": 233.026,
+        "gloss": "cabbage"
+      }
+    ],
+    "fullTextEN": "One is cabbage."
+  },
+  {
+    "startTime": 233.7,
+    "endTime": 237.933,
+    "fullTextZH": "两个东西的价格不对，",
+    "words": [
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 233.86,
+        "endTime": 234.442,
+        "gloss": "two"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 234.442,
+        "endTime": 234.984,
+        "gloss": "things"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 234.984,
+        "endTime": 235.405,
+        "gloss": "of"
+      },
+      {
+        "word": "价格",
+        "pinyin": "jià gé",
+        "startTime": 235.405,
+        "endTime": 236.83,
+        "gloss": "price"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 236.83,
+        "endTime": 237.452,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 237.452,
+        "endTime": 237.893,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "The prices of the two items are incorrect,"
+  },
+  {
+    "startTime": 238.2,
+    "endTime": 244.3,
+    "fullTextZH": "所以我告诉他们，他们把钱给我，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 238.441,
+        "endTime": 239.464,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 239.464,
+        "endTime": 239.886,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 239.886,
+        "endTime": 240.648,
+        "gloss": "tell"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 240.648,
+        "endTime": 240.929,
+        "gloss": "them"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 241.591,
+        "endTime": 242.193,
+        "gloss": "they"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 242.193,
+        "endTime": 242.695,
+        "gloss": "take"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 242.695,
+        "endTime": 243.417,
+        "gloss": "money"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 243.417,
+        "endTime": 243.798,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 243.798,
+        "endTime": 244.26,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "So I told them, they gave me the money,"
+  },
+  {
+    "startTime": 244.5,
+    "endTime": 250.866,
+    "fullTextZH": "然后给我这两个东西，不要钱。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 244.7,
+        "endTime": 245.701,
+        "gloss": "then"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 245.701,
+        "endTime": 245.941,
+        "gloss": "give"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 245.941,
+        "endTime": 246.602,
+        "gloss": "me"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 246.602,
+        "endTime": 246.882,
+        "gloss": "these"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 246.882,
+        "endTime": 248.063,
+        "gloss": "two"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 248.063,
+        "endTime": 248.764,
+        "gloss": "things"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 249.124,
+        "endTime": 250.346,
+        "gloss": "no"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 250.346,
+        "endTime": 250.786,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "Then gave me these two things for free."
+  },
+  {
+    "startTime": 252.366,
+    "endTime": 256.666,
+    "fullTextZH": "第六个是，在澳大利亚，",
+    "words": [
+      {
+        "word": "第六个",
+        "pinyin": "dì liù gè",
+        "startTime": 252.567,
+        "endTime": 253.933,
+        "gloss": "sixth"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 253.933,
+        "endTime": 254.295,
+        "gloss": "is"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 254.717,
+        "endTime": 255.239,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 255.239,
+        "endTime": 256.566,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "The sixth is, in Australia,"
+  },
+  {
+    "startTime": 256.966,
+    "endTime": 260.266,
+    "fullTextZH": "小费可以给，",
+    "words": [
+      {
+        "word": "小费",
+        "pinyin": "xiǎo fèi",
+        "startTime": 257.147,
+        "endTime": 258.596,
+        "gloss": "tips"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 258.596,
+        "endTime": 259.803,
+        "gloss": "can"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 259.803,
+        "endTime": 260.246,
+        "gloss": "give"
+      }
+    ],
+    "fullTextEN": "Tips can be given,"
+  },
+  {
+    "startTime": 260.966,
+    "endTime": 263.933,
+    "fullTextZH": "可以不给。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 261.126,
+        "endTime": 262.349,
+        "gloss": "can"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 262.349,
+        "endTime": 263.452,
+        "gloss": "not"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 263.452,
+        "endTime": 263.913,
+        "gloss": "give"
+      }
+    ],
+    "fullTextEN": "Or not given."
+  },
+  {
+    "startTime": 265.233,
+    "endTime": 270.4,
+    "fullTextZH": "在澳大利亚，服务员的工资很高，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 265.413,
+        "endTime": 265.593,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 265.593,
+        "endTime": 266.495,
+        "gloss": "Australia"
+      },
+      {
+        "word": "服务员",
+        "pinyin": "fú wù yuán",
+        "startTime": 267.136,
+        "endTime": 268.377,
+        "gloss": "waiters"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 268.377,
+        "endTime": 268.598,
+        "gloss": "of"
+      },
+      {
+        "word": "工资",
+        "pinyin": "gōng zī",
+        "startTime": 268.598,
+        "endTime": 269.539,
+        "gloss": "wages"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 269.539,
+        "endTime": 269.999,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 269.999,
+        "endTime": 270.38,
+        "gloss": "high"
+      }
+    ],
+    "fullTextEN": "In Australia, waiters' wages are high,"
+  },
+  {
+    "startTime": 270.733,
+    "endTime": 273.266,
+    "fullTextZH": "所以你可以给，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 270.914,
+        "endTime": 271.778,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 271.778,
+        "endTime": 272.18,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 272.18,
+        "endTime": 272.824,
+        "gloss": "can"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 272.824,
+        "endTime": 273.246,
+        "gloss": "give"
+      }
+    ],
+    "fullTextEN": "So you can give,"
+  },
+  {
+    "startTime": 273.566,
+    "endTime": 275.966,
+    "fullTextZH": "也可以不给。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 273.727,
+        "endTime": 274.111,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 274.111,
+        "endTime": 274.937,
+        "gloss": "can"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 274.937,
+        "endTime": 275.583,
+        "gloss": "not"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 275.583,
+        "endTime": 275.946,
+        "gloss": "give"
+      }
+    ],
+    "fullTextEN": "Or not give."
+  },
+  {
+    "startTime": 277.633,
+    "endTime": 282.966,
+    "fullTextZH": "所以，如果你很喜欢他的服务，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 277.854,
+        "endTime": 278.355,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 278.716,
+        "endTime": 279.157,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 279.157,
+        "endTime": 279.457,
+        "gloss": "you"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 279.457,
+        "endTime": 280.279,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 280.279,
+        "endTime": 281.482,
+        "gloss": "like"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 281.482,
+        "endTime": 281.783,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 281.783,
+        "endTime": 282.244,
+        "gloss": "of"
+      },
+      {
+        "word": "服务",
+        "pinyin": "fú wù",
+        "startTime": 282.244,
+        "endTime": 282.926,
+        "gloss": "service"
+      }
+    ],
+    "fullTextEN": "So, if you really like their service,"
+  },
+  {
+    "startTime": 282.966,
+    "endTime": 287.366,
+    "fullTextZH": "你可以给他们小费。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 283.167,
+        "endTime": 283.93,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 283.93,
+        "endTime": 285.377,
+        "gloss": "can"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 285.377,
+        "endTime": 285.759,
+        "gloss": "give"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 285.759,
+        "endTime": 286.502,
+        "gloss": "them"
+      },
+      {
+        "word": "小费",
+        "pinyin": "xiǎo fèi",
+        "startTime": 286.502,
+        "endTime": 287.326,
+        "gloss": "tip"
+      }
+    ],
+    "fullTextEN": "You can tip them."
+  },
+  {
+    "startTime": 288.666,
+    "endTime": 293.733,
+    "fullTextZH": "第七个，我发现在澳大利亚，",
+    "words": [
+      {
+        "word": "第七个",
+        "pinyin": "dì qī gè",
+        "startTime": 288.866,
+        "endTime": 290.308,
+        "gloss": "seventh"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 290.368,
+        "endTime": 290.849,
+        "gloss": "I"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 290.849,
+        "endTime": 291.951,
+        "gloss": "find"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 291.951,
+        "endTime": 292.351,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 292.351,
+        "endTime": 293.693,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "The seventh, I found in Australia,"
+  },
+  {
+    "startTime": 293.966,
+    "endTime": 300.666,
+    "fullTextZH": "房租可以一个星期一个星期付。",
+    "words": [
+      {
+        "word": "房租",
+        "pinyin": "fáng zū",
+        "startTime": 294.207,
+        "endTime": 295.651,
+        "gloss": "rent"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 295.651,
+        "endTime": 296.674,
+        "gloss": "can"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 296.674,
+        "endTime": 297.316,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 297.316,
+        "endTime": 298.52,
+        "gloss": "week"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 298.52,
+        "endTime": 299.121,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 299.121,
+        "endTime": 300.225,
+        "gloss": "week"
+      },
+      {
+        "word": "付",
+        "pinyin": "fù",
+        "startTime": 300.225,
+        "endTime": 300.626,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "Rent can be paid weekly."
+  },
+  {
+    "startTime": 301.433,
+    "endTime": 309.033,
+    "fullTextZH": "可能因为很多人的工资也是一个星期",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 301.613,
+        "endTime": 302.576,
+        "gloss": "possibly"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 302.576,
+        "endTime": 303.498,
+        "gloss": "because"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 303.498,
+        "endTime": 304.26,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 304.26,
+        "endTime": 304.621,
+        "gloss": "people"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 304.621,
+        "endTime": 305.303,
+        "gloss": "of"
+      },
+      {
+        "word": "工资",
+        "pinyin": "gōng zī",
+        "startTime": 305.303,
+        "endTime": 306.546,
+        "gloss": "wages"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 306.546,
+        "endTime": 306.907,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 306.907,
+        "endTime": 307.669,
+        "gloss": "are"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 307.669,
+        "endTime": 308.191,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 308.191,
+        "endTime": 308.652,
+        "gloss": "week"
+      }
+    ],
+    "fullTextEN": "Possibly because many people's wages are also weekly"
+  },
+  {
+    "startTime": 309.033,
+    "endTime": 311.0,
+    "fullTextZH": "一个星期付。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 309.254,
+        "endTime": 309.756,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 309.756,
+        "endTime": 310.558,
+        "gloss": "week"
+      },
+      {
+        "word": "付",
+        "pinyin": "fù",
+        "startTime": 310.558,
+        "endTime": 310.96,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "Paid weekly."
+  },
+  {
+    "startTime": 311.566,
+    "endTime": 312.733,
+    "fullTextZH": "在中国，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 311.767,
+        "endTime": 311.989,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 311.989,
+        "endTime": 312.693,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "In China,"
+  },
+  {
+    "startTime": 313.166,
+    "endTime": 319.266,
+    "fullTextZH": "房租不可以一个星期一个星期付。",
+    "words": [
+      {
+        "word": "房租",
+        "pinyin": "fáng zū",
+        "startTime": 313.387,
+        "endTime": 314.611,
+        "gloss": "rent"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 314.611,
+        "endTime": 315.413,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 315.413,
+        "endTime": 316.356,
+        "gloss": "can"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 316.356,
+        "endTime": 316.838,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 316.838,
+        "endTime": 317.641,
+        "gloss": "week"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 317.641,
+        "endTime": 318.182,
+        "gloss": "one"
+      },
+      {
+        "word": "星期",
+        "pinyin": "xīng qī",
+        "startTime": 318.182,
+        "endTime": 318.885,
+        "gloss": "week"
+      },
+      {
+        "word": "付",
+        "pinyin": "fù",
+        "startTime": 318.885,
+        "endTime": 319.226,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "Rent cannot be paid week by week."
+  },
+  {
+    "startTime": 319.766,
+    "endTime": 325.9,
+    "fullTextZH": "在中国，在北京，房租3个月",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 319.966,
+        "endTime": 320.267,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 320.267,
+        "endTime": 320.628,
+        "gloss": "China"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 321.69,
+        "endTime": 322.131,
+        "gloss": "in"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 322.131,
+        "endTime": 322.773,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "房租",
+        "pinyin": "fáng zū",
+        "startTime": 323.154,
+        "endTime": 324.517,
+        "gloss": "rent"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 325.098,
+        "endTime": 325.399,
+        "gloss": "3"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 325.399,
+        "endTime": 325.419,
+        "gloss": "months"
+      }
+    ],
+    "fullTextEN": "In China, in Beijing, rent is for 3 months"
+  },
+  {
+    "startTime": 326.133,
+    "endTime": 328.066,
+    "fullTextZH": "3个月付。",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 326.838,
+        "endTime": 327.14,
+        "gloss": "3"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 327.14,
+        "endTime": 327.603,
+        "gloss": "months"
+      },
+      {
+        "word": "付",
+        "pinyin": "fù",
+        "startTime": 327.603,
+        "endTime": 328.026,
+        "gloss": "pay"
+      }
+    ],
+    "fullTextEN": "Paid every 3 months."
+  },
+  {
+    "startTime": 329.033,
+    "endTime": 334.033,
+    "fullTextZH": "在中文，我们说⬆️",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 329.254,
+        "endTime": 329.555,
+        "gloss": "in"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 329.555,
+        "endTime": 330.298,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 330.519,
+        "endTime": 331.101,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 331.101,
+        "endTime": 332.005,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "In Chinese, we say ⬆️"
+  },
+  {
+    "startTime": 334.166,
+    "endTime": 337.466,
+    "fullTextZH": "就是一个月的押金，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 334.367,
+        "endTime": 335.353,
+        "gloss": "is"
+      },
+      {
+        "word": "一个月",
+        "pinyin": "yí gè yuè",
+        "startTime": 335.353,
+        "endTime": 336.118,
+        "gloss": "one month"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 336.118,
+        "endTime": 336.42,
+        "gloss": "of"
+      },
+      {
+        "word": "押金",
+        "pinyin": "yā jīn",
+        "startTime": 336.42,
+        "endTime": 337.426,
+        "gloss": "deposit"
+      }
+    ],
+    "fullTextEN": "It's one month's deposit,"
+  },
+  {
+    "startTime": 337.8,
+    "endTime": 340.566,
+    "fullTextZH": "3个月的房租。",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 338.441,
+        "endTime": 338.702,
+        "gloss": "3"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 338.702,
+        "endTime": 339.063,
+        "gloss": "months"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 339.063,
+        "endTime": 339.544,
+        "gloss": "of"
+      },
+      {
+        "word": "房租",
+        "pinyin": "fáng zū",
+        "startTime": 339.544,
+        "endTime": 340.526,
+        "gloss": "rent"
+      }
+    ],
+    "fullTextEN": "3 months' rent."
+  },
+  {
+    "startTime": 341.0,
+    "endTime": 345.966,
+    "fullTextZH": "所以，在北京租房很难、很难。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 341.16,
+        "endTime": 341.621,
+        "gloss": "so"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 341.781,
+        "endTime": 341.961,
+        "gloss": "in"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 341.961,
+        "endTime": 342.922,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "租房",
+        "pinyin": "zū fáng",
+        "startTime": 342.922,
+        "endTime": 344.044,
+        "gloss": "renting"
+      },
+      {
+        "word": "很难",
+        "pinyin": "hěn nán",
+        "startTime": 344.044,
+        "endTime": 345.025,
+        "gloss": "very difficult"
+      },
+      {
+        "word": "很难",
+        "pinyin": "hěn nán",
+        "startTime": 345.145,
+        "endTime": 345.926,
+        "gloss": "very difficult"
+      }
+    ],
+    "fullTextEN": "So, renting in Beijing is very difficult."
+  },
+  {
+    "startTime": 346.4,
+    "endTime": 351.966,
+    "fullTextZH": "还有，在澳大利亚，房租的合同",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 346.58,
+        "endTime": 346.84,
+        "gloss": "also"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 347.741,
+        "endTime": 348.162,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 348.162,
+        "endTime": 349.363,
+        "gloss": "Australia"
+      },
+      {
+        "word": "房租",
+        "pinyin": "fáng zū",
+        "startTime": 349.804,
+        "endTime": 350.524,
+        "gloss": "rent"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 350.524,
+        "endTime": 350.945,
+        "gloss": "of"
+      },
+      {
+        "word": "合同",
+        "pinyin": "hé tóng",
+        "startTime": 350.945,
+        "endTime": 351.526,
+        "gloss": "contract"
+      }
+    ],
+    "fullTextEN": "Also, in Australia, rental contracts"
+  },
+  {
+    "startTime": 352.4,
+    "endTime": 354.8,
+    "fullTextZH": "可能三个月，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 352.561,
+        "endTime": 353.731,
+        "gloss": "might"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 353.731,
+        "endTime": 354.336,
+        "gloss": "three"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 354.336,
+        "endTime": 354.76,
+        "gloss": "months"
+      }
+    ],
+    "fullTextEN": "might be three months,"
+  },
+  {
+    "startTime": 354.866,
+    "endTime": 357.2,
+    "fullTextZH": "可能6个月，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 355.067,
+        "endTime": 356.033,
+        "gloss": "might"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 356.435,
+        "endTime": 356.737,
+        "gloss": "6"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 356.737,
+        "endTime": 357.16,
+        "gloss": "months"
+      }
+    ],
+    "fullTextEN": "might be 6 months,"
+  },
+  {
+    "startTime": 357.333,
+    "endTime": 359.233,
+    "fullTextZH": "可能一年。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 357.515,
+        "endTime": 358.404,
+        "gloss": "might"
+      },
+      {
+        "word": "一年",
+        "pinyin": "yī nián",
+        "startTime": 358.404,
+        "endTime": 359.213,
+        "gloss": "one year"
+      }
+    ],
+    "fullTextEN": "might be a year."
+  },
+  {
+    "startTime": 359.733,
+    "endTime": 366.233,
+    "fullTextZH": "在北京，我觉得最少一年。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 359.914,
+        "endTime": 360.255,
+        "gloss": "in"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 360.255,
+        "endTime": 360.917,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 361.278,
+        "endTime": 361.498,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 361.498,
+        "endTime": 362.201,
+        "gloss": "think"
+      },
+      {
+        "word": "最少",
+        "pinyin": "zuì shǎo",
+        "startTime": 362.201,
+        "endTime": 364.468,
+        "gloss": "at least"
+      },
+      {
+        "word": "一年",
+        "pinyin": "yī nián",
+        "startTime": 364.468,
+        "endTime": 366.193,
+        "gloss": "one year"
+      }
+    ],
+    "fullTextEN": "In Beijing, I think at least a year."
+  },
+  {
+    "startTime": 366.766,
+    "endTime": 370.166,
+    "fullTextZH": "第八个是澳大利亚人",
+    "words": [
+      {
+        "word": "第八个",
+        "pinyin": "dì bā gè",
+        "startTime": 366.846,
+        "endTime": 367.973,
+        "gloss": "eighth"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 367.973,
+        "endTime": 368.637,
+        "gloss": "is"
+      },
+      {
+        "word": "澳大利亚人",
+        "pinyin": "ào dà lì yà rén",
+        "startTime": 368.637,
+        "endTime": 369.784,
+        "gloss": "Australians"
+      }
+    ],
+    "fullTextEN": "The eighth is Australians"
+  },
+  {
+    "startTime": 370.233,
+    "endTime": 373.0,
+    "fullTextZH": "很喜欢“small talk”。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 370.333,
+        "endTime": 371.015,
+        "gloss": "really"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 371.015,
+        "endTime": 371.396,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "really like 'small talk'."
+  },
+  {
+    "startTime": 373.566,
+    "endTime": 378.066,
+    "fullTextZH": "如果你见到一个陌生人，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 373.767,
+        "endTime": 374.45,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 374.45,
+        "endTime": 374.832,
+        "gloss": "you"
+      },
+      {
+        "word": "见到",
+        "pinyin": "jiàn dào",
+        "startTime": 374.832,
+        "endTime": 375.595,
+        "gloss": "meet"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 375.595,
+        "endTime": 376.82,
+        "gloss": "a"
+      },
+      {
+        "word": "陌生人",
+        "pinyin": "mò shēng rén",
+        "startTime": 376.82,
+        "endTime": 378.026,
+        "gloss": "stranger"
+      }
+    ],
+    "fullTextEN": "If you meet a stranger,"
+  },
+  {
+    "startTime": 378.3,
+    "endTime": 380.6,
+    "fullTextZH": "他们也会和你说：",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 378.461,
+        "endTime": 379.046,
+        "gloss": "they"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 379.046,
+        "endTime": 379.349,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 379.349,
+        "endTime": 379.652,
+        "gloss": "will"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 379.652,
+        "endTime": 379.874,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 379.874,
+        "endTime": 380.176,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 380.176,
+        "endTime": 380.56,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "they will also say to you:"
+  },
+  {
+    "startTime": 380.633,
+    "endTime": 383.133,
+    "fullTextZH": "“嘿！你好！你怎么样？”",
+    "words": [
+      {
+        "word": "嘿",
+        "pinyin": "hēi",
+        "startTime": 380.814,
+        "endTime": 381.117,
+        "gloss": "hey"
+      },
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 381.218,
+        "endTime": 381.883,
+        "gloss": "hello"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 382.246,
+        "endTime": 382.427,
+        "gloss": "you"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 382.427,
+        "endTime": 383.073,
+        "gloss": "how are"
+      }
+    ],
+    "fullTextEN": "\"Hey! Hello! How are you?\""
+  },
+  {
+    "startTime": 385.333,
+    "endTime": 390.466,
+    "fullTextZH": "可是，我觉得在中国，我们没有这个。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 385.513,
+        "endTime": 386.015,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 386.416,
+        "endTime": 386.616,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 386.616,
+        "endTime": 387.077,
+        "gloss": "think"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 387.077,
+        "endTime": 387.539,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 387.539,
+        "endTime": 388.26,
+        "gloss": "China"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 388.561,
+        "endTime": 388.982,
+        "gloss": "we"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 388.982,
+        "endTime": 389.784,
+        "gloss": "don't have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 389.784,
+        "endTime": 390.426,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "But, I think in China, we don't have this."
+  },
+  {
+    "startTime": 391.166,
+    "endTime": 398.4,
+    "fullTextZH": "第九个是澳大利亚人很喜欢走走。",
+    "words": [
+      {
+        "word": "第九个",
+        "pinyin": "dì jiǔ gè",
+        "startTime": 391.346,
+        "endTime": 392.889,
+        "gloss": "ninth"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 392.889,
+        "endTime": 393.671,
+        "gloss": "is"
+      },
+      {
+        "word": "澳大利亚人",
+        "pinyin": "ào dà lì yà rén",
+        "startTime": 393.671,
+        "endTime": 395.514,
+        "gloss": "Australians"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 395.514,
+        "endTime": 396.196,
+        "gloss": "really"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 396.196,
+        "endTime": 397.278,
+        "gloss": "like"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 397.278,
+        "endTime": 398.36,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "The ninth is Australians really like to walk."
+  },
+  {
+    "startTime": 399.133,
+    "endTime": 404.233,
+    "fullTextZH": "在中国，有一个词是“散步”，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 399.354,
+        "endTime": 399.575,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 399.575,
+        "endTime": 399.916,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 400.639,
+        "endTime": 400.86,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 400.86,
+        "endTime": 401.482,
+        "gloss": "a"
+      },
+      {
+        "word": "词是",
+        "pinyin": "cí shì",
+        "startTime": 401.482,
+        "endTime": 402.667,
+        "gloss": "word is"
+      },
+      {
+        "word": "散步",
+        "pinyin": "sàn bù",
+        "startTime": 402.928,
+        "endTime": 404.193,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "In China, there is a word 'sanbu',"
+  },
+  {
+    "startTime": 404.566,
+    "endTime": 411.9,
+    "fullTextZH": "可是这个词一般来说是你吃晚饭，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 404.786,
+        "endTime": 405.748,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 405.748,
+        "endTime": 406.309,
+        "gloss": "this"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 406.309,
+        "endTime": 407.171,
+        "gloss": "word"
+      },
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 407.171,
+        "endTime": 409.335,
+        "gloss": "generally"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 409.335,
+        "endTime": 409.616,
+        "gloss": "is"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 409.616,
+        "endTime": 410.177,
+        "gloss": "you"
+      },
+      {
+        "word": "吃晚饭",
+        "pinyin": "chī wǎn fàn",
+        "startTime": 410.177,
+        "endTime": 411.86,
+        "gloss": "eat dinner"
+      }
+    ],
+    "fullTextEN": "but this word generally means you eat dinner,"
+  },
+  {
+    "startTime": 412.166,
+    "endTime": 417.233,
+    "fullTextZH": "然后你觉得：“啊！很饱、很饱，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 412.346,
+        "endTime": 412.386,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 412.386,
+        "endTime": 412.466,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 412.466,
+        "endTime": 412.506,
+        "gloss": "feel"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 412.567,
+        "endTime": 412.607,
+        "gloss": "ah"
+      },
+      {
+        "word": "很饱",
+        "pinyin": "hěn bǎo",
+        "startTime": 412.627,
+        "endTime": 412.727,
+        "gloss": "very full"
+      },
+      {
+        "word": "很饱",
+        "pinyin": "hěn bǎo",
+        "startTime": 412.767,
+        "endTime": 412.907,
+        "gloss": "very full"
+      }
+    ],
+    "fullTextEN": "then you feel: 'Ah! So full, so full,"
+  },
+  {
+    "startTime": 417.233,
+    "endTime": 419.933,
+    "fullTextZH": "所以你要去走走。”",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 417.434,
+        "endTime": 418.16,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 418.16,
+        "endTime": 418.321,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 418.321,
+        "endTime": 418.704,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 418.704,
+        "endTime": 419.127,
+        "gloss": "to"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 419.127,
+        "endTime": 419.893,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "so you want to go for a walk.'"
+  },
+  {
+    "startTime": 420.4,
+    "endTime": 423.1,
+    "fullTextZH": "你要去公园走走，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 420.561,
+        "endTime": 420.743,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 420.743,
+        "endTime": 421.065,
+        "gloss": "want"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 421.065,
+        "endTime": 421.468,
+        "gloss": "to"
+      },
+      {
+        "word": "公园",
+        "pinyin": "gōng yuán",
+        "startTime": 421.468,
+        "endTime": 422.294,
+        "gloss": "park"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 422.294,
+        "endTime": 423.08,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "You want to go to the park for a walk,"
+  },
+  {
+    "startTime": 423.533,
+    "endTime": 427.733,
+    "fullTextZH": "这样你可以消化消化。",
+    "words": [
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 423.734,
+        "endTime": 424.618,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 424.618,
+        "endTime": 424.879,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 424.879,
+        "endTime": 425.563,
+        "gloss": "can"
+      },
+      {
+        "word": "消化",
+        "pinyin": "xiāo huà",
+        "startTime": 425.563,
+        "endTime": 426.829,
+        "gloss": "digest"
+      },
+      {
+        "word": "消化",
+        "pinyin": "xiāo huà",
+        "startTime": 426.829,
+        "endTime": 427.693,
+        "gloss": "digest"
+      }
+    ],
+    "fullTextEN": "so you can digest."
+  },
+  {
+    "startTime": 428.3,
+    "endTime": 431.1,
+    "fullTextZH": "可是在澳大利亚，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 428.401,
+        "endTime": 429.287,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 429.287,
+        "endTime": 429.71,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 429.71,
+        "endTime": 431.06,
+        "gloss": "Australia"
+      }
+    ],
+    "fullTextEN": "But in Australia,"
+  },
+  {
+    "startTime": 431.4,
+    "endTime": 434.466,
+    "fullTextZH": "大家很喜欢走走，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 431.6,
+        "endTime": 432.222,
+        "gloss": "everyone"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 432.222,
+        "endTime": 432.923,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 432.923,
+        "endTime": 433.624,
+        "gloss": "likes"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 433.624,
+        "endTime": 434.446,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "everyone likes to walk,"
+  },
+  {
+    "startTime": 435.0,
+    "endTime": 437.233,
+    "fullTextZH": "去公园走走，",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 435.201,
+        "endTime": 435.583,
+        "gloss": "go"
+      },
+      {
+        "word": "公园",
+        "pinyin": "gōng yuán",
+        "startTime": 435.583,
+        "endTime": 436.408,
+        "gloss": "park"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 436.408,
+        "endTime": 437.193,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "go to the park for a walk,"
+  },
+  {
+    "startTime": 437.666,
+    "endTime": 440.233,
+    "fullTextZH": "去海边走走。",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 437.846,
+        "endTime": 438.328,
+        "gloss": "go"
+      },
+      {
+        "word": "海边",
+        "pinyin": "hǎi biān",
+        "startTime": 438.328,
+        "endTime": 439.411,
+        "gloss": "beach"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 439.411,
+        "endTime": 440.213,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "go to the beach for a walk."
+  },
+  {
+    "startTime": 442.0,
+    "endTime": 445.033,
+    "fullTextZH": "在澳大利亚，走走",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 442.201,
+        "endTime": 442.422,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 442.422,
+        "endTime": 443.687,
+        "gloss": "Australia"
+      },
+      {
+        "word": "走走",
+        "pinyin": "zǒu zǒu",
+        "startTime": 444.009,
+        "endTime": 444.631,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "In Australia, walking"
+  },
+  {
+    "startTime": 445.5,
+    "endTime": 449.333,
+    "fullTextZH": "差不多是一个运动。",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 445.681,
+        "endTime": 446.985,
+        "gloss": "almost"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 446.985,
+        "endTime": 447.366,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 447.366,
+        "endTime": 448.35,
+        "gloss": "a"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 448.35,
+        "endTime": 449.293,
+        "gloss": "sport"
+      }
+    ],
+    "fullTextEN": "is almost a sport."
+  },
+  {
+    "startTime": 450.266,
+    "endTime": 452.666,
+    "fullTextZH": "可是在中国，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 450.468,
+        "endTime": 451.335,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 451.335,
+        "endTime": 451.658,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 451.658,
+        "endTime": 452.646,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "But in China,"
+  },
+  {
+    "startTime": 453.066,
+    "endTime": 457.066,
+    "fullTextZH": "散步不是一个运动。",
+    "words": [
+      {
+        "word": "散步",
+        "pinyin": "sàn bù",
+        "startTime": 453.287,
+        "endTime": 454.775,
+        "gloss": "walk"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 454.775,
+        "endTime": 455.82,
+        "gloss": "is not"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 455.82,
+        "endTime": 456.322,
+        "gloss": "a"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 456.322,
+        "endTime": 457.026,
+        "gloss": "sport"
+      }
+    ],
+    "fullTextEN": "walking is not a sport."
+  },
+  {
+    "startTime": 458.266,
+    "endTime": 465.066,
+    "fullTextZH": "好，这就是我在澳大利亚的有趣发现。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 458.447,
+        "endTime": 458.687,
+        "gloss": "okay"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 459.108,
+        "endTime": 459.429,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 459.429,
+        "endTime": 460.392,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 460.392,
+        "endTime": 460.713,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 460.713,
+        "endTime": 461.175,
+        "gloss": "in"
+      },
+      {
+        "word": "澳大利亚",
+        "pinyin": "ào dà lì yà",
+        "startTime": 461.175,
+        "endTime": 462.619,
+        "gloss": "Australia"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 462.619,
+        "endTime": 463.261,
+        "gloss": "of"
+      },
+      {
+        "word": "有趣",
+        "pinyin": "yǒu qù",
+        "startTime": 463.261,
+        "endTime": 464.284,
+        "gloss": "interesting"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 464.284,
+        "endTime": 465.046,
+        "gloss": "discovery"
+      }
+    ],
+    "fullTextEN": "Okay, this is my interesting discovery in Australia."
+  },
+  {
+    "startTime": 465.433,
+    "endTime": 469.966,
+    "fullTextZH": "你觉得这些奇怪吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 465.593,
+        "endTime": 465.954,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 465.954,
+        "endTime": 467.118,
+        "gloss": "think"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 467.118,
+        "endTime": 468.702,
+        "gloss": "these"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 468.702,
+        "endTime": 469.505,
+        "gloss": "strange"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 469.505,
+        "endTime": 469.926,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you think these are strange?"
+  },
+  {
+    "startTime": 471.566,
+    "endTime": 473.566,
+    "fullTextZH": "留言告诉我！",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 471.707,
+        "endTime": 472.576,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 472.576,
+        "endTime": 473.122,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 473.122,
+        "endTime": 473.526,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment and tell me!"
+  },
+  {
+    "startTime": 474.066,
+    "endTime": 475.633,
+    "fullTextZH": "谢谢，再见！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 474.267,
+        "endTime": 474.468,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 475.07,
+        "endTime": 475.593,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye!"
+  }
+]

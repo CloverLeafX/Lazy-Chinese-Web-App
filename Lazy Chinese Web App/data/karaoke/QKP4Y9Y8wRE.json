@@ -1,0 +1,4483 @@
+[
+  {
+    "startTime": 0.666,
+    "endTime": 6.999,
+    "fullTextZH": "你好，今天我们说说蘑菇。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.686,
+        "endTime": 1.868,
+        "gloss": "hello"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 2.069,
+        "endTime": 3.051,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 3.051,
+        "endTime": 3.853,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 3.853,
+        "endTime": 4.133,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 4.133,
+        "endTime": 4.955,
+        "gloss": "about"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 4.955,
+        "endTime": 6.959,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "Hello, today we are going to talk about mushrooms."
+  },
+  {
+    "startTime": 7.166,
+    "endTime": 11.533,
+    "fullTextZH": "你喜欢吃蘑菇吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 7.286,
+        "endTime": 8.188,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 8.188,
+        "endTime": 9.209,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 9.209,
+        "endTime": 10.051,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 10.051,
+        "endTime": 10.972,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 10.972,
+        "endTime": 11.493,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like eating mushrooms?"
+  },
+  {
+    "startTime": 12.4,
+    "endTime": 18.333,
+    "fullTextZH": "你知道有很多很多蘑菇不可以吃。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 12.44,
+        "endTime": 12.62,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 12.62,
+        "endTime": 13.522,
+        "gloss": "know"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 13.522,
+        "endTime": 14.024,
+        "gloss": "there are"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 14.024,
+        "endTime": 15.226,
+        "gloss": "many many"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 15.226,
+        "endTime": 16.369,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 16.369,
+        "endTime": 16.85,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 16.85,
+        "endTime": 17.752,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 17.752,
+        "endTime": 18.293,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "You know there are many mushrooms that cannot be eaten."
+  },
+  {
+    "startTime": 18.566,
+    "endTime": 22.899,
+    "fullTextZH": "因为很多很多蘑菇有毒。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 18.666,
+        "endTime": 19.469,
+        "gloss": "because"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 19.469,
+        "endTime": 20.632,
+        "gloss": "many many"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 20.632,
+        "endTime": 21.695,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "有毒",
+        "pinyin": "yǒu dú",
+        "startTime": 21.695,
+        "endTime": 22.859,
+        "gloss": "poisonous"
+      }
+    ],
+    "fullTextEN": "Because many mushrooms are poisonous."
+  },
+  {
+    "startTime": 23.5,
+    "endTime": 25.533,
+    "fullTextZH": "如果你吃了，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 23.581,
+        "endTime": 24.225,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 24.225,
+        "endTime": 24.667,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 24.667,
+        "endTime": 24.949,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 24.949,
+        "endTime": 25.493,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "If you eat them,"
+  },
+  {
+    "startTime": 25.533,
+    "endTime": 28.333,
+    "fullTextZH": "可能你会死。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 25.634,
+        "endTime": 26.621,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 26.621,
+        "endTime": 26.903,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 26.903,
+        "endTime": 27.588,
+        "gloss": "will"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 27.588,
+        "endTime": 28.293,
+        "gloss": "die"
+      }
+    ],
+    "fullTextEN": "You might die."
+  },
+  {
+    "startTime": 28.566,
+    "endTime": 32.333,
+    "fullTextZH": "可能你会觉得，啊，不舒服。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 28.706,
+        "endTime": 29.628,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 29.628,
+        "endTime": 29.808,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 29.808,
+        "endTime": 30.049,
+        "gloss": "will"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 30.049,
+        "endTime": 30.63,
+        "gloss": "feel"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 30.93,
+        "endTime": 30.95,
+        "gloss": "ah"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 31.291,
+        "endTime": 31.572,
+        "gloss": "not"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 31.572,
+        "endTime": 32.293,
+        "gloss": "comfortable"
+      }
+    ],
+    "fullTextEN": "You might feel, ah, uncomfortable."
+  },
+  {
+    "startTime": 33.133,
+    "endTime": 36.333,
+    "fullTextZH": "可能你觉得头晕。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 33.153,
+        "endTime": 33.777,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 33.777,
+        "endTime": 34.019,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 34.019,
+        "endTime": 35.045,
+        "gloss": "feel"
+      },
+      {
+        "word": "头晕",
+        "pinyin": "tóu yūn",
+        "startTime": 35.045,
+        "endTime": 36.293,
+        "gloss": "dizzy"
+      }
+    ],
+    "fullTextEN": "You might feel dizzy."
+  },
+  {
+    "startTime": 36.6,
+    "endTime": 38.2,
+    "fullTextZH": "对，头晕。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 36.681,
+        "endTime": 36.985,
+        "gloss": "yes"
+      },
+      {
+        "word": "头晕",
+        "pinyin": "tóu yūn",
+        "startTime": 37.187,
+        "endTime": 38.159,
+        "gloss": "dizzy"
+      }
+    ],
+    "fullTextEN": "Yes, dizzy."
+  },
+  {
+    "startTime": 38.466,
+    "endTime": 40.266,
+    "fullTextZH": "可能你觉得，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 38.567,
+        "endTime": 39.194,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 39.194,
+        "endTime": 39.376,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 39.376,
+        "endTime": 40.226,
+        "gloss": "feel"
+      }
+    ],
+    "fullTextEN": "You might feel,"
+  },
+  {
+    "startTime": 40.666,
+    "endTime": 42.666,
+    "fullTextZH": "恶心。",
+    "words": [
+      {
+        "word": "恶心",
+        "pinyin": "ě xīn",
+        "startTime": 40.727,
+        "endTime": 42.626,
+        "gloss": "nauseous"
+      }
+    ],
+    "fullTextEN": "Nauseous."
+  },
+  {
+    "startTime": 42.666,
+    "endTime": 47.699,
+    "fullTextZH": "很恶心，可能你觉得你的肚子痛。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 42.706,
+        "endTime": 42.927,
+        "gloss": "very"
+      },
+      {
+        "word": "恶心",
+        "pinyin": "ě xīn",
+        "startTime": 42.927,
+        "endTime": 43.869,
+        "gloss": "nauseous"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 44.13,
+        "endTime": 44.691,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 44.691,
+        "endTime": 44.872,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 44.872,
+        "endTime": 45.794,
+        "gloss": "feel"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 45.794,
+        "endTime": 45.975,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 45.975,
+        "endTime": 46.215,
+        "gloss": "possessive"
+      },
+      {
+        "word": "肚子痛",
+        "pinyin": "dù zi tòng",
+        "startTime": 46.215,
+        "endTime": 47.659,
+        "gloss": "stomach hurts"
+      }
+    ],
+    "fullTextEN": "Very nauseous, you might feel your stomach hurts."
+  },
+  {
+    "startTime": 48.333,
+    "endTime": 54.099,
+    "fullTextZH": "也有可能你会看到奇怪的东西，对。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 48.353,
+        "endTime": 48.493,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 48.493,
+        "endTime": 48.773,
+        "gloss": "have"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 48.773,
+        "endTime": 49.454,
+        "gloss": "might"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 49.454,
+        "endTime": 49.734,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 49.734,
+        "endTime": 50.375,
+        "gloss": "will"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 50.375,
+        "endTime": 51.556,
+        "gloss": "see"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 51.556,
+        "endTime": 52.277,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.277,
+        "endTime": 52.437,
+        "gloss": "particle"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 52.437,
+        "endTime": 53.378,
+        "gloss": "things"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 53.518,
+        "endTime": 54.059,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "You might also see strange things, right."
+  },
+  {
+    "startTime": 54.4,
+    "endTime": 60.4,
+    "fullTextZH": "所以吃蘑菇一定要很小心，很小心。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 54.5,
+        "endTime": 55.564,
+        "gloss": "so"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 55.564,
+        "endTime": 55.805,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 55.805,
+        "endTime": 56.728,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 56.728,
+        "endTime": 57.39,
+        "gloss": "must"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 57.39,
+        "endTime": 57.751,
+        "gloss": "be"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 57.751,
+        "endTime": 58.273,
+        "gloss": "very"
+      },
+      {
+        "word": "小心",
+        "pinyin": "xiǎo xīn",
+        "startTime": 58.273,
+        "endTime": 59.015,
+        "gloss": "careful"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 59.156,
+        "endTime": 59.437,
+        "gloss": "very"
+      },
+      {
+        "word": "小心",
+        "pinyin": "xiǎo xīn",
+        "startTime": 59.437,
+        "endTime": 60.36,
+        "gloss": "careful"
+      }
+    ],
+    "fullTextEN": "So you must be very careful when eating mushrooms, very careful."
+  },
+  {
+    "startTime": 61.2,
+    "endTime": 67.6,
+    "fullTextZH": "我觉得可能大部分人吃超市的蘑菇。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 61.24,
+        "endTime": 61.682,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 61.682,
+        "endTime": 62.504,
+        "gloss": "think"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 62.504,
+        "endTime": 63.367,
+        "gloss": "might"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 63.367,
+        "endTime": 64.49,
+        "gloss": "most"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 64.49,
+        "endTime": 65.052,
+        "gloss": "people"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 65.052,
+        "endTime": 65.814,
+        "gloss": "eat"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 65.814,
+        "endTime": 66.597,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 66.597,
+        "endTime": 66.757,
+        "gloss": "possessive"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 66.757,
+        "endTime": 67.56,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "I think most people eat mushrooms from the supermarket."
+  },
+  {
+    "startTime": 67.866,
+    "endTime": 70.466,
+    "fullTextZH": "因为超市的蘑菇，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 67.967,
+        "endTime": 68.551,
+        "gloss": "because"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 68.551,
+        "endTime": 69.055,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 69.055,
+        "endTime": 69.216,
+        "gloss": "possessive"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 69.216,
+        "endTime": 70.426,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "Because supermarket mushrooms,"
+  },
+  {
+    "startTime": 70.466,
+    "endTime": 73.299,
+    "fullTextZH": "一般来说没有毒。",
+    "words": [
+      {
+        "word": "一般来说",
+        "pinyin": "yì bān lái shuō",
+        "startTime": 70.566,
+        "endTime": 72.093,
+        "gloss": "generally speaking"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 72.093,
+        "endTime": 72.797,
+        "gloss": "not"
+      },
+      {
+        "word": "毒",
+        "pinyin": "dú",
+        "startTime": 72.797,
+        "endTime": 73.259,
+        "gloss": "poisonous"
+      }
+    ],
+    "fullTextEN": "Generally speaking, are not poisonous."
+  },
+  {
+    "startTime": 73.533,
+    "endTime": 79.299,
+    "fullTextZH": "可是在中国有一个地方叫云南。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 73.553,
+        "endTime": 74.334,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 74.334,
+        "endTime": 74.774,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 74.774,
+        "endTime": 75.615,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 75.615,
+        "endTime": 75.875,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 75.875,
+        "endTime": 76.576,
+        "gloss": "a"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 76.576,
+        "endTime": 77.557,
+        "gloss": "place"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 77.557,
+        "endTime": 78.198,
+        "gloss": "called"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 78.198,
+        "endTime": 79.259,
+        "gloss": "Yunnan"
+      }
+    ],
+    "fullTextEN": "But in China, there is a place called Yunnan."
+  },
+  {
+    "startTime": 79.7,
+    "endTime": 84.666,
+    "fullTextZH": "云南这个地方有很多很多的蘑菇。",
+    "words": [
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 79.84,
+        "endTime": 80.982,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 80.982,
+        "endTime": 81.302,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 81.302,
+        "endTime": 81.963,
+        "gloss": "place"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 81.963,
+        "endTime": 82.323,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 82.323,
+        "endTime": 83.585,
+        "gloss": "many many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 83.585,
+        "endTime": 83.745,
+        "gloss": "possessive"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 83.745,
+        "endTime": 84.626,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "Yunnan has many mushrooms."
+  },
+  {
+    "startTime": 84.933,
+    "endTime": 88.999,
+    "fullTextZH": "有很多很多野生蘑菇。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 85.013,
+        "endTime": 85.294,
+        "gloss": "there are"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 85.294,
+        "endTime": 87.016,
+        "gloss": "many many"
+      },
+      {
+        "word": "野生",
+        "pinyin": "yě shēng",
+        "startTime": 87.016,
+        "endTime": 88.098,
+        "gloss": "wild"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 88.098,
+        "endTime": 88.959,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "There are many wild mushrooms."
+  },
+  {
+    "startTime": 89.7,
+    "endTime": 92.8,
+    "fullTextZH": "就是这个蘑菇在山上。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 89.7,
+        "endTime": 90.062,
+        "gloss": "just"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 90.062,
+        "endTime": 90.324,
+        "gloss": "this"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 90.324,
+        "endTime": 91.008,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 91.008,
+        "endTime": 91.471,
+        "gloss": "on"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 91.471,
+        "endTime": 92.76,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "It's this mushroom on the mountain."
+  },
+  {
+    "startTime": 92.933,
+    "endTime": 95.133,
+    "fullTextZH": "可能超市没有。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 93.014,
+        "endTime": 93.74,
+        "gloss": "maybe"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 93.74,
+        "endTime": 94.366,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 94.366,
+        "endTime": 95.093,
+        "gloss": "not have"
+      }
+    ],
+    "fullTextEN": "Maybe the supermarket doesn't have it."
+  },
+  {
+    "startTime": 95.166,
+    "endTime": 97.999,
+    "fullTextZH": "在山上，对。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 95.206,
+        "endTime": 95.588,
+        "gloss": "on"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 95.588,
+        "endTime": 96.874,
+        "gloss": "mountain"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 97.436,
+        "endTime": 97.959,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "On the mountain, right."
+  },
+  {
+    "startTime": 98.866,
+    "endTime": 103.466,
+    "fullTextZH": "这个地方的人非常非常喜欢吃蘑菇。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 98.906,
+        "endTime": 99.147,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 99.147,
+        "endTime": 99.589,
+        "gloss": "place"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 99.589,
+        "endTime": 99.71,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 99.71,
+        "endTime": 100.172,
+        "gloss": "people"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 100.172,
+        "endTime": 100.875,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 100.875,
+        "endTime": 101.417,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 101.417,
+        "endTime": 102.16,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 102.16,
+        "endTime": 102.582,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 102.582,
+        "endTime": 103.426,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "People in this place really, really like to eat mushrooms."
+  },
+  {
+    "startTime": 103.666,
+    "endTime": 107.733,
+    "fullTextZH": "可能他们知道蘑菇有毒，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 103.786,
+        "endTime": 104.507,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 104.507,
+        "endTime": 105.068,
+        "gloss": "they"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 105.068,
+        "endTime": 105.89,
+        "gloss": "know"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 105.89,
+        "endTime": 106.731,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "有毒",
+        "pinyin": "yǒu dú",
+        "startTime": 106.731,
+        "endTime": 107.693,
+        "gloss": "poisonous"
+      }
+    ],
+    "fullTextEN": "Maybe they know the mushrooms are poisonous,"
+  },
+  {
+    "startTime": 107.766,
+    "endTime": 111.799,
+    "fullTextZH": "可是他们还是要吃蘑菇。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 107.906,
+        "endTime": 108.709,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 108.709,
+        "endTime": 109.13,
+        "gloss": "they"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 109.13,
+        "endTime": 110.033,
+        "gloss": "still"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 110.033,
+        "endTime": 110.455,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 110.455,
+        "endTime": 110.936,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 110.936,
+        "endTime": 111.759,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "but they still want to eat mushrooms."
+  },
+  {
+    "startTime": 112.533,
+    "endTime": 118.333,
+    "fullTextZH": "这个地方，云南，有很多很多好吃的蘑菇。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 112.593,
+        "endTime": 112.854,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 112.854,
+        "endTime": 113.115,
+        "gloss": "place"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 113.456,
+        "endTime": 114.46,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 114.5,
+        "endTime": 114.761,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 114.761,
+        "endTime": 116.487,
+        "gloss": "many many"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 116.487,
+        "endTime": 117.309,
+        "gloss": "delicious"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 117.309,
+        "endTime": 117.49,
+        "gloss": "of"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 117.49,
+        "endTime": 118.293,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "This place, Yunnan, has many, many delicious mushrooms."
+  },
+  {
+    "startTime": 118.7,
+    "endTime": 123.4,
+    "fullTextZH": "我听说有一种蘑菇叫，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 118.881,
+        "endTime": 119.604,
+        "gloss": "I"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 119.604,
+        "endTime": 120.99,
+        "gloss": "heard"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 120.99,
+        "endTime": 121.271,
+        "gloss": "have"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 121.271,
+        "endTime": 121.934,
+        "gloss": "a type"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 121.934,
+        "endTime": 122.777,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 122.777,
+        "endTime": 123.36,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "I heard there's a type of mushroom called,"
+  },
+  {
+    "startTime": 123.566,
+    "endTime": 124.999,
+    "fullTextZH": "鸡枞菌。",
+    "words": [
+      {
+        "word": "鸡",
+        "pinyin": "jī",
+        "startTime": 123.606,
+        "endTime": 124.01,
+        "gloss": "termite"
+      },
+      {
+        "word": "枞菌",
+        "pinyin": "cōng jūn",
+        "startTime": 124.01,
+        "endTime": 124.959,
+        "gloss": "mushroom"
+      }
+    ],
+    "fullTextEN": "Termitomyces."
+  },
+  {
+    "startTime": 125.766,
+    "endTime": 132.066,
+    "fullTextZH": "这种蘑菇吃起来和鸡肉差不多，嗯。",
+    "words": [
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 125.947,
+        "endTime": 126.428,
+        "gloss": "this type"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 126.428,
+        "endTime": 127.351,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 127.351,
+        "endTime": 127.772,
+        "gloss": "eat"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 127.772,
+        "endTime": 128.495,
+        "gloss": "like"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 128.495,
+        "endTime": 129.257,
+        "gloss": "with"
+      },
+      {
+        "word": "鸡肉",
+        "pinyin": "jī ròu",
+        "startTime": 129.257,
+        "endTime": 130.22,
+        "gloss": "chicken"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 130.22,
+        "endTime": 131.003,
+        "gloss": "almost"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 131.544,
+        "endTime": 132.026,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "This type of mushroom tastes almost like chicken, hmm."
+  },
+  {
+    "startTime": 132.2,
+    "endTime": 136.366,
+    "fullTextZH": "所以我很想试试这种蘑菇。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 132.36,
+        "endTime": 132.701,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 132.701,
+        "endTime": 133.101,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 133.101,
+        "endTime": 133.562,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 133.562,
+        "endTime": 134.223,
+        "gloss": "want"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 134.223,
+        "endTime": 135.104,
+        "gloss": "try"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 135.104,
+        "endTime": 135.565,
+        "gloss": "this type"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 135.565,
+        "endTime": 136.326,
+        "gloss": "mushroom"
+      }
+    ],
+    "fullTextEN": "So I really want to try this mushroom."
+  },
+  {
+    "startTime": 137.066,
+    "endTime": 142.766,
+    "fullTextZH": "如果你想看关于这种蘑菇的视频，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 137.106,
+        "endTime": 137.768,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 137.768,
+        "endTime": 138.11,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 138.11,
+        "endTime": 138.551,
+        "gloss": "want"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 138.551,
+        "endTime": 139.294,
+        "gloss": "watch"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 139.294,
+        "endTime": 140.157,
+        "gloss": "about"
+      },
+      {
+        "word": "这种",
+        "pinyin": "zhè zhǒng",
+        "startTime": 140.157,
+        "endTime": 140.719,
+        "gloss": "this type"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 140.719,
+        "endTime": 141.401,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 141.401,
+        "endTime": 141.843,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 141.843,
+        "endTime": 142.726,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "If you want to watch videos about this mushroom,"
+  },
+  {
+    "startTime": 142.866,
+    "endTime": 147.799,
+    "fullTextZH": "你可以去看看滇西小哥的视频。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 142.946,
+        "endTime": 143.167,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 143.167,
+        "endTime": 143.788,
+        "gloss": "can"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 143.788,
+        "endTime": 144.25,
+        "gloss": "go"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 144.25,
+        "endTime": 145.112,
+        "gloss": "watch"
+      },
+      {
+        "word": "滇西",
+        "pinyin": "diān xī",
+        "startTime": 145.112,
+        "endTime": 146.054,
+        "gloss": "Dianxi"
+      },
+      {
+        "word": "小哥",
+        "pinyin": "xiǎo gē",
+        "startTime": 146.054,
+        "endTime": 146.796,
+        "gloss": "Xiaoge"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 146.796,
+        "endTime": 147.017,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 147.017,
+        "endTime": 147.759,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "you can go watch Dianxi Xiaoge's videos."
+  },
+  {
+    "startTime": 148.366,
+    "endTime": 151.666,
+    "fullTextZH": "她是一个云南人，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 148.386,
+        "endTime": 148.809,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 148.809,
+        "endTime": 149.03,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 149.03,
+        "endTime": 150.157,
+        "gloss": "a"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 150.157,
+        "endTime": 150.921,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 150.921,
+        "endTime": 151.626,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "She is a person from Yunnan,"
+  },
+  {
+    "startTime": 151.7,
+    "endTime": 155.6,
+    "fullTextZH": "所以当然她也吃很多蘑菇。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 151.801,
+        "endTime": 152.243,
+        "gloss": "so"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 152.243,
+        "endTime": 152.966,
+        "gloss": "of course"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 152.966,
+        "endTime": 153.268,
+        "gloss": "she"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 153.268,
+        "endTime": 153.67,
+        "gloss": "also"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 153.67,
+        "endTime": 154.213,
+        "gloss": "eat"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 154.213,
+        "endTime": 154.736,
+        "gloss": "many"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 154.736,
+        "endTime": 155.56,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "so of course she also eats a lot of mushrooms."
+  },
+  {
+    "startTime": 156.1,
+    "endTime": 159.666,
+    "fullTextZH": "我最喜欢她的视频。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 156.16,
+        "endTime": 156.681,
+        "gloss": "I"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 156.681,
+        "endTime": 157.422,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 157.422,
+        "endTime": 158.163,
+        "gloss": "like"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 158.163,
+        "endTime": 158.484,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 158.484,
+        "endTime": 158.704,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 158.704,
+        "endTime": 159.626,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "I like her videos the most."
+  },
+  {
+    "startTime": 159.733,
+    "endTime": 164.466,
+    "fullTextZH": "我觉得她做的食物都很有意思。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 159.813,
+        "endTime": 160.034,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 160.034,
+        "endTime": 160.936,
+        "gloss": "think"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 160.936,
+        "endTime": 161.337,
+        "gloss": "she"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 161.337,
+        "endTime": 161.638,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 161.638,
+        "endTime": 162.24,
+        "gloss": "of"
+      },
+      {
+        "word": "食物",
+        "pinyin": "shí wù",
+        "startTime": 162.24,
+        "endTime": 162.902,
+        "gloss": "food"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 162.902,
+        "endTime": 163.203,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 163.203,
+        "endTime": 163.383,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 163.383,
+        "endTime": 164.426,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think the food she makes is very interesting."
+  },
+  {
+    "startTime": 165.4,
+    "endTime": 168.533,
+    "fullTextZH": "有一天我在看我的微信，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 165.4,
+        "endTime": 165.541,
+        "gloss": "have"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 165.541,
+        "endTime": 166.304,
+        "gloss": "one day"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 166.304,
+        "endTime": 166.505,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 166.505,
+        "endTime": 166.886,
+        "gloss": "at"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 166.886,
+        "endTime": 167.207,
+        "gloss": "look"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 167.207,
+        "endTime": 167.428,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 167.428,
+        "endTime": 167.629,
+        "gloss": "of"
+      },
+      {
+        "word": "微信",
+        "pinyin": "wēi xìn",
+        "startTime": 167.629,
+        "endTime": 168.493,
+        "gloss": "WeChat"
+      }
+    ],
+    "fullTextEN": "One day I was looking at my WeChat,"
+  },
+  {
+    "startTime": 168.766,
+    "endTime": 173.333,
+    "fullTextZH": "然后我看到我有一个云南朋友。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 168.846,
+        "endTime": 169.467,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 169.467,
+        "endTime": 169.808,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 169.808,
+        "endTime": 170.569,
+        "gloss": "saw"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 170.569,
+        "endTime": 170.729,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 170.729,
+        "endTime": 170.869,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 170.869,
+        "endTime": 171.67,
+        "gloss": "a"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 171.67,
+        "endTime": 172.412,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 172.412,
+        "endTime": 172.812,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "then I saw I have a friend from Yunnan."
+  },
+  {
+    "startTime": 173.366,
+    "endTime": 176.799,
+    "fullTextZH": "他发了一个视频。",
+    "words": [
+      {
+        "word": "他发",
+        "pinyin": "tā fā",
+        "startTime": 173.446,
+        "endTime": 174.571,
+        "gloss": "he sent"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 174.571,
+        "endTime": 175.113,
+        "gloss": "particle"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 175.113,
+        "endTime": 175.735,
+        "gloss": "a"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 175.735,
+        "endTime": 176.759,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "He sent a video."
+  },
+  {
+    "startTime": 177.266,
+    "endTime": 179.099,
+    "fullTextZH": "是什么视频？",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 177.387,
+        "endTime": 177.89,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 177.89,
+        "endTime": 178.233,
+        "gloss": "what"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 178.233,
+        "endTime": 179.059,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "What kind of video is it?"
+  },
+  {
+    "startTime": 179.333,
+    "endTime": 182.566,
+    "fullTextZH": "是他做蘑菇的视频。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 179.413,
+        "endTime": 179.634,
+        "gloss": "is"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 179.634,
+        "endTime": 180.136,
+        "gloss": "he"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 180.136,
+        "endTime": 180.719,
+        "gloss": "make"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 180.719,
+        "endTime": 181.462,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 181.462,
+        "endTime": 181.662,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 181.662,
+        "endTime": 182.526,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "It's a video of him making mushrooms."
+  },
+  {
+    "startTime": 183.2,
+    "endTime": 188.666,
+    "fullTextZH": "他说他的妈妈买了很多很多蘑菇。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 183.22,
+        "endTime": 183.62,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 183.62,
+        "endTime": 184.401,
+        "gloss": "said"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 184.401,
+        "endTime": 184.561,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 184.561,
+        "endTime": 184.722,
+        "gloss": "mom"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 184.722,
+        "endTime": 185.543,
+        "gloss": "buy"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 185.543,
+        "endTime": 185.943,
+        "gloss": "le"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 185.943,
+        "endTime": 186.303,
+        "gloss": "many many"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 186.303,
+        "endTime": 187.605,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 187.605,
+        "endTime": 188.626,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "He said his mom bought a lot of mushrooms."
+  },
+  {
+    "startTime": 189.966,
+    "endTime": 192.866,
+    "fullTextZH": "不是在超市买的，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 189.966,
+        "endTime": 190.59,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 190.59,
+        "endTime": 191.074,
+        "gloss": "at"
+      },
+      {
+        "word": "超市",
+        "pinyin": "chāo shì",
+        "startTime": 191.074,
+        "endTime": 191.919,
+        "gloss": "supermarket"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 191.919,
+        "endTime": 192.322,
+        "gloss": "buy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 192.322,
+        "endTime": 192.826,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "They weren't bought at the supermarket,"
+  },
+  {
+    "startTime": 192.966,
+    "endTime": 195.966,
+    "fullTextZH": "是野生蘑菇，对。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 193.047,
+        "endTime": 193.57,
+        "gloss": "are"
+      },
+      {
+        "word": "野生",
+        "pinyin": "yě shēng",
+        "startTime": 193.57,
+        "endTime": 194.577,
+        "gloss": "wild"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 194.577,
+        "endTime": 195.443,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 195.624,
+        "endTime": 195.946,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "They're wild mushrooms, right."
+  },
+  {
+    "startTime": 195.966,
+    "endTime": 199.566,
+    "fullTextZH": "是可能很多人去山上，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 196.046,
+        "endTime": 196.73,
+        "gloss": "is"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 196.73,
+        "endTime": 197.233,
+        "gloss": "possible"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 197.233,
+        "endTime": 197.675,
+        "gloss": "many"
+      },
+      {
+        "word": "人去",
+        "pinyin": "rén qù",
+        "startTime": 197.675,
+        "endTime": 198.379,
+        "gloss": "people go"
+      },
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 198.379,
+        "endTime": 199.526,
+        "gloss": "mountains"
+      }
+    ],
+    "fullTextEN": "It's possible many people go to the mountains,"
+  },
+  {
+    "startTime": 199.566,
+    "endTime": 202.933,
+    "fullTextZH": "然后去采的蘑菇，对。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 199.606,
+        "endTime": 200.127,
+        "gloss": "then"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 200.127,
+        "endTime": 200.608,
+        "gloss": "go"
+      },
+      {
+        "word": "采",
+        "pinyin": "cǎi",
+        "startTime": 200.608,
+        "endTime": 200.969,
+        "gloss": "pick"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.969,
+        "endTime": 201.149,
+        "gloss": "de"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 201.149,
+        "endTime": 202.191,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 202.472,
+        "endTime": 202.893,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "then pick mushrooms, right."
+  },
+  {
+    "startTime": 202.933,
+    "endTime": 205.899,
+    "fullTextZH": "他的妈妈买了很多蘑菇。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 203.093,
+        "endTime": 203.113,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 203.113,
+        "endTime": 203.254,
+        "gloss": "de"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 203.254,
+        "endTime": 203.935,
+        "gloss": "mom"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 203.935,
+        "endTime": 204.216,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 204.216,
+        "endTime": 204.396,
+        "gloss": "le"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 204.396,
+        "endTime": 205.057,
+        "gloss": "many"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 205.057,
+        "endTime": 205.859,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "His mom bought a lot of mushrooms."
+  },
+  {
+    "startTime": 206.133,
+    "endTime": 208.099,
+    "fullTextZH": "我的朋友说，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 206.233,
+        "endTime": 206.494,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 206.494,
+        "endTime": 206.675,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 206.675,
+        "endTime": 207.397,
+        "gloss": "friend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 207.397,
+        "endTime": 208.059,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "My friend said,"
+  },
+  {
+    "startTime": 208.166,
+    "endTime": 213.399,
+    "fullTextZH": "这些蘑菇看起来就很毒。",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 208.326,
+        "endTime": 209.209,
+        "gloss": "these"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 209.209,
+        "endTime": 210.392,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 210.392,
+        "endTime": 211.875,
+        "gloss": "look"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 211.875,
+        "endTime": 212.276,
+        "gloss": "just"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 212.276,
+        "endTime": 212.697,
+        "gloss": "very"
+      },
+      {
+        "word": "毒",
+        "pinyin": "dú",
+        "startTime": 212.697,
+        "endTime": 213.359,
+        "gloss": "poisonous"
+      }
+    ],
+    "fullTextEN": "These mushrooms look very poisonous."
+  },
+  {
+    "startTime": 214.666,
+    "endTime": 218.133,
+    "fullTextZH": "可是他还是要吃，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 214.686,
+        "endTime": 215.628,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 215.628,
+        "endTime": 216.189,
+        "gloss": "he"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 216.189,
+        "endTime": 217.091,
+        "gloss": "still"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 217.091,
+        "endTime": 217.532,
+        "gloss": "wants"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 217.532,
+        "endTime": 218.093,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "But he still wants to eat them,"
+  },
+  {
+    "startTime": 218.4,
+    "endTime": 222.6,
+    "fullTextZH": "因为他说他知道怎么做。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 218.5,
+        "endTime": 218.963,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 218.963,
+        "endTime": 219.324,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 219.324,
+        "endTime": 219.927,
+        "gloss": "said"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 219.927,
+        "endTime": 220.43,
+        "gloss": "he"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 220.43,
+        "endTime": 221.213,
+        "gloss": "knows"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 221.213,
+        "endTime": 221.957,
+        "gloss": "how"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 221.957,
+        "endTime": 222.56,
+        "gloss": "make"
+      }
+    ],
+    "fullTextEN": "because he said he knows how to cook them."
+  },
+  {
+    "startTime": 223.566,
+    "endTime": 229.366,
+    "fullTextZH": "对，所以我看到他把蘑菇放在油里炸。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 223.566,
+        "endTime": 223.626,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 223.927,
+        "endTime": 224.208,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 224.208,
+        "endTime": 224.509,
+        "gloss": "I"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 224.509,
+        "endTime": 225.453,
+        "gloss": "saw"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 225.453,
+        "endTime": 225.894,
+        "gloss": "he"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 225.894,
+        "endTime": 226.235,
+        "gloss": "ba"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 226.235,
+        "endTime": 227.038,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "放在",
+        "pinyin": "fàng zài",
+        "startTime": 227.038,
+        "endTime": 227.881,
+        "gloss": "put in"
+      },
+      {
+        "word": "油里",
+        "pinyin": "yóu lǐ",
+        "startTime": 227.881,
+        "endTime": 228.824,
+        "gloss": "oil"
+      },
+      {
+        "word": "炸",
+        "pinyin": "zhà",
+        "startTime": 228.824,
+        "endTime": 229.326,
+        "gloss": "fry"
+      }
+    ],
+    "fullTextEN": "Right, so I saw him frying mushrooms in oil."
+  },
+  {
+    "startTime": 229.766,
+    "endTime": 232.933,
+    "fullTextZH": "油炸，然后他炒一炒。",
+    "words": [
+      {
+        "word": "油炸",
+        "pinyin": "yóu zhá",
+        "startTime": 229.846,
+        "endTime": 231.049,
+        "gloss": "deep fry"
+      },
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 231.089,
+        "endTime": 231.75,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 231.75,
+        "endTime": 232.111,
+        "gloss": "he"
+      },
+      {
+        "word": "炒",
+        "pinyin": "chǎo",
+        "startTime": 232.111,
+        "endTime": 232.372,
+        "gloss": "stir-fry"
+      },
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 232.372,
+        "endTime": 232.532,
+        "gloss": "one"
+      },
+      {
+        "word": "炒",
+        "pinyin": "chǎo",
+        "startTime": 232.532,
+        "endTime": 232.893,
+        "gloss": "stir"
+      }
+    ],
+    "fullTextEN": "Deep fry, then he stir-fries them."
+  },
+  {
+    "startTime": 233.2,
+    "endTime": 236.533,
+    "fullTextZH": "嗯，看起来很好吃。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 233.28,
+        "endTime": 233.381,
+        "gloss": "hmm"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 234.244,
+        "endTime": 235.188,
+        "gloss": "look"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 235.188,
+        "endTime": 235.569,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 235.569,
+        "endTime": 236.493,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "Hmm, they look delicious."
+  },
+  {
+    "startTime": 237.666,
+    "endTime": 241.366,
+    "fullTextZH": "我这个朋友他还活着，对。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 237.686,
+        "endTime": 238.008,
+        "gloss": "my"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 238.008,
+        "endTime": 238.37,
+        "gloss": "this"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 238.37,
+        "endTime": 239.054,
+        "gloss": "friend"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 239.054,
+        "endTime": 239.395,
+        "gloss": "he"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 239.395,
+        "endTime": 239.958,
+        "gloss": "still"
+      },
+      {
+        "word": "活着",
+        "pinyin": "huó zhe",
+        "startTime": 239.958,
+        "endTime": 240.924,
+        "gloss": "alive"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 241.084,
+        "endTime": 241.326,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "My friend is still alive, right."
+  },
+  {
+    "startTime": 241.366,
+    "endTime": 242.966,
+    "fullTextZH": "他没有死。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 241.407,
+        "endTime": 241.67,
+        "gloss": "he"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 241.67,
+        "endTime": 242.338,
+        "gloss": "didn't"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 242.338,
+        "endTime": 242.925,
+        "gloss": "die"
+      }
+    ],
+    "fullTextEN": "He didn't die."
+  },
+  {
+    "startTime": 243.1,
+    "endTime": 246.3,
+    "fullTextZH": "所以现在我也觉得，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 243.241,
+        "endTime": 244.006,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 244.006,
+        "endTime": 244.911,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 244.911,
+        "endTime": 245.173,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 245.173,
+        "endTime": 245.555,
+        "gloss": "also"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 245.555,
+        "endTime": 246.26,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "So now I also think,"
+  },
+  {
+    "startTime": 246.366,
+    "endTime": 251.699,
+    "fullTextZH": "可能他真的知道怎么做蘑菇。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 246.466,
+        "endTime": 247.429,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 247.429,
+        "endTime": 247.83,
+        "gloss": "he"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 247.83,
+        "endTime": 248.571,
+        "gloss": "really"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 248.571,
+        "endTime": 249.333,
+        "gloss": "knows"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 249.333,
+        "endTime": 250.155,
+        "gloss": "how"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 250.155,
+        "endTime": 250.697,
+        "gloss": "make"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 250.697,
+        "endTime": 251.659,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "maybe he really knows how to cook mushrooms."
+  },
+  {
+    "startTime": 252.4,
+    "endTime": 254.0,
+    "fullTextZH": "在中国云南，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 252.4,
+        "endTime": 252.623,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 252.623,
+        "endTime": 253.129,
+        "gloss": "China"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 253.129,
+        "endTime": 253.959,
+        "gloss": "Yunnan"
+      }
+    ],
+    "fullTextEN": "In Yunnan, China,"
+  },
+  {
+    "startTime": 254.0,
+    "endTime": 257.333,
+    "fullTextZH": "每年吃蘑菇的时候，",
+    "words": [
+      {
+        "word": "每年",
+        "pinyin": "měi nián",
+        "startTime": 254.06,
+        "endTime": 255.245,
+        "gloss": "every year"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 255.245,
+        "endTime": 255.606,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 255.606,
+        "endTime": 256.229,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 256.229,
+        "endTime": 256.429,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 256.429,
+        "endTime": 257.293,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Every year during mushroom eating season,"
+  },
+  {
+    "startTime": 257.333,
+    "endTime": 262.299,
+    "fullTextZH": "真的有很多人因为吃了有毒的蘑菇，",
+    "words": [
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 257.373,
+        "endTime": 257.774,
+        "gloss": "really"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 257.774,
+        "endTime": 258.054,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 258.054,
+        "endTime": 258.595,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 258.595,
+        "endTime": 259.055,
+        "gloss": "people"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 259.055,
+        "endTime": 259.896,
+        "gloss": "because"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 259.896,
+        "endTime": 260.176,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 260.176,
+        "endTime": 260.777,
+        "gloss": "了"
+      },
+      {
+        "word": "有毒",
+        "pinyin": "yǒu dú",
+        "startTime": 260.777,
+        "endTime": 261.378,
+        "gloss": "toxic"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 261.378,
+        "endTime": 261.578,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 261.578,
+        "endTime": 262.259,
+        "gloss": "mushroom"
+      }
+    ],
+    "fullTextEN": "many people really get poisoned by eating toxic mushrooms,"
+  },
+  {
+    "startTime": 262.3,
+    "endTime": 264.533,
+    "fullTextZH": "然后他们去医院。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 262.34,
+        "endTime": 262.803,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 262.803,
+        "endTime": 263.346,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 263.346,
+        "endTime": 263.708,
+        "gloss": "go"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yī yuàn",
+        "startTime": 263.708,
+        "endTime": 264.493,
+        "gloss": "hospital"
+      }
+    ],
+    "fullTextEN": "then they go to the hospital."
+  },
+  {
+    "startTime": 265.133,
+    "endTime": 268.466,
+    "fullTextZH": "可是他们还是要吃。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 265.253,
+        "endTime": 266.197,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 266.197,
+        "endTime": 266.559,
+        "gloss": "they"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 266.559,
+        "endTime": 267.402,
+        "gloss": "still"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 267.402,
+        "endTime": 267.783,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 267.783,
+        "endTime": 268.426,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "But they still want to eat them."
+  },
+  {
+    "startTime": 268.933,
+    "endTime": 270.333,
+    "fullTextZH": "所以在中国，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 268.994,
+        "endTime": 269.379,
+        "gloss": "so"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 269.379,
+        "endTime": 269.623,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 269.623,
+        "endTime": 270.292,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "So in China,"
+  },
+  {
+    "startTime": 270.333,
+    "endTime": 276.599,
+    "fullTextZH": "有很多关于云南人吃蘑菇的笑话。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 270.453,
+        "endTime": 270.693,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 270.693,
+        "endTime": 271.614,
+        "gloss": "many"
+      },
+      {
+        "word": "关于",
+        "pinyin": "guān yú",
+        "startTime": 271.614,
+        "endTime": 272.675,
+        "gloss": "about"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 272.675,
+        "endTime": 273.356,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 273.356,
+        "endTime": 273.896,
+        "gloss": "people"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 273.896,
+        "endTime": 274.477,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 274.477,
+        "endTime": 275.178,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 275.178,
+        "endTime": 275.678,
+        "gloss": "的"
+      },
+      {
+        "word": "笑话",
+        "pinyin": "xiào huà",
+        "startTime": 275.678,
+        "endTime": 276.559,
+        "gloss": "jokes"
+      }
+    ],
+    "fullTextEN": "there are many jokes about Yunnan people eating mushrooms."
+  },
+  {
+    "startTime": 277.4,
+    "endTime": 279.933,
+    "fullTextZH": "有一个是有人说，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 277.44,
+        "endTime": 277.641,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 277.641,
+        "endTime": 278.224,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 278.224,
+        "endTime": 279.008,
+        "gloss": "is"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 279.008,
+        "endTime": 279.531,
+        "gloss": "someone"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 279.531,
+        "endTime": 279.893,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "One of them is someone saying,"
+  },
+  {
+    "startTime": 279.933,
+    "endTime": 284.799,
+    "fullTextZH": "其实你可以吃所有的蘑菇。",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 280.113,
+        "endTime": 281.034,
+        "gloss": "actually"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 281.034,
+        "endTime": 281.735,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 281.735,
+        "endTime": 282.316,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 282.316,
+        "endTime": 282.837,
+        "gloss": "eat"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 282.837,
+        "endTime": 283.818,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 283.818,
+        "endTime": 284.078,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 284.078,
+        "endTime": 284.759,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "actually you can eat all mushrooms."
+  },
+  {
+    "startTime": 284.8,
+    "endTime": 287.2,
+    "fullTextZH": "对，所有的蘑菇。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 284.901,
+        "endTime": 285.143,
+        "gloss": "yes"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 285.587,
+        "endTime": 286.292,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 286.292,
+        "endTime": 286.454,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 286.454,
+        "endTime": 287.16,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "Yes, all mushrooms."
+  },
+  {
+    "startTime": 287.6,
+    "endTime": 293.366,
+    "fullTextZH": "只是有的蘑菇你可以吃很多很多次，",
+    "words": [
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 287.8,
+        "endTime": 288.801,
+        "gloss": "just"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 288.801,
+        "endTime": 289.082,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 289.082,
+        "endTime": 289.322,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 289.322,
+        "endTime": 290.163,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 290.163,
+        "endTime": 290.483,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 290.483,
+        "endTime": 291.104,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 291.104,
+        "endTime": 291.464,
+        "gloss": "eat"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 291.464,
+        "endTime": 292.825,
+        "gloss": "many many"
+      },
+      {
+        "word": "次",
+        "pinyin": "cì",
+        "startTime": 292.825,
+        "endTime": 293.326,
+        "gloss": "times"
+      }
+    ],
+    "fullTextEN": "It's just that some mushrooms you can eat many, many times,"
+  },
+  {
+    "startTime": 293.9,
+    "endTime": 299.266,
+    "fullTextZH": "可是有的蘑菇你只可以吃一次。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 293.92,
+        "endTime": 294.841,
+        "gloss": "but"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 294.841,
+        "endTime": 295.081,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 295.081,
+        "endTime": 295.282,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 295.282,
+        "endTime": 296.163,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 296.163,
+        "endTime": 296.643,
+        "gloss": "you"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 296.643,
+        "endTime": 297.084,
+        "gloss": "only"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 297.084,
+        "endTime": 297.864,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 297.864,
+        "endTime": 298.385,
+        "gloss": "eat"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 298.385,
+        "endTime": 299.226,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "but some mushrooms you can only eat once."
+  },
+  {
+    "startTime": 300.2,
+    "endTime": 307.0,
+    "fullTextZH": "为什么？因为有的蘑菇你吃了就会死。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 300.381,
+        "endTime": 300.701,
+        "gloss": "why"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 301.544,
+        "endTime": 302.326,
+        "gloss": "because"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 302.326,
+        "endTime": 302.587,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.587,
+        "endTime": 302.768,
+        "gloss": "的"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 302.768,
+        "endTime": 303.871,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 303.871,
+        "endTime": 304.974,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 304.974,
+        "endTime": 305.215,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 305.215,
+        "endTime": 305.636,
+        "gloss": "了"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 305.636,
+        "endTime": 305.937,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 305.937,
+        "endTime": 306.378,
+        "gloss": "will"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 306.378,
+        "endTime": 306.96,
+        "gloss": "die"
+      }
+    ],
+    "fullTextEN": "Why? Because some mushrooms will kill you if you eat them."
+  },
+  {
+    "startTime": 307.066,
+    "endTime": 310.966,
+    "fullTextZH": "所以你只可以吃一次。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 307.227,
+        "endTime": 307.83,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 307.83,
+        "endTime": 308.513,
+        "gloss": "you"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 308.513,
+        "endTime": 308.895,
+        "gloss": "only"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 308.895,
+        "endTime": 309.639,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 309.639,
+        "endTime": 310.102,
+        "gloss": "eat"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 310.102,
+        "endTime": 310.926,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "So you can only eat them once."
+  },
+  {
+    "startTime": 311.5,
+    "endTime": 313.6,
+    "fullTextZH": "还有的云南人说，",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 311.54,
+        "endTime": 311.964,
+        "gloss": "also"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 311.964,
+        "endTime": 312.086,
+        "gloss": "some"
+      },
+      {
+        "word": "云南",
+        "pinyin": "yún nán",
+        "startTime": 312.086,
+        "endTime": 312.611,
+        "gloss": "Yunnan"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 312.611,
+        "endTime": 313.035,
+        "gloss": "people"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 313.035,
+        "endTime": 313.56,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Some Yunnan people also say,"
+  },
+  {
+    "startTime": 313.7,
+    "endTime": 316.0,
+    "fullTextZH": "如果他们吃蘑菇，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 313.841,
+        "endTime": 314.366,
+        "gloss": "if"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 314.366,
+        "endTime": 314.89,
+        "gloss": "they"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 314.89,
+        "endTime": 315.233,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 315.233,
+        "endTime": 315.96,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "if they eat mushrooms,"
+  },
+  {
+    "startTime": 316.0,
+    "endTime": 318.2,
+    "fullTextZH": "然后他们中毒了，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 316.081,
+        "endTime": 316.606,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 316.606,
+        "endTime": 317.11,
+        "gloss": "they"
+      },
+      {
+        "word": "中毒",
+        "pinyin": "zhòng dú",
+        "startTime": 317.11,
+        "endTime": 317.817,
+        "gloss": "poisoned"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 317.817,
+        "endTime": 318.16,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "and then they get poisoned,"
+  },
+  {
+    "startTime": 318.333,
+    "endTime": 320.933,
+    "fullTextZH": "他们不怪蘑菇。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 318.414,
+        "endTime": 318.978,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 318.978,
+        "endTime": 319.663,
+        "gloss": "not"
+      },
+      {
+        "word": "怪",
+        "pinyin": "guài",
+        "startTime": 319.663,
+        "endTime": 320.107,
+        "gloss": "blame"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 320.107,
+        "endTime": 320.893,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "they don't blame the mushrooms."
+  },
+  {
+    "startTime": 321.066,
+    "endTime": 324.299,
+    "fullTextZH": "他们觉得蘑菇没有错。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 321.146,
+        "endTime": 321.528,
+        "gloss": "they"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 321.528,
+        "endTime": 321.97,
+        "gloss": "think"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 321.97,
+        "endTime": 322.893,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 322.893,
+        "endTime": 323.757,
+        "gloss": "not"
+      },
+      {
+        "word": "错",
+        "pinyin": "cuò",
+        "startTime": 323.757,
+        "endTime": 324.259,
+        "gloss": "wrong"
+      }
+    ],
+    "fullTextEN": "They think the mushrooms are not at fault."
+  },
+  {
+    "startTime": 324.3,
+    "endTime": 326.133,
+    "fullTextZH": "他们怪自己。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 324.421,
+        "endTime": 325.045,
+        "gloss": "they"
+      },
+      {
+        "word": "怪",
+        "pinyin": "guài",
+        "startTime": 325.045,
+        "endTime": 325.448,
+        "gloss": "blame"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 325.448,
+        "endTime": 326.093,
+        "gloss": "themselves"
+      }
+    ],
+    "fullTextEN": "They blame themselves."
+  },
+  {
+    "startTime": 326.366,
+    "endTime": 329.866,
+    "fullTextZH": "他们觉得可能他们做得不对。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 326.487,
+        "endTime": 326.809,
+        "gloss": "they"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 326.809,
+        "endTime": 327.412,
+        "gloss": "think"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 327.412,
+        "endTime": 327.955,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 327.955,
+        "endTime": 328.398,
+        "gloss": "they"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 328.398,
+        "endTime": 328.74,
+        "gloss": "do"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 328.74,
+        "endTime": 329.122,
+        "gloss": "得"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 329.122,
+        "endTime": 329.363,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 329.363,
+        "endTime": 329.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "They think maybe they did something wrong."
+  },
+  {
+    "startTime": 330.566,
+    "endTime": 336.366,
+    "fullTextZH": "也有可能是他们的家离医院太远了，",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 330.586,
+        "endTime": 330.787,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 330.787,
+        "endTime": 331.068,
+        "gloss": "have"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 331.068,
+        "endTime": 331.67,
+        "gloss": "possible"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 331.67,
+        "endTime": 331.911,
+        "gloss": "is"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 331.911,
+        "endTime": 332.372,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 332.372,
+        "endTime": 332.673,
+        "gloss": "of"
+      },
+      {
+        "word": "家离",
+        "pinyin": "jiā lí",
+        "startTime": 332.673,
+        "endTime": 334.279,
+        "gloss": "home from"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yī yuàn",
+        "startTime": 334.279,
+        "endTime": 335.062,
+        "gloss": "hospital"
+      },
+      {
+        "word": "太远",
+        "pinyin": "tài yuǎn",
+        "startTime": 335.062,
+        "endTime": 335.945,
+        "gloss": "too far"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 335.945,
+        "endTime": 336.346,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "It might also be that their home is too far from the hospital,"
+  },
+  {
+    "startTime": 336.466,
+    "endTime": 340.766,
+    "fullTextZH": "所以他们去医院的时候他们就死了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 336.546,
+        "endTime": 336.928,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 336.928,
+        "endTime": 337.39,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 337.39,
+        "endTime": 337.732,
+        "gloss": "go"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yī yuàn",
+        "startTime": 337.732,
+        "endTime": 338.274,
+        "gloss": "hospital"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 338.274,
+        "endTime": 338.475,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 338.475,
+        "endTime": 339.319,
+        "gloss": "time"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 339.319,
+        "endTime": 339.701,
+        "gloss": "they"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 339.701,
+        "endTime": 340.083,
+        "gloss": "then"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 340.083,
+        "endTime": 340.324,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 340.324,
+        "endTime": 340.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "so by the time they got to the hospital, they died."
+  },
+  {
+    "startTime": 342.166,
+    "endTime": 344.933,
+    "fullTextZH": "所以他们不怪蘑菇，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 342.306,
+        "endTime": 342.587,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 342.587,
+        "endTime": 343.048,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 343.048,
+        "endTime": 343.469,
+        "gloss": "not"
+      },
+      {
+        "word": "怪",
+        "pinyin": "guài",
+        "startTime": 343.469,
+        "endTime": 344.091,
+        "gloss": "blame"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 344.091,
+        "endTime": 344.893,
+        "gloss": "mushrooms"
+      }
+    ],
+    "fullTextEN": "So they don't blame the mushrooms,"
+  },
+  {
+    "startTime": 344.933,
+    "endTime": 346.599,
+    "fullTextZH": "他们怪自己。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 345.033,
+        "endTime": 345.435,
+        "gloss": "they"
+      },
+      {
+        "word": "怪",
+        "pinyin": "guài",
+        "startTime": 345.435,
+        "endTime": 345.856,
+        "gloss": "blame"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 345.856,
+        "endTime": 346.559,
+        "gloss": "themselves"
+      }
+    ],
+    "fullTextEN": "they blame themselves."
+  },
+  {
+    "startTime": 347.733,
+    "endTime": 350.866,
+    "fullTextZH": "好，这就是今天的视频。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 347.753,
+        "endTime": 347.773,
+        "gloss": "okay"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 348.376,
+        "endTime": 348.577,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 348.577,
+        "endTime": 349.139,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 349.139,
+        "endTime": 349.721,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 349.721,
+        "endTime": 349.962,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 349.962,
+        "endTime": 350.826,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "Okay, that's today's video."
+  },
+  {
+    "startTime": 351.6,
+    "endTime": 355.466,
+    "fullTextZH": "那你喜欢吃蘑菇吗？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 351.78,
+        "endTime": 352.241,
+        "gloss": "so"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 352.241,
+        "endTime": 353.062,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 353.062,
+        "endTime": 353.823,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 353.823,
+        "endTime": 354.304,
+        "gloss": "eat"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 354.304,
+        "endTime": 354.965,
+        "gloss": "mushrooms"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 354.965,
+        "endTime": 355.426,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "So, do you like eating mushrooms?"
+  },
+  {
+    "startTime": 356.5,
+    "endTime": 360.933,
+    "fullTextZH": "如果有一种蘑菇非常非常好吃，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 356.56,
+        "endTime": 356.961,
+        "gloss": "if"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 356.961,
+        "endTime": 357.162,
+        "gloss": "there is"
+      },
+      {
+        "word": "一种",
+        "pinyin": "yī zhǒng",
+        "startTime": 357.162,
+        "endTime": 357.643,
+        "gloss": "a kind"
+      },
+      {
+        "word": "蘑菇",
+        "pinyin": "mó gū",
+        "startTime": 357.643,
+        "endTime": 358.686,
+        "gloss": "mushroom"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 358.686,
+        "endTime": 359.509,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 359.509,
+        "endTime": 360.05,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 360.05,
+        "endTime": 360.893,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "If there was a type of mushroom that was very, very delicious,"
+  },
+  {
+    "startTime": 361.0,
+    "endTime": 364.133,
+    "fullTextZH": "可是如果你没有做好，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 361.141,
+        "endTime": 362.024,
+        "gloss": "but"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 362.024,
+        "endTime": 362.506,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 362.506,
+        "endTime": 362.647,
+        "gloss": "you"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 362.647,
+        "endTime": 363.269,
+        "gloss": "not"
+      },
+      {
+        "word": "做好",
+        "pinyin": "zuò hǎo",
+        "startTime": 363.269,
+        "endTime": 364.093,
+        "gloss": "prepare well"
+      }
+    ],
+    "fullTextEN": "but if you didn't prepare it well,"
+  },
+  {
+    "startTime": 364.133,
+    "endTime": 365.866,
+    "fullTextZH": "可能有毒，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 364.274,
+        "endTime": 364.959,
+        "gloss": "might"
+      },
+      {
+        "word": "有毒",
+        "pinyin": "yǒu dú",
+        "startTime": 364.959,
+        "endTime": 365.826,
+        "gloss": "poisonous"
+      }
+    ],
+    "fullTextEN": "it might be poisonous,"
+  },
+  {
+    "startTime": 365.933,
+    "endTime": 368.333,
+    "fullTextZH": "你还要试试吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 366.074,
+        "endTime": 366.377,
+        "gloss": "you"
+      },
+      {
+        "word": "还要",
+        "pinyin": "hái yào",
+        "startTime": 366.377,
+        "endTime": 367.224,
+        "gloss": "still want"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 367.224,
+        "endTime": 367.829,
+        "gloss": "try"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 367.829,
+        "endTime": 368.293,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "would you still want to try it?"
+  },
+  {
+    "startTime": 368.933,
+    "endTime": 370.733,
+    "fullTextZH": "留言告诉我。",
+    "words": [
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 368.973,
+        "endTime": 369.722,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 369.722,
+        "endTime": 370.146,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 370.146,
+        "endTime": 370.693,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Leave a comment to tell me."
+  },
+  {
+    "startTime": 371.4,
+    "endTime": 375.566,
+    "fullTextZH": "好，那我们下次见，拜拜。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 371.54,
+        "endTime": 371.821,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 372.341,
+        "endTime": 372.822,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 372.822,
+        "endTime": 373.423,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 373.423,
+        "endTime": 374.184,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 374.184,
+        "endTime": 374.444,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 374.705,
+        "endTime": 375.526,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "Okay, see you next time, bye."
+  }
+]

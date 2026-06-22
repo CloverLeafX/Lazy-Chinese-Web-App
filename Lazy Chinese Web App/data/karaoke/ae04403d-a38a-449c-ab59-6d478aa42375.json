@@ -1,0 +1,5763 @@
+[
+  {
+    "startTime": 0.2,
+    "endTime": 1.433,
+    "fullTextZH": "Hello，大家好！",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.726,
+        "endTime": 1.11,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 1.11,
+        "endTime": 1.393,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello, everyone!"
+  },
+  {
+    "startTime": 1.433,
+    "endTime": 2.9,
+    "fullTextZH": "我是Bella老师，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.453,
+        "endTime": 1.634,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.634,
+        "endTime": 1.835,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 2.257,
+        "endTime": 2.86,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am Teacher Bella,"
+  },
+  {
+    "startTime": 3.0,
+    "endTime": 4.666,
+    "fullTextZH": "我来自台湾。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 3.1,
+        "endTime": 3.662,
+        "gloss": "come from"
+      },
+      {
+        "word": "台湾",
+        "pinyin": "tái wān",
+        "startTime": 3.662,
+        "endTime": 4.626,
+        "gloss": "Taiwan"
+      }
+    ],
+    "fullTextEN": "I am from Taiwan."
+  },
+  {
+    "startTime": 4.666,
+    "endTime": 5.9,
+    "fullTextZH": "欢迎回来，",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 4.848,
+        "endTime": 5.313,
+        "gloss": "welcome"
+      },
+      {
+        "word": "回来",
+        "pinyin": "huí lái",
+        "startTime": 5.313,
+        "endTime": 5.597,
+        "gloss": "back"
+      }
+    ],
+    "fullTextEN": "Welcome back,"
+  },
+  {
+    "startTime": 5.9,
+    "endTime": 9.5,
+    "fullTextZH": "约会系列的第二集。",
+    "words": [
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 5.94,
+        "endTime": 6.745,
+        "gloss": "dating"
+      },
+      {
+        "word": "系列",
+        "pinyin": "xì liè",
+        "startTime": 6.745,
+        "endTime": 7.207,
+        "gloss": "series"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 7.207,
+        "endTime": 7.549,
+        "gloss": "of"
+      },
+      {
+        "word": "第二集",
+        "pinyin": "dì èr jí",
+        "startTime": 7.549,
+        "endTime": 9.46,
+        "gloss": "second episode"
+      }
+    ],
+    "fullTextEN": "to the second episode of the dating series."
+  },
+  {
+    "startTime": 9.733,
+    "endTime": 11.933,
+    "fullTextZH": "没错，上次呢，",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 9.834,
+        "endTime": 10.52,
+        "gloss": "that's right"
+      },
+      {
+        "word": "上次",
+        "pinyin": "shàng cì",
+        "startTime": 11.025,
+        "endTime": 11.751,
+        "gloss": "last time"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 11.751,
+        "endTime": 11.913,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "That's right, last time,"
+  },
+  {
+    "startTime": 11.933,
+    "endTime": 16.133,
+    "fullTextZH": "我们说到长得好看很重要。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 11.993,
+        "endTime": 12.435,
+        "gloss": "we"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 12.435,
+        "endTime": 12.656,
+        "gloss": "talked"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 12.656,
+        "endTime": 13.018,
+        "gloss": "about"
+      },
+      {
+        "word": "长得",
+        "pinyin": "zhǎng dé",
+        "startTime": 13.018,
+        "endTime": 13.521,
+        "gloss": "look"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 13.521,
+        "endTime": 14.827,
+        "gloss": "good"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 14.827,
+        "endTime": 15.189,
+        "gloss": "very"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 15.189,
+        "endTime": 16.093,
+        "gloss": "important"
+      }
+    ],
+    "fullTextEN": "we talked about how looking good is important."
+  },
+  {
+    "startTime": 16.366,
+    "endTime": 18.7,
+    "fullTextZH": "如果有人第一次看到你，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 16.487,
+        "endTime": 16.809,
+        "gloss": "if"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 16.809,
+        "endTime": 17.352,
+        "gloss": "someone"
+      },
+      {
+        "word": "第一次",
+        "pinyin": "dì yī cì",
+        "startTime": 17.352,
+        "endTime": 17.976,
+        "gloss": "first time"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 17.976,
+        "endTime": 18.539,
+        "gloss": "see"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 18.539,
+        "endTime": 18.66,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "If someone sees you for the first time,"
+  },
+  {
+    "startTime": 18.7,
+    "endTime": 20.966,
+    "fullTextZH": "觉得你长得很漂亮，",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 18.74,
+        "endTime": 19.061,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 19.061,
+        "endTime": 19.241,
+        "gloss": "you"
+      },
+      {
+        "word": "长得",
+        "pinyin": "zhǎng dé",
+        "startTime": 19.241,
+        "endTime": 19.683,
+        "gloss": "look"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 19.683,
+        "endTime": 20.946,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "and thinks you look very beautiful,"
+  },
+  {
+    "startTime": 20.966,
+    "endTime": 23.433,
+    "fullTextZH": "可能会想要认识你。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 21.086,
+        "endTime": 21.467,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 21.467,
+        "endTime": 21.688,
+        "gloss": "will"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 21.688,
+        "endTime": 22.49,
+        "gloss": "want to"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 22.49,
+        "endTime": 23.032,
+        "gloss": "know"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 23.032,
+        "endTime": 23.393,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "they might want to get to know you."
+  },
+  {
+    "startTime": 23.9,
+    "endTime": 26.933,
+    "fullTextZH": "可是呢，现在越来越多的人，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 23.96,
+        "endTime": 24.302,
+        "gloss": "but"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 24.302,
+        "endTime": 24.543,
+        "gloss": "particle"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 24.703,
+        "endTime": 25.627,
+        "gloss": "now"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 25.627,
+        "endTime": 26.351,
+        "gloss": "more and more"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 26.351,
+        "endTime": 26.592,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.592,
+        "endTime": 26.752,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 26.752,
+        "endTime": 26.893,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "However, nowadays more and more people,"
+  },
+  {
+    "startTime": 26.933,
+    "endTime": 30.133,
+    "fullTextZH": "不在路上找男朋友、女朋友，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 27.054,
+        "endTime": 27.235,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 27.235,
+        "endTime": 27.537,
+        "gloss": "on"
+      },
+      {
+        "word": "路上",
+        "pinyin": "lù shàng",
+        "startTime": 27.537,
+        "endTime": 28.181,
+        "gloss": "street"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 28.181,
+        "endTime": 28.503,
+        "gloss": "look for"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 28.503,
+        "endTime": 28.966,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 29.207,
+        "endTime": 30.113,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "are not looking for boyfriends or girlfriends on the street,"
+  },
+  {
+    "startTime": 30.433,
+    "endTime": 34.066,
+    "fullTextZH": "现在大家慢慢的在网络上，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 30.433,
+        "endTime": 30.814,
+        "gloss": "now"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 30.814,
+        "endTime": 31.437,
+        "gloss": "everyone"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 31.437,
+        "endTime": 32.139,
+        "gloss": "slowly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.139,
+        "endTime": 32.581,
+        "gloss": "particle"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 32.581,
+        "endTime": 32.902,
+        "gloss": "on"
+      },
+      {
+        "word": "网络",
+        "pinyin": "wǎng luò",
+        "startTime": 32.902,
+        "endTime": 33.524,
+        "gloss": "internet"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 33.524,
+        "endTime": 34.046,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "now everyone is slowly going online,"
+  },
+  {
+    "startTime": 34.1,
+    "endTime": 37.066,
+    "fullTextZH": "找他们的男朋友、女朋友。",
+    "words": [
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 34.2,
+        "endTime": 34.501,
+        "gloss": "find"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 34.501,
+        "endTime": 34.842,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 34.842,
+        "endTime": 35.062,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 35.062,
+        "endTime": 35.623,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 36.044,
+        "endTime": 37.026,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "to find their boyfriends or girlfriends."
+  },
+  {
+    "startTime": 37.066,
+    "endTime": 41.0,
+    "fullTextZH": "有的人可能会用手机上的约会APP，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 37.267,
+        "endTime": 37.407,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 37.407,
+        "endTime": 37.588,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 37.588,
+        "endTime": 37.869,
+        "gloss": "people"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 37.869,
+        "endTime": 38.29,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 38.29,
+        "endTime": 38.451,
+        "gloss": "will"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 38.451,
+        "endTime": 38.812,
+        "gloss": "use"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 38.812,
+        "endTime": 39.475,
+        "gloss": "phone"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 39.475,
+        "endTime": 39.816,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 39.816,
+        "endTime": 40.137,
+        "gloss": "of"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 40.137,
+        "endTime": 40.438,
+        "gloss": "dating"
+      }
+    ],
+    "fullTextEN": "Some people might use dating apps on their phones,"
+  },
+  {
+    "startTime": 41.166,
+    "endTime": 42.7,
+    "fullTextZH": "比如说Tinder，",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 41.509,
+        "endTime": 42.337,
+        "gloss": "for example"
+      }
+    ],
+    "fullTextEN": "such as Tinder,"
+  },
+  {
+    "startTime": 43.433,
+    "endTime": 45.833,
+    "fullTextZH": "你可以在上面聊天，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 43.494,
+        "endTime": 43.695,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 43.695,
+        "endTime": 43.957,
+        "gloss": "can"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 43.957,
+        "endTime": 44.24,
+        "gloss": "on"
+      },
+      {
+        "word": "上面",
+        "pinyin": "shàng miàn",
+        "startTime": 44.24,
+        "endTime": 44.966,
+        "gloss": "it"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 44.966,
+        "endTime": 45.793,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "you can chat on it,"
+  },
+  {
+    "startTime": 45.833,
+    "endTime": 46.9,
+    "fullTextZH": "交朋友。",
+    "words": [
+      {
+        "word": "交朋友",
+        "pinyin": "jiāo péng yǒu",
+        "startTime": 45.893,
+        "endTime": 46.88,
+        "gloss": "make friends"
+      }
+    ],
+    "fullTextEN": "make friends."
+  },
+  {
+    "startTime": 47.166,
+    "endTime": 50.166,
+    "fullTextZH": "如果你要交男朋友、女朋友，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 47.267,
+        "endTime": 47.569,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 47.569,
+        "endTime": 47.689,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 47.689,
+        "endTime": 47.971,
+        "gloss": "want"
+      },
+      {
+        "word": "交",
+        "pinyin": "jiāo",
+        "startTime": 47.971,
+        "endTime": 48.394,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 48.394,
+        "endTime": 49.139,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 49.26,
+        "endTime": 50.126,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "If you want to find a boyfriend or girlfriend,"
+  },
+  {
+    "startTime": 50.266,
+    "endTime": 54.133,
+    "fullTextZH": "你只要放一张好看的照片，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 50.326,
+        "endTime": 50.486,
+        "gloss": "you"
+      },
+      {
+        "word": "只要",
+        "pinyin": "zhǐ yào",
+        "startTime": 50.486,
+        "endTime": 50.927,
+        "gloss": "just"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 50.927,
+        "endTime": 51.188,
+        "gloss": "post"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 51.188,
+        "endTime": 52.109,
+        "gloss": "a"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 52.109,
+        "endTime": 52.951,
+        "gloss": "nice"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 52.951,
+        "endTime": 53.251,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 53.251,
+        "endTime": 53.592,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "you just need to post a nice photo,"
+  },
+  {
+    "startTime": 54.233,
+    "endTime": 57.533,
+    "fullTextZH": "就会有很多人给你讯息。",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 54.253,
+        "endTime": 54.434,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 54.434,
+        "endTime": 54.595,
+        "gloss": "will"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 54.595,
+        "endTime": 54.877,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 54.877,
+        "endTime": 55.34,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 55.34,
+        "endTime": 55.682,
+        "gloss": "people"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 55.682,
+        "endTime": 55.963,
+        "gloss": "give"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 55.963,
+        "endTime": 56.446,
+        "gloss": "you"
+      },
+      {
+        "word": "讯息",
+        "pinyin": "xùn xī",
+        "startTime": 56.446,
+        "endTime": 57.493,
+        "gloss": "message"
+      }
+    ],
+    "fullTextEN": "Then many people will message you."
+  },
+  {
+    "startTime": 57.9,
+    "endTime": 59.466,
+    "fullTextZH": "可是问题来了，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 58.121,
+        "endTime": 58.482,
+        "gloss": "but"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 58.482,
+        "endTime": 59.064,
+        "gloss": "problem"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 59.064,
+        "endTime": 59.346,
+        "gloss": "come"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 59.346,
+        "endTime": 59.446,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "But here's the problem,"
+  },
+  {
+    "startTime": 59.566,
+    "endTime": 63.766,
+    "fullTextZH": "有些人他们的照片看起来很好看，",
+    "words": [
+      {
+        "word": "有些",
+        "pinyin": "yǒu xiē",
+        "startTime": 59.626,
+        "endTime": 60.41,
+        "gloss": "some"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 60.41,
+        "endTime": 60.772,
+        "gloss": "people"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 60.772,
+        "endTime": 61.113,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 61.113,
+        "endTime": 61.314,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 61.314,
+        "endTime": 61.877,
+        "gloss": "photos"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 61.877,
+        "endTime": 62.52,
+        "gloss": "look"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 62.52,
+        "endTime": 62.862,
+        "gloss": "very"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 62.862,
+        "endTime": 63.746,
+        "gloss": "nice"
+      }
+    ],
+    "fullTextEN": "Some people's photos look very nice,"
+  },
+  {
+    "startTime": 63.766,
+    "endTime": 67.533,
+    "fullTextZH": "可是他们真的人却看起来不一样。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 63.846,
+        "endTime": 64.187,
+        "gloss": "but"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 64.187,
+        "endTime": 64.628,
+        "gloss": "they"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 64.628,
+        "endTime": 65.068,
+        "gloss": "real"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 65.068,
+        "endTime": 65.369,
+        "gloss": "person"
+      },
+      {
+        "word": "却",
+        "pinyin": "què",
+        "startTime": 65.369,
+        "endTime": 65.589,
+        "gloss": "yet"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 65.589,
+        "endTime": 66.431,
+        "gloss": "look"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 66.431,
+        "endTime": 66.671,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 66.671,
+        "endTime": 67.493,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "but they really look different in person."
+  },
+  {
+    "startTime": 67.6,
+    "endTime": 69.866,
+    "fullTextZH": "你知道这叫什么吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 67.76,
+        "endTime": 67.941,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 67.941,
+        "endTime": 68.542,
+        "gloss": "know"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 68.542,
+        "endTime": 68.683,
+        "gloss": "this"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 68.683,
+        "endTime": 68.964,
+        "gloss": "called"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 68.964,
+        "endTime": 69.284,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 69.284,
+        "endTime": 69.826,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you know what this is called?"
+  },
+  {
+    "startTime": 69.933,
+    "endTime": 74.033,
+    "fullTextZH": "没错，这就叫照骗。",
+    "words": [
+      {
+        "word": "没错",
+        "pinyin": "méi cuò",
+        "startTime": 69.993,
+        "endTime": 70.636,
+        "gloss": "correct"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 70.717,
+        "endTime": 70.878,
+        "gloss": "this"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 70.878,
+        "endTime": 71.119,
+        "gloss": "then"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 71.119,
+        "endTime": 71.782,
+        "gloss": "called"
+      },
+      {
+        "word": "照骗",
+        "pinyin": "zhào piàn",
+        "startTime": 71.782,
+        "endTime": 73.571,
+        "gloss": "photo trick"
+      }
+    ],
+    "fullTextEN": "That's right, this is called a 'photo trick'."
+  },
+  {
+    "startTime": 74.033,
+    "endTime": 76.333,
+    "fullTextZH": "骗是骗人的骗，",
+    "words": [
+      {
+        "word": "骗",
+        "pinyin": "piàn",
+        "startTime": 74.033,
+        "endTime": 74.255,
+        "gloss": "trick"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 74.255,
+        "endTime": 74.739,
+        "gloss": "is"
+      },
+      {
+        "word": "骗人",
+        "pinyin": "piàn rén",
+        "startTime": 74.739,
+        "endTime": 75.486,
+        "gloss": "trick"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 75.486,
+        "endTime": 75.748,
+        "gloss": "people"
+      },
+      {
+        "word": "骗",
+        "pinyin": "piàn",
+        "startTime": 75.748,
+        "endTime": 76.293,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Trick as in tricking people,"
+  },
+  {
+    "startTime": 76.833,
+    "endTime": 78.1,
+    "fullTextZH": "也就是说呢，",
+    "words": [
+      {
+        "word": "也就是说",
+        "pinyin": "yě jiù shì shuō",
+        "startTime": 76.954,
+        "endTime": 77.879,
+        "gloss": "in other words"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 77.879,
+        "endTime": 78.06,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "In other words,"
+  },
+  {
+    "startTime": 78.1,
+    "endTime": 79.4,
+    "fullTextZH": "如果一个人，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 78.141,
+        "endTime": 78.588,
+        "gloss": "if"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 78.588,
+        "endTime": 79.136,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 79.136,
+        "endTime": 79.359,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "If a person,"
+  },
+  {
+    "startTime": 79.433,
+    "endTime": 82.133,
+    "fullTextZH": "他看起来跟照片不一样，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 79.453,
+        "endTime": 79.755,
+        "gloss": "he"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 79.755,
+        "endTime": 80.622,
+        "gloss": "looks"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 80.622,
+        "endTime": 80.884,
+        "gloss": "with"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 80.884,
+        "endTime": 81.508,
+        "gloss": "photos"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 81.508,
+        "endTime": 81.75,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 81.75,
+        "endTime": 82.093,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "looks different from their photos,"
+  },
+  {
+    "startTime": 82.2,
+    "endTime": 83.1,
+    "fullTextZH": "那这个呢，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 82.302,
+        "endTime": 82.568,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 82.568,
+        "endTime": 82.936,
+        "gloss": "this"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 82.936,
+        "endTime": 83.059,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "then this,"
+  },
+  {
+    "startTime": 83.1,
+    "endTime": 85.5,
+    "fullTextZH": "我们就叫做照骗。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 83.201,
+        "endTime": 83.524,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 83.524,
+        "endTime": 83.745,
+        "gloss": "then"
+      },
+      {
+        "word": "叫做",
+        "pinyin": "jiào zuò",
+        "startTime": 83.745,
+        "endTime": 84.512,
+        "gloss": "call"
+      },
+      {
+        "word": "照骗",
+        "pinyin": "zhào piàn",
+        "startTime": 84.512,
+        "endTime": 85.46,
+        "gloss": "photo trick"
+      }
+    ],
+    "fullTextEN": "we call it a 'photo trick'."
+  },
+  {
+    "startTime": 86.133,
+    "endTime": 88.266,
+    "fullTextZH": "我也有过这样的经历。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 86.254,
+        "endTime": 86.415,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 86.415,
+        "endTime": 86.535,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 86.535,
+        "endTime": 86.777,
+        "gloss": "have"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 86.777,
+        "endTime": 86.978,
+        "gloss": "had"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 86.978,
+        "endTime": 87.26,
+        "gloss": "such"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 87.26,
+        "endTime": 87.481,
+        "gloss": "de"
+      },
+      {
+        "word": "经历",
+        "pinyin": "jīng lì",
+        "startTime": 87.481,
+        "endTime": 88.246,
+        "gloss": "experience"
+      }
+    ],
+    "fullTextEN": "I have also had such an experience."
+  },
+  {
+    "startTime": 88.266,
+    "endTime": 89.366,
+    "fullTextZH": "很久以前，",
+    "words": [
+      {
+        "word": "很久以前",
+        "pinyin": "hěn jiǔ yǐ qián",
+        "startTime": 88.388,
+        "endTime": 89.346,
+        "gloss": "long time ago"
+      }
+    ],
+    "fullTextEN": "A long time ago,"
+  },
+  {
+    "startTime": 89.4,
+    "endTime": 92.733,
+    "fullTextZH": "我在约会的APP上看了一个男生，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 89.44,
+        "endTime": 89.621,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 89.621,
+        "endTime": 89.842,
+        "gloss": "on"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 89.842,
+        "endTime": 90.324,
+        "gloss": "dating"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 90.324,
+        "endTime": 90.484,
+        "gloss": "de"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 90.805,
+        "endTime": 91.087,
+        "gloss": "app"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 91.087,
+        "endTime": 91.307,
+        "gloss": "saw"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 91.307,
+        "endTime": 91.468,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 91.468,
+        "endTime": 91.769,
+        "gloss": "a"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 91.769,
+        "endTime": 92.472,
+        "gloss": "guy"
+      }
+    ],
+    "fullTextEN": "I saw a guy on a dating app,"
+  },
+  {
+    "startTime": 92.8,
+    "endTime": 94.0,
+    "fullTextZH": "这个男生啊，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 92.861,
+        "endTime": 93.085,
+        "gloss": "this"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 93.085,
+        "endTime": 93.695,
+        "gloss": "guy"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 93.695,
+        "endTime": 93.959,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "This guy,"
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 95.833,
+    "fullTextZH": "他看起来很帅，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 94.081,
+        "endTime": 94.242,
+        "gloss": "he"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 94.242,
+        "endTime": 94.826,
+        "gloss": "looked"
+      },
+      {
+        "word": "很帅",
+        "pinyin": "hěn shuài",
+        "startTime": 94.826,
+        "endTime": 95.793,
+        "gloss": "very"
+      }
+    ],
+    "fullTextEN": "he looked very handsome,"
+  },
+  {
+    "startTime": 96.2,
+    "endTime": 98.066,
+    "fullTextZH": "然后呢，在APP上呢，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 96.28,
+        "endTime": 96.722,
+        "gloss": "then"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 96.722,
+        "endTime": 96.962,
+        "gloss": "ne"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 96.983,
+        "endTime": 97.203,
+        "gloss": "on"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 97.544,
+        "endTime": 97.865,
+        "gloss": "app"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 97.865,
+        "endTime": 98.046,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "and then, on the app,"
+  },
+  {
+    "startTime": 98.1,
+    "endTime": 100.9,
+    "fullTextZH": "他放了他冲浪，",
+    "words": [
+      {
+        "word": "他放",
+        "pinyin": "tā fàng",
+        "startTime": 98.14,
+        "endTime": 98.765,
+        "gloss": "he posted"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 98.765,
+        "endTime": 99.268,
+        "gloss": "le"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 99.268,
+        "endTime": 99.933,
+        "gloss": "he"
+      },
+      {
+        "word": "冲浪",
+        "pinyin": "chōng làng",
+        "startTime": 99.933,
+        "endTime": 100.86,
+        "gloss": "surfing"
+      }
+    ],
+    "fullTextEN": "he posted photos of him surfing,"
+  },
+  {
+    "startTime": 100.933,
+    "endTime": 105.533,
+    "fullTextZH": "潜水，还有他爬山的照片。",
+    "words": [
+      {
+        "word": "潜水",
+        "pinyin": "qián shuǐ",
+        "startTime": 101.194,
+        "endTime": 102.319,
+        "gloss": "diving"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 102.399,
+        "endTime": 102.741,
+        "gloss": "and"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 102.741,
+        "endTime": 103.062,
+        "gloss": "he"
+      },
+      {
+        "word": "爬山",
+        "pinyin": "pá shān",
+        "startTime": 103.062,
+        "endTime": 104.348,
+        "gloss": "climbing"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 104.348,
+        "endTime": 104.529,
+        "gloss": "de"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 104.529,
+        "endTime": 105.493,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "diving, and climbing mountains."
+  },
+  {
+    "startTime": 105.933,
+    "endTime": 107.9,
+    "fullTextZH": "所以呢，我想，嗯，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 106.114,
+        "endTime": 106.375,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 106.375,
+        "endTime": 106.615,
+        "gloss": "particle"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 106.636,
+        "endTime": 106.836,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 106.836,
+        "endTime": 107.177,
+        "gloss": "think"
+      },
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 107.378,
+        "endTime": 107.86,
+        "gloss": "um"
+      }
+    ],
+    "fullTextEN": "So, I think, um,"
+  },
+  {
+    "startTime": 107.9,
+    "endTime": 111.7,
+    "fullTextZH": "这个男生他看起来很会运动，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 107.96,
+        "endTime": 108.262,
+        "gloss": "this"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 108.262,
+        "endTime": 108.865,
+        "gloss": "guy"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 108.865,
+        "endTime": 109.147,
+        "gloss": "he"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 109.147,
+        "endTime": 110.272,
+        "gloss": "looks"
+      },
+      {
+        "word": "很会",
+        "pinyin": "hěn huì",
+        "startTime": 110.272,
+        "endTime": 110.936,
+        "gloss": "very"
+      },
+      {
+        "word": "运动",
+        "pinyin": "yùn dòng",
+        "startTime": 110.936,
+        "endTime": 111.66,
+        "gloss": "athletic"
+      }
+    ],
+    "fullTextEN": "This guy looks very athletic,"
+  },
+  {
+    "startTime": 111.866,
+    "endTime": 115.8,
+    "fullTextZH": "所以呢，我们就约了在咖啡店见面。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 112.047,
+        "endTime": 112.388,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 112.388,
+        "endTime": 112.589,
+        "gloss": "particle"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 112.689,
+        "endTime": 113.05,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 113.05,
+        "endTime": 113.351,
+        "gloss": "then"
+      },
+      {
+        "word": "约",
+        "pinyin": "yuē",
+        "startTime": 113.351,
+        "endTime": 113.733,
+        "gloss": "arranged"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 113.733,
+        "endTime": 114.014,
+        "gloss": "particle"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 114.014,
+        "endTime": 114.234,
+        "gloss": "at"
+      },
+      {
+        "word": "咖啡店",
+        "pinyin": "kā fēi diàn",
+        "startTime": 114.234,
+        "endTime": 115.077,
+        "gloss": "coffee shop"
+      },
+      {
+        "word": "见面",
+        "pinyin": "jiàn miàn",
+        "startTime": 115.077,
+        "endTime": 115.76,
+        "gloss": "meet"
+      }
+    ],
+    "fullTextEN": "So, we arranged to meet at the coffee shop."
+  },
+  {
+    "startTime": 116.1,
+    "endTime": 117.6,
+    "fullTextZH": "我等了一下，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 116.141,
+        "endTime": 116.445,
+        "gloss": "I"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 116.445,
+        "endTime": 116.708,
+        "gloss": "waited"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 116.708,
+        "endTime": 116.87,
+        "gloss": "particle"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 116.87,
+        "endTime": 117.559,
+        "gloss": "a while"
+      }
+    ],
+    "fullTextEN": "I waited for a while,"
+  },
+  {
+    "startTime": 117.766,
+    "endTime": 120.166,
+    "fullTextZH": "有一个男生走了过来，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 117.766,
+        "endTime": 117.806,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 117.806,
+        "endTime": 118.048,
+        "gloss": "a"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 118.048,
+        "endTime": 118.714,
+        "gloss": "guy"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 118.714,
+        "endTime": 118.956,
+        "gloss": "walked"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 118.956,
+        "endTime": 119.137,
+        "gloss": "particle"
+      },
+      {
+        "word": "过来",
+        "pinyin": "guò lái",
+        "startTime": 119.137,
+        "endTime": 120.126,
+        "gloss": "over"
+      }
+    ],
+    "fullTextEN": "A guy walked over,"
+  },
+  {
+    "startTime": 120.166,
+    "endTime": 123.1,
+    "fullTextZH": "这时候他说，Hi Bella，",
+    "words": [
+      {
+        "word": "这时候",
+        "pinyin": "zhè shí hòu",
+        "startTime": 120.206,
+        "endTime": 120.729,
+        "gloss": "at that moment"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 120.729,
+        "endTime": 121.03,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 121.03,
+        "endTime": 121.834,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "At that moment he said, Hi Bella,"
+  },
+  {
+    "startTime": 123.5,
+    "endTime": 125.266,
+    "fullTextZH": "可是我心里想，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 123.58,
+        "endTime": 123.942,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 123.942,
+        "endTime": 124.243,
+        "gloss": "I"
+      },
+      {
+        "word": "心里",
+        "pinyin": "xīn lǐ",
+        "startTime": 124.243,
+        "endTime": 124.704,
+        "gloss": "in my heart"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 124.704,
+        "endTime": 125.226,
+        "gloss": "thought"
+      }
+    ],
+    "fullTextEN": "But I thought to myself,"
+  },
+  {
+    "startTime": 125.833,
+    "endTime": 127.6,
+    "fullTextZH": "他是谁啊？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 125.873,
+        "endTime": 126.094,
+        "gloss": "he"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 126.094,
+        "endTime": 126.556,
+        "gloss": "is"
+      },
+      {
+        "word": "谁",
+        "pinyin": "shuí",
+        "startTime": 126.556,
+        "endTime": 126.917,
+        "gloss": "who"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 126.917,
+        "endTime": 127.58,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Who is he?"
+  },
+  {
+    "startTime": 128.0,
+    "endTime": 131.3,
+    "fullTextZH": "这个人是我约的人吗？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 128.141,
+        "endTime": 128.423,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 128.423,
+        "endTime": 128.966,
+        "gloss": "person"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 128.966,
+        "endTime": 129.227,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 129.227,
+        "endTime": 129.65,
+        "gloss": "I"
+      },
+      {
+        "word": "约",
+        "pinyin": "yuē",
+        "startTime": 129.65,
+        "endTime": 130.032,
+        "gloss": "arranged"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 130.032,
+        "endTime": 130.274,
+        "gloss": "particle"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 130.274,
+        "endTime": 130.616,
+        "gloss": "person"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 130.616,
+        "endTime": 131.26,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is this the person I arranged to meet?"
+  },
+  {
+    "startTime": 131.4,
+    "endTime": 133.6,
+    "fullTextZH": "然后他坐了下来，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 131.501,
+        "endTime": 131.844,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 131.844,
+        "endTime": 132.389,
+        "gloss": "he"
+      },
+      {
+        "word": "坐",
+        "pinyin": "zuò",
+        "startTime": 132.389,
+        "endTime": 132.631,
+        "gloss": "sat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 132.631,
+        "endTime": 132.813,
+        "gloss": "particle"
+      },
+      {
+        "word": "下来",
+        "pinyin": "xià lái",
+        "startTime": 132.813,
+        "endTime": 133.56,
+        "gloss": "down"
+      }
+    ],
+    "fullTextEN": "Then he sat down,"
+  },
+  {
+    "startTime": 133.733,
+    "endTime": 139.6,
+    "fullTextZH": "我才发现这个人是APP上面的男生。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 133.813,
+        "endTime": 133.973,
+        "gloss": "I"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 133.973,
+        "endTime": 134.214,
+        "gloss": "then"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 134.214,
+        "endTime": 135.996,
+        "gloss": "realized"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 135.996,
+        "endTime": 136.256,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 136.256,
+        "endTime": 136.616,
+        "gloss": "person"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 136.616,
+        "endTime": 137.437,
+        "gloss": "is"
+      },
+      {
+        "word": "上面",
+        "pinyin": "shàng miàn",
+        "startTime": 137.878,
+        "endTime": 138.318,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 138.318,
+        "endTime": 138.459,
+        "gloss": "particle"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 138.459,
+        "endTime": 139.56,
+        "gloss": "guy"
+      }
+    ],
+    "fullTextEN": "I then realized this person is the guy from the app."
+  },
+  {
+    "startTime": 139.766,
+    "endTime": 140.366,
+    "fullTextZH": "可是，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 139.807,
+        "endTime": 140.325,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "But,"
+  },
+  {
+    "startTime": 140.366,
+    "endTime": 146.066,
+    "fullTextZH": "这一个男生看起来跟照片真的不一样。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 140.486,
+        "endTime": 140.627,
+        "gloss": "this"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 140.627,
+        "endTime": 141.711,
+        "gloss": "one"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 141.711,
+        "endTime": 142.453,
+        "gloss": "guy"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 142.453,
+        "endTime": 143.156,
+        "gloss": "looks"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 143.156,
+        "endTime": 143.457,
+        "gloss": "with"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 143.457,
+        "endTime": 144.119,
+        "gloss": "photo"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 144.119,
+        "endTime": 145.022,
+        "gloss": "really"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 145.022,
+        "endTime": 145.223,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 145.223,
+        "endTime": 146.026,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "This guy looks really different from the photo."
+  },
+  {
+    "startTime": 146.533,
+    "endTime": 151.666,
+    "fullTextZH": "他的照片看起来又瘦、又帅、又高，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 146.593,
+        "endTime": 146.754,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 146.754,
+        "endTime": 146.914,
+        "gloss": "possessive"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 146.914,
+        "endTime": 147.395,
+        "gloss": "photo"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 147.395,
+        "endTime": 148.237,
+        "gloss": "looks"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 148.237,
+        "endTime": 148.839,
+        "gloss": "both"
+      },
+      {
+        "word": "瘦",
+        "pinyin": "shòu",
+        "startTime": 148.839,
+        "endTime": 149.42,
+        "gloss": "thin"
+      },
+      {
+        "word": "又帅",
+        "pinyin": "yòu shuài",
+        "startTime": 149.44,
+        "endTime": 150.543,
+        "gloss": "both handsome"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 150.563,
+        "endTime": 150.984,
+        "gloss": "both"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 150.984,
+        "endTime": 151.626,
+        "gloss": "tall"
+      }
+    ],
+    "fullTextEN": "His photo looks thin, handsome, and tall,"
+  },
+  {
+    "startTime": 151.8,
+    "endTime": 156.0,
+    "fullTextZH": "可是现在坐在我前面的这个男生，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 151.88,
+        "endTime": 152.343,
+        "gloss": "but"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 152.343,
+        "endTime": 153.106,
+        "gloss": "now"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 153.106,
+        "endTime": 153.629,
+        "gloss": "sitting"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 153.629,
+        "endTime": 154.071,
+        "gloss": "I"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 154.071,
+        "endTime": 154.613,
+        "gloss": "in front"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 154.613,
+        "endTime": 154.774,
+        "gloss": "particle"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 154.774,
+        "endTime": 155.076,
+        "gloss": "this"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 155.076,
+        "endTime": 155.96,
+        "gloss": "guy"
+      }
+    ],
+    "fullTextEN": "But now the guy sitting in front of me,"
+  },
+  {
+    "startTime": 156.133,
+    "endTime": 161.266,
+    "fullTextZH": "看起来好像吃的很饱。",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 156.213,
+        "endTime": 157.035,
+        "gloss": "looks"
+      },
+      {
+        "word": "好像",
+        "pinyin": "hǎo xiàng",
+        "startTime": 157.035,
+        "endTime": 159.522,
+        "gloss": "like"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 159.522,
+        "endTime": 159.842,
+        "gloss": "ate"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 159.842,
+        "endTime": 160.083,
+        "gloss": "particle"
+      },
+      {
+        "word": "很饱",
+        "pinyin": "hěn bǎo",
+        "startTime": 160.083,
+        "endTime": 161.226,
+        "gloss": "very full"
+      }
+    ],
+    "fullTextEN": "Looks like he ate a lot."
+  },
+  {
+    "startTime": 161.666,
+    "endTime": 164.033,
+    "fullTextZH": "后来我们聊天了以后，",
+    "words": [
+      {
+        "word": "后来",
+        "pinyin": "hòu lái",
+        "startTime": 161.746,
+        "endTime": 162.087,
+        "gloss": "later"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 162.087,
+        "endTime": 162.428,
+        "gloss": "we"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 162.428,
+        "endTime": 163.03,
+        "gloss": "chatted"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 163.03,
+        "endTime": 163.211,
+        "gloss": "particle"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 163.211,
+        "endTime": 163.993,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "Later, after we chatted,"
+  },
+  {
+    "startTime": 164.033,
+    "endTime": 164.866,
+    "fullTextZH": "我才知道，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 164.135,
+        "endTime": 164.297,
+        "gloss": "I"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 164.297,
+        "endTime": 164.541,
+        "gloss": "then"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 164.541,
+        "endTime": 164.846,
+        "gloss": "found out"
+      }
+    ],
+    "fullTextEN": "I then found out,"
+  },
+  {
+    "startTime": 164.866,
+    "endTime": 170.533,
+    "fullTextZH": "原来这张照片是10年以前拍的照片。",
+    "words": [
+      {
+        "word": "原来",
+        "pinyin": "yuán lái",
+        "startTime": 164.906,
+        "endTime": 165.266,
+        "gloss": "turns out"
+      },
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 165.266,
+        "endTime": 165.827,
+        "gloss": "this"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 165.827,
+        "endTime": 166.468,
+        "gloss": "photo"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 166.468,
+        "endTime": 167.109,
+        "gloss": "is"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 167.569,
+        "endTime": 168.07,
+        "gloss": "years"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 168.07,
+        "endTime": 168.911,
+        "gloss": "ago"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 168.911,
+        "endTime": 169.372,
+        "gloss": "taken"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 169.372,
+        "endTime": 169.552,
+        "gloss": "particle"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 169.552,
+        "endTime": 170.493,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "It turns out this photo was taken 10 years ago."
+  },
+  {
+    "startTime": 170.966,
+    "endTime": 174.233,
+    "fullTextZH": "所以呢，我们只见了一次，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 171.166,
+        "endTime": 171.467,
+        "gloss": "so"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 171.467,
+        "endTime": 171.668,
+        "gloss": "particle"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 172.088,
+        "endTime": 172.63,
+        "gloss": "we"
+      },
+      {
+        "word": "只见",
+        "pinyin": "zhǐ jiàn",
+        "startTime": 172.63,
+        "endTime": 173.271,
+        "gloss": "only met"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 173.271,
+        "endTime": 173.451,
+        "gloss": "particle"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 173.451,
+        "endTime": 174.193,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "So, we only met once,"
+  },
+  {
+    "startTime": 174.4,
+    "endTime": 177.733,
+    "fullTextZH": "我们没有再见第二次。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 174.4,
+        "endTime": 174.802,
+        "gloss": "we"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 174.802,
+        "endTime": 175.725,
+        "gloss": "didn't"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 175.725,
+        "endTime": 176.528,
+        "gloss": "meet"
+      },
+      {
+        "word": "第二次",
+        "pinyin": "dì èr cì",
+        "startTime": 176.528,
+        "endTime": 177.693,
+        "gloss": "second time"
+      }
+    ],
+    "fullTextEN": "We didn't meet a second time."
+  },
+  {
+    "startTime": 177.933,
+    "endTime": 180.933,
+    "fullTextZH": "因为我不好意思告诉他，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 178.014,
+        "endTime": 178.718,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 178.718,
+        "endTime": 178.759,
+        "gloss": "I"
+      },
+      {
+        "word": "不好意思",
+        "pinyin": "bù hǎo yì sī",
+        "startTime": 178.759,
+        "endTime": 179.665,
+        "gloss": "embarrassed"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 179.665,
+        "endTime": 180.269,
+        "gloss": "tell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 180.269,
+        "endTime": 180.913,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Because I was too embarrassed to tell him,"
+  },
+  {
+    "startTime": 181.0,
+    "endTime": 185.2,
+    "fullTextZH": "你看起来真的和照片不一样。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 181.06,
+        "endTime": 181.362,
+        "gloss": "you"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 181.362,
+        "endTime": 182.427,
+        "gloss": "look"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 182.427,
+        "endTime": 183.09,
+        "gloss": "really"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 183.09,
+        "endTime": 183.371,
+        "gloss": "with"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 183.371,
+        "endTime": 184.235,
+        "gloss": "photo"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 184.235,
+        "endTime": 184.497,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 184.497,
+        "endTime": 185.16,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "You really look different from the photo."
+  },
+  {
+    "startTime": 185.966,
+    "endTime": 187.733,
+    "fullTextZH": "如果你们是我，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 186.006,
+        "endTime": 186.488,
+        "gloss": "if"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 186.488,
+        "endTime": 186.95,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 186.95,
+        "endTime": 187.191,
+        "gloss": "are"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 187.191,
+        "endTime": 187.693,
+        "gloss": "I"
+      }
+    ],
+    "fullTextEN": "If you were me,"
+  },
+  {
+    "startTime": 187.9,
+    "endTime": 190.5,
+    "fullTextZH": "你会告诉这个男生吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 187.9,
+        "endTime": 187.96,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 187.96,
+        "endTime": 188.283,
+        "gloss": "would"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 188.283,
+        "endTime": 188.948,
+        "gloss": "tell"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 188.948,
+        "endTime": 189.19,
+        "gloss": "this"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 189.19,
+        "endTime": 189.774,
+        "gloss": "guy"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 189.774,
+        "endTime": 190.46,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Would you tell this guy?"
+  },
+  {
+    "startTime": 190.733,
+    "endTime": 191.933,
+    "fullTextZH": "说到照片呐，",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 190.936,
+        "endTime": 191.079,
+        "gloss": "speaking"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 191.079,
+        "endTime": 191.282,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 191.282,
+        "endTime": 191.791,
+        "gloss": "photo"
+      },
+      {
+        "word": "呐",
+        "pinyin": "nà",
+        "startTime": 191.791,
+        "endTime": 191.913,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Speaking of photos,"
+  },
+  {
+    "startTime": 191.966,
+    "endTime": 196.966,
+    "fullTextZH": "在亚洲也会有很多女生用APP来修图。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 192.046,
+        "endTime": 192.327,
+        "gloss": "in"
+      },
+      {
+        "word": "亚洲",
+        "pinyin": "yà zhōu",
+        "startTime": 192.327,
+        "endTime": 193.171,
+        "gloss": "Asia"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 193.171,
+        "endTime": 193.352,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 193.352,
+        "endTime": 193.512,
+        "gloss": "will"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 193.512,
+        "endTime": 193.833,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 193.833,
+        "endTime": 194.576,
+        "gloss": "many"
+      },
+      {
+        "word": "女生",
+        "pinyin": "nǚ shēng",
+        "startTime": 194.576,
+        "endTime": 195.078,
+        "gloss": "girls"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 195.078,
+        "endTime": 195.099,
+        "gloss": "use"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 195.781,
+        "endTime": 196.042,
+        "gloss": "to"
+      },
+      {
+        "word": "修图",
+        "pinyin": "xiū tú",
+        "startTime": 196.042,
+        "endTime": 196.725,
+        "gloss": "edit photos"
+      }
+    ],
+    "fullTextEN": "In Asia, many girls also use apps to edit photos."
+  },
+  {
+    "startTime": 197.1,
+    "endTime": 198.9,
+    "fullTextZH": "修图是什么呢？",
+    "words": [
+      {
+        "word": "修图",
+        "pinyin": "xiū tú",
+        "startTime": 197.302,
+        "endTime": 197.808,
+        "gloss": "edit photos"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 197.808,
+        "endTime": 197.99,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 197.99,
+        "endTime": 198.415,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 198.415,
+        "endTime": 198.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "What is photo editing?"
+  },
+  {
+    "startTime": 199.0,
+    "endTime": 202.166,
+    "fullTextZH": "修图就是把你的眼睛变大，",
+    "words": [
+      {
+        "word": "修图",
+        "pinyin": "xiū tú",
+        "startTime": 199.14,
+        "endTime": 199.501,
+        "gloss": "edit photos"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 199.501,
+        "endTime": 199.922,
+        "gloss": "is"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 199.922,
+        "endTime": 200.122,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 200.122,
+        "endTime": 200.262,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 200.262,
+        "endTime": 200.403,
+        "gloss": "possessive"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 200.403,
+        "endTime": 201.144,
+        "gloss": "eyes"
+      },
+      {
+        "word": "变",
+        "pinyin": "biàn",
+        "startTime": 201.144,
+        "endTime": 201.565,
+        "gloss": "become"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 201.565,
+        "endTime": 202.126,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Photo editing is making your eyes bigger,"
+  },
+  {
+    "startTime": 202.9,
+    "endTime": 206.2,
+    "fullTextZH": "把你的皮肤变白，",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 202.94,
+        "endTime": 203.242,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 203.242,
+        "endTime": 203.463,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 203.463,
+        "endTime": 203.946,
+        "gloss": "possessive"
+      },
+      {
+        "word": "皮肤",
+        "pinyin": "pí fū",
+        "startTime": 203.946,
+        "endTime": 204.791,
+        "gloss": "skin"
+      },
+      {
+        "word": "变白",
+        "pinyin": "biàn bái",
+        "startTime": 204.791,
+        "endTime": 206.16,
+        "gloss": "whiter"
+      }
+    ],
+    "fullTextEN": "Making your skin whiter,"
+  },
+  {
+    "startTime": 206.833,
+    "endTime": 210.466,
+    "fullTextZH": "把你的腿变长。",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 206.933,
+        "endTime": 207.174,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 207.174,
+        "endTime": 207.315,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 207.315,
+        "endTime": 207.656,
+        "gloss": "possessive"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 207.656,
+        "endTime": 208.7,
+        "gloss": "legs"
+      },
+      {
+        "word": "变长",
+        "pinyin": "biàn zhǎng",
+        "startTime": 208.7,
+        "endTime": 210.024,
+        "gloss": "longer"
+      }
+    ],
+    "fullTextEN": "Making your legs longer."
+  },
+  {
+    "startTime": 211.1,
+    "endTime": 214.133,
+    "fullTextZH": "这个我们就叫修图。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 211.16,
+        "endTime": 211.863,
+        "gloss": "this"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 211.863,
+        "endTime": 212.205,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 212.205,
+        "endTime": 212.406,
+        "gloss": "then"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 212.406,
+        "endTime": 212.968,
+        "gloss": "call"
+      },
+      {
+        "word": "修图",
+        "pinyin": "xiū tú",
+        "startTime": 212.968,
+        "endTime": 214.093,
+        "gloss": "edit photos"
+      }
+    ],
+    "fullTextEN": "We call this photo editing."
+  },
+  {
+    "startTime": 214.9,
+    "endTime": 216.9,
+    "fullTextZH": "嗯...当然，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 215.001,
+        "endTime": 216.173,
+        "gloss": "um"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 216.435,
+        "endTime": 216.86,
+        "gloss": "of course"
+      }
+    ],
+    "fullTextEN": "Um... of course,"
+  },
+  {
+    "startTime": 216.9,
+    "endTime": 218.8,
+    "fullTextZH": "我也会这样做，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 217.102,
+        "endTime": 217.405,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 217.405,
+        "endTime": 217.688,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 217.688,
+        "endTime": 218.093,
+        "gloss": "will"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 218.093,
+        "endTime": 218.578,
+        "gloss": "this way"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 218.578,
+        "endTime": 218.78,
+        "gloss": "do"
+      }
+    ],
+    "fullTextEN": "I also do this,"
+  },
+  {
+    "startTime": 218.8,
+    "endTime": 221.7,
+    "fullTextZH": "因为我们都想让大家看到，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 218.86,
+        "endTime": 219.384,
+        "gloss": "because"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 219.384,
+        "endTime": 219.847,
+        "gloss": "we"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 219.847,
+        "endTime": 220.21,
+        "gloss": "all"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 220.21,
+        "endTime": 220.552,
+        "gloss": "want"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 220.552,
+        "endTime": 220.834,
+        "gloss": "let"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 220.834,
+        "endTime": 221.297,
+        "gloss": "everyone"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 221.297,
+        "endTime": 221.68,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "Because we all want everyone to see,"
+  },
+  {
+    "startTime": 221.7,
+    "endTime": 225.266,
+    "fullTextZH": "自己最漂亮的照片。",
+    "words": [
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 221.82,
+        "endTime": 222.842,
+        "gloss": "self"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 222.842,
+        "endTime": 223.603,
+        "gloss": "most"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 223.603,
+        "endTime": 224.204,
+        "gloss": "beautiful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 224.204,
+        "endTime": 224.344,
+        "gloss": "possessive"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 224.344,
+        "endTime": 225.226,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "Our most beautiful photos."
+  },
+  {
+    "startTime": 225.6,
+    "endTime": 229.166,
+    "fullTextZH": "可是啊，我有一个女生的朋友，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 225.7,
+        "endTime": 226.121,
+        "gloss": "but"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 226.121,
+        "endTime": 226.141,
+        "gloss": "particle"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 226.602,
+        "endTime": 226.822,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 226.822,
+        "endTime": 227.022,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 227.022,
+        "endTime": 227.443,
+        "gloss": "a"
+      },
+      {
+        "word": "女生",
+        "pinyin": "nǚ shēng",
+        "startTime": 227.443,
+        "endTime": 228.104,
+        "gloss": "female"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 228.104,
+        "endTime": 228.305,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 228.305,
+        "endTime": 229.146,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "But, I have a female friend,"
+  },
+  {
+    "startTime": 229.333,
+    "endTime": 232.6,
+    "fullTextZH": "她每次照相的时候，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 229.373,
+        "endTime": 229.714,
+        "gloss": "she"
+      },
+      {
+        "word": "每次",
+        "pinyin": "měi cì",
+        "startTime": 229.714,
+        "endTime": 230.956,
+        "gloss": "every time"
+      },
+      {
+        "word": "照相",
+        "pinyin": "zhào xiàng",
+        "startTime": 230.956,
+        "endTime": 231.658,
+        "gloss": "take photo"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 231.658,
+        "endTime": 231.858,
+        "gloss": "possessive"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 231.858,
+        "endTime": 232.56,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Every time she takes a photo,"
+  },
+  {
+    "startTime": 232.6,
+    "endTime": 236.466,
+    "fullTextZH": "都会花半个小时修图。",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 232.68,
+        "endTime": 232.84,
+        "gloss": "all"
+      },
+      {
+        "word": "会花",
+        "pinyin": "huì huā",
+        "startTime": 232.84,
+        "endTime": 233.882,
+        "gloss": "spend"
+      },
+      {
+        "word": "半个",
+        "pinyin": "bàn gè",
+        "startTime": 233.882,
+        "endTime": 234.403,
+        "gloss": "half"
+      },
+      {
+        "word": "小时",
+        "pinyin": "xiǎo shí",
+        "startTime": 234.403,
+        "endTime": 235.324,
+        "gloss": "hour"
+      },
+      {
+        "word": "修图",
+        "pinyin": "xiū tú",
+        "startTime": 235.324,
+        "endTime": 236.426,
+        "gloss": "edit photos"
+      }
+    ],
+    "fullTextEN": "She spends half an hour editing photos."
+  },
+  {
+    "startTime": 236.7,
+    "endTime": 240.833,
+    "fullTextZH": "她最喜欢把自己的眼睛变得很大，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 236.76,
+        "endTime": 237.141,
+        "gloss": "she"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 237.141,
+        "endTime": 237.563,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 237.563,
+        "endTime": 238.104,
+        "gloss": "like"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 238.104,
+        "endTime": 238.385,
+        "gloss": "make"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 238.385,
+        "endTime": 238.686,
+        "gloss": "self"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 238.686,
+        "endTime": 238.807,
+        "gloss": "possessive"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 238.807,
+        "endTime": 239.348,
+        "gloss": "eyes"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 239.348,
+        "endTime": 239.73,
+        "gloss": "become"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 239.73,
+        "endTime": 240.793,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "She loves making her eyes very big,"
+  },
+  {
+    "startTime": 241.2,
+    "endTime": 243.433,
+    "fullTextZH": "皮肤变得很白，",
+    "words": [
+      {
+        "word": "皮肤",
+        "pinyin": "pí fū",
+        "startTime": 241.321,
+        "endTime": 241.763,
+        "gloss": "skin"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 241.763,
+        "endTime": 242.146,
+        "gloss": "became"
+      },
+      {
+        "word": "很白",
+        "pinyin": "hěn bái",
+        "startTime": 242.146,
+        "endTime": 243.393,
+        "gloss": "very white"
+      }
+    ],
+    "fullTextEN": "The skin became very white,"
+  },
+  {
+    "startTime": 243.7,
+    "endTime": 245.9,
+    "fullTextZH": "脸变得很小，",
+    "words": [
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 243.882,
+        "endTime": 244.366,
+        "gloss": "face"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 244.366,
+        "endTime": 244.729,
+        "gloss": "became"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 244.729,
+        "endTime": 245.86,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "The face became very small,"
+  },
+  {
+    "startTime": 245.9,
+    "endTime": 249.4,
+    "fullTextZH": "然后最后把她的腿变得很长。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 246.041,
+        "endTime": 246.443,
+        "gloss": "then"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 246.443,
+        "endTime": 246.866,
+        "gloss": "finally"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 246.866,
+        "endTime": 247.107,
+        "gloss": "make"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 247.107,
+        "endTime": 247.288,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 247.288,
+        "endTime": 247.469,
+        "gloss": "possessive"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 247.469,
+        "endTime": 247.73,
+        "gloss": "legs"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 247.73,
+        "endTime": 248.133,
+        "gloss": "became"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 248.133,
+        "endTime": 249.36,
+        "gloss": "very long"
+      }
+    ],
+    "fullTextEN": "Then finally made her legs very long."
+  },
+  {
+    "startTime": 250.1,
+    "endTime": 251.133,
+    "fullTextZH": "有一次呢，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 250.201,
+        "endTime": 250.363,
+        "gloss": "have"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 250.363,
+        "endTime": 250.849,
+        "gloss": "once"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 250.849,
+        "endTime": 251.092,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Once,"
+  },
+  {
+    "startTime": 251.133,
+    "endTime": 253.833,
+    "fullTextZH": "她告诉了我们这个故事。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 251.193,
+        "endTime": 251.415,
+        "gloss": "she"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 251.415,
+        "endTime": 251.899,
+        "gloss": "told"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 251.899,
+        "endTime": 252.1,
+        "gloss": "particle"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 252.1,
+        "endTime": 252.705,
+        "gloss": "us"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 252.705,
+        "endTime": 253.047,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 253.047,
+        "endTime": 253.793,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "She told us this story."
+  },
+  {
+    "startTime": 254.266,
+    "endTime": 258.633,
+    "fullTextZH": "她说呢，她去和一个新的男生约会，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 254.386,
+        "endTime": 254.627,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 254.627,
+        "endTime": 254.907,
+        "gloss": "said"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 254.907,
+        "endTime": 255.087,
+        "gloss": "particle"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 255.187,
+        "endTime": 255.388,
+        "gloss": "she"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 255.388,
+        "endTime": 255.568,
+        "gloss": "went"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 255.568,
+        "endTime": 255.909,
+        "gloss": "with"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 255.909,
+        "endTime": 256.409,
+        "gloss": "a"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 256.409,
+        "endTime": 256.69,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 256.69,
+        "endTime": 256.83,
+        "gloss": "possessive"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 256.83,
+        "endTime": 257.611,
+        "gloss": "guy"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 257.611,
+        "endTime": 258.593,
+        "gloss": "date"
+      }
+    ],
+    "fullTextEN": "She said she went on a date with a new guy,"
+  },
+  {
+    "startTime": 259.233,
+    "endTime": 260.333,
+    "fullTextZH": "这个男生呐，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 259.335,
+        "endTime": 259.62,
+        "gloss": "this"
+      },
+      {
+        "word": "男生",
+        "pinyin": "nán shēng",
+        "startTime": 259.62,
+        "endTime": 260.15,
+        "gloss": "guy"
+      },
+      {
+        "word": "呐",
+        "pinyin": "nà",
+        "startTime": 260.15,
+        "endTime": 260.292,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This guy,"
+  },
+  {
+    "startTime": 260.333,
+    "endTime": 262.3,
+    "fullTextZH": "没有看过她，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 260.494,
+        "endTime": 261.176,
+        "gloss": "not"
+      },
+      {
+        "word": "看过",
+        "pinyin": "kàn guò",
+        "startTime": 261.176,
+        "endTime": 261.678,
+        "gloss": "seen"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 261.678,
+        "endTime": 262.26,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "had never seen her,"
+  },
+  {
+    "startTime": 262.533,
+    "endTime": 263.9,
+    "fullTextZH": "他们约好呢，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 262.613,
+        "endTime": 262.935,
+        "gloss": "they"
+      },
+      {
+        "word": "约",
+        "pinyin": "yuē",
+        "startTime": 262.935,
+        "endTime": 263.257,
+        "gloss": "agreed"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 263.257,
+        "endTime": 263.558,
+        "gloss": "to"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 263.558,
+        "endTime": 263.86,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "They agreed to meet,"
+  },
+  {
+    "startTime": 263.9,
+    "endTime": 265.766,
+    "fullTextZH": "在餐厅见面。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 264.02,
+        "endTime": 264.382,
+        "gloss": "at"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 264.382,
+        "endTime": 265.024,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "见面",
+        "pinyin": "jiàn miàn",
+        "startTime": 265.024,
+        "endTime": 265.726,
+        "gloss": "meet"
+      }
+    ],
+    "fullTextEN": "at the restaurant."
+  },
+  {
+    "startTime": 266.066,
+    "endTime": 268.033,
+    "fullTextZH": "我的朋友先到了，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 266.186,
+        "endTime": 266.307,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 266.307,
+        "endTime": 266.467,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 266.467,
+        "endTime": 266.949,
+        "gloss": "friend"
+      },
+      {
+        "word": "先到",
+        "pinyin": "xiān dào",
+        "startTime": 266.949,
+        "endTime": 267.692,
+        "gloss": "arrived first"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 267.692,
+        "endTime": 267.993,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "My friend arrived first,"
+  },
+  {
+    "startTime": 268.133,
+    "endTime": 272.066,
+    "fullTextZH": "所以她就在餐厅的门口等他。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 268.314,
+        "endTime": 268.635,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 268.635,
+        "endTime": 268.875,
+        "gloss": "she"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 268.875,
+        "endTime": 269.056,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 269.056,
+        "endTime": 269.417,
+        "gloss": "at"
+      },
+      {
+        "word": "餐厅",
+        "pinyin": "cān tīng",
+        "startTime": 269.417,
+        "endTime": 270.019,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.019,
+        "endTime": 270.18,
+        "gloss": "possessive"
+      },
+      {
+        "word": "门口",
+        "pinyin": "mén kǒu",
+        "startTime": 270.18,
+        "endTime": 270.902,
+        "gloss": "entrance"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 270.902,
+        "endTime": 271.223,
+        "gloss": "wait"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 271.223,
+        "endTime": 272.026,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "so she waited for him at the restaurant entrance."
+  },
+  {
+    "startTime": 272.466,
+    "endTime": 275.566,
+    "fullTextZH": "可是呢，这个人到了以后，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 272.587,
+        "endTime": 272.949,
+        "gloss": "but"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 272.949,
+        "endTime": 273.15,
+        "gloss": "particle"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 273.472,
+        "endTime": 273.795,
+        "gloss": "this"
+      },
+      {
+        "word": "人到",
+        "pinyin": "rén dào",
+        "startTime": 273.795,
+        "endTime": 274.58,
+        "gloss": "person"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 274.58,
+        "endTime": 274.781,
+        "gloss": "arrived"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 274.781,
+        "endTime": 275.546,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "But when this person arrived,"
+  },
+  {
+    "startTime": 275.633,
+    "endTime": 277.7,
+    "fullTextZH": "站在她的前面，",
+    "words": [
+      {
+        "word": "站",
+        "pinyin": "zhàn",
+        "startTime": 275.753,
+        "endTime": 276.034,
+        "gloss": "stand"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 276.034,
+        "endTime": 276.235,
+        "gloss": "in"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 276.235,
+        "endTime": 276.576,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 276.576,
+        "endTime": 276.777,
+        "gloss": "possessive"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 276.777,
+        "endTime": 277.66,
+        "gloss": "front"
+      }
+    ],
+    "fullTextEN": "he stood in front of her,"
+  },
+  {
+    "startTime": 277.7,
+    "endTime": 279.733,
+    "fullTextZH": "然后看了一看，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 277.821,
+        "endTime": 278.525,
+        "gloss": "then"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 278.525,
+        "endTime": 278.827,
+        "gloss": "looked"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 278.827,
+        "endTime": 278.968,
+        "gloss": "particle"
+      },
+      {
+        "word": "一看",
+        "pinyin": "yī kàn",
+        "startTime": 278.968,
+        "endTime": 279.693,
+        "gloss": "a look"
+      }
+    ],
+    "fullTextEN": "then took a look,"
+  },
+  {
+    "startTime": 279.733,
+    "endTime": 282.933,
+    "fullTextZH": "没有跟她说话就走了。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 279.834,
+        "endTime": 280.297,
+        "gloss": "not"
+      },
+      {
+        "word": "跟",
+        "pinyin": "gēn",
+        "startTime": 280.297,
+        "endTime": 280.558,
+        "gloss": "with"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 280.558,
+        "endTime": 280.88,
+        "gloss": "her"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 280.88,
+        "endTime": 281.826,
+        "gloss": "speak"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 281.826,
+        "endTime": 282.128,
+        "gloss": "then"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 282.128,
+        "endTime": 282.43,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 282.43,
+        "endTime": 282.893,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "and left without speaking to her."
+  },
+  {
+    "startTime": 283.466,
+    "endTime": 284.566,
+    "fullTextZH": "因为这个人呢，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 283.547,
+        "endTime": 283.935,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 283.935,
+        "endTime": 284.281,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 284.281,
+        "endTime": 284.505,
+        "gloss": "person"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 284.505,
+        "endTime": 284.546,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Because this person,"
+  },
+  {
+    "startTime": 284.566,
+    "endTime": 288.233,
+    "fullTextZH": "他完全认不出我的朋友。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 284.686,
+        "endTime": 285.007,
+        "gloss": "he"
+      },
+      {
+        "word": "完全",
+        "pinyin": "wán quán",
+        "startTime": 285.007,
+        "endTime": 285.969,
+        "gloss": "completely"
+      },
+      {
+        "word": "认不出",
+        "pinyin": "rèn bù chū",
+        "startTime": 285.969,
+        "endTime": 286.91,
+        "gloss": "couldn't recognize"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 286.91,
+        "endTime": 287.211,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 287.211,
+        "endTime": 287.431,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 287.431,
+        "endTime": 288.193,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "he couldn't recognize my friend at all."
+  },
+  {
+    "startTime": 288.633,
+    "endTime": 290.033,
+    "fullTextZH": "几分钟以后，",
+    "words": [
+      {
+        "word": "几分钟",
+        "pinyin": "jǐ fēn zhōng",
+        "startTime": 288.714,
+        "endTime": 289.303,
+        "gloss": "a few minutes"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 289.303,
+        "endTime": 289.992,
+        "gloss": "later"
+      }
+    ],
+    "fullTextEN": "A few minutes later,"
+  },
+  {
+    "startTime": 290.033,
+    "endTime": 292.533,
+    "fullTextZH": "我的朋友的手机响了，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 290.154,
+        "endTime": 290.255,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 290.255,
+        "endTime": 290.517,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 290.517,
+        "endTime": 290.94,
+        "gloss": "friend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 290.94,
+        "endTime": 291.102,
+        "gloss": "possessive"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 291.102,
+        "endTime": 291.747,
+        "gloss": "phone"
+      },
+      {
+        "word": "响",
+        "pinyin": "xiǎng",
+        "startTime": 291.747,
+        "endTime": 292.11,
+        "gloss": "rang"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 292.11,
+        "endTime": 292.493,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "my friend's phone rang,"
+  },
+  {
+    "startTime": 292.7,
+    "endTime": 294.533,
+    "fullTextZH": "然后她接起来，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 292.881,
+        "endTime": 293.264,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 293.264,
+        "endTime": 293.606,
+        "gloss": "she"
+      },
+      {
+        "word": "接",
+        "pinyin": "jiē",
+        "startTime": 293.606,
+        "endTime": 293.949,
+        "gloss": "pick"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 293.949,
+        "endTime": 294.493,
+        "gloss": "up"
+      }
+    ],
+    "fullTextEN": "Then she picked it up,"
+  },
+  {
+    "startTime": 294.8,
+    "endTime": 296.8,
+    "fullTextZH": "原来是这个人打的。",
+    "words": [
+      {
+        "word": "原来",
+        "pinyin": "yuán lái",
+        "startTime": 294.881,
+        "endTime": 295.265,
+        "gloss": "turns out"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 295.265,
+        "endTime": 295.406,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 295.406,
+        "endTime": 295.648,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 295.648,
+        "endTime": 296.012,
+        "gloss": "person"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 296.012,
+        "endTime": 296.335,
+        "gloss": "call"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 296.335,
+        "endTime": 296.76,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "It turned out to be this person calling."
+  },
+  {
+    "startTime": 297.066,
+    "endTime": 300.5,
+    "fullTextZH": "他说，喂，你在哪里啊？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 297.166,
+        "endTime": 297.387,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 297.387,
+        "endTime": 297.95,
+        "gloss": "said"
+      },
+      {
+        "word": "喂",
+        "pinyin": "wèi",
+        "startTime": 299.054,
+        "endTime": 299.195,
+        "gloss": "hello"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 299.355,
+        "endTime": 299.375,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 299.375,
+        "endTime": 299.436,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 299.436,
+        "endTime": 299.857,
+        "gloss": "where"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 299.857,
+        "endTime": 300.46,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "He said, hello, where are you?"
+  },
+  {
+    "startTime": 300.5,
+    "endTime": 302.6,
+    "fullTextZH": "我怎么没有看见你？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 300.581,
+        "endTime": 300.722,
+        "gloss": "I"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 300.722,
+        "endTime": 300.964,
+        "gloss": "why"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 300.964,
+        "endTime": 301.267,
+        "gloss": "didn't"
+      },
+      {
+        "word": "看见",
+        "pinyin": "kàn jiàn",
+        "startTime": 301.267,
+        "endTime": 301.893,
+        "gloss": "see"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 301.893,
+        "endTime": 302.56,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "Why didn't I see you?"
+  },
+  {
+    "startTime": 302.666,
+    "endTime": 304.133,
+    "fullTextZH": "你到了吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 302.726,
+        "endTime": 302.887,
+        "gloss": "you"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 302.887,
+        "endTime": 303.128,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 303.128,
+        "endTime": 303.249,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 303.249,
+        "endTime": 304.093,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you arrived?"
+  },
+  {
+    "startTime": 304.7,
+    "endTime": 307.866,
+    "fullTextZH": "然后我的朋友告诉他，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 304.8,
+        "endTime": 305.381,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 305.381,
+        "endTime": 305.602,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 305.602,
+        "endTime": 305.842,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 305.842,
+        "endTime": 306.543,
+        "gloss": "friend"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 306.543,
+        "endTime": 307.044,
+        "gloss": "told"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 307.044,
+        "endTime": 307.826,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Then my friend told him,"
+  },
+  {
+    "startTime": 308.0,
+    "endTime": 309.4,
+    "fullTextZH": "我在你的前面，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 308.203,
+        "endTime": 308.345,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 308.345,
+        "endTime": 308.568,
+        "gloss": "at"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 308.568,
+        "endTime": 308.71,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.71,
+        "endTime": 308.933,
+        "gloss": "possessive"
+      },
+      {
+        "word": "前面",
+        "pinyin": "qián miàn",
+        "startTime": 308.933,
+        "endTime": 309.38,
+        "gloss": "front"
+      }
+    ],
+    "fullTextEN": "I'm in front of you,"
+  },
+  {
+    "startTime": 309.5,
+    "endTime": 311.466,
+    "fullTextZH": "你没有看到我吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 309.54,
+        "endTime": 309.64,
+        "gloss": "you"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 309.64,
+        "endTime": 309.881,
+        "gloss": "didn't"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 309.881,
+        "endTime": 310.343,
+        "gloss": "see"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 310.343,
+        "endTime": 310.563,
+        "gloss": "me"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 310.563,
+        "endTime": 311.426,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Didn't you see me?"
+  },
+  {
+    "startTime": 311.566,
+    "endTime": 313.066,
+    "fullTextZH": "然后那个人啊，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 311.83,
+        "endTime": 312.255,
+        "gloss": "then"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 312.255,
+        "endTime": 312.62,
+        "gloss": "that"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 312.62,
+        "endTime": 312.863,
+        "gloss": "person"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 312.863,
+        "endTime": 313.025,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Then that person,"
+  },
+  {
+    "startTime": 313.166,
+    "endTime": 315.266,
+    "fullTextZH": "看了一下我的朋友，",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 313.328,
+        "endTime": 313.731,
+        "gloss": "look"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 313.731,
+        "endTime": 313.873,
+        "gloss": "particle"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 313.873,
+        "endTime": 314.256,
+        "gloss": "briefly"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 314.256,
+        "endTime": 314.418,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 314.418,
+        "endTime": 314.62,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 314.62,
+        "endTime": 315.246,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "Looked at my friend,"
+  },
+  {
+    "startTime": 315.466,
+    "endTime": 319.4,
+    "fullTextZH": "脸上看起来很惊讶的样子。",
+    "words": [
+      {
+        "word": "脸上",
+        "pinyin": "liǎn shàng",
+        "startTime": 315.586,
+        "endTime": 316.369,
+        "gloss": "on face"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 316.369,
+        "endTime": 317.353,
+        "gloss": "looks"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 317.353,
+        "endTime": 317.774,
+        "gloss": "very"
+      },
+      {
+        "word": "惊讶",
+        "pinyin": "jīng yà",
+        "startTime": 317.774,
+        "endTime": 318.356,
+        "gloss": "surprised"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 318.356,
+        "endTime": 318.457,
+        "gloss": "particle"
+      },
+      {
+        "word": "样子",
+        "pinyin": "yàng zi",
+        "startTime": 318.457,
+        "endTime": 319.36,
+        "gloss": "appearance"
+      }
+    ],
+    "fullTextEN": "With a surprised look on his face."
+  },
+  {
+    "startTime": 320.0,
+    "endTime": 322.633,
+    "fullTextZH": "说完了这个故事以后，",
+    "words": [
+      {
+        "word": "说完",
+        "pinyin": "shuō wán",
+        "startTime": 320.322,
+        "endTime": 320.925,
+        "gloss": "finish saying"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 320.925,
+        "endTime": 321.105,
+        "gloss": "particle"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 321.105,
+        "endTime": 321.427,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 321.427,
+        "endTime": 321.93,
+        "gloss": "story"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 321.93,
+        "endTime": 322.593,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After finishing this story,"
+  },
+  {
+    "startTime": 322.633,
+    "endTime": 325.933,
+    "fullTextZH": "我的朋友很生气的看着我们，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 322.734,
+        "endTime": 322.834,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 322.834,
+        "endTime": 323.015,
+        "gloss": "possessive"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 323.015,
+        "endTime": 323.538,
+        "gloss": "friend"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 323.538,
+        "endTime": 323.961,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 323.961,
+        "endTime": 324.524,
+        "gloss": "angry"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 324.524,
+        "endTime": 324.706,
+        "gloss": "particle"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 324.706,
+        "endTime": 325.188,
+        "gloss": "looked at"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 325.188,
+        "endTime": 325.893,
+        "gloss": "us"
+      }
+    ],
+    "fullTextEN": "My friend looked at us angrily,"
+  },
+  {
+    "startTime": 326.366,
+    "endTime": 330.366,
+    "fullTextZH": "我和照片看起来真的不一样吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 326.467,
+        "endTime": 326.668,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 326.668,
+        "endTime": 326.969,
+        "gloss": "and"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 326.969,
+        "endTime": 328.014,
+        "gloss": "photo"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 328.014,
+        "endTime": 328.758,
+        "gloss": "look"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 328.758,
+        "endTime": 329.16,
+        "gloss": "really"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 329.16,
+        "endTime": 329.361,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 329.361,
+        "endTime": 329.723,
+        "gloss": "same"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 329.723,
+        "endTime": 330.326,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I really look different from the photo?"
+  },
+  {
+    "startTime": 330.566,
+    "endTime": 332.666,
+    "fullTextZH": "我们看了一下她，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 330.647,
+        "endTime": 331.071,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 331.071,
+        "endTime": 331.434,
+        "gloss": "look"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 331.434,
+        "endTime": 331.596,
+        "gloss": "particle"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 331.596,
+        "endTime": 332.101,
+        "gloss": "briefly"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 332.101,
+        "endTime": 332.626,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "We looked at her,"
+  },
+  {
+    "startTime": 332.666,
+    "endTime": 335.066,
+    "fullTextZH": "然后再看一下照片，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 332.727,
+        "endTime": 333.19,
+        "gloss": "then"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 333.19,
+        "endTime": 333.432,
+        "gloss": "again"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 333.432,
+        "endTime": 333.715,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 333.715,
+        "endTime": 334.138,
+        "gloss": "briefly"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 334.138,
+        "endTime": 335.026,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "Then looked at the photo again,"
+  },
+  {
+    "startTime": 335.2,
+    "endTime": 339.5,
+    "fullTextZH": "我们都不知道应该说什么。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 335.28,
+        "endTime": 335.964,
+        "gloss": "we"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 335.964,
+        "endTime": 336.386,
+        "gloss": "all"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 336.386,
+        "endTime": 336.667,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 336.667,
+        "endTime": 337.571,
+        "gloss": "know"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 337.571,
+        "endTime": 338.455,
+        "gloss": "should"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 338.455,
+        "endTime": 338.877,
+        "gloss": "say"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 338.877,
+        "endTime": 339.46,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "We didn't know what to say."
+  },
+  {
+    "startTime": 340.7,
+    "endTime": 345.333,
+    "fullTextZH": "好啦，这就是今天约会系列的第2集。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 340.78,
+        "endTime": 341.041,
+        "gloss": "okay"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 341.041,
+        "endTime": 341.502,
+        "gloss": "particle"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 341.623,
+        "endTime": 341.663,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 341.663,
+        "endTime": 342.024,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 342.024,
+        "endTime": 342.485,
+        "gloss": "today"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 342.485,
+        "endTime": 343.087,
+        "gloss": "dating"
+      },
+      {
+        "word": "系列",
+        "pinyin": "xì liè",
+        "startTime": 343.087,
+        "endTime": 343.568,
+        "gloss": "series"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 343.568,
+        "endTime": 344.009,
+        "gloss": "particle"
+      },
+      {
+        "word": "第",
+        "pinyin": "dì",
+        "startTime": 344.009,
+        "endTime": 344.29,
+        "gloss": "second"
+      },
+      {
+        "word": "集",
+        "pinyin": "jí",
+        "startTime": 344.611,
+        "endTime": 345.293,
+        "gloss": "episode"
+      }
+    ],
+    "fullTextEN": "Okay, this is the second episode of today's dating series."
+  },
+  {
+    "startTime": 345.633,
+    "endTime": 348.1,
+    "fullTextZH": "你们有用过约会的APP吗？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 345.713,
+        "endTime": 345.994,
+        "gloss": "you all"
+      },
+      {
+        "word": "有用",
+        "pinyin": "yǒu yòng",
+        "startTime": 345.994,
+        "endTime": 346.455,
+        "gloss": "used"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 346.455,
+        "endTime": 346.636,
+        "gloss": "before"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 346.636,
+        "endTime": 347.057,
+        "gloss": "dating"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 347.057,
+        "endTime": 347.177,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 347.558,
+        "endTime": 348.06,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you ever used a dating app?"
+  },
+  {
+    "startTime": 348.1,
+    "endTime": 349.8,
+    "fullTextZH": "在约会的APP上，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 348.262,
+        "endTime": 348.646,
+        "gloss": "on"
+      },
+      {
+        "word": "约会",
+        "pinyin": "yuē huì",
+        "startTime": 348.646,
+        "endTime": 349.092,
+        "gloss": "dating"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 349.092,
+        "endTime": 349.193,
+        "gloss": "particle"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 349.537,
+        "endTime": 349.76,
+        "gloss": "app"
+      }
+    ],
+    "fullTextEN": "On the dating app,"
+  },
+  {
+    "startTime": 349.8,
+    "endTime": 352.3,
+    "fullTextZH": "你们会放怎么样的照片呢？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 349.86,
+        "endTime": 350.163,
+        "gloss": "you (plural)"
+      },
+      {
+        "word": "会放",
+        "pinyin": "huì fàng",
+        "startTime": 350.163,
+        "endTime": 350.848,
+        "gloss": "will post"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 350.848,
+        "endTime": 351.352,
+        "gloss": "what kind"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 351.352,
+        "endTime": 351.514,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 351.514,
+        "endTime": 351.998,
+        "gloss": "photos"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 351.998,
+        "endTime": 352.018,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "What kind of photos will you post?"
+  },
+  {
+    "startTime": 352.666,
+    "endTime": 354.4,
+    "fullTextZH": "你们有没有遇过，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 352.726,
+        "endTime": 353.19,
+        "gloss": "you (plural)"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 353.19,
+        "endTime": 353.694,
+        "gloss": "have or not"
+      },
+      {
+        "word": "遇",
+        "pinyin": "yù",
+        "startTime": 353.694,
+        "endTime": 354.017,
+        "gloss": "encounter"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 354.017,
+        "endTime": 354.36,
+        "gloss": "experienced"
+      }
+    ],
+    "fullTextEN": "Have you ever encountered,"
+  },
+  {
+    "startTime": 354.4,
+    "endTime": 359.033,
+    "fullTextZH": "照片和真人看起来不一样的经验呢？",
+    "words": [
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 354.46,
+        "endTime": 355.262,
+        "gloss": "photos"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 355.262,
+        "endTime": 355.684,
+        "gloss": "and"
+      },
+      {
+        "word": "真人",
+        "pinyin": "zhēn rén",
+        "startTime": 355.684,
+        "endTime": 356.325,
+        "gloss": "real person"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 356.325,
+        "endTime": 357.168,
+        "gloss": "look"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 357.168,
+        "endTime": 357.388,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 357.388,
+        "endTime": 357.749,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 357.749,
+        "endTime": 357.91,
+        "gloss": "of"
+      },
+      {
+        "word": "经验",
+        "pinyin": "jīng yàn",
+        "startTime": 357.91,
+        "endTime": 358.411,
+        "gloss": "experience"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 358.411,
+        "endTime": 358.993,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "the experience where photos and real people look different?"
+  },
+  {
+    "startTime": 359.333,
+    "endTime": 362.366,
+    "fullTextZH": "欢迎你在下面留言告诉我你的故事哦！",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 359.474,
+        "endTime": 359.875,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 359.875,
+        "endTime": 360.056,
+        "gloss": "you"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 360.056,
+        "endTime": 360.217,
+        "gloss": "at"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 360.217,
+        "endTime": 360.558,
+        "gloss": "below"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 360.558,
+        "endTime": 360.88,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 360.88,
+        "endTime": 361.261,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 361.261,
+        "endTime": 361.462,
+        "gloss": "me"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 361.462,
+        "endTime": 361.583,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 361.583,
+        "endTime": 361.703,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 361.703,
+        "endTime": 362.165,
+        "gloss": "story"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 362.165,
+        "endTime": 362.326,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "You're welcome to leave a comment below and tell me your story!"
+  },
+  {
+    "startTime": 362.4,
+    "endTime": 364.766,
+    "fullTextZH": "那我们就下支影片见，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 362.48,
+        "endTime": 362.661,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 362.661,
+        "endTime": 362.921,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 362.921,
+        "endTime": 363.182,
+        "gloss": "just"
+      },
+      {
+        "word": "下支",
+        "pinyin": "xià zhī",
+        "startTime": 363.182,
+        "endTime": 363.763,
+        "gloss": "next"
+      },
+      {
+        "word": "影片",
+        "pinyin": "yǐng piàn",
+        "startTime": 363.763,
+        "endTime": 364.225,
+        "gloss": "video"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 364.225,
+        "endTime": 364.726,
+        "gloss": "see"
+      }
+    ],
+    "fullTextEN": "Then we'll see you in the next video,"
+  },
+  {
+    "startTime": 364.766,
+    "endTime": 365.5,
+    "fullTextZH": "拜拜！",
+    "words": [
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 364.848,
+        "endTime": 365.459,
+        "gloss": "bye bye"
+      }
+    ],
+    "fullTextEN": "Bye bye!"
+  }
+]

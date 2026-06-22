@@ -1,0 +1,4823 @@
+[
+  {
+    "startTime": 0.2,
+    "endTime": 1.166,
+    "fullTextZH": "你好，",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.22,
+        "endTime": 1.126,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello,"
+  },
+  {
+    "startTime": 1.566,
+    "endTime": 8.466,
+    "fullTextZH": "你们知道在中国以前我们有一个政策，",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 1.626,
+        "endTime": 2.529,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 2.529,
+        "endTime": 3.592,
+        "gloss": "know"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 3.592,
+        "endTime": 3.853,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 3.853,
+        "endTime": 4.755,
+        "gloss": "China"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 4.755,
+        "endTime": 5.858,
+        "gloss": "before"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 5.858,
+        "endTime": 6.32,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 6.32,
+        "endTime": 6.621,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 6.621,
+        "endTime": 7.443,
+        "gloss": "a"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 7.443,
+        "endTime": 8.426,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "Do you know that in China we used to have a policy,"
+  },
+  {
+    "startTime": 8.866,
+    "endTime": 12.533,
+    "fullTextZH": "叫独生子女政策。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 8.946,
+        "endTime": 9.688,
+        "gloss": "called"
+      },
+      {
+        "word": "独生子女",
+        "pinyin": "dú shēng zǐ nǚ",
+        "startTime": 9.688,
+        "endTime": 11.611,
+        "gloss": "one-child"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 11.611,
+        "endTime": 12.493,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "called the One-Child Policy."
+  },
+  {
+    "startTime": 13.0,
+    "endTime": 14.133,
+    "fullTextZH": "什么意思？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 13.101,
+        "endTime": 13.384,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 13.384,
+        "endTime": 14.093,
+        "gloss": "meaning"
+      }
+    ],
+    "fullTextEN": "What does it mean?"
+  },
+  {
+    "startTime": 14.333,
+    "endTime": 19.099,
+    "fullTextZH": "就是你只可以生一个孩子，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 14.413,
+        "endTime": 15.214,
+        "gloss": "it means"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 15.214,
+        "endTime": 15.555,
+        "gloss": "you"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 15.555,
+        "endTime": 15.915,
+        "gloss": "only"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 15.915,
+        "endTime": 16.796,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 16.796,
+        "endTime": 17.677,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 17.677,
+        "endTime": 18.178,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 18.178,
+        "endTime": 19.059,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "It means you can only have one child,"
+  },
+  {
+    "startTime": 19.533,
+    "endTime": 22.199,
+    "fullTextZH": "不可以生两个孩子、",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 19.533,
+        "endTime": 19.733,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 19.733,
+        "endTime": 20.315,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 20.315,
+        "endTime": 20.856,
+        "gloss": "have"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 20.856,
+        "endTime": 21.377,
+        "gloss": "two"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 21.377,
+        "endTime": 22.159,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "You can't have two children,"
+  },
+  {
+    "startTime": 22.2,
+    "endTime": 23.6,
+    "fullTextZH": "三个孩子。",
+    "words": [
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 22.261,
+        "endTime": 22.728,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 22.728,
+        "endTime": 23.559,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "or three children."
+  },
+  {
+    "startTime": 24.2,
+    "endTime": 31.066,
+    "fullTextZH": "对，1980年开始，中国有这个政策。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 24.32,
+        "endTime": 25.221,
+        "gloss": "yes"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 27.643,
+        "endTime": 28.203,
+        "gloss": "year"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 28.203,
+        "endTime": 28.804,
+        "gloss": "start"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 28.964,
+        "endTime": 29.585,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 29.585,
+        "endTime": 29.905,
+        "gloss": "have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 29.905,
+        "endTime": 30.265,
+        "gloss": "this"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 30.265,
+        "endTime": 31.026,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "Yes, starting in 1980, China had this policy."
+  },
+  {
+    "startTime": 31.333,
+    "endTime": 34.466,
+    "fullTextZH": "所以很多很多的爸爸妈妈，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 31.453,
+        "endTime": 31.956,
+        "gloss": "so"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 31.956,
+        "endTime": 33.141,
+        "gloss": "many many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 33.141,
+        "endTime": 33.422,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 33.422,
+        "endTime": 34.426,
+        "gloss": "parents"
+      }
+    ],
+    "fullTextEN": "So many, many parents,"
+  },
+  {
+    "startTime": 34.466,
+    "endTime": 36.999,
+    "fullTextZH": "他们只有一个孩子。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 34.486,
+        "endTime": 34.908,
+        "gloss": "they"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 34.908,
+        "endTime": 35.552,
+        "gloss": "only"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 35.552,
+        "endTime": 36.094,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 36.094,
+        "endTime": 36.959,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "they only have one child."
+  },
+  {
+    "startTime": 38.4,
+    "endTime": 41.7,
+    "fullTextZH": "如果你生了一个孩子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 38.42,
+        "endTime": 38.963,
+        "gloss": "if"
+      },
+      {
+        "word": "你生",
+        "pinyin": "nǐ shēng",
+        "startTime": 38.963,
+        "endTime": 39.929,
+        "gloss": "you have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 39.929,
+        "endTime": 40.332,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 40.332,
+        "endTime": 40.754,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 40.754,
+        "endTime": 41.68,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "If you have one child,"
+  },
+  {
+    "startTime": 41.7,
+    "endTime": 45.166,
+    "fullTextZH": "然后你又怀孕了怎么办？",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 41.78,
+        "endTime": 42.161,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 42.161,
+        "endTime": 42.461,
+        "gloss": "you"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 42.461,
+        "endTime": 43.102,
+        "gloss": "again"
+      },
+      {
+        "word": "怀孕",
+        "pinyin": "huái yùn",
+        "startTime": 43.102,
+        "endTime": 43.724,
+        "gloss": "pregnant"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 43.724,
+        "endTime": 44.325,
+        "gloss": "completed"
+      },
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 44.325,
+        "endTime": 45.126,
+        "gloss": "what to do"
+      }
+    ],
+    "fullTextEN": "and then you get pregnant again, what to do?"
+  },
+  {
+    "startTime": 45.766,
+    "endTime": 49.466,
+    "fullTextZH": "他们会让你打掉这个孩子。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 45.846,
+        "endTime": 46.289,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 46.289,
+        "endTime": 46.59,
+        "gloss": "would"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 46.59,
+        "endTime": 46.892,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 46.892,
+        "endTime": 47.375,
+        "gloss": "you"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 47.375,
+        "endTime": 47.737,
+        "gloss": "abort"
+      },
+      {
+        "word": "掉",
+        "pinyin": "diào",
+        "startTime": 47.737,
+        "endTime": 48.139,
+        "gloss": "the"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 48.139,
+        "endTime": 48.481,
+        "gloss": "child"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 48.481,
+        "endTime": 49.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "They would make you abort the child."
+  },
+  {
+    "startTime": 49.933,
+    "endTime": 52.566,
+    "fullTextZH": "如果你偷偷生了，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 49.953,
+        "endTime": 50.355,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 50.355,
+        "endTime": 50.717,
+        "gloss": "you"
+      },
+      {
+        "word": "偷偷",
+        "pinyin": "tōu tōu",
+        "startTime": 50.717,
+        "endTime": 51.682,
+        "gloss": "secretly"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 51.682,
+        "endTime": 52.084,
+        "gloss": "have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 52.084,
+        "endTime": 52.526,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "If you secretly have the child,"
+  },
+  {
+    "startTime": 52.566,
+    "endTime": 53.966,
+    "fullTextZH": "他们不知道，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 52.627,
+        "endTime": 53.053,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 53.053,
+        "endTime": 53.215,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 53.215,
+        "endTime": 53.946,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "and they don't know,"
+  },
+  {
+    "startTime": 54.066,
+    "endTime": 58.699,
+    "fullTextZH": "然后他们发现你又生了一个孩子，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 54.126,
+        "endTime": 54.748,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 54.748,
+        "endTime": 55.289,
+        "gloss": "they"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 55.289,
+        "endTime": 56.312,
+        "gloss": "find out"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 56.312,
+        "endTime": 56.653,
+        "gloss": "you"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 56.653,
+        "endTime": 57.094,
+        "gloss": "again"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 57.094,
+        "endTime": 57.355,
+        "gloss": "have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 57.355,
+        "endTime": 57.496,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 57.496,
+        "endTime": 57.877,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 57.877,
+        "endTime": 58.659,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "then they find out you have another child,"
+  },
+  {
+    "startTime": 58.8,
+    "endTime": 60.933,
+    "fullTextZH": "他们会罚钱，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 58.86,
+        "endTime": 59.263,
+        "gloss": "they"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 59.263,
+        "endTime": 59.786,
+        "gloss": "would"
+      },
+      {
+        "word": "罚钱",
+        "pinyin": "fá qián",
+        "startTime": 59.786,
+        "endTime": 60.893,
+        "gloss": "fine"
+      }
+    ],
+    "fullTextEN": "they would fine you,"
+  },
+  {
+    "startTime": 61.133,
+    "endTime": 64.099,
+    "fullTextZH": "对，让你交很多很多钱。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 61.253,
+        "endTime": 61.634,
+        "gloss": "yes"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 61.734,
+        "endTime": 61.935,
+        "gloss": "make"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 61.935,
+        "endTime": 62.195,
+        "gloss": "you"
+      },
+      {
+        "word": "交",
+        "pinyin": "jiāo",
+        "startTime": 62.195,
+        "endTime": 62.476,
+        "gloss": "pay"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 62.476,
+        "endTime": 63.378,
+        "gloss": "a lot of"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 63.378,
+        "endTime": 64.059,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "yes, make you pay a lot of money."
+  },
+  {
+    "startTime": 65.1,
+    "endTime": 69.3,
+    "fullTextZH": "所以很多中国人只有一个孩子。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 65.12,
+        "endTime": 65.683,
+        "gloss": "so"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 65.683,
+        "endTime": 66.205,
+        "gloss": "many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 66.205,
+        "endTime": 66.688,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 66.688,
+        "endTime": 67.11,
+        "gloss": "people"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 67.11,
+        "endTime": 67.753,
+        "gloss": "only"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 67.753,
+        "endTime": 68.416,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 68.416,
+        "endTime": 69.26,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "So many Chinese people only have one child."
+  },
+  {
+    "startTime": 69.466,
+    "endTime": 72.699,
+    "fullTextZH": "可是我的爸爸妈妈，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 69.586,
+        "endTime": 70.41,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 70.41,
+        "endTime": 70.912,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 70.912,
+        "endTime": 71.534,
+        "gloss": "parents"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 71.534,
+        "endTime": 72.659,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "But my parents,"
+  },
+  {
+    "startTime": 72.866,
+    "endTime": 75.133,
+    "fullTextZH": "他们有六个孩子。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 72.926,
+        "endTime": 73.207,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 73.207,
+        "endTime": 73.709,
+        "gloss": "have"
+      },
+      {
+        "word": "六个",
+        "pinyin": "liù gè",
+        "startTime": 73.709,
+        "endTime": 74.17,
+        "gloss": "six"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 74.17,
+        "endTime": 75.093,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "They have six children."
+  },
+  {
+    "startTime": 76.133,
+    "endTime": 80.566,
+    "fullTextZH": "对，有的中国人他们不听，不听。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 76.133,
+        "endTime": 76.193,
+        "gloss": "yes"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 76.715,
+        "endTime": 76.915,
+        "gloss": "some"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 76.915,
+        "endTime": 77.176,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 77.176,
+        "endTime": 77.637,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 77.637,
+        "endTime": 77.978,
+        "gloss": "people"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 77.978,
+        "endTime": 78.6,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 78.6,
+        "endTime": 79.001,
+        "gloss": "not"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 79.001,
+        "endTime": 79.322,
+        "gloss": "listen"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 79.724,
+        "endTime": 79.864,
+        "gloss": "not"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 79.864,
+        "endTime": 80.185,
+        "gloss": "listen"
+      }
+    ],
+    "fullTextEN": "Yes, some Chinese people don't listen, don't listen."
+  },
+  {
+    "startTime": 80.566,
+    "endTime": 85.133,
+    "fullTextZH": "虽然我们有独生子女政策，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 80.766,
+        "endTime": 81.487,
+        "gloss": "although"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 81.487,
+        "endTime": 81.888,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 81.888,
+        "endTime": 82.629,
+        "gloss": "have"
+      },
+      {
+        "word": "独生子女",
+        "pinyin": "dú shēng zǐ nǚ",
+        "startTime": 82.629,
+        "endTime": 84.232,
+        "gloss": "one-child"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 84.232,
+        "endTime": 85.093,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "Although we have the one-child policy,"
+  },
+  {
+    "startTime": 85.2,
+    "endTime": 89.766,
+    "fullTextZH": "可是还是有很多人生很多很多孩子。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 85.28,
+        "endTime": 86.101,
+        "gloss": "but"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 86.101,
+        "endTime": 86.522,
+        "gloss": "still"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 86.522,
+        "endTime": 86.722,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 86.722,
+        "endTime": 87.183,
+        "gloss": "many"
+      },
+      {
+        "word": "人生",
+        "pinyin": "rén shēng",
+        "startTime": 87.183,
+        "endTime": 88.044,
+        "gloss": "people"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 88.044,
+        "endTime": 88.905,
+        "gloss": "many many"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 88.905,
+        "endTime": 89.726,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "but still many people have many, many children."
+  },
+  {
+    "startTime": 90.366,
+    "endTime": 93.999,
+    "fullTextZH": "好，但是在大的城市，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 90.386,
+        "endTime": 90.968,
+        "gloss": "okay"
+      },
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 91.069,
+        "endTime": 91.791,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 91.791,
+        "endTime": 92.554,
+        "gloss": "in"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 92.554,
+        "endTime": 92.855,
+        "gloss": "big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 92.855,
+        "endTime": 93.136,
+        "gloss": "of"
+      },
+      {
+        "word": "城市",
+        "pinyin": "chéng shì",
+        "startTime": 93.136,
+        "endTime": 93.959,
+        "gloss": "cities"
+      }
+    ],
+    "fullTextEN": "Okay, but in big cities,"
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 95.766,
+    "fullTextZH": "比如说北京、",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 94.12,
+        "endTime": 94.943,
+        "gloss": "for example"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 94.943,
+        "endTime": 95.726,
+        "gloss": "Beijing"
+      }
+    ],
+    "fullTextEN": "such as Beijing,"
+  },
+  {
+    "startTime": 95.766,
+    "endTime": 100.099,
+    "fullTextZH": "上海，我觉得他们不可以偷偷生，",
+    "words": [
+      {
+        "word": "上海",
+        "pinyin": "shàng hǎi",
+        "startTime": 95.786,
+        "endTime": 96.288,
+        "gloss": "Shanghai"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 96.689,
+        "endTime": 96.869,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 96.869,
+        "endTime": 97.451,
+        "gloss": "think"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 97.451,
+        "endTime": 98.173,
+        "gloss": "they"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 98.173,
+        "endTime": 98.354,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 98.354,
+        "endTime": 98.936,
+        "gloss": "can"
+      },
+      {
+        "word": "偷偷",
+        "pinyin": "tōu tōu",
+        "startTime": 98.936,
+        "endTime": 99.638,
+        "gloss": "secretly"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 99.638,
+        "endTime": 100.079,
+        "gloss": "have"
+      }
+    ],
+    "fullTextEN": "Shanghai, I think they can't secretly have,"
+  },
+  {
+    "startTime": 100.166,
+    "endTime": 101.799,
+    "fullTextZH": "很多很多孩子。",
+    "words": [
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 100.206,
+        "endTime": 100.993,
+        "gloss": "many many"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 100.993,
+        "endTime": 101.759,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "many, many children."
+  },
+  {
+    "startTime": 101.866,
+    "endTime": 105.066,
+    "fullTextZH": "嗯，因为这个政策，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 101.947,
+        "endTime": 102.228,
+        "gloss": "hmm"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 102.993,
+        "endTime": 103.476,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 103.476,
+        "endTime": 104.019,
+        "gloss": "this"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 104.019,
+        "endTime": 105.026,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "Hmm, because of this policy,"
+  },
+  {
+    "startTime": 105.366,
+    "endTime": 109.199,
+    "fullTextZH": "中国的出生率越来越低。",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 105.426,
+        "endTime": 105.968,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 105.968,
+        "endTime": 106.47,
+        "gloss": "of"
+      },
+      {
+        "word": "出生率",
+        "pinyin": "chū shēng lǜ",
+        "startTime": 106.47,
+        "endTime": 107.875,
+        "gloss": "birth rate"
+      },
+      {
+        "word": "越来越低",
+        "pinyin": "yuè lái yuè dī",
+        "startTime": 107.875,
+        "endTime": 109.159,
+        "gloss": "getting lower"
+      }
+    ],
+    "fullTextEN": "China's birth rate is getting lower and lower."
+  },
+  {
+    "startTime": 109.933,
+    "endTime": 112.766,
+    "fullTextZH": "慢慢地，老人更多，",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 109.953,
+        "endTime": 110.616,
+        "gloss": "gradually"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 110.616,
+        "endTime": 110.837,
+        "gloss": "ly"
+      },
+      {
+        "word": "老人",
+        "pinyin": "lǎo rén",
+        "startTime": 111.098,
+        "endTime": 111.862,
+        "gloss": "elderly"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 111.862,
+        "endTime": 112.183,
+        "gloss": "more"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 112.183,
+        "endTime": 112.726,
+        "gloss": "many"
+      }
+    ],
+    "fullTextEN": "Gradually, there are more elderly people,"
+  },
+  {
+    "startTime": 112.766,
+    "endTime": 114.966,
+    "fullTextZH": "年轻人更少。",
+    "words": [
+      {
+        "word": "年轻人",
+        "pinyin": "nián qīng rén",
+        "startTime": 112.806,
+        "endTime": 114.078,
+        "gloss": "young people"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 114.078,
+        "endTime": 114.441,
+        "gloss": "more"
+      },
+      {
+        "word": "少",
+        "pinyin": "shǎo",
+        "startTime": 114.441,
+        "endTime": 114.926,
+        "gloss": "few"
+      }
+    ],
+    "fullTextEN": "and fewer young people."
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 119.066,
+    "fullTextZH": "年轻人需要做很多很多工作，",
+    "words": [
+      {
+        "word": "年轻人",
+        "pinyin": "nián qīng rén",
+        "startTime": 115.04,
+        "endTime": 116.142,
+        "gloss": "young people"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 116.142,
+        "endTime": 116.642,
+        "gloss": "need"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 116.642,
+        "endTime": 116.963,
+        "gloss": "do"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 116.963,
+        "endTime": 118.125,
+        "gloss": "many many"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 118.125,
+        "endTime": 119.026,
+        "gloss": "work"
+      }
+    ],
+    "fullTextEN": "Young people need to do a lot of work,"
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 122.9,
+    "fullTextZH": "这会是一个很大的问题。",
+    "words": [
+      {
+        "word": "这会",
+        "pinyin": "zhè huì",
+        "startTime": 120.02,
+        "endTime": 120.443,
+        "gloss": "this will"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 120.443,
+        "endTime": 120.624,
+        "gloss": "be"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 120.624,
+        "endTime": 121.108,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 121.108,
+        "endTime": 121.792,
+        "gloss": "very big"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 121.792,
+        "endTime": 121.913,
+        "gloss": "of"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 121.913,
+        "endTime": 122.86,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "this will be a big problem."
+  },
+  {
+    "startTime": 123.566,
+    "endTime": 128.133,
+    "fullTextZH": "所以我觉得中国也担心这个问题。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 123.686,
+        "endTime": 124.287,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 124.287,
+        "endTime": 124.467,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 124.467,
+        "endTime": 125.068,
+        "gloss": "think"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 125.068,
+        "endTime": 125.669,
+        "gloss": "China"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 125.669,
+        "endTime": 126.09,
+        "gloss": "also"
+      },
+      {
+        "word": "担心",
+        "pinyin": "dān xīn",
+        "startTime": 126.09,
+        "endTime": 126.891,
+        "gloss": "worried"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 126.891,
+        "endTime": 127.192,
+        "gloss": "this"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 127.192,
+        "endTime": 128.093,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "So I think China is also worried about this problem."
+  },
+  {
+    "startTime": 128.333,
+    "endTime": 133.099,
+    "fullTextZH": "所以2016年的时候，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 128.433,
+        "endTime": 129.454,
+        "gloss": "so"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 131.717,
+        "endTime": 132.038,
+        "gloss": "year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 132.038,
+        "endTime": 132.238,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 132.238,
+        "endTime": 133.059,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "So in 2016,"
+  },
+  {
+    "startTime": 133.466,
+    "endTime": 135.299,
+    "fullTextZH": "中国政府说，",
+    "words": [
+      {
+        "word": "中国政府",
+        "pinyin": "zhōng guó zhèng fǔ",
+        "startTime": 133.466,
+        "endTime": 134.594,
+        "gloss": "Chinese government"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 134.594,
+        "endTime": 135.259,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "the Chinese government said,"
+  },
+  {
+    "startTime": 135.6,
+    "endTime": 138.933,
+    "fullTextZH": "现在你可以生，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 135.68,
+        "endTime": 136.423,
+        "gloss": "now"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 136.423,
+        "endTime": 136.664,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 136.664,
+        "endTime": 137.949,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 137.949,
+        "endTime": 138.893,
+        "gloss": "have"
+      }
+    ],
+    "fullTextEN": "now you can have,"
+  },
+  {
+    "startTime": 139.4,
+    "endTime": 140.9,
+    "fullTextZH": "两个孩子。",
+    "words": [
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 139.501,
+        "endTime": 140.069,
+        "gloss": "two"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 140.069,
+        "endTime": 140.859,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "two children."
+  },
+  {
+    "startTime": 140.933,
+    "endTime": 144.699,
+    "fullTextZH": "对，这个叫二孩政策。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 141.013,
+        "endTime": 141.554,
+        "gloss": "yes"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 141.614,
+        "endTime": 142.135,
+        "gloss": "this"
+      },
+      {
+        "word": "叫二孩",
+        "pinyin": "jiào èr hái",
+        "startTime": 142.135,
+        "endTime": 143.878,
+        "gloss": "called two-child"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 143.878,
+        "endTime": 144.659,
+        "gloss": "policy"
+      }
+    ],
+    "fullTextEN": "Yes, this is called the two-child policy."
+  },
+  {
+    "startTime": 145.7,
+    "endTime": 151.1,
+    "fullTextZH": "2016年，中国人可以生两个孩子，",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 146.543,
+        "endTime": 146.563,
+        "gloss": "year"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 146.985,
+        "endTime": 147.406,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 147.406,
+        "endTime": 147.707,
+        "gloss": "people"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 147.707,
+        "endTime": 148.791,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 148.791,
+        "endTime": 149.514,
+        "gloss": "have"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 149.514,
+        "endTime": 150.197,
+        "gloss": "two"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 150.197,
+        "endTime": 151.06,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "In 2016, Chinese people could have two children,"
+  },
+  {
+    "startTime": 151.5,
+    "endTime": 153.9,
+    "fullTextZH": "可是还是不够。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 151.581,
+        "endTime": 152.387,
+        "gloss": "but"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 152.387,
+        "endTime": 153.093,
+        "gloss": "still"
+      },
+      {
+        "word": "不够",
+        "pinyin": "bù gòu",
+        "startTime": 153.093,
+        "endTime": 153.86,
+        "gloss": "not enough"
+      }
+    ],
+    "fullTextEN": "but it was still not enough."
+  },
+  {
+    "startTime": 154.566,
+    "endTime": 155.499,
+    "fullTextZH": "最近，",
+    "words": [
+      {
+        "word": "最近",
+        "pinyin": "zuì jìn",
+        "startTime": 154.566,
+        "endTime": 155.458,
+        "gloss": "recently"
+      }
+    ],
+    "fullTextEN": "Recently,"
+  },
+  {
+    "startTime": 155.566,
+    "endTime": 160.599,
+    "fullTextZH": "中国的政府又觉得我们应该可以生，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 155.606,
+        "endTime": 156.027,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 156.027,
+        "endTime": 156.228,
+        "gloss": "of"
+      },
+      {
+        "word": "政府",
+        "pinyin": "zhèng fǔ",
+        "startTime": 156.228,
+        "endTime": 157.09,
+        "gloss": "government"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 157.09,
+        "endTime": 157.471,
+        "gloss": "again"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 157.471,
+        "endTime": 158.413,
+        "gloss": "thinks"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 158.413,
+        "endTime": 158.814,
+        "gloss": "we"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 158.814,
+        "endTime": 159.356,
+        "gloss": "should"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 159.356,
+        "endTime": 160.038,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 160.038,
+        "endTime": 160.559,
+        "gloss": "have"
+      }
+    ],
+    "fullTextEN": "the Chinese government again thinks we should be able to have,"
+  },
+  {
+    "startTime": 160.933,
+    "endTime": 162.699,
+    "fullTextZH": "三个孩子。",
+    "words": [
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 161.114,
+        "endTime": 161.756,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 161.756,
+        "endTime": 162.659,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "three children."
+  },
+  {
+    "startTime": 163.166,
+    "endTime": 166.799,
+    "fullTextZH": "在中国有一个很大的媒体，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 163.186,
+        "endTime": 163.407,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 163.407,
+        "endTime": 164.15,
+        "gloss": "China"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 164.15,
+        "endTime": 164.35,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 164.35,
+        "endTime": 164.832,
+        "gloss": "a"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 164.832,
+        "endTime": 165.555,
+        "gloss": "very large"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 165.555,
+        "endTime": 165.936,
+        "gloss": "of"
+      },
+      {
+        "word": "媒体",
+        "pinyin": "méi tǐ",
+        "startTime": 165.936,
+        "endTime": 166.759,
+        "gloss": "media"
+      }
+    ],
+    "fullTextEN": "In China, there is a very large media outlet,"
+  },
+  {
+    "startTime": 166.866,
+    "endTime": 168.866,
+    "fullTextZH": "它叫新华社。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 166.886,
+        "endTime": 167.088,
+        "gloss": "it"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 167.088,
+        "endTime": 167.573,
+        "gloss": "called"
+      },
+      {
+        "word": "新华社",
+        "pinyin": "xīn huá shè",
+        "startTime": 167.573,
+        "endTime": 168.826,
+        "gloss": "Xinhua News Agency"
+      }
+    ],
+    "fullTextEN": "it's called Xinhua News Agency."
+  },
+  {
+    "startTime": 169.066,
+    "endTime": 172.733,
+    "fullTextZH": "它常常发很重要的新闻。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 169.146,
+        "endTime": 169.467,
+        "gloss": "it"
+      },
+      {
+        "word": "常常",
+        "pinyin": "cháng cháng",
+        "startTime": 169.467,
+        "endTime": 170.368,
+        "gloss": "often"
+      },
+      {
+        "word": "发",
+        "pinyin": "fā",
+        "startTime": 170.368,
+        "endTime": 170.769,
+        "gloss": "publishes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 170.769,
+        "endTime": 171.13,
+        "gloss": "very"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 171.13,
+        "endTime": 171.671,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 171.671,
+        "endTime": 171.931,
+        "gloss": "of"
+      },
+      {
+        "word": "新闻",
+        "pinyin": "xīn wén",
+        "startTime": 171.931,
+        "endTime": 172.693,
+        "gloss": "news"
+      }
+    ],
+    "fullTextEN": "It often publishes very important news."
+  },
+  {
+    "startTime": 173.933,
+    "endTime": 178.399,
+    "fullTextZH": "所以这个媒体，它发了一个微博。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 173.933,
+        "endTime": 174.734,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 174.734,
+        "endTime": 175.034,
+        "gloss": "this"
+      },
+      {
+        "word": "媒体",
+        "pinyin": "méi tǐ",
+        "startTime": 175.034,
+        "endTime": 175.655,
+        "gloss": "media"
+      },
+      {
+        "word": "它发",
+        "pinyin": "tā fā",
+        "startTime": 175.755,
+        "endTime": 176.657,
+        "gloss": "it posted"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 176.657,
+        "endTime": 177.017,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 177.017,
+        "endTime": 177.558,
+        "gloss": "a"
+      },
+      {
+        "word": "微博",
+        "pinyin": "wēi bó",
+        "startTime": 177.558,
+        "endTime": 178.359,
+        "gloss": "Weibo"
+      }
+    ],
+    "fullTextEN": "So this media outlet posted a Weibo."
+  },
+  {
+    "startTime": 178.6,
+    "endTime": 181.3,
+    "fullTextZH": "微博和Twitter差不多，",
+    "words": [
+      {
+        "word": "微博",
+        "pinyin": "wēi bó",
+        "startTime": 178.701,
+        "endTime": 179.406,
+        "gloss": "Weibo"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 179.406,
+        "endTime": 179.89,
+        "gloss": "and"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 180.454,
+        "endTime": 181.26,
+        "gloss": "similar to"
+      }
+    ],
+    "fullTextEN": "Weibo is similar to Twitter,"
+  },
+  {
+    "startTime": 181.5,
+    "endTime": 183.966,
+    "fullTextZH": "对，他们发了一个微博，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 181.6,
+        "endTime": 181.801,
+        "gloss": "yes"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 181.901,
+        "endTime": 182.302,
+        "gloss": "they"
+      },
+      {
+        "word": "发了",
+        "pinyin": "fā le",
+        "startTime": 182.302,
+        "endTime": 182.643,
+        "gloss": "posted"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 182.643,
+        "endTime": 183.124,
+        "gloss": "a"
+      },
+      {
+        "word": "微博",
+        "pinyin": "wēi bó",
+        "startTime": 183.124,
+        "endTime": 183.926,
+        "gloss": "Weibo"
+      }
+    ],
+    "fullTextEN": "Yes, they posted a Weibo,"
+  },
+  {
+    "startTime": 184.0,
+    "endTime": 187.866,
+    "fullTextZH": "就是告诉所有的中国人，好，",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 184.06,
+        "endTime": 184.521,
+        "gloss": "which is"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 184.521,
+        "endTime": 185.482,
+        "gloss": "tell"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 185.482,
+        "endTime": 185.903,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 185.903,
+        "endTime": 186.083,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 186.083,
+        "endTime": 186.564,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 186.564,
+        "endTime": 186.824,
+        "gloss": "people"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 187.225,
+        "endTime": 187.826,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "which is to tell all Chinese people, okay,"
+  },
+  {
+    "startTime": 187.866,
+    "endTime": 191.499,
+    "fullTextZH": "我们很快可以生三个孩子。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 187.946,
+        "endTime": 188.227,
+        "gloss": "we"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 188.227,
+        "endTime": 189.151,
+        "gloss": "soon"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 189.151,
+        "endTime": 189.612,
+        "gloss": "can"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 189.612,
+        "endTime": 190.094,
+        "gloss": "have"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 190.094,
+        "endTime": 190.616,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 190.616,
+        "endTime": 191.459,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "we can soon have three children."
+  },
+  {
+    "startTime": 192.0,
+    "endTime": 195.966,
+    "fullTextZH": "然后新华社有一个投票，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 192.0,
+        "endTime": 192.561,
+        "gloss": "then"
+      },
+      {
+        "word": "新华社",
+        "pinyin": "xīn huá shè",
+        "startTime": 192.561,
+        "endTime": 193.683,
+        "gloss": "Xinhua News Agency"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 193.683,
+        "endTime": 194.103,
+        "gloss": "has"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 194.103,
+        "endTime": 194.844,
+        "gloss": "a"
+      },
+      {
+        "word": "投票",
+        "pinyin": "tóu piào",
+        "startTime": 194.844,
+        "endTime": 195.926,
+        "gloss": "poll"
+      }
+    ],
+    "fullTextEN": "Then Xinhua News Agency had a poll,"
+  },
+  {
+    "startTime": 196.466,
+    "endTime": 199.799,
+    "fullTextZH": "它给你四个选择，对。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 196.506,
+        "endTime": 196.747,
+        "gloss": "it"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 196.747,
+        "endTime": 196.948,
+        "gloss": "gave"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 196.948,
+        "endTime": 197.309,
+        "gloss": "you"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 197.309,
+        "endTime": 197.972,
+        "gloss": "four"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 197.972,
+        "endTime": 199.197,
+        "gloss": "choices"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 199.377,
+        "endTime": 199.759,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "it gave you four choices, right."
+  },
+  {
+    "startTime": 199.8,
+    "endTime": 201.4,
+    "fullTextZH": "四个选择，",
+    "words": [
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 199.962,
+        "endTime": 200.529,
+        "gloss": "four"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 200.529,
+        "endTime": 201.359,
+        "gloss": "choices"
+      }
+    ],
+    "fullTextEN": "Four choices,"
+  },
+  {
+    "startTime": 201.466,
+    "endTime": 203.999,
+    "fullTextZH": "然后你选择一个。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 201.526,
+        "endTime": 201.908,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 201.908,
+        "endTime": 202.451,
+        "gloss": "you"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 202.451,
+        "endTime": 203.135,
+        "gloss": "choose"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 203.135,
+        "endTime": 203.959,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "then you choose one."
+  },
+  {
+    "startTime": 204.733,
+    "endTime": 208.799,
+    "fullTextZH": "我们可以看看四个选择是什么。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 204.813,
+        "endTime": 205.114,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 205.114,
+        "endTime": 205.494,
+        "gloss": "can"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 205.494,
+        "endTime": 206.355,
+        "gloss": "look at"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 206.355,
+        "endTime": 206.776,
+        "gloss": "four"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 206.776,
+        "endTime": 207.557,
+        "gloss": "choices"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 207.557,
+        "endTime": 208.038,
+        "gloss": "are"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 208.038,
+        "endTime": 208.759,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "We can take a look at what the four choices are."
+  },
+  {
+    "startTime": 209.4,
+    "endTime": 213.966,
+    "fullTextZH": "好，它的问题是，三孩政策来了，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 209.4,
+        "endTime": 209.6,
+        "gloss": "okay"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 209.66,
+        "endTime": 209.841,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 209.841,
+        "endTime": 210.001,
+        "gloss": "of"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 210.001,
+        "endTime": 210.622,
+        "gloss": "question"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 210.622,
+        "endTime": 210.882,
+        "gloss": "is"
+      },
+      {
+        "word": "三孩",
+        "pinyin": "sān hái",
+        "startTime": 211.403,
+        "endTime": 212.324,
+        "gloss": "three-child"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 212.324,
+        "endTime": 213.165,
+        "gloss": "policy"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 213.165,
+        "endTime": 213.485,
+        "gloss": "come"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 213.485,
+        "endTime": 213.926,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Okay, the question is, the three-child policy is here,"
+  },
+  {
+    "startTime": 213.966,
+    "endTime": 216.599,
+    "fullTextZH": "你准备好了吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 214.026,
+        "endTime": 214.77,
+        "gloss": "you"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 214.77,
+        "endTime": 215.473,
+        "gloss": "ready"
+      },
+      {
+        "word": "好了吗",
+        "pinyin": "hǎo le ma",
+        "startTime": 215.473,
+        "endTime": 216.559,
+        "gloss": "le ma"
+      }
+    ],
+    "fullTextEN": "are you ready?"
+  },
+  {
+    "startTime": 217.566,
+    "endTime": 218.533,
+    "fullTextZH": "我们看一下，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 217.566,
+        "endTime": 217.888,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 217.888,
+        "endTime": 218.11,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 218.11,
+        "endTime": 218.493,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "Let's take a look,"
+  },
+  {
+    "startTime": 218.533,
+    "endTime": 221.999,
+    "fullTextZH": "第一个选择是，准备好了，",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 218.573,
+        "endTime": 219.254,
+        "gloss": "first"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 219.254,
+        "endTime": 219.915,
+        "gloss": "choice"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 219.915,
+        "endTime": 220.076,
+        "gloss": "is"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 220.697,
+        "endTime": 221.238,
+        "gloss": "ready"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 221.238,
+        "endTime": 221.578,
+        "gloss": "good"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 221.578,
+        "endTime": 221.959,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The first choice is, ready,"
+  },
+  {
+    "startTime": 222.066,
+    "endTime": 223.366,
+    "fullTextZH": "迫不及待。",
+    "words": [
+      {
+        "word": "迫不及待",
+        "pinyin": "pò bù jí dài",
+        "startTime": 222.107,
+        "endTime": 223.325,
+        "gloss": "can't wait"
+      }
+    ],
+    "fullTextEN": "Can't wait."
+  },
+  {
+    "startTime": 223.8,
+    "endTime": 226.666,
+    "fullTextZH": "迫不及待就是，啊，等不了了，",
+    "words": [
+      {
+        "word": "迫不及待",
+        "pinyin": "pò bù jí dài",
+        "startTime": 223.9,
+        "endTime": 224.762,
+        "gloss": "can't wait"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 224.762,
+        "endTime": 225.143,
+        "gloss": "means"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 225.443,
+        "endTime": 225.584,
+        "gloss": "ah"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 225.724,
+        "endTime": 225.924,
+        "gloss": "wait"
+      },
+      {
+        "word": "不了",
+        "pinyin": "bù liǎo",
+        "startTime": 225.924,
+        "endTime": 226.345,
+        "gloss": "not"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 226.345,
+        "endTime": 226.626,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Can't wait means, ah, can't wait any longer,"
+  },
+  {
+    "startTime": 226.666,
+    "endTime": 229.266,
+    "fullTextZH": "我很想生三个孩子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 226.706,
+        "endTime": 226.847,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 226.847,
+        "endTime": 227.15,
+        "gloss": "very"
+      },
+      {
+        "word": "想生",
+        "pinyin": "xiǎng shēng",
+        "startTime": 227.15,
+        "endTime": 227.976,
+        "gloss": "want to have"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 227.976,
+        "endTime": 228.379,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 228.379,
+        "endTime": 229.226,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "I really want to have three children."
+  },
+  {
+    "startTime": 229.966,
+    "endTime": 236.066,
+    "fullTextZH": "好，第二个选择是，已提上日程，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 229.966,
+        "endTime": 230.588,
+        "gloss": "okay"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 230.708,
+        "endTime": 231.832,
+        "gloss": "second"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 231.832,
+        "endTime": 232.575,
+        "gloss": "choice"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 232.575,
+        "endTime": 232.795,
+        "gloss": "is"
+      },
+      {
+        "word": "已",
+        "pinyin": "yǐ",
+        "startTime": 233.478,
+        "endTime": 234.1,
+        "gloss": "already"
+      },
+      {
+        "word": "提上",
+        "pinyin": "tí shàng",
+        "startTime": 234.1,
+        "endTime": 235.023,
+        "gloss": "on"
+      },
+      {
+        "word": "日程",
+        "pinyin": "rì chéng",
+        "startTime": 235.023,
+        "endTime": 236.026,
+        "gloss": "agenda"
+      }
+    ],
+    "fullTextEN": "Okay, the second choice is, already on the agenda,"
+  },
+  {
+    "startTime": 236.333,
+    "endTime": 240.366,
+    "fullTextZH": "就是你已经在计划做这件事。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 236.453,
+        "endTime": 236.955,
+        "gloss": "means"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 236.955,
+        "endTime": 237.116,
+        "gloss": "you"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 237.116,
+        "endTime": 237.758,
+        "gloss": "already"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 237.758,
+        "endTime": 238.139,
+        "gloss": "are"
+      },
+      {
+        "word": "计划",
+        "pinyin": "jì huà",
+        "startTime": 238.139,
+        "endTime": 238.901,
+        "gloss": "planning"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 238.901,
+        "endTime": 239.283,
+        "gloss": "to do"
+      },
+      {
+        "word": "这件",
+        "pinyin": "zhè jiàn",
+        "startTime": 239.283,
+        "endTime": 239.784,
+        "gloss": "this"
+      },
+      {
+        "word": "事",
+        "pinyin": "shì",
+        "startTime": 239.784,
+        "endTime": 240.326,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "It means you are already planning to do this."
+  },
+  {
+    "startTime": 241.666,
+    "endTime": 244.566,
+    "fullTextZH": "好，第三个选择是，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 241.666,
+        "endTime": 242.19,
+        "gloss": "okay"
+      },
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 242.331,
+        "endTime": 243.035,
+        "gloss": "third"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 243.035,
+        "endTime": 243.599,
+        "gloss": "choice"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 243.599,
+        "endTime": 244.526,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Okay, the third choice is,"
+  },
+  {
+    "startTime": 245.133,
+    "endTime": 248.666,
+    "fullTextZH": "犹豫中，就是你还没有决定，",
+    "words": [
+      {
+        "word": "犹豫",
+        "pinyin": "yóu yù",
+        "startTime": 245.193,
+        "endTime": 245.795,
+        "gloss": "hesitate"
+      },
+      {
+        "word": "中",
+        "pinyin": "zhōng",
+        "startTime": 245.795,
+        "endTime": 246.398,
+        "gloss": "in"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 246.478,
+        "endTime": 247.02,
+        "gloss": "means"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 247.02,
+        "endTime": 247.181,
+        "gloss": "you"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 247.181,
+        "endTime": 247.421,
+        "gloss": "still"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 247.421,
+        "endTime": 247.823,
+        "gloss": "not yet"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 247.823,
+        "endTime": 248.626,
+        "gloss": "decide"
+      }
+    ],
+    "fullTextEN": "Hesitating, means you haven't decided yet,"
+  },
+  {
+    "startTime": 248.966,
+    "endTime": 250.133,
+    "fullTextZH": "可能你要，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 249.087,
+        "endTime": 249.61,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 249.61,
+        "endTime": 249.771,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 249.771,
+        "endTime": 250.113,
+        "gloss": "want"
+      }
+    ],
+    "fullTextEN": "Maybe you want to,"
+  },
+  {
+    "startTime": 250.133,
+    "endTime": 251.466,
+    "fullTextZH": "可能你不要，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 250.173,
+        "endTime": 250.577,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 250.577,
+        "endTime": 250.779,
+        "gloss": "you"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 250.779,
+        "endTime": 251.446,
+        "gloss": "don't want"
+      }
+    ],
+    "fullTextEN": "Maybe you don't want to,"
+  },
+  {
+    "startTime": 251.466,
+    "endTime": 252.099,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 251.507,
+        "endTime": 252.058,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 252.1,
+    "endTime": 257.166,
+    "fullTextZH": "因为他需要考虑很多很多问题，对。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 252.12,
+        "endTime": 252.52,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 252.52,
+        "endTime": 252.941,
+        "gloss": "he"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 252.941,
+        "endTime": 253.722,
+        "gloss": "needs"
+      },
+      {
+        "word": "考虑",
+        "pinyin": "kǎo lǜ",
+        "startTime": 253.722,
+        "endTime": 254.483,
+        "gloss": "consider"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 254.483,
+        "endTime": 255.424,
+        "gloss": "many many"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 255.424,
+        "endTime": 255.965,
+        "gloss": "issues"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 256.946,
+        "endTime": 257.146,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Because he needs to consider many, many issues, right."
+  },
+  {
+    "startTime": 257.166,
+    "endTime": 259.299,
+    "fullTextZH": "这是第三个选择。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 257.206,
+        "endTime": 257.649,
+        "gloss": "this is"
+      },
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 257.649,
+        "endTime": 258.434,
+        "gloss": "third"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 258.434,
+        "endTime": 259.259,
+        "gloss": "choice"
+      }
+    ],
+    "fullTextEN": "This is the third choice."
+  },
+  {
+    "startTime": 259.866,
+    "endTime": 266.466,
+    "fullTextZH": "然后我们看第四个选择是，完全不考虑，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 259.946,
+        "endTime": 260.227,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 260.227,
+        "endTime": 260.608,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 260.608,
+        "endTime": 261.23,
+        "gloss": "look"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 261.23,
+        "endTime": 262.333,
+        "gloss": "fourth"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 262.333,
+        "endTime": 262.915,
+        "gloss": "choice"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 262.915,
+        "endTime": 263.657,
+        "gloss": "is"
+      },
+      {
+        "word": "完全",
+        "pinyin": "wán quán",
+        "startTime": 263.738,
+        "endTime": 265.242,
+        "gloss": "completely"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 265.242,
+        "endTime": 265.563,
+        "gloss": "not"
+      },
+      {
+        "word": "考虑",
+        "pinyin": "kǎo lǜ",
+        "startTime": 265.563,
+        "endTime": 266.426,
+        "gloss": "consider"
+      }
+    ],
+    "fullTextEN": "Then we look at the fourth choice, which is, not considering at all,"
+  },
+  {
+    "startTime": 267.266,
+    "endTime": 271.466,
+    "fullTextZH": "就是你一定不要生三个孩子。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 267.346,
+        "endTime": 267.728,
+        "gloss": "means"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 267.728,
+        "endTime": 268.13,
+        "gloss": "you"
+      },
+      {
+        "word": "一定",
+        "pinyin": "yí dìng",
+        "startTime": 268.13,
+        "endTime": 268.612,
+        "gloss": "definitely"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 268.612,
+        "endTime": 269.135,
+        "gloss": "don't want"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 269.135,
+        "endTime": 270.22,
+        "gloss": "have"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 270.22,
+        "endTime": 270.582,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 270.582,
+        "endTime": 271.426,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "It means you definitely don't want to have three children."
+  },
+  {
+    "startTime": 272.933,
+    "endTime": 277.866,
+    "fullTextZH": "你们觉得中国人投了哪一个？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 272.933,
+        "endTime": 273.735,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 273.735,
+        "endTime": 274.617,
+        "gloss": "think"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 274.617,
+        "endTime": 275.159,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 275.159,
+        "endTime": 275.68,
+        "gloss": "people"
+      },
+      {
+        "word": "投",
+        "pinyin": "tóu",
+        "startTime": 275.68,
+        "endTime": 276.162,
+        "gloss": "vote"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 276.162,
+        "endTime": 276.543,
+        "gloss": "le"
+      },
+      {
+        "word": "哪",
+        "pinyin": "nǎ",
+        "startTime": 276.543,
+        "endTime": 276.924,
+        "gloss": "which"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 276.924,
+        "endTime": 277.826,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "Which one do you think the Chinese people voted for?"
+  },
+  {
+    "startTime": 278.6,
+    "endTime": 281.533,
+    "fullTextZH": "我觉得非常有意思，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 278.6,
+        "endTime": 278.841,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 278.841,
+        "endTime": 279.645,
+        "gloss": "think"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 279.645,
+        "endTime": 280.468,
+        "gloss": "very"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 280.468,
+        "endTime": 281.493,
+        "gloss": "interesting"
+      }
+    ],
+    "fullTextEN": "I think it's very interesting,"
+  },
+  {
+    "startTime": 281.766,
+    "endTime": 289.066,
+    "fullTextZH": "因为90%多的人投了第四个。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 281.866,
+        "endTime": 283.19,
+        "gloss": "because"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 285.677,
+        "endTime": 285.978,
+        "gloss": "more"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 285.978,
+        "endTime": 286.158,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 286.158,
+        "endTime": 286.9,
+        "gloss": "people"
+      },
+      {
+        "word": "投",
+        "pinyin": "tóu",
+        "startTime": 286.9,
+        "endTime": 287.261,
+        "gloss": "vote"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 287.261,
+        "endTime": 287.843,
+        "gloss": "le"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 287.843,
+        "endTime": 289.026,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "Because more than 90% of people voted for the fourth one."
+  },
+  {
+    "startTime": 289.133,
+    "endTime": 292.899,
+    "fullTextZH": "对，第四个就是完全不考虑。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 289.193,
+        "endTime": 289.373,
+        "gloss": "yes"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 289.454,
+        "endTime": 290.135,
+        "gloss": "fourth"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 290.135,
+        "endTime": 290.896,
+        "gloss": "means"
+      },
+      {
+        "word": "完全",
+        "pinyin": "wán quán",
+        "startTime": 290.896,
+        "endTime": 291.917,
+        "gloss": "completely"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 291.917,
+        "endTime": 292.158,
+        "gloss": "not"
+      },
+      {
+        "word": "考虑",
+        "pinyin": "kǎo lǜ",
+        "startTime": 292.158,
+        "endTime": 292.859,
+        "gloss": "consider"
+      }
+    ],
+    "fullTextEN": "Yes, the fourth one means not considering at all."
+  },
+  {
+    "startTime": 293.366,
+    "endTime": 297.599,
+    "fullTextZH": "所以我觉得真的有很多中国人很怕，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 293.386,
+        "endTime": 293.888,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 293.888,
+        "endTime": 294.128,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 294.128,
+        "endTime": 294.69,
+        "gloss": "think"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 294.69,
+        "endTime": 295.071,
+        "gloss": "really"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 295.071,
+        "endTime": 295.252,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 295.252,
+        "endTime": 295.713,
+        "gloss": "many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 295.713,
+        "endTime": 296.114,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 296.114,
+        "endTime": 296.556,
+        "gloss": "people"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 296.556,
+        "endTime": 296.977,
+        "gloss": "very"
+      },
+      {
+        "word": "怕",
+        "pinyin": "pà",
+        "startTime": 296.977,
+        "endTime": 297.559,
+        "gloss": "afraid"
+      }
+    ],
+    "fullTextEN": "So I think many Chinese people are really afraid,"
+  },
+  {
+    "startTime": 297.7,
+    "endTime": 301.266,
+    "fullTextZH": "生孩子，因为孩子很贵，",
+    "words": [
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 297.72,
+        "endTime": 298.001,
+        "gloss": "give birth"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 298.001,
+        "endTime": 298.401,
+        "gloss": "children"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 299.022,
+        "endTime": 299.723,
+        "gloss": "because"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 299.723,
+        "endTime": 300.364,
+        "gloss": "children"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 300.364,
+        "endTime": 300.685,
+        "gloss": "very"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 300.685,
+        "endTime": 301.226,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "of having children, because children are very expensive,"
+  },
+  {
+    "startTime": 301.333,
+    "endTime": 304.199,
+    "fullTextZH": "在中国特别特别贵。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 301.433,
+        "endTime": 301.674,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 301.674,
+        "endTime": 302.776,
+        "gloss": "China"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 302.776,
+        "endTime": 303.217,
+        "gloss": "especially"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 303.217,
+        "endTime": 303.618,
+        "gloss": "especially"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 303.618,
+        "endTime": 304.159,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "especially very expensive in China."
+  },
+  {
+    "startTime": 304.7,
+    "endTime": 308.9,
+    "fullTextZH": "我觉得这个媒体发，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 304.7,
+        "endTime": 304.961,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 304.961,
+        "endTime": 305.705,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 305.705,
+        "endTime": 306.046,
+        "gloss": "this"
+      },
+      {
+        "word": "媒体",
+        "pinyin": "méi tǐ",
+        "startTime": 306.046,
+        "endTime": 307.312,
+        "gloss": "media"
+      },
+      {
+        "word": "发",
+        "pinyin": "fā",
+        "startTime": 307.312,
+        "endTime": 308.398,
+        "gloss": "post"
+      }
+    ],
+    "fullTextEN": "I think this media post,"
+  },
+  {
+    "startTime": 309.333,
+    "endTime": 309.899,
+    "fullTextZH": "这个，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 309.414,
+        "endTime": 309.859,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "this,"
+  },
+  {
+    "startTime": 309.9,
+    "endTime": 315.066,
+    "fullTextZH": "是因为它要鼓励大家去生三个孩子，",
+    "words": [
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 309.94,
+        "endTime": 310.981,
+        "gloss": "is because"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 310.981,
+        "endTime": 311.181,
+        "gloss": "it"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 311.181,
+        "endTime": 311.542,
+        "gloss": "wants"
+      },
+      {
+        "word": "鼓励",
+        "pinyin": "gǔ lì",
+        "startTime": 311.542,
+        "endTime": 312.283,
+        "gloss": "encourage"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 312.283,
+        "endTime": 312.964,
+        "gloss": "everyone"
+      },
+      {
+        "word": "去生",
+        "pinyin": "qù shēng",
+        "startTime": 312.964,
+        "endTime": 313.764,
+        "gloss": "to have"
+      },
+      {
+        "word": "三个",
+        "pinyin": "sān gè",
+        "startTime": 313.764,
+        "endTime": 314.225,
+        "gloss": "three"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 314.225,
+        "endTime": 315.026,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "is because it wants to encourage everyone to have three children,"
+  },
+  {
+    "startTime": 315.333,
+    "endTime": 319.299,
+    "fullTextZH": "可是很多中国人意识到，啊，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 315.353,
+        "endTime": 316.094,
+        "gloss": "but"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 316.094,
+        "endTime": 316.615,
+        "gloss": "many"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 316.615,
+        "endTime": 317.076,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 317.076,
+        "endTime": 317.496,
+        "gloss": "people"
+      },
+      {
+        "word": "意识",
+        "pinyin": "yì shí",
+        "startTime": 317.496,
+        "endTime": 318.037,
+        "gloss": "realize"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 318.037,
+        "endTime": 318.698,
+        "gloss": "to"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 318.999,
+        "endTime": 319.259,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "but many Chinese people realize, ah,"
+  },
+  {
+    "startTime": 319.533,
+    "endTime": 321.133,
+    "fullTextZH": "生一个孩子、",
+    "words": [
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 319.594,
+        "endTime": 319.877,
+        "gloss": "give birth"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 319.877,
+        "endTime": 320.201,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 320.201,
+        "endTime": 321.092,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "having one child,"
+  },
+  {
+    "startTime": 321.166,
+    "endTime": 324.799,
+    "fullTextZH": "养一个孩子非常非常贵，",
+    "words": [
+      {
+        "word": "养",
+        "pinyin": "yǎng",
+        "startTime": 321.206,
+        "endTime": 321.527,
+        "gloss": "raise"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 321.527,
+        "endTime": 321.969,
+        "gloss": "one"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 321.969,
+        "endTime": 322.872,
+        "gloss": "child"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 322.872,
+        "endTime": 323.615,
+        "gloss": "extremely"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 323.615,
+        "endTime": 324.277,
+        "gloss": "extremely"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 324.277,
+        "endTime": 324.759,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "raising one child is extremely expensive,"
+  },
+  {
+    "startTime": 324.933,
+    "endTime": 329.999,
+    "fullTextZH": "所以很多人怕，他们不敢生很多孩子，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 325.053,
+        "endTime": 325.694,
+        "gloss": "so"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 325.694,
+        "endTime": 326.134,
+        "gloss": "many"
+      },
+      {
+        "word": "人怕",
+        "pinyin": "rén pà",
+        "startTime": 326.134,
+        "endTime": 326.935,
+        "gloss": "people afraid"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 327.116,
+        "endTime": 327.776,
+        "gloss": "they"
+      },
+      {
+        "word": "不敢",
+        "pinyin": "bù gǎn",
+        "startTime": 327.776,
+        "endTime": 328.337,
+        "gloss": "don't dare"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 328.337,
+        "endTime": 328.758,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 328.758,
+        "endTime": 329.258,
+        "gloss": "many"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 329.258,
+        "endTime": 329.959,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "so many people are afraid, they don't dare to have many children,"
+  },
+  {
+    "startTime": 330.066,
+    "endTime": 334.466,
+    "fullTextZH": "因为他们觉得生活很辛苦很累。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 330.126,
+        "endTime": 330.408,
+        "gloss": "because"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 330.408,
+        "endTime": 330.789,
+        "gloss": "they"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 330.789,
+        "endTime": 331.332,
+        "gloss": "feel"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 331.332,
+        "endTime": 332.236,
+        "gloss": "life"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 332.236,
+        "endTime": 332.537,
+        "gloss": "very"
+      },
+      {
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "startTime": 332.537,
+        "endTime": 333.461,
+        "gloss": "hard"
+      },
+      {
+        "word": "很累",
+        "pinyin": "hěn lèi",
+        "startTime": 333.461,
+        "endTime": 334.426,
+        "gloss": "very tiring"
+      }
+    ],
+    "fullTextEN": "because they feel life is very hard and tiring."
+  },
+  {
+    "startTime": 335.866,
+    "endTime": 339.199,
+    "fullTextZH": "所以他们选择了第四个。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 335.866,
+        "endTime": 336.187,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 336.187,
+        "endTime": 337.031,
+        "gloss": "they"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 337.031,
+        "endTime": 337.653,
+        "gloss": "chose"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 337.653,
+        "endTime": 338.055,
+        "gloss": "completed"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 338.055,
+        "endTime": 339.159,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "So they chose the fourth option."
+  },
+  {
+    "startTime": 340.066,
+    "endTime": 343.666,
+    "fullTextZH": "我觉得这个媒体没有想到，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 340.167,
+        "endTime": 340.448,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 340.448,
+        "endTime": 341.011,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 341.011,
+        "endTime": 341.253,
+        "gloss": "this"
+      },
+      {
+        "word": "媒体",
+        "pinyin": "méi tǐ",
+        "startTime": 341.253,
+        "endTime": 342.017,
+        "gloss": "media"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 342.017,
+        "endTime": 342.781,
+        "gloss": "didn't"
+      },
+      {
+        "word": "想到",
+        "pinyin": "xiǎng dào",
+        "startTime": 342.781,
+        "endTime": 343.626,
+        "gloss": "expect"
+      }
+    ],
+    "fullTextEN": "I think this media didn't expect,"
+  },
+  {
+    "startTime": 343.666,
+    "endTime": 347.499,
+    "fullTextZH": "大部分人选择了第四个，",
+    "words": [
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 343.947,
+        "endTime": 344.83,
+        "gloss": "most"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 344.83,
+        "endTime": 345.492,
+        "gloss": "people"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 345.492,
+        "endTime": 346.094,
+        "gloss": "chose"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 346.094,
+        "endTime": 346.435,
+        "gloss": "completed"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 346.435,
+        "endTime": 347.459,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "most people chose the fourth option,"
+  },
+  {
+    "startTime": 347.933,
+    "endTime": 351.333,
+    "fullTextZH": "所以他们可能有一点点担心。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 347.933,
+        "endTime": 348.275,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 348.275,
+        "endTime": 348.919,
+        "gloss": "they"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 348.919,
+        "endTime": 349.402,
+        "gloss": "might"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 349.402,
+        "endTime": 349.563,
+        "gloss": "have"
+      },
+      {
+        "word": "一点点",
+        "pinyin": "yì diǎn diǎn",
+        "startTime": 349.563,
+        "endTime": 350.367,
+        "gloss": "a little"
+      },
+      {
+        "word": "担心",
+        "pinyin": "dān xīn",
+        "startTime": 350.367,
+        "endTime": 351.313,
+        "gloss": "worried"
+      }
+    ],
+    "fullTextEN": "so they might be a little worried."
+  },
+  {
+    "startTime": 351.366,
+    "endTime": 352.666,
+    "fullTextZH": "他们觉得，哦，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 351.447,
+        "endTime": 351.772,
+        "gloss": "they"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 351.772,
+        "endTime": 352.321,
+        "gloss": "think"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 352.341,
+        "endTime": 352.625,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "They think, oh,"
+  },
+  {
+    "startTime": 352.666,
+    "endTime": 357.966,
+    "fullTextZH": "如果很多人看到大部分人选择第四个，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 352.726,
+        "endTime": 353.449,
+        "gloss": "if"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 353.449,
+        "endTime": 353.911,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 353.911,
+        "endTime": 354.292,
+        "gloss": "people"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 354.292,
+        "endTime": 355.115,
+        "gloss": "see"
+      },
+      {
+        "word": "大部分",
+        "pinyin": "dà bù fèn",
+        "startTime": 355.115,
+        "endTime": 355.958,
+        "gloss": "most"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 355.958,
+        "endTime": 356.32,
+        "gloss": "people"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 356.32,
+        "endTime": 357.002,
+        "gloss": "chose"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 357.002,
+        "endTime": 357.926,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "if many people see most people chose the fourth option,"
+  },
+  {
+    "startTime": 358.0,
+    "endTime": 361.533,
+    "fullTextZH": "可能很多人也被影响，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 358.12,
+        "endTime": 358.883,
+        "gloss": "maybe"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 358.883,
+        "endTime": 359.365,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 359.365,
+        "endTime": 359.686,
+        "gloss": "people"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 359.686,
+        "endTime": 360.329,
+        "gloss": "also"
+      },
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 360.329,
+        "endTime": 360.63,
+        "gloss": "be"
+      },
+      {
+        "word": "影响",
+        "pinyin": "yǐng xiǎng",
+        "startTime": 360.63,
+        "endTime": 361.493,
+        "gloss": "influenced"
+      }
+    ],
+    "fullTextEN": "maybe many people will also be influenced,"
+  },
+  {
+    "startTime": 362.0,
+    "endTime": 364.2,
+    "fullTextZH": "然后怕生孩子。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 362.061,
+        "endTime": 362.565,
+        "gloss": "then"
+      },
+      {
+        "word": "怕生",
+        "pinyin": "pà shēng",
+        "startTime": 362.565,
+        "endTime": 363.332,
+        "gloss": "afraid to have"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 363.332,
+        "endTime": 364.16,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "and then afraid to have children."
+  },
+  {
+    "startTime": 364.966,
+    "endTime": 370.066,
+    "fullTextZH": "所以这个媒体把这个微博删了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 364.986,
+        "endTime": 365.769,
+        "gloss": "so"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 365.769,
+        "endTime": 366.01,
+        "gloss": "this"
+      },
+      {
+        "word": "媒体",
+        "pinyin": "méi tǐ",
+        "startTime": 366.01,
+        "endTime": 366.954,
+        "gloss": "media"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 366.954,
+        "endTime": 367.396,
+        "gloss": "put"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 367.396,
+        "endTime": 367.897,
+        "gloss": "this"
+      },
+      {
+        "word": "微博",
+        "pinyin": "wēi bó",
+        "startTime": 367.897,
+        "endTime": 368.982,
+        "gloss": "Weibo"
+      },
+      {
+        "word": "删",
+        "pinyin": "shān",
+        "startTime": 368.982,
+        "endTime": 369.303,
+        "gloss": "delete"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 369.303,
+        "endTime": 370.026,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "So this media deleted the Weibo post."
+  },
+  {
+    "startTime": 370.766,
+    "endTime": 375.699,
+    "fullTextZH": "对，这就是最近的中国新闻。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 370.886,
+        "endTime": 371.087,
+        "gloss": "yes"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 371.508,
+        "endTime": 371.889,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 371.889,
+        "endTime": 373.273,
+        "gloss": "is"
+      },
+      {
+        "word": "最近",
+        "pinyin": "zuì jìn",
+        "startTime": 373.273,
+        "endTime": 373.995,
+        "gloss": "recent"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 373.995,
+        "endTime": 374.315,
+        "gloss": "of"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 374.315,
+        "endTime": 374.877,
+        "gloss": "China"
+      },
+      {
+        "word": "新闻",
+        "pinyin": "xīn wén",
+        "startTime": 374.877,
+        "endTime": 375.659,
+        "gloss": "news"
+      }
+    ],
+    "fullTextEN": "Yes, this is the latest Chinese news."
+  },
+  {
+    "startTime": 375.966,
+    "endTime": 378.933,
+    "fullTextZH": "我觉得太有意思了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 376.066,
+        "endTime": 376.407,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 376.407,
+        "endTime": 377.129,
+        "gloss": "think"
+      },
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 377.129,
+        "endTime": 377.61,
+        "gloss": "too"
+      },
+      {
+        "word": "有意思",
+        "pinyin": "yǒu yì si",
+        "startTime": 377.61,
+        "endTime": 378.412,
+        "gloss": "interesting"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 378.412,
+        "endTime": 378.893,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I think it's very interesting."
+  },
+  {
+    "startTime": 379.1,
+    "endTime": 380.666,
+    "fullTextZH": "你觉得呢？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 379.22,
+        "endTime": 379.642,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 379.642,
+        "endTime": 380.024,
+        "gloss": "think"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 380.024,
+        "endTime": 380.626,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What do you think?"
+  },
+  {
+    "startTime": 381.533,
+    "endTime": 387.466,
+    "fullTextZH": "你觉得独生子女政策好不好？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 381.553,
+        "endTime": 381.794,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 381.794,
+        "endTime": 382.856,
+        "gloss": "think"
+      },
+      {
+        "word": "独生子女",
+        "pinyin": "dú shēng zǐ nǚ",
+        "startTime": 382.856,
+        "endTime": 384.479,
+        "gloss": "one-child"
+      },
+      {
+        "word": "政策",
+        "pinyin": "zhèng cè",
+        "startTime": 384.479,
+        "endTime": 385.782,
+        "gloss": "policy"
+      },
+      {
+        "word": "好不好",
+        "pinyin": "hǎo bù hǎo",
+        "startTime": 385.782,
+        "endTime": 387.426,
+        "gloss": "good or not"
+      }
+    ],
+    "fullTextEN": "Do you think the one-child policy is good?"
+  },
+  {
+    "startTime": 388.133,
+    "endTime": 390.533,
+    "fullTextZH": "如果好，为什么好？",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 388.153,
+        "endTime": 388.577,
+        "gloss": "if"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 388.577,
+        "endTime": 389.262,
+        "gloss": "good"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 389.283,
+        "endTime": 389.928,
+        "gloss": "why"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 389.928,
+        "endTime": 390.493,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "If it's good, why is it good?"
+  },
+  {
+    "startTime": 390.533,
+    "endTime": 391.966,
+    "fullTextZH": "如果不好，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 390.634,
+        "endTime": 391.098,
+        "gloss": "if"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 391.098,
+        "endTime": 391.926,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "If it's not good,"
+  },
+  {
+    "startTime": 392.133,
+    "endTime": 393.466,
+    "fullTextZH": "为什么不好？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 392.173,
+        "endTime": 392.719,
+        "gloss": "why"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 392.719,
+        "endTime": 393.426,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Why is it not good?"
+  },
+  {
+    "startTime": 393.733,
+    "endTime": 398.699,
+    "fullTextZH": "你可以留言和我讨论，好。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 393.853,
+        "endTime": 394.294,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 394.294,
+        "endTime": 394.934,
+        "gloss": "can"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 394.934,
+        "endTime": 395.856,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 395.856,
+        "endTime": 396.156,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 396.156,
+        "endTime": 396.737,
+        "gloss": "me"
+      },
+      {
+        "word": "讨论",
+        "pinyin": "tǎo lùn",
+        "startTime": 396.737,
+        "endTime": 397.237,
+        "gloss": "discuss"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 398.078,
+        "endTime": 398.659,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "You can leave a comment and discuss with me, okay."
+  },
+  {
+    "startTime": 398.733,
+    "endTime": 401.299,
+    "fullTextZH": "这就是今天的视频，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 398.813,
+        "endTime": 399.054,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 399.054,
+        "endTime": 399.675,
+        "gloss": "is"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 399.675,
+        "endTime": 400.237,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 400.237,
+        "endTime": 400.417,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 400.417,
+        "endTime": 401.259,
+        "gloss": "video"
+      }
+    ],
+    "fullTextEN": "This is today's video,"
+  },
+  {
+    "startTime": 401.3,
+    "endTime": 404.7,
+    "fullTextZH": "我们下次见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 401.38,
+        "endTime": 402.266,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 402.266,
+        "endTime": 403.251,
+        "gloss": "next time"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 403.251,
+        "endTime": 403.654,
+        "gloss": "see"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 403.754,
+        "endTime": 404.66,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

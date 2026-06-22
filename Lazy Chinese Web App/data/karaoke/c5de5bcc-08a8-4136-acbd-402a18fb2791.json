@@ -1,0 +1,2552 @@
+[
+  {
+    "startTime": 0.366,
+    "endTime": 1.233,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.467,
+        "endTime": 1.193,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 2.5,
+    "endTime": 5.533,
+    "fullTextZH": "很久很久以前。",
+    "words": [
+      {
+        "word": "很久很久",
+        "pinyin": "hěn jiǔ hěn jiǔ",
+        "startTime": 2.52,
+        "endTime": 4.549,
+        "gloss": "very long very long"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 4.549,
+        "endTime": 5.513,
+        "gloss": "ago"
+      }
+    ],
+    "fullTextEN": "A long, long time ago."
+  },
+  {
+    "startTime": 6.533,
+    "endTime": 8.566,
+    "fullTextZH": "有两个人。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 6.593,
+        "endTime": 7.298,
+        "gloss": "there is"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 7.298,
+        "endTime": 8.002,
+        "gloss": "two"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 8.002,
+        "endTime": 8.526,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "There were two people."
+  },
+  {
+    "startTime": 9.9,
+    "endTime": 12.133,
+    "fullTextZH": "两个老人。",
+    "words": [
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 9.92,
+        "endTime": 11.147,
+        "gloss": "two"
+      },
+      {
+        "word": "老人",
+        "pinyin": "lǎo rén",
+        "startTime": 11.147,
+        "endTime": 12.113,
+        "gloss": "old people"
+      }
+    ],
+    "fullTextEN": "Two old people."
+  },
+  {
+    "startTime": 13.1,
+    "endTime": 13.966,
+    "fullTextZH": "老人。",
+    "words": [
+      {
+        "word": "老人",
+        "pinyin": "lǎo rén",
+        "startTime": 13.14,
+        "endTime": 13.946,
+        "gloss": "old people"
+      }
+    ],
+    "fullTextEN": "Old people."
+  },
+  {
+    "startTime": 14.666,
+    "endTime": 17.333,
+    "fullTextZH": "一个是老爷爷。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 14.746,
+        "endTime": 15.588,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 15.588,
+        "endTime": 16.37,
+        "gloss": "is"
+      },
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 16.37,
+        "endTime": 17.293,
+        "gloss": "old grandpa"
+      }
+    ],
+    "fullTextEN": "One is an old grandpa."
+  },
+  {
+    "startTime": 18.166,
+    "endTime": 22.633,
+    "fullTextZH": "老爷爷他叫Henry。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 18.226,
+        "endTime": 20.349,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 20.349,
+        "endTime": 21.091,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 21.091,
+        "endTime": 21.111,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "The old grandpa is called Henry."
+  },
+  {
+    "startTime": 23.566,
+    "endTime": 26.233,
+    "fullTextZH": "一个是老奶奶。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 23.606,
+        "endTime": 24.348,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 24.348,
+        "endTime": 25.05,
+        "gloss": "is"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 25.05,
+        "endTime": 26.193,
+        "gloss": "old grandma"
+      }
+    ],
+    "fullTextEN": "One is an old grandma."
+  },
+  {
+    "startTime": 27.366,
+    "endTime": 31.233,
+    "fullTextZH": "老奶奶她叫Barbara。",
+    "words": [
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 27.426,
+        "endTime": 29.189,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 29.189,
+        "endTime": 29.67,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 29.67,
+        "endTime": 30.251,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "The old grandma is called Barbara."
+  },
+  {
+    "startTime": 32.533,
+    "endTime": 39.633,
+    "fullTextZH": "老爷爷和老奶奶很老、很老、很老、很老。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 32.613,
+        "endTime": 33.696,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 33.696,
+        "endTime": 34.358,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 34.358,
+        "endTime": 35.622,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 35.622,
+        "endTime": 36.324,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 36.324,
+        "endTime": 36.685,
+        "gloss": "old"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 36.825,
+        "endTime": 37.266,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 37.266,
+        "endTime": 38.249,
+        "gloss": "old"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 38.269,
+        "endTime": 38.67,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 38.67,
+        "endTime": 38.891,
+        "gloss": "old"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 38.971,
+        "endTime": 39.252,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 39.252,
+        "endTime": 39.593,
+        "gloss": "old"
+      }
+    ],
+    "fullTextEN": "The old grandpa and old grandma are very, very, very, very old."
+  },
+  {
+    "startTime": 41.266,
+    "endTime": 46.466,
+    "fullTextZH": "老爷爷100岁，100岁。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 41.266,
+        "endTime": 42.973,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 43.555,
+        "endTime": 44.639,
+        "gloss": "years"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 45.984,
+        "endTime": 46.426,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "The old grandpa is 100 years old, 100 years old."
+  },
+  {
+    "startTime": 47.466,
+    "endTime": 51.166,
+    "fullTextZH": "老奶奶也100岁。",
+    "words": [
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 47.506,
+        "endTime": 48.572,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 48.572,
+        "endTime": 48.652,
+        "gloss": "also"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 50.683,
+        "endTime": 51.146,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "The old grandma is also 100 years old."
+  },
+  {
+    "startTime": 52.133,
+    "endTime": 56.666,
+    "fullTextZH": "他们都很老、很老。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 52.173,
+        "endTime": 53.437,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 53.437,
+        "endTime": 54.781,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.781,
+        "endTime": 55.402,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 55.402,
+        "endTime": 55.763,
+        "gloss": "old"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 55.884,
+        "endTime": 56.265,
+        "gloss": "very"
+      },
+      {
+        "word": "老",
+        "pinyin": "lǎo",
+        "startTime": 56.265,
+        "endTime": 56.626,
+        "gloss": "old"
+      }
+    ],
+    "fullTextEN": "They are both very, very old."
+  },
+  {
+    "startTime": 57.866,
+    "endTime": 64.066,
+    "fullTextZH": "老爷爷和老奶奶结婚很多、很多年。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 57.906,
+        "endTime": 58.789,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 58.789,
+        "endTime": 59.291,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 59.291,
+        "endTime": 60.715,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 60.715,
+        "endTime": 61.999,
+        "gloss": "married"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 61.999,
+        "endTime": 62.702,
+        "gloss": "many"
+      },
+      {
+        "word": "很多年",
+        "pinyin": "hěn duō nián",
+        "startTime": 62.862,
+        "endTime": 64.026,
+        "gloss": "many years"
+      }
+    ],
+    "fullTextEN": "The old grandpa and old grandma have been married for many, many years."
+  },
+  {
+    "startTime": 64.5,
+    "endTime": 65.3,
+    "fullTextZH": "嗯。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 64.562,
+        "endTime": 65.259,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm."
+  },
+  {
+    "startTime": 65.333,
+    "endTime": 69.5,
+    "fullTextZH": "他们结婚70年。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 65.393,
+        "endTime": 66.255,
+        "gloss": "they"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 66.255,
+        "endTime": 68.318,
+        "gloss": "married"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 68.979,
+        "endTime": 69.46,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "They have been married for 70 years."
+  },
+  {
+    "startTime": 70.333,
+    "endTime": 77.066,
+    "fullTextZH": "7123456770年。",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 76.505,
+        "endTime": 77.026,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "7123456770 years."
+  },
+  {
+    "startTime": 78.433,
+    "endTime": 79.5,
+    "fullTextZH": "70年。",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 79.037,
+        "endTime": 79.46,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "70 years."
+  },
+  {
+    "startTime": 81.033,
+    "endTime": 86.566,
+    "fullTextZH": "结婚第一年，他们生了一个孩子。",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 81.033,
+        "endTime": 82.055,
+        "gloss": "married"
+      },
+      {
+        "word": "第一年",
+        "pinyin": "dì yī nián",
+        "startTime": 82.055,
+        "endTime": 83.399,
+        "gloss": "first year"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 83.579,
+        "endTime": 84.281,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 84.281,
+        "endTime": 84.722,
+        "gloss": "gave birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 84.722,
+        "endTime": 85.243,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 85.243,
+        "endTime": 85.644,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 85.644,
+        "endTime": 86.526,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "In the first year of marriage, they had a child."
+  },
+  {
+    "startTime": 87.466,
+    "endTime": 89.566,
+    "fullTextZH": "他叫\"第一\"。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 87.506,
+        "endTime": 87.809,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 87.809,
+        "endTime": 87.971,
+        "gloss": "called"
+      },
+      {
+        "word": "第一",
+        "pinyin": "dì yī",
+        "startTime": 89.021,
+        "endTime": 89.526,
+        "gloss": "first"
+      }
+    ],
+    "fullTextEN": "He is called \"First\"."
+  },
+  {
+    "startTime": 90.333,
+    "endTime": 97.566,
+    "fullTextZH": "结婚第二年，他们生了一个孩子。",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 90.934,
+        "endTime": 93.238,
+        "gloss": "marry"
+      },
+      {
+        "word": "第二年",
+        "pinyin": "dì èr nián",
+        "startTime": 93.238,
+        "endTime": 94.42,
+        "gloss": "second year"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 94.601,
+        "endTime": 95.162,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 95.162,
+        "endTime": 95.562,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 95.562,
+        "endTime": 96.163,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 96.163,
+        "endTime": 96.584,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 96.584,
+        "endTime": 97.105,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "In the second year of marriage, they had a child."
+  },
+  {
+    "startTime": 97.933,
+    "endTime": 99.866,
+    "fullTextZH": "他叫第二。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 97.973,
+        "endTime": 98.255,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 98.255,
+        "endTime": 99.0,
+        "gloss": "called"
+      },
+      {
+        "word": "第二",
+        "pinyin": "dì èr",
+        "startTime": 99.0,
+        "endTime": 99.826,
+        "gloss": "second"
+      }
+    ],
+    "fullTextEN": "He is called Second."
+  },
+  {
+    "startTime": 101.533,
+    "endTime": 106.433,
+    "fullTextZH": "结婚第三年，他们生了一个孩子。",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 101.533,
+        "endTime": 102.617,
+        "gloss": "marry"
+      },
+      {
+        "word": "第三年",
+        "pinyin": "dì sān nián",
+        "startTime": 102.617,
+        "endTime": 103.682,
+        "gloss": "third year"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 103.822,
+        "endTime": 104.324,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 104.324,
+        "endTime": 104.706,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 104.706,
+        "endTime": 105.067,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 105.067,
+        "endTime": 105.469,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 105.469,
+        "endTime": 106.393,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "In the third year of marriage, they had a child."
+  },
+  {
+    "startTime": 106.566,
+    "endTime": 108.1,
+    "fullTextZH": "叫第三。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 106.627,
+        "endTime": 107.373,
+        "gloss": "called"
+      },
+      {
+        "word": "第三",
+        "pinyin": "dì sān",
+        "startTime": 107.373,
+        "endTime": 108.06,
+        "gloss": "third"
+      }
+    ],
+    "fullTextEN": "Called Third."
+  },
+  {
+    "startTime": 109.266,
+    "endTime": 114.333,
+    "fullTextZH": "结婚第四年，他们生了一个孩子。",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 109.266,
+        "endTime": 110.087,
+        "gloss": "marry"
+      },
+      {
+        "word": "第四年",
+        "pinyin": "dì sì nián",
+        "startTime": 110.087,
+        "endTime": 110.668,
+        "gloss": "fourth year"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 111.449,
+        "endTime": 111.93,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 111.93,
+        "endTime": 112.33,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 112.33,
+        "endTime": 112.891,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 112.891,
+        "endTime": 113.352,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 113.352,
+        "endTime": 114.313,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "In the fourth year of marriage, they had a child."
+  },
+  {
+    "startTime": 114.5,
+    "endTime": 116.033,
+    "fullTextZH": "叫第四。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 114.54,
+        "endTime": 115.186,
+        "gloss": "called"
+      },
+      {
+        "word": "第四",
+        "pinyin": "dì sì",
+        "startTime": 115.186,
+        "endTime": 115.993,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "Called Fourth."
+  },
+  {
+    "startTime": 116.833,
+    "endTime": 119.366,
+    "fullTextZH": "结婚第五年，",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 116.853,
+        "endTime": 118.079,
+        "gloss": "marry"
+      },
+      {
+        "word": "第五年",
+        "pinyin": "dì wǔ nián",
+        "startTime": 118.079,
+        "endTime": 119.326,
+        "gloss": "fifth year"
+      }
+    ],
+    "fullTextEN": "In the fifth year of marriage,"
+  },
+  {
+    "startTime": 119.666,
+    "endTime": 125.966,
+    "fullTextZH": "他们结婚第五年，他们生了一个孩子。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 119.706,
+        "endTime": 121.331,
+        "gloss": "they"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 121.331,
+        "endTime": 122.274,
+        "gloss": "marry"
+      },
+      {
+        "word": "第五年",
+        "pinyin": "dì wǔ nián",
+        "startTime": 122.274,
+        "endTime": 122.956,
+        "gloss": "fifth year"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 123.619,
+        "endTime": 124.1,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 124.1,
+        "endTime": 124.401,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 124.401,
+        "endTime": 124.622,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 124.622,
+        "endTime": 125.063,
+        "gloss": "a"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 125.063,
+        "endTime": 125.545,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "In their fifth year of marriage, they had a child."
+  },
+  {
+    "startTime": 126.133,
+    "endTime": 127.766,
+    "fullTextZH": "叫第五。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 126.153,
+        "endTime": 126.738,
+        "gloss": "called"
+      },
+      {
+        "word": "第五",
+        "pinyin": "dì wǔ",
+        "startTime": 126.738,
+        "endTime": 127.726,
+        "gloss": "fifth"
+      }
+    ],
+    "fullTextEN": "Called Fifth."
+  },
+  {
+    "startTime": 129.1,
+    "endTime": 141.766,
+    "fullTextZH": "然后他们生了第六、第七、第八、第九。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 129.12,
+        "endTime": 130.04,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 130.04,
+        "endTime": 130.521,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 130.521,
+        "endTime": 130.981,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 130.981,
+        "endTime": 131.721,
+        "gloss": "le"
+      },
+      {
+        "word": "第六",
+        "pinyin": "dì liù",
+        "startTime": 131.721,
+        "endTime": 132.021,
+        "gloss": "sixth"
+      },
+      {
+        "word": "第七",
+        "pinyin": "dì qī",
+        "startTime": 133.522,
+        "endTime": 135.743,
+        "gloss": "seventh"
+      },
+      {
+        "word": "第八",
+        "pinyin": "dì bā",
+        "startTime": 135.763,
+        "endTime": 137.904,
+        "gloss": "eighth"
+      },
+      {
+        "word": "第九",
+        "pinyin": "dì jiǔ",
+        "startTime": 139.005,
+        "endTime": 141.286,
+        "gloss": "ninth"
+      }
+    ],
+    "fullTextEN": "Then they had the sixth, seventh, eighth, and ninth."
+  },
+  {
+    "startTime": 143.233,
+    "endTime": 147.233,
+    "fullTextZH": "然后他们生了第10个孩子。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 143.273,
+        "endTime": 143.916,
+        "gloss": "then"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 143.916,
+        "endTime": 144.359,
+        "gloss": "they"
+      },
+      {
+        "word": "生",
+        "pinyin": "shēng",
+        "startTime": 144.359,
+        "endTime": 144.72,
+        "gloss": "give birth"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 144.72,
+        "endTime": 145.283,
+        "gloss": "le"
+      },
+      {
+        "word": "第",
+        "pinyin": "dì",
+        "startTime": 145.283,
+        "endTime": 145.746,
+        "gloss": "tenth"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 146.067,
+        "endTime": 146.308,
+        "gloss": "ge"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 146.308,
+        "endTime": 147.193,
+        "gloss": "child"
+      }
+    ],
+    "fullTextEN": "Then they had the 10th child."
+  },
+  {
+    "startTime": 147.633,
+    "endTime": 151.933,
+    "fullTextZH": "你觉得他叫什么？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 147.673,
+        "endTime": 148.397,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 148.397,
+        "endTime": 149.783,
+        "gloss": "think"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 149.783,
+        "endTime": 150.326,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 150.326,
+        "endTime": 151.29,
+        "gloss": "called"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 151.29,
+        "endTime": 151.893,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you think he is called?"
+  },
+  {
+    "startTime": 153.1,
+    "endTime": 155.566,
+    "fullTextZH": "他叫第十？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 153.1,
+        "endTime": 153.481,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 153.481,
+        "endTime": 154.363,
+        "gloss": "called"
+      },
+      {
+        "word": "第十",
+        "pinyin": "dì shí",
+        "startTime": 154.363,
+        "endTime": 155.526,
+        "gloss": "tenth"
+      }
+    ],
+    "fullTextEN": "Is he called Tenth?"
+  },
+  {
+    "startTime": 157.733,
+    "endTime": 158.533,
+    "fullTextZH": "不对。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 157.938,
+        "endTime": 158.082,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 158.082,
+        "endTime": 158.492,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "No."
+  },
+  {
+    "startTime": 159.266,
+    "endTime": 164.933,
+    "fullTextZH": "第十个孩子叫停、停。",
+    "words": [
+      {
+        "word": "第十个",
+        "pinyin": "dì shí gè",
+        "startTime": 159.306,
+        "endTime": 160.387,
+        "gloss": "tenth"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 160.387,
+        "endTime": 161.729,
+        "gloss": "child"
+      },
+      {
+        "word": "叫停",
+        "pinyin": "jiào tíng",
+        "startTime": 161.729,
+        "endTime": 163.331,
+        "gloss": "called"
+      },
+      {
+        "word": "停",
+        "pinyin": "tíng",
+        "startTime": 164.452,
+        "endTime": 164.913,
+        "gloss": "stop"
+      }
+    ],
+    "fullTextEN": "The tenth child is called Stop, Stop."
+  },
+  {
+    "startTime": 166.433,
+    "endTime": 170.7,
+    "fullTextZH": "对，老爷爷和老奶奶觉得，",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 166.453,
+        "endTime": 166.613,
+        "gloss": "correct"
+      },
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 167.555,
+        "endTime": 168.396,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 168.396,
+        "endTime": 168.737,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 168.737,
+        "endTime": 169.839,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 169.839,
+        "endTime": 170.66,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Yes, the old grandpa and grandma thought,"
+  },
+  {
+    "startTime": 170.9,
+    "endTime": 173.833,
+    "fullTextZH": "他们有太多的孩子。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 170.94,
+        "endTime": 171.322,
+        "gloss": "they"
+      },
+      {
+        "word": "有太多",
+        "pinyin": "yǒu tài duō",
+        "startTime": 171.322,
+        "endTime": 172.708,
+        "gloss": "have too many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 172.708,
+        "endTime": 172.849,
+        "gloss": "de"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 172.849,
+        "endTime": 173.793,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "they have too many children."
+  },
+  {
+    "startTime": 173.966,
+    "endTime": 178.566,
+    "fullTextZH": "所以第十个孩子叫停。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 174.046,
+        "endTime": 175.232,
+        "gloss": "so"
+      },
+      {
+        "word": "第十个",
+        "pinyin": "dì shí gè",
+        "startTime": 175.232,
+        "endTime": 176.216,
+        "gloss": "tenth"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 176.216,
+        "endTime": 177.381,
+        "gloss": "child"
+      },
+      {
+        "word": "叫停",
+        "pinyin": "jiào tíng",
+        "startTime": 177.381,
+        "endTime": 178.526,
+        "gloss": "called stop"
+      }
+    ],
+    "fullTextEN": "So the tenth child is called Stop."
+  },
+  {
+    "startTime": 180.133,
+    "endTime": 185.4,
+    "fullTextZH": "老爷爷和老奶奶每天很忙、很忙。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 180.153,
+        "endTime": 180.994,
+        "gloss": "old grandpa"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 180.994,
+        "endTime": 181.315,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 181.315,
+        "endTime": 182.516,
+        "gloss": "old grandma"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 182.516,
+        "endTime": 183.558,
+        "gloss": "every day"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 183.558,
+        "endTime": 183.958,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 183.958,
+        "endTime": 184.399,
+        "gloss": "busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 184.619,
+        "endTime": 184.899,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 184.899,
+        "endTime": 185.32,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "The old grandpa and grandma are very busy every day."
+  },
+  {
+    "startTime": 185.933,
+    "endTime": 189.6,
+    "fullTextZH": "他们要做很多、很多东西。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 185.953,
+        "endTime": 186.394,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 186.394,
+        "endTime": 186.855,
+        "gloss": "have to"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 186.855,
+        "endTime": 187.376,
+        "gloss": "do"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 187.376,
+        "endTime": 187.917,
+        "gloss": "many"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 188.237,
+        "endTime": 188.859,
+        "gloss": "many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 188.859,
+        "endTime": 189.56,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "They have to do many, many things."
+  },
+  {
+    "startTime": 190.433,
+    "endTime": 192.133,
+    "fullTextZH": "他们要做饭，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 190.453,
+        "endTime": 190.818,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 190.818,
+        "endTime": 191.243,
+        "gloss": "need"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 191.243,
+        "endTime": 192.093,
+        "gloss": "cook"
+      }
+    ],
+    "fullTextEN": "They need to cook,"
+  },
+  {
+    "startTime": 192.5,
+    "endTime": 195.833,
+    "fullTextZH": "做饭，他们要打扫，",
+    "words": [
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 192.56,
+        "endTime": 193.223,
+        "gloss": "cook"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 193.765,
+        "endTime": 194.227,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 194.227,
+        "endTime": 194.869,
+        "gloss": "need"
+      },
+      {
+        "word": "打扫",
+        "pinyin": "dǎ sǎo",
+        "startTime": 194.869,
+        "endTime": 195.813,
+        "gloss": "clean"
+      }
+    ],
+    "fullTextEN": "After cooking, they need to clean,"
+  },
+  {
+    "startTime": 196.433,
+    "endTime": 200.5,
+    "fullTextZH": "打扫，他们要洗衣服。",
+    "words": [
+      {
+        "word": "打扫",
+        "pinyin": "dǎ sǎo",
+        "startTime": 196.493,
+        "endTime": 197.315,
+        "gloss": "clean"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 197.775,
+        "endTime": 198.156,
+        "gloss": "they"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 198.156,
+        "endTime": 198.817,
+        "gloss": "need"
+      },
+      {
+        "word": "洗衣服",
+        "pinyin": "xǐ yī fú",
+        "startTime": 198.817,
+        "endTime": 200.46,
+        "gloss": "do laundry"
+      }
+    ],
+    "fullTextEN": "After cleaning, they need to do laundry."
+  },
+  {
+    "startTime": 200.933,
+    "endTime": 203.166,
+    "fullTextZH": "洗衣服啊。",
+    "words": [
+      {
+        "word": "洗衣服",
+        "pinyin": "xǐ yī fú",
+        "startTime": 200.993,
+        "endTime": 202.603,
+        "gloss": "do laundry"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 202.603,
+        "endTime": 203.126,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Do laundry."
+  },
+  {
+    "startTime": 203.2,
+    "endTime": 206.7,
+    "fullTextZH": "他们每天很忙、很忙。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 203.26,
+        "endTime": 203.743,
+        "gloss": "they"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 203.743,
+        "endTime": 204.93,
+        "gloss": "every day"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 204.93,
+        "endTime": 205.372,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 205.372,
+        "endTime": 205.815,
+        "gloss": "busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 205.895,
+        "endTime": 206.197,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 206.197,
+        "endTime": 206.579,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "They are very busy every day."
+  },
+  {
+    "startTime": 208.133,
+    "endTime": 211.633,
+    "fullTextZH": "星期一，他们很忙、很忙。",
+    "words": [
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 208.133,
+        "endTime": 209.44,
+        "gloss": "Monday"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 209.541,
+        "endTime": 210.004,
+        "gloss": "they"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 210.004,
+        "endTime": 210.466,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 210.466,
+        "endTime": 210.486,
+        "gloss": "busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 210.929,
+        "endTime": 211.211,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 211.211,
+        "endTime": 211.593,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "On Monday, they are very busy."
+  },
+  {
+    "startTime": 212.2,
+    "endTime": 215.5,
+    "fullTextZH": "星期二，他们很忙、很忙。",
+    "words": [
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 212.2,
+        "endTime": 213.085,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 213.568,
+        "endTime": 213.951,
+        "gloss": "they"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 213.951,
+        "endTime": 214.252,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 214.252,
+        "endTime": 214.655,
+        "gloss": "busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 214.735,
+        "endTime": 214.997,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 214.997,
+        "endTime": 215.42,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "On Tuesday, they are very busy."
+  },
+  {
+    "startTime": 216.166,
+    "endTime": 225.833,
+    "fullTextZH": "星期三、星期四、星期五、星期六、星期天啊。",
+    "words": [
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 216.166,
+        "endTime": 217.507,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 217.627,
+        "endTime": 219.528,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 219.669,
+        "endTime": 221.07,
+        "gloss": "Friday"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 221.57,
+        "endTime": 222.751,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "星期天",
+        "pinyin": "xīng qī tiān",
+        "startTime": 223.491,
+        "endTime": 225.313,
+        "gloss": "Sunday"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 225.313,
+        "endTime": 225.793,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "Wednesday, Thursday, Friday, Saturday, Sunday."
+  },
+  {
+    "startTime": 226.366,
+    "endTime": 230.5,
+    "fullTextZH": "每天都很忙、很忙。",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 226.386,
+        "endTime": 227.871,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 227.871,
+        "endTime": 228.915,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 228.915,
+        "endTime": 229.176,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 229.176,
+        "endTime": 229.557,
+        "gloss": "busy"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 229.757,
+        "endTime": 229.998,
+        "gloss": "very"
+      },
+      {
+        "word": "忙",
+        "pinyin": "máng",
+        "startTime": 229.998,
+        "endTime": 230.44,
+        "gloss": "busy"
+      }
+    ],
+    "fullTextEN": "Every day is very busy."
+  },
+  {
+    "startTime": 231.5,
+    "endTime": 234.866,
+    "fullTextZH": "老爷爷和老奶奶说啊：",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 231.52,
+        "endTime": 232.382,
+        "gloss": "old man"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 232.382,
+        "endTime": 232.762,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 232.762,
+        "endTime": 233.864,
+        "gloss": "old woman"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 233.864,
+        "endTime": 234.465,
+        "gloss": "say"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 234.465,
+        "endTime": 234.826,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "The old man and old woman said:"
+  },
+  {
+    "startTime": 235.3,
+    "endTime": 239.266,
+    "fullTextZH": "\"我们爱我们的孩子，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 235.52,
+        "endTime": 236.582,
+        "gloss": "we"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 236.582,
+        "endTime": 237.603,
+        "gloss": "love"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 237.603,
+        "endTime": 237.984,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 237.984,
+        "endTime": 238.184,
+        "gloss": "of"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 238.184,
+        "endTime": 239.246,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "\"We love our children,"
+  },
+  {
+    "startTime": 239.466,
+    "endTime": 242.166,
+    "fullTextZH": "可是我们啊，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 239.526,
+        "endTime": 240.554,
+        "gloss": "but"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 240.554,
+        "endTime": 241.662,
+        "gloss": "we"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 241.662,
+        "endTime": 242.126,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "but we,"
+  },
+  {
+    "startTime": 242.5,
+    "endTime": 245.2,
+    "fullTextZH": "很累、很累啊。",
+    "words": [
+      {
+        "word": "很累",
+        "pinyin": "hěn lèi",
+        "startTime": 242.52,
+        "endTime": 243.185,
+        "gloss": "very tired"
+      },
+      {
+        "word": "很累",
+        "pinyin": "hěn lèi",
+        "startTime": 243.225,
+        "endTime": 244.696,
+        "gloss": "very tired"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 244.696,
+        "endTime": 245.16,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "are very tired."
+  },
+  {
+    "startTime": 245.466,
+    "endTime": 248.6,
+    "fullTextZH": "我们要休息啊。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 245.627,
+        "endTime": 245.948,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 245.948,
+        "endTime": 246.43,
+        "gloss": "need"
+      },
+      {
+        "word": "休息",
+        "pinyin": "xiū xī",
+        "startTime": 246.43,
+        "endTime": 248.238,
+        "gloss": "rest"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 248.238,
+        "endTime": 248.56,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "We need to rest."
+  },
+  {
+    "startTime": 248.6,
+    "endTime": 250.266,
+    "fullTextZH": "我们要休息。\"",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 248.801,
+        "endTime": 249.062,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 249.062,
+        "endTime": 249.423,
+        "gloss": "need"
+      },
+      {
+        "word": "休息",
+        "pinyin": "xiū xī",
+        "startTime": 249.423,
+        "endTime": 250.226,
+        "gloss": "rest"
+      }
+    ],
+    "fullTextEN": "We need to rest.\""
+  },
+  {
+    "startTime": 250.5,
+    "endTime": 251.3,
+    "fullTextZH": "嗯。",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 250.562,
+        "endTime": 251.259,
+        "gloss": "hmm"
+      }
+    ],
+    "fullTextEN": "Hmm."
+  },
+  {
+    "startTime": 251.866,
+    "endTime": 253.966,
+    "fullTextZH": "我们要睡觉。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 251.987,
+        "endTime": 252.431,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 252.431,
+        "endTime": 253.158,
+        "gloss": "need"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 253.158,
+        "endTime": 253.542,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "We need to sleep."
+  },
+  {
+    "startTime": 254.366,
+    "endTime": 256.1,
+    "fullTextZH": "我们要睡觉。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 254.487,
+        "endTime": 254.789,
+        "gloss": "we"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 254.789,
+        "endTime": 255.273,
+        "gloss": "need"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 255.273,
+        "endTime": 256.06,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "We need to sleep."
+  },
+  {
+    "startTime": 257.566,
+    "endTime": 261.666,
+    "fullTextZH": "老爷爷和老奶奶很累、很累。",
+    "words": [
+      {
+        "word": "老爷爷",
+        "pinyin": "lǎo yé yé",
+        "startTime": 257.586,
+        "endTime": 258.35,
+        "gloss": "old man"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 258.35,
+        "endTime": 258.812,
+        "gloss": "and"
+      },
+      {
+        "word": "老奶奶",
+        "pinyin": "lǎo nǎi nǎi",
+        "startTime": 258.812,
+        "endTime": 259.978,
+        "gloss": "old woman"
+      },
+      {
+        "word": "很累",
+        "pinyin": "hěn lèi",
+        "startTime": 259.978,
+        "endTime": 260.802,
+        "gloss": "very tired"
+      },
+      {
+        "word": "很累",
+        "pinyin": "hěn lèi",
+        "startTime": 260.842,
+        "endTime": 261.204,
+        "gloss": "very tired"
+      }
+    ],
+    "fullTextEN": "The old man and old woman are very tired."
+  },
+  {
+    "startTime": 262.166,
+    "endTime": 262.966,
+    "fullTextZH": "唉。",
+    "words": [
+      {
+        "word": "唉",
+        "pinyin": "āi",
+        "startTime": 262.228,
+        "endTime": 262.925,
+        "gloss": "sigh"
+      }
+    ],
+    "fullTextEN": "Sigh."
+  },
+  {
+    "startTime": 264.166,
+    "endTime": 267.933,
+    "fullTextZH": "你呢？你有孩子吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.266,
+        "endTime": 264.426,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 264.426,
+        "endTime": 265.468,
+        "gloss": "ne"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 265.488,
+        "endTime": 265.749,
+        "gloss": "you"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 265.749,
+        "endTime": 266.37,
+        "gloss": "have"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 266.37,
+        "endTime": 267.432,
+        "gloss": "children"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 267.432,
+        "endTime": 267.893,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "And you? Do you have children?"
+  },
+  {
+    "startTime": 269.1,
+    "endTime": 271.5,
+    "fullTextZH": "你累？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 269.181,
+        "endTime": 270.29,
+        "gloss": "you"
+      },
+      {
+        "word": "累",
+        "pinyin": "lèi",
+        "startTime": 270.29,
+        "endTime": 271.46,
+        "gloss": "tired"
+      }
+    ],
+    "fullTextEN": "Are you tired?"
+  },
+  {
+    "startTime": 272.166,
+    "endTime": 273.566,
+    "fullTextZH": "累不累？",
+    "words": [
+      {
+        "word": "累不累",
+        "pinyin": "lèi bù lèi",
+        "startTime": 272.186,
+        "endTime": 273.525,
+        "gloss": "tired-not-tired"
+      }
+    ],
+    "fullTextEN": "Tired or not?"
+  },
+  {
+    "startTime": 274.8,
+    "endTime": 277.666,
+    "fullTextZH": "你喜欢孩子吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 274.84,
+        "endTime": 275.281,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 275.281,
+        "endTime": 276.083,
+        "gloss": "like"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 276.083,
+        "endTime": 277.165,
+        "gloss": "children"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 277.165,
+        "endTime": 277.626,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like children?"
+  },
+  {
+    "startTime": 279.3,
+    "endTime": 280.1,
+    "fullTextZH": "我？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 279.485,
+        "endTime": 280.059,
+        "gloss": "I"
+      }
+    ],
+    "fullTextEN": "Me?"
+  },
+  {
+    "startTime": 280.5,
+    "endTime": 283.4,
+    "fullTextZH": "我没有孩子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 280.681,
+        "endTime": 281.507,
+        "gloss": "I"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 281.507,
+        "endTime": 282.474,
+        "gloss": "not have"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 282.474,
+        "endTime": 283.36,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "I don't have children."
+  },
+  {
+    "startTime": 284.133,
+    "endTime": 289.0,
+    "fullTextZH": "我觉得我喜欢孩子，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 284.333,
+        "endTime": 284.774,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 284.774,
+        "endTime": 286.196,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 286.196,
+        "endTime": 287.117,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 287.117,
+        "endTime": 288.019,
+        "gloss": "like"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 288.019,
+        "endTime": 288.84,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "I think I like children,"
+  },
+  {
+    "startTime": 289.233,
+    "endTime": 292.733,
+    "fullTextZH": "可是我不要孩子。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 289.273,
+        "endTime": 290.158,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 290.158,
+        "endTime": 290.963,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 290.963,
+        "endTime": 291.767,
+        "gloss": "not want"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 291.767,
+        "endTime": 292.693,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "but I don't want children."
+  },
+  {
+    "startTime": 293.9,
+    "endTime": 298.2,
+    "fullTextZH": "为什么？因为我要睡觉。",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 293.94,
+        "endTime": 294.342,
+        "gloss": "why"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 295.447,
+        "endTime": 296.331,
+        "gloss": "because"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 296.331,
+        "endTime": 297.336,
+        "gloss": "I want"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 297.336,
+        "endTime": 298.16,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "Why? Because I want to sleep."
+  },
+  {
+    "startTime": 299.0,
+    "endTime": 300.7,
+    "fullTextZH": "我不要孩子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 299.142,
+        "endTime": 299.344,
+        "gloss": "I"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 299.344,
+        "endTime": 299.81,
+        "gloss": "not want"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 299.81,
+        "endTime": 300.66,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "I don't want children."
+  },
+  {
+    "startTime": 301.333,
+    "endTime": 304.266,
+    "fullTextZH": "如果我有孩子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 301.454,
+        "endTime": 302.438,
+        "gloss": "if"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 302.438,
+        "endTime": 302.619,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 302.619,
+        "endTime": 302.84,
+        "gloss": "have"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 302.84,
+        "endTime": 304.226,
+        "gloss": "children"
+      }
+    ],
+    "fullTextEN": "If I have children,"
+  },
+  {
+    "startTime": 304.466,
+    "endTime": 307.466,
+    "fullTextZH": "我不可以睡觉。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 304.647,
+        "endTime": 304.949,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 304.949,
+        "endTime": 305.513,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 305.513,
+        "endTime": 306.64,
+        "gloss": "can"
+      },
+      {
+        "word": "睡觉",
+        "pinyin": "shuì jiào",
+        "startTime": 306.64,
+        "endTime": 307.426,
+        "gloss": "sleep"
+      }
+    ],
+    "fullTextEN": "I can't sleep."
+  }
+]

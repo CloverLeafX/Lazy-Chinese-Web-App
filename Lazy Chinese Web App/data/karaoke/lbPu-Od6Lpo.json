@@ -1,0 +1,4556 @@
+[
+  {
+    "startTime": 0.6,
+    "endTime": 1.533,
+    "fullTextZH": "你好",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.62,
+        "endTime": 0.762,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello"
+  },
+  {
+    "startTime": 2.733,
+    "endTime": 3.799,
+    "fullTextZH": "你好！",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 2.854,
+        "endTime": 3.759,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello!"
+  },
+  {
+    "startTime": 3.9,
+    "endTime": 13.466,
+    "fullTextZH": "你知道这个星期二在中国是中秋节吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 4.04,
+        "endTime": 4.66,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 4.66,
+        "endTime": 5.841,
+        "gloss": "know"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 5.841,
+        "endTime": 7.182,
+        "gloss": "this"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 7.182,
+        "endTime": 9.023,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 9.023,
+        "endTime": 9.443,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 9.443,
+        "endTime": 10.624,
+        "gloss": "China"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 10.624,
+        "endTime": 11.325,
+        "gloss": "is"
+      },
+      {
+        "word": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "startTime": 11.325,
+        "endTime": 12.966,
+        "gloss": "Mid-Autumn Festival"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 12.966,
+        "endTime": 13.426,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know that this Tuesday is the Mid-Autumn Festival in China?"
+  },
+  {
+    "startTime": 14.533,
+    "endTime": 17.133,
+    "fullTextZH": "中秋节的时候，",
+    "words": [
+      {
+        "word": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "startTime": 14.533,
+        "endTime": 15.984,
+        "gloss": "Mid-Autumn Festival"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 15.984,
+        "endTime": 16.166,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 16.166,
+        "endTime": 17.113,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "During the Mid-Autumn Festival,"
+  },
+  {
+    "startTime": 17.3,
+    "endTime": 20.966,
+    "fullTextZH": "中国人吃月饼，",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 17.38,
+        "endTime": 18.021,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 18.021,
+        "endTime": 18.983,
+        "gloss": "people"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 18.983,
+        "endTime": 19.824,
+        "gloss": "eat"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 19.824,
+        "endTime": 20.926,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "Chinese people eat mooncakes,"
+  },
+  {
+    "startTime": 21.366,
+    "endTime": 24.366,
+    "fullTextZH": "中国人赏月。",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 21.487,
+        "endTime": 22.03,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 22.03,
+        "endTime": 22.876,
+        "gloss": "people"
+      },
+      {
+        "word": "赏月",
+        "pinyin": "shǎng yuè",
+        "startTime": 22.876,
+        "endTime": 24.326,
+        "gloss": "admire moon"
+      }
+    ],
+    "fullTextEN": "Chinese people admire the moon."
+  },
+  {
+    "startTime": 25.466,
+    "endTime": 31.966,
+    "fullTextZH": "中秋节的时候月亮很大很圆，",
+    "words": [
+      {
+        "word": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "startTime": 25.486,
+        "endTime": 26.469,
+        "gloss": "Mid-Autumn Festival"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.469,
+        "endTime": 26.65,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 26.65,
+        "endTime": 27.793,
+        "gloss": "time"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 27.793,
+        "endTime": 29.017,
+        "gloss": "moon"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 29.017,
+        "endTime": 30.542,
+        "gloss": "very big"
+      },
+      {
+        "word": "很圆",
+        "pinyin": "hěn yuán",
+        "startTime": 30.542,
+        "endTime": 31.725,
+        "gloss": "very round"
+      }
+    ],
+    "fullTextEN": "During the Mid-Autumn Festival, the moon is very big and round,"
+  },
+  {
+    "startTime": 32.933,
+    "endTime": 35.333,
+    "fullTextZH": "可是月饼",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 32.953,
+        "endTime": 34.345,
+        "gloss": "but"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 34.345,
+        "endTime": 34.728,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "But mooncakes"
+  },
+  {
+    "startTime": 36.4,
+    "endTime": 40.0,
+    "fullTextZH": "我觉得不好吃，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 36.541,
+        "endTime": 36.983,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 36.983,
+        "endTime": 37.908,
+        "gloss": "think"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 37.908,
+        "endTime": 38.914,
+        "gloss": "not"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 38.914,
+        "endTime": 39.96,
+        "gloss": "tasty"
+      }
+    ],
+    "fullTextEN": "I think they don't taste good,"
+  },
+  {
+    "startTime": 40.366,
+    "endTime": 45.366,
+    "fullTextZH": "为什么中国人吃月饼？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 40.547,
+        "endTime": 42.033,
+        "gloss": "why"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 42.033,
+        "endTime": 42.595,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 42.595,
+        "endTime": 43.458,
+        "gloss": "people"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 43.458,
+        "endTime": 44.242,
+        "gloss": "eat"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 44.242,
+        "endTime": 45.306,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "Why do Chinese people eat mooncakes?"
+  },
+  {
+    "startTime": 45.866,
+    "endTime": 48.333,
+    "fullTextZH": "中国人赏月？",
+    "words": [
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 46.006,
+        "endTime": 46.528,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 46.528,
+        "endTime": 47.15,
+        "gloss": "people"
+      },
+      {
+        "word": "赏月",
+        "pinyin": "shǎng yuè",
+        "startTime": 47.15,
+        "endTime": 48.293,
+        "gloss": "admire moon"
+      }
+    ],
+    "fullTextEN": "Do Chinese people admire the moon?"
+  },
+  {
+    "startTime": 49.533,
+    "endTime": 53.766,
+    "fullTextZH": "因为我们有一个故事：",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 49.553,
+        "endTime": 50.496,
+        "gloss": "because"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 50.496,
+        "endTime": 51.539,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 51.539,
+        "endTime": 52.001,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 52.001,
+        "endTime": 52.823,
+        "gloss": "a"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 52.823,
+        "endTime": 53.726,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Because we have a story:"
+  },
+  {
+    "startTime": 55.166,
+    "endTime": 58.666,
+    "fullTextZH": "很久很久以前，",
+    "words": [
+      {
+        "word": "很久很久",
+        "pinyin": "hěn jiǔ hěn jiǔ",
+        "startTime": 55.267,
+        "endTime": 57.419,
+        "gloss": "long long"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 57.419,
+        "endTime": 58.626,
+        "gloss": "ago"
+      }
+    ],
+    "fullTextEN": "A long, long time ago,"
+  },
+  {
+    "startTime": 59.866,
+    "endTime": 63.066,
+    "fullTextZH": "我们有10个太阳，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 59.886,
+        "endTime": 60.389,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 60.389,
+        "endTime": 61.315,
+        "gloss": "have"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 61.798,
+        "endTime": 62.16,
+        "gloss": "ten"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 62.16,
+        "endTime": 63.026,
+        "gloss": "suns"
+      }
+    ],
+    "fullTextEN": "We had 10 suns,"
+  },
+  {
+    "startTime": 64.133,
+    "endTime": 65.966,
+    "fullTextZH": "不是1个，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 64.274,
+        "endTime": 65.08,
+        "gloss": "not"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 65.321,
+        "endTime": 65.926,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "Not 1,"
+  },
+  {
+    "startTime": 66.2,
+    "endTime": 67.9,
+    "fullTextZH": "不是2个，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 66.342,
+        "endTime": 66.929,
+        "gloss": "not"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 67.313,
+        "endTime": 67.86,
+        "gloss": "two"
+      }
+    ],
+    "fullTextEN": "Not 2,"
+  },
+  {
+    "startTime": 68.0,
+    "endTime": 69.533,
+    "fullTextZH": "不是5个 ，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 68.121,
+        "endTime": 68.686,
+        "gloss": "not"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 69.009,
+        "endTime": 69.493,
+        "gloss": "five"
+      }
+    ],
+    "fullTextEN": "Not 5,"
+  },
+  {
+    "startTime": 69.733,
+    "endTime": 72.699,
+    "fullTextZH": "是10个太阳，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 69.833,
+        "endTime": 70.094,
+        "gloss": "there were"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 71.196,
+        "endTime": 71.597,
+        "gloss": "ten"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 71.597,
+        "endTime": 72.659,
+        "gloss": "suns"
+      }
+    ],
+    "fullTextEN": "There were 10 suns,"
+  },
+  {
+    "startTime": 73.0,
+    "endTime": 75.766,
+    "fullTextZH": "所以很热很热，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 73.14,
+        "endTime": 74.062,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 74.062,
+        "endTime": 74.443,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 74.443,
+        "endTime": 74.844,
+        "gloss": "hot"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 74.844,
+        "endTime": 75.145,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 75.145,
+        "endTime": 75.726,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "So it was very, very hot,"
+  },
+  {
+    "startTime": 76.1,
+    "endTime": 77.533,
+    "fullTextZH": "热死了。",
+    "words": [
+      {
+        "word": "热死",
+        "pinyin": "rè sǐ",
+        "startTime": 76.161,
+        "endTime": 76.968,
+        "gloss": "hot to death"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 76.968,
+        "endTime": 77.493,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "It was unbearably hot."
+  },
+  {
+    "startTime": 78.733,
+    "endTime": 81.733,
+    "fullTextZH": "河都干了，",
+    "words": [
+      {
+        "word": "河",
+        "pinyin": "hé",
+        "startTime": 78.793,
+        "endTime": 79.961,
+        "gloss": "river"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 79.961,
+        "endTime": 80.626,
+        "gloss": "all"
+      },
+      {
+        "word": "干",
+        "pinyin": "gàn",
+        "startTime": 80.626,
+        "endTime": 81.069,
+        "gloss": "dry"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 81.069,
+        "endTime": 81.693,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "The river has dried up,"
+  },
+  {
+    "startTime": 81.9,
+    "endTime": 84.766,
+    "fullTextZH": "湖也干了，",
+    "words": [
+      {
+        "word": "湖",
+        "pinyin": "hú",
+        "startTime": 82.04,
+        "endTime": 83.303,
+        "gloss": "lake"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 83.303,
+        "endTime": 83.804,
+        "gloss": "also"
+      },
+      {
+        "word": "干",
+        "pinyin": "gàn",
+        "startTime": 83.804,
+        "endTime": 84.225,
+        "gloss": "dry"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 84.225,
+        "endTime": 84.726,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "The lake has also dried up,"
+  },
+  {
+    "startTime": 85.0,
+    "endTime": 87.666,
+    "fullTextZH": "大海也干了，",
+    "words": [
+      {
+        "word": "大海",
+        "pinyin": "dà hǎi",
+        "startTime": 85.14,
+        "endTime": 86.483,
+        "gloss": "ocean"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 86.483,
+        "endTime": 86.784,
+        "gloss": "also"
+      },
+      {
+        "word": "干",
+        "pinyin": "gàn",
+        "startTime": 86.784,
+        "endTime": 87.125,
+        "gloss": "dry"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 87.125,
+        "endTime": 87.626,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "The ocean has also dried up,"
+  },
+  {
+    "startTime": 88.333,
+    "endTime": 92.366,
+    "fullTextZH": "所以什么都死了，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 88.473,
+        "endTime": 89.457,
+        "gloss": "so"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 89.457,
+        "endTime": 90.279,
+        "gloss": "what"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 90.279,
+        "endTime": 91.543,
+        "gloss": "all"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 91.543,
+        "endTime": 91.824,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 91.824,
+        "endTime": 92.326,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "So everything has died,"
+  },
+  {
+    "startTime": 93.166,
+    "endTime": 97.766,
+    "fullTextZH": "所以人们没有水喝，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 93.206,
+        "endTime": 94.07,
+        "gloss": "so"
+      },
+      {
+        "word": "人们",
+        "pinyin": "rén men",
+        "startTime": 94.07,
+        "endTime": 94.934,
+        "gloss": "people"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 94.934,
+        "endTime": 96.44,
+        "gloss": "no"
+      },
+      {
+        "word": "水喝",
+        "pinyin": "shuǐ hē",
+        "startTime": 96.44,
+        "endTime": 97.726,
+        "gloss": "water"
+      }
+    ],
+    "fullTextEN": "So people have no water to drink,"
+  },
+  {
+    "startTime": 98.1,
+    "endTime": 101.2,
+    "fullTextZH": "没有东西吃 ，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 98.181,
+        "endTime": 99.429,
+        "gloss": "no"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 99.429,
+        "endTime": 100.495,
+        "gloss": "things"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 100.495,
+        "endTime": 101.16,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Nothing to eat,"
+  },
+  {
+    "startTime": 101.533,
+    "endTime": 104.666,
+    "fullTextZH": "们也快死了。",
+    "words": [
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 101.915,
+        "endTime": 102.577,
+        "gloss": "they"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 102.577,
+        "endTime": 102.979,
+        "gloss": "also"
+      },
+      {
+        "word": "快死了",
+        "pinyin": "kuài sǐ le",
+        "startTime": 102.979,
+        "endTime": 104.626,
+        "gloss": "about to die"
+      }
+    ],
+    "fullTextEN": "They are also about to die."
+  },
+  {
+    "startTime": 106.2,
+    "endTime": 107.866,
+    "fullTextZH": "有一个人",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 106.26,
+        "endTime": 106.521,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 106.521,
+        "endTime": 107.083,
+        "gloss": "one"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 107.083,
+        "endTime": 107.103,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "There is a person"
+  },
+  {
+    "startTime": 108.066,
+    "endTime": 110.299,
+    "fullTextZH": "他叫后羿，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 108.126,
+        "endTime": 108.649,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 108.649,
+        "endTime": 109.474,
+        "gloss": "called"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 109.474,
+        "endTime": 110.259,
+        "gloss": "Hou Yi"
+      }
+    ],
+    "fullTextEN": "His name is Hou Yi,"
+  },
+  {
+    "startTime": 110.966,
+    "endTime": 112.533,
+    "fullTextZH": "他很生气，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 111.046,
+        "endTime": 111.287,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 111.287,
+        "endTime": 111.669,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 111.669,
+        "endTime": 112.493,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "He is very angry,"
+  },
+  {
+    "startTime": 113.8,
+    "endTime": 116.066,
+    "fullTextZH": "为什么他很生气？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 113.84,
+        "endTime": 114.562,
+        "gloss": "why"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 114.562,
+        "endTime": 114.742,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 114.742,
+        "endTime": 114.963,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 114.963,
+        "endTime": 116.026,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Why is he very angry?"
+  },
+  {
+    "startTime": 116.7,
+    "endTime": 120.3,
+    "fullTextZH": "因为他的花死了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 116.841,
+        "endTime": 117.484,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 117.484,
+        "endTime": 117.746,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 117.746,
+        "endTime": 118.45,
+        "gloss": "of"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 118.45,
+        "endTime": 119.435,
+        "gloss": "flowers"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 119.435,
+        "endTime": 119.737,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 119.737,
+        "endTime": 120.26,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "Because his flowers have died,"
+  },
+  {
+    "startTime": 121.133,
+    "endTime": 124.466,
+    "fullTextZH": "因为他不可以游泳，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 121.253,
+        "endTime": 122.077,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 122.077,
+        "endTime": 122.458,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 122.458,
+        "endTime": 122.719,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 122.719,
+        "endTime": 123.643,
+        "gloss": "can"
+      },
+      {
+        "word": "游泳",
+        "pinyin": "yóu yǒng",
+        "startTime": 123.643,
+        "endTime": 124.426,
+        "gloss": "swim"
+      }
+    ],
+    "fullTextEN": "Because he cannot swim,"
+  },
+  {
+    "startTime": 125.766,
+    "endTime": 131.166,
+    "fullTextZH": "因为他看到人们都要死了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 125.766,
+        "endTime": 126.368,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 126.368,
+        "endTime": 126.89,
+        "gloss": "he"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 126.89,
+        "endTime": 128.295,
+        "gloss": "see"
+      },
+      {
+        "word": "人们",
+        "pinyin": "rén men",
+        "startTime": 128.295,
+        "endTime": 129.159,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 129.159,
+        "endTime": 129.58,
+        "gloss": "all"
+      },
+      {
+        "word": "要死",
+        "pinyin": "yào sǐ",
+        "startTime": 129.58,
+        "endTime": 130.504,
+        "gloss": "about to die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 130.504,
+        "endTime": 131.126,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "Because he sees people are about to die,"
+  },
+  {
+    "startTime": 132.1,
+    "endTime": 134.133,
+    "fullTextZH": "都对，",
+    "words": [
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 132.181,
+        "endTime": 133.509,
+        "gloss": "all"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 133.509,
+        "endTime": 134.093,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "All correct,"
+  },
+  {
+    "startTime": 134.8,
+    "endTime": 136.866,
+    "fullTextZH": "后羿很生气。",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 134.92,
+        "endTime": 135.402,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 135.402,
+        "endTime": 135.843,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 135.843,
+        "endTime": 136.826,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Hou Yi is very angry."
+  },
+  {
+    "startTime": 137.166,
+    "endTime": 139.933,
+    "fullTextZH": "因为他的花死了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 137.266,
+        "endTime": 137.667,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 137.667,
+        "endTime": 137.888,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 137.888,
+        "endTime": 138.148,
+        "gloss": "of"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 138.148,
+        "endTime": 139.091,
+        "gloss": "flowers"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 139.091,
+        "endTime": 139.331,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 139.331,
+        "endTime": 139.893,
+        "gloss": "了"
+      }
+    ],
+    "fullTextEN": "Because his flowers have died,"
+  },
+  {
+    "startTime": 140.933,
+    "endTime": 143.299,
+    "fullTextZH": "因为他不可以游泳 ，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 141.033,
+        "endTime": 141.494,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 141.494,
+        "endTime": 141.755,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 141.755,
+        "endTime": 141.936,
+        "gloss": "not"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 141.936,
+        "endTime": 142.637,
+        "gloss": "can"
+      },
+      {
+        "word": "游泳",
+        "pinyin": "yóu yǒng",
+        "startTime": 142.637,
+        "endTime": 143.259,
+        "gloss": "swim"
+      }
+    ],
+    "fullTextEN": "Because he cannot swim,"
+  },
+  {
+    "startTime": 144.533,
+    "endTime": 149.399,
+    "fullTextZH": "因为他看到人们都快死了，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 144.533,
+        "endTime": 145.034,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 145.034,
+        "endTime": 145.554,
+        "gloss": "he"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 145.554,
+        "endTime": 146.535,
+        "gloss": "see"
+      },
+      {
+        "word": "人们",
+        "pinyin": "rén men",
+        "startTime": 146.535,
+        "endTime": 147.176,
+        "gloss": "people"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 147.176,
+        "endTime": 147.457,
+        "gloss": "all"
+      },
+      {
+        "word": "快死了",
+        "pinyin": "kuài sǐ le",
+        "startTime": 147.457,
+        "endTime": 149.359,
+        "gloss": "about to die"
+      }
+    ],
+    "fullTextEN": "Because he sees people are about to die,"
+  },
+  {
+    "startTime": 150.5,
+    "endTime": 153.066,
+    "fullTextZH": "所以他很生气 。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 150.64,
+        "endTime": 151.402,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 151.402,
+        "endTime": 151.703,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 151.703,
+        "endTime": 152.184,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 152.184,
+        "endTime": 153.026,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So he is very angry."
+  },
+  {
+    "startTime": 154.8,
+    "endTime": 157.133,
+    "fullTextZH": "他做什么？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 154.82,
+        "endTime": 155.625,
+        "gloss": "he"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 155.625,
+        "endTime": 156.268,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 156.268,
+        "endTime": 157.093,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is he doing?"
+  },
+  {
+    "startTime": 157.666,
+    "endTime": 160.366,
+    "fullTextZH": "他要射下",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 157.726,
+        "endTime": 158.089,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 158.089,
+        "endTime": 159.097,
+        "gloss": "want"
+      },
+      {
+        "word": "射下",
+        "pinyin": "shè xià",
+        "startTime": 159.097,
+        "endTime": 159.701,
+        "gloss": "shoot down"
+      }
+    ],
+    "fullTextEN": "He wants to shoot down"
+  },
+  {
+    "startTime": 160.933,
+    "endTime": 161.799,
+    "fullTextZH": "太阳。",
+    "words": [
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 160.953,
+        "endTime": 161.779,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "the sun."
+  },
+  {
+    "startTime": 162.966,
+    "endTime": 168.266,
+    "fullTextZH": "所以他去一座山",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 162.986,
+        "endTime": 164.05,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 164.05,
+        "endTime": 164.592,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 164.592,
+        "endTime": 165.656,
+        "gloss": "go"
+      },
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 165.656,
+        "endTime": 166.62,
+        "gloss": "a"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 166.62,
+        "endTime": 166.64,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "So he goes to a mountain"
+  },
+  {
+    "startTime": 168.733,
+    "endTime": 171.899,
+    "fullTextZH": "一座很高很高的山，",
+    "words": [
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 168.813,
+        "endTime": 169.815,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 169.815,
+        "endTime": 170.276,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 170.276,
+        "endTime": 170.637,
+        "gloss": "tall"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 170.637,
+        "endTime": 170.977,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 170.977,
+        "endTime": 171.218,
+        "gloss": "tall"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 171.218,
+        "endTime": 171.398,
+        "gloss": "of"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 171.398,
+        "endTime": 171.879,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "a very, very tall mountain,"
+  },
+  {
+    "startTime": 172.3,
+    "endTime": 175.866,
+    "fullTextZH": "不是很矮很矮的山，对，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 172.4,
+        "endTime": 172.901,
+        "gloss": "not"
+      },
+      {
+        "word": "很矮",
+        "pinyin": "hěn ǎi",
+        "startTime": 172.901,
+        "endTime": 173.702,
+        "gloss": "very short"
+      },
+      {
+        "word": "很矮",
+        "pinyin": "hěn ǎi",
+        "startTime": 173.702,
+        "endTime": 174.223,
+        "gloss": "very short"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 174.223,
+        "endTime": 174.384,
+        "gloss": "of"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 174.384,
+        "endTime": 175.125,
+        "gloss": "mountain"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 175.265,
+        "endTime": 175.826,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "not a very, very short mountain, right,"
+  },
+  {
+    "startTime": 175.9,
+    "endTime": 178.8,
+    "fullTextZH": "他去一座山，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 175.981,
+        "endTime": 176.504,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 176.504,
+        "endTime": 177.511,
+        "gloss": "go"
+      },
+      {
+        "word": "一座",
+        "pinyin": "yī zuò",
+        "startTime": 177.511,
+        "endTime": 178.256,
+        "gloss": "a"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 178.256,
+        "endTime": 178.76,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "He goes to a mountain,"
+  },
+  {
+    "startTime": 180.1,
+    "endTime": 182.4,
+    "fullTextZH": "他要射下",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 180.14,
+        "endTime": 180.342,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 180.342,
+        "endTime": 181.432,
+        "gloss": "want"
+      },
+      {
+        "word": "射下",
+        "pinyin": "shè xià",
+        "startTime": 181.432,
+        "endTime": 181.815,
+        "gloss": "shoot down"
+      }
+    ],
+    "fullTextEN": "He wants to shoot down"
+  },
+  {
+    "startTime": 183.366,
+    "endTime": 185.299,
+    "fullTextZH": "10个太阳。",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 183.91,
+        "endTime": 184.534,
+        "gloss": "measure"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 184.534,
+        "endTime": 185.259,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "10 suns."
+  },
+  {
+    "startTime": 187.466,
+    "endTime": 190.899,
+    "fullTextZH": "所以他射下一个太阳，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 187.486,
+        "endTime": 187.928,
+        "gloss": "so"
+      },
+      {
+        "word": "他射下",
+        "pinyin": "tā shè xià",
+        "startTime": 187.928,
+        "endTime": 189.694,
+        "gloss": "he shoots down"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 189.694,
+        "endTime": 190.076,
+        "gloss": "one"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 190.076,
+        "endTime": 190.859,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "So he shoots down one sun,"
+  },
+  {
+    "startTime": 191.533,
+    "endTime": 193.866,
+    "fullTextZH": "射下2个太阳，",
+    "words": [
+      {
+        "word": "射下",
+        "pinyin": "shè xià",
+        "startTime": 191.674,
+        "endTime": 192.518,
+        "gloss": "shoot down"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 192.8,
+        "endTime": 193.021,
+        "gloss": "measure"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 193.021,
+        "endTime": 193.826,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "shoots down 2 suns,"
+  },
+  {
+    "startTime": 194.366,
+    "endTime": 196.066,
+    "fullTextZH": "3个 4个",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 194.791,
+        "endTime": 195.297,
+        "gloss": "measure"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 195.56,
+        "endTime": 195.58,
+        "gloss": "measure"
+      }
+    ],
+    "fullTextEN": "3, 4"
+  },
+  {
+    "startTime": 196.1,
+    "endTime": 198.0,
+    "fullTextZH": "5个 6个",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 196.444,
+        "endTime": 197.111,
+        "gloss": "measure"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 197.515,
+        "endTime": 197.535,
+        "gloss": "measure"
+      }
+    ],
+    "fullTextEN": "5, 6"
+  },
+  {
+    "startTime": 198.133,
+    "endTime": 199.999,
+    "fullTextZH": "7个 8个",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 198.554,
+        "endTime": 199.216,
+        "gloss": "measure"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 199.517,
+        "endTime": 199.538,
+        "gloss": "measure"
+      }
+    ],
+    "fullTextEN": "7, 8"
+  },
+  {
+    "startTime": 200.066,
+    "endTime": 200.933,
+    "fullTextZH": "9个，",
+    "words": [
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 200.409,
+        "endTime": 200.913,
+        "gloss": "measure"
+      }
+    ],
+    "fullTextEN": "9,"
+  },
+  {
+    "startTime": 201.766,
+    "endTime": 203.766,
+    "fullTextZH": "还有最后一个。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 201.806,
+        "endTime": 202.473,
+        "gloss": "also"
+      },
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 202.473,
+        "endTime": 202.998,
+        "gloss": "last"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 202.998,
+        "endTime": 203.726,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "and the last one."
+  },
+  {
+    "startTime": 204.566,
+    "endTime": 209.533,
+    "fullTextZH": "突然有一个女的来了，",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 204.726,
+        "endTime": 206.048,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 206.048,
+        "endTime": 206.268,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 206.268,
+        "endTime": 207.21,
+        "gloss": "a"
+      },
+      {
+        "word": "女",
+        "pinyin": "nǚ",
+        "startTime": 207.21,
+        "endTime": 207.65,
+        "gloss": "woman"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 207.65,
+        "endTime": 208.552,
+        "gloss": "of"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 208.552,
+        "endTime": 208.912,
+        "gloss": "come"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 208.912,
+        "endTime": 209.493,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Suddenly a woman came,"
+  },
+  {
+    "startTime": 210.3,
+    "endTime": 213.3,
+    "fullTextZH": "她叫嫦娥，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 210.32,
+        "endTime": 210.783,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 210.783,
+        "endTime": 211.931,
+        "gloss": "called"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 211.931,
+        "endTime": 213.26,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Her name is Chang'e,"
+  },
+  {
+    "startTime": 213.933,
+    "endTime": 215.899,
+    "fullTextZH": "她很漂亮，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 213.993,
+        "endTime": 214.274,
+        "gloss": "she"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 214.274,
+        "endTime": 215.859,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "She is very beautiful,"
+  },
+  {
+    "startTime": 216.333,
+    "endTime": 218.199,
+    "fullTextZH": "她说：“",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 216.393,
+        "endTime": 217.376,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 217.376,
+        "endTime": 218.159,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "She said: \""
+  },
+  {
+    "startTime": 219.3,
+    "endTime": 220.133,
+    "fullTextZH": "等一下，",
+    "words": [
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 219.3,
+        "endTime": 219.381,
+        "gloss": "wait"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 219.381,
+        "endTime": 220.113,
+        "gloss": "a moment"
+      }
+    ],
+    "fullTextEN": "Wait a moment,"
+  },
+  {
+    "startTime": 220.966,
+    "endTime": 225.066,
+    "fullTextZH": "不要射第十个太阳，",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 221.087,
+        "endTime": 222.132,
+        "gloss": "don't"
+      },
+      {
+        "word": "射",
+        "pinyin": "shè",
+        "startTime": 222.132,
+        "endTime": 223.277,
+        "gloss": "shoot"
+      },
+      {
+        "word": "第十个",
+        "pinyin": "dì shí gè",
+        "startTime": 223.277,
+        "endTime": 224.262,
+        "gloss": "tenth"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 224.262,
+        "endTime": 225.026,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "Don't shoot the tenth sun,"
+  },
+  {
+    "startTime": 225.6,
+    "endTime": 230.3,
+    "fullTextZH": "因为我们需要一个太阳。”",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 225.761,
+        "endTime": 226.363,
+        "gloss": "because"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 226.363,
+        "endTime": 227.609,
+        "gloss": "we"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 227.609,
+        "endTime": 228.673,
+        "gloss": "need"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 228.673,
+        "endTime": 229.497,
+        "gloss": "one"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 229.497,
+        "endTime": 230.26,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "because we need one sun."
+  },
+  {
+    "startTime": 230.966,
+    "endTime": 233.533,
+    "fullTextZH": "后羿想了想，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 231.086,
+        "endTime": 232.47,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 232.47,
+        "endTime": 232.831,
+        "gloss": "thought"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 232.831,
+        "endTime": 233.032,
+        "gloss": "particle"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 233.032,
+        "endTime": 233.493,
+        "gloss": "thought"
+      }
+    ],
+    "fullTextEN": "Hou Yi thought for a moment,"
+  },
+  {
+    "startTime": 234.7,
+    "endTime": 238.4,
+    "fullTextZH": "嗯～他觉得对，",
+    "words": [
+      {
+        "word": "嗯",
+        "pinyin": "ń",
+        "startTime": 234.7,
+        "endTime": 235.243,
+        "gloss": "hmm"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 235.947,
+        "endTime": 236.148,
+        "gloss": "he"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 236.148,
+        "endTime": 237.374,
+        "gloss": "thought"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 237.374,
+        "endTime": 238.36,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Hmm~ he thought it was right,"
+  },
+  {
+    "startTime": 238.5,
+    "endTime": 241.6,
+    "fullTextZH": "我们需要一个太阳，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 238.601,
+        "endTime": 239.345,
+        "gloss": "we"
+      },
+      {
+        "word": "需要",
+        "pinyin": "xū yào",
+        "startTime": 239.345,
+        "endTime": 240.131,
+        "gloss": "need"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 240.131,
+        "endTime": 240.795,
+        "gloss": "one"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 240.795,
+        "endTime": 241.56,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "We need one sun,"
+  },
+  {
+    "startTime": 242.5,
+    "endTime": 247.566,
+    "fullTextZH": "所以现在我们有一个太阳，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 242.62,
+        "endTime": 243.761,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 243.761,
+        "endTime": 244.743,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 244.743,
+        "endTime": 245.343,
+        "gloss": "we"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 245.343,
+        "endTime": 245.984,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 245.984,
+        "endTime": 246.645,
+        "gloss": "one"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 246.645,
+        "endTime": 247.526,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "so now we have one sun,"
+  },
+  {
+    "startTime": 247.866,
+    "endTime": 250.299,
+    "fullTextZH": "没有10个太阳 。",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 247.946,
+        "endTime": 248.268,
+        "gloss": "not"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 249.374,
+        "endTime": 249.615,
+        "gloss": "measure word"
+      },
+      {
+        "word": "太阳",
+        "pinyin": "tài yáng",
+        "startTime": 249.615,
+        "endTime": 250.259,
+        "gloss": "sun"
+      }
+    ],
+    "fullTextEN": "not 10 suns."
+  },
+  {
+    "startTime": 252.133,
+    "endTime": 256.066,
+    "fullTextZH": "大家都很爱后羿，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 252.193,
+        "endTime": 253.518,
+        "gloss": "everyone"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 253.518,
+        "endTime": 254.019,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 254.019,
+        "endTime": 254.481,
+        "gloss": "very"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 254.481,
+        "endTime": 255.384,
+        "gloss": "love"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 255.384,
+        "endTime": 256.026,
+        "gloss": "Hou Yi"
+      }
+    ],
+    "fullTextEN": "Everyone loves Hou Yi,"
+  },
+  {
+    "startTime": 256.6,
+    "endTime": 259.666,
+    "fullTextZH": "嫦娥也爱后羿，",
+    "words": [
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 256.72,
+        "endTime": 257.943,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 257.943,
+        "endTime": 258.404,
+        "gloss": "also"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 258.404,
+        "endTime": 258.905,
+        "gloss": "loves"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 258.905,
+        "endTime": 259.626,
+        "gloss": "Hou Yi"
+      }
+    ],
+    "fullTextEN": "Chang'e also loves Hou Yi,"
+  },
+  {
+    "startTime": 260.166,
+    "endTime": 263.799,
+    "fullTextZH": "所以他们结婚了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 260.266,
+        "endTime": 261.23,
+        "gloss": "so"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 261.23,
+        "endTime": 262.575,
+        "gloss": "they"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 262.575,
+        "endTime": 263.317,
+        "gloss": "married"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 263.317,
+        "endTime": 263.759,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "so they got married."
+  },
+  {
+    "startTime": 266.0,
+    "endTime": 271.0,
+    "fullTextZH": "女神觉得后羿做得好，",
+    "words": [
+      {
+        "word": "女神",
+        "pinyin": "nǚ shén",
+        "startTime": 266.02,
+        "endTime": 267.667,
+        "gloss": "goddess"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 267.667,
+        "endTime": 268.631,
+        "gloss": "thought"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 268.631,
+        "endTime": 269.835,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "做得好",
+        "pinyin": "zuò dé hǎo",
+        "startTime": 269.835,
+        "endTime": 270.96,
+        "gloss": "did well"
+      }
+    ],
+    "fullTextEN": "The goddess thought Hou Yi did well,"
+  },
+  {
+    "startTime": 271.733,
+    "endTime": 274.666,
+    "fullTextZH": "所以女神给",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 271.833,
+        "endTime": 272.878,
+        "gloss": "so"
+      },
+      {
+        "word": "女神",
+        "pinyin": "nǚ shén",
+        "startTime": 272.878,
+        "endTime": 274.003,
+        "gloss": "goddess"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 274.003,
+        "endTime": 274.023,
+        "gloss": "gave"
+      }
+    ],
+    "fullTextEN": "so the goddess gave"
+  },
+  {
+    "startTime": 275.333,
+    "endTime": 278.166,
+    "fullTextZH": "后羿两颗，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 275.353,
+        "endTime": 276.518,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "两颗",
+        "pinyin": "liǎng kē",
+        "startTime": 276.518,
+        "endTime": 278.126,
+        "gloss": "two pills"
+      }
+    ],
+    "fullTextEN": "Hou Yi two pills,"
+  },
+  {
+    "startTime": 278.666,
+    "endTime": 281.766,
+    "fullTextZH": "两颗不是一颗，",
+    "words": [
+      {
+        "word": "两颗",
+        "pinyin": "liǎng kē",
+        "startTime": 278.767,
+        "endTime": 279.974,
+        "gloss": "two pills"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 279.974,
+        "endTime": 280.981,
+        "gloss": "not"
+      },
+      {
+        "word": "一颗",
+        "pinyin": "yī kē",
+        "startTime": 280.981,
+        "endTime": 281.726,
+        "gloss": "one pill"
+      }
+    ],
+    "fullTextEN": "Two pills, not one,"
+  },
+  {
+    "startTime": 281.8,
+    "endTime": 282.866,
+    "fullTextZH": "两颗",
+    "words": [
+      {
+        "word": "两颗",
+        "pinyin": "liǎng kē",
+        "startTime": 282.001,
+        "endTime": 282.464,
+        "gloss": "two pills"
+      }
+    ],
+    "fullTextEN": "Two pills"
+  },
+  {
+    "startTime": 284.0,
+    "endTime": 285.366,
+    "fullTextZH": "特别的药。",
+    "words": [
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 284.06,
+        "endTime": 284.663,
+        "gloss": "special"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 284.663,
+        "endTime": 284.824,
+        "gloss": "particle"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 284.824,
+        "endTime": 285.326,
+        "gloss": "medicine"
+      }
+    ],
+    "fullTextEN": "special medicine."
+  },
+  {
+    "startTime": 286.666,
+    "endTime": 288.166,
+    "fullTextZH": "为什么特别？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 286.747,
+        "endTime": 287.335,
+        "gloss": "why"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 287.335,
+        "endTime": 288.125,
+        "gloss": "special"
+      }
+    ],
+    "fullTextEN": "Why special?"
+  },
+  {
+    "startTime": 288.5,
+    "endTime": 294.1,
+    "fullTextZH": "女神说：“这两颗药很特别，",
+    "words": [
+      {
+        "word": "女神",
+        "pinyin": "nǚ shén",
+        "startTime": 288.58,
+        "endTime": 289.785,
+        "gloss": "goddess"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 289.785,
+        "endTime": 290.025,
+        "gloss": "said"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 291.069,
+        "endTime": 291.491,
+        "gloss": "these"
+      },
+      {
+        "word": "两颗",
+        "pinyin": "liǎng kē",
+        "startTime": 291.491,
+        "endTime": 292.213,
+        "gloss": "two"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 292.213,
+        "endTime": 292.876,
+        "gloss": "pills"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 292.876,
+        "endTime": 293.197,
+        "gloss": "very"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 293.197,
+        "endTime": 294.06,
+        "gloss": "special"
+      }
+    ],
+    "fullTextEN": "The goddess said: \"These two pills are very special,"
+  },
+  {
+    "startTime": 294.166,
+    "endTime": 297.866,
+    "fullTextZH": "很神奇如果你吃了，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 294.206,
+        "endTime": 294.508,
+        "gloss": "very"
+      },
+      {
+        "word": "神奇",
+        "pinyin": "shén qí",
+        "startTime": 294.508,
+        "endTime": 295.875,
+        "gloss": "magical"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 295.875,
+        "endTime": 296.398,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 296.398,
+        "endTime": 297.122,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 297.122,
+        "endTime": 297.323,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 297.323,
+        "endTime": 297.826,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "very magical if you eat them,"
+  },
+  {
+    "startTime": 298.333,
+    "endTime": 302.999,
+    "fullTextZH": "你就可以长生不死，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 298.333,
+        "endTime": 298.573,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 298.573,
+        "endTime": 299.094,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 299.094,
+        "endTime": 300.215,
+        "gloss": "can"
+      },
+      {
+        "word": "长生不死",
+        "pinyin": "cháng shēng bù sǐ",
+        "startTime": 300.215,
+        "endTime": 302.959,
+        "gloss": "immortal"
+      }
+    ],
+    "fullTextEN": "Then you can become immortal,"
+  },
+  {
+    "startTime": 303.3,
+    "endTime": 307.2,
+    "fullTextZH": "你就可以变成仙。”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 303.401,
+        "endTime": 303.581,
+        "gloss": "you"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 303.581,
+        "endTime": 303.903,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 303.903,
+        "endTime": 304.848,
+        "gloss": "can"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 304.848,
+        "endTime": 306.315,
+        "gloss": "become"
+      },
+      {
+        "word": "仙",
+        "pinyin": "xiān",
+        "startTime": 306.315,
+        "endTime": 307.16,
+        "gloss": "fairy"
+      }
+    ],
+    "fullTextEN": "Then you can become a fairy.”"
+  },
+  {
+    "startTime": 309.133,
+    "endTime": 312.599,
+    "fullTextZH": "可是后羿没有吃，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 309.153,
+        "endTime": 309.994,
+        "gloss": "but"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 309.994,
+        "endTime": 310.856,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 310.856,
+        "endTime": 312.018,
+        "gloss": "did not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 312.018,
+        "endTime": 312.559,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "But Hou Yi did not eat it,"
+  },
+  {
+    "startTime": 313.466,
+    "endTime": 317.333,
+    "fullTextZH": "后羿把药给嫦娥，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 313.566,
+        "endTime": 314.528,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 314.528,
+        "endTime": 314.989,
+        "gloss": "gave"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 314.989,
+        "endTime": 315.65,
+        "gloss": "medicine"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 315.65,
+        "endTime": 316.291,
+        "gloss": "to"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 316.291,
+        "endTime": 317.293,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Hou Yi gave the medicine to Chang'e,"
+  },
+  {
+    "startTime": 318.166,
+    "endTime": 321.066,
+    "fullTextZH": "嫦娥也没有吃。",
+    "words": [
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 318.247,
+        "endTime": 318.931,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 318.931,
+        "endTime": 319.556,
+        "gloss": "also"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 319.556,
+        "endTime": 320.563,
+        "gloss": "did not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 320.563,
+        "endTime": 321.026,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "Chang'e also did not eat it."
+  },
+  {
+    "startTime": 322.133,
+    "endTime": 326.266,
+    "fullTextZH": "可是被一个坏人知道了，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 322.173,
+        "endTime": 323.236,
+        "gloss": "but"
+      },
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 323.236,
+        "endTime": 323.437,
+        "gloss": "by"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 323.437,
+        "endTime": 324.4,
+        "gloss": "a"
+      },
+      {
+        "word": "坏人",
+        "pinyin": "huài rén",
+        "startTime": 324.4,
+        "endTime": 325.343,
+        "gloss": "bad person"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 325.343,
+        "endTime": 325.805,
+        "gloss": "found out"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 325.805,
+        "endTime": 326.226,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "But a bad person found out,"
+  },
+  {
+    "startTime": 326.733,
+    "endTime": 328.933,
+    "fullTextZH": "他叫蓬蒙，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 326.814,
+        "endTime": 327.116,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 327.116,
+        "endTime": 327.803,
+        "gloss": "called"
+      },
+      {
+        "word": "蓬蒙",
+        "pinyin": "péng méng",
+        "startTime": 327.803,
+        "endTime": 328.893,
+        "gloss": "Peng Meng"
+      }
+    ],
+    "fullTextEN": "His name was Peng Meng,"
+  },
+  {
+    "startTime": 330.166,
+    "endTime": 333.899,
+    "fullTextZH": "他想要这两颗药，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 330.206,
+        "endTime": 330.748,
+        "gloss": "he"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 330.748,
+        "endTime": 331.812,
+        "gloss": "wanted"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 331.812,
+        "endTime": 332.454,
+        "gloss": "these"
+      },
+      {
+        "word": "两颗",
+        "pinyin": "liǎng kē",
+        "startTime": 332.454,
+        "endTime": 333.317,
+        "gloss": "two"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 333.317,
+        "endTime": 333.859,
+        "gloss": "pills"
+      }
+    ],
+    "fullTextEN": "He wanted these two pills,"
+  },
+  {
+    "startTime": 334.366,
+    "endTime": 338.933,
+    "fullTextZH": "因为他想要长生不死，",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 334.486,
+        "endTime": 335.267,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 335.267,
+        "endTime": 335.628,
+        "gloss": "he"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 335.628,
+        "endTime": 336.609,
+        "gloss": "wanted"
+      },
+      {
+        "word": "长生不死",
+        "pinyin": "cháng shēng bù sǐ",
+        "startTime": 336.609,
+        "endTime": 338.893,
+        "gloss": "immortal"
+      }
+    ],
+    "fullTextEN": "Because he wanted to be immortal,"
+  },
+  {
+    "startTime": 339.2,
+    "endTime": 342.0,
+    "fullTextZH": "他想要变成仙。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 339.321,
+        "endTime": 339.623,
+        "gloss": "he"
+      },
+      {
+        "word": "想要",
+        "pinyin": "xiǎng yào",
+        "startTime": 339.623,
+        "endTime": 340.308,
+        "gloss": "wanted"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 340.308,
+        "endTime": 341.255,
+        "gloss": "become"
+      },
+      {
+        "word": "仙",
+        "pinyin": "xiān",
+        "startTime": 341.255,
+        "endTime": 341.96,
+        "gloss": "fairy"
+      }
+    ],
+    "fullTextEN": "He wanted to become a fairy."
+  },
+  {
+    "startTime": 343.9,
+    "endTime": 346.166,
+    "fullTextZH": "所以有一天，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 343.96,
+        "endTime": 344.883,
+        "gloss": "so"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 344.883,
+        "endTime": 345.203,
+        "gloss": "have"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 345.203,
+        "endTime": 346.126,
+        "gloss": "one day"
+      }
+    ],
+    "fullTextEN": "So one day,"
+  },
+  {
+    "startTime": 346.266,
+    "endTime": 349.766,
+    "fullTextZH": "后羿不在家，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 346.346,
+        "endTime": 347.473,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 347.473,
+        "endTime": 348.338,
+        "gloss": "not"
+      },
+      {
+        "word": "在家",
+        "pinyin": "zài jiā",
+        "startTime": 348.338,
+        "endTime": 349.726,
+        "gloss": "at home"
+      }
+    ],
+    "fullTextEN": "Hou Yi was not at home,"
+  },
+  {
+    "startTime": 350.466,
+    "endTime": 356.999,
+    "fullTextZH": "蓬蒙去找嫦娥，蓬蒙说：“",
+    "words": [
+      {
+        "word": "蓬蒙去",
+        "pinyin": "péng méng qù",
+        "startTime": 350.526,
+        "endTime": 352.871,
+        "gloss": "Peng Meng"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 352.871,
+        "endTime": 353.873,
+        "gloss": "went to"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 353.873,
+        "endTime": 354.294,
+        "gloss": "find"
+      },
+      {
+        "word": "蓬蒙说",
+        "pinyin": "péng méng shuō",
+        "startTime": 355.456,
+        "endTime": 356.959,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Peng Meng went to find Chang'e, Peng Meng said:"
+  },
+  {
+    "startTime": 358.966,
+    "endTime": 360.166,
+    "fullTextZH": "把药给我，",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 359.047,
+        "endTime": 359.23,
+        "gloss": "give"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 359.23,
+        "endTime": 359.474,
+        "gloss": "medicine"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 359.474,
+        "endTime": 359.678,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 359.678,
+        "endTime": 360.125,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Give me the medicine,"
+  },
+  {
+    "startTime": 360.733,
+    "endTime": 361.566,
+    "fullTextZH": "嫦娥。”，“",
+    "words": [
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 360.753,
+        "endTime": 360.855,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Chang'e.”,"
+  },
+  {
+    "startTime": 362.866,
+    "endTime": 364.066,
+    "fullTextZH": "不要，不要。”",
+    "words": [
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 362.988,
+        "endTime": 363.273,
+        "gloss": "no"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 363.415,
+        "endTime": 364.025,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no.”"
+  },
+  {
+    "startTime": 364.9,
+    "endTime": 368.366,
+    "fullTextZH": "所以嫦娥把药吃了，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 365.02,
+        "endTime": 365.822,
+        "gloss": "so"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 365.822,
+        "endTime": 366.903,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 366.903,
+        "endTime": 367.144,
+        "gloss": "took"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 367.144,
+        "endTime": 367.625,
+        "gloss": "medicine"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 367.625,
+        "endTime": 367.885,
+        "gloss": "ate"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 367.885,
+        "endTime": 368.326,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "So Chang'e took the medicine,"
+  },
+  {
+    "startTime": 368.7,
+    "endTime": 372.966,
+    "fullTextZH": "突然嫦娥飞起来了，",
+    "words": [
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 368.8,
+        "endTime": 370.022,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 370.022,
+        "endTime": 371.083,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "飞",
+        "pinyin": "fēi",
+        "startTime": 371.083,
+        "endTime": 372.045,
+        "gloss": "fly"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 372.045,
+        "endTime": 372.485,
+        "gloss": "up"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 372.485,
+        "endTime": 372.926,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Suddenly Chang'e started to fly,"
+  },
+  {
+    "startTime": 373.333,
+    "endTime": 375.766,
+    "fullTextZH": "她越飞越高，",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 373.333,
+        "endTime": 373.655,
+        "gloss": "she"
+      },
+      {
+        "word": "越飞越",
+        "pinyin": "yuè fēi yuè",
+        "startTime": 373.655,
+        "endTime": 375.123,
+        "gloss": "flew higher and"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 375.123,
+        "endTime": 375.746,
+        "gloss": "higher"
+      }
+    ],
+    "fullTextEN": "She flew higher and higher,"
+  },
+  {
+    "startTime": 375.8,
+    "endTime": 379.133,
+    "fullTextZH": "她飞到了月亮那里。",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 375.88,
+        "endTime": 376.181,
+        "gloss": "she"
+      },
+      {
+        "word": "飞到",
+        "pinyin": "fēi dào",
+        "startTime": 376.181,
+        "endTime": 376.724,
+        "gloss": "flew to"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 376.724,
+        "endTime": 377.346,
+        "gloss": "le"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 377.346,
+        "endTime": 378.25,
+        "gloss": "moon"
+      },
+      {
+        "word": "那里",
+        "pinyin": "nà lǐ",
+        "startTime": 378.25,
+        "endTime": 379.093,
+        "gloss": "there"
+      }
+    ],
+    "fullTextEN": "She flew to the moon."
+  },
+  {
+    "startTime": 379.8,
+    "endTime": 382.9,
+    "fullTextZH": "后羿回家了，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 379.881,
+        "endTime": 381.068,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 381.068,
+        "endTime": 382.437,
+        "gloss": "return home"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 382.437,
+        "endTime": 382.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Hou Yi went home,"
+  },
+  {
+    "startTime": 383.566,
+    "endTime": 387.299,
+    "fullTextZH": "他发现嫦娥不见了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 383.586,
+        "endTime": 383.967,
+        "gloss": "he"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 383.967,
+        "endTime": 385.111,
+        "gloss": "discover"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 385.111,
+        "endTime": 386.135,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "不见",
+        "pinyin": "bú jiàn",
+        "startTime": 386.135,
+        "endTime": 386.797,
+        "gloss": "disappear"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 386.797,
+        "endTime": 387.259,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "He found that Chang'e was gone,"
+  },
+  {
+    "startTime": 387.566,
+    "endTime": 390.666,
+    "fullTextZH": "他又难过又生气。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 387.667,
+        "endTime": 387.989,
+        "gloss": "he"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 387.989,
+        "endTime": 388.291,
+        "gloss": "both"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 388.291,
+        "endTime": 389.438,
+        "gloss": "sad"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 389.438,
+        "endTime": 389.68,
+        "gloss": "and"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 389.68,
+        "endTime": 390.626,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "He was both sad and angry."
+  },
+  {
+    "startTime": 391.333,
+    "endTime": 394.099,
+    "fullTextZH": "后羿很想嫦娥，",
+    "words": [
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 391.413,
+        "endTime": 392.155,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "很想",
+        "pinyin": "hěn xiǎng",
+        "startTime": 392.155,
+        "endTime": 393.177,
+        "gloss": "miss very much"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 393.177,
+        "endTime": 394.059,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Hou Yi missed Chang'e very much,"
+  },
+  {
+    "startTime": 394.3,
+    "endTime": 398.066,
+    "fullTextZH": "可是他见不到嫦娥，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 394.42,
+        "endTime": 395.362,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 395.362,
+        "endTime": 395.923,
+        "gloss": "he"
+      },
+      {
+        "word": "见",
+        "pinyin": "jiàn",
+        "startTime": 395.923,
+        "endTime": 396.524,
+        "gloss": "see"
+      },
+      {
+        "word": "不到",
+        "pinyin": "bú dào",
+        "startTime": 396.524,
+        "endTime": 397.165,
+        "gloss": "not able"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 397.165,
+        "endTime": 398.026,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "but he couldn't see Chang'e,"
+  },
+  {
+    "startTime": 398.2,
+    "endTime": 399.2,
+    "fullTextZH": "怎么办？",
+    "words": [
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 398.322,
+        "endTime": 399.159,
+        "gloss": "what to do"
+      }
+    ],
+    "fullTextEN": "What to do?"
+  },
+  {
+    "startTime": 399.933,
+    "endTime": 402.066,
+    "fullTextZH": "有人告诉他，",
+    "words": [
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 399.953,
+        "endTime": 400.738,
+        "gloss": "someone"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 400.738,
+        "endTime": 401.382,
+        "gloss": "tell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 401.382,
+        "endTime": 402.026,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Someone told him,"
+  },
+  {
+    "startTime": 402.2,
+    "endTime": 405.1,
+    "fullTextZH": "如果他做月饼，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 402.341,
+        "endTime": 403.267,
+        "gloss": "if"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 403.267,
+        "endTime": 403.61,
+        "gloss": "he"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 403.61,
+        "endTime": 403.952,
+        "gloss": "make"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 403.952,
+        "endTime": 405.04,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "if he made mooncakes,"
+  },
+  {
+    "startTime": 405.4,
+    "endTime": 408.5,
+    "fullTextZH": "然后叫嫦娥 ，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 405.541,
+        "endTime": 406.89,
+        "gloss": "then"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 406.89,
+        "endTime": 407.554,
+        "gloss": "call"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 407.554,
+        "endTime": 408.46,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "then called Chang'e,"
+  },
+  {
+    "startTime": 408.6,
+    "endTime": 415.666,
+    "fullTextZH": "嫦娥。他就可以看到月亮上的嫦娥，",
+    "words": [
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 408.62,
+        "endTime": 409.02,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 410.001,
+        "endTime": 410.241,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 410.241,
+        "endTime": 410.522,
+        "gloss": "then"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 410.522,
+        "endTime": 411.362,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 411.362,
+        "endTime": 412.804,
+        "gloss": "see"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 412.804,
+        "endTime": 413.644,
+        "gloss": "moon"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 413.644,
+        "endTime": 414.065,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 414.065,
+        "endTime": 414.725,
+        "gloss": "de"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 414.725,
+        "endTime": 415.626,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Chang'e. He could see Chang'e on the moon,"
+  },
+  {
+    "startTime": 416.3,
+    "endTime": 419.4,
+    "fullTextZH": "所以后羿做了月饼，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 416.32,
+        "endTime": 416.984,
+        "gloss": "so"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 416.984,
+        "endTime": 417.568,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 417.568,
+        "endTime": 417.89,
+        "gloss": "make"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 417.89,
+        "endTime": 418.454,
+        "gloss": "le"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 418.454,
+        "endTime": 419.36,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "So Hou Yi made mooncakes,"
+  },
+  {
+    "startTime": 419.7,
+    "endTime": 421.966,
+    "fullTextZH": "然后他叫嫦娥，",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 419.82,
+        "endTime": 420.261,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 420.261,
+        "endTime": 420.522,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 420.522,
+        "endTime": 421.164,
+        "gloss": "call"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 421.164,
+        "endTime": 421.926,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "then he called Chang'e,"
+  },
+  {
+    "startTime": 422.133,
+    "endTime": 428.266,
+    "fullTextZH": "嫦娥。他可以看到月亮上的嫦娥，",
+    "words": [
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 422.133,
+        "endTime": 422.514,
+        "gloss": "Chang'e"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 423.396,
+        "endTime": 423.696,
+        "gloss": "he"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 423.696,
+        "endTime": 424.318,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 424.318,
+        "endTime": 425.48,
+        "gloss": "see"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 425.48,
+        "endTime": 426.242,
+        "gloss": "moon"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 426.242,
+        "endTime": 426.643,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 426.643,
+        "endTime": 427.264,
+        "gloss": "de"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 427.264,
+        "endTime": 428.226,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "Chang'e. He could see Chang'e on the moon,"
+  },
+  {
+    "startTime": 429.066,
+    "endTime": 433.899,
+    "fullTextZH": "所以如果后羿想嫦娥，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 429.086,
+        "endTime": 430.029,
+        "gloss": "so"
+      },
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 430.029,
+        "endTime": 430.911,
+        "gloss": "if"
+      },
+      {
+        "word": "后羿",
+        "pinyin": "hòu yì",
+        "startTime": 430.911,
+        "endTime": 432.074,
+        "gloss": "Hou Yi"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 432.074,
+        "endTime": 432.977,
+        "gloss": "miss"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 432.977,
+        "endTime": 433.859,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "So if Hou Yi missed Chang'e,"
+  },
+  {
+    "startTime": 434.2,
+    "endTime": 437.533,
+    "fullTextZH": "他就做月饼，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 434.26,
+        "endTime": 434.742,
+        "gloss": "he"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 434.742,
+        "endTime": 435.626,
+        "gloss": "then"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 435.626,
+        "endTime": 436.248,
+        "gloss": "make"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 436.248,
+        "endTime": 437.493,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "he would make mooncakes,"
+  },
+  {
+    "startTime": 437.866,
+    "endTime": 441.499,
+    "fullTextZH": "然后一边吃月饼",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 438.007,
+        "endTime": 439.03,
+        "gloss": "then"
+      },
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 439.03,
+        "endTime": 439.953,
+        "gloss": "while"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 439.953,
+        "endTime": 440.435,
+        "gloss": "eat"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 440.435,
+        "endTime": 440.877,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "then while eating mooncakes"
+  },
+  {
+    "startTime": 441.8,
+    "endTime": 443.9,
+    "fullTextZH": "一边赏月，",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 441.941,
+        "endTime": 442.81,
+        "gloss": "while"
+      },
+      {
+        "word": "赏月",
+        "pinyin": "shǎng yuè",
+        "startTime": 442.81,
+        "endTime": 443.86,
+        "gloss": "admire moon"
+      }
+    ],
+    "fullTextEN": "while admiring the moon,"
+  },
+  {
+    "startTime": 445.333,
+    "endTime": 446.799,
+    "fullTextZH": "看嫦娥。",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 445.413,
+        "endTime": 445.935,
+        "gloss": "watch"
+      },
+      {
+        "word": "嫦娥",
+        "pinyin": "cháng é",
+        "startTime": 445.935,
+        "endTime": 446.759,
+        "gloss": "Chang'e"
+      }
+    ],
+    "fullTextEN": "watching Chang'e."
+  },
+  {
+    "startTime": 448.8,
+    "endTime": 455.5,
+    "fullTextZH": "这就是为什么现在中秋节的时候，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 448.82,
+        "endTime": 449.342,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 449.342,
+        "endTime": 449.703,
+        "gloss": "is"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 449.703,
+        "endTime": 451.067,
+        "gloss": "why"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 451.067,
+        "endTime": 452.651,
+        "gloss": "now"
+      },
+      {
+        "word": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "startTime": 452.651,
+        "endTime": 454.397,
+        "gloss": "Mid-Autumn Festival"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 454.397,
+        "endTime": 454.577,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 454.577,
+        "endTime": 455.46,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "This is why during the Mid-Autumn Festival now,"
+  },
+  {
+    "startTime": 455.533,
+    "endTime": 459.133,
+    "fullTextZH": "我们一边吃月饼",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 455.634,
+        "endTime": 456.76,
+        "gloss": "we"
+      },
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 456.76,
+        "endTime": 457.725,
+        "gloss": "while"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 457.725,
+        "endTime": 458.148,
+        "gloss": "eat"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 458.148,
+        "endTime": 458.55,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "we eat mooncakes"
+  },
+  {
+    "startTime": 459.266,
+    "endTime": 461.566,
+    "fullTextZH": "一边赏月。",
+    "words": [
+      {
+        "word": "一边",
+        "pinyin": "yī biān",
+        "startTime": 459.367,
+        "endTime": 460.335,
+        "gloss": "while"
+      },
+      {
+        "word": "赏月",
+        "pinyin": "shǎng yuè",
+        "startTime": 460.335,
+        "endTime": 461.526,
+        "gloss": "enjoy moon"
+      }
+    ],
+    "fullTextEN": "While enjoying the moon."
+  },
+  {
+    "startTime": 462.333,
+    "endTime": 465.266,
+    "fullTextZH": "你吃过月饼吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 462.353,
+        "endTime": 463.277,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 463.277,
+        "endTime": 463.619,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 463.619,
+        "endTime": 463.98,
+        "gloss": "ever"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 463.98,
+        "endTime": 464.683,
+        "gloss": "mooncakes"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 464.683,
+        "endTime": 465.226,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you eaten mooncakes?"
+  },
+  {
+    "startTime": 465.466,
+    "endTime": 468.766,
+    "fullTextZH": "如果你没有吃过，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 465.607,
+        "endTime": 466.15,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 466.15,
+        "endTime": 466.895,
+        "gloss": "you"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 466.895,
+        "endTime": 467.901,
+        "gloss": "not"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 467.901,
+        "endTime": 468.223,
+        "gloss": "eat"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 468.223,
+        "endTime": 468.726,
+        "gloss": "ever"
+      }
+    ],
+    "fullTextEN": "If you haven't eaten them,"
+  },
+  {
+    "startTime": 468.866,
+    "endTime": 476.099,
+    "fullTextZH": "我推荐你吃冰皮月饼，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 468.986,
+        "endTime": 469.988,
+        "gloss": "I"
+      },
+      {
+        "word": "推荐",
+        "pinyin": "tuī jiàn",
+        "startTime": 469.988,
+        "endTime": 470.99,
+        "gloss": "recommend"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 470.99,
+        "endTime": 471.571,
+        "gloss": "you"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 471.571,
+        "endTime": 474.035,
+        "gloss": "eat"
+      },
+      {
+        "word": "冰皮",
+        "pinyin": "bīng pí",
+        "startTime": 474.035,
+        "endTime": 475.137,
+        "gloss": "snow skin"
+      },
+      {
+        "word": "月饼",
+        "pinyin": "yuè bǐng",
+        "startTime": 475.137,
+        "endTime": 476.059,
+        "gloss": "mooncakes"
+      }
+    ],
+    "fullTextEN": "I recommend you try snow skin mooncakes,"
+  },
+  {
+    "startTime": 477.366,
+    "endTime": 479.466,
+    "fullTextZH": "最后我要说",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 477.386,
+        "endTime": 478.295,
+        "gloss": "finally"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 478.295,
+        "endTime": 478.436,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 478.436,
+        "endTime": 478.779,
+        "gloss": "want to say"
+      }
+    ],
+    "fullTextEN": "Finally, I want to say"
+  },
+  {
+    "startTime": 479.533,
+    "endTime": 485.266,
+    "fullTextZH": "这个故事有很多很多不一样的版本，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 479.633,
+        "endTime": 479.994,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 479.994,
+        "endTime": 480.555,
+        "gloss": "story"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 480.555,
+        "endTime": 480.816,
+        "gloss": "has"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 480.816,
+        "endTime": 482.881,
+        "gloss": "many many"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 482.881,
+        "endTime": 483.101,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 483.101,
+        "endTime": 483.582,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 483.582,
+        "endTime": 484.143,
+        "gloss": "of"
+      },
+      {
+        "word": "版本",
+        "pinyin": "bǎn běn",
+        "startTime": 484.143,
+        "endTime": 485.226,
+        "gloss": "versions"
+      }
+    ],
+    "fullTextEN": "This story has many different versions,"
+  },
+  {
+    "startTime": 485.733,
+    "endTime": 487.866,
+    "fullTextZH": "这是我的版本，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 485.834,
+        "endTime": 486.135,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 486.135,
+        "endTime": 486.538,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 486.538,
+        "endTime": 486.92,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 486.92,
+        "endTime": 487.081,
+        "gloss": "of"
+      },
+      {
+        "word": "版本",
+        "pinyin": "bǎn běn",
+        "startTime": 487.081,
+        "endTime": 487.826,
+        "gloss": "version"
+      }
+    ],
+    "fullTextEN": "This is my version,"
+  },
+  {
+    "startTime": 487.866,
+    "endTime": 491.466,
+    "fullTextZH": "所以不要当真。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 487.967,
+        "endTime": 489.153,
+        "gloss": "so"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 489.153,
+        "endTime": 490.179,
+        "gloss": "don't"
+      },
+      {
+        "word": "当真",
+        "pinyin": "dàng zhēn",
+        "startTime": 490.179,
+        "endTime": 491.426,
+        "gloss": "take seriously"
+      }
+    ],
+    "fullTextEN": "so don't take it seriously."
+  },
+  {
+    "startTime": 492.666,
+    "endTime": 495.899,
+    "fullTextZH": "希望你们中秋节快乐！",
+    "words": [
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 492.686,
+        "endTime": 493.027,
+        "gloss": "hope"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 493.027,
+        "endTime": 493.891,
+        "gloss": "you all"
+      },
+      {
+        "word": "中秋节",
+        "pinyin": "zhōng qiū jié",
+        "startTime": 493.891,
+        "endTime": 494.955,
+        "gloss": "Mid-Autumn Festival"
+      },
+      {
+        "word": "快乐",
+        "pinyin": "kuài lè",
+        "startTime": 494.955,
+        "endTime": 495.256,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "I hope you have a happy Mid-Autumn Festival!"
+  },
+  {
+    "startTime": 495.933,
+    "endTime": 497.599,
+    "fullTextZH": "谢谢再见！",
+    "words": [
+      {
+        "word": "谢谢",
+        "pinyin": "xiè xiè",
+        "startTime": 496.033,
+        "endTime": 496.636,
+        "gloss": "thank you"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 496.636,
+        "endTime": 497.559,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Thank you, goodbye!"
+  }
+]

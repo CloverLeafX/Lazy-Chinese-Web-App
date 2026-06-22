@@ -1,0 +1,4866 @@
+[
+  {
+    "startTime": 0.0,
+    "endTime": 1.3,
+    "fullTextZH": "大家好，",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.061,
+        "endTime": 0.386,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 0.386,
+        "endTime": 1.259,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Hello everyone,"
+  },
+  {
+    "startTime": 1.366,
+    "endTime": 3.766,
+    "fullTextZH": "我是王老师，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.568,
+        "endTime": 1.769,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.769,
+        "endTime": 2.112,
+        "gloss": "am"
+      },
+      {
+        "word": "王老师",
+        "pinyin": "wáng lǎo shī",
+        "startTime": 2.112,
+        "endTime": 3.726,
+        "gloss": "Teacher Wang"
+      }
+    ],
+    "fullTextEN": "I am Teacher Wang,"
+  },
+  {
+    "startTime": 3.8,
+    "endTime": 7.5,
+    "fullTextZH": "我来自中国河南。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.981,
+        "endTime": 4.343,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 4.343,
+        "endTime": 5.328,
+        "gloss": "come from"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 5.328,
+        "endTime": 5.932,
+        "gloss": "China"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 5.932,
+        "endTime": 7.46,
+        "gloss": "Henan"
+      }
+    ],
+    "fullTextEN": "I come from Henan, China."
+  },
+  {
+    "startTime": 7.566,
+    "endTime": 9.933,
+    "fullTextZH": "河南在哪呢？",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 7.606,
+        "endTime": 8.348,
+        "gloss": "Henan"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 8.348,
+        "endTime": 8.509,
+        "gloss": "at"
+      },
+      {
+        "word": "哪",
+        "pinyin": "nǎ",
+        "startTime": 8.509,
+        "endTime": 8.81,
+        "gloss": "where"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 8.81,
+        "endTime": 9.893,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Where is Henan?"
+  },
+  {
+    "startTime": 9.966,
+    "endTime": 13.033,
+    "fullTextZH": "河南在中国的中部。",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 10.006,
+        "endTime": 10.547,
+        "gloss": "Henan"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 10.547,
+        "endTime": 10.928,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 10.928,
+        "endTime": 11.349,
+        "gloss": "China"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 11.349,
+        "endTime": 11.63,
+        "gloss": "'s"
+      },
+      {
+        "word": "中部",
+        "pinyin": "zhōng bù",
+        "startTime": 11.63,
+        "endTime": 13.013,
+        "gloss": "central"
+      }
+    ],
+    "fullTextEN": "Henan is in central China."
+  },
+  {
+    "startTime": 13.066,
+    "endTime": 15.166,
+    "fullTextZH": "河南有什么？",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 13.106,
+        "endTime": 13.914,
+        "gloss": "Henan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 13.914,
+        "endTime": 14.096,
+        "gloss": "has"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 14.096,
+        "endTime": 15.126,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What does Henan have?"
+  },
+  {
+    "startTime": 15.233,
+    "endTime": 17.266,
+    "fullTextZH": "河南有少林寺，",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 15.293,
+        "endTime": 15.696,
+        "gloss": "Henan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 15.696,
+        "endTime": 16.199,
+        "gloss": "has"
+      },
+      {
+        "word": "少林寺",
+        "pinyin": "shào lín sì",
+        "startTime": 16.199,
+        "endTime": 17.246,
+        "gloss": "Shaolin Temple"
+      }
+    ],
+    "fullTextEN": "Henan has the Shaolin Temple,"
+  },
+  {
+    "startTime": 17.333,
+    "endTime": 20.166,
+    "fullTextZH": "河南有中国功夫。",
+    "words": [
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 17.373,
+        "endTime": 17.855,
+        "gloss": "Henan"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 17.855,
+        "endTime": 18.358,
+        "gloss": "has"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 18.358,
+        "endTime": 18.9,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "功夫",
+        "pinyin": "gōng fu",
+        "startTime": 18.9,
+        "endTime": 20.126,
+        "gloss": "Kung Fu"
+      }
+    ],
+    "fullTextEN": "Henan has Chinese Kung Fu."
+  },
+  {
+    "startTime": 20.2,
+    "endTime": 22.433,
+    "fullTextZH": "欢迎你们来河南。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 20.321,
+        "endTime": 20.743,
+        "gloss": "welcome"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 20.743,
+        "endTime": 21.689,
+        "gloss": "you"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 21.689,
+        "endTime": 21.89,
+        "gloss": "come"
+      },
+      {
+        "word": "河南",
+        "pinyin": "hé nán",
+        "startTime": 21.89,
+        "endTime": 22.393,
+        "gloss": "Henan"
+      }
+    ],
+    "fullTextEN": "Welcome to Henan."
+  },
+  {
+    "startTime": 23.1,
+    "endTime": 28.2,
+    "fullTextZH": "上一次我给你们讲了一只猴子的故事，",
+    "words": [
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 23.14,
+        "endTime": 23.361,
+        "gloss": "last"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 23.361,
+        "endTime": 24.265,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 24.265,
+        "endTime": 24.465,
+        "gloss": "I"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 24.465,
+        "endTime": 24.626,
+        "gloss": "to"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 24.626,
+        "endTime": 24.967,
+        "gloss": "you"
+      },
+      {
+        "word": "讲",
+        "pinyin": "jiǎng",
+        "startTime": 24.967,
+        "endTime": 25.228,
+        "gloss": "tell"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 25.228,
+        "endTime": 25.791,
+        "gloss": "le"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 25.791,
+        "endTime": 26.353,
+        "gloss": "a"
+      },
+      {
+        "word": "猴子",
+        "pinyin": "hóu zi",
+        "startTime": 26.353,
+        "endTime": 26.835,
+        "gloss": "monkey"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.835,
+        "endTime": 26.995,
+        "gloss": "'s"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 26.995,
+        "endTime": 27.477,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Last time I told you a story about a monkey,"
+  },
+  {
+    "startTime": 28.233,
+    "endTime": 30.266,
+    "fullTextZH": "它叫孙悟空。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 28.314,
+        "endTime": 28.575,
+        "gloss": "it"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 28.575,
+        "endTime": 29.058,
+        "gloss": "called"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 29.058,
+        "endTime": 30.226,
+        "gloss": "Sun Wukong"
+      }
+    ],
+    "fullTextEN": "It's called Sun Wukong."
+  },
+  {
+    "startTime": 31.5,
+    "endTime": 36.7,
+    "fullTextZH": "这只猴子又聪明又有能力，",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 31.58,
+        "endTime": 31.781,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 31.781,
+        "endTime": 31.982,
+        "gloss": "monkey"
+      },
+      {
+        "word": "猴子",
+        "pinyin": "hóu zi",
+        "startTime": 31.982,
+        "endTime": 33.648,
+        "gloss": "both"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 33.648,
+        "endTime": 34.19,
+        "gloss": "smart"
+      },
+      {
+        "word": "聪明",
+        "pinyin": "cōng míng",
+        "startTime": 34.19,
+        "endTime": 35.616,
+        "gloss": "and"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 35.616,
+        "endTime": 35.756,
+        "gloss": "has"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 35.756,
+        "endTime": 35.957,
+        "gloss": "ability"
+      },
+      {
+        "word": "能力",
+        "pinyin": "néng lì",
+        "startTime": 35.957,
+        "endTime": 36.66,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "This monkey is both smart and capable,"
+  },
+  {
+    "startTime": 37.9,
+    "endTime": 42.1,
+    "fullTextZH": "可是他不听神仙们的话，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 37.98,
+        "endTime": 39.025,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 39.025,
+        "endTime": 39.347,
+        "gloss": "he"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 39.347,
+        "endTime": 39.709,
+        "gloss": "not"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 39.709,
+        "endTime": 40.03,
+        "gloss": "listen"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 40.03,
+        "endTime": 40.533,
+        "gloss": "gods"
+      },
+      {
+        "word": "们",
+        "pinyin": "men",
+        "startTime": 40.533,
+        "endTime": 40.713,
+        "gloss": "plural"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 40.713,
+        "endTime": 42.06,
+        "gloss": "'s"
+      }
+    ],
+    "fullTextEN": "but he doesn't listen to the gods,"
+  },
+  {
+    "startTime": 42.133,
+    "endTime": 46.533,
+    "fullTextZH": "被一个很厉害的神仙压在了山下，",
+    "words": [
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 42.213,
+        "endTime": 42.434,
+        "gloss": "by"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 42.434,
+        "endTime": 43.258,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 43.258,
+        "endTime": 43.68,
+        "gloss": "very"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 43.68,
+        "endTime": 44.082,
+        "gloss": "powerful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 44.082,
+        "endTime": 44.222,
+        "gloss": "'s"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 44.222,
+        "endTime": 45.207,
+        "gloss": "god"
+      },
+      {
+        "word": "压",
+        "pinyin": "yā",
+        "startTime": 45.207,
+        "endTime": 45.508,
+        "gloss": "pressed"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 45.508,
+        "endTime": 45.649,
+        "gloss": "under"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 45.649,
+        "endTime": 45.81,
+        "gloss": "le"
+      },
+      {
+        "word": "山下",
+        "pinyin": "shān xià",
+        "startTime": 45.81,
+        "endTime": 46.493,
+        "gloss": "mountain"
+      }
+    ],
+    "fullTextEN": "and was pressed under a mountain by a very powerful god,"
+  },
+  {
+    "startTime": 47.733,
+    "endTime": 51.7,
+    "fullTextZH": "这位很厉害的神仙叫如来，",
+    "words": [
+      {
+        "word": "这位",
+        "pinyin": "zhè wèi",
+        "startTime": 47.793,
+        "endTime": 48.474,
+        "gloss": "this"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 48.474,
+        "endTime": 48.815,
+        "gloss": "very"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 48.815,
+        "endTime": 49.236,
+        "gloss": "powerful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 49.236,
+        "endTime": 49.336,
+        "gloss": "'s"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 49.336,
+        "endTime": 50.217,
+        "gloss": "god"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 50.217,
+        "endTime": 50.939,
+        "gloss": "called"
+      },
+      {
+        "word": "如来",
+        "pinyin": "rú lái",
+        "startTime": 50.939,
+        "endTime": 51.66,
+        "gloss": "Rulai"
+      }
+    ],
+    "fullTextEN": "This very powerful god is called Rulai,"
+  },
+  {
+    "startTime": 52.966,
+    "endTime": 57.4,
+    "fullTextZH": "如来住在很远很远很远的地方，",
+    "words": [
+      {
+        "word": "如来",
+        "pinyin": "rú lái",
+        "startTime": 53.046,
+        "endTime": 53.929,
+        "gloss": "Rulai"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 53.929,
+        "endTime": 54.21,
+        "gloss": "lives"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 54.21,
+        "endTime": 54.952,
+        "gloss": "in"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.952,
+        "endTime": 55.374,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 55.374,
+        "endTime": 55.715,
+        "gloss": "far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 55.715,
+        "endTime": 55.996,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 55.996,
+        "endTime": 56.276,
+        "gloss": "far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 56.276,
+        "endTime": 56.517,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 56.517,
+        "endTime": 56.718,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 56.718,
+        "endTime": 56.838,
+        "gloss": "'s"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 56.838,
+        "endTime": 57.36,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "Rulai lives in a very, very, very far place,"
+  },
+  {
+    "startTime": 59.1,
+    "endTime": 62.5,
+    "fullTextZH": "这座山叫五行山。",
+    "words": [
+      {
+        "word": "这座",
+        "pinyin": "zhè zuò",
+        "startTime": 59.18,
+        "endTime": 59.663,
+        "gloss": "this"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 59.663,
+        "endTime": 60.75,
+        "gloss": "mountain"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 60.75,
+        "endTime": 61.273,
+        "gloss": "called"
+      },
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 61.273,
+        "endTime": 62.098,
+        "gloss": "Wuxing"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 62.098,
+        "endTime": 62.46,
+        "gloss": "Mountain"
+      }
+    ],
+    "fullTextEN": "This mountain is called Wuxing Mountain."
+  },
+  {
+    "startTime": 63.6,
+    "endTime": 67.833,
+    "fullTextZH": "这座山很高很高很高，",
+    "words": [
+      {
+        "word": "这座",
+        "pinyin": "zhè zuò",
+        "startTime": 63.68,
+        "endTime": 64.041,
+        "gloss": "this"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 64.041,
+        "endTime": 65.004,
+        "gloss": "mountain"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 65.004,
+        "endTime": 65.546,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 65.546,
+        "endTime": 65.887,
+        "gloss": "tall"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 65.887,
+        "endTime": 66.168,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 66.168,
+        "endTime": 66.409,
+        "gloss": "tall"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 66.409,
+        "endTime": 66.629,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 66.629,
+        "endTime": 67.793,
+        "gloss": "tall"
+      }
+    ],
+    "fullTextEN": "This mountain is very, very, very tall,"
+  },
+  {
+    "startTime": 67.9,
+    "endTime": 76.566,
+    "fullTextZH": "山上有五种元素：金、木、水、火、土。",
+    "words": [
+      {
+        "word": "山上",
+        "pinyin": "shān shàng",
+        "startTime": 67.94,
+        "endTime": 68.781,
+        "gloss": "on mountain"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 68.781,
+        "endTime": 69.401,
+        "gloss": "has"
+      },
+      {
+        "word": "五种",
+        "pinyin": "wǔ zhǒng",
+        "startTime": 69.401,
+        "endTime": 70.142,
+        "gloss": "five"
+      },
+      {
+        "word": "元素",
+        "pinyin": "yuán sù",
+        "startTime": 70.142,
+        "endTime": 71.342,
+        "gloss": "elements"
+      },
+      {
+        "word": "金",
+        "pinyin": "jīn",
+        "startTime": 72.063,
+        "endTime": 72.783,
+        "gloss": "metal"
+      },
+      {
+        "word": "木",
+        "pinyin": "mù",
+        "startTime": 73.124,
+        "endTime": 73.824,
+        "gloss": "wood"
+      },
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 74.244,
+        "endTime": 75.205,
+        "gloss": "water"
+      },
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 75.225,
+        "endTime": 76.006,
+        "gloss": "fire"
+      },
+      {
+        "word": "土",
+        "pinyin": "tǔ",
+        "startTime": 76.186,
+        "endTime": 76.526,
+        "gloss": "earth"
+      }
+    ],
+    "fullTextEN": "On the mountain, there are five elements: metal, wood, water, fire, earth."
+  },
+  {
+    "startTime": 77.7,
+    "endTime": 84.566,
+    "fullTextZH": "孙悟空被压在山下不能动已经 500年了。",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 77.76,
+        "endTime": 78.801,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "被",
+        "pinyin": "bèi",
+        "startTime": 78.801,
+        "endTime": 79.101,
+        "gloss": "by"
+      },
+      {
+        "word": "压",
+        "pinyin": "yā",
+        "startTime": 79.101,
+        "endTime": 79.361,
+        "gloss": "pressed"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 79.361,
+        "endTime": 79.562,
+        "gloss": "under"
+      },
+      {
+        "word": "山下",
+        "pinyin": "shān xià",
+        "startTime": 79.562,
+        "endTime": 80.883,
+        "gloss": "mountain"
+      },
+      {
+        "word": "不能",
+        "pinyin": "bù néng",
+        "startTime": 80.883,
+        "endTime": 81.383,
+        "gloss": "cannot"
+      },
+      {
+        "word": "动",
+        "pinyin": "dòng",
+        "startTime": 81.383,
+        "endTime": 82.524,
+        "gloss": "move"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 82.524,
+        "endTime": 83.325,
+        "gloss": "already"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 83.925,
+        "endTime": 84.246,
+        "gloss": "years"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 84.246,
+        "endTime": 84.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Sun Wukong has been pressed under the mountain unable to move for 500 years."
+  },
+  {
+    "startTime": 85.566,
+    "endTime": 88.233,
+    "fullTextZH": "虽然他很强大，",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 85.626,
+        "endTime": 86.649,
+        "gloss": "although"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 86.649,
+        "endTime": 87.05,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 87.05,
+        "endTime": 87.371,
+        "gloss": "very"
+      },
+      {
+        "word": "强大",
+        "pinyin": "qiáng dà",
+        "startTime": 87.371,
+        "endTime": 88.193,
+        "gloss": "powerful"
+      }
+    ],
+    "fullTextEN": "Although he is very powerful,"
+  },
+  {
+    "startTime": 88.4,
+    "endTime": 92.3,
+    "fullTextZH": "但是还有比他更厉害的人。",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 88.44,
+        "endTime": 89.445,
+        "gloss": "but"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 89.445,
+        "endTime": 90.129,
+        "gloss": "still"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 90.129,
+        "endTime": 90.37,
+        "gloss": "than"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 90.37,
+        "endTime": 91.013,
+        "gloss": "him"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 91.013,
+        "endTime": 91.395,
+        "gloss": "more"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 91.395,
+        "endTime": 91.838,
+        "gloss": "formidable"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 91.838,
+        "endTime": 91.918,
+        "gloss": "de"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 91.918,
+        "endTime": 92.26,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "there are still people more formidable than him."
+  },
+  {
+    "startTime": 92.9,
+    "endTime": 96.566,
+    "fullTextZH": "离五行山很远很远的地方，",
+    "words": [
+      {
+        "word": "离",
+        "pinyin": "lí",
+        "startTime": 92.92,
+        "endTime": 93.261,
+        "gloss": "from"
+      },
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 93.261,
+        "endTime": 93.741,
+        "gloss": "five"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 93.741,
+        "endTime": 94.422,
+        "gloss": "elements"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 94.422,
+        "endTime": 94.803,
+        "gloss": "mountain"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 94.803,
+        "endTime": 95.084,
+        "gloss": "very"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 95.084,
+        "endTime": 95.344,
+        "gloss": "far"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 95.344,
+        "endTime": 95.524,
+        "gloss": "very"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 95.524,
+        "endTime": 95.644,
+        "gloss": "far"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 95.644,
+        "endTime": 96.205,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "Far, far away from the Five Elements Mountain,"
+  },
+  {
+    "startTime": 96.6,
+    "endTime": 97.9,
+    "fullTextZH": "有一个国家，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 96.702,
+        "endTime": 96.884,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 96.884,
+        "endTime": 97.25,
+        "gloss": "a"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 97.25,
+        "endTime": 97.859,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "there is a country,"
+  },
+  {
+    "startTime": 98.4,
+    "endTime": 102.066,
+    "fullTextZH": "有一天这个国家在开会，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 98.5,
+        "endTime": 98.68,
+        "gloss": "one"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 98.68,
+        "endTime": 99.862,
+        "gloss": "day"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 99.862,
+        "endTime": 100.163,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 100.163,
+        "endTime": 101.004,
+        "gloss": "country"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 101.004,
+        "endTime": 101.345,
+        "gloss": "at"
+      },
+      {
+        "word": "开会",
+        "pinyin": "kāi huì",
+        "startTime": 101.345,
+        "endTime": 102.026,
+        "gloss": "meeting"
+      }
+    ],
+    "fullTextEN": "One day, this country was having a meeting,"
+  },
+  {
+    "startTime": 102.233,
+    "endTime": 106.133,
+    "fullTextZH": "国王希望他们的国家变得更好。",
+    "words": [
+      {
+        "word": "国王",
+        "pinyin": "guó wáng",
+        "startTime": 102.313,
+        "endTime": 102.957,
+        "gloss": "king"
+      },
+      {
+        "word": "希望",
+        "pinyin": "xī wàng",
+        "startTime": 102.957,
+        "endTime": 103.761,
+        "gloss": "hope"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 103.761,
+        "endTime": 104.123,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 104.123,
+        "endTime": 104.263,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 104.263,
+        "endTime": 105.047,
+        "gloss": "country"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 105.047,
+        "endTime": 105.409,
+        "gloss": "become"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 105.409,
+        "endTime": 106.093,
+        "gloss": "better"
+      }
+    ],
+    "fullTextEN": "The king hoped their country would become better."
+  },
+  {
+    "startTime": 106.266,
+    "endTime": 107.866,
+    "fullTextZH": "有一个人说，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 106.327,
+        "endTime": 106.853,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 106.853,
+        "endTime": 107.258,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 107.258,
+        "endTime": 107.562,
+        "gloss": "person"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 107.562,
+        "endTime": 107.825,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "One person said,"
+  },
+  {
+    "startTime": 108.166,
+    "endTime": 112.466,
+    "fullTextZH": "在很远很远很远的地方，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 108.246,
+        "endTime": 108.99,
+        "gloss": "at"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 108.99,
+        "endTime": 109.472,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 109.472,
+        "endTime": 109.874,
+        "gloss": "far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 109.874,
+        "endTime": 110.296,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 110.296,
+        "endTime": 110.678,
+        "gloss": "far"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 110.678,
+        "endTime": 110.979,
+        "gloss": "very"
+      },
+      {
+        "word": "远",
+        "pinyin": "yuǎn",
+        "startTime": 110.979,
+        "endTime": 111.18,
+        "gloss": "far"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.18,
+        "endTime": 111.301,
+        "gloss": "de"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 111.301,
+        "endTime": 112.446,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "In a very, very, very distant place,"
+  },
+  {
+    "startTime": 112.533,
+    "endTime": 116.233,
+    "fullTextZH": "住着一位厉害的神仙，",
+    "words": [
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 112.634,
+        "endTime": 112.935,
+        "gloss": "live"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 112.935,
+        "endTime": 113.559,
+        "gloss": "zhe"
+      },
+      {
+        "word": "一位",
+        "pinyin": "yī wèi",
+        "startTime": 113.559,
+        "endTime": 114.101,
+        "gloss": "a"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 114.101,
+        "endTime": 114.624,
+        "gloss": "powerful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 114.624,
+        "endTime": 114.765,
+        "gloss": "de"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 114.765,
+        "endTime": 116.213,
+        "gloss": "immortal"
+      }
+    ],
+    "fullTextEN": "lives a powerful immortal,"
+  },
+  {
+    "startTime": 116.3,
+    "endTime": 118.0,
+    "fullTextZH": "他叫如来。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 116.381,
+        "endTime": 116.583,
+        "gloss": "he"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 116.583,
+        "endTime": 117.19,
+        "gloss": "called"
+      },
+      {
+        "word": "如来",
+        "pinyin": "rú lái",
+        "startTime": 117.19,
+        "endTime": 117.98,
+        "gloss": "Tathagata"
+      }
+    ],
+    "fullTextEN": "He is called Tathagata."
+  },
+  {
+    "startTime": 118.7,
+    "endTime": 121.933,
+    "fullTextZH": "这个神仙家里有几本书，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 118.78,
+        "endTime": 119.142,
+        "gloss": "this"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 119.142,
+        "endTime": 119.644,
+        "gloss": "immortal"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 119.644,
+        "endTime": 120.568,
+        "gloss": "home"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 120.568,
+        "endTime": 120.949,
+        "gloss": "has"
+      },
+      {
+        "word": "几本书",
+        "pinyin": "jǐ běn shū",
+        "startTime": 120.949,
+        "endTime": 121.893,
+        "gloss": "some books"
+      }
+    ],
+    "fullTextEN": "This immortal has some books at home,"
+  },
+  {
+    "startTime": 122.8,
+    "endTime": 125.233,
+    "fullTextZH": "看了这几本书，",
+    "words": [
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 122.86,
+        "endTime": 123.283,
+        "gloss": "read"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 123.283,
+        "endTime": 123.805,
+        "gloss": "le"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 123.805,
+        "endTime": 124.047,
+        "gloss": "these"
+      },
+      {
+        "word": "几本书",
+        "pinyin": "jǐ běn shū",
+        "startTime": 124.047,
+        "endTime": 125.213,
+        "gloss": "books"
+      }
+    ],
+    "fullTextEN": "After reading these books,"
+  },
+  {
+    "startTime": 125.266,
+    "endTime": 128.333,
+    "fullTextZH": "我们的国家就会变得更好。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 125.527,
+        "endTime": 125.827,
+        "gloss": "our"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 125.827,
+        "endTime": 125.968,
+        "gloss": "de"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 125.968,
+        "endTime": 126.649,
+        "gloss": "country"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 126.649,
+        "endTime": 126.83,
+        "gloss": "then"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 126.83,
+        "endTime": 126.99,
+        "gloss": "will"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 126.99,
+        "endTime": 127.551,
+        "gloss": "become"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 127.551,
+        "endTime": 128.273,
+        "gloss": "better"
+      }
+    ],
+    "fullTextEN": "our country will become better."
+  },
+  {
+    "startTime": 129.033,
+    "endTime": 134.533,
+    "fullTextZH": "国王就让唐僧去这个神仙家里拿书，",
+    "words": [
+      {
+        "word": "国王",
+        "pinyin": "guó wáng",
+        "startTime": 129.113,
+        "endTime": 129.997,
+        "gloss": "king"
+      },
+      {
+        "word": "就让",
+        "pinyin": "jiù ràng",
+        "startTime": 129.997,
+        "endTime": 130.458,
+        "gloss": "then let"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 130.458,
+        "endTime": 131.843,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 131.843,
+        "endTime": 132.104,
+        "gloss": "go"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 132.104,
+        "endTime": 132.506,
+        "gloss": "this"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 132.506,
+        "endTime": 133.048,
+        "gloss": "immortal"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 133.048,
+        "endTime": 133.871,
+        "gloss": "home"
+      },
+      {
+        "word": "拿书",
+        "pinyin": "ná shū",
+        "startTime": 133.871,
+        "endTime": 134.493,
+        "gloss": "get books"
+      }
+    ],
+    "fullTextEN": "The king then sent Tang Monk to get the books from this immortal's home,"
+  },
+  {
+    "startTime": 134.733,
+    "endTime": 139.033,
+    "fullTextZH": "唐僧想早点把书拿回来。",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 134.753,
+        "endTime": 135.778,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 135.778,
+        "endTime": 136.18,
+        "gloss": "want"
+      },
+      {
+        "word": "早点",
+        "pinyin": "zǎo diǎn",
+        "startTime": 136.18,
+        "endTime": 136.742,
+        "gloss": "early"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 136.742,
+        "endTime": 137.004,
+        "gloss": "ba"
+      },
+      {
+        "word": "书",
+        "pinyin": "shū",
+        "startTime": 137.004,
+        "endTime": 137.526,
+        "gloss": "books"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 137.526,
+        "endTime": 137.847,
+        "gloss": "bring"
+      },
+      {
+        "word": "回来",
+        "pinyin": "huí lái",
+        "startTime": 137.847,
+        "endTime": 138.993,
+        "gloss": "back"
+      }
+    ],
+    "fullTextEN": "Tang Monk wanted to bring the books back as soon as possible."
+  },
+  {
+    "startTime": 139.066,
+    "endTime": 140.233,
+    "fullTextZH": "第二天，",
+    "words": [
+      {
+        "word": "第二天",
+        "pinyin": "dì èr tiān",
+        "startTime": 139.167,
+        "endTime": 140.193,
+        "gloss": "next day"
+      }
+    ],
+    "fullTextEN": "The next day,"
+  },
+  {
+    "startTime": 140.266,
+    "endTime": 143.5,
+    "fullTextZH": "他骑着一匹白马出发了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 140.326,
+        "endTime": 140.768,
+        "gloss": "he"
+      },
+      {
+        "word": "骑",
+        "pinyin": "qí",
+        "startTime": 140.768,
+        "endTime": 141.029,
+        "gloss": "ride"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 141.029,
+        "endTime": 141.19,
+        "gloss": "zhe"
+      },
+      {
+        "word": "一匹",
+        "pinyin": "yì pǐ",
+        "startTime": 141.19,
+        "endTime": 141.491,
+        "gloss": "a"
+      },
+      {
+        "word": "白马",
+        "pinyin": "bái mǎ",
+        "startTime": 141.491,
+        "endTime": 142.636,
+        "gloss": "white horse"
+      },
+      {
+        "word": "出发",
+        "pinyin": "chū fā",
+        "startTime": 142.636,
+        "endTime": 143.159,
+        "gloss": "set off"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 143.159,
+        "endTime": 143.46,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "he set off riding a white horse."
+  },
+  {
+    "startTime": 143.833,
+    "endTime": 146.233,
+    "fullTextZH": "经过五行山，",
+    "words": [
+      {
+        "word": "经过",
+        "pinyin": "jīng guò",
+        "startTime": 143.894,
+        "endTime": 144.579,
+        "gloss": "pass by"
+      },
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 144.579,
+        "endTime": 145.144,
+        "gloss": "five"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 145.144,
+        "endTime": 146.213,
+        "gloss": "elements"
+      }
+    ],
+    "fullTextEN": "Passing by the Five Elements Mountain,"
+  },
+  {
+    "startTime": 146.266,
+    "endTime": 152.233,
+    "fullTextZH": "唐僧听见了一个声音：师傅，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 146.286,
+        "endTime": 147.287,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "听见",
+        "pinyin": "tīng jiàn",
+        "startTime": 147.287,
+        "endTime": 147.728,
+        "gloss": "heard"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 147.728,
+        "endTime": 147.928,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 147.928,
+        "endTime": 148.388,
+        "gloss": "a"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 148.388,
+        "endTime": 149.47,
+        "gloss": "voice"
+      },
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 150.591,
+        "endTime": 152.213,
+        "gloss": "master"
+      }
+    ],
+    "fullTextEN": "Tang Monk heard a voice: Master,"
+  },
+  {
+    "startTime": 152.266,
+    "endTime": 153.133,
+    "fullTextZH": "师傅！",
+    "words": [
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 152.306,
+        "endTime": 153.093,
+        "gloss": "master"
+      }
+    ],
+    "fullTextEN": "Master!"
+  },
+  {
+    "startTime": 155.0,
+    "endTime": 156.066,
+    "fullTextZH": "咦，",
+    "words": [
+      {
+        "word": "咦",
+        "pinyin": "yí",
+        "startTime": 155.02,
+        "endTime": 156.026,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Oh,"
+  },
+  {
+    "startTime": 156.1,
+    "endTime": 157.666,
+    "fullTextZH": "什么是师傅呢？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 156.16,
+        "endTime": 156.542,
+        "gloss": "what"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 156.542,
+        "endTime": 156.783,
+        "gloss": "is"
+      },
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 156.783,
+        "endTime": 157.244,
+        "gloss": "master"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 157.244,
+        "endTime": 157.626,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What is a master?"
+  },
+  {
+    "startTime": 159.2,
+    "endTime": 162.066,
+    "fullTextZH": "师傅就是老师，",
+    "words": [
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 159.2,
+        "endTime": 160.062,
+        "gloss": "master"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 160.062,
+        "endTime": 160.563,
+        "gloss": "is"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 160.563,
+        "endTime": 162.026,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "A master is a teacher,"
+  },
+  {
+    "startTime": 162.1,
+    "endTime": 166.6,
+    "fullTextZH": "我们可以和老师学很多东西，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 162.361,
+        "endTime": 163.325,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 163.325,
+        "endTime": 163.868,
+        "gloss": "can"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 163.868,
+        "endTime": 164.089,
+        "gloss": "with"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 164.089,
+        "endTime": 165.013,
+        "gloss": "teacher"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 165.013,
+        "endTime": 165.435,
+        "gloss": "learn"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 165.435,
+        "endTime": 165.997,
+        "gloss": "many"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 165.997,
+        "endTime": 166.56,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "We can learn many things from teachers,"
+  },
+  {
+    "startTime": 167.866,
+    "endTime": 170.833,
+    "fullTextZH": "师傅也像爸爸妈妈，",
+    "words": [
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 167.906,
+        "endTime": 168.668,
+        "gloss": "master"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 168.668,
+        "endTime": 168.828,
+        "gloss": "also"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 168.828,
+        "endTime": 169.149,
+        "gloss": "like"
+      },
+      {
+        "word": "爸爸妈妈",
+        "pinyin": "bà bà mā mā",
+        "startTime": 169.149,
+        "endTime": 170.813,
+        "gloss": "parents"
+      }
+    ],
+    "fullTextEN": "A master is also like a parent,"
+  },
+  {
+    "startTime": 170.866,
+    "endTime": 173.366,
+    "fullTextZH": "可以帮助我们。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 170.947,
+        "endTime": 171.551,
+        "gloss": "can"
+      },
+      {
+        "word": "帮助",
+        "pinyin": "bāng zhù",
+        "startTime": 171.551,
+        "endTime": 172.136,
+        "gloss": "help"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 172.136,
+        "endTime": 173.326,
+        "gloss": "us"
+      }
+    ],
+    "fullTextEN": "and can help us."
+  },
+  {
+    "startTime": 173.433,
+    "endTime": 174.5,
+    "fullTextZH": "我呢，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 173.634,
+        "endTime": 173.896,
+        "gloss": "I"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 173.896,
+        "endTime": 174.46,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "As for me,"
+  },
+  {
+    "startTime": 174.533,
+    "endTime": 175.5,
+    "fullTextZH": "是老师，",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 174.614,
+        "endTime": 174.755,
+        "gloss": "am"
+      },
+      {
+        "word": "老师",
+        "pinyin": "lǎo shī",
+        "startTime": 174.755,
+        "endTime": 175.46,
+        "gloss": "teacher"
+      }
+    ],
+    "fullTextEN": "I am a teacher,"
+  },
+  {
+    "startTime": 175.533,
+    "endTime": 177.3,
+    "fullTextZH": "不是师傅。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 175.694,
+        "endTime": 176.155,
+        "gloss": "not"
+      },
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 176.155,
+        "endTime": 177.26,
+        "gloss": "master"
+      }
+    ],
+    "fullTextEN": "not a master."
+  },
+  {
+    "startTime": 177.333,
+    "endTime": 179.2,
+    "fullTextZH": "唐僧是师傅，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 177.393,
+        "endTime": 178.377,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 178.377,
+        "endTime": 178.618,
+        "gloss": "is"
+      },
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 178.618,
+        "endTime": 179.16,
+        "gloss": "master"
+      }
+    ],
+    "fullTextEN": "Tang Monk is a master,"
+  },
+  {
+    "startTime": 179.9,
+    "endTime": 183.3,
+    "fullTextZH": "这个声音是孙悟空在叫他。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 180.001,
+        "endTime": 180.322,
+        "gloss": "this"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 180.322,
+        "endTime": 181.107,
+        "gloss": "voice"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 181.107,
+        "endTime": 181.429,
+        "gloss": "is"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 181.429,
+        "endTime": 182.354,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 182.354,
+        "endTime": 182.616,
+        "gloss": "at"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 182.616,
+        "endTime": 182.938,
+        "gloss": "call"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 182.938,
+        "endTime": 183.26,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "This voice is Sun Wukong calling him."
+  },
+  {
+    "startTime": 183.433,
+    "endTime": 186.3,
+    "fullTextZH": "唐僧人很好，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 183.493,
+        "endTime": 184.636,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 184.636,
+        "endTime": 185.017,
+        "gloss": "person"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 185.017,
+        "endTime": 185.358,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 185.358,
+        "endTime": 186.28,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Tang Monk is very kind,"
+  },
+  {
+    "startTime": 186.366,
+    "endTime": 188.833,
+    "fullTextZH": "他想帮助孙悟空。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 186.426,
+        "endTime": 186.707,
+        "gloss": "he"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 186.707,
+        "endTime": 187.389,
+        "gloss": "wants"
+      },
+      {
+        "word": "帮助",
+        "pinyin": "bāng zhù",
+        "startTime": 187.389,
+        "endTime": 187.991,
+        "gloss": "help"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 187.991,
+        "endTime": 188.793,
+        "gloss": "Sun Wukong"
+      }
+    ],
+    "fullTextEN": "He wants to help Sun Wukong."
+  },
+  {
+    "startTime": 189.1,
+    "endTime": 194.8,
+    "fullTextZH": "唐僧看着五行山说了几句话，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 189.16,
+        "endTime": 190.144,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "看着",
+        "pinyin": "kàn zhe",
+        "startTime": 190.144,
+        "endTime": 191.127,
+        "gloss": "looked at"
+      },
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 191.127,
+        "endTime": 191.669,
+        "gloss": "Five Elements"
+      },
+      {
+        "word": "山说",
+        "pinyin": "shān shuō",
+        "startTime": 191.669,
+        "endTime": 193.114,
+        "gloss": "Mountain said"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 193.114,
+        "endTime": 193.495,
+        "gloss": "le"
+      },
+      {
+        "word": "几句话",
+        "pinyin": "jǐ jù huà",
+        "startTime": 193.495,
+        "endTime": 194.78,
+        "gloss": "a few words"
+      }
+    ],
+    "fullTextEN": "Tang Monk looked at Five Elements Mountain and said a few words,"
+  },
+  {
+    "startTime": 194.866,
+    "endTime": 196.633,
+    "fullTextZH": "五行山慢慢，",
+    "words": [
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 194.946,
+        "endTime": 195.368,
+        "gloss": "Five Elements"
+      },
+      {
+        "word": "山",
+        "pinyin": "shān",
+        "startTime": 195.368,
+        "endTime": 195.569,
+        "gloss": "Mountain"
+      },
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 195.569,
+        "endTime": 196.613,
+        "gloss": "slowly"
+      }
+    ],
+    "fullTextEN": "Five Elements Mountain slowly,"
+  },
+  {
+    "startTime": 196.666,
+    "endTime": 199.866,
+    "fullTextZH": "慢慢地移动了，",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 197.391,
+        "endTime": 197.974,
+        "gloss": "slowly"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 197.974,
+        "endTime": 198.196,
+        "gloss": "de"
+      },
+      {
+        "word": "移动",
+        "pinyin": "yí dòng",
+        "startTime": 198.196,
+        "endTime": 198.699,
+        "gloss": "move"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 198.699,
+        "endTime": 199.846,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "slowly moved,"
+  },
+  {
+    "startTime": 199.9,
+    "endTime": 202.6,
+    "fullTextZH": "孙悟空从山下出来了。",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 200.001,
+        "endTime": 200.928,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 200.928,
+        "endTime": 201.23,
+        "gloss": "from"
+      },
+      {
+        "word": "山下",
+        "pinyin": "shān xià",
+        "startTime": 201.23,
+        "endTime": 201.834,
+        "gloss": "under mountain"
+      },
+      {
+        "word": "出来",
+        "pinyin": "chū lái",
+        "startTime": 201.834,
+        "endTime": 202.318,
+        "gloss": "come out"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 202.318,
+        "endTime": 202.56,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Sun Wukong came out from under the mountain."
+  },
+  {
+    "startTime": 203.466,
+    "endTime": 206.766,
+    "fullTextZH": "孙悟空非常感谢唐僧，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 203.506,
+        "endTime": 204.834,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "非常感谢",
+        "pinyin": "fēi cháng gǎn xiè",
+        "startTime": 204.834,
+        "endTime": 206.102,
+        "gloss": "very grateful"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 206.102,
+        "endTime": 206.726,
+        "gloss": "Tang Monk"
+      }
+    ],
+    "fullTextEN": "Sun Wukong is very grateful to Tang Monk,"
+  },
+  {
+    "startTime": 207.933,
+    "endTime": 210.033,
+    "fullTextZH": "从今天开始，",
+    "words": [
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 207.973,
+        "endTime": 208.377,
+        "gloss": "from"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 208.377,
+        "endTime": 208.862,
+        "gloss": "today"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 208.862,
+        "endTime": 210.013,
+        "gloss": "start"
+      }
+    ],
+    "fullTextEN": "Starting today,"
+  },
+  {
+    "startTime": 210.1,
+    "endTime": 215.0,
+    "fullTextZH": "孙悟空跟着唐僧一起去神仙家拿书。",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 210.14,
+        "endTime": 211.184,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "跟着",
+        "pinyin": "gēn zhe",
+        "startTime": 211.184,
+        "endTime": 211.506,
+        "gloss": "follows"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 211.506,
+        "endTime": 212.47,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 212.47,
+        "endTime": 213.072,
+        "gloss": "together"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 213.072,
+        "endTime": 213.353,
+        "gloss": "go"
+      },
+      {
+        "word": "神仙",
+        "pinyin": "shén xiān",
+        "startTime": 213.353,
+        "endTime": 213.855,
+        "gloss": "immortal"
+      },
+      {
+        "word": "家拿书",
+        "pinyin": "jiā ná shū",
+        "startTime": 213.855,
+        "endTime": 214.96,
+        "gloss": "home get scriptures"
+      }
+    ],
+    "fullTextEN": "Sun Wukong follows Tang Monk to the immortal's home to get the scriptures."
+  },
+  {
+    "startTime": 215.633,
+    "endTime": 219.433,
+    "fullTextZH": "他们在路上走着走着，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 215.693,
+        "endTime": 216.156,
+        "gloss": "they"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 216.156,
+        "endTime": 216.437,
+        "gloss": "at"
+      },
+      {
+        "word": "路上",
+        "pinyin": "lù shàng",
+        "startTime": 216.437,
+        "endTime": 217.503,
+        "gloss": "road"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 217.503,
+        "endTime": 217.925,
+        "gloss": "walk"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 217.925,
+        "endTime": 218.106,
+        "gloss": "ing"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 218.106,
+        "endTime": 218.387,
+        "gloss": "walk"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 218.387,
+        "endTime": 219.393,
+        "gloss": "ing"
+      }
+    ],
+    "fullTextEN": "They were walking along the road,"
+  },
+  {
+    "startTime": 219.466,
+    "endTime": 221.466,
+    "fullTextZH": "看见了一条河。",
+    "words": [
+      {
+        "word": "看见",
+        "pinyin": "kàn jiàn",
+        "startTime": 219.527,
+        "endTime": 220.032,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 220.032,
+        "endTime": 220.496,
+        "gloss": "le"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 220.496,
+        "endTime": 221.001,
+        "gloss": "a"
+      },
+      {
+        "word": "河",
+        "pinyin": "hé",
+        "startTime": 221.001,
+        "endTime": 221.426,
+        "gloss": "river"
+      }
+    ],
+    "fullTextEN": "and saw a river."
+  },
+  {
+    "startTime": 222.066,
+    "endTime": 226.166,
+    "fullTextZH": "唐僧说：孙悟空，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 222.106,
+        "endTime": 222.769,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 222.769,
+        "endTime": 223.674,
+        "gloss": "said"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 224.779,
+        "endTime": 226.146,
+        "gloss": "Sun Wukong"
+      }
+    ],
+    "fullTextEN": "Tang Seng said: Sun Wukong,"
+  },
+  {
+    "startTime": 226.233,
+    "endTime": 231.1,
+    "fullTextZH": "你已经 500年没有洗澡了，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 226.373,
+        "endTime": 226.634,
+        "gloss": "you"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 226.634,
+        "endTime": 227.495,
+        "gloss": "already"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 228.076,
+        "endTime": 228.636,
+        "gloss": "year"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 228.636,
+        "endTime": 229.237,
+        "gloss": "not"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 229.237,
+        "endTime": 229.738,
+        "gloss": "bathe"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 229.738,
+        "endTime": 231.06,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "you haven't bathed for 500 years,"
+  },
+  {
+    "startTime": 231.166,
+    "endTime": 232.766,
+    "fullTextZH": "快去洗洗澡。",
+    "words": [
+      {
+        "word": "快去",
+        "pinyin": "kuài qù",
+        "startTime": 231.227,
+        "endTime": 232.077,
+        "gloss": "quickly"
+      },
+      {
+        "word": "洗洗澡",
+        "pinyin": "xǐ xǐ zǎo",
+        "startTime": 232.077,
+        "endTime": 232.725,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "go take a bath quickly."
+  },
+  {
+    "startTime": 233.433,
+    "endTime": 237.433,
+    "fullTextZH": "孙悟空一点也不听师傅的话，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 233.453,
+        "endTime": 234.619,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 234.619,
+        "endTime": 235.644,
+        "gloss": "not at all"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 235.644,
+        "endTime": 235.865,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 235.865,
+        "endTime": 236.086,
+        "gloss": "not"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 236.086,
+        "endTime": 236.428,
+        "gloss": "listen"
+      },
+      {
+        "word": "师傅",
+        "pinyin": "shī fù",
+        "startTime": 236.428,
+        "endTime": 236.85,
+        "gloss": "master"
+      },
+      {
+        "word": "的话",
+        "pinyin": "de huà",
+        "startTime": 236.85,
+        "endTime": 237.393,
+        "gloss": "words"
+      }
+    ],
+    "fullTextEN": "Sun Wukong didn't listen to his master at all,"
+  },
+  {
+    "startTime": 237.733,
+    "endTime": 240.333,
+    "fullTextZH": "唐僧有点生气。",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 237.753,
+        "endTime": 238.882,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "有点",
+        "pinyin": "yǒu diǎn",
+        "startTime": 238.882,
+        "endTime": 239.587,
+        "gloss": "a bit"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 239.587,
+        "endTime": 240.293,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "Tang Seng was a bit angry."
+  },
+  {
+    "startTime": 240.433,
+    "endTime": 245.9,
+    "fullTextZH": "它们走着走着又看见了一只老虎，",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 240.473,
+        "endTime": 241.574,
+        "gloss": "they"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 241.574,
+        "endTime": 242.055,
+        "gloss": "walk"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 242.055,
+        "endTime": 242.335,
+        "gloss": "ing"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 242.335,
+        "endTime": 242.676,
+        "gloss": "walk"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 242.676,
+        "endTime": 243.697,
+        "gloss": "ing"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 243.697,
+        "endTime": 244.058,
+        "gloss": "again"
+      },
+      {
+        "word": "看见",
+        "pinyin": "kàn jiàn",
+        "startTime": 244.058,
+        "endTime": 244.538,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 244.538,
+        "endTime": 244.879,
+        "gloss": "le"
+      },
+      {
+        "word": "一只",
+        "pinyin": "yī zhī",
+        "startTime": 244.879,
+        "endTime": 245.139,
+        "gloss": "a"
+      },
+      {
+        "word": "老虎",
+        "pinyin": "lǎo hǔ",
+        "startTime": 245.139,
+        "endTime": 245.86,
+        "gloss": "tiger"
+      }
+    ],
+    "fullTextEN": "They walked and walked and saw a tiger,"
+  },
+  {
+    "startTime": 246.433,
+    "endTime": 248.766,
+    "fullTextZH": "这只老虎想吃他们。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 246.493,
+        "endTime": 246.674,
+        "gloss": "this"
+      },
+      {
+        "word": "只",
+        "pinyin": "zhǐ",
+        "startTime": 246.674,
+        "endTime": 246.775,
+        "gloss": "measure"
+      },
+      {
+        "word": "老虎",
+        "pinyin": "lǎo hǔ",
+        "startTime": 246.775,
+        "endTime": 247.237,
+        "gloss": "tiger"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 247.237,
+        "endTime": 247.599,
+        "gloss": "want"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 247.599,
+        "endTime": 247.861,
+        "gloss": "eat"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 247.861,
+        "endTime": 248.726,
+        "gloss": "them"
+      }
+    ],
+    "fullTextEN": "this tiger wanted to eat them."
+  },
+  {
+    "startTime": 249.433,
+    "endTime": 254.066,
+    "fullTextZH": "孙悟空从耳朵里拿出金箍棒，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 249.573,
+        "endTime": 250.636,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 250.636,
+        "endTime": 250.977,
+        "gloss": "from"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 250.977,
+        "endTime": 251.399,
+        "gloss": "ear"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 251.399,
+        "endTime": 252.04,
+        "gloss": "inside"
+      },
+      {
+        "word": "拿出",
+        "pinyin": "ná chū",
+        "startTime": 252.04,
+        "endTime": 252.602,
+        "gloss": "take out"
+      },
+      {
+        "word": "金箍棒",
+        "pinyin": "jīn gū bàng",
+        "startTime": 252.602,
+        "endTime": 254.046,
+        "gloss": "golden staff"
+      }
+    ],
+    "fullTextEN": "Sun Wukong took out his golden staff from his ear,"
+  },
+  {
+    "startTime": 254.066,
+    "endTime": 257.033,
+    "fullTextZH": "说大大大。",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 254.166,
+        "endTime": 255.489,
+        "gloss": "say"
+      },
+      {
+        "word": "大大",
+        "pinyin": "dà dà",
+        "startTime": 255.489,
+        "endTime": 256.091,
+        "gloss": "big big"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 256.091,
+        "endTime": 256.993,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "and said 'big, big, big'."
+  },
+  {
+    "startTime": 257.066,
+    "endTime": 260.9,
+    "fullTextZH": "金箍棒变得又长又大了，",
+    "words": [
+      {
+        "word": "金箍棒",
+        "pinyin": "jīn gū bàng",
+        "startTime": 257.106,
+        "endTime": 257.869,
+        "gloss": "golden staff"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 257.869,
+        "endTime": 258.491,
+        "gloss": "became"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 258.491,
+        "endTime": 259.013,
+        "gloss": "again"
+      },
+      {
+        "word": "长",
+        "pinyin": "zhǎng",
+        "startTime": 259.013,
+        "endTime": 259.836,
+        "gloss": "long"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 259.836,
+        "endTime": 260.238,
+        "gloss": "again"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 260.238,
+        "endTime": 260.579,
+        "gloss": "big"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 260.579,
+        "endTime": 260.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "The golden staff became long and big,"
+  },
+  {
+    "startTime": 261.233,
+    "endTime": 265.3,
+    "fullTextZH": "孙悟空拿着金箍棒打老虎，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 261.273,
+        "endTime": 262.215,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 262.215,
+        "endTime": 262.535,
+        "gloss": "hold"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 262.535,
+        "endTime": 262.716,
+        "gloss": "ing"
+      },
+      {
+        "word": "金箍棒",
+        "pinyin": "jīn gū bàng",
+        "startTime": 262.716,
+        "endTime": 263.517,
+        "gloss": "golden staff"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 263.517,
+        "endTime": 263.757,
+        "gloss": "hit"
+      },
+      {
+        "word": "老虎",
+        "pinyin": "lǎo hǔ",
+        "startTime": 263.757,
+        "endTime": 264.579,
+        "gloss": "tiger"
+      }
+    ],
+    "fullTextEN": "Sun Wukong hit the tiger with the golden staff,"
+  },
+  {
+    "startTime": 265.366,
+    "endTime": 267.8,
+    "fullTextZH": "老虎死了。",
+    "words": [
+      {
+        "word": "老虎",
+        "pinyin": "lǎo hǔ",
+        "startTime": 265.426,
+        "endTime": 266.251,
+        "gloss": "tiger"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 266.251,
+        "endTime": 266.513,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 266.513,
+        "endTime": 267.78,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "and the tiger died."
+  },
+  {
+    "startTime": 267.833,
+    "endTime": 270.6,
+    "fullTextZH": "唐僧更生气了，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 267.893,
+        "endTime": 268.795,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "更",
+        "pinyin": "gèng",
+        "startTime": 268.795,
+        "endTime": 269.136,
+        "gloss": "even"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 269.136,
+        "endTime": 269.638,
+        "gloss": "angry"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 269.638,
+        "endTime": 270.56,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Tang Seng became even angrier,"
+  },
+  {
+    "startTime": 270.633,
+    "endTime": 273.9,
+    "fullTextZH": "他不想让孙悟空打死老虎，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 270.713,
+        "endTime": 271.034,
+        "gloss": "he"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 271.034,
+        "endTime": 271.495,
+        "gloss": "not want"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 271.495,
+        "endTime": 271.775,
+        "gloss": "let"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 271.775,
+        "endTime": 272.738,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "打死老虎",
+        "pinyin": "dǎ sǐ lǎo hǔ",
+        "startTime": 272.738,
+        "endTime": 273.86,
+        "gloss": "kill tiger"
+      }
+    ],
+    "fullTextEN": "he didn't want Sun Wukong to kill the tiger,"
+  },
+  {
+    "startTime": 274.033,
+    "endTime": 276.533,
+    "fullTextZH": "孙悟空这么不听话，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 274.093,
+        "endTime": 275.102,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 275.102,
+        "endTime": 275.505,
+        "gloss": "so"
+      },
+      {
+        "word": "不听话",
+        "pinyin": "bù tīng huà",
+        "startTime": 275.505,
+        "endTime": 276.493,
+        "gloss": "disobedient"
+      }
+    ],
+    "fullTextEN": "Sun Wukong was so disobedient,"
+  },
+  {
+    "startTime": 276.6,
+    "endTime": 277.666,
+    "fullTextZH": "怎么办呢？",
+    "words": [
+      {
+        "word": "怎么办",
+        "pinyin": "zěn me bàn",
+        "startTime": 276.68,
+        "endTime": 277.284,
+        "gloss": "what to do"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 277.284,
+        "endTime": 277.646,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "what to do?"
+  },
+  {
+    "startTime": 278.066,
+    "endTime": 281.9,
+    "fullTextZH": "晚上唐僧和孙悟空聊天，",
+    "words": [
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 278.086,
+        "endTime": 279.11,
+        "gloss": "evening"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 279.11,
+        "endTime": 279.752,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 279.752,
+        "endTime": 280.013,
+        "gloss": "with"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 280.013,
+        "endTime": 280.615,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 280.615,
+        "endTime": 281.017,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "In the evening, Tang Seng chatted with Sun Wukong,"
+  },
+  {
+    "startTime": 281.966,
+    "endTime": 284.566,
+    "fullTextZH": "唐僧送给他一个帽子，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 282.006,
+        "endTime": 282.833,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "送给",
+        "pinyin": "sòng gěi",
+        "startTime": 282.833,
+        "endTime": 283.236,
+        "gloss": "give"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 283.236,
+        "endTime": 283.498,
+        "gloss": "him"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 283.498,
+        "endTime": 283.78,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 283.78,
+        "endTime": 284.526,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Tang Seng gave him a hat,"
+  },
+  {
+    "startTime": 284.7,
+    "endTime": 287.333,
+    "fullTextZH": "这个帽子是金色的，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 284.76,
+        "endTime": 285.022,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 285.022,
+        "endTime": 285.785,
+        "gloss": "hat"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 285.785,
+        "endTime": 286.087,
+        "gloss": "is"
+      },
+      {
+        "word": "金色",
+        "pinyin": "jīn sè",
+        "startTime": 286.087,
+        "endTime": 286.71,
+        "gloss": "golden"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 286.71,
+        "endTime": 287.293,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "This hat is golden,"
+  },
+  {
+    "startTime": 287.366,
+    "endTime": 289.333,
+    "fullTextZH": "非常漂亮。",
+    "words": [
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 287.446,
+        "endTime": 287.928,
+        "gloss": "very"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 287.928,
+        "endTime": 289.293,
+        "gloss": "beautiful"
+      }
+    ],
+    "fullTextEN": "Very beautiful."
+  },
+  {
+    "startTime": 289.366,
+    "endTime": 291.533,
+    "fullTextZH": "孙悟空很喜欢，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 289.406,
+        "endTime": 290.47,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 290.47,
+        "endTime": 290.891,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 290.891,
+        "endTime": 291.493,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Sun Wukong likes it a lot,"
+  },
+  {
+    "startTime": 293.6,
+    "endTime": 295.466,
+    "fullTextZH": "就戴在头上，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 293.66,
+        "endTime": 294.322,
+        "gloss": "then"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 294.322,
+        "endTime": 294.583,
+        "gloss": "wear"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 294.583,
+        "endTime": 294.784,
+        "gloss": "on"
+      },
+      {
+        "word": "头上",
+        "pinyin": "tóu shàng",
+        "startTime": 294.784,
+        "endTime": 295.426,
+        "gloss": "head"
+      }
+    ],
+    "fullTextEN": "so he wears it on his head,"
+  },
+  {
+    "startTime": 296.9,
+    "endTime": 299.566,
+    "fullTextZH": "可是戴上帽子以后，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 296.98,
+        "endTime": 298.002,
+        "gloss": "but"
+      },
+      {
+        "word": "戴上",
+        "pinyin": "dài shàng",
+        "startTime": 298.002,
+        "endTime": 298.464,
+        "gloss": "put on"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 298.464,
+        "endTime": 298.824,
+        "gloss": "hat"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 298.824,
+        "endTime": 299.546,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "but after putting on the hat,"
+  },
+  {
+    "startTime": 299.633,
+    "endTime": 302.5,
+    "fullTextZH": "他的头很疼很疼，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 299.693,
+        "endTime": 299.974,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 299.974,
+        "endTime": 300.214,
+        "gloss": "de"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 300.214,
+        "endTime": 300.916,
+        "gloss": "head"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 300.916,
+        "endTime": 301.397,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 301.397,
+        "endTime": 301.838,
+        "gloss": "hurt"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 301.838,
+        "endTime": 302.119,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 302.119,
+        "endTime": 302.46,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "his head hurt a lot,"
+  },
+  {
+    "startTime": 303.766,
+    "endTime": 307.8,
+    "fullTextZH": "帽子变成了一个金色的圆环，",
+    "words": [
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 303.786,
+        "endTime": 304.689,
+        "gloss": "hat"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 304.689,
+        "endTime": 305.111,
+        "gloss": "turn into"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 305.111,
+        "endTime": 305.211,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 305.211,
+        "endTime": 305.853,
+        "gloss": "a"
+      },
+      {
+        "word": "金色",
+        "pinyin": "jīn sè",
+        "startTime": 305.853,
+        "endTime": 306.315,
+        "gloss": "golden"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 306.315,
+        "endTime": 306.435,
+        "gloss": "de"
+      },
+      {
+        "word": "圆环",
+        "pinyin": "yuán huán",
+        "startTime": 306.435,
+        "endTime": 307.78,
+        "gloss": "ring"
+      }
+    ],
+    "fullTextEN": "the hat turned into a golden ring,"
+  },
+  {
+    "startTime": 307.866,
+    "endTime": 309.966,
+    "fullTextZH": "孙悟空拿不下来，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 307.947,
+        "endTime": 308.795,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "拿",
+        "pinyin": "ná",
+        "startTime": 308.795,
+        "endTime": 309.138,
+        "gloss": "take"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 309.138,
+        "endTime": 309.3,
+        "gloss": "not"
+      },
+      {
+        "word": "下来",
+        "pinyin": "xià lái",
+        "startTime": 309.3,
+        "endTime": 309.926,
+        "gloss": "off"
+      }
+    ],
+    "fullTextEN": "Sun Wukong couldn't take it off,"
+  },
+  {
+    "startTime": 310.4,
+    "endTime": 319.4,
+    "fullTextZH": "这个时候他看见唐僧一直在说一句话：吃葡萄不吐葡萄皮，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 310.48,
+        "endTime": 310.801,
+        "gloss": "this"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 310.801,
+        "endTime": 311.743,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 311.743,
+        "endTime": 311.963,
+        "gloss": "he"
+      },
+      {
+        "word": "看见",
+        "pinyin": "kàn jiàn",
+        "startTime": 311.963,
+        "endTime": 313.006,
+        "gloss": "saw"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 313.006,
+        "endTime": 313.988,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "一直",
+        "pinyin": "yì zhí",
+        "startTime": 313.988,
+        "endTime": 314.509,
+        "gloss": "continuously"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 314.509,
+        "endTime": 314.75,
+        "gloss": "at"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 314.75,
+        "endTime": 314.99,
+        "gloss": "say"
+      },
+      {
+        "word": "一句",
+        "pinyin": "yī jù",
+        "startTime": 314.99,
+        "endTime": 315.351,
+        "gloss": "one"
+      },
+      {
+        "word": "话",
+        "pinyin": "huà",
+        "startTime": 315.351,
+        "endTime": 315.371,
+        "gloss": "phrase"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 316.614,
+        "endTime": 316.914,
+        "gloss": "eat"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 316.914,
+        "endTime": 317.556,
+        "gloss": "grapes"
+      },
+      {
+        "word": "不吐",
+        "pinyin": "bù tǔ",
+        "startTime": 317.556,
+        "endTime": 318.117,
+        "gloss": "not spit"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 318.117,
+        "endTime": 318.678,
+        "gloss": "grapes"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 318.678,
+        "endTime": 319.38,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "at this time he saw Tang Seng saying a phrase repeatedly: Eat grapes without spitting out the skins,"
+  },
+  {
+    "startTime": 319.433,
+    "endTime": 321.8,
+    "fullTextZH": "吃葡萄不吐葡萄皮。",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 319.493,
+        "endTime": 319.794,
+        "gloss": "eat"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 319.794,
+        "endTime": 320.336,
+        "gloss": "grapes"
+      },
+      {
+        "word": "不吐",
+        "pinyin": "bù tǔ",
+        "startTime": 320.336,
+        "endTime": 320.857,
+        "gloss": "not spit"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 320.857,
+        "endTime": 321.419,
+        "gloss": "grapes"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 321.419,
+        "endTime": 321.78,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "Eat grapes without spitting out the skins."
+  },
+  {
+    "startTime": 323.2,
+    "endTime": 326.6,
+    "fullTextZH": "唐僧不说话了，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 323.22,
+        "endTime": 324.488,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 324.488,
+        "endTime": 324.789,
+        "gloss": "not"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 324.789,
+        "endTime": 325.333,
+        "gloss": "speak"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 325.333,
+        "endTime": 326.56,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Tang Seng stopped talking,"
+  },
+  {
+    "startTime": 326.633,
+    "endTime": 329.5,
+    "fullTextZH": "他的头就不疼了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 326.693,
+        "endTime": 326.954,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 326.954,
+        "endTime": 327.154,
+        "gloss": "de"
+      },
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 327.154,
+        "endTime": 328.016,
+        "gloss": "head"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 328.016,
+        "endTime": 328.457,
+        "gloss": "then"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 328.457,
+        "endTime": 328.858,
+        "gloss": "not"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 328.858,
+        "endTime": 329.239,
+        "gloss": "hurt"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 329.239,
+        "endTime": 329.46,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "his head stopped hurting."
+  },
+  {
+    "startTime": 330.2,
+    "endTime": 333.0,
+    "fullTextZH": "唐僧告诉孙悟空，",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 330.26,
+        "endTime": 331.268,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 331.268,
+        "endTime": 331.731,
+        "gloss": "tell"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 331.731,
+        "endTime": 332.96,
+        "gloss": "Sun Wukong"
+      }
+    ],
+    "fullTextEN": "Tang Seng told Sun Wukong,"
+  },
+  {
+    "startTime": 333.066,
+    "endTime": 335.266,
+    "fullTextZH": "以后你要听话，",
+    "words": [
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 333.127,
+        "endTime": 334.095,
+        "gloss": "in future"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 334.095,
+        "endTime": 334.237,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 334.237,
+        "endTime": 334.519,
+        "gloss": "must"
+      },
+      {
+        "word": "听话",
+        "pinyin": "tīng huà",
+        "startTime": 334.519,
+        "endTime": 335.226,
+        "gloss": "obey"
+      }
+    ],
+    "fullTextEN": "in the future you must obey,"
+  },
+  {
+    "startTime": 336.366,
+    "endTime": 338.366,
+    "fullTextZH": "头就不会疼了。",
+    "words": [
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "startTime": 336.427,
+        "endTime": 337.154,
+        "gloss": "head"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 337.154,
+        "endTime": 337.336,
+        "gloss": "then"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 337.336,
+        "endTime": 337.78,
+        "gloss": "won't"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 337.78,
+        "endTime": 338.124,
+        "gloss": "hurt"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 338.124,
+        "endTime": 338.326,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "then your head won't hurt."
+  },
+  {
+    "startTime": 338.633,
+    "endTime": 345.066,
+    "fullTextZH": "孙悟空害怕唐僧说吃葡萄不吐葡萄皮，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 338.693,
+        "endTime": 339.835,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 339.835,
+        "endTime": 340.577,
+        "gloss": "afraid"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 340.577,
+        "endTime": 341.218,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 341.218,
+        "endTime": 342.581,
+        "gloss": "say"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 342.581,
+        "endTime": 342.942,
+        "gloss": "eat"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 342.942,
+        "endTime": 343.543,
+        "gloss": "grapes"
+      },
+      {
+        "word": "不吐",
+        "pinyin": "bù tǔ",
+        "startTime": 343.543,
+        "endTime": 344.104,
+        "gloss": "not spit"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 344.104,
+        "endTime": 344.665,
+        "gloss": "grapes"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 344.665,
+        "endTime": 345.046,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "Sun Wukong is afraid of Tang Seng saying eat grapes without spitting out the skins,"
+  },
+  {
+    "startTime": 346.2,
+    "endTime": 348.6,
+    "fullTextZH": "因为头会疼。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 346.281,
+        "endTime": 347.168,
+        "gloss": "because"
+      },
+      {
+        "word": "头会",
+        "pinyin": "tóu huì",
+        "startTime": 347.168,
+        "endTime": 348.096,
+        "gloss": "head will"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 348.096,
+        "endTime": 348.439,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "because his head will hurt."
+  },
+  {
+    "startTime": 349.8,
+    "endTime": 351.433,
+    "fullTextZH": "从今天以后，",
+    "words": [
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 349.881,
+        "endTime": 350.203,
+        "gloss": "from"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 350.203,
+        "endTime": 350.627,
+        "gloss": "today"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 350.627,
+        "endTime": 351.393,
+        "gloss": "onwards"
+      }
+    ],
+    "fullTextEN": "From today onwards,"
+  },
+  {
+    "startTime": 351.466,
+    "endTime": 353.833,
+    "fullTextZH": "孙悟空很听话，",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 351.526,
+        "endTime": 352.629,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 352.629,
+        "endTime": 353.091,
+        "gloss": "very"
+      },
+      {
+        "word": "听话",
+        "pinyin": "tīng huà",
+        "startTime": 353.091,
+        "endTime": 353.793,
+        "gloss": "obedient"
+      }
+    ],
+    "fullTextEN": "Sun Wukong is very obedient,"
+  },
+  {
+    "startTime": 354.966,
+    "endTime": 358.0,
+    "fullTextZH": "唐僧每天都很高兴。",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 355.006,
+        "endTime": 356.011,
+        "gloss": "Tang Seng"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 356.011,
+        "endTime": 356.975,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 356.975,
+        "endTime": 357.136,
+        "gloss": "all"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 357.136,
+        "endTime": 357.357,
+        "gloss": "very"
+      },
+      {
+        "word": "高兴",
+        "pinyin": "gāo xìng",
+        "startTime": 357.357,
+        "endTime": 357.96,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Tang Seng is happy every day."
+  },
+  {
+    "startTime": 358.166,
+    "endTime": 359.4,
+    "fullTextZH": "好了，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 358.227,
+        "endTime": 358.449,
+        "gloss": "okay"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 358.449,
+        "endTime": 359.36,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "Okay,"
+  },
+  {
+    "startTime": 359.433,
+    "endTime": 364.1,
+    "fullTextZH": "那王老师有几个问题要问你们。",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 359.513,
+        "endTime": 360.254,
+        "gloss": "that"
+      },
+      {
+        "word": "王老师",
+        "pinyin": "wáng lǎo shī",
+        "startTime": 360.254,
+        "endTime": 361.336,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 361.336,
+        "endTime": 361.596,
+        "gloss": "has"
+      },
+      {
+        "word": "几个",
+        "pinyin": "jǐ gè",
+        "startTime": 361.596,
+        "endTime": 361.897,
+        "gloss": "a few"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 361.897,
+        "endTime": 362.838,
+        "gloss": "questions"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 362.838,
+        "endTime": 363.359,
+        "gloss": "to"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 363.359,
+        "endTime": 363.599,
+        "gloss": "ask"
+      },
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 363.599,
+        "endTime": 364.08,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "Mr. Wang has a few questions to ask you."
+  },
+  {
+    "startTime": 365.466,
+    "endTime": 372.633,
+    "fullTextZH": "第一个问题是孙悟空在五行山下多少年？",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 365.566,
+        "endTime": 366.367,
+        "gloss": "first"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 366.367,
+        "endTime": 366.847,
+        "gloss": "question"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 366.847,
+        "endTime": 368.449,
+        "gloss": "is"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 368.449,
+        "endTime": 369.39,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 369.39,
+        "endTime": 369.93,
+        "gloss": "under"
+      },
+      {
+        "word": "五行",
+        "pinyin": "wǔ xíng",
+        "startTime": 369.93,
+        "endTime": 370.571,
+        "gloss": "Five Elements"
+      },
+      {
+        "word": "山下",
+        "pinyin": "shān xià",
+        "startTime": 370.571,
+        "endTime": 371.752,
+        "gloss": "Mountain"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 371.752,
+        "endTime": 372.213,
+        "gloss": "how many"
+      },
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 372.213,
+        "endTime": 372.593,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "The first question is how many years was Sun Wukong under the Five Elements Mountain?"
+  },
+  {
+    "startTime": 374.633,
+    "endTime": 380.433,
+    "fullTextZH": "第二个问题是谁帮助了孙悟空？",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 374.713,
+        "endTime": 375.636,
+        "gloss": "second"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 375.636,
+        "endTime": 376.138,
+        "gloss": "question"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 376.138,
+        "endTime": 377.603,
+        "gloss": "is"
+      },
+      {
+        "word": "谁",
+        "pinyin": "shuí",
+        "startTime": 377.603,
+        "endTime": 378.506,
+        "gloss": "who"
+      },
+      {
+        "word": "帮助",
+        "pinyin": "bāng zhù",
+        "startTime": 378.506,
+        "endTime": 379.068,
+        "gloss": "helped"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 379.068,
+        "endTime": 379.63,
+        "gloss": "completed"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 379.63,
+        "endTime": 380.393,
+        "gloss": "Sun Wukong"
+      }
+    ],
+    "fullTextEN": "The second question is who helped Sun Wukong?"
+  },
+  {
+    "startTime": 380.933,
+    "endTime": 386.833,
+    "fullTextZH": "第三个问题是孙悟空不听话的时候，",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 381.013,
+        "endTime": 382.037,
+        "gloss": "third"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 382.037,
+        "endTime": 382.498,
+        "gloss": "question"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 382.498,
+        "endTime": 383.743,
+        "gloss": "is"
+      },
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 383.743,
+        "endTime": 385.027,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "不听话",
+        "pinyin": "bù tīng huà",
+        "startTime": 385.027,
+        "endTime": 385.91,
+        "gloss": "disobedient"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 385.91,
+        "endTime": 386.09,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 386.09,
+        "endTime": 386.793,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "The third question is when Sun Wukong was disobedient,"
+  },
+  {
+    "startTime": 386.9,
+    "endTime": 389.0,
+    "fullTextZH": "唐僧做了什么？",
+    "words": [
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 386.961,
+        "endTime": 388.071,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 388.071,
+        "endTime": 388.273,
+        "gloss": "do"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 388.273,
+        "endTime": 388.455,
+        "gloss": "completed"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 388.455,
+        "endTime": 388.96,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What did Tang Monk do?"
+  },
+  {
+    "startTime": 389.0,
+    "endTime": 396.6,
+    "fullTextZH": "第四个问题是唐僧说吃葡萄不吐葡萄皮，",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 389.08,
+        "endTime": 389.802,
+        "gloss": "fourth"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 389.802,
+        "endTime": 390.243,
+        "gloss": "question"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 390.243,
+        "endTime": 391.286,
+        "gloss": "is"
+      },
+      {
+        "word": "唐僧",
+        "pinyin": "táng sēng",
+        "startTime": 391.286,
+        "endTime": 391.988,
+        "gloss": "Tang Monk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 391.988,
+        "endTime": 393.672,
+        "gloss": "said"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 393.672,
+        "endTime": 393.993,
+        "gloss": "eat"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 393.993,
+        "endTime": 394.595,
+        "gloss": "grapes"
+      },
+      {
+        "word": "不吐",
+        "pinyin": "bù tǔ",
+        "startTime": 394.595,
+        "endTime": 395.116,
+        "gloss": "not spit"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 395.116,
+        "endTime": 395.718,
+        "gloss": "grape"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 395.718,
+        "endTime": 396.58,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "The fourth question is Tang Monk said eating grapes without spitting the skin,"
+  },
+  {
+    "startTime": 396.633,
+    "endTime": 399.866,
+    "fullTextZH": "吃葡萄不吐葡萄皮，",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 396.713,
+        "endTime": 397.035,
+        "gloss": "eat"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 397.035,
+        "endTime": 397.677,
+        "gloss": "grapes"
+      },
+      {
+        "word": "不吐",
+        "pinyin": "bù tǔ",
+        "startTime": 397.677,
+        "endTime": 398.219,
+        "gloss": "not spit"
+      },
+      {
+        "word": "葡萄",
+        "pinyin": "pú táo",
+        "startTime": 398.219,
+        "endTime": 398.762,
+        "gloss": "grape"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 398.762,
+        "endTime": 399.826,
+        "gloss": "skin"
+      }
+    ],
+    "fullTextEN": "Eating grapes without spitting the skin,"
+  },
+  {
+    "startTime": 399.9,
+    "endTime": 402.0,
+    "fullTextZH": "孙悟空会怎么样？",
+    "words": [
+      {
+        "word": "孙悟空",
+        "pinyin": "sūn wù kōng",
+        "startTime": 399.981,
+        "endTime": 400.97,
+        "gloss": "Sun Wukong"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 400.97,
+        "endTime": 401.414,
+        "gloss": "will"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 401.414,
+        "endTime": 401.96,
+        "gloss": "what happen"
+      }
+    ],
+    "fullTextEN": "What will happen to Sun Wukong?"
+  },
+  {
+    "startTime": 404.066,
+    "endTime": 407.5,
+    "fullTextZH": "王老师在等你的回答哦，",
+    "words": [
+      {
+        "word": "王老师",
+        "pinyin": "wáng lǎo shī",
+        "startTime": 404.126,
+        "endTime": 405.15,
+        "gloss": "Mr. Wang"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 405.15,
+        "endTime": 405.391,
+        "gloss": "is"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 405.391,
+        "endTime": 405.612,
+        "gloss": "waiting"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 405.612,
+        "endTime": 405.773,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 405.773,
+        "endTime": 406.195,
+        "gloss": "of"
+      },
+      {
+        "word": "回答",
+        "pinyin": "huí dá",
+        "startTime": 406.195,
+        "endTime": 406.697,
+        "gloss": "answer"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 406.697,
+        "endTime": 407.46,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Mr. Wang is waiting for your answer,"
+  },
+  {
+    "startTime": 407.533,
+    "endTime": 408.133,
+    "fullTextZH": "再见！",
+    "words": [
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 407.636,
+        "endTime": 408.112,
+        "gloss": "goodbye"
+      }
+    ],
+    "fullTextEN": "Goodbye!"
+  }
+]

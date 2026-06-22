@@ -1,0 +1,4489 @@
+[
+  {
+    "startTime": 0.333,
+    "endTime": 2.133,
+    "fullTextZH": "大家好，我是Nika。",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.373,
+        "endTime": 0.616,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 0.616,
+        "endTime": 0.899,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.243,
+        "endTime": 1.385,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.385,
+        "endTime": 1.526,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "Hello everyone, I am Nika."
+  },
+  {
+    "startTime": 2.333,
+    "endTime": 3.8,
+    "fullTextZH": "我来自中国。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.353,
+        "endTime": 2.735,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 2.735,
+        "endTime": 3.056,
+        "gloss": "come from"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 3.056,
+        "endTime": 3.76,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "I come from China."
+  },
+  {
+    "startTime": 3.866,
+    "endTime": 6.666,
+    "fullTextZH": "现在住在安徽省合肥市。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 3.967,
+        "endTime": 4.269,
+        "gloss": "now"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 4.269,
+        "endTime": 4.43,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 4.43,
+        "endTime": 4.934,
+        "gloss": "in"
+      },
+      {
+        "word": "安徽省",
+        "pinyin": "ān huī shěng",
+        "startTime": 4.934,
+        "endTime": 5.739,
+        "gloss": "Anhui Province"
+      },
+      {
+        "word": "合肥市",
+        "pinyin": "hé féi shì",
+        "startTime": 5.739,
+        "endTime": 6.626,
+        "gloss": "Hefei"
+      }
+    ],
+    "fullTextEN": "I now live in Hefei, Anhui Province."
+  },
+  {
+    "startTime": 7.0,
+    "endTime": 9.766,
+    "fullTextZH": "不管你有没有去过法国，",
+    "words": [
+      {
+        "word": "不管",
+        "pinyin": "bù guǎn",
+        "startTime": 7.1,
+        "endTime": 7.481,
+        "gloss": "whether"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 7.481,
+        "endTime": 7.742,
+        "gloss": "you"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 7.742,
+        "endTime": 8.383,
+        "gloss": "have or not"
+      },
+      {
+        "word": "去过",
+        "pinyin": "qù guò",
+        "startTime": 8.383,
+        "endTime": 8.984,
+        "gloss": "been to"
+      },
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 8.984,
+        "endTime": 9.746,
+        "gloss": "France"
+      }
+    ],
+    "fullTextEN": "Whether or not you have been to France,"
+  },
+  {
+    "startTime": 9.766,
+    "endTime": 11.9,
+    "fullTextZH": "肯定见过一个标志，",
+    "words": [
+      {
+        "word": "肯定",
+        "pinyin": "kěn dìng",
+        "startTime": 9.887,
+        "endTime": 10.31,
+        "gloss": "surely"
+      },
+      {
+        "word": "见过",
+        "pinyin": "jiàn guò",
+        "startTime": 10.31,
+        "endTime": 10.833,
+        "gloss": "seen"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 10.833,
+        "endTime": 11.115,
+        "gloss": "a"
+      },
+      {
+        "word": "标志",
+        "pinyin": "biāo zhì",
+        "startTime": 11.115,
+        "endTime": 11.86,
+        "gloss": "logo"
+      }
+    ],
+    "fullTextEN": "you must have seen a logo,"
+  },
+  {
+    "startTime": 11.9,
+    "endTime": 12.866,
+    "fullTextZH": "一个logo，",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 11.94,
+        "endTime": 12.182,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "a logo,"
+  },
+  {
+    "startTime": 13.0,
+    "endTime": 17.133,
+    "fullTextZH": "就是两个字母L、V叠在一起。",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 13.08,
+        "endTime": 13.742,
+        "gloss": "which is"
+      },
+      {
+        "word": "两个",
+        "pinyin": "liǎng gè",
+        "startTime": 13.742,
+        "endTime": 14.103,
+        "gloss": "two"
+      },
+      {
+        "word": "字母",
+        "pinyin": "zì mǔ",
+        "startTime": 14.103,
+        "endTime": 14.846,
+        "gloss": "letters"
+      },
+      {
+        "word": "叠",
+        "pinyin": "dié",
+        "startTime": 16.07,
+        "endTime": 16.23,
+        "gloss": "overlap"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 16.23,
+        "endTime": 16.411,
+        "gloss": "together"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 16.411,
+        "endTime": 17.113,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "which is two letters L and V overlapping."
+  },
+  {
+    "startTime": 17.166,
+    "endTime": 19.366,
+    "fullTextZH": "印在包包、箱子上。",
+    "words": [
+      {
+        "word": "印在",
+        "pinyin": "yìn zài",
+        "startTime": 17.206,
+        "endTime": 17.832,
+        "gloss": "printed on"
+      },
+      {
+        "word": "包包",
+        "pinyin": "bāo bāo",
+        "startTime": 17.832,
+        "endTime": 18.377,
+        "gloss": "bags"
+      },
+      {
+        "word": "箱子",
+        "pinyin": "xiāng zi",
+        "startTime": 18.478,
+        "endTime": 18.841,
+        "gloss": "suitcases"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 18.841,
+        "endTime": 19.326,
+        "gloss": "on"
+      }
+    ],
+    "fullTextEN": "Printed on bags and suitcases."
+  },
+  {
+    "startTime": 19.766,
+    "endTime": 21.866,
+    "fullTextZH": "这个品牌很有名。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 19.847,
+        "endTime": 20.089,
+        "gloss": "this"
+      },
+      {
+        "word": "品牌",
+        "pinyin": "pǐn pái",
+        "startTime": 20.089,
+        "endTime": 20.957,
+        "gloss": "brand"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 20.957,
+        "endTime": 21.139,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 21.139,
+        "endTime": 21.826,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "This brand is very famous."
+  },
+  {
+    "startTime": 22.133,
+    "endTime": 25.7,
+    "fullTextZH": "对于很多人来说是很贵的品牌，",
+    "words": [
+      {
+        "word": "对于",
+        "pinyin": "duì yú",
+        "startTime": 22.173,
+        "endTime": 22.694,
+        "gloss": "for"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 22.694,
+        "endTime": 23.075,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 23.075,
+        "endTime": 23.175,
+        "gloss": "people"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 23.175,
+        "endTime": 23.957,
+        "gloss": "regarding"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 23.957,
+        "endTime": 24.377,
+        "gloss": "is"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 24.377,
+        "endTime": 24.698,
+        "gloss": "very"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 24.698,
+        "endTime": 24.918,
+        "gloss": "expensive"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 24.918,
+        "endTime": 25.059,
+        "gloss": "of"
+      },
+      {
+        "word": "品牌",
+        "pinyin": "pǐn pái",
+        "startTime": 25.059,
+        "endTime": 25.66,
+        "gloss": "brand"
+      }
+    ],
+    "fullTextEN": "For many people, it is a very expensive brand,"
+  },
+  {
+    "startTime": 25.766,
+    "endTime": 27.566,
+    "fullTextZH": "很奢侈的品牌。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 25.867,
+        "endTime": 26.272,
+        "gloss": "very"
+      },
+      {
+        "word": "奢侈",
+        "pinyin": "shē chǐ",
+        "startTime": 26.272,
+        "endTime": 26.757,
+        "gloss": "luxurious"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 26.757,
+        "endTime": 26.878,
+        "gloss": "of"
+      },
+      {
+        "word": "品牌",
+        "pinyin": "pǐn pái",
+        "startTime": 26.878,
+        "endTime": 27.526,
+        "gloss": "brand"
+      }
+    ],
+    "fullTextEN": "a very luxurious brand."
+  },
+  {
+    "startTime": 27.733,
+    "endTime": 30.366,
+    "fullTextZH": "所以我们叫它奢侈品。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 27.854,
+        "endTime": 28.457,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 28.457,
+        "endTime": 28.718,
+        "gloss": "we"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 28.718,
+        "endTime": 28.939,
+        "gloss": "call"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 28.939,
+        "endTime": 29.482,
+        "gloss": "it"
+      },
+      {
+        "word": "奢侈品",
+        "pinyin": "shē chǐ pǐn",
+        "startTime": 29.482,
+        "endTime": 30.326,
+        "gloss": "luxury item"
+      }
+    ],
+    "fullTextEN": "So we call it a luxury item."
+  },
+  {
+    "startTime": 30.866,
+    "endTime": 36.766,
+    "fullTextZH": "有人愿意花很多钱买LV包包、LV箱子、",
+    "words": [
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 30.926,
+        "endTime": 31.588,
+        "gloss": "some people"
+      },
+      {
+        "word": "愿意",
+        "pinyin": "yuàn yì",
+        "startTime": 31.588,
+        "endTime": 31.99,
+        "gloss": "willing"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 31.99,
+        "endTime": 32.351,
+        "gloss": "spend"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 32.351,
+        "endTime": 32.913,
+        "gloss": "a lot"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 32.913,
+        "endTime": 33.455,
+        "gloss": "money"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 33.455,
+        "endTime": 34.057,
+        "gloss": "buy"
+      },
+      {
+        "word": "包包",
+        "pinyin": "bāo bāo",
+        "startTime": 34.639,
+        "endTime": 34.86,
+        "gloss": "bags"
+      },
+      {
+        "word": "箱子",
+        "pinyin": "xiāng zi",
+        "startTime": 36.023,
+        "endTime": 36.505,
+        "gloss": "suitcases"
+      }
+    ],
+    "fullTextEN": "Some people are willing to spend a lot of money on LV bags, LV suitcases,"
+  },
+  {
+    "startTime": 36.933,
+    "endTime": 38.9,
+    "fullTextZH": "LV衣服等等。",
+    "words": [
+      {
+        "word": "衣服",
+        "pinyin": "yī fú",
+        "startTime": 37.455,
+        "endTime": 38.197,
+        "gloss": "clothes"
+      },
+      {
+        "word": "等等",
+        "pinyin": "děng děng",
+        "startTime": 38.197,
+        "endTime": 38.86,
+        "gloss": "etc."
+      }
+    ],
+    "fullTextEN": "LV clothes, etc."
+  },
+  {
+    "startTime": 39.366,
+    "endTime": 42.866,
+    "fullTextZH": "很多好的商场里都有LV店。",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 39.446,
+        "endTime": 40.11,
+        "gloss": "many"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 40.11,
+        "endTime": 40.372,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 40.372,
+        "endTime": 40.492,
+        "gloss": "of"
+      },
+      {
+        "word": "商场",
+        "pinyin": "shāng chǎng",
+        "startTime": 40.492,
+        "endTime": 40.895,
+        "gloss": "malls"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 40.895,
+        "endTime": 41.418,
+        "gloss": "in"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 41.418,
+        "endTime": 41.679,
+        "gloss": "all"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 41.679,
+        "endTime": 41.961,
+        "gloss": "have"
+      },
+      {
+        "word": "店",
+        "pinyin": "diàn",
+        "startTime": 42.383,
+        "endTime": 42.826,
+        "gloss": "stores"
+      }
+    ],
+    "fullTextEN": "Many good malls have LV stores."
+  },
+  {
+    "startTime": 43.4,
+    "endTime": 44.966,
+    "fullTextZH": "可能有人会问：",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 43.5,
+        "endTime": 44.002,
+        "gloss": "maybe"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 44.002,
+        "endTime": 44.263,
+        "gloss": "someone"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 44.263,
+        "endTime": 44.424,
+        "gloss": "will"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 44.424,
+        "endTime": 44.926,
+        "gloss": "ask"
+      }
+    ],
+    "fullTextEN": "Maybe someone will ask:"
+  },
+  {
+    "startTime": 45.1,
+    "endTime": 47.6,
+    "fullTextZH": "“不就是个卖包包的牌子吗？",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 45.221,
+        "endTime": 45.302,
+        "gloss": "not"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 45.302,
+        "endTime": 45.705,
+        "gloss": "just"
+      },
+      {
+        "word": "个",
+        "pinyin": "gè",
+        "startTime": 45.705,
+        "endTime": 46.027,
+        "gloss": "a"
+      },
+      {
+        "word": "卖",
+        "pinyin": "mài",
+        "startTime": 46.027,
+        "endTime": 46.31,
+        "gloss": "sell"
+      },
+      {
+        "word": "包包",
+        "pinyin": "bāo bāo",
+        "startTime": 46.31,
+        "endTime": 46.612,
+        "gloss": "bags"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 46.612,
+        "endTime": 46.733,
+        "gloss": "of"
+      },
+      {
+        "word": "牌子",
+        "pinyin": "pái zi",
+        "startTime": 46.733,
+        "endTime": 47.136,
+        "gloss": "brand"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 47.136,
+        "endTime": 47.56,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "\"Isn't it just a brand that sells bags?"
+  },
+  {
+    "startTime": 47.6,
+    "endTime": 51.7,
+    "fullTextZH": "为什么能火100多年还这么贵呢？”",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 47.721,
+        "endTime": 48.384,
+        "gloss": "why"
+      },
+      {
+        "word": "能火",
+        "pinyin": "néng huǒ",
+        "startTime": 48.384,
+        "endTime": 48.967,
+        "gloss": "can be popular"
+      },
+      {
+        "word": "多年",
+        "pinyin": "duō nián",
+        "startTime": 49.55,
+        "endTime": 50.454,
+        "gloss": "years"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 50.454,
+        "endTime": 50.755,
+        "gloss": "still"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 50.755,
+        "endTime": 51.037,
+        "gloss": "so"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 51.037,
+        "endTime": 51.258,
+        "gloss": "expensive"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 51.258,
+        "endTime": 51.419,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Why has it been popular for over 100 years and still so expensive?\""
+  },
+  {
+    "startTime": 52.366,
+    "endTime": 55.566,
+    "fullTextZH": "其实LV的故事很励志。",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 52.447,
+        "endTime": 53.191,
+        "gloss": "actually"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 53.553,
+        "endTime": 53.714,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 53.714,
+        "endTime": 54.62,
+        "gloss": "story"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 54.62,
+        "endTime": 54.902,
+        "gloss": "very"
+      },
+      {
+        "word": "励志",
+        "pinyin": "lì zhì",
+        "startTime": 54.902,
+        "endTime": 55.526,
+        "gloss": "inspiring"
+      }
+    ],
+    "fullTextEN": "Actually, the story of LV is very inspiring."
+  },
+  {
+    "startTime": 55.933,
+    "endTime": 59.333,
+    "fullTextZH": "这个故事可能会给你新的启发、",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 56.013,
+        "endTime": 56.275,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 56.275,
+        "endTime": 56.979,
+        "gloss": "story"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 56.979,
+        "endTime": 57.301,
+        "gloss": "might"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 57.301,
+        "endTime": 57.462,
+        "gloss": "will"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 57.462,
+        "endTime": 57.643,
+        "gloss": "give"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 57.643,
+        "endTime": 58.166,
+        "gloss": "you"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 58.166,
+        "endTime": 58.408,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.408,
+        "endTime": 58.609,
+        "gloss": "of"
+      },
+      {
+        "word": "启发",
+        "pinyin": "qǐ fā",
+        "startTime": 58.609,
+        "endTime": 59.293,
+        "gloss": "inspiration"
+      }
+    ],
+    "fullTextEN": "This story might give you new inspiration,"
+  },
+  {
+    "startTime": 59.333,
+    "endTime": 60.733,
+    "fullTextZH": "新的想法。",
+    "words": [
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 59.475,
+        "endTime": 59.719,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 59.719,
+        "endTime": 59.901,
+        "gloss": "of"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 59.901,
+        "endTime": 60.692,
+        "gloss": "ideas"
+      }
+    ],
+    "fullTextEN": "New ideas."
+  },
+  {
+    "startTime": 61.366,
+    "endTime": 65.766,
+    "fullTextZH": "LV的故事是从一个农村的孩子开始的。",
+    "words": [
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 61.808,
+        "endTime": 61.949,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 61.949,
+        "endTime": 62.592,
+        "gloss": "story"
+      },
+      {
+        "word": "是从",
+        "pinyin": "shì cóng",
+        "startTime": 62.592,
+        "endTime": 62.993,
+        "gloss": "starts with"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 62.993,
+        "endTime": 63.596,
+        "gloss": "a"
+      },
+      {
+        "word": "农村",
+        "pinyin": "nóng cūn",
+        "startTime": 63.596,
+        "endTime": 64.159,
+        "gloss": "countryside"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 64.159,
+        "endTime": 64.299,
+        "gloss": "of"
+      },
+      {
+        "word": "孩子",
+        "pinyin": "hái zi",
+        "startTime": 64.299,
+        "endTime": 65.043,
+        "gloss": "child"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 65.043,
+        "endTime": 65.445,
+        "gloss": "start"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 65.445,
+        "endTime": 65.726,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "The story of LV starts with a child from the countryside."
+  },
+  {
+    "startTime": 66.266,
+    "endTime": 70.333,
+    "fullTextZH": "让我们看看这个法国牌子是怎么来的。",
+    "words": [
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 66.346,
+        "endTime": 66.486,
+        "gloss": "let"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 66.486,
+        "endTime": 66.667,
+        "gloss": "us"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 66.667,
+        "endTime": 67.328,
+        "gloss": "see"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 67.328,
+        "endTime": 67.829,
+        "gloss": "this"
+      },
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 67.829,
+        "endTime": 68.289,
+        "gloss": "French"
+      },
+      {
+        "word": "牌子",
+        "pinyin": "pái zi",
+        "startTime": 68.289,
+        "endTime": 68.87,
+        "gloss": "brand"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 68.87,
+        "endTime": 69.451,
+        "gloss": "is"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 69.451,
+        "endTime": 69.732,
+        "gloss": "how"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 69.732,
+        "endTime": 69.972,
+        "gloss": "come"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 69.972,
+        "endTime": 70.293,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Let's see how this French brand came to be."
+  },
+  {
+    "startTime": 71.1,
+    "endTime": 74.766,
+    "fullTextZH": "1821年，在法国一个农村，",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 72.022,
+        "endTime": 72.302,
+        "gloss": "year"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 72.843,
+        "endTime": 73.083,
+        "gloss": "in"
+      },
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 73.083,
+        "endTime": 73.644,
+        "gloss": "France"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 73.644,
+        "endTime": 73.885,
+        "gloss": "a"
+      },
+      {
+        "word": "农村",
+        "pinyin": "nóng cūn",
+        "startTime": 73.885,
+        "endTime": 74.445,
+        "gloss": "countryside"
+      }
+    ],
+    "fullTextEN": "In 1821, in a French countryside,"
+  },
+  {
+    "startTime": 74.866,
+    "endTime": 78.766,
+    "fullTextZH": "有个叫路易·威登的小男孩出生了。",
+    "words": [
+      {
+        "word": "有个",
+        "pinyin": "yǒu gè",
+        "startTime": 74.926,
+        "endTime": 75.208,
+        "gloss": "there is"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 75.208,
+        "endTime": 75.791,
+        "gloss": "called"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 75.791,
+        "endTime": 76.173,
+        "gloss": "Louis"
+      },
+      {
+        "word": "威登",
+        "pinyin": "wēi dēng",
+        "startTime": 76.233,
+        "endTime": 76.695,
+        "gloss": "Vuitton"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 76.695,
+        "endTime": 76.957,
+        "gloss": "of"
+      },
+      {
+        "word": "小男孩",
+        "pinyin": "xiǎo nán hái",
+        "startTime": 76.957,
+        "endTime": 77.942,
+        "gloss": "little boy"
+      },
+      {
+        "word": "出生",
+        "pinyin": "chū shēng",
+        "startTime": 77.942,
+        "endTime": 78.324,
+        "gloss": "born"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 78.324,
+        "endTime": 78.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "a little boy named Louis Vuitton was born."
+  },
+  {
+    "startTime": 79.333,
+    "endTime": 81.666,
+    "fullTextZH": "他家里是做木匠的，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 79.413,
+        "endTime": 79.554,
+        "gloss": "his"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 79.554,
+        "endTime": 80.017,
+        "gloss": "family"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 80.017,
+        "endTime": 80.258,
+        "gloss": "is"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 80.258,
+        "endTime": 80.721,
+        "gloss": "do"
+      },
+      {
+        "word": "木匠",
+        "pinyin": "mù jiàng",
+        "startTime": 80.721,
+        "endTime": 81.224,
+        "gloss": "carpenter"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 81.224,
+        "endTime": 81.626,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "His family were carpenters,"
+  },
+  {
+    "startTime": 81.766,
+    "endTime": 84.266,
+    "fullTextZH": "比如说桌子、椅子。",
+    "words": [
+      {
+        "word": "比如说",
+        "pinyin": "bǐ rú shuō",
+        "startTime": 81.786,
+        "endTime": 82.653,
+        "gloss": "for example"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 82.653,
+        "endTime": 83.48,
+        "gloss": "table"
+      },
+      {
+        "word": "椅子",
+        "pinyin": "yǐ zi",
+        "startTime": 83.641,
+        "endTime": 84.226,
+        "gloss": "chair"
+      }
+    ],
+    "fullTextEN": "such as tables and chairs."
+  },
+  {
+    "startTime": 84.9,
+    "endTime": 87.566,
+    "fullTextZH": "他们的生活很穷。",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 85.0,
+        "endTime": 85.281,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 85.281,
+        "endTime": 85.381,
+        "gloss": "of"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 85.381,
+        "endTime": 86.323,
+        "gloss": "life"
+      },
+      {
+        "word": "很穷",
+        "pinyin": "hěn qióng",
+        "startTime": 86.323,
+        "endTime": 87.325,
+        "gloss": "very poor"
+      }
+    ],
+    "fullTextEN": "Their life was very poor."
+  },
+  {
+    "startTime": 88.0,
+    "endTime": 93.366,
+    "fullTextZH": "路易的生活因为一件事变得更难了。",
+    "words": [
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 88.08,
+        "endTime": 88.32,
+        "gloss": "Louis"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 88.32,
+        "endTime": 88.461,
+        "gloss": "of"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 88.461,
+        "endTime": 89.201,
+        "gloss": "life"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 89.201,
+        "endTime": 89.662,
+        "gloss": "because"
+      },
+      {
+        "word": "一件",
+        "pinyin": "yī jiàn",
+        "startTime": 89.662,
+        "endTime": 90.062,
+        "gloss": "one"
+      },
+      {
+        "word": "事",
+        "pinyin": "shì",
+        "startTime": 90.062,
+        "endTime": 90.683,
+        "gloss": "thing"
+      },
+      {
+        "word": "变得",
+        "pinyin": "biàn dé",
+        "startTime": 90.683,
+        "endTime": 91.684,
+        "gloss": "became"
+      },
+      {
+        "word": "更难",
+        "pinyin": "gèng nán",
+        "startTime": 91.684,
+        "endTime": 92.345,
+        "gloss": "harder"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 92.345,
+        "endTime": 93.326,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Louis's life became harder because of one thing."
+  },
+  {
+    "startTime": 93.566,
+    "endTime": 97.9,
+    "fullTextZH": "他的妈妈在他10岁的时候死了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 93.646,
+        "endTime": 93.767,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 93.767,
+        "endTime": 93.867,
+        "gloss": "of"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 93.867,
+        "endTime": 94.569,
+        "gloss": "mother"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 94.569,
+        "endTime": 94.77,
+        "gloss": "at"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 94.77,
+        "endTime": 94.991,
+        "gloss": "he"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 95.833,
+        "endTime": 96.014,
+        "gloss": "years"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 96.014,
+        "endTime": 96.154,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 96.154,
+        "endTime": 97.238,
+        "gloss": "time"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 97.238,
+        "endTime": 97.519,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 97.519,
+        "endTime": 97.86,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "His mother died when he was 10 years old."
+  },
+  {
+    "startTime": 98.366,
+    "endTime": 101.266,
+    "fullTextZH": "他的爸爸很快又结婚，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 98.426,
+        "endTime": 98.547,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 98.547,
+        "endTime": 98.648,
+        "gloss": "of"
+      },
+      {
+        "word": "爸爸",
+        "pinyin": "bà bà",
+        "startTime": 98.648,
+        "endTime": 99.353,
+        "gloss": "father"
+      },
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 99.353,
+        "endTime": 100.279,
+        "gloss": "quickly"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 100.279,
+        "endTime": 100.481,
+        "gloss": "again"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 100.481,
+        "endTime": 101.226,
+        "gloss": "married"
+      }
+    ],
+    "fullTextEN": "His father remarried quickly,"
+  },
+  {
+    "startTime": 101.733,
+    "endTime": 106.133,
+    "fullTextZH": "所以他的生活过得很不好。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 101.874,
+        "endTime": 102.617,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 102.617,
+        "endTime": 102.818,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 102.818,
+        "endTime": 102.959,
+        "gloss": "of"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 102.959,
+        "endTime": 103.682,
+        "gloss": "life"
+      },
+      {
+        "word": "过得",
+        "pinyin": "guò dé",
+        "startTime": 103.682,
+        "endTime": 105.088,
+        "gloss": "lived"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 105.088,
+        "endTime": 105.43,
+        "gloss": "very"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 105.43,
+        "endTime": 106.093,
+        "gloss": "bad"
+      }
+    ],
+    "fullTextEN": "so his life was very bad."
+  },
+  {
+    "startTime": 106.8,
+    "endTime": 110.766,
+    "fullTextZH": "14岁的路易做了一个大胆的决定：",
+    "words": [
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 107.421,
+        "endTime": 107.581,
+        "gloss": "years"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 107.581,
+        "endTime": 107.681,
+        "gloss": "of"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 107.681,
+        "endTime": 108.422,
+        "gloss": "Louis"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 108.422,
+        "endTime": 108.603,
+        "gloss": "made"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 108.603,
+        "endTime": 108.703,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 108.703,
+        "endTime": 109.444,
+        "gloss": "a"
+      },
+      {
+        "word": "大胆",
+        "pinyin": "dà dǎn",
+        "startTime": 109.444,
+        "endTime": 109.885,
+        "gloss": "bold"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 109.885,
+        "endTime": 110.025,
+        "gloss": "of"
+      },
+      {
+        "word": "决定",
+        "pinyin": "jué dìng",
+        "startTime": 110.025,
+        "endTime": 110.726,
+        "gloss": "decision"
+      }
+    ],
+    "fullTextEN": "At 14, Louis made a bold decision:"
+  },
+  {
+    "startTime": 111.566,
+    "endTime": 113.8,
+    "fullTextZH": "走路去巴黎。",
+    "words": [
+      {
+        "word": "走路",
+        "pinyin": "zǒu lù",
+        "startTime": 111.727,
+        "endTime": 112.552,
+        "gloss": "walk"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 112.552,
+        "endTime": 113.015,
+        "gloss": "to"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 113.015,
+        "endTime": 113.76,
+        "gloss": "Paris"
+      }
+    ],
+    "fullTextEN": "to walk to Paris."
+  },
+  {
+    "startTime": 114.366,
+    "endTime": 119.333,
+    "fullTextZH": "从他的家乡到巴黎有几百公里。",
+    "words": [
+      {
+        "word": "从",
+        "pinyin": "cóng",
+        "startTime": 114.506,
+        "endTime": 114.887,
+        "gloss": "from"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 114.887,
+        "endTime": 115.047,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 115.047,
+        "endTime": 115.167,
+        "gloss": "of"
+      },
+      {
+        "word": "家乡",
+        "pinyin": "jiā xiāng",
+        "startTime": 115.167,
+        "endTime": 115.968,
+        "gloss": "hometown"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 115.968,
+        "endTime": 116.209,
+        "gloss": "to"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 116.209,
+        "endTime": 117.25,
+        "gloss": "Paris"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 117.25,
+        "endTime": 117.951,
+        "gloss": "have"
+      },
+      {
+        "word": "几百公里",
+        "pinyin": "jǐ bǎi gōng lǐ",
+        "startTime": 117.951,
+        "endTime": 119.293,
+        "gloss": "several hundred kilometers"
+      }
+    ],
+    "fullTextEN": "It was several hundred kilometers from his hometown to Paris."
+  },
+  {
+    "startTime": 119.8,
+    "endTime": 122.6,
+    "fullTextZH": "那个时候没有火车、",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 119.86,
+        "endTime": 120.183,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 120.183,
+        "endTime": 120.908,
+        "gloss": "time"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 120.908,
+        "endTime": 121.714,
+        "gloss": "no"
+      },
+      {
+        "word": "火车",
+        "pinyin": "huǒ chē",
+        "startTime": 121.714,
+        "endTime": 122.56,
+        "gloss": "train"
+      }
+    ],
+    "fullTextEN": "At that time, there were no trains,"
+  },
+  {
+    "startTime": 122.6,
+    "endTime": 127.466,
+    "fullTextZH": "汽车，整整走了两年才到。",
+    "words": [
+      {
+        "word": "汽车",
+        "pinyin": "qì chē",
+        "startTime": 122.8,
+        "endTime": 123.121,
+        "gloss": "car"
+      },
+      {
+        "word": "整整",
+        "pinyin": "zhěng zhěng",
+        "startTime": 124.062,
+        "endTime": 124.723,
+        "gloss": "whole"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 124.723,
+        "endTime": 124.923,
+        "gloss": "walk"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 124.923,
+        "endTime": 125.524,
+        "gloss": "le"
+      },
+      {
+        "word": "两年",
+        "pinyin": "liǎng nián",
+        "startTime": 125.524,
+        "endTime": 126.665,
+        "gloss": "two years"
+      },
+      {
+        "word": "才",
+        "pinyin": "cái",
+        "startTime": 126.665,
+        "endTime": 126.885,
+        "gloss": "only"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 126.885,
+        "endTime": 127.426,
+        "gloss": "arrive"
+      }
+    ],
+    "fullTextEN": "cars, it took two whole years to arrive."
+  },
+  {
+    "startTime": 128.266,
+    "endTime": 129.8,
+    "fullTextZH": "到了巴黎后，",
+    "words": [
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 128.327,
+        "endTime": 128.508,
+        "gloss": "arrive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 128.508,
+        "endTime": 128.892,
+        "gloss": "le"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 128.892,
+        "endTime": 129.235,
+        "gloss": "Paris"
+      },
+      {
+        "word": "后",
+        "pinyin": "hòu",
+        "startTime": 129.235,
+        "endTime": 129.76,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After arriving in Paris,"
+  },
+  {
+    "startTime": 129.866,
+    "endTime": 131.6,
+    "fullTextZH": "路易为了生活，",
+    "words": [
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 129.926,
+        "endTime": 130.451,
+        "gloss": "Louis"
+      },
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 130.451,
+        "endTime": 130.733,
+        "gloss": "for"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 130.733,
+        "endTime": 131.58,
+        "gloss": "living"
+      }
+    ],
+    "fullTextEN": "Louis worked for a living,"
+  },
+  {
+    "startTime": 131.6,
+    "endTime": 133.7,
+    "fullTextZH": "学了各种手艺，",
+    "words": [
+      {
+        "word": "学了",
+        "pinyin": "xué le",
+        "startTime": 131.762,
+        "endTime": 132.468,
+        "gloss": "learned"
+      },
+      {
+        "word": "各种",
+        "pinyin": "gè zhǒng",
+        "startTime": 132.468,
+        "endTime": 132.953,
+        "gloss": "various"
+      },
+      {
+        "word": "手艺",
+        "pinyin": "shǒu yì",
+        "startTime": 132.953,
+        "endTime": 133.66,
+        "gloss": "crafts"
+      }
+    ],
+    "fullTextEN": "learning various crafts,"
+  },
+  {
+    "startTime": 134.1,
+    "endTime": 136.9,
+    "fullTextZH": "最后找到一份工作",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 134.201,
+        "endTime": 135.107,
+        "gloss": "finally"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 135.107,
+        "endTime": 135.671,
+        "gloss": "found"
+      },
+      {
+        "word": "一份",
+        "pinyin": "yī fèn",
+        "startTime": 135.671,
+        "endTime": 136.014,
+        "gloss": "a"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 136.014,
+        "endTime": 136.276,
+        "gloss": "job"
+      }
+    ],
+    "fullTextEN": "Finally found a job."
+  },
+  {
+    "startTime": 136.933,
+    "endTime": 139.1,
+    "fullTextZH": "学做行李箱。",
+    "words": [
+      {
+        "word": "学做",
+        "pinyin": "xué zuò",
+        "startTime": 137.094,
+        "endTime": 137.876,
+        "gloss": "learned to make"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 137.876,
+        "endTime": 139.06,
+        "gloss": "suitcase"
+      }
+    ],
+    "fullTextEN": "Learned to make suitcases."
+  },
+  {
+    "startTime": 139.933,
+    "endTime": 141.7,
+    "fullTextZH": "路易很聪明，",
+    "words": [
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 139.973,
+        "endTime": 140.736,
+        "gloss": "Louis"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 140.736,
+        "endTime": 140.997,
+        "gloss": "very"
+      },
+      {
+        "word": "聪明",
+        "pinyin": "cōng míng",
+        "startTime": 140.997,
+        "endTime": 141.66,
+        "gloss": "smart"
+      }
+    ],
+    "fullTextEN": "Louis is very smart,"
+  },
+  {
+    "startTime": 141.733,
+    "endTime": 143.7,
+    "fullTextZH": "又特别能吃苦，",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 141.813,
+        "endTime": 142.235,
+        "gloss": "and"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 142.235,
+        "endTime": 142.737,
+        "gloss": "especially"
+      },
+      {
+        "word": "能",
+        "pinyin": "néng",
+        "startTime": 142.737,
+        "endTime": 142.998,
+        "gloss": "able"
+      },
+      {
+        "word": "吃苦",
+        "pinyin": "chī kǔ",
+        "startTime": 142.998,
+        "endTime": 143.66,
+        "gloss": "endure hardship"
+      }
+    ],
+    "fullTextEN": "and especially hardworking,"
+  },
+  {
+    "startTime": 143.9,
+    "endTime": 148.366,
+    "fullTextZH": "还自己想办法怎么把箱子做得更好。",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 143.98,
+        "endTime": 144.321,
+        "gloss": "also"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 144.321,
+        "endTime": 144.741,
+        "gloss": "himself"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 144.741,
+        "endTime": 144.981,
+        "gloss": "think"
+      },
+      {
+        "word": "办法",
+        "pinyin": "bàn fǎ",
+        "startTime": 144.981,
+        "endTime": 145.742,
+        "gloss": "way"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 145.742,
+        "endTime": 146.023,
+        "gloss": "how"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 146.023,
+        "endTime": 146.223,
+        "gloss": "to"
+      },
+      {
+        "word": "箱子",
+        "pinyin": "xiāng zi",
+        "startTime": 146.223,
+        "endTime": 147.144,
+        "gloss": "suitcase"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 147.144,
+        "endTime": 147.385,
+        "gloss": "make"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 147.385,
+        "endTime": 147.565,
+        "gloss": "more"
+      },
+      {
+        "word": "更好",
+        "pinyin": "gèng hǎo",
+        "startTime": 147.565,
+        "endTime": 148.106,
+        "gloss": "better"
+      }
+    ],
+    "fullTextEN": "and he figured out how to make the suitcases better."
+  },
+  {
+    "startTime": 148.9,
+    "endTime": 152.733,
+    "fullTextZH": "慢慢地，路易的手艺越来越棒。",
+    "words": [
+      {
+        "word": "慢慢",
+        "pinyin": "màn màn",
+        "startTime": 149.0,
+        "endTime": 149.522,
+        "gloss": "gradually"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 149.522,
+        "endTime": 150.164,
+        "gloss": "ly"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 150.285,
+        "endTime": 150.485,
+        "gloss": "Louis"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 150.485,
+        "endTime": 150.786,
+        "gloss": "’s"
+      },
+      {
+        "word": "手艺",
+        "pinyin": "shǒu yì",
+        "startTime": 150.786,
+        "endTime": 151.689,
+        "gloss": "craftsmanship"
+      },
+      {
+        "word": "越来越",
+        "pinyin": "yuè lái yuè",
+        "startTime": 151.689,
+        "endTime": 152.171,
+        "gloss": "more and more"
+      },
+      {
+        "word": "棒",
+        "pinyin": "bàng",
+        "startTime": 152.171,
+        "endTime": 152.693,
+        "gloss": "excellent"
+      }
+    ],
+    "fullTextEN": "Gradually, Louis's craftsmanship became better and better."
+  },
+  {
+    "startTime": 153.066,
+    "endTime": 158.1,
+    "fullTextZH": "连当时法国的王后都听说了他，",
+    "words": [
+      {
+        "word": "连",
+        "pinyin": "lián",
+        "startTime": 153.126,
+        "endTime": 153.608,
+        "gloss": "even"
+      },
+      {
+        "word": "当时",
+        "pinyin": "dāng shí",
+        "startTime": 153.608,
+        "endTime": 154.63,
+        "gloss": "at that time"
+      },
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 154.63,
+        "endTime": 155.112,
+        "gloss": "France"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 155.112,
+        "endTime": 155.453,
+        "gloss": "’s"
+      },
+      {
+        "word": "王后",
+        "pinyin": "wáng hòu",
+        "startTime": 155.453,
+        "endTime": 156.475,
+        "gloss": "queen"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 156.475,
+        "endTime": 157.017,
+        "gloss": "all"
+      },
+      {
+        "word": "听说",
+        "pinyin": "tīng shuō",
+        "startTime": 157.017,
+        "endTime": 157.518,
+        "gloss": "heard about"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 157.518,
+        "endTime": 157.659,
+        "gloss": "le"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 157.659,
+        "endTime": 158.06,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Even the Queen of France at that time heard about him,"
+  },
+  {
+    "startTime": 158.666,
+    "endTime": 160.666,
+    "fullTextZH": "成为了他的顾客，",
+    "words": [
+      {
+        "word": "成为",
+        "pinyin": "chéng wéi",
+        "startTime": 158.747,
+        "endTime": 159.151,
+        "gloss": "became"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 159.151,
+        "endTime": 159.555,
+        "gloss": "le"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 159.555,
+        "endTime": 159.676,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 159.676,
+        "endTime": 159.838,
+        "gloss": "customer"
+      },
+      {
+        "word": "顾客",
+        "pinyin": "gù kè",
+        "startTime": 159.838,
+        "endTime": 160.242,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "and became his customer,"
+  },
+  {
+    "startTime": 160.866,
+    "endTime": 162.766,
+    "fullTextZH": "买了他的行李箱。",
+    "words": [
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 161.007,
+        "endTime": 161.311,
+        "gloss": "bought"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 161.311,
+        "endTime": 161.553,
+        "gloss": "le"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 161.553,
+        "endTime": 161.715,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 161.715,
+        "endTime": 161.856,
+        "gloss": "suitcase"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 161.856,
+        "endTime": 162.726,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "and bought his suitcases."
+  },
+  {
+    "startTime": 163.466,
+    "endTime": 165.933,
+    "fullTextZH": "听起来他已经很厉害了，",
+    "words": [
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 163.546,
+        "endTime": 163.747,
+        "gloss": "sounds"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 163.747,
+        "endTime": 164.328,
+        "gloss": "like"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 164.328,
+        "endTime": 164.489,
+        "gloss": "he"
+      },
+      {
+        "word": "已经",
+        "pinyin": "yǐ jīng",
+        "startTime": 164.489,
+        "endTime": 164.87,
+        "gloss": "already"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 164.87,
+        "endTime": 165.05,
+        "gloss": "very"
+      },
+      {
+        "word": "厉害",
+        "pinyin": "lì hài",
+        "startTime": 165.05,
+        "endTime": 165.432,
+        "gloss": "impressive"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 165.432,
+        "endTime": 165.893,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "It sounds like he was already very impressive,"
+  },
+  {
+    "startTime": 166.0,
+    "endTime": 168.2,
+    "fullTextZH": "他应该很满足了吧？",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 166.101,
+        "endTime": 166.242,
+        "gloss": "he"
+      },
+      {
+        "word": "应该",
+        "pinyin": "yīng gāi",
+        "startTime": 166.242,
+        "endTime": 166.868,
+        "gloss": "should"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 166.868,
+        "endTime": 167.09,
+        "gloss": "very"
+      },
+      {
+        "word": "满足",
+        "pinyin": "mǎn zú",
+        "startTime": 167.09,
+        "endTime": 167.554,
+        "gloss": "satisfied"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 167.554,
+        "endTime": 167.695,
+        "gloss": "le"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 167.695,
+        "endTime": 167.877,
+        "gloss": "ba"
+      }
+    ],
+    "fullTextEN": "Shouldn't he be very satisfied?"
+  },
+  {
+    "startTime": 169.1,
+    "endTime": 172.333,
+    "fullTextZH": "不，路易发现了一个问题。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 169.1,
+        "endTime": 169.18,
+        "gloss": "no"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 170.265,
+        "endTime": 170.807,
+        "gloss": "Louis"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 170.807,
+        "endTime": 171.168,
+        "gloss": "discovered"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 171.168,
+        "endTime": 171.269,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 171.269,
+        "endTime": 171.57,
+        "gloss": "a"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 171.57,
+        "endTime": 172.293,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "No, Louis discovered a problem."
+  },
+  {
+    "startTime": 172.733,
+    "endTime": 175.466,
+    "fullTextZH": "当时的行李箱有一个特点：",
+    "words": [
+      {
+        "word": "当时",
+        "pinyin": "dāng shí",
+        "startTime": 172.793,
+        "endTime": 173.195,
+        "gloss": "at that time"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 173.195,
+        "endTime": 173.356,
+        "gloss": "’s"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 173.356,
+        "endTime": 174.3,
+        "gloss": "suitcase"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 174.3,
+        "endTime": 174.461,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 174.461,
+        "endTime": 174.763,
+        "gloss": "a"
+      },
+      {
+        "word": "特点",
+        "pinyin": "tè diǎn",
+        "startTime": 174.763,
+        "endTime": 175.426,
+        "gloss": "feature"
+      }
+    ],
+    "fullTextEN": "Suitcases at that time had a feature:"
+  },
+  {
+    "startTime": 176.0,
+    "endTime": 179.5,
+    "fullTextZH": "行李箱的顶部是圆的，",
+    "words": [
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 176.201,
+        "endTime": 176.885,
+        "gloss": "suitcase"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 176.885,
+        "endTime": 177.227,
+        "gloss": "’s"
+      },
+      {
+        "word": "顶部",
+        "pinyin": "dǐng bù",
+        "startTime": 177.227,
+        "endTime": 178.072,
+        "gloss": "top"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 178.072,
+        "endTime": 178.675,
+        "gloss": "is"
+      },
+      {
+        "word": "圆",
+        "pinyin": "yuán",
+        "startTime": 178.675,
+        "endTime": 179.098,
+        "gloss": "round"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 179.098,
+        "endTime": 179.46,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "The top of the suitcase was round,"
+  },
+  {
+    "startTime": 179.766,
+    "endTime": 182.666,
+    "fullTextZH": "这是为了方便雨水流走。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 179.826,
+        "endTime": 180.048,
+        "gloss": "this is"
+      },
+      {
+        "word": "为了",
+        "pinyin": "wèi le",
+        "startTime": 180.048,
+        "endTime": 180.451,
+        "gloss": "for"
+      },
+      {
+        "word": "方便",
+        "pinyin": "fāng biàn",
+        "startTime": 180.451,
+        "endTime": 180.994,
+        "gloss": "convenience"
+      },
+      {
+        "word": "雨水",
+        "pinyin": "yǔ shuǐ",
+        "startTime": 180.994,
+        "endTime": 181.921,
+        "gloss": "rainwater"
+      },
+      {
+        "word": "流走",
+        "pinyin": "liú zǒu",
+        "startTime": 181.921,
+        "endTime": 182.626,
+        "gloss": "flow off"
+      }
+    ],
+    "fullTextEN": "This was to allow rainwater to flow off easily."
+  },
+  {
+    "startTime": 182.933,
+    "endTime": 185.2,
+    "fullTextZH": "但是这有一个问题——",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 183.033,
+        "endTime": 183.655,
+        "gloss": "but"
+      },
+      {
+        "word": "这有",
+        "pinyin": "zhè yǒu",
+        "startTime": 183.655,
+        "endTime": 184.137,
+        "gloss": "this has"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 184.137,
+        "endTime": 184.458,
+        "gloss": "a"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 184.458,
+        "endTime": 185.16,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "But there was a problem with this—"
+  },
+  {
+    "startTime": 185.533,
+    "endTime": 188.066,
+    "fullTextZH": "如果有很多的箱子，",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 185.613,
+        "endTime": 185.955,
+        "gloss": "if"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 185.955,
+        "endTime": 186.478,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 186.478,
+        "endTime": 187.121,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 187.121,
+        "endTime": 187.262,
+        "gloss": "’s"
+      },
+      {
+        "word": "箱子",
+        "pinyin": "xiāng zi",
+        "startTime": 187.262,
+        "endTime": 188.046,
+        "gloss": "suitcase"
+      }
+    ],
+    "fullTextEN": "If there were many suitcases,"
+  },
+  {
+    "startTime": 188.1,
+    "endTime": 191.666,
+    "fullTextZH": "没有办法一个一个地叠起来，",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 188.14,
+        "endTime": 188.481,
+        "gloss": "no"
+      },
+      {
+        "word": "办法",
+        "pinyin": "bàn fǎ",
+        "startTime": 188.481,
+        "endTime": 189.362,
+        "gloss": "way"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 189.362,
+        "endTime": 189.903,
+        "gloss": "one"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 189.903,
+        "endTime": 190.284,
+        "gloss": "by"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 190.284,
+        "endTime": 190.724,
+        "gloss": "one"
+      },
+      {
+        "word": "叠起来",
+        "pinyin": "dié qǐ lái",
+        "startTime": 190.724,
+        "endTime": 191.406,
+        "gloss": "ly"
+      }
+    ],
+    "fullTextEN": "there was no way to stack them one by one,"
+  },
+  {
+    "startTime": 191.8,
+    "endTime": 195.133,
+    "fullTextZH": "那只能一个一个地搬，",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 191.9,
+        "endTime": 192.242,
+        "gloss": "then"
+      },
+      {
+        "word": "只能",
+        "pinyin": "zhǐ néng",
+        "startTime": 192.242,
+        "endTime": 193.045,
+        "gloss": "only"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 193.045,
+        "endTime": 193.607,
+        "gloss": "one"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 193.607,
+        "endTime": 193.989,
+        "gloss": "by"
+      },
+      {
+        "word": "地",
+        "pinyin": "dì",
+        "startTime": 193.989,
+        "endTime": 194.551,
+        "gloss": "one"
+      },
+      {
+        "word": "搬",
+        "pinyin": "bān",
+        "startTime": 194.551,
+        "endTime": 195.093,
+        "gloss": "ly"
+      }
+    ],
+    "fullTextEN": "they could only be moved one by one,"
+  },
+  {
+    "startTime": 195.366,
+    "endTime": 196.566,
+    "fullTextZH": "很不方便。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 195.468,
+        "endTime": 195.712,
+        "gloss": "very"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 195.712,
+        "endTime": 195.895,
+        "gloss": "not"
+      },
+      {
+        "word": "方便",
+        "pinyin": "fāng biàn",
+        "startTime": 195.895,
+        "endTime": 196.525,
+        "gloss": "convenient"
+      }
+    ],
+    "fullTextEN": "which was very inconvenient."
+  },
+  {
+    "startTime": 197.133,
+    "endTime": 199.466,
+    "fullTextZH": "路易有了一个新想法：",
+    "words": [
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 197.153,
+        "endTime": 197.716,
+        "gloss": "Louis"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 197.716,
+        "endTime": 197.857,
+        "gloss": "have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 197.857,
+        "endTime": 197.978,
+        "gloss": "a"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 197.978,
+        "endTime": 198.561,
+        "gloss": "new"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 198.561,
+        "endTime": 198.782,
+        "gloss": "idea"
+      },
+      {
+        "word": "想法",
+        "pinyin": "xiǎng fǎ",
+        "startTime": 198.782,
+        "endTime": 199.426,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "Louis had a new idea:"
+  },
+  {
+    "startTime": 199.766,
+    "endTime": 202.066,
+    "fullTextZH": "把皮换成布，",
+    "words": [
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 199.847,
+        "endTime": 200.21,
+        "gloss": "take"
+      },
+      {
+        "word": "皮",
+        "pinyin": "pí",
+        "startTime": 200.21,
+        "endTime": 200.997,
+        "gloss": "leather"
+      },
+      {
+        "word": "换成",
+        "pinyin": "huàn chéng",
+        "startTime": 200.997,
+        "endTime": 201.582,
+        "gloss": "replace"
+      },
+      {
+        "word": "布",
+        "pinyin": "bù",
+        "startTime": 201.582,
+        "endTime": 202.026,
+        "gloss": "fabric"
+      }
+    ],
+    "fullTextEN": "Replace leather with fabric,"
+  },
+  {
+    "startTime": 202.3,
+    "endTime": 206.933,
+    "fullTextZH": "然后把行李箱的顶部改成平的。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 202.38,
+        "endTime": 203.062,
+        "gloss": "then"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 203.062,
+        "endTime": 203.483,
+        "gloss": "take"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 203.483,
+        "endTime": 204.025,
+        "gloss": "suitcase"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 204.025,
+        "endTime": 204.225,
+        "gloss": "’s"
+      },
+      {
+        "word": "顶部",
+        "pinyin": "dǐng bù",
+        "startTime": 204.225,
+        "endTime": 205.108,
+        "gloss": "top"
+      },
+      {
+        "word": "改成",
+        "pinyin": "gǎi chéng",
+        "startTime": 205.108,
+        "endTime": 205.99,
+        "gloss": "make"
+      },
+      {
+        "word": "平",
+        "pinyin": "píng",
+        "startTime": 205.99,
+        "endTime": 206.452,
+        "gloss": "flat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 206.452,
+        "endTime": 206.612,
+        "gloss": "’s"
+      }
+    ],
+    "fullTextEN": "then make the top of the suitcase flat."
+  },
+  {
+    "startTime": 207.666,
+    "endTime": 209.366,
+    "fullTextZH": "他设计的行李箱，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 207.727,
+        "endTime": 208.091,
+        "gloss": "he"
+      },
+      {
+        "word": "设计",
+        "pinyin": "shè jì",
+        "startTime": 208.091,
+        "endTime": 208.455,
+        "gloss": "design"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 208.455,
+        "endTime": 208.577,
+        "gloss": "’s"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 208.577,
+        "endTime": 209.346,
+        "gloss": "suitcase"
+      }
+    ],
+    "fullTextEN": "The suitcase he designed,"
+  },
+  {
+    "startTime": 209.366,
+    "endTime": 213.133,
+    "fullTextZH": "很快在巴黎的贵族里火了起来。",
+    "words": [
+      {
+        "word": "很快",
+        "pinyin": "hěn kuài",
+        "startTime": 209.486,
+        "endTime": 210.288,
+        "gloss": "quickly"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 210.288,
+        "endTime": 210.749,
+        "gloss": "in"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 210.749,
+        "endTime": 211.109,
+        "gloss": "Paris"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 211.109,
+        "endTime": 211.35,
+        "gloss": "’s"
+      },
+      {
+        "word": "贵族",
+        "pinyin": "guì zú",
+        "startTime": 211.35,
+        "endTime": 211.71,
+        "gloss": "nobility"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 211.71,
+        "endTime": 212.171,
+        "gloss": "among"
+      },
+      {
+        "word": "火",
+        "pinyin": "huǒ",
+        "startTime": 212.171,
+        "endTime": 212.412,
+        "gloss": "popular"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 212.412,
+        "endTime": 212.592,
+        "gloss": "up"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 212.592,
+        "endTime": 212.873,
+        "gloss": "rise"
+      }
+    ],
+    "fullTextEN": "quickly became popular among the Parisian nobility."
+  },
+  {
+    "startTime": 213.533,
+    "endTime": 216.533,
+    "fullTextZH": "法国的王后也特别满意，",
+    "words": [
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 213.674,
+        "endTime": 214.056,
+        "gloss": "France"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 214.056,
+        "endTime": 214.338,
+        "gloss": "’s"
+      },
+      {
+        "word": "王后",
+        "pinyin": "wáng hòu",
+        "startTime": 214.338,
+        "endTime": 215.023,
+        "gloss": "queen"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 215.023,
+        "endTime": 215.466,
+        "gloss": "also"
+      },
+      {
+        "word": "特别",
+        "pinyin": "tè bié",
+        "startTime": 215.466,
+        "endTime": 215.808,
+        "gloss": "very"
+      },
+      {
+        "word": "满意",
+        "pinyin": "mǎn yì",
+        "startTime": 215.808,
+        "endTime": 216.493,
+        "gloss": "satisfied"
+      }
+    ],
+    "fullTextEN": "The Queen of France was also very satisfied,"
+  },
+  {
+    "startTime": 216.566,
+    "endTime": 219.4,
+    "fullTextZH": "还把他推荐给了别的贵族。",
+    "words": [
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 216.666,
+        "endTime": 216.827,
+        "gloss": "also"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 216.827,
+        "endTime": 217.008,
+        "gloss": "take"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 217.008,
+        "endTime": 217.41,
+        "gloss": "him"
+      },
+      {
+        "word": "推荐",
+        "pinyin": "tuī jiàn",
+        "startTime": 217.41,
+        "endTime": 217.732,
+        "gloss": "recommend"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 217.732,
+        "endTime": 217.893,
+        "gloss": "to"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 217.893,
+        "endTime": 218.335,
+        "gloss": "other"
+      },
+      {
+        "word": "别的",
+        "pinyin": "bié de",
+        "startTime": 218.335,
+        "endTime": 218.717,
+        "gloss": "nobles"
+      },
+      {
+        "word": "贵族",
+        "pinyin": "guì zú",
+        "startTime": 218.717,
+        "endTime": 219.159,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "and recommended him to other nobles."
+  },
+  {
+    "startTime": 220.0,
+    "endTime": 223.166,
+    "fullTextZH": "现在路易在巴黎很有名了。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 220.12,
+        "endTime": 220.982,
+        "gloss": "now"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 220.982,
+        "endTime": 221.302,
+        "gloss": "Louis"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 221.302,
+        "endTime": 221.543,
+        "gloss": "in"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 221.543,
+        "endTime": 222.244,
+        "gloss": "Paris"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 222.244,
+        "endTime": 222.364,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 222.364,
+        "endTime": 222.685,
+        "gloss": "famous"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 222.685,
+        "endTime": 223.126,
+        "gloss": "already"
+      }
+    ],
+    "fullTextEN": "Now Louis is very famous in Paris."
+  },
+  {
+    "startTime": 223.3,
+    "endTime": 226.1,
+    "fullTextZH": "他攒了足够的钱以后，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 223.381,
+        "endTime": 223.804,
+        "gloss": "he"
+      },
+      {
+        "word": "攒",
+        "pinyin": "zǎn",
+        "startTime": 223.804,
+        "endTime": 224.045,
+        "gloss": "save"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 224.045,
+        "endTime": 224.509,
+        "gloss": "enough"
+      },
+      {
+        "word": "足够",
+        "pinyin": "zú gòu",
+        "startTime": 224.509,
+        "endTime": 224.972,
+        "gloss": "’s"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 224.972,
+        "endTime": 225.133,
+        "gloss": "money"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 225.133,
+        "endTime": 225.355,
+        "gloss": "after"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 225.355,
+        "endTime": 226.06,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "After he saved enough money,"
+  },
+  {
+    "startTime": 226.166,
+    "endTime": 228.766,
+    "fullTextZH": "他在巴黎开了自己的店。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 226.247,
+        "endTime": 226.368,
+        "gloss": "he"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 226.368,
+        "endTime": 226.549,
+        "gloss": "in"
+      },
+      {
+        "word": "巴黎",
+        "pinyin": "bā lí",
+        "startTime": 226.549,
+        "endTime": 227.113,
+        "gloss": "Paris"
+      },
+      {
+        "word": "开",
+        "pinyin": "kāi",
+        "startTime": 227.113,
+        "endTime": 227.335,
+        "gloss": "open"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 227.335,
+        "endTime": 227.799,
+        "gloss": "own"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 227.799,
+        "endTime": 228.141,
+        "gloss": "’s"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 228.141,
+        "endTime": 228.282,
+        "gloss": "store"
+      },
+      {
+        "word": "店",
+        "pinyin": "diàn",
+        "startTime": 228.282,
+        "endTime": 228.726,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "he opened his own store in Paris."
+  },
+  {
+    "startTime": 229.266,
+    "endTime": 233.133,
+    "fullTextZH": "店的名字就是他的名字——路易·威登，",
+    "words": [
+      {
+        "word": "店",
+        "pinyin": "diàn",
+        "startTime": 229.326,
+        "endTime": 229.547,
+        "gloss": "store"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 229.547,
+        "endTime": 229.647,
+        "gloss": "’s"
+      },
+      {
+        "word": "名字",
+        "pinyin": "míng zì",
+        "startTime": 229.647,
+        "endTime": 230.248,
+        "gloss": "name"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 230.248,
+        "endTime": 230.809,
+        "gloss": "is"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 230.809,
+        "endTime": 230.989,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 230.989,
+        "endTime": 231.089,
+        "gloss": "’s"
+      },
+      {
+        "word": "名字",
+        "pinyin": "míng zì",
+        "startTime": 231.089,
+        "endTime": 231.51,
+        "gloss": "name"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 231.891,
+        "endTime": 232.332,
+        "gloss": "Louis"
+      },
+      {
+        "word": "威登",
+        "pinyin": "wēi dēng",
+        "startTime": 232.392,
+        "endTime": 233.113,
+        "gloss": "Vuitton"
+      }
+    ],
+    "fullTextEN": "The store's name is his name—Louis Vuitton,"
+  },
+  {
+    "startTime": 233.6,
+    "endTime": 237.066,
+    "fullTextZH": "在店里卖他自己做的行李箱。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 233.7,
+        "endTime": 233.88,
+        "gloss": "in"
+      },
+      {
+        "word": "店里",
+        "pinyin": "diàn lǐ",
+        "startTime": 233.88,
+        "endTime": 234.562,
+        "gloss": "store"
+      },
+      {
+        "word": "卖",
+        "pinyin": "mài",
+        "startTime": 234.562,
+        "endTime": 234.922,
+        "gloss": "sell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 234.922,
+        "endTime": 235.163,
+        "gloss": "he"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 235.163,
+        "endTime": 235.664,
+        "gloss": "self"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 235.664,
+        "endTime": 235.884,
+        "gloss": "make"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.884,
+        "endTime": 236.164,
+        "gloss": "’s"
+      },
+      {
+        "word": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "startTime": 236.164,
+        "endTime": 237.026,
+        "gloss": "suitcase"
+      }
+    ],
+    "fullTextEN": "selling the suitcases he made himself in the store."
+  },
+  {
+    "startTime": 237.333,
+    "endTime": 240.3,
+    "fullTextZH": "这就是LV的开始。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 237.413,
+        "endTime": 237.894,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 237.894,
+        "endTime": 238.676,
+        "gloss": "is"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 239.197,
+        "endTime": 239.558,
+        "gloss": "’s"
+      },
+      {
+        "word": "开始",
+        "pinyin": "kāi shǐ",
+        "startTime": 239.558,
+        "endTime": 240.26,
+        "gloss": "beginning"
+      }
+    ],
+    "fullTextEN": "This is the beginning of LV."
+  },
+  {
+    "startTime": 241.4,
+    "endTime": 245.2,
+    "fullTextZH": "路易·威登的故事让我很感动的地方是：",
+    "words": [
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 241.48,
+        "endTime": 241.702,
+        "gloss": "Louis"
+      },
+      {
+        "word": "威登",
+        "pinyin": "wēi dēng",
+        "startTime": 241.742,
+        "endTime": 242.104,
+        "gloss": "Vuitton"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 242.104,
+        "endTime": 242.224,
+        "gloss": "’s"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 242.224,
+        "endTime": 242.948,
+        "gloss": "story"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 242.948,
+        "endTime": 243.21,
+        "gloss": "make"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 243.21,
+        "endTime": 243.571,
+        "gloss": "me"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 243.571,
+        "endTime": 243.853,
+        "gloss": "very"
+      },
+      {
+        "word": "感动",
+        "pinyin": "gǎn dòng",
+        "startTime": 243.853,
+        "endTime": 244.275,
+        "gloss": "moved"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 244.275,
+        "endTime": 244.396,
+        "gloss": "’s"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 244.396,
+        "endTime": 244.798,
+        "gloss": "part"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 244.798,
+        "endTime": 245.16,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "The part of Louis Vuitton's story that moves me is:"
+  },
+  {
+    "startTime": 245.733,
+    "endTime": 249.933,
+    "fullTextZH": "我们出发的时候并不知道路在哪里，",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 245.773,
+        "endTime": 246.135,
+        "gloss": "we"
+      },
+      {
+        "word": "出发",
+        "pinyin": "chū fā",
+        "startTime": 246.135,
+        "endTime": 246.497,
+        "gloss": "set out"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 246.497,
+        "endTime": 246.617,
+        "gloss": "’s"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 246.617,
+        "endTime": 247.341,
+        "gloss": "time"
+      },
+      {
+        "word": "并",
+        "pinyin": "bìng",
+        "startTime": 247.341,
+        "endTime": 247.562,
+        "gloss": "not"
+      },
+      {
+        "word": "不知",
+        "pinyin": "bù zhī",
+        "startTime": 247.562,
+        "endTime": 247.863,
+        "gloss": "know"
+      },
+      {
+        "word": "道路",
+        "pinyin": "dào lù",
+        "startTime": 247.863,
+        "endTime": 248.968,
+        "gloss": "road"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 248.968,
+        "endTime": 249.189,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 249.189,
+        "endTime": 249.893,
+        "gloss": "where"
+      }
+    ],
+    "fullTextEN": "When we set out, we didn't know where the road was,"
+  },
+  {
+    "startTime": 250.466,
+    "endTime": 254.0,
+    "fullTextZH": "可能在那个时候只有一个选择，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 250.486,
+        "endTime": 251.048,
+        "gloss": "maybe"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 251.048,
+        "endTime": 251.229,
+        "gloss": "at"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 251.229,
+        "endTime": 251.51,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 251.51,
+        "endTime": 252.193,
+        "gloss": "time"
+      },
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 252.193,
+        "endTime": 252.795,
+        "gloss": "only"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 252.795,
+        "endTime": 253.257,
+        "gloss": "one"
+      },
+      {
+        "word": "选择",
+        "pinyin": "xuǎn zé",
+        "startTime": 253.257,
+        "endTime": 253.98,
+        "gloss": "choice"
+      }
+    ],
+    "fullTextEN": "maybe at that time there was only one choice,"
+  },
+  {
+    "startTime": 254.3,
+    "endTime": 255.9,
+    "fullTextZH": "必须要这么做。",
+    "words": [
+      {
+        "word": "必须",
+        "pinyin": "bì xū",
+        "startTime": 254.381,
+        "endTime": 254.948,
+        "gloss": "must"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 254.948,
+        "endTime": 255.11,
+        "gloss": "do"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 255.11,
+        "endTime": 255.394,
+        "gloss": "this"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 255.394,
+        "endTime": 255.859,
+        "gloss": "way"
+      }
+    ],
+    "fullTextEN": "we had to do it this way."
+  },
+  {
+    "startTime": 256.366,
+    "endTime": 260.0,
+    "fullTextZH": "但是在你走上了这条路之后，",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 256.446,
+        "endTime": 257.169,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 257.169,
+        "endTime": 257.33,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 257.33,
+        "endTime": 257.832,
+        "gloss": "you"
+      },
+      {
+        "word": "走上",
+        "pinyin": "zǒu shàng",
+        "startTime": 257.832,
+        "endTime": 258.474,
+        "gloss": "embark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 258.474,
+        "endTime": 258.755,
+        "gloss": "on"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 258.755,
+        "endTime": 258.896,
+        "gloss": "this"
+      },
+      {
+        "word": "条路",
+        "pinyin": "tiáo lù",
+        "startTime": 258.896,
+        "endTime": 259.317,
+        "gloss": "path"
+      },
+      {
+        "word": "之后",
+        "pinyin": "zhī hòu",
+        "startTime": 259.317,
+        "endTime": 259.699,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "But after you embark on this path,"
+  },
+  {
+    "startTime": 260.066,
+    "endTime": 262.4,
+    "fullTextZH": "会遇到很多人，",
+    "words": [
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 260.207,
+        "endTime": 260.388,
+        "gloss": "will"
+      },
+      {
+        "word": "遇到",
+        "pinyin": "yù dào",
+        "startTime": 260.388,
+        "endTime": 261.193,
+        "gloss": "meet"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 261.193,
+        "endTime": 261.816,
+        "gloss": "many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 261.816,
+        "endTime": 262.179,
+        "gloss": "people"
+      }
+    ],
+    "fullTextEN": "you will meet many people,"
+  },
+  {
+    "startTime": 262.4,
+    "endTime": 266.6,
+    "fullTextZH": "很多事会带着你往前走。",
+    "words": [
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 262.48,
+        "endTime": 263.043,
+        "gloss": "many"
+      },
+      {
+        "word": "事会",
+        "pinyin": "shì huì",
+        "startTime": 263.043,
+        "endTime": 264.49,
+        "gloss": "things"
+      },
+      {
+        "word": "带",
+        "pinyin": "dài",
+        "startTime": 264.49,
+        "endTime": 264.691,
+        "gloss": "lead"
+      },
+      {
+        "word": "着",
+        "pinyin": "zhe",
+        "startTime": 264.691,
+        "endTime": 264.852,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 264.852,
+        "endTime": 265.656,
+        "gloss": "you"
+      },
+      {
+        "word": "往前走",
+        "pinyin": "wǎng qián zǒu",
+        "startTime": 265.656,
+        "endTime": 266.56,
+        "gloss": "forward"
+      }
+    ],
+    "fullTextEN": "many things will lead you forward."
+  },
+  {
+    "startTime": 267.4,
+    "endTime": 270.8,
+    "fullTextZH": "就像路易·威登离开家乡的时候，",
+    "words": [
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 267.48,
+        "endTime": 267.621,
+        "gloss": "just"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 267.621,
+        "endTime": 268.164,
+        "gloss": "like"
+      },
+      {
+        "word": "路易",
+        "pinyin": "lù yì",
+        "startTime": 268.164,
+        "endTime": 268.366,
+        "gloss": "Louis"
+      },
+      {
+        "word": "威登",
+        "pinyin": "wēi dēng",
+        "startTime": 268.406,
+        "endTime": 269.231,
+        "gloss": "Vuitton"
+      },
+      {
+        "word": "离开",
+        "pinyin": "lí kāi",
+        "startTime": 269.231,
+        "endTime": 269.633,
+        "gloss": "leave"
+      },
+      {
+        "word": "家乡",
+        "pinyin": "jiā xiāng",
+        "startTime": 269.633,
+        "endTime": 270.015,
+        "gloss": "hometown"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 270.015,
+        "endTime": 270.116,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 270.116,
+        "endTime": 270.76,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "Just like when Louis Vuitton left his hometown,"
+  },
+  {
+    "startTime": 271.0,
+    "endTime": 275.4,
+    "fullTextZH": "他可能也不知道以后的生活会怎么样。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 271.08,
+        "endTime": 271.321,
+        "gloss": "he"
+      },
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 271.321,
+        "endTime": 271.904,
+        "gloss": "probably"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 271.904,
+        "endTime": 272.185,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 272.185,
+        "endTime": 272.326,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 272.326,
+        "endTime": 273.029,
+        "gloss": "know"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 273.029,
+        "endTime": 273.471,
+        "gloss": "future"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 273.471,
+        "endTime": 273.592,
+        "gloss": "of"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 273.592,
+        "endTime": 274.556,
+        "gloss": "life"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 274.556,
+        "endTime": 274.717,
+        "gloss": "will"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 274.717,
+        "endTime": 275.36,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "he probably didn't know what his future life would be like."
+  },
+  {
+    "startTime": 275.866,
+    "endTime": 278.4,
+    "fullTextZH": "他学了很多手艺，",
+    "words": [
+      {
+        "word": "他学",
+        "pinyin": "tā xué",
+        "startTime": 275.906,
+        "endTime": 276.55,
+        "gloss": "he learn"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 276.55,
+        "endTime": 277.073,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 277.073,
+        "endTime": 277.636,
+        "gloss": "many"
+      },
+      {
+        "word": "手艺",
+        "pinyin": "shǒu yì",
+        "startTime": 277.636,
+        "endTime": 278.36,
+        "gloss": "skills"
+      }
+    ],
+    "fullTextEN": "He learned many skills,"
+  },
+  {
+    "startTime": 278.466,
+    "endTime": 280.333,
+    "fullTextZH": "吃了很多苦，",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 278.627,
+        "endTime": 278.908,
+        "gloss": "endure"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 278.908,
+        "endTime": 279.249,
+        "gloss": "completed"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 279.249,
+        "endTime": 279.891,
+        "gloss": "many"
+      },
+      {
+        "word": "苦",
+        "pinyin": "kǔ",
+        "startTime": 279.891,
+        "endTime": 280.293,
+        "gloss": "hardships"
+      }
+    ],
+    "fullTextEN": "endured a lot of hardships,"
+  },
+  {
+    "startTime": 280.566,
+    "endTime": 284.3,
+    "fullTextZH": "最后变成了一个有名的设计师，",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 280.707,
+        "endTime": 281.469,
+        "gloss": "finally"
+      },
+      {
+        "word": "变成",
+        "pinyin": "biàn chéng",
+        "startTime": 281.469,
+        "endTime": 281.791,
+        "gloss": "become"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 281.791,
+        "endTime": 281.891,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 281.891,
+        "endTime": 282.574,
+        "gloss": "a"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 282.574,
+        "endTime": 283.095,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 283.095,
+        "endTime": 283.437,
+        "gloss": "of"
+      },
+      {
+        "word": "设计师",
+        "pinyin": "shè jì shī",
+        "startTime": 283.437,
+        "endTime": 284.26,
+        "gloss": "designer"
+      }
+    ],
+    "fullTextEN": "and eventually became a famous designer,"
+  },
+  {
+    "startTime": 284.333,
+    "endTime": 286.5,
+    "fullTextZH": "还有了自己的品牌。",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 284.413,
+        "endTime": 284.774,
+        "gloss": "also"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 284.774,
+        "endTime": 285.296,
+        "gloss": "completed"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 285.296,
+        "endTime": 285.637,
+        "gloss": "own"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 285.637,
+        "endTime": 285.758,
+        "gloss": "of"
+      },
+      {
+        "word": "品牌",
+        "pinyin": "pǐn pái",
+        "startTime": 285.758,
+        "endTime": 286.46,
+        "gloss": "brand"
+      }
+    ],
+    "fullTextEN": "and even had his own brand."
+  },
+  {
+    "startTime": 287.166,
+    "endTime": 289.166,
+    "fullTextZH": "今天的视频就到这里啦！",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 287.247,
+        "endTime": 287.509,
+        "gloss": "today"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 287.509,
+        "endTime": 287.61,
+        "gloss": "of"
+      },
+      {
+        "word": "视频",
+        "pinyin": "shì pín",
+        "startTime": 287.61,
+        "endTime": 288.035,
+        "gloss": "video"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 288.035,
+        "endTime": 288.318,
+        "gloss": "just"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 288.318,
+        "endTime": 288.459,
+        "gloss": "reach"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 288.459,
+        "endTime": 288.722,
+        "gloss": "here"
+      },
+      {
+        "word": "啦",
+        "pinyin": "la",
+        "startTime": 288.722,
+        "endTime": 289.126,
+        "gloss": "la"
+      }
+    ],
+    "fullTextEN": "That's all for today's video!"
+  },
+  {
+    "startTime": 289.3,
+    "endTime": 291.766,
+    "fullTextZH": "你们喜欢LV这个牌子吗？",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 289.38,
+        "endTime": 289.681,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 289.681,
+        "endTime": 290.222,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 290.663,
+        "endTime": 290.884,
+        "gloss": "this"
+      },
+      {
+        "word": "牌子",
+        "pinyin": "pái zi",
+        "startTime": 290.884,
+        "endTime": 291.225,
+        "gloss": "brand"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 291.225,
+        "endTime": 291.465,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you like the LV brand?"
+  },
+  {
+    "startTime": 291.866,
+    "endTime": 295.166,
+    "fullTextZH": "为什么喜欢，或者为什么不喜欢呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 291.967,
+        "endTime": 292.369,
+        "gloss": "why"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 292.369,
+        "endTime": 292.57,
+        "gloss": "like"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 292.872,
+        "endTime": 293.275,
+        "gloss": "or"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 293.275,
+        "endTime": 294.059,
+        "gloss": "why"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 294.059,
+        "endTime": 294.24,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 294.24,
+        "endTime": 294.623,
+        "gloss": "like"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 294.623,
+        "endTime": 295.126,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Why do you like it, or why don't you like it?"
+  },
+  {
+    "startTime": 295.366,
+    "endTime": 296.433,
+    "fullTextZH": "记得留言给我哦！",
+    "words": [
+      {
+        "word": "记得",
+        "pinyin": "jì de",
+        "startTime": 295.447,
+        "endTime": 295.708,
+        "gloss": "remember"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 295.708,
+        "endTime": 296.05,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 296.05,
+        "endTime": 296.212,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 296.212,
+        "endTime": 296.373,
+        "gloss": "me"
+      },
+      {
+        "word": "哦",
+        "pinyin": "ó",
+        "startTime": 296.373,
+        "endTime": 296.413,
+        "gloss": "oh"
+      }
+    ],
+    "fullTextEN": "Remember to leave me a comment!"
+  },
+  {
+    "startTime": 296.433,
+    "endTime": 298.433,
+    "fullTextZH": "我们下次再见。",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 296.898,
+        "endTime": 297.443,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 297.443,
+        "endTime": 297.766,
+        "gloss": "next time"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 297.766,
+        "endTime": 298.393,
+        "gloss": "see again"
+      }
+    ],
+    "fullTextEN": "See you next time."
+  }
+]
