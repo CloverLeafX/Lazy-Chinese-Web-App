@@ -459,9 +459,8 @@ video#localVideo {
 .karaoke-panel {
   display: none;
   flex-shrink: 0;
-  position: relative;
-  height: 128px;
-  padding: 10px 20px;
+  min-height: 100px;
+  padding: 12px 20px 14px;
   background: #0b0e1a;
   border-top: 1px solid var(--border);
   align-items: center;
@@ -474,11 +473,13 @@ video#localVideo {
 .karaoke-panel.active { display: flex; }
 
 .kk-controls {
-  position: absolute;
-  top: 6px; right: 10px;
-  display: flex;
+  display: none;
+  align-items: center;
   gap: 4px;
 }
+.watch-body.karaoke-active .kk-controls { display: flex; }
+.vc-sep.kk-sep { display: none; }
+.watch-body.karaoke-active .vc-sep.kk-sep { display: block; }
 .kk-pill {
   font-size: 10px;
   padding: 2px 7px;
@@ -629,6 +630,13 @@ video#localVideo {
   .watch-title { display: none; }
   .watch-teacher { display: none; }
   .watch-spacer { display: none; }
+  /* Karaoke panel — bigger text on mobile */
+  .karaoke-panel { padding: 16px 16px 20px; gap: 8px; }
+  .kk-hz    { font-size: 40px; }
+  .kk-py    { font-size: 13px; }
+  .kk-gloss { font-size: 11px; }
+  .karaoke-sentence { gap: 12px 20px; }
+  .karaoke-english  { font-size: 13px; }
 }
   </style>
 </head>
@@ -793,16 +801,17 @@ video#localVideo {
           <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg></button>
           <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
           <input type="file" id="localFileInput" accept="video/*" style="display:none">
+          <div class="vc-sep kk-sep"></div>
+          <div class="kk-controls">
+            <button class="kk-pill active" id="kkPy">拼 Pin</button>
+            <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
+            <button class="kk-pill" id="kkEn">EN</button>
+          </div>
         </div>
       </div>
 
       <!-- Karaoke panel — below video controls, inside player-col -->
       <div class="karaoke-panel" id="karaokePanel">
-        <div class="kk-controls">
-          <button class="kk-pill active" id="kkPy">拼 Pin</button>
-          <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
-          <button class="kk-pill" id="kkEn">EN</button>
-        </div>
         <div class="karaoke-sentence" id="karaokeSentence"></div>
         <div class="karaoke-english" id="karaokeEnglish"></div>
       </div>
@@ -1587,6 +1596,7 @@ async function loadKaraoke(v) {
 function toggleKaraoke() {
   karaokeOn = !karaokeOn;
   document.getElementById("karaokeToggle").classList.toggle("active", karaokeOn);
+  document.getElementById("watchBody").classList.toggle("karaoke-active", karaokeOn);
   const panel = document.getElementById("karaokePanel");
 
   if (karaokeOn) {
@@ -1620,6 +1630,7 @@ function kkToggleEn() {
 
 function stopKaraoke() {
   karaokeOn = false;
+  document.getElementById("watchBody").classList.remove("karaoke-active");
   if (karaokeRafId) { cancelAnimationFrame(karaokeRafId); karaokeRafId = null; }
   karaokeCues    = [];
   karaokeSentIdx = -1;
