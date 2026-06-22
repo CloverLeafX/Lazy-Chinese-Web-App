@@ -770,7 +770,7 @@ video#localVideo {
 
   <div class="watch-body" id="watchBody">
 
-    <!-- Left col: video + captions bar -->
+    <!-- Left col: video + karaoke + controls -->
     <div class="player-col">
       <div class="player-section">
         <div class="player-wrap" id="playerWrap">
@@ -791,29 +791,31 @@ video#localVideo {
             <div class="current-sub-english" id="currentSubEnglish"></div>
           </div>
         </div>
-        <div class="video-controls" id="videoControls">
-          <button class="vc-btn" id="vcPlay" title="Play/Pause"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
-          <span class="vc-time" id="vcTime">0:00 / 0:00</span>
-          <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-buffer" id="vcBuffer"></div><div class="vc-progress-fill" id="vcFill"></div></div></div>
-          <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></button>
-          <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
-          <div class="vc-sep"></div>
-          <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg></button>
-          <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
-          <input type="file" id="localFileInput" accept="video/*" style="display:none">
-          <div class="vc-sep kk-sep"></div>
-          <div class="kk-controls">
-            <button class="kk-pill active" id="kkPy">拼 Pin</button>
-            <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
-            <button class="kk-pill" id="kkEn">EN</button>
-          </div>
-        </div>
       </div>
 
-      <!-- Karaoke panel — below video controls, inside player-col -->
+      <!-- Karaoke panel — between video and controls bar -->
       <div class="karaoke-panel" id="karaokePanel">
         <div class="karaoke-sentence" id="karaokeSentence"></div>
         <div class="karaoke-english" id="karaokeEnglish"></div>
+      </div>
+
+      <!-- Controls bar — always at the bottom of player-col -->
+      <div class="video-controls" id="videoControls">
+        <button class="vc-btn" id="vcPlay" title="Play/Pause"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
+        <span class="vc-time" id="vcTime">0:00 / 0:00</span>
+        <div class="vc-progress" id="vcProgress"><div class="vc-progress-track"><div class="vc-progress-buffer" id="vcBuffer"></div><div class="vc-progress-fill" id="vcFill"></div></div></div>
+        <button class="vc-btn" id="vcMute" title="Mute"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg></button>
+        <button class="vc-btn" id="vcFullscreen" title="Fullscreen"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
+        <div class="vc-sep"></div>
+        <button class="vc-btn" id="vcDownload" title="Download video"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg></button>
+        <button class="vc-btn" id="vcLocalFile" title="Play from local file"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg></button>
+        <input type="file" id="localFileInput" accept="video/*" style="display:none">
+        <div class="vc-sep kk-sep"></div>
+        <div class="kk-controls">
+          <button class="kk-pill active" id="kkPy">拼 Pin</button>
+          <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
+          <button class="kk-pill" id="kkEn">EN</button>
+        </div>
       </div>
     </div>
 
@@ -1192,11 +1194,6 @@ function openWatch(v) {
   speedSel.value = "1";
   speedSel.classList.remove("fast");
   document.getElementById("localVideo").playbackRate = 1;
-  // portrait mobile: auto-show script panel so video stays pinned above scrolling transcript
-  if (window.innerWidth <= 760) {
-    document.getElementById("watchBody").classList.add("transcript-visible");
-    document.getElementById("sidebarToggle").classList.add("active");
-  }
 }
 
 function closeWatch() {
