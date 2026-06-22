@@ -838,7 +838,7 @@ video#localVideo {
           <div class="vc-sep kk-sep"></div>
           <div class="kk-controls">
             <button class="kk-pill active" id="kkPy">拼 Pin</button>
-            <button class="kk-pill active" id="kkGloss">字义 Gloss</button>
+            <button class="kk-pill" id="kkGloss">字义 Gloss</button>
             <button class="kk-pill" id="kkEn">EN</button>
           </div>
         </div>
@@ -917,7 +917,7 @@ let karaokeCues     = [];   // [{startTime, endTime, fullTextZH, fullTextEN, wor
 let karaokeRafId    = null;
 let karaokeSentIdx  = -1;
 let kkShowPy        = true;
-let kkShowGloss     = true;
+let kkShowGloss     = window.innerWidth > 760;  // off by default on mobile
 let kkShowEn        = false;
 
 /* ══════════════════════════════════════════════════════
@@ -2096,6 +2096,8 @@ document.addEventListener("keydown", e => {
 })();
 
 /* ── Boot ───────────────────────────────────────────── */
+// Sync kkGloss button with its initial state (on by default on desktop, off on mobile)
+document.getElementById("kkGloss").classList.toggle("active", kkShowGloss);
 boot();
 </script>
 </body>
