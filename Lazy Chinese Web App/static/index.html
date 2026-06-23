@@ -931,6 +931,10 @@ async function boot() {
       fetch(`${BASE}/api/watch-state`).then(r => r.json()),
     ]);
     watchState = ws;
+    // Normalize legacy entries that have watched:true but no watchCount
+    Object.values(watchState).forEach(entry => {
+      if (entry.watched && !entry.watchCount) entry.watchCount = 1;
+    });
     allVideos  = [
       ...catalog.map(v => ({ ...v, source: "lazy_chinese" })),
       ...xgCatalog,
