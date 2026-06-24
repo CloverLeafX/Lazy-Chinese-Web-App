@@ -521,7 +521,9 @@ video#localVideo {
   align-items: center;
   gap: 2px;
   transition: opacity 80ms;
+  cursor: pointer;
 }
+.kk-word:hover .kk-hz { color: rgba(255,255,255,0.85) !important; }
 .kk-py {
   font-size: 11px;
   letter-spacing: 0.2px;
@@ -1728,6 +1730,11 @@ function buildKaraokeRow(cue) {
       gl.textContent = w.gloss;
       stack.appendChild(gl);
     }
+
+    stack.addEventListener("click", () => {
+      const vid = document.getElementById("localVideo");
+      if (vid.src) { vid.currentTime = w.startTime; vid.play(); }
+    });
 
     container.appendChild(stack);
   });
