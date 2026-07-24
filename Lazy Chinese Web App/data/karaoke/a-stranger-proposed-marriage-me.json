@@ -1,0 +1,3895 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 3.7,
+    "fullTextZH": "你好这里是XiaoguaChinese",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.421,
+        "endTime": 1.749,
+        "gloss": "hello"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 1.749,
+        "endTime": 2.111,
+        "gloss": "here"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.111,
+        "endTime": 2.372,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "Hello, this is XiaoguaChinese."
+  },
+  {
+    "startTime": 3.866,
+    "endTime": 5.3,
+    "fullTextZH": "我是蔚萱",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.967,
+        "endTime": 4.31,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 4.31,
+        "endTime": 4.573,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 4.573,
+        "endTime": 4.795,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 4.795,
+        "endTime": 4.815,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 6.233,
+    "endTime": 9.8,
+    "fullTextZH": "你喜欢旅游吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 6.353,
+        "endTime": 6.914,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 6.914,
+        "endTime": 8.437,
+        "gloss": "like"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 8.437,
+        "endTime": 9.018,
+        "gloss": "travel"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 9.018,
+        "endTime": 9.039,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like traveling?"
+  },
+  {
+    "startTime": 10.433,
+    "endTime": 14.166,
+    "fullTextZH": "你喜欢一个人旅游吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 10.513,
+        "endTime": 10.935,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 10.935,
+        "endTime": 12.059,
+        "gloss": "like"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 12.059,
+        "endTime": 12.48,
+        "gloss": "one"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 12.48,
+        "endTime": 13.203,
+        "gloss": "person"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 13.203,
+        "endTime": 13.624,
+        "gloss": "travel"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 13.624,
+        "endTime": 13.644,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like traveling alone?"
+  },
+  {
+    "startTime": 14.666,
+    "endTime": 20.6,
+    "fullTextZH": "今天我要给你说一个旅游的故事",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 14.786,
+        "endTime": 15.829,
+        "gloss": "today"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 15.829,
+        "endTime": 16.45,
+        "gloss": "I want"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 16.45,
+        "endTime": 16.731,
+        "gloss": "to"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 16.731,
+        "endTime": 17.553,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 17.553,
+        "endTime": 18.134,
+        "gloss": "tell"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 18.134,
+        "endTime": 19.177,
+        "gloss": "a"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 19.177,
+        "endTime": 19.758,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 19.758,
+        "endTime": 19.999,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 19.999,
+        "endTime": 20.299,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Today I want to tell you a travel story."
+  },
+  {
+    "startTime": 20.966,
+    "endTime": 23.466,
+    "fullTextZH": "我有一个学生",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 21.067,
+        "endTime": 21.369,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 21.369,
+        "endTime": 21.994,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 21.994,
+        "endTime": 22.619,
+        "gloss": "a"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 22.619,
+        "endTime": 22.942,
+        "gloss": "student"
+      }
+    ],
+    "fullTextEN": "I have a student."
+  },
+  {
+    "startTime": 23.833,
+    "endTime": 25.366,
+    "fullTextZH": "她叫Didi",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 23.894,
+        "endTime": 24.156,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 24.156,
+        "endTime": 24.64,
+        "gloss": "called"
+      }
+    ],
+    "fullTextEN": "Her name is Didi."
+  },
+  {
+    "startTime": 25.966,
+    "endTime": 27.966,
+    "fullTextZH": "她是荷兰人",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 26.027,
+        "endTime": 26.41,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 26.41,
+        "endTime": 26.936,
+        "gloss": "is"
+      },
+      {
+        "word": "荷兰人",
+        "pinyin": "hé lán rén",
+        "startTime": 26.936,
+        "endTime": 27.461,
+        "gloss": "Dutch"
+      }
+    ],
+    "fullTextEN": "She is Dutch."
+  },
+  {
+    "startTime": 28.866,
+    "endTime": 33.666,
+    "fullTextZH": "Didi是一个很漂亮的女孩子",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 29.569,
+        "endTime": 29.75,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 29.75,
+        "endTime": 30.151,
+        "gloss": "a"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 30.151,
+        "endTime": 32.019,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.019,
+        "endTime": 32.762,
+        "gloss": "of"
+      },
+      {
+        "word": "女孩子",
+        "pinyin": "nǚ hái zi",
+        "startTime": 32.762,
+        "endTime": 33.264,
+        "gloss": "girl"
+      }
+    ],
+    "fullTextEN": "Didi is a very beautiful girl."
+  },
+  {
+    "startTime": 34.666,
+    "endTime": 36.6,
+    "fullTextZH": "她很高",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 34.706,
+        "endTime": 35.069,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 35.069,
+        "endTime": 35.794,
+        "gloss": "very"
+      },
+      {
+        "word": "高",
+        "pinyin": "gāo",
+        "startTime": 35.794,
+        "endTime": 35.814,
+        "gloss": "tall"
+      }
+    ],
+    "fullTextEN": "She is very tall."
+  },
+  {
+    "startTime": 37.4,
+    "endTime": 40.9,
+    "fullTextZH": "差不多一米七多",
+    "words": [
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 37.581,
+        "endTime": 39.09,
+        "gloss": "almost"
+      },
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 39.09,
+        "endTime": 39.874,
+        "gloss": "one meter"
+      },
+      {
+        "word": "七多",
+        "pinyin": "qī duō",
+        "startTime": 39.874,
+        "endTime": 40.216,
+        "gloss": "seven plus"
+      }
+    ],
+    "fullTextEN": "Almost 1.7 meters tall."
+  },
+  {
+    "startTime": 41.766,
+    "endTime": 45.166,
+    "fullTextZH": "她的眼睛大大的",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 41.826,
+        "endTime": 42.007,
+        "gloss": "she"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 42.007,
+        "endTime": 42.249,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 42.249,
+        "endTime": 44.12,
+        "gloss": "eyes"
+      },
+      {
+        "word": "大大的",
+        "pinyin": "dà dà de",
+        "startTime": 44.12,
+        "endTime": 44.764,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "Her eyes are big."
+  },
+  {
+    "startTime": 46.4,
+    "endTime": 50.8,
+    "fullTextZH": "Didi笑起来很可爱",
+    "words": [
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 47.204,
+        "endTime": 47.686,
+        "gloss": "smile"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 47.686,
+        "endTime": 49.474,
+        "gloss": "up"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 49.474,
+        "endTime": 49.996,
+        "gloss": "very"
+      },
+      {
+        "word": "可爱",
+        "pinyin": "kě ài",
+        "startTime": 49.996,
+        "endTime": 50.318,
+        "gloss": "cute"
+      }
+    ],
+    "fullTextEN": "Didi looks very cute when she smiles."
+  },
+  {
+    "startTime": 52.033,
+    "endTime": 57.7,
+    "fullTextZH": "她和我学中文差不多一年了",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 52.113,
+        "endTime": 52.554,
+        "gloss": "she"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 52.554,
+        "endTime": 52.974,
+        "gloss": "with"
+      },
+      {
+        "word": "我学",
+        "pinyin": "wǒ xué",
+        "startTime": 52.974,
+        "endTime": 53.955,
+        "gloss": "me learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 53.955,
+        "endTime": 55.097,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 55.097,
+        "endTime": 56.559,
+        "gloss": "almost"
+      },
+      {
+        "word": "一年",
+        "pinyin": "yī nián",
+        "startTime": 56.559,
+        "endTime": 57.179,
+        "gloss": "one year"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 57.179,
+        "endTime": 57.199,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "She has been learning Chinese with me for almost a year."
+  },
+  {
+    "startTime": 58.7,
+    "endTime": 62.066,
+    "fullTextZH": "所以今年9月",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 58.88,
+        "endTime": 59.962,
+        "gloss": "so"
+      },
+      {
+        "word": "今年",
+        "pinyin": "jīn nián",
+        "startTime": 59.962,
+        "endTime": 61.024,
+        "gloss": "this year"
+      },
+      {
+        "word": "月",
+        "pinyin": "yuè",
+        "startTime": 61.445,
+        "endTime": 61.465,
+        "gloss": "month"
+      }
+    ],
+    "fullTextEN": "So this September,"
+  },
+  {
+    "startTime": 62.433,
+    "endTime": 65.9,
+    "fullTextZH": "她去中国旅游了",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 62.513,
+        "endTime": 63.054,
+        "gloss": "she"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 63.054,
+        "endTime": 63.916,
+        "gloss": "go"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 63.916,
+        "endTime": 64.918,
+        "gloss": "China"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 64.918,
+        "endTime": 65.439,
+        "gloss": "travel"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 65.439,
+        "endTime": 65.459,
+        "gloss": "completed"
+      }
+    ],
+    "fullTextEN": "She traveled to China."
+  },
+  {
+    "startTime": 66.466,
+    "endTime": 72.3,
+    "fullTextZH": "Didi在中国旅游的时候",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 67.248,
+        "endTime": 67.669,
+        "gloss": "at"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 67.669,
+        "endTime": 68.711,
+        "gloss": "China"
+      },
+      {
+        "word": "旅游",
+        "pinyin": "lǚ yóu",
+        "startTime": 68.711,
+        "endTime": 69.172,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 69.172,
+        "endTime": 69.413,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 69.413,
+        "endTime": 69.654,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "While Didi was traveling in China,"
+  },
+  {
+    "startTime": 73.1,
+    "endTime": 77.066,
+    "fullTextZH": "遇到了一个中国男人",
+    "words": [
+      {
+        "word": "遇到",
+        "pinyin": "yù dào",
+        "startTime": 73.24,
+        "endTime": 73.701,
+        "gloss": "meet"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 73.701,
+        "endTime": 74.362,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 74.362,
+        "endTime": 75.524,
+        "gloss": "a"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 75.524,
+        "endTime": 76.225,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 76.225,
+        "endTime": 76.585,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "She met a Chinese man."
+  },
+  {
+    "startTime": 77.833,
+    "endTime": 82.433,
+    "fullTextZH": "这个男人看起来怎么样",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 77.954,
+        "endTime": 78.235,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 78.235,
+        "endTime": 79.581,
+        "gloss": "man"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 79.581,
+        "endTime": 81.509,
+        "gloss": "look"
+      },
+      {
+        "word": "怎么样",
+        "pinyin": "zěn me yàng",
+        "startTime": 81.509,
+        "endTime": 81.85,
+        "gloss": "how"
+      }
+    ],
+    "fullTextEN": "How did this man look?"
+  },
+  {
+    "startTime": 84.1,
+    "endTime": 85.8,
+    "fullTextZH": "Didi说",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 85.112,
+        "endTime": 85.132,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Didi said,"
+  },
+  {
+    "startTime": 85.8,
+    "endTime": 89.966,
+    "fullTextZH": "他看起来不太帅",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 85.86,
+        "endTime": 86.241,
+        "gloss": "he"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 86.241,
+        "endTime": 88.183,
+        "gloss": "looks"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 88.183,
+        "endTime": 88.524,
+        "gloss": "not"
+      },
+      {
+        "word": "太帅",
+        "pinyin": "tài shuài",
+        "startTime": 88.524,
+        "endTime": 89.325,
+        "gloss": "very handsome"
+      }
+    ],
+    "fullTextEN": "He doesn't look very handsome."
+  },
+  {
+    "startTime": 91.2,
+    "endTime": 94.4,
+    "fullTextZH": "也不是很丑",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 91.341,
+        "endTime": 92.126,
+        "gloss": "also"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 92.126,
+        "endTime": 92.911,
+        "gloss": "not"
+      },
+      {
+        "word": "很丑",
+        "pinyin": "hěn chǒu",
+        "startTime": 92.911,
+        "endTime": 93.535,
+        "gloss": "very ugly"
+      }
+    ],
+    "fullTextEN": "He's not very ugly either."
+  },
+  {
+    "startTime": 94.833,
+    "endTime": 97.766,
+    "fullTextZH": "这个男人不太高",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 95.456,
+        "endTime": 95.717,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 95.717,
+        "endTime": 96.4,
+        "gloss": "man"
+      },
+      {
+        "word": "不太高",
+        "pinyin": "bù tài gāo",
+        "startTime": 96.4,
+        "endTime": 97.063,
+        "gloss": "not very tall"
+      }
+    ],
+    "fullTextEN": "This man is not very tall."
+  },
+  {
+    "startTime": 98.666,
+    "endTime": 101.4,
+    "fullTextZH": "可是他很热情",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 98.807,
+        "endTime": 100.033,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 100.033,
+        "endTime": 100.274,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 100.274,
+        "endTime": 100.536,
+        "gloss": "very"
+      },
+      {
+        "word": "热情",
+        "pinyin": "rè qíng",
+        "startTime": 100.536,
+        "endTime": 100.918,
+        "gloss": "enthusiastic"
+      }
+    ],
+    "fullTextEN": "But he is very enthusiastic."
+  },
+  {
+    "startTime": 101.866,
+    "endTime": 103.433,
+    "fullTextZH": "是这个男人吗",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 102.127,
+        "endTime": 102.328,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 102.328,
+        "endTime": 102.589,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 102.589,
+        "endTime": 102.951,
+        "gloss": "man"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 102.951,
+        "endTime": 102.971,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it this man?"
+  },
+  {
+    "startTime": 104.0,
+    "endTime": 104.9,
+    "fullTextZH": "不是不是",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 104.307,
+        "endTime": 104.593,
+        "gloss": "not"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 104.593,
+        "endTime": 104.757,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "No, no."
+  },
+  {
+    "startTime": 104.9,
+    "endTime": 106.266,
+    "fullTextZH": "不是这个男人",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 105.121,
+        "endTime": 105.402,
+        "gloss": "not"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 105.402,
+        "endTime": 105.623,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 105.623,
+        "endTime": 105.844,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "It's not this man."
+  },
+  {
+    "startTime": 106.366,
+    "endTime": 108.233,
+    "fullTextZH": "但是",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 106.426,
+        "endTime": 106.848,
+        "gloss": "but"
+      }
+    ],
+    "fullTextEN": "But"
+  },
+  {
+    "startTime": 108.233,
+    "endTime": 110.033,
+    "fullTextZH": "看起来差不多",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 108.334,
+        "endTime": 109.103,
+        "gloss": "looks"
+      },
+      {
+        "word": "差不多",
+        "pinyin": "chà bu duō",
+        "startTime": 109.103,
+        "endTime": 109.426,
+        "gloss": "similar"
+      }
+    ],
+    "fullTextEN": "Looks similar."
+  },
+  {
+    "startTime": 110.5,
+    "endTime": 113.0,
+    "fullTextZH": "这个男人和Didi说",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 110.601,
+        "endTime": 110.823,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 110.823,
+        "endTime": 111.468,
+        "gloss": "man"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 111.468,
+        "endTime": 111.73,
+        "gloss": "to"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 112.294,
+        "endTime": 112.315,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "This man said to Didi"
+  },
+  {
+    "startTime": 113.233,
+    "endTime": 114.2,
+    "fullTextZH": "你好",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 113.314,
+        "endTime": 113.555,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello"
+  },
+  {
+    "startTime": 114.2,
+    "endTime": 119.166,
+    "fullTextZH": "你要和我一起去喝茶吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 114.46,
+        "endTime": 114.681,
+        "gloss": "you"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 114.681,
+        "endTime": 115.001,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 115.001,
+        "endTime": 115.241,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 115.241,
+        "endTime": 115.582,
+        "gloss": "me"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 115.582,
+        "endTime": 116.523,
+        "gloss": "together"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 116.523,
+        "endTime": 117.224,
+        "gloss": "go"
+      },
+      {
+        "word": "喝茶",
+        "pinyin": "hē chá",
+        "startTime": 117.224,
+        "endTime": 118.625,
+        "gloss": "have tea"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 118.625,
+        "endTime": 118.645,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you want to go have tea with me?"
+  },
+  {
+    "startTime": 119.966,
+    "endTime": 120.766,
+    "fullTextZH": "对",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 120.028,
+        "endTime": 120.048,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes"
+  },
+  {
+    "startTime": 120.8,
+    "endTime": 125.466,
+    "fullTextZH": "是喝茶不是喝咖啡",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 120.96,
+        "endTime": 121.721,
+        "gloss": "is"
+      },
+      {
+        "word": "喝茶",
+        "pinyin": "hē chá",
+        "startTime": 121.721,
+        "endTime": 123.283,
+        "gloss": "have tea"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 123.283,
+        "endTime": 124.084,
+        "gloss": "not"
+      },
+      {
+        "word": "喝咖啡",
+        "pinyin": "hē kā fēi",
+        "startTime": 124.084,
+        "endTime": 125.005,
+        "gloss": "have coffee"
+      }
+    ],
+    "fullTextEN": "It's tea, not coffee."
+  },
+  {
+    "startTime": 126.033,
+    "endTime": 128.833,
+    "fullTextZH": "Didi觉得",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 126.657,
+        "endTime": 127.06,
+        "gloss": "thinks"
+      }
+    ],
+    "fullTextEN": "Didi thinks"
+  },
+  {
+    "startTime": 128.833,
+    "endTime": 132.8,
+    "fullTextZH": "虽然我不认识这个男人",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 129.033,
+        "endTime": 129.634,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 129.634,
+        "endTime": 130.015,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 130.015,
+        "endTime": 130.456,
+        "gloss": "not"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 130.456,
+        "endTime": 131.658,
+        "gloss": "know"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 131.658,
+        "endTime": 131.959,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 131.959,
+        "endTime": 132.259,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "Although I don't know this man"
+  },
+  {
+    "startTime": 133.1,
+    "endTime": 137.8,
+    "fullTextZH": "可是我想和他练习中文",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 133.18,
+        "endTime": 134.185,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 134.185,
+        "endTime": 134.526,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 134.526,
+        "endTime": 134.928,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 134.928,
+        "endTime": 135.35,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 135.35,
+        "endTime": 135.731,
+        "gloss": "him"
+      },
+      {
+        "word": "练习",
+        "pinyin": "liàn xí",
+        "startTime": 135.731,
+        "endTime": 136.896,
+        "gloss": "practice"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 136.896,
+        "endTime": 137.137,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "But I want to practice Chinese with him."
+  },
+  {
+    "startTime": 138.233,
+    "endTime": 142.566,
+    "fullTextZH": "而且她想试试喝茶",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 138.393,
+        "endTime": 139.316,
+        "gloss": "and"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 139.316,
+        "endTime": 139.677,
+        "gloss": "she"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 139.677,
+        "endTime": 140.159,
+        "gloss": "wants"
+      },
+      {
+        "word": "试试",
+        "pinyin": "shì shì",
+        "startTime": 140.159,
+        "endTime": 141.362,
+        "gloss": "try"
+      },
+      {
+        "word": "喝茶",
+        "pinyin": "hē chá",
+        "startTime": 141.362,
+        "endTime": 141.784,
+        "gloss": "have tea"
+      }
+    ],
+    "fullTextEN": "And she wants to try having tea."
+  },
+  {
+    "startTime": 143.633,
+    "endTime": 145.7,
+    "fullTextZH": "他们去哪儿",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 143.733,
+        "endTime": 144.416,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 144.416,
+        "endTime": 144.917,
+        "gloss": "go"
+      },
+      {
+        "word": "哪儿",
+        "pinyin": "nǎ ér",
+        "startTime": 144.917,
+        "endTime": 145.138,
+        "gloss": "where"
+      }
+    ],
+    "fullTextEN": "Where are they going?"
+  },
+  {
+    "startTime": 145.966,
+    "endTime": 147.833,
+    "fullTextZH": "他们去茶馆",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 146.046,
+        "endTime": 146.428,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 146.428,
+        "endTime": 146.749,
+        "gloss": "go"
+      },
+      {
+        "word": "茶馆",
+        "pinyin": "chá guǎn",
+        "startTime": 146.749,
+        "endTime": 147.191,
+        "gloss": "teahouse"
+      }
+    ],
+    "fullTextEN": "They are going to the teahouse."
+  },
+  {
+    "startTime": 148.366,
+    "endTime": 150.033,
+    "fullTextZH": "所以很安全",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 148.547,
+        "endTime": 149.049,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 149.049,
+        "endTime": 149.29,
+        "gloss": "very"
+      },
+      {
+        "word": "安全",
+        "pinyin": "ān quán",
+        "startTime": 149.29,
+        "endTime": 149.591,
+        "gloss": "safe"
+      }
+    ],
+    "fullTextEN": "So it's very safe."
+  },
+  {
+    "startTime": 150.366,
+    "endTime": 153.166,
+    "fullTextZH": "Didi说好",
+    "words": [
+      {
+        "word": "说好",
+        "pinyin": "shuō hǎo",
+        "startTime": 151.615,
+        "endTime": 152.401,
+        "gloss": "agreed"
+      }
+    ],
+    "fullTextEN": "Didi agreed."
+  },
+  {
+    "startTime": 153.166,
+    "endTime": 156.3,
+    "fullTextZH": "我们去到了茶馆",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 153.266,
+        "endTime": 153.608,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 153.608,
+        "endTime": 154.552,
+        "gloss": "go"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 154.552,
+        "endTime": 154.974,
+        "gloss": "to"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 154.974,
+        "endTime": 155.255,
+        "gloss": "arrived"
+      },
+      {
+        "word": "茶馆",
+        "pinyin": "chá guǎn",
+        "startTime": 155.255,
+        "endTime": 155.657,
+        "gloss": "teahouse"
+      }
+    ],
+    "fullTextEN": "We went to the teahouse."
+  },
+  {
+    "startTime": 156.3,
+    "endTime": 159.066,
+    "fullTextZH": "他们喝茶聊天",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 156.38,
+        "endTime": 156.801,
+        "gloss": "they"
+      },
+      {
+        "word": "喝茶",
+        "pinyin": "hē chá",
+        "startTime": 156.801,
+        "endTime": 158.364,
+        "gloss": "drink tea"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 158.364,
+        "endTime": 158.886,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "They drink tea and chat."
+  },
+  {
+    "startTime": 159.066,
+    "endTime": 162.566,
+    "fullTextZH": "他们用英文聊天吗",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 160.152,
+        "endTime": 160.635,
+        "gloss": "they"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 160.635,
+        "endTime": 160.977,
+        "gloss": "use"
+      },
+      {
+        "word": "英文",
+        "pinyin": "yīng wén",
+        "startTime": 160.977,
+        "endTime": 161.46,
+        "gloss": "English"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 161.46,
+        "endTime": 161.983,
+        "gloss": "chat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 161.983,
+        "endTime": 162.003,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do they chat in English?"
+  },
+  {
+    "startTime": 163.766,
+    "endTime": 164.566,
+    "fullTextZH": "不是",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 163.848,
+        "endTime": 164.074,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No."
+  },
+  {
+    "startTime": 165.233,
+    "endTime": 169.1,
+    "fullTextZH": "这个男人的英文不太好",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 165.373,
+        "endTime": 165.774,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 165.774,
+        "endTime": 166.175,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 166.175,
+        "endTime": 166.315,
+        "gloss": "possessive"
+      },
+      {
+        "word": "英文",
+        "pinyin": "yīng wén",
+        "startTime": 166.315,
+        "endTime": 167.858,
+        "gloss": "English"
+      },
+      {
+        "word": "不太好",
+        "pinyin": "bù tài hǎo",
+        "startTime": 167.858,
+        "endTime": 168.379,
+        "gloss": "not very good"
+      }
+    ],
+    "fullTextEN": "This man's English is not very good."
+  },
+  {
+    "startTime": 169.9,
+    "endTime": 174.1,
+    "fullTextZH": "所以她和Didi用中文聊天",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 170.081,
+        "endTime": 170.664,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 170.664,
+        "endTime": 170.905,
+        "gloss": "she"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 170.905,
+        "endTime": 171.206,
+        "gloss": "with"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 171.97,
+        "endTime": 172.311,
+        "gloss": "use"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 172.311,
+        "endTime": 173.156,
+        "gloss": "Chinese"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 173.156,
+        "endTime": 173.497,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "So she chats with Didi in Chinese."
+  },
+  {
+    "startTime": 174.766,
+    "endTime": 177.766,
+    "fullTextZH": "他们可以聊天气",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 174.806,
+        "endTime": 175.169,
+        "gloss": "they"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 175.169,
+        "endTime": 175.571,
+        "gloss": "can"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 175.571,
+        "endTime": 177.243,
+        "gloss": "chat"
+      },
+      {
+        "word": "气",
+        "pinyin": "qì",
+        "startTime": 177.243,
+        "endTime": 177.263,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "They can talk about the weather."
+  },
+  {
+    "startTime": 178.166,
+    "endTime": 182.4,
+    "fullTextZH": "可以聊他们的工作还有生活",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 178.266,
+        "endTime": 178.607,
+        "gloss": "can"
+      },
+      {
+        "word": "聊",
+        "pinyin": "liáo",
+        "startTime": 178.607,
+        "endTime": 179.069,
+        "gloss": "talk"
+      },
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 179.069,
+        "endTime": 179.51,
+        "gloss": "their"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 179.51,
+        "endTime": 179.872,
+        "gloss": "possessive"
+      },
+      {
+        "word": "工作",
+        "pinyin": "gōng zuò",
+        "startTime": 179.872,
+        "endTime": 181.056,
+        "gloss": "work"
+      },
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 181.056,
+        "endTime": 181.477,
+        "gloss": "and"
+      },
+      {
+        "word": "生活",
+        "pinyin": "shēng huó",
+        "startTime": 181.477,
+        "endTime": 181.858,
+        "gloss": "life"
+      }
+    ],
+    "fullTextEN": "They can talk about their work and life."
+  },
+  {
+    "startTime": 182.9,
+    "endTime": 185.6,
+    "fullTextZH": "所以聊的很开心",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 183.041,
+        "endTime": 183.525,
+        "gloss": "so"
+      },
+      {
+        "word": "聊",
+        "pinyin": "liáo",
+        "startTime": 183.525,
+        "endTime": 183.948,
+        "gloss": "chat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 183.948,
+        "endTime": 184.23,
+        "gloss": "particle"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 184.23,
+        "endTime": 184.713,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 184.713,
+        "endTime": 185.137,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "So they chatted happily."
+  },
+  {
+    "startTime": 186.466,
+    "endTime": 188.433,
+    "fullTextZH": "但是突然",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 186.546,
+        "endTime": 187.65,
+        "gloss": "but"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 187.65,
+        "endTime": 187.851,
+        "gloss": "suddenly"
+      }
+    ],
+    "fullTextEN": "But suddenly,"
+  },
+  {
+    "startTime": 188.866,
+    "endTime": 193.633,
+    "fullTextZH": "这个男人和Didi说我想和你结婚",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 188.946,
+        "endTime": 189.166,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 189.166,
+        "endTime": 189.567,
+        "gloss": "man"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 189.567,
+        "endTime": 189.687,
+        "gloss": "with"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 190.128,
+        "endTime": 191.81,
+        "gloss": "said"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 191.81,
+        "endTime": 192.051,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 192.051,
+        "endTime": 192.311,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 192.311,
+        "endTime": 192.531,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 192.531,
+        "endTime": 192.732,
+        "gloss": "you"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 192.732,
+        "endTime": 193.072,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "This man said to Didi, 'I want to marry you.'"
+  },
+  {
+    "startTime": 194.266,
+    "endTime": 197.1,
+    "fullTextZH": "Didi那个时候还在学中文",
+    "words": [
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 194.849,
+        "endTime": 195.191,
+        "gloss": "that"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 195.191,
+        "endTime": 195.593,
+        "gloss": "time"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 195.593,
+        "endTime": 195.834,
+        "gloss": "still"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 195.834,
+        "endTime": 196.115,
+        "gloss": "at"
+      },
+      {
+        "word": "学",
+        "pinyin": "xué",
+        "startTime": 196.115,
+        "endTime": 196.397,
+        "gloss": "learn"
+      },
+      {
+        "word": "中文",
+        "pinyin": "zhōng wén",
+        "startTime": 196.397,
+        "endTime": 196.658,
+        "gloss": "Chinese"
+      }
+    ],
+    "fullTextEN": "At that time, Didi was still learning Chinese."
+  },
+  {
+    "startTime": 197.666,
+    "endTime": 202.7,
+    "fullTextZH": "所以她有点不相信自己的耳朵",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 197.907,
+        "endTime": 198.408,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 198.408,
+        "endTime": 198.629,
+        "gloss": "she"
+      },
+      {
+        "word": "有点",
+        "pinyin": "yǒu diǎn",
+        "startTime": 198.629,
+        "endTime": 200.253,
+        "gloss": "a bit"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 200.253,
+        "endTime": 200.474,
+        "gloss": "not"
+      },
+      {
+        "word": "相信",
+        "pinyin": "xiāng xìn",
+        "startTime": 200.474,
+        "endTime": 201.156,
+        "gloss": "believe"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 201.156,
+        "endTime": 201.517,
+        "gloss": "self"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 201.517,
+        "endTime": 201.777,
+        "gloss": "possessive"
+      },
+      {
+        "word": "耳朵",
+        "pinyin": "ěr duǒ",
+        "startTime": 201.777,
+        "endTime": 202.179,
+        "gloss": "ears"
+      }
+    ],
+    "fullTextEN": "So she couldn't believe her ears."
+  },
+  {
+    "startTime": 203.166,
+    "endTime": 206.233,
+    "fullTextZH": "她以为她听错了",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 203.226,
+        "endTime": 203.467,
+        "gloss": "she"
+      },
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 203.467,
+        "endTime": 204.81,
+        "gloss": "thought"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 204.81,
+        "endTime": 205.05,
+        "gloss": "she"
+      },
+      {
+        "word": "听错",
+        "pinyin": "tīng cuò",
+        "startTime": 205.05,
+        "endTime": 205.872,
+        "gloss": "heard wrong"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 205.872,
+        "endTime": 205.892,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "She thought she heard wrong."
+  },
+  {
+    "startTime": 207.2,
+    "endTime": 211.166,
+    "fullTextZH": "然后这个男人又说了一遍",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 207.3,
+        "endTime": 208.001,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 208.001,
+        "endTime": 208.242,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 208.242,
+        "endTime": 209.143,
+        "gloss": "man"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 209.143,
+        "endTime": 210.004,
+        "gloss": "again"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 210.004,
+        "endTime": 210.265,
+        "gloss": "said"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 210.265,
+        "endTime": 210.385,
+        "gloss": "particle"
+      },
+      {
+        "word": "一遍",
+        "pinyin": "yī biàn",
+        "startTime": 210.385,
+        "endTime": 210.585,
+        "gloss": "once"
+      }
+    ],
+    "fullTextEN": "Then the man said it again."
+  },
+  {
+    "startTime": 212.033,
+    "endTime": 214.166,
+    "fullTextZH": "我想和你结婚",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 212.134,
+        "endTime": 212.375,
+        "gloss": "I"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 212.375,
+        "endTime": 212.677,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 212.677,
+        "endTime": 212.898,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 212.898,
+        "endTime": 213.14,
+        "gloss": "you"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 213.14,
+        "endTime": 213.502,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "I want to marry you."
+  },
+  {
+    "startTime": 215.166,
+    "endTime": 216.6,
+    "fullTextZH": "什么",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 215.469,
+        "endTime": 215.711,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What?"
+  },
+  {
+    "startTime": 216.6,
+    "endTime": 218.066,
+    "fullTextZH": "结婚",
+    "words": [
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 216.861,
+        "endTime": 217.323,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "Marry."
+  },
+  {
+    "startTime": 218.2,
+    "endTime": 219.8,
+    "fullTextZH": "和我",
+    "words": [
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 218.362,
+        "endTime": 218.727,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 218.727,
+        "endTime": 218.747,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "With me"
+  },
+  {
+    "startTime": 220.666,
+    "endTime": 221.766,
+    "fullTextZH": "为什么",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 220.788,
+        "endTime": 221.196,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why"
+  },
+  {
+    "startTime": 223.7,
+    "endTime": 225.266,
+    "fullTextZH": "这个男人说",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 223.82,
+        "endTime": 224.061,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 224.061,
+        "endTime": 224.523,
+        "gloss": "man"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 224.523,
+        "endTime": 224.543,
+        "gloss": "says"
+      }
+    ],
+    "fullTextEN": "This man says"
+  },
+  {
+    "startTime": 226.166,
+    "endTime": 230.0,
+    "fullTextZH": "因为我觉得你很漂亮",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 226.246,
+        "endTime": 226.969,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 226.969,
+        "endTime": 227.25,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 227.25,
+        "endTime": 228.655,
+        "gloss": "think"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 228.655,
+        "endTime": 228.836,
+        "gloss": "you"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 228.836,
+        "endTime": 229.558,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Because I think you are very beautiful"
+  },
+  {
+    "startTime": 230.566,
+    "endTime": 233.033,
+    "fullTextZH": "你的眼睛很漂亮",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 230.626,
+        "endTime": 230.807,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 230.807,
+        "endTime": 231.067,
+        "gloss": "of"
+      },
+      {
+        "word": "眼睛",
+        "pinyin": "yǎn jīng",
+        "startTime": 231.067,
+        "endTime": 231.97,
+        "gloss": "eyes"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 231.97,
+        "endTime": 232.592,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Your eyes are very beautiful"
+  },
+  {
+    "startTime": 233.3,
+    "endTime": 235.833,
+    "fullTextZH": "你的鼻子很漂亮",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 233.401,
+        "endTime": 233.521,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 233.521,
+        "endTime": 233.742,
+        "gloss": "of"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 233.742,
+        "endTime": 234.828,
+        "gloss": "nose"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 234.828,
+        "endTime": 235.391,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Your nose is very beautiful"
+  },
+  {
+    "startTime": 235.966,
+    "endTime": 238.166,
+    "fullTextZH": "你的嘴很漂亮",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 236.027,
+        "endTime": 236.148,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 236.148,
+        "endTime": 236.491,
+        "gloss": "of"
+      },
+      {
+        "word": "嘴",
+        "pinyin": "zuǐ",
+        "startTime": 236.491,
+        "endTime": 237.137,
+        "gloss": "mouth"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 237.137,
+        "endTime": 237.762,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Your mouth is very beautiful"
+  },
+  {
+    "startTime": 238.3,
+    "endTime": 244.066,
+    "fullTextZH": "你所有的地方都很漂亮",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 238.4,
+        "endTime": 238.801,
+        "gloss": "you"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 238.801,
+        "endTime": 240.002,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 240.002,
+        "endTime": 241.243,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 241.243,
+        "endTime": 242.444,
+        "gloss": "places"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 242.444,
+        "endTime": 242.965,
+        "gloss": "all"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 242.965,
+        "endTime": 243.686,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Every part of you is very beautiful"
+  },
+  {
+    "startTime": 244.566,
+    "endTime": 246.366,
+    "fullTextZH": "Didi说什么",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 245.092,
+        "endTime": 245.335,
+        "gloss": "say"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 245.335,
+        "endTime": 245.496,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What does Didi say"
+  },
+  {
+    "startTime": 246.366,
+    "endTime": 248.566,
+    "fullTextZH": "她说好吗",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 246.366,
+        "endTime": 246.386,
+        "gloss": "she"
+      },
+      {
+        "word": "说好",
+        "pinyin": "shuō hǎo",
+        "startTime": 246.386,
+        "endTime": 248.001,
+        "gloss": "say okay"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 248.001,
+        "endTime": 248.021,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Did she say okay"
+  },
+  {
+    "startTime": 250.033,
+    "endTime": 252.833,
+    "fullTextZH": "不不不当然不是",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 250.315,
+        "endTime": 250.436,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 250.436,
+        "endTime": 250.456,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 250.456,
+        "endTime": 251.584,
+        "gloss": "no"
+      },
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 251.584,
+        "endTime": 251.967,
+        "gloss": "of course"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 251.967,
+        "endTime": 252.289,
+        "gloss": "not"
+      }
+    ],
+    "fullTextEN": "No, no, no, of course not"
+  },
+  {
+    "startTime": 253.1,
+    "endTime": 256.7,
+    "fullTextZH": "Didi说不可以",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 253.623,
+        "endTime": 255.131,
+        "gloss": "say"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 255.131,
+        "endTime": 255.413,
+        "gloss": "no"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 255.413,
+        "endTime": 255.815,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "Didi says no"
+  },
+  {
+    "startTime": 257.466,
+    "endTime": 261.166,
+    "fullTextZH": "为什么Didi说不可以",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 257.627,
+        "endTime": 258.25,
+        "gloss": "why"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 258.793,
+        "endTime": 259.839,
+        "gloss": "say"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 259.839,
+        "endTime": 260.181,
+        "gloss": "no"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 260.181,
+        "endTime": 260.563,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "Why does Didi say no"
+  },
+  {
+    "startTime": 261.166,
+    "endTime": 263.1,
+    "fullTextZH": "Didi说",
+    "words": [
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 261.609,
+        "endTime": 261.629,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "Didi says"
+  },
+  {
+    "startTime": 264.033,
+    "endTime": 267.2,
+    "fullTextZH": "可是我不认识你",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 264.093,
+        "endTime": 264.755,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 264.755,
+        "endTime": 265.997,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 265.997,
+        "endTime": 266.158,
+        "gloss": "not"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 266.158,
+        "endTime": 266.639,
+        "gloss": "know"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 266.639,
+        "endTime": 266.659,
+        "gloss": "you"
+      }
+    ],
+    "fullTextEN": "But I don't know you"
+  },
+  {
+    "startTime": 267.3,
+    "endTime": 271.5,
+    "fullTextZH": "你不能和不认识的人结婚啊",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 267.883,
+        "endTime": 268.124,
+        "gloss": "you"
+      },
+      {
+        "word": "不能",
+        "pinyin": "bù néng",
+        "startTime": 268.124,
+        "endTime": 268.787,
+        "gloss": "cannot"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 268.787,
+        "endTime": 269.169,
+        "gloss": "with"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 269.169,
+        "endTime": 269.33,
+        "gloss": "not"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 269.33,
+        "endTime": 269.812,
+        "gloss": "know"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 269.812,
+        "endTime": 269.973,
+        "gloss": "of"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 269.973,
+        "endTime": 270.375,
+        "gloss": "person"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 270.375,
+        "endTime": 270.937,
+        "gloss": "marry"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 270.937,
+        "endTime": 270.957,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "You can't marry someone you don't know"
+  },
+  {
+    "startTime": 271.7,
+    "endTime": 273.666,
+    "fullTextZH": "你知道我叫什么吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 271.8,
+        "endTime": 272.021,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 272.021,
+        "endTime": 272.502,
+        "gloss": "know"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 272.502,
+        "endTime": 272.703,
+        "gloss": "I"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 272.703,
+        "endTime": 272.964,
+        "gloss": "called"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 272.964,
+        "endTime": 273.245,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 273.245,
+        "endTime": 273.265,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know what my name is"
+  },
+  {
+    "startTime": 274.1,
+    "endTime": 275.266,
+    "fullTextZH": "你不知道",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 274.201,
+        "endTime": 274.402,
+        "gloss": "you"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 274.402,
+        "endTime": 274.562,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 274.562,
+        "endTime": 274.723,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "You don't know"
+  },
+  {
+    "startTime": 275.7,
+    "endTime": 277.0,
+    "fullTextZH": "这个男人说",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 275.842,
+        "endTime": 276.066,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 276.066,
+        "endTime": 276.492,
+        "gloss": "man"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 276.492,
+        "endTime": 276.512,
+        "gloss": "says"
+      }
+    ],
+    "fullTextEN": "This man says"
+  },
+  {
+    "startTime": 277.666,
+    "endTime": 278.8,
+    "fullTextZH": "没关系",
+    "words": [
+      {
+        "word": "没关系",
+        "pinyin": "méi guān xì",
+        "startTime": 277.727,
+        "endTime": 278.375,
+        "gloss": "no problem"
+      }
+    ],
+    "fullTextEN": "It's okay"
+  },
+  {
+    "startTime": 279.766,
+    "endTime": 282.566,
+    "fullTextZH": "现在我们认识了",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 279.907,
+        "endTime": 281.055,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 281.055,
+        "endTime": 281.599,
+        "gloss": "we"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 281.599,
+        "endTime": 282.163,
+        "gloss": "know"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 282.163,
+        "endTime": 282.183,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Now we know each other."
+  },
+  {
+    "startTime": 282.866,
+    "endTime": 285.6,
+    "fullTextZH": "我们可以先做朋友",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 283.067,
+        "endTime": 283.429,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 283.429,
+        "endTime": 283.851,
+        "gloss": "can"
+      },
+      {
+        "word": "先",
+        "pinyin": "xiān",
+        "startTime": 283.851,
+        "endTime": 284.173,
+        "gloss": "first"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 284.173,
+        "endTime": 284.655,
+        "gloss": "be"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 284.655,
+        "endTime": 285.138,
+        "gloss": "friends"
+      }
+    ],
+    "fullTextEN": "We can be friends first."
+  },
+  {
+    "startTime": 286.066,
+    "endTime": 290.966,
+    "fullTextZH": "然后你做我的女朋友",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 286.166,
+        "endTime": 287.311,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 287.311,
+        "endTime": 287.753,
+        "gloss": "you"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 287.753,
+        "endTime": 288.134,
+        "gloss": "be"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 288.134,
+        "endTime": 288.456,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 288.456,
+        "endTime": 289.621,
+        "gloss": "de"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 289.621,
+        "endTime": 290.464,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "Then you can be my girlfriend."
+  },
+  {
+    "startTime": 291.566,
+    "endTime": 294.833,
+    "fullTextZH": "然后我们可以结婚",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 291.706,
+        "endTime": 292.688,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 292.688,
+        "endTime": 293.109,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 293.109,
+        "endTime": 293.851,
+        "gloss": "can"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 293.851,
+        "endTime": 294.252,
+        "gloss": "marry"
+      }
+    ],
+    "fullTextEN": "Then we can get married."
+  },
+  {
+    "startTime": 295.666,
+    "endTime": 296.9,
+    "fullTextZH": "什么",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 295.889,
+        "endTime": 296.152,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What?"
+  },
+  {
+    "startTime": 297.433,
+    "endTime": 301.066,
+    "fullTextZH": "Didi觉得很奇怪",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 298.878,
+        "endTime": 299.42,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 299.42,
+        "endTime": 299.842,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 299.842,
+        "endTime": 300.203,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Didi thinks it's very strange."
+  },
+  {
+    "startTime": 301.1,
+    "endTime": 304.166,
+    "fullTextZH": "所以她说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 301.28,
+        "endTime": 301.741,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 301.741,
+        "endTime": 302.002,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 302.002,
+        "endTime": 302.022,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "So she said,"
+  },
+  {
+    "startTime": 304.833,
+    "endTime": 306.0,
+    "fullTextZH": "不好意思",
+    "words": [
+      {
+        "word": "不好意思",
+        "pinyin": "bù hǎo yì sī",
+        "startTime": 304.934,
+        "endTime": 305.557,
+        "gloss": "sorry"
+      }
+    ],
+    "fullTextEN": "Sorry."
+  },
+  {
+    "startTime": 306.066,
+    "endTime": 308.9,
+    "fullTextZH": "我要和我妈妈打电话",
+    "words": [
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 306.388,
+        "endTime": 306.91,
+        "gloss": "I need"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 306.91,
+        "endTime": 307.111,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 307.111,
+        "endTime": 307.352,
+        "gloss": "my"
+      },
+      {
+        "word": "妈妈",
+        "pinyin": "mā mā",
+        "startTime": 307.352,
+        "endTime": 307.855,
+        "gloss": "mom"
+      },
+      {
+        "word": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "startTime": 307.855,
+        "endTime": 308.317,
+        "gloss": "call"
+      }
+    ],
+    "fullTextEN": "I need to call my mom."
+  },
+  {
+    "startTime": 309.433,
+    "endTime": 311.766,
+    "fullTextZH": "然后Didi就走了",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 309.534,
+        "endTime": 310.398,
+        "gloss": "then"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 310.74,
+        "endTime": 311.062,
+        "gloss": "just"
+      },
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 311.062,
+        "endTime": 311.384,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 311.384,
+        "endTime": 311.404,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Then Didi left."
+  },
+  {
+    "startTime": 311.766,
+    "endTime": 314.2,
+    "fullTextZH": "她离开了茶馆",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 311.806,
+        "endTime": 312.007,
+        "gloss": "she"
+      },
+      {
+        "word": "离开",
+        "pinyin": "lí kāi",
+        "startTime": 312.007,
+        "endTime": 312.711,
+        "gloss": "left"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 312.711,
+        "endTime": 313.395,
+        "gloss": "le"
+      },
+      {
+        "word": "茶馆",
+        "pinyin": "chá guǎn",
+        "startTime": 313.395,
+        "endTime": 313.757,
+        "gloss": "teahouse"
+      }
+    ],
+    "fullTextEN": "She left the teahouse."
+  },
+  {
+    "startTime": 314.566,
+    "endTime": 317.8,
+    "fullTextZH": "然后她回到了荷兰",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 314.687,
+        "endTime": 315.651,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 315.651,
+        "endTime": 315.972,
+        "gloss": "she"
+      },
+      {
+        "word": "回到",
+        "pinyin": "huí dào",
+        "startTime": 315.972,
+        "endTime": 316.595,
+        "gloss": "return"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 316.595,
+        "endTime": 317.057,
+        "gloss": "le"
+      },
+      {
+        "word": "荷兰",
+        "pinyin": "hé lán",
+        "startTime": 317.057,
+        "endTime": 317.378,
+        "gloss": "Netherlands"
+      }
+    ],
+    "fullTextEN": "Then she returned to the Netherlands."
+  },
+  {
+    "startTime": 319.066,
+    "endTime": 323.1,
+    "fullTextZH": "可是这个故事还没有完",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 319.166,
+        "endTime": 320.391,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 320.391,
+        "endTime": 320.732,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 320.732,
+        "endTime": 321.856,
+        "gloss": "story"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 321.856,
+        "endTime": 322.076,
+        "gloss": "still"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 322.076,
+        "endTime": 322.478,
+        "gloss": "not"
+      },
+      {
+        "word": "完",
+        "pinyin": "wán",
+        "startTime": 322.478,
+        "endTime": 322.498,
+        "gloss": "over"
+      }
+    ],
+    "fullTextEN": "But this story is not over yet."
+  },
+  {
+    "startTime": 324.066,
+    "endTime": 329.1,
+    "fullTextZH": "这个男人还在给Didi发消息",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 324.247,
+        "endTime": 324.587,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 324.587,
+        "endTime": 325.57,
+        "gloss": "man"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 325.57,
+        "endTime": 326.011,
+        "gloss": "still"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 326.011,
+        "endTime": 326.292,
+        "gloss": "is"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 326.292,
+        "endTime": 326.533,
+        "gloss": "to"
+      },
+      {
+        "word": "发消息",
+        "pinyin": "fā xiāo xī",
+        "startTime": 327.937,
+        "endTime": 328.679,
+        "gloss": "send messages"
+      }
+    ],
+    "fullTextEN": "This man is still sending messages to Didi."
+  },
+  {
+    "startTime": 329.1,
+    "endTime": 332.166,
+    "fullTextZH": "发很多很多的消息",
+    "words": [
+      {
+        "word": "发",
+        "pinyin": "fā",
+        "startTime": 329.361,
+        "endTime": 329.661,
+        "gloss": "send"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 329.661,
+        "endTime": 331.164,
+        "gloss": "many many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 331.164,
+        "endTime": 331.344,
+        "gloss": "de"
+      },
+      {
+        "word": "消息",
+        "pinyin": "xiāo xī",
+        "startTime": 331.344,
+        "endTime": 331.725,
+        "gloss": "messages"
+      }
+    ],
+    "fullTextEN": "Sending many, many messages."
+  },
+  {
+    "startTime": 332.866,
+    "endTime": 337.5,
+    "fullTextZH": "他说他要去荷兰找Didi",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 332.946,
+        "endTime": 333.207,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 333.207,
+        "endTime": 334.03,
+        "gloss": "said"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 334.03,
+        "endTime": 334.23,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 334.23,
+        "endTime": 334.671,
+        "gloss": "wants"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 334.671,
+        "endTime": 335.033,
+        "gloss": "to"
+      },
+      {
+        "word": "荷兰",
+        "pinyin": "hé lán",
+        "startTime": 335.033,
+        "endTime": 336.236,
+        "gloss": "Netherlands"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 336.236,
+        "endTime": 336.637,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "He said he wants to go to the Netherlands to find Didi."
+  },
+  {
+    "startTime": 339.466,
+    "endTime": 340.866,
+    "fullTextZH": "什么",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 339.689,
+        "endTime": 339.994,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What?"
+  },
+  {
+    "startTime": 341.666,
+    "endTime": 346.866,
+    "fullTextZH": "Didi觉得这个男人真的很奇怪",
+    "words": [
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 343.212,
+        "endTime": 343.734,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 343.734,
+        "endTime": 344.015,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 344.015,
+        "endTime": 345.079,
+        "gloss": "man"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 345.079,
+        "endTime": 345.681,
+        "gloss": "really"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 345.681,
+        "endTime": 346.083,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 346.083,
+        "endTime": 346.424,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Didi thinks this man is really strange."
+  },
+  {
+    "startTime": 347.666,
+    "endTime": 349.266,
+    "fullTextZH": "太奇怪了",
+    "words": [
+      {
+        "word": "太",
+        "pinyin": "tài",
+        "startTime": 347.788,
+        "endTime": 348.334,
+        "gloss": "too"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 348.334,
+        "endTime": 348.881,
+        "gloss": "strange"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 348.881,
+        "endTime": 348.901,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Too strange."
+  },
+  {
+    "startTime": 349.666,
+    "endTime": 354.2,
+    "fullTextZH": "所以她不回这个男人的消息",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 349.826,
+        "endTime": 350.208,
+        "gloss": "so"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 350.208,
+        "endTime": 350.529,
+        "gloss": "she"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 350.529,
+        "endTime": 350.95,
+        "gloss": "not"
+      },
+      {
+        "word": "回",
+        "pinyin": "huí",
+        "startTime": 350.95,
+        "endTime": 352.033,
+        "gloss": "reply"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 352.033,
+        "endTime": 352.334,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 352.334,
+        "endTime": 352.796,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 352.796,
+        "endTime": 353.337,
+        "gloss": "de"
+      },
+      {
+        "word": "消息",
+        "pinyin": "xiāo xī",
+        "startTime": 353.337,
+        "endTime": 353.759,
+        "gloss": "messages"
+      }
+    ],
+    "fullTextEN": "So she doesn't reply to this man's messages."
+  },
+  {
+    "startTime": 355.433,
+    "endTime": 359.566,
+    "fullTextZH": "你觉得这个男人想做什么",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 355.533,
+        "endTime": 355.894,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 355.894,
+        "endTime": 357.279,
+        "gloss": "think"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 357.279,
+        "endTime": 357.58,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 357.58,
+        "endTime": 358.242,
+        "gloss": "man"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 358.242,
+        "endTime": 358.523,
+        "gloss": "want"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 358.523,
+        "endTime": 358.804,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 358.804,
+        "endTime": 358.984,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you think this man wants to do?"
+  },
+  {
+    "startTime": 360.2,
+    "endTime": 364.6,
+    "fullTextZH": "他为什么想和Didi结婚呢",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 360.28,
+        "endTime": 360.642,
+        "gloss": "he"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 360.642,
+        "endTime": 361.928,
+        "gloss": "why"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 361.928,
+        "endTime": 362.269,
+        "gloss": "want"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 362.269,
+        "endTime": 362.41,
+        "gloss": "with"
+      },
+      {
+        "word": "结婚",
+        "pinyin": "jié hūn",
+        "startTime": 363.374,
+        "endTime": 363.977,
+        "gloss": "marry"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 363.977,
+        "endTime": 363.997,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Why does he want to marry Didi?"
+  },
+  {
+    "startTime": 365.566,
+    "endTime": 370.0,
+    "fullTextZH": "你有没有遇到过这么奇怪的人",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 365.686,
+        "endTime": 366.288,
+        "gloss": "you"
+      },
+      {
+        "word": "有没有",
+        "pinyin": "yǒu méi yǒu",
+        "startTime": 366.288,
+        "endTime": 367.151,
+        "gloss": "have-not"
+      },
+      {
+        "word": "遇到",
+        "pinyin": "yù dào",
+        "startTime": 367.151,
+        "endTime": 367.653,
+        "gloss": "meet"
+      },
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 367.653,
+        "endTime": 368.395,
+        "gloss": "ever"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 368.395,
+        "endTime": 368.897,
+        "gloss": "so"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 368.897,
+        "endTime": 369.358,
+        "gloss": "strange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 369.358,
+        "endTime": 369.498,
+        "gloss": "de"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 369.498,
+        "endTime": 369.518,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Have you ever met such a strange person?"
+  },
+  {
+    "startTime": 371.0,
+    "endTime": 373.0,
+    "fullTextZH": "欢迎留言告诉我",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 371.101,
+        "endTime": 371.505,
+        "gloss": "welcome"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 371.505,
+        "endTime": 372.172,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 372.172,
+        "endTime": 372.576,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 372.576,
+        "endTime": 372.596,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment and let me know."
+  },
+  {
+    "startTime": 373.466,
+    "endTime": 374.7,
+    "fullTextZH": "我是蔚萱",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 373.729,
+        "endTime": 373.931,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 373.931,
+        "endTime": 374.093,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 374.093,
+        "endTime": 374.275,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 374.275,
+        "endTime": 374.295,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 374.7,
+    "endTime": 378.166,
+    "fullTextZH": "我们下次再见拜拜",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 374.78,
+        "endTime": 375.141,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 375.141,
+        "endTime": 375.722,
+        "gloss": "next time"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 375.722,
+        "endTime": 376.784,
+        "gloss": "see again"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 376.784,
+        "endTime": 376.904,
+        "gloss": "bye-bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye-bye."
+  }
+]

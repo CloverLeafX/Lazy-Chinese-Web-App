@@ -1,0 +1,4210 @@
+[
+  {
+    "startTime": 0.7,
+    "endTime": 2.3,
+    "fullTextZH": "Hello大家",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 1.146,
+        "endTime": 1.389,
+        "gloss": "everyone"
+      }
+    ],
+    "fullTextEN": "Hello everyone"
+  },
+  {
+    "startTime": 2.666,
+    "endTime": 4.5,
+    "fullTextZH": "我是佳琪",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.807,
+        "endTime": 3.109,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 3.109,
+        "endTime": 3.452,
+        "gloss": "am"
+      },
+      {
+        "word": "佳琪",
+        "pinyin": "jiā qí",
+        "startTime": 3.452,
+        "endTime": 3.875,
+        "gloss": "Jiaqi"
+      }
+    ],
+    "fullTextEN": "I am Jiaqi"
+  },
+  {
+    "startTime": 4.566,
+    "endTime": 7.8,
+    "fullTextZH": "今天呢我们来看",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 4.626,
+        "endTime": 5.51,
+        "gloss": "today"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 5.51,
+        "endTime": 6.334,
+        "gloss": "particle"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 6.334,
+        "endTime": 6.695,
+        "gloss": "we"
+      },
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 6.695,
+        "endTime": 6.997,
+        "gloss": "watch"
+      }
+    ],
+    "fullTextEN": "Today, we are going to watch"
+  },
+  {
+    "startTime": 7.8,
+    "endTime": 11.666,
+    "fullTextZH": "我们来看一个游戏",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 7.88,
+        "endTime": 8.141,
+        "gloss": "we"
+      },
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 8.141,
+        "endTime": 9.222,
+        "gloss": "watch"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 9.222,
+        "endTime": 10.424,
+        "gloss": "a"
+      },
+      {
+        "word": "游戏",
+        "pinyin": "yóu xì",
+        "startTime": 10.424,
+        "endTime": 11.025,
+        "gloss": "game"
+      }
+    ],
+    "fullTextEN": "We are going to watch a game"
+  },
+  {
+    "startTime": 11.666,
+    "endTime": 12.966,
+    "fullTextZH": "游戏",
+    "words": [
+      {
+        "word": "游戏",
+        "pinyin": "yóu xì",
+        "startTime": 11.768,
+        "endTime": 12.275,
+        "gloss": "game"
+      }
+    ],
+    "fullTextEN": "Game"
+  },
+  {
+    "startTime": 12.966,
+    "endTime": 18.866,
+    "fullTextZH": "这个游戏呢叫找不同",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 13.468,
+        "endTime": 13.869,
+        "gloss": "this"
+      },
+      {
+        "word": "游戏",
+        "pinyin": "yóu xì",
+        "startTime": 13.869,
+        "endTime": 14.632,
+        "gloss": "game"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 14.632,
+        "endTime": 15.314,
+        "gloss": "particle"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 15.314,
+        "endTime": 16.518,
+        "gloss": "called"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 16.518,
+        "endTime": 17.461,
+        "gloss": "spot"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 17.461,
+        "endTime": 18.264,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "This game is called 'Spot the Difference'"
+  },
+  {
+    "startTime": 19.8,
+    "endTime": 21.5,
+    "fullTextZH": "找不同",
+    "words": [
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 19.881,
+        "endTime": 20.185,
+        "gloss": "spot"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 20.185,
+        "endTime": 20.367,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "Spot the Difference"
+  },
+  {
+    "startTime": 21.5,
+    "endTime": 24.4,
+    "fullTextZH": "它们都是花",
+    "words": [
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 21.5,
+        "endTime": 22.507,
+        "gloss": "they"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 22.507,
+        "endTime": 23.071,
+        "gloss": "all"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 23.071,
+        "endTime": 23.635,
+        "gloss": "are"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 23.635,
+        "endTime": 23.655,
+        "gloss": "flowers"
+      }
+    ],
+    "fullTextEN": "They are all flowers"
+  },
+  {
+    "startTime": 24.433,
+    "endTime": 25.566,
+    "fullTextZH": "对不对",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 24.514,
+        "endTime": 24.615,
+        "gloss": "right"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 24.615,
+        "endTime": 24.716,
+        "gloss": "not"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 24.716,
+        "endTime": 24.736,
+        "gloss": "right"
+      }
+    ],
+    "fullTextEN": "Right?"
+  },
+  {
+    "startTime": 25.566,
+    "endTime": 25.966,
+    "fullTextZH": "花",
+    "words": [
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 25.629,
+        "endTime": 25.65,
+        "gloss": "flower"
+      }
+    ],
+    "fullTextEN": "Flower"
+  },
+  {
+    "startTime": 26.3,
+    "endTime": 32.966,
+    "fullTextZH": "可是这个花和这个花是不一样的",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 26.42,
+        "endTime": 27.721,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 27.721,
+        "endTime": 28.422,
+        "gloss": "this"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 28.422,
+        "endTime": 29.163,
+        "gloss": "flower"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 29.163,
+        "endTime": 29.503,
+        "gloss": "and"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 29.503,
+        "endTime": 29.943,
+        "gloss": "this"
+      },
+      {
+        "word": "花是",
+        "pinyin": "huā shì",
+        "startTime": 29.943,
+        "endTime": 31.385,
+        "gloss": "flower"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 31.385,
+        "endTime": 31.885,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 31.885,
+        "endTime": 32.526,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 32.526,
+        "endTime": 32.546,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "But this flower and that flower are different"
+  },
+  {
+    "startTime": 33.3,
+    "endTime": 34.266,
+    "fullTextZH": "不一样的",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 33.401,
+        "endTime": 33.521,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 33.521,
+        "endTime": 33.884,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 33.884,
+        "endTime": 33.904,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Different"
+  },
+  {
+    "startTime": 34.266,
+    "endTime": 36.033,
+    "fullTextZH": "这个就是不同",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 34.386,
+        "endTime": 34.708,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 34.708,
+        "endTime": 35.29,
+        "gloss": "is"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 35.29,
+        "endTime": 35.431,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "This is the difference"
+  },
+  {
+    "startTime": 36.4,
+    "endTime": 38.0,
+    "fullTextZH": "找不同",
+    "words": [
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 37.048,
+        "endTime": 37.311,
+        "gloss": "spot"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 37.311,
+        "endTime": 37.473,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "Spot the Difference"
+  },
+  {
+    "startTime": 38.0,
+    "endTime": 41.0,
+    "fullTextZH": "就是我要看一下",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 38.06,
+        "endTime": 38.302,
+        "gloss": "just"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 38.302,
+        "endTime": 38.604,
+        "gloss": "I want"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 38.604,
+        "endTime": 38.866,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 38.866,
+        "endTime": 39.027,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "I just want to take a look"
+  },
+  {
+    "startTime": 41.166,
+    "endTime": 43.9,
+    "fullTextZH": "他们有什么不一样",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 41.206,
+        "endTime": 41.97,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 41.97,
+        "endTime": 42.292,
+        "gloss": "have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 42.292,
+        "endTime": 43.116,
+        "gloss": "what"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 43.116,
+        "endTime": 43.237,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 43.237,
+        "endTime": 43.357,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "What is different about them"
+  },
+  {
+    "startTime": 44.033,
+    "endTime": 47.6,
+    "fullTextZH": "这个是白色",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 45.436,
+        "endTime": 45.877,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 45.877,
+        "endTime": 46.879,
+        "gloss": "is"
+      },
+      {
+        "word": "白色",
+        "pinyin": "bái sè",
+        "startTime": 46.879,
+        "endTime": 47.159,
+        "gloss": "white"
+      }
+    ],
+    "fullTextEN": "This is white"
+  },
+  {
+    "startTime": 47.8,
+    "endTime": 49.566,
+    "fullTextZH": "这个是紫色",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 47.86,
+        "endTime": 48.141,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 48.141,
+        "endTime": 48.743,
+        "gloss": "is"
+      },
+      {
+        "word": "紫色",
+        "pinyin": "zǐ sè",
+        "startTime": 48.743,
+        "endTime": 49.064,
+        "gloss": "purple"
+      }
+    ],
+    "fullTextEN": "This is purple"
+  },
+  {
+    "startTime": 49.766,
+    "endTime": 52.1,
+    "fullTextZH": "这个是找不同",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 50.289,
+        "endTime": 50.531,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 50.531,
+        "endTime": 51.054,
+        "gloss": "is"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 51.054,
+        "endTime": 51.416,
+        "gloss": "spot"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 51.416,
+        "endTime": 51.657,
+        "gloss": "difference"
+      }
+    ],
+    "fullTextEN": "This is 'Spot the Difference'"
+  },
+  {
+    "startTime": 52.2,
+    "endTime": 53.7,
+    "fullTextZH": "所以今天呢",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 52.322,
+        "endTime": 52.727,
+        "gloss": "so"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 52.727,
+        "endTime": 53.274,
+        "gloss": "today"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 53.274,
+        "endTime": 53.295,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "So today"
+  },
+  {
+    "startTime": 53.833,
+    "endTime": 56.1,
+    "fullTextZH": "我们来找不同",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 53.973,
+        "endTime": 54.314,
+        "gloss": "we"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 54.314,
+        "endTime": 54.796,
+        "gloss": "come"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 54.796,
+        "endTime": 55.298,
+        "gloss": "find"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 55.298,
+        "endTime": 55.598,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "Let's find the differences."
+  },
+  {
+    "startTime": 56.9,
+    "endTime": 58.0,
+    "fullTextZH": "这个",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 57.022,
+        "endTime": 57.328,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "This one."
+  },
+  {
+    "startTime": 58.0,
+    "endTime": 60.2,
+    "fullTextZH": "这个是海",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 58.121,
+        "endTime": 58.585,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 58.585,
+        "endTime": 59.292,
+        "gloss": "is"
+      },
+      {
+        "word": "海",
+        "pinyin": "hǎi",
+        "startTime": 59.292,
+        "endTime": 59.312,
+        "gloss": "sea"
+      }
+    ],
+    "fullTextEN": "This is the sea."
+  },
+  {
+    "startTime": 60.566,
+    "endTime": 61.433,
+    "fullTextZH": "海",
+    "words": [
+      {
+        "word": "海",
+        "pinyin": "hǎi",
+        "startTime": 60.687,
+        "endTime": 60.707,
+        "gloss": "sea"
+      }
+    ],
+    "fullTextEN": "Sea."
+  },
+  {
+    "startTime": 62.166,
+    "endTime": 63.8,
+    "fullTextZH": "海里面呢",
+    "words": [
+      {
+        "word": "海",
+        "pinyin": "hǎi",
+        "startTime": 62.267,
+        "endTime": 62.69,
+        "gloss": "sea"
+      },
+      {
+        "word": "里面",
+        "pinyin": "lǐ miàn",
+        "startTime": 62.69,
+        "endTime": 63.276,
+        "gloss": "inside"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 63.276,
+        "endTime": 63.296,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What about inside the sea?"
+  },
+  {
+    "startTime": 63.866,
+    "endTime": 68.5,
+    "fullTextZH": "有很多很多的鱼",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 64.107,
+        "endTime": 64.949,
+        "gloss": "there are"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 64.949,
+        "endTime": 67.056,
+        "gloss": "many many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 67.056,
+        "endTime": 67.858,
+        "gloss": "de"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 67.858,
+        "endTime": 67.878,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "There are many, many fish."
+  },
+  {
+    "startTime": 68.9,
+    "endTime": 69.7,
+    "fullTextZH": "鱼",
+    "words": [
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 68.962,
+        "endTime": 68.982,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Fish."
+  },
+  {
+    "startTime": 70.4,
+    "endTime": 71.833,
+    "fullTextZH": "这个是鱼",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 70.481,
+        "endTime": 70.945,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 70.945,
+        "endTime": 71.228,
+        "gloss": "is"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 71.228,
+        "endTime": 71.248,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "This is a fish."
+  },
+  {
+    "startTime": 71.9,
+    "endTime": 73.066,
+    "fullTextZH": "这个是鱼",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 71.98,
+        "endTime": 72.282,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 72.282,
+        "endTime": 72.483,
+        "gloss": "is"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 72.483,
+        "endTime": 72.503,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "This is a fish."
+  },
+  {
+    "startTime": 73.2,
+    "endTime": 74.9,
+    "fullTextZH": "这个也是鱼",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 73.24,
+        "endTime": 73.848,
+        "gloss": "this"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 73.848,
+        "endTime": 74.192,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 74.192,
+        "endTime": 74.435,
+        "gloss": "is"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 74.435,
+        "endTime": 74.455,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "This is also a fish."
+  },
+  {
+    "startTime": 75.466,
+    "endTime": 77.266,
+    "fullTextZH": "这个也是鱼",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 75.486,
+        "endTime": 76.295,
+        "gloss": "this"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 76.295,
+        "endTime": 76.599,
+        "gloss": "also"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 76.599,
+        "endTime": 76.821,
+        "gloss": "is"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 76.821,
+        "endTime": 76.841,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "This is also a fish."
+  },
+  {
+    "startTime": 78.1,
+    "endTime": 82.0,
+    "fullTextZH": "还有水草",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 78.18,
+        "endTime": 80.412,
+        "gloss": "also have"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 80.412,
+        "endTime": 81.095,
+        "gloss": "water plants"
+      }
+    ],
+    "fullTextEN": "And there are water plants."
+  },
+  {
+    "startTime": 82.066,
+    "endTime": 84.5,
+    "fullTextZH": "这个是水草",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 82.167,
+        "endTime": 82.589,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 82.589,
+        "endTime": 83.011,
+        "gloss": "is"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 83.011,
+        "endTime": 83.776,
+        "gloss": "water plant"
+      }
+    ],
+    "fullTextEN": "This is a water plant."
+  },
+  {
+    "startTime": 85.3,
+    "endTime": 89.066,
+    "fullTextZH": "还有很多的石头",
+    "words": [
+      {
+        "word": "还有",
+        "pinyin": "hái yǒu",
+        "startTime": 85.4,
+        "endTime": 86.001,
+        "gloss": "also have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 86.001,
+        "endTime": 86.943,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 86.943,
+        "endTime": 87.804,
+        "gloss": "de"
+      },
+      {
+        "word": "石头",
+        "pinyin": "shí tou",
+        "startTime": 87.804,
+        "endTime": 88.325,
+        "gloss": "stones"
+      }
+    ],
+    "fullTextEN": "And there are many stones."
+  },
+  {
+    "startTime": 89.633,
+    "endTime": 90.6,
+    "fullTextZH": "石头",
+    "words": [
+      {
+        "word": "石头",
+        "pinyin": "shí tou",
+        "startTime": 89.855,
+        "endTime": 90.096,
+        "gloss": "stone"
+      }
+    ],
+    "fullTextEN": "Stone."
+  },
+  {
+    "startTime": 91.233,
+    "endTime": 94.0,
+    "fullTextZH": "然后我们看一下",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 91.293,
+        "endTime": 92.215,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 92.215,
+        "endTime": 92.657,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 92.657,
+        "endTime": 93.078,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 93.078,
+        "endTime": 93.398,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "Then let's take a look."
+  },
+  {
+    "startTime": 94.0,
+    "endTime": 95.266,
+    "fullTextZH": "我们看一下",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 94.06,
+        "endTime": 94.342,
+        "gloss": "we"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 94.342,
+        "endTime": 94.603,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 94.603,
+        "endTime": 94.764,
+        "gloss": "a bit"
+      }
+    ],
+    "fullTextEN": "Let's take a look."
+  },
+  {
+    "startTime": 95.633,
+    "endTime": 96.233,
+    "fullTextZH": "鱼",
+    "words": [
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 95.716,
+        "endTime": 95.736,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Fish."
+  },
+  {
+    "startTime": 96.233,
+    "endTime": 101.833,
+    "fullTextZH": "有很多不一样的颜色",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 97.277,
+        "endTime": 97.718,
+        "gloss": "there are"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 97.718,
+        "endTime": 98.742,
+        "gloss": "many"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 98.742,
+        "endTime": 98.983,
+        "gloss": "not"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 98.983,
+        "endTime": 99.665,
+        "gloss": "same"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 99.665,
+        "endTime": 100.568,
+        "gloss": "de"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 100.568,
+        "endTime": 101.191,
+        "gloss": "colors"
+      }
+    ],
+    "fullTextEN": "There are many different colors."
+  },
+  {
+    "startTime": 102.066,
+    "endTime": 103.1,
+    "fullTextZH": "颜色",
+    "words": [
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 102.188,
+        "endTime": 102.573,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "Color."
+  },
+  {
+    "startTime": 104.033,
+    "endTime": 108.033,
+    "fullTextZH": "这条鱼是紫色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 104.134,
+        "endTime": 104.777,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 104.777,
+        "endTime": 105.701,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 105.701,
+        "endTime": 106.927,
+        "gloss": "is"
+      },
+      {
+        "word": "紫色",
+        "pinyin": "zǐ sè",
+        "startTime": 106.927,
+        "endTime": 107.651,
+        "gloss": "purple"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 107.651,
+        "endTime": 107.671,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This fish is purple."
+  },
+  {
+    "startTime": 108.4,
+    "endTime": 112.2,
+    "fullTextZH": "这条鱼是橙色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 108.46,
+        "endTime": 109.063,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 109.063,
+        "endTime": 109.526,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 109.526,
+        "endTime": 110.752,
+        "gloss": "is"
+      },
+      {
+        "word": "橙色",
+        "pinyin": "chéng sè",
+        "startTime": 110.752,
+        "endTime": 111.818,
+        "gloss": "orange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.818,
+        "endTime": 111.838,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This fish is orange."
+  },
+  {
+    "startTime": 112.866,
+    "endTime": 116.233,
+    "fullTextZH": "所以它们有很多的颜色",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 113.006,
+        "endTime": 113.748,
+        "gloss": "so"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 113.748,
+        "endTime": 114.189,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 114.189,
+        "endTime": 114.449,
+        "gloss": "have"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 114.449,
+        "endTime": 115.271,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 115.271,
+        "endTime": 115.451,
+        "gloss": "particle"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 115.451,
+        "endTime": 115.792,
+        "gloss": "colors"
+      }
+    ],
+    "fullTextEN": "So they have many colors."
+  },
+  {
+    "startTime": 116.666,
+    "endTime": 119.6,
+    "fullTextZH": "这个水草是绿色的",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 116.766,
+        "endTime": 117.329,
+        "gloss": "this"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 117.329,
+        "endTime": 118.314,
+        "gloss": "water plant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 118.314,
+        "endTime": 118.615,
+        "gloss": "is"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 118.615,
+        "endTime": 119.218,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 119.218,
+        "endTime": 119.238,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This water plant is green."
+  },
+  {
+    "startTime": 120.366,
+    "endTime": 123.8,
+    "fullTextZH": "这个水草是蓝色的",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 120.426,
+        "endTime": 120.928,
+        "gloss": "this"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 120.928,
+        "endTime": 121.651,
+        "gloss": "water plant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 121.651,
+        "endTime": 121.952,
+        "gloss": "is"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 121.952,
+        "endTime": 122.635,
+        "gloss": "blue"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 122.635,
+        "endTime": 122.655,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This water plant is blue."
+  },
+  {
+    "startTime": 124.366,
+    "endTime": 130.433,
+    "fullTextZH": "所以现在我们来找不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 124.586,
+        "endTime": 125.788,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 125.788,
+        "endTime": 126.889,
+        "gloss": "now"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 126.889,
+        "endTime": 127.289,
+        "gloss": "we"
+      },
+      {
+        "word": "来",
+        "pinyin": "lái",
+        "startTime": 127.289,
+        "endTime": 128.751,
+        "gloss": "come"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 128.751,
+        "endTime": 129.472,
+        "gloss": "find"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 129.472,
+        "endTime": 129.812,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So now let's find the differences."
+  },
+  {
+    "startTime": 130.566,
+    "endTime": 132.1,
+    "fullTextZH": "找不同",
+    "words": [
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 130.627,
+        "endTime": 130.889,
+        "gloss": "find"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 130.889,
+        "endTime": 131.071,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "Find the differences."
+  },
+  {
+    "startTime": 132.1,
+    "endTime": 132.633,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 132.161,
+        "endTime": 132.182,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 132.633,
+    "endTime": 134.4,
+    "fullTextZH": "第一个不同",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 132.713,
+        "endTime": 133.697,
+        "gloss": "first"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 133.697,
+        "endTime": 133.918,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The first difference."
+  },
+  {
+    "startTime": 134.4,
+    "endTime": 135.666,
+    "fullTextZH": "第一个不同",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 134.46,
+        "endTime": 134.882,
+        "gloss": "first"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 134.882,
+        "endTime": 135.083,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The first difference."
+  },
+  {
+    "startTime": 135.833,
+    "endTime": 138.6,
+    "fullTextZH": "我觉得很好找",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 135.933,
+        "endTime": 136.174,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 136.174,
+        "endTime": 137.317,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 137.317,
+        "endTime": 137.998,
+        "gloss": "very"
+      },
+      {
+        "word": "好找",
+        "pinyin": "hǎo zhǎo",
+        "startTime": 137.998,
+        "endTime": 138.46,
+        "gloss": "easy to find"
+      }
+    ],
+    "fullTextEN": "I think it's easy to find."
+  },
+  {
+    "startTime": 138.6,
+    "endTime": 140.0,
+    "fullTextZH": "很好找",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 138.884,
+        "endTime": 139.188,
+        "gloss": "very"
+      },
+      {
+        "word": "好找",
+        "pinyin": "hǎo zhǎo",
+        "startTime": 139.188,
+        "endTime": 139.513,
+        "gloss": "easy to find"
+      }
+    ],
+    "fullTextEN": "Easy to find."
+  },
+  {
+    "startTime": 141.5,
+    "endTime": 148.466,
+    "fullTextZH": "这条鱼它的嘴是张开的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 141.6,
+        "endTime": 142.121,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 142.121,
+        "endTime": 142.961,
+        "gloss": "fish"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 142.961,
+        "endTime": 143.242,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 143.242,
+        "endTime": 143.582,
+        "gloss": "particle"
+      },
+      {
+        "word": "嘴",
+        "pinyin": "zuǐ",
+        "startTime": 143.582,
+        "endTime": 144.943,
+        "gloss": "mouth"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 144.943,
+        "endTime": 147.145,
+        "gloss": "is"
+      },
+      {
+        "word": "张开",
+        "pinyin": "zhāng kāi",
+        "startTime": 147.145,
+        "endTime": 147.946,
+        "gloss": "open"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 147.946,
+        "endTime": 147.966,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This fish's mouth is open."
+  },
+  {
+    "startTime": 148.466,
+    "endTime": 149.966,
+    "fullTextZH": "张开的",
+    "words": [
+      {
+        "word": "张开",
+        "pinyin": "zhāng kāi",
+        "startTime": 148.608,
+        "endTime": 149.581,
+        "gloss": "open"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 149.581,
+        "endTime": 149.601,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Open."
+  },
+  {
+    "startTime": 150.666,
+    "endTime": 156.566,
+    "fullTextZH": "但是它的嘴不是张开的",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 150.706,
+        "endTime": 152.251,
+        "gloss": "but"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 152.251,
+        "endTime": 152.813,
+        "gloss": "it"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 152.813,
+        "endTime": 153.114,
+        "gloss": "particle"
+      },
+      {
+        "word": "嘴",
+        "pinyin": "zuǐ",
+        "startTime": 153.114,
+        "endTime": 154.138,
+        "gloss": "mouth"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 154.138,
+        "endTime": 155.362,
+        "gloss": "not"
+      },
+      {
+        "word": "张开",
+        "pinyin": "zhāng kāi",
+        "startTime": 155.362,
+        "endTime": 156.165,
+        "gloss": "open"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 156.165,
+        "endTime": 156.185,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "But its mouth is not open."
+  },
+  {
+    "startTime": 156.566,
+    "endTime": 157.9,
+    "fullTextZH": "不是张开的",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 156.586,
+        "endTime": 157.051,
+        "gloss": "not"
+      },
+      {
+        "word": "张开",
+        "pinyin": "zhāng kāi",
+        "startTime": 157.051,
+        "endTime": 157.556,
+        "gloss": "open"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 157.556,
+        "endTime": 157.577,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Not open."
+  },
+  {
+    "startTime": 158.2,
+    "endTime": 163.7,
+    "fullTextZH": "所以我们可以看到它的牙",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 158.361,
+        "endTime": 159.505,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 159.505,
+        "endTime": 160.067,
+        "gloss": "we"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 160.067,
+        "endTime": 160.508,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 160.508,
+        "endTime": 161.693,
+        "gloss": "see"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 161.693,
+        "endTime": 162.114,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 162.114,
+        "endTime": 162.857,
+        "gloss": "particle"
+      },
+      {
+        "word": "牙",
+        "pinyin": "yá",
+        "startTime": 162.857,
+        "endTime": 162.877,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "So we can see its teeth."
+  },
+  {
+    "startTime": 163.833,
+    "endTime": 165.733,
+    "fullTextZH": "它的牙",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 163.894,
+        "endTime": 164.076,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 164.076,
+        "endTime": 164.237,
+        "gloss": "particle"
+      },
+      {
+        "word": "牙",
+        "pinyin": "yá",
+        "startTime": 164.237,
+        "endTime": 164.257,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "Its teeth."
+  },
+  {
+    "startTime": 165.733,
+    "endTime": 172.066,
+    "fullTextZH": "但是我们看不到它的牙",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 165.733,
+        "endTime": 166.795,
+        "gloss": "but"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 166.795,
+        "endTime": 167.597,
+        "gloss": "we"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 167.597,
+        "endTime": 170.162,
+        "gloss": "cannot see"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 170.162,
+        "endTime": 170.864,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 170.864,
+        "endTime": 171.385,
+        "gloss": "particle"
+      },
+      {
+        "word": "牙",
+        "pinyin": "yá",
+        "startTime": 171.385,
+        "endTime": 171.405,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "But we can't see its teeth."
+  },
+  {
+    "startTime": 172.066,
+    "endTime": 174.166,
+    "fullTextZH": "看不到它的牙",
+    "words": [
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 172.167,
+        "endTime": 173.217,
+        "gloss": "cannot see"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 173.217,
+        "endTime": 173.52,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 173.52,
+        "endTime": 173.661,
+        "gloss": "particle"
+      },
+      {
+        "word": "牙",
+        "pinyin": "yá",
+        "startTime": 173.661,
+        "endTime": 173.681,
+        "gloss": "teeth"
+      }
+    ],
+    "fullTextEN": "Can't see its teeth."
+  },
+  {
+    "startTime": 174.166,
+    "endTime": 175.3,
+    "fullTextZH": "所以",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 174.692,
+        "endTime": 174.915,
+        "gloss": "so"
+      }
+    ],
+    "fullTextEN": "So"
+  },
+  {
+    "startTime": 175.766,
+    "endTime": 177.4,
+    "fullTextZH": "第一个不同",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 175.827,
+        "endTime": 176.694,
+        "gloss": "first"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 176.694,
+        "endTime": 176.855,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The first difference"
+  },
+  {
+    "startTime": 179.366,
+    "endTime": 181.233,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 179.426,
+        "endTime": 179.446,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 182.366,
+    "endTime": 184.233,
+    "fullTextZH": "第二个不同",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 182.426,
+        "endTime": 183.47,
+        "gloss": "second"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 183.47,
+        "endTime": 183.651,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The second difference"
+  },
+  {
+    "startTime": 184.233,
+    "endTime": 186.666,
+    "fullTextZH": "第二个不同",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 184.293,
+        "endTime": 184.836,
+        "gloss": "second"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 184.836,
+        "endTime": 184.997,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The second difference"
+  },
+  {
+    "startTime": 188.6,
+    "endTime": 192.066,
+    "fullTextZH": "这里这里有一条鱼",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 188.68,
+        "endTime": 189.682,
+        "gloss": "here"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 189.682,
+        "endTime": 190.123,
+        "gloss": "here"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 190.123,
+        "endTime": 190.844,
+        "gloss": "have"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 190.844,
+        "endTime": 191.565,
+        "gloss": "a"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 191.565,
+        "endTime": 191.585,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Here, here is a fish"
+  },
+  {
+    "startTime": 192.066,
+    "endTime": 193.666,
+    "fullTextZH": "这里有一条鱼",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 192.167,
+        "endTime": 192.491,
+        "gloss": "here"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 192.491,
+        "endTime": 192.674,
+        "gloss": "have"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 192.674,
+        "endTime": 193.16,
+        "gloss": "a"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 193.16,
+        "endTime": 193.18,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Here is a fish"
+  },
+  {
+    "startTime": 194.033,
+    "endTime": 198.266,
+    "fullTextZH": "可是这里没有鱼",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 194.113,
+        "endTime": 195.096,
+        "gloss": "but"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 195.096,
+        "endTime": 196.521,
+        "gloss": "here"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 196.521,
+        "endTime": 197.684,
+        "gloss": "no"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 197.684,
+        "endTime": 197.704,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "But there is no fish here"
+  },
+  {
+    "startTime": 198.3,
+    "endTime": 199.466,
+    "fullTextZH": "没有鱼",
+    "words": [
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 198.38,
+        "endTime": 198.762,
+        "gloss": "no"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 198.762,
+        "endTime": 198.782,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "No fish"
+  },
+  {
+    "startTime": 199.466,
+    "endTime": 203.066,
+    "fullTextZH": "所以这是第二个不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 199.486,
+        "endTime": 199.908,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 199.908,
+        "endTime": 200.572,
+        "gloss": "this is"
+      },
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 200.572,
+        "endTime": 202.443,
+        "gloss": "second"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 202.443,
+        "endTime": 202.624,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So this is the second difference"
+  },
+  {
+    "startTime": 205.433,
+    "endTime": 207.566,
+    "fullTextZH": "第三个不同",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 205.513,
+        "endTime": 206.56,
+        "gloss": "third"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 206.56,
+        "endTime": 206.801,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The third difference"
+  },
+  {
+    "startTime": 208.1,
+    "endTime": 212.0,
+    "fullTextZH": "这条鱼很大",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 209.427,
+        "endTime": 210.271,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 210.271,
+        "endTime": 211.337,
+        "gloss": "fish"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 211.337,
+        "endTime": 211.799,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This fish is very big"
+  },
+  {
+    "startTime": 212.0,
+    "endTime": 213.566,
+    "fullTextZH": "很大",
+    "words": [
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 212.703,
+        "endTime": 212.964,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "Very big"
+  },
+  {
+    "startTime": 213.766,
+    "endTime": 218.333,
+    "fullTextZH": "但是这条鱼很小",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 213.826,
+        "endTime": 215.388,
+        "gloss": "but"
+      },
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 215.388,
+        "endTime": 216.15,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 216.15,
+        "endTime": 216.911,
+        "gloss": "fish"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 216.911,
+        "endTime": 217.672,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "But this fish is very small"
+  },
+  {
+    "startTime": 218.333,
+    "endTime": 219.666,
+    "fullTextZH": "很小",
+    "words": [
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 218.798,
+        "endTime": 219.161,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "Very small"
+  },
+  {
+    "startTime": 220.833,
+    "endTime": 223.9,
+    "fullTextZH": "这条鱼是蓝色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 220.913,
+        "endTime": 221.515,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 221.515,
+        "endTime": 222.036,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 222.036,
+        "endTime": 222.577,
+        "gloss": "is"
+      },
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 222.577,
+        "endTime": 223.499,
+        "gloss": "blue"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 223.499,
+        "endTime": 223.519,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "This fish is blue"
+  },
+  {
+    "startTime": 224.066,
+    "endTime": 225.066,
+    "fullTextZH": "蓝色",
+    "words": [
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 224.209,
+        "endTime": 224.556,
+        "gloss": "blue"
+      }
+    ],
+    "fullTextEN": "Blue"
+  },
+  {
+    "startTime": 226.1,
+    "endTime": 229.7,
+    "fullTextZH": "这条鱼是黄色",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 226.201,
+        "endTime": 226.824,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 226.824,
+        "endTime": 227.608,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.608,
+        "endTime": 228.453,
+        "gloss": "is"
+      },
+      {
+        "word": "黄色",
+        "pinyin": "huáng sè",
+        "startTime": 228.453,
+        "endTime": 229.177,
+        "gloss": "yellow"
+      }
+    ],
+    "fullTextEN": "This fish is yellow"
+  },
+  {
+    "startTime": 229.766,
+    "endTime": 231.0,
+    "fullTextZH": "黄色",
+    "words": [
+      {
+        "word": "黄色",
+        "pinyin": "huáng sè",
+        "startTime": 230.049,
+        "endTime": 230.494,
+        "gloss": "yellow"
+      }
+    ],
+    "fullTextEN": "Yellow"
+  },
+  {
+    "startTime": 232.266,
+    "endTime": 236.833,
+    "fullTextZH": "所以这是第三个不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 232.426,
+        "endTime": 233.388,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 233.388,
+        "endTime": 234.209,
+        "gloss": "this is"
+      },
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 234.209,
+        "endTime": 236.092,
+        "gloss": "third"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 236.092,
+        "endTime": 236.292,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So this is the third difference"
+  },
+  {
+    "startTime": 236.9,
+    "endTime": 238.6,
+    "fullTextZH": "第三个不同",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 236.981,
+        "endTime": 237.608,
+        "gloss": "third"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 237.608,
+        "endTime": 237.75,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The third difference"
+  },
+  {
+    "startTime": 238.6,
+    "endTime": 238.966,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 238.722,
+        "endTime": 238.742,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 239.4,
+    "endTime": 241.033,
+    "fullTextZH": "第四个不同",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 239.46,
+        "endTime": 240.186,
+        "gloss": "fourth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 240.186,
+        "endTime": 240.388,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The fourth difference"
+  },
+  {
+    "startTime": 241.066,
+    "endTime": 243.0,
+    "fullTextZH": "第四个不同是",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 241.126,
+        "endTime": 241.59,
+        "gloss": "fourth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 241.59,
+        "endTime": 242.234,
+        "gloss": "different"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 242.234,
+        "endTime": 242.255,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "The fourth difference is"
+  },
+  {
+    "startTime": 243.233,
+    "endTime": 249.266,
+    "fullTextZH": "这里的水草很长很长",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 243.353,
+        "endTime": 244.075,
+        "gloss": "here"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 244.075,
+        "endTime": 244.997,
+        "gloss": "of"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 244.997,
+        "endTime": 246.54,
+        "gloss": "water plants"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 246.54,
+        "endTime": 248.204,
+        "gloss": "very long"
+      },
+      {
+        "word": "很长",
+        "pinyin": "hěn zhǎng",
+        "startTime": 248.204,
+        "endTime": 248.524,
+        "gloss": "very long"
+      }
+    ],
+    "fullTextEN": "The water plants here are very long"
+  },
+  {
+    "startTime": 249.7,
+    "endTime": 254.8,
+    "fullTextZH": "但是这里的水草很短很短",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 249.76,
+        "endTime": 250.784,
+        "gloss": "but"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 250.784,
+        "endTime": 251.206,
+        "gloss": "here"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 251.206,
+        "endTime": 251.447,
+        "gloss": "of"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 251.447,
+        "endTime": 252.391,
+        "gloss": "water plants"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 252.391,
+        "endTime": 253.234,
+        "gloss": "very"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 253.234,
+        "endTime": 253.957,
+        "gloss": "short"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 253.957,
+        "endTime": 254.258,
+        "gloss": "very"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 254.258,
+        "endTime": 254.278,
+        "gloss": "short"
+      }
+    ],
+    "fullTextEN": "But the water plants here are very short"
+  },
+  {
+    "startTime": 254.966,
+    "endTime": 255.4,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 255.111,
+        "endTime": 255.131,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 255.4,
+    "endTime": 259.433,
+    "fullTextZH": "所以这是第四个不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 255.44,
+        "endTime": 255.841,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 255.841,
+        "endTime": 256.544,
+        "gloss": "this is"
+      },
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 256.544,
+        "endTime": 257.868,
+        "gloss": "fourth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 257.868,
+        "endTime": 258.028,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So this is the fourth difference"
+  },
+  {
+    "startTime": 260.1,
+    "endTime": 262.0,
+    "fullTextZH": "第五个不同",
+    "words": [
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 260.181,
+        "endTime": 261.313,
+        "gloss": "fifth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 261.313,
+        "endTime": 261.515,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The fifth difference"
+  },
+  {
+    "startTime": 262.0,
+    "endTime": 263.233,
+    "fullTextZH": "第五个不同",
+    "words": [
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 262.061,
+        "endTime": 262.526,
+        "gloss": "fifth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 262.526,
+        "endTime": 262.687,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The fifth difference"
+  },
+  {
+    "startTime": 263.566,
+    "endTime": 266.166,
+    "fullTextZH": "这条鱼是橙色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 263.626,
+        "endTime": 264.11,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 264.11,
+        "endTime": 264.533,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 264.533,
+        "endTime": 264.916,
+        "gloss": "is"
+      },
+      {
+        "word": "橙色",
+        "pinyin": "chéng sè",
+        "startTime": 264.916,
+        "endTime": 265.763,
+        "gloss": "orange"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 265.763,
+        "endTime": 265.783,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "This fish is orange"
+  },
+  {
+    "startTime": 267.066,
+    "endTime": 270.433,
+    "fullTextZH": "这条鱼是紫色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 267.186,
+        "endTime": 267.767,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 267.767,
+        "endTime": 268.389,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 268.389,
+        "endTime": 269.11,
+        "gloss": "is"
+      },
+      {
+        "word": "紫色",
+        "pinyin": "zǐ sè",
+        "startTime": 269.11,
+        "endTime": 269.972,
+        "gloss": "purple"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 269.972,
+        "endTime": 269.992,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "This fish is purple"
+  },
+  {
+    "startTime": 270.666,
+    "endTime": 274.5,
+    "fullTextZH": "所以这是第五个不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 270.807,
+        "endTime": 271.328,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 271.328,
+        "endTime": 271.931,
+        "gloss": "this is"
+      },
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 271.931,
+        "endTime": 273.858,
+        "gloss": "fifth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 273.858,
+        "endTime": 274.018,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So this is the fifth difference"
+  },
+  {
+    "startTime": 274.766,
+    "endTime": 276.333,
+    "fullTextZH": "第五个",
+    "words": [
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 274.826,
+        "endTime": 275.288,
+        "gloss": "fifth"
+      }
+    ],
+    "fullTextEN": "Fifth"
+  },
+  {
+    "startTime": 276.333,
+    "endTime": 278.966,
+    "fullTextZH": "第六个不同",
+    "words": [
+      {
+        "word": "第六个",
+        "pinyin": "dì liù gè",
+        "startTime": 276.333,
+        "endTime": 278.041,
+        "gloss": "sixth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 278.041,
+        "endTime": 278.263,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The sixth difference"
+  },
+  {
+    "startTime": 279.866,
+    "endTime": 283.466,
+    "fullTextZH": "这里有一条鱼",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 280.007,
+        "endTime": 281.133,
+        "gloss": "here"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 281.133,
+        "endTime": 281.837,
+        "gloss": "have"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 281.837,
+        "endTime": 282.883,
+        "gloss": "one"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 282.883,
+        "endTime": 282.903,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "There is a fish here"
+  },
+  {
+    "startTime": 284.366,
+    "endTime": 286.866,
+    "fullTextZH": "这里没有鱼",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 284.447,
+        "endTime": 285.515,
+        "gloss": "here"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 285.515,
+        "endTime": 286.342,
+        "gloss": "no"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 286.342,
+        "endTime": 286.362,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "There is no fish here"
+  },
+  {
+    "startTime": 287.6,
+    "endTime": 291.566,
+    "fullTextZH": "所以这是第六个",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 287.76,
+        "endTime": 288.581,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 288.581,
+        "endTime": 289.703,
+        "gloss": "this is"
+      },
+      {
+        "word": "第六个",
+        "pinyin": "dì liù gè",
+        "startTime": 289.703,
+        "endTime": 291.005,
+        "gloss": "sixth"
+      }
+    ],
+    "fullTextEN": "So this is the sixth"
+  },
+  {
+    "startTime": 291.666,
+    "endTime": 293.666,
+    "fullTextZH": "第六个不同",
+    "words": [
+      {
+        "word": "第六个",
+        "pinyin": "dì liù gè",
+        "startTime": 291.747,
+        "endTime": 293.06,
+        "gloss": "sixth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 293.06,
+        "endTime": 293.222,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The sixth difference"
+  },
+  {
+    "startTime": 294.366,
+    "endTime": 295.166,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 294.489,
+        "endTime": 294.51,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 296.233,
+    "endTime": 299.366,
+    "fullTextZH": "第七个不同",
+    "words": [
+      {
+        "word": "第七个",
+        "pinyin": "dì qī gè",
+        "startTime": 296.353,
+        "endTime": 298.583,
+        "gloss": "seventh"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 298.583,
+        "endTime": 298.824,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The seventh difference"
+  },
+  {
+    "startTime": 299.366,
+    "endTime": 300.766,
+    "fullTextZH": "第七个不同",
+    "words": [
+      {
+        "word": "第七个",
+        "pinyin": "dì qī gè",
+        "startTime": 299.447,
+        "endTime": 300.076,
+        "gloss": "seventh"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 300.076,
+        "endTime": 300.238,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The seventh difference"
+  },
+  {
+    "startTime": 301.466,
+    "endTime": 306.266,
+    "fullTextZH": "这里的水草是绿色的",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 301.627,
+        "endTime": 302.571,
+        "gloss": "here"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 302.571,
+        "endTime": 302.912,
+        "gloss": "of"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 302.912,
+        "endTime": 303.997,
+        "gloss": "water plants"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 303.997,
+        "endTime": 304.92,
+        "gloss": "are"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 304.92,
+        "endTime": 305.884,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 305.884,
+        "endTime": 305.904,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "The water plants here are green"
+  },
+  {
+    "startTime": 307.2,
+    "endTime": 308.6,
+    "fullTextZH": "是绿色的",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 307.383,
+        "endTime": 307.646,
+        "gloss": "are"
+      },
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 307.646,
+        "endTime": 308.194,
+        "gloss": "green"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 308.194,
+        "endTime": 308.214,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "Are green"
+  },
+  {
+    "startTime": 309.266,
+    "endTime": 314.033,
+    "fullTextZH": "这里的水草是粉色的",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 309.386,
+        "endTime": 309.887,
+        "gloss": "here"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 309.887,
+        "endTime": 310.147,
+        "gloss": "of"
+      },
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 310.147,
+        "endTime": 311.389,
+        "gloss": "water plants"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 311.389,
+        "endTime": 312.731,
+        "gloss": "are"
+      },
+      {
+        "word": "粉色",
+        "pinyin": "fěn sè",
+        "startTime": 312.731,
+        "endTime": 313.612,
+        "gloss": "pink"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 313.612,
+        "endTime": 313.632,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "The water plants here are pink"
+  },
+  {
+    "startTime": 314.466,
+    "endTime": 317.966,
+    "fullTextZH": "所以这是第七个",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 314.627,
+        "endTime": 315.613,
+        "gloss": "so"
+      },
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 315.613,
+        "endTime": 316.417,
+        "gloss": "this is"
+      },
+      {
+        "word": "第七个",
+        "pinyin": "dì qī gè",
+        "startTime": 316.417,
+        "endTime": 317.423,
+        "gloss": "seventh"
+      }
+    ],
+    "fullTextEN": "So this is the seventh"
+  },
+  {
+    "startTime": 318.0,
+    "endTime": 319.633,
+    "fullTextZH": "第七个不同",
+    "words": [
+      {
+        "word": "第七个",
+        "pinyin": "dì qī gè",
+        "startTime": 318.04,
+        "endTime": 319.109,
+        "gloss": "seventh"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 319.109,
+        "endTime": 319.25,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The seventh difference"
+  },
+  {
+    "startTime": 320.6,
+    "endTime": 322.033,
+    "fullTextZH": "第八个",
+    "words": [
+      {
+        "word": "第八个",
+        "pinyin": "dì bā gè",
+        "startTime": 320.681,
+        "endTime": 322.033,
+        "gloss": "eighth"
+      }
+    ],
+    "fullTextEN": "The eighth"
+  },
+  {
+    "startTime": 322.033,
+    "endTime": 324.433,
+    "fullTextZH": "第八个不同",
+    "words": [
+      {
+        "word": "第八个",
+        "pinyin": "dì bā gè",
+        "startTime": 322.981,
+        "endTime": 323.707,
+        "gloss": "eighth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 323.707,
+        "endTime": 323.868,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "The eighth difference"
+  },
+  {
+    "startTime": 324.866,
+    "endTime": 328.433,
+    "fullTextZH": "这条鱼是粉色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 324.986,
+        "endTime": 325.668,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 325.668,
+        "endTime": 326.409,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 326.409,
+        "endTime": 327.211,
+        "gloss": "is"
+      },
+      {
+        "word": "粉色",
+        "pinyin": "fěn sè",
+        "startTime": 327.211,
+        "endTime": 328.052,
+        "gloss": "pink"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 328.052,
+        "endTime": 328.072,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "This fish is pink"
+  },
+  {
+    "startTime": 329.466,
+    "endTime": 332.666,
+    "fullTextZH": "这条鱼是黄色的",
+    "words": [
+      {
+        "word": "这条",
+        "pinyin": "zhè tiáo",
+        "startTime": 329.587,
+        "endTime": 330.211,
+        "gloss": "this"
+      },
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 330.211,
+        "endTime": 330.714,
+        "gloss": "fish"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 330.714,
+        "endTime": 331.458,
+        "gloss": "is"
+      },
+      {
+        "word": "黄色",
+        "pinyin": "huáng sè",
+        "startTime": 331.458,
+        "endTime": 332.304,
+        "gloss": "yellow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 332.304,
+        "endTime": 332.324,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "This fish is yellow"
+  },
+  {
+    "startTime": 333.166,
+    "endTime": 337.466,
+    "fullTextZH": "所以它们的颜色不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 333.307,
+        "endTime": 334.07,
+        "gloss": "so"
+      },
+      {
+        "word": "它们",
+        "pinyin": "tā men",
+        "startTime": 334.07,
+        "endTime": 334.894,
+        "gloss": "they"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 334.894,
+        "endTime": 335.658,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 335.658,
+        "endTime": 336.763,
+        "gloss": "colors"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 336.763,
+        "endTime": 336.964,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So their colors are different"
+  },
+  {
+    "startTime": 337.466,
+    "endTime": 338.7,
+    "fullTextZH": "颜色不同",
+    "words": [
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 337.567,
+        "endTime": 338.032,
+        "gloss": "colors"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 338.032,
+        "endTime": 338.194,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "Colors are different"
+  },
+  {
+    "startTime": 338.966,
+    "endTime": 343.266,
+    "fullTextZH": "那这是第八个不同",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 339.006,
+        "endTime": 339.488,
+        "gloss": "so"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 339.488,
+        "endTime": 339.971,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 339.971,
+        "endTime": 340.835,
+        "gloss": "is"
+      },
+      {
+        "word": "第八个",
+        "pinyin": "dì bā gè",
+        "startTime": 340.835,
+        "endTime": 342.703,
+        "gloss": "eighth"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 342.703,
+        "endTime": 342.844,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So this is the eighth difference"
+  },
+  {
+    "startTime": 350.066,
+    "endTime": 350.633,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 350.268,
+        "endTime": 350.289,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay"
+  },
+  {
+    "startTime": 350.633,
+    "endTime": 357.766,
+    "fullTextZH": "所以我们找到了所有的不同",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 350.954,
+        "endTime": 351.935,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 351.935,
+        "endTime": 353.278,
+        "gloss": "we"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 353.278,
+        "endTime": 353.719,
+        "gloss": "found"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 353.719,
+        "endTime": 353.739,
+        "gloss": "le"
+      },
+      {
+        "word": "所有",
+        "pinyin": "suǒ yǒu",
+        "startTime": 353.739,
+        "endTime": 353.779,
+        "gloss": "all"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.779,
+        "endTime": 353.799,
+        "gloss": "of"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 353.799,
+        "endTime": 353.839,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "So we found all the differences"
+  },
+  {
+    "startTime": 357.966,
+    "endTime": 359.666,
+    "fullTextZH": "一共是八个",
+    "words": [
+      {
+        "word": "一共",
+        "pinyin": "yī gòng",
+        "startTime": 358.027,
+        "endTime": 358.654,
+        "gloss": "in total"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 358.654,
+        "endTime": 358.978,
+        "gloss": "are"
+      },
+      {
+        "word": "八个",
+        "pinyin": "bā gè",
+        "startTime": 358.978,
+        "endTime": 359.362,
+        "gloss": "eight"
+      }
+    ],
+    "fullTextEN": "There are eight in total"
+  },
+  {
+    "startTime": 359.666,
+    "endTime": 361.5,
+    "fullTextZH": "一共是八个不同",
+    "words": [
+      {
+        "word": "一共",
+        "pinyin": "yī gòng",
+        "startTime": 359.747,
+        "endTime": 360.15,
+        "gloss": "in total"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 360.15,
+        "endTime": 360.371,
+        "gloss": "are"
+      },
+      {
+        "word": "八个",
+        "pinyin": "bā gè",
+        "startTime": 360.371,
+        "endTime": 360.875,
+        "gloss": "eight"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 360.875,
+        "endTime": 361.036,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "There are eight differences in total"
+  },
+  {
+    "startTime": 362.166,
+    "endTime": 363.0,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 362.349,
+        "endTime": 362.369,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay"
+  },
+  {
+    "startTime": 363.7,
+    "endTime": 371.7,
+    "fullTextZH": "我们现在来看一下图片里有的一些词",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 363.901,
+        "endTime": 364.562,
+        "gloss": "we"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 364.562,
+        "endTime": 365.906,
+        "gloss": "now"
+      },
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 365.906,
+        "endTime": 366.627,
+        "gloss": "look"
+      },
+      {
+        "word": "一下",
+        "pinyin": "yī xià",
+        "startTime": 366.627,
+        "endTime": 368.291,
+        "gloss": "at"
+      },
+      {
+        "word": "图片",
+        "pinyin": "tú piàn",
+        "startTime": 368.291,
+        "endTime": 368.833,
+        "gloss": "picture"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 368.833,
+        "endTime": 369.575,
+        "gloss": "in"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 369.575,
+        "endTime": 369.875,
+        "gloss": "have"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 369.875,
+        "endTime": 370.377,
+        "gloss": "of"
+      },
+      {
+        "word": "一些",
+        "pinyin": "yī xiē",
+        "startTime": 370.377,
+        "endTime": 371.098,
+        "gloss": "some"
+      },
+      {
+        "word": "词",
+        "pinyin": "cí",
+        "startTime": 371.098,
+        "endTime": 371.119,
+        "gloss": "words"
+      }
+    ],
+    "fullTextEN": "Now let's look at some words in the picture"
+  },
+  {
+    "startTime": 372.566,
+    "endTime": 373.766,
+    "fullTextZH": "海",
+    "words": [
+      {
+        "word": "海",
+        "pinyin": "hǎi",
+        "startTime": 372.729,
+        "endTime": 372.749,
+        "gloss": "sea"
+      }
+    ],
+    "fullTextEN": "Sea"
+  },
+  {
+    "startTime": 374.633,
+    "endTime": 375.566,
+    "fullTextZH": "海",
+    "words": [
+      {
+        "word": "海",
+        "pinyin": "hǎi",
+        "startTime": 374.795,
+        "endTime": 374.816,
+        "gloss": "sea"
+      }
+    ],
+    "fullTextEN": "Sea"
+  },
+  {
+    "startTime": 377.1,
+    "endTime": 378.466,
+    "fullTextZH": "鱼",
+    "words": [
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 377.2,
+        "endTime": 377.221,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Fish"
+  },
+  {
+    "startTime": 378.466,
+    "endTime": 379.833,
+    "fullTextZH": "鱼",
+    "words": [
+      {
+        "word": "鱼",
+        "pinyin": "yú",
+        "startTime": 379.19,
+        "endTime": 379.21,
+        "gloss": "fish"
+      }
+    ],
+    "fullTextEN": "Fish"
+  },
+  {
+    "startTime": 381.633,
+    "endTime": 385.866,
+    "fullTextZH": "颜色很多的颜色",
+    "words": [
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 381.753,
+        "endTime": 383.659,
+        "gloss": "color"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 383.659,
+        "endTime": 384.542,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 384.542,
+        "endTime": 385.023,
+        "gloss": "of"
+      },
+      {
+        "word": "颜色",
+        "pinyin": "yán sè",
+        "startTime": 385.023,
+        "endTime": 385.324,
+        "gloss": "color"
+      }
+    ],
+    "fullTextEN": "Colors with many colors"
+  },
+  {
+    "startTime": 388.166,
+    "endTime": 389.866,
+    "fullTextZH": "水草",
+    "words": [
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 388.429,
+        "endTime": 388.915,
+        "gloss": "aquatic plants"
+      }
+    ],
+    "fullTextEN": "Aquatic plants"
+  },
+  {
+    "startTime": 389.866,
+    "endTime": 391.6,
+    "fullTextZH": "水草",
+    "words": [
+      {
+        "word": "水草",
+        "pinyin": "shuǐ cǎo",
+        "startTime": 390.39,
+        "endTime": 390.793,
+        "gloss": "aquatic plants"
+      }
+    ],
+    "fullTextEN": "Aquatic plants"
+  },
+  {
+    "startTime": 393.9,
+    "endTime": 395.433,
+    "fullTextZH": "石头",
+    "words": [
+      {
+        "word": "石头",
+        "pinyin": "shí tou",
+        "startTime": 394.203,
+        "endTime": 394.545,
+        "gloss": "stone"
+      }
+    ],
+    "fullTextEN": "Stone"
+  },
+  {
+    "startTime": 395.433,
+    "endTime": 396.966,
+    "fullTextZH": "石头",
+    "words": [
+      {
+        "word": "石头",
+        "pinyin": "shí tou",
+        "startTime": 395.998,
+        "endTime": 396.381,
+        "gloss": "stone"
+      }
+    ],
+    "fullTextEN": "Stone"
+  },
+  {
+    "startTime": 399.9,
+    "endTime": 401.433,
+    "fullTextZH": "紫色",
+    "words": [
+      {
+        "word": "紫色",
+        "pinyin": "zǐ sè",
+        "startTime": 400.082,
+        "endTime": 400.808,
+        "gloss": "purple"
+      }
+    ],
+    "fullTextEN": "Purple"
+  },
+  {
+    "startTime": 401.433,
+    "endTime": 402.966,
+    "fullTextZH": "紫色",
+    "words": [
+      {
+        "word": "紫色",
+        "pinyin": "zǐ sè",
+        "startTime": 402.018,
+        "endTime": 402.401,
+        "gloss": "purple"
+      }
+    ],
+    "fullTextEN": "Purple"
+  },
+  {
+    "startTime": 404.633,
+    "endTime": 406.1,
+    "fullTextZH": "蓝色",
+    "words": [
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 404.914,
+        "endTime": 405.497,
+        "gloss": "blue"
+      }
+    ],
+    "fullTextEN": "Blue"
+  },
+  {
+    "startTime": 406.1,
+    "endTime": 407.566,
+    "fullTextZH": "蓝色",
+    "words": [
+      {
+        "word": "蓝色",
+        "pinyin": "lán sè",
+        "startTime": 406.642,
+        "endTime": 406.984,
+        "gloss": "blue"
+      }
+    ],
+    "fullTextEN": "Blue"
+  },
+  {
+    "startTime": 409.4,
+    "endTime": 411.3,
+    "fullTextZH": "橙色",
+    "words": [
+      {
+        "word": "橙色",
+        "pinyin": "chéng sè",
+        "startTime": 409.521,
+        "endTime": 410.31,
+        "gloss": "orange"
+      }
+    ],
+    "fullTextEN": "Orange"
+  },
+  {
+    "startTime": 411.3,
+    "endTime": 413.2,
+    "fullTextZH": "橙色",
+    "words": [
+      {
+        "word": "橙色",
+        "pinyin": "chéng sè",
+        "startTime": 412.149,
+        "endTime": 412.634,
+        "gloss": "orange"
+      }
+    ],
+    "fullTextEN": "Orange"
+  },
+  {
+    "startTime": 414.833,
+    "endTime": 416.533,
+    "fullTextZH": "黄色",
+    "words": [
+      {
+        "word": "黄色",
+        "pinyin": "huáng sè",
+        "startTime": 415.076,
+        "endTime": 415.622,
+        "gloss": "yellow"
+      }
+    ],
+    "fullTextEN": "Yellow"
+  },
+  {
+    "startTime": 416.533,
+    "endTime": 418.233,
+    "fullTextZH": "黄色",
+    "words": [
+      {
+        "word": "黄色",
+        "pinyin": "huáng sè",
+        "startTime": 417.201,
+        "endTime": 417.727,
+        "gloss": "yellow"
+      }
+    ],
+    "fullTextEN": "Yellow"
+  },
+  {
+    "startTime": 419.7,
+    "endTime": 421.533,
+    "fullTextZH": "粉色",
+    "words": [
+      {
+        "word": "粉色",
+        "pinyin": "fěn sè",
+        "startTime": 420.123,
+        "endTime": 420.828,
+        "gloss": "pink"
+      }
+    ],
+    "fullTextEN": "Pink"
+  },
+  {
+    "startTime": 421.533,
+    "endTime": 423.4,
+    "fullTextZH": "粉色",
+    "words": [
+      {
+        "word": "粉色",
+        "pinyin": "fěn sè",
+        "startTime": 422.376,
+        "endTime": 422.898,
+        "gloss": "pink"
+      }
+    ],
+    "fullTextEN": "Pink"
+  },
+  {
+    "startTime": 425.066,
+    "endTime": 426.533,
+    "fullTextZH": "绿色",
+    "words": [
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 425.247,
+        "endTime": 425.689,
+        "gloss": "green"
+      }
+    ],
+    "fullTextEN": "Green"
+  },
+  {
+    "startTime": 426.533,
+    "endTime": 428.033,
+    "fullTextZH": "绿色",
+    "words": [
+      {
+        "word": "绿色",
+        "pinyin": "lǜ sè",
+        "startTime": 427.263,
+        "endTime": 427.567,
+        "gloss": "green"
+      }
+    ],
+    "fullTextEN": "Green"
+  },
+  {
+    "startTime": 429.1,
+    "endTime": 432.266,
+    "fullTextZH": "长短",
+    "words": [
+      {
+        "word": "长短",
+        "pinyin": "cháng duǎn",
+        "startTime": 429.36,
+        "endTime": 431.525,
+        "gloss": "length"
+      }
+    ],
+    "fullTextEN": "Length"
+  },
+  {
+    "startTime": 432.866,
+    "endTime": 434.633,
+    "fullTextZH": "长短",
+    "words": [
+      {
+        "word": "长短",
+        "pinyin": "cháng duǎn",
+        "startTime": 432.966,
+        "endTime": 434.071,
+        "gloss": "length"
+      }
+    ],
+    "fullTextEN": "Length"
+  },
+  {
+    "startTime": 435.566,
+    "endTime": 438.1,
+    "fullTextZH": "大小",
+    "words": [
+      {
+        "word": "大小",
+        "pinyin": "dà xiǎo",
+        "startTime": 435.667,
+        "endTime": 437.356,
+        "gloss": "size"
+      }
+    ],
+    "fullTextEN": "Size"
+  },
+  {
+    "startTime": 438.5,
+    "endTime": 440.333,
+    "fullTextZH": "大小",
+    "words": [
+      {
+        "word": "大小",
+        "pinyin": "dà xiǎo",
+        "startTime": 438.601,
+        "endTime": 439.688,
+        "gloss": "size"
+      }
+    ],
+    "fullTextEN": "Size"
+  },
+  {
+    "startTime": 440.333,
+    "endTime": 441.266,
+    "fullTextZH": "好",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 440.678,
+        "endTime": 440.698,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Good"
+  },
+  {
+    "startTime": 441.366,
+    "endTime": 444.766,
+    "fullTextZH": "我们下次找不同",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 441.406,
+        "endTime": 442.714,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 442.714,
+        "endTime": 443.78,
+        "gloss": "next time"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 443.78,
+        "endTime": 444.042,
+        "gloss": "find"
+      },
+      {
+        "word": "不同",
+        "pinyin": "bù tóng",
+        "startTime": 444.042,
+        "endTime": 444.243,
+        "gloss": "different"
+      }
+    ],
+    "fullTextEN": "Next time we find differences"
+  },
+  {
+    "startTime": 444.766,
+    "endTime": 446.7,
+    "fullTextZH": "再见拜拜",
+    "words": [
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 444.847,
+        "endTime": 445.693,
+        "gloss": "goodbye"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 445.693,
+        "endTime": 445.854,
+        "gloss": "bye-bye"
+      }
+    ],
+    "fullTextEN": "Goodbye bye-bye"
+  }
+]

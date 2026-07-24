@@ -1,0 +1,1402 @@
+[
+  {
+    "startTime": 0.7,
+    "endTime": 5.8,
+    "fullTextZH": "你好，欢迎来到XiaoguaChinese。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.82,
+        "endTime": 1.242,
+        "gloss": "hello"
+      },
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 2.628,
+        "endTime": 3.25,
+        "gloss": "welcome"
+      },
+      {
+        "word": "来到",
+        "pinyin": "lái dào",
+        "startTime": 3.25,
+        "endTime": 4.033,
+        "gloss": "arrive"
+      }
+    ],
+    "fullTextEN": "Hello, welcome to XiaoguaChinese."
+  },
+  {
+    "startTime": 6.066,
+    "endTime": 7.633,
+    "fullTextZH": "我是蔚萱。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 6.187,
+        "endTime": 6.488,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 6.488,
+        "endTime": 6.849,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 6.849,
+        "endTime": 7.111,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 7.111,
+        "endTime": 7.593,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 8.566,
+    "endTime": 14.066,
+    "fullTextZH": "今天我们猜一猜国家。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 8.666,
+        "endTime": 9.73,
+        "gloss": "today"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 9.73,
+        "endTime": 10.975,
+        "gloss": "we"
+      },
+      {
+        "word": "猜",
+        "pinyin": "cāi",
+        "startTime": 10.975,
+        "endTime": 11.577,
+        "gloss": "guess"
+      },
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 11.577,
+        "endTime": 11.938,
+        "gloss": "one"
+      },
+      {
+        "word": "猜",
+        "pinyin": "cāi",
+        "startTime": 11.938,
+        "endTime": 13.002,
+        "gloss": "guess"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 13.002,
+        "endTime": 14.026,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "Today we will guess countries."
+  },
+  {
+    "startTime": 14.866,
+    "endTime": 19.233,
+    "fullTextZH": "我会和你说六个——",
+    "words": [
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 14.986,
+        "endTime": 16.088,
+        "gloss": "I will"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 16.088,
+        "endTime": 16.469,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 16.469,
+        "endTime": 17.11,
+        "gloss": "you"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 17.11,
+        "endTime": 18.312,
+        "gloss": "say"
+      },
+      {
+        "word": "六个",
+        "pinyin": "liù gè",
+        "startTime": 18.312,
+        "endTime": 19.193,
+        "gloss": "six"
+      }
+    ],
+    "fullTextEN": "I will tell you six things—"
+  },
+  {
+    "startTime": 19.466,
+    "endTime": 26.266,
+    "fullTextZH": "六个和这个国家有关系的东西。",
+    "words": [
+      {
+        "word": "六个",
+        "pinyin": "liù gè",
+        "startTime": 19.606,
+        "endTime": 20.87,
+        "gloss": "six"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 20.87,
+        "endTime": 21.853,
+        "gloss": "with"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 21.853,
+        "endTime": 22.375,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 22.375,
+        "endTime": 23.498,
+        "gloss": "country"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 23.498,
+        "endTime": 23.939,
+        "gloss": "have"
+      },
+      {
+        "word": "关系",
+        "pinyin": "guān xì",
+        "startTime": 23.939,
+        "endTime": 24.922,
+        "gloss": "relation"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 24.922,
+        "endTime": 25.383,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 25.383,
+        "endTime": 26.226,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Six things related to this country."
+  },
+  {
+    "startTime": 26.866,
+    "endTime": 29.366,
+    "fullTextZH": "你想一想，",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 26.967,
+        "endTime": 28.439,
+        "gloss": "you"
+      },
+      {
+        "word": "想一想",
+        "pinyin": "xiǎng yī xiǎng",
+        "startTime": 28.439,
+        "endTime": 29.326,
+        "gloss": "think"
+      }
+    ],
+    "fullTextEN": "Think about it,"
+  },
+  {
+    "startTime": 30.0,
+    "endTime": 35.066,
+    "fullTextZH": "然后你告诉我是哪个国家。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 30.08,
+        "endTime": 30.861,
+        "gloss": "then"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 30.861,
+        "endTime": 31.322,
+        "gloss": "you"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 31.322,
+        "endTime": 32.082,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 32.082,
+        "endTime": 32.984,
+        "gloss": "me"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.984,
+        "endTime": 33.404,
+        "gloss": "is"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 33.404,
+        "endTime": 34.285,
+        "gloss": "which"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 34.285,
+        "endTime": 35.026,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "then tell me which country it is."
+  },
+  {
+    "startTime": 36.633,
+    "endTime": 37.466,
+    "fullTextZH": "第一个：",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 36.714,
+        "endTime": 37.425,
+        "gloss": "first one"
+      }
+    ],
+    "fullTextEN": "First one:"
+  },
+  {
+    "startTime": 38.633,
+    "endTime": 44.966,
+    "fullTextZH": "这个国家在欧洲，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 38.733,
+        "endTime": 39.194,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 39.194,
+        "endTime": 40.176,
+        "gloss": "country"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 40.176,
+        "endTime": 40.757,
+        "gloss": "in"
+      },
+      {
+        "word": "欧洲",
+        "pinyin": "ōu zhōu",
+        "startTime": 40.757,
+        "endTime": 41.258,
+        "gloss": "Europe"
+      }
+    ],
+    "fullTextEN": "This country is in Europe,"
+  },
+  {
+    "startTime": 45.433,
+    "endTime": 47.7,
+    "fullTextZH": "不在亚洲，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 45.573,
+        "endTime": 46.115,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 46.115,
+        "endTime": 46.837,
+        "gloss": "in"
+      },
+      {
+        "word": "亚洲",
+        "pinyin": "yà zhōu",
+        "startTime": 46.837,
+        "endTime": 47.66,
+        "gloss": "Asia"
+      }
+    ],
+    "fullTextEN": "not in Asia,"
+  },
+  {
+    "startTime": 48.1,
+    "endTime": 53.033,
+    "fullTextZH": "不在美洲，在欧洲。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 48.22,
+        "endTime": 48.782,
+        "gloss": "not"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 48.782,
+        "endTime": 49.423,
+        "gloss": "in"
+      },
+      {
+        "word": "美洲",
+        "pinyin": "měi zhōu",
+        "startTime": 49.423,
+        "endTime": 50.065,
+        "gloss": "America"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 50.807,
+        "endTime": 52.03,
+        "gloss": "in"
+      },
+      {
+        "word": "欧洲",
+        "pinyin": "ōu zhōu",
+        "startTime": 52.03,
+        "endTime": 52.993,
+        "gloss": "Europe"
+      }
+    ],
+    "fullTextEN": "not in America, in Europe."
+  },
+  {
+    "startTime": 55.066,
+    "endTime": 56.3,
+    "fullTextZH": "第二个：",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 55.167,
+        "endTime": 56.26,
+        "gloss": "second one"
+      }
+    ],
+    "fullTextEN": "Second one:"
+  },
+  {
+    "startTime": 57.1,
+    "endTime": 62.366,
+    "fullTextZH": "这个国家的天气",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 57.24,
+        "endTime": 57.721,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 57.721,
+        "endTime": 58.341,
+        "gloss": "country"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 58.341,
+        "endTime": 59.222,
+        "gloss": "of"
+      },
+      {
+        "word": "天气",
+        "pinyin": "tiān qì",
+        "startTime": 59.222,
+        "endTime": 59.823,
+        "gloss": "weather"
+      }
+    ],
+    "fullTextEN": "The weather in this country"
+  },
+  {
+    "startTime": 63.5,
+    "endTime": 65.2,
+    "fullTextZH": "很舒服，",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 63.642,
+        "endTime": 64.148,
+        "gloss": "very"
+      },
+      {
+        "word": "舒服",
+        "pinyin": "shū fú",
+        "startTime": 64.148,
+        "endTime": 65.16,
+        "gloss": "comfortable"
+      }
+    ],
+    "fullTextEN": "is very comfortable,"
+  },
+  {
+    "startTime": 66.0,
+    "endTime": 69.966,
+    "fullTextZH": "不是很热，",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 66.1,
+        "endTime": 68.804,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 68.804,
+        "endTime": 69.125,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 69.125,
+        "endTime": 69.926,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "not very hot,"
+  },
+  {
+    "startTime": 69.966,
+    "endTime": 77.8,
+    "fullTextZH": "也不是很冷。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 72.751,
+        "endTime": 73.292,
+        "gloss": "also"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 73.292,
+        "endTime": 76.518,
+        "gloss": "not"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 76.518,
+        "endTime": 76.918,
+        "gloss": "very"
+      },
+      {
+        "word": "冷",
+        "pinyin": "lěng",
+        "startTime": 76.918,
+        "endTime": 77.74,
+        "gloss": "cold"
+      }
+    ],
+    "fullTextEN": "nor very cold."
+  },
+  {
+    "startTime": 80.033,
+    "endTime": 87.033,
+    "fullTextZH": "这个国家经常“哗哗”下雨。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 80.133,
+        "endTime": 80.534,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 80.534,
+        "endTime": 81.698,
+        "gloss": "country"
+      },
+      {
+        "word": "经常",
+        "pinyin": "jīng cháng",
+        "startTime": 81.698,
+        "endTime": 82.821,
+        "gloss": "often"
+      },
+      {
+        "word": "哗哗",
+        "pinyin": "huā huā",
+        "startTime": 83.864,
+        "endTime": 84.847,
+        "gloss": "splash splash"
+      },
+      {
+        "word": "下雨",
+        "pinyin": "xià yǔ",
+        "startTime": 85.589,
+        "endTime": 86.993,
+        "gloss": "rain"
+      }
+    ],
+    "fullTextEN": "It often rains 'splash splash' in this country."
+  },
+  {
+    "startTime": 88.1,
+    "endTime": 90.0,
+    "fullTextZH": "第三个：",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 88.201,
+        "endTime": 89.919,
+        "gloss": "third one"
+      }
+    ],
+    "fullTextEN": "Third one:"
+  },
+  {
+    "startTime": 90.0,
+    "endTime": 94.433,
+    "fullTextZH": "这个国家说三种——",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 90.0,
+        "endTime": 90.441,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 90.441,
+        "endTime": 91.685,
+        "gloss": "country"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 91.685,
+        "endTime": 93.651,
+        "gloss": "speak"
+      },
+      {
+        "word": "三种",
+        "pinyin": "sān zhǒng",
+        "startTime": 93.651,
+        "endTime": 94.393,
+        "gloss": "three kinds"
+      }
+    ],
+    "fullTextEN": "This country speaks three—"
+  },
+  {
+    "startTime": 94.8,
+    "endTime": 96.966,
+    "fullTextZH": "一、二、三——",
+    "words": [
+      {
+        "word": "一",
+        "pinyin": "yī",
+        "startTime": 94.88,
+        "endTime": 94.9,
+        "gloss": "one"
+      },
+      {
+        "word": "二",
+        "pinyin": "èr",
+        "startTime": 95.823,
+        "endTime": 96.063,
+        "gloss": "two"
+      },
+      {
+        "word": "三",
+        "pinyin": "sān",
+        "startTime": 96.745,
+        "endTime": 96.926,
+        "gloss": "three"
+      }
+    ],
+    "fullTextEN": "One, two, three—"
+  },
+  {
+    "startTime": 96.966,
+    "endTime": 99.866,
+    "fullTextZH": "三种语言。",
+    "words": [
+      {
+        "word": "三种",
+        "pinyin": "sān zhǒng",
+        "startTime": 97.772,
+        "endTime": 98.859,
+        "gloss": "three kinds"
+      },
+      {
+        "word": "语言",
+        "pinyin": "yǔ yán",
+        "startTime": 98.859,
+        "endTime": 99.846,
+        "gloss": "language"
+      }
+    ],
+    "fullTextEN": "Three languages."
+  },
+  {
+    "startTime": 101.466,
+    "endTime": 104.7,
+    "fullTextZH": "他们说荷兰语、",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 101.546,
+        "endTime": 102.069,
+        "gloss": "they"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 102.069,
+        "endTime": 103.856,
+        "gloss": "speak"
+      },
+      {
+        "word": "荷兰语",
+        "pinyin": "hé lán yǔ",
+        "startTime": 103.856,
+        "endTime": 104.66,
+        "gloss": "Dutch"
+      }
+    ],
+    "fullTextEN": "They speak Dutch,"
+  },
+  {
+    "startTime": 106.233,
+    "endTime": 109.4,
+    "fullTextZH": "德语和法语。",
+    "words": [
+      {
+        "word": "德语",
+        "pinyin": "dé yǔ",
+        "startTime": 106.273,
+        "endTime": 107.335,
+        "gloss": "German"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 107.335,
+        "endTime": 108.678,
+        "gloss": "and"
+      },
+      {
+        "word": "法语",
+        "pinyin": "fǎ yǔ",
+        "startTime": 108.678,
+        "endTime": 109.36,
+        "gloss": "French"
+      }
+    ],
+    "fullTextEN": "German and French."
+  },
+  {
+    "startTime": 111.066,
+    "endTime": 112.233,
+    "fullTextZH": "第四个：",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 111.126,
+        "endTime": 112.193,
+        "gloss": "fourth"
+      }
+    ],
+    "fullTextEN": "Fourth:"
+  },
+  {
+    "startTime": 112.966,
+    "endTime": 118.966,
+    "fullTextZH": "这个国家的巧克力很有名，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 113.066,
+        "endTime": 113.608,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 113.608,
+        "endTime": 114.331,
+        "gloss": "country"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 114.331,
+        "endTime": 115.494,
+        "gloss": "of"
+      },
+      {
+        "word": "巧克力",
+        "pinyin": "qiǎo kè lì",
+        "startTime": 115.494,
+        "endTime": 117.461,
+        "gloss": "chocolate"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 117.461,
+        "endTime": 118.103,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 118.103,
+        "endTime": 118.946,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "The chocolate of this country is very famous,"
+  },
+  {
+    "startTime": 120.033,
+    "endTime": 123.266,
+    "fullTextZH": "很好吃。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 121.74,
+        "endTime": 122.202,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 122.202,
+        "endTime": 123.045,
+        "gloss": "delicious"
+      }
+    ],
+    "fullTextEN": "very delicious."
+  },
+  {
+    "startTime": 123.466,
+    "endTime": 126.8,
+    "fullTextZH": "我很喜欢。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 123.707,
+        "endTime": 125.053,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 125.053,
+        "endTime": 125.715,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 125.715,
+        "endTime": 126.76,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I like it very much."
+  },
+  {
+    "startTime": 127.9,
+    "endTime": 129.1,
+    "fullTextZH": "这个国家",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 128.002,
+        "endTime": 128.408,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 128.408,
+        "endTime": 128.734,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "This country"
+  },
+  {
+    "startTime": 129.1,
+    "endTime": 136.033,
+    "fullTextZH": "有非常非常多的啤酒。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 129.381,
+        "endTime": 130.743,
+        "gloss": "has"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 130.743,
+        "endTime": 131.945,
+        "gloss": "very"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 131.945,
+        "endTime": 132.707,
+        "gloss": "very"
+      },
+      {
+        "word": "多",
+        "pinyin": "duō",
+        "startTime": 132.707,
+        "endTime": 133.148,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 133.148,
+        "endTime": 134.61,
+        "gloss": "of"
+      },
+      {
+        "word": "啤酒",
+        "pinyin": "pí jiǔ",
+        "startTime": 134.61,
+        "endTime": 135.993,
+        "gloss": "beer"
+      }
+    ],
+    "fullTextEN": "has a lot of beer."
+  },
+  {
+    "startTime": 137.866,
+    "endTime": 139.066,
+    "fullTextZH": "第五个：",
+    "words": [
+      {
+        "word": "第五个",
+        "pinyin": "dì wǔ gè",
+        "startTime": 137.947,
+        "endTime": 139.025,
+        "gloss": "fifth"
+      }
+    ],
+    "fullTextEN": "Fifth:"
+  },
+  {
+    "startTime": 139.833,
+    "endTime": 144.8,
+    "fullTextZH": "这个国家很小，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 139.953,
+        "endTime": 140.514,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 140.514,
+        "endTime": 143.017,
+        "gloss": "country"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 143.017,
+        "endTime": 144.76,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "This country is very small,"
+  },
+  {
+    "startTime": 145.466,
+    "endTime": 148.866,
+    "fullTextZH": "不是很大。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 145.546,
+        "endTime": 147.438,
+        "gloss": "not"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 147.438,
+        "endTime": 148.846,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "not very big."
+  },
+  {
+    "startTime": 149.033,
+    "endTime": 156.4,
+    "fullTextZH": "我没去过这个国家。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 149.373,
+        "endTime": 150.655,
+        "gloss": "I"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 150.655,
+        "endTime": 151.515,
+        "gloss": "not"
+      },
+      {
+        "word": "去过",
+        "pinyin": "qù guò",
+        "startTime": 151.515,
+        "endTime": 152.016,
+        "gloss": "been to"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 152.016,
+        "endTime": 152.056,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 152.056,
+        "endTime": 152.536,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "I have not been to this country."
+  },
+  {
+    "startTime": 157.833,
+    "endTime": 159.066,
+    "fullTextZH": "第六个：",
+    "words": [
+      {
+        "word": "第六个",
+        "pinyin": "dì liù gè",
+        "startTime": 157.934,
+        "endTime": 159.026,
+        "gloss": "sixth"
+      }
+    ],
+    "fullTextEN": "Sixth:"
+  },
+  {
+    "startTime": 159.633,
+    "endTime": 167.666,
+    "fullTextZH": "这个国家有一个拍照的地方，",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 159.733,
+        "endTime": 160.194,
+        "gloss": "this"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 160.194,
+        "endTime": 161.055,
+        "gloss": "country"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 161.055,
+        "endTime": 161.456,
+        "gloss": "has"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 161.456,
+        "endTime": 165.142,
+        "gloss": "a"
+      },
+      {
+        "word": "拍照",
+        "pinyin": "pāi zhào",
+        "startTime": 165.142,
+        "endTime": 166.224,
+        "gloss": "take photo"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 166.224,
+        "endTime": 166.765,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 166.765,
+        "endTime": 167.626,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "This country has a place for taking photos,"
+  },
+  {
+    "startTime": 168.5,
+    "endTime": 173.4,
+    "fullTextZH": "很多很多人知道——",
+    "words": [
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 168.741,
+        "endTime": 170.287,
+        "gloss": "many many"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 170.287,
+        "endTime": 171.211,
+        "gloss": "people"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 171.211,
+        "endTime": 171.753,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "many, many people know it—"
+  },
+  {
+    "startTime": 173.4,
+    "endTime": 177.233,
+    "fullTextZH": "是这个地方。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 173.4,
+        "endTime": 175.648,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 175.648,
+        "endTime": 176.41,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 176.41,
+        "endTime": 177.193,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "it's this place."
+  },
+  {
+    "startTime": 178.433,
+    "endTime": 182.866,
+    "fullTextZH": "你知道是哪个国家吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 178.553,
+        "endTime": 179.416,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 179.416,
+        "endTime": 180.579,
+        "gloss": "know"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 180.579,
+        "endTime": 180.98,
+        "gloss": "is"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 180.98,
+        "endTime": 181.763,
+        "gloss": "which"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 181.763,
+        "endTime": 182.324,
+        "gloss": "country"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 182.324,
+        "endTime": 182.826,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you know which country it is?"
+  },
+  {
+    "startTime": 183.633,
+    "endTime": 186.633,
+    "fullTextZH": "欢迎留言告诉我。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 183.814,
+        "endTime": 184.479,
+        "gloss": "welcome"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 184.479,
+        "endTime": 185.485,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 185.485,
+        "endTime": 186.049,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 186.049,
+        "endTime": 186.069,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment and tell me."
+  },
+  {
+    "startTime": 187.033,
+    "endTime": 192.5,
+    "fullTextZH": "我会告诉你是哪个国家。",
+    "words": [
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 187.293,
+        "endTime": 188.535,
+        "gloss": "I will"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 188.535,
+        "endTime": 189.436,
+        "gloss": "tell"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 189.436,
+        "endTime": 190.457,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 190.457,
+        "endTime": 190.858,
+        "gloss": "is"
+      },
+      {
+        "word": "哪个",
+        "pinyin": "nǎ ge",
+        "startTime": 190.858,
+        "endTime": 191.699,
+        "gloss": "which"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 191.699,
+        "endTime": 192.46,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "I will tell you which country it is."
+  },
+  {
+    "startTime": 193.3,
+    "endTime": 194.966,
+    "fullTextZH": "我是蔚萱。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 193.42,
+        "endTime": 193.802,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 193.802,
+        "endTime": 194.103,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 194.103,
+        "endTime": 194.344,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 194.344,
+        "endTime": 194.926,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 195.066,
+    "endTime": 199.233,
+    "fullTextZH": "我们下次再见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 195.186,
+        "endTime": 195.807,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 195.807,
+        "endTime": 196.508,
+        "gloss": "next time"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 196.508,
+        "endTime": 197.129,
+        "gloss": "see again"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 197.911,
+        "endTime": 199.193,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

@@ -1,0 +1,4648 @@
+[
+  {
+    "startTime": 0.3,
+    "endTime": 3.033,
+    "fullTextZH": "我有多少斤",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 0.38,
+        "endTime": 0.622,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 0.622,
+        "endTime": 0.903,
+        "gloss": "have"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 0.903,
+        "endTime": 2.39,
+        "gloss": "how many"
+      },
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 2.39,
+        "endTime": 2.41,
+        "gloss": "jin"
+      }
+    ],
+    "fullTextEN": "How many jin do I weigh?"
+  },
+  {
+    "startTime": 4.333,
+    "endTime": 6.666,
+    "fullTextZH": "150斤吗",
+    "words": [
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 5.962,
+        "endTime": 6.183,
+        "gloss": "jin"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 6.183,
+        "endTime": 6.203,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "150 jin?"
+  },
+  {
+    "startTime": 6.666,
+    "endTime": 9.533,
+    "fullTextZH": "我看起来多高",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 7.087,
+        "endTime": 7.328,
+        "gloss": "I"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 7.328,
+        "endTime": 8.651,
+        "gloss": "look"
+      },
+      {
+        "word": "多高",
+        "pinyin": "duō gāo",
+        "startTime": 8.651,
+        "endTime": 8.992,
+        "gloss": "how tall"
+      }
+    ],
+    "fullTextEN": "How tall do I look?"
+  },
+  {
+    "startTime": 10.833,
+    "endTime": 14.666,
+    "fullTextZH": "一米四还是一米五",
+    "words": [
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 10.913,
+        "endTime": 11.375,
+        "gloss": "one meter"
+      },
+      {
+        "word": "四",
+        "pinyin": "sì",
+        "startTime": 11.375,
+        "endTime": 12.479,
+        "gloss": "four"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 12.479,
+        "endTime": 13.321,
+        "gloss": "or"
+      },
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 13.321,
+        "endTime": 13.923,
+        "gloss": "one meter"
+      },
+      {
+        "word": "五",
+        "pinyin": "wǔ",
+        "startTime": 13.923,
+        "endTime": 13.944,
+        "gloss": "five"
+      }
+    ],
+    "fullTextEN": "1.4 meters or 1.5 meters?"
+  },
+  {
+    "startTime": 15.066,
+    "endTime": 17.433,
+    "fullTextZH": "我还没准备好",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 15.226,
+        "endTime": 15.487,
+        "gloss": "I"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 15.487,
+        "endTime": 15.768,
+        "gloss": "still"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 15.768,
+        "endTime": 16.029,
+        "gloss": "not"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 16.029,
+        "endTime": 16.611,
+        "gloss": "prepared"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 16.611,
+        "endTime": 16.631,
+        "gloss": "ready"
+      }
+    ],
+    "fullTextEN": "I'm not ready yet."
+  },
+  {
+    "startTime": 18.266,
+    "endTime": 19.733,
+    "fullTextZH": "我很生气",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 18.366,
+        "endTime": 18.527,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 18.527,
+        "endTime": 18.788,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 18.788,
+        "endTime": 19.19,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "I am very angry."
+  },
+  {
+    "startTime": 19.866,
+    "endTime": 22.366,
+    "fullTextZH": "大家好我是Sarina",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 19.947,
+        "endTime": 20.249,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 20.249,
+        "endTime": 21.277,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 21.277,
+        "endTime": 21.519,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 21.519,
+        "endTime": 21.862,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "Hello everyone, I am Sarina."
+  },
+  {
+    "startTime": 24.3,
+    "endTime": 26.333,
+    "fullTextZH": "这是我的照片",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 24.381,
+        "endTime": 24.642,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 24.642,
+        "endTime": 25.266,
+        "gloss": "is"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 25.266,
+        "endTime": 25.407,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 25.407,
+        "endTime": 25.548,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 25.548,
+        "endTime": 25.81,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "This is my photo."
+  },
+  {
+    "startTime": 27.233,
+    "endTime": 30.266,
+    "fullTextZH": "我在一个饭馆吃饭",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 27.313,
+        "endTime": 27.534,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 27.534,
+        "endTime": 28.097,
+        "gloss": "at"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 28.097,
+        "endTime": 28.438,
+        "gloss": "a"
+      },
+      {
+        "word": "饭馆",
+        "pinyin": "fàn guǎn",
+        "startTime": 28.438,
+        "endTime": 29.382,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 29.382,
+        "endTime": 29.764,
+        "gloss": "eat"
+      }
+    ],
+    "fullTextEN": "I am eating at a restaurant."
+  },
+  {
+    "startTime": 31.5,
+    "endTime": 34.2,
+    "fullTextZH": "我看起来开心吗",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 31.601,
+        "endTime": 31.782,
+        "gloss": "I"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 31.782,
+        "endTime": 33.132,
+        "gloss": "look"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 33.132,
+        "endTime": 33.676,
+        "gloss": "happy"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 33.676,
+        "endTime": 33.696,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I look happy?"
+  },
+  {
+    "startTime": 35.433,
+    "endTime": 37.733,
+    "fullTextZH": "对不开心",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 35.514,
+        "endTime": 36.583,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 36.583,
+        "endTime": 36.825,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 36.825,
+        "endTime": 37.188,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "No, not happy."
+  },
+  {
+    "startTime": 39.1,
+    "endTime": 43.533,
+    "fullTextZH": "因为这个饭馆的饭不好吃吗",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 39.16,
+        "endTime": 40.043,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 40.043,
+        "endTime": 40.624,
+        "gloss": "this"
+      },
+      {
+        "word": "饭馆",
+        "pinyin": "fàn guǎn",
+        "startTime": 40.624,
+        "endTime": 41.106,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 41.106,
+        "endTime": 41.567,
+        "gloss": "of"
+      },
+      {
+        "word": "饭",
+        "pinyin": "fàn",
+        "startTime": 41.567,
+        "endTime": 42.49,
+        "gloss": "food"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 42.49,
+        "endTime": 42.61,
+        "gloss": "not"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 42.61,
+        "endTime": 43.132,
+        "gloss": "tasty"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 43.132,
+        "endTime": 43.152,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it because the food at this restaurant is not tasty?"
+  },
+  {
+    "startTime": 44.833,
+    "endTime": 45.633,
+    "fullTextZH": "不是",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 44.874,
+        "endTime": 45.141,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No."
+  },
+  {
+    "startTime": 46.666,
+    "endTime": 51.233,
+    "fullTextZH": "这个饭馆是长沙很有名的饭馆",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 46.726,
+        "endTime": 47.047,
+        "gloss": "this"
+      },
+      {
+        "word": "饭馆",
+        "pinyin": "fàn guǎn",
+        "startTime": 47.047,
+        "endTime": 47.868,
+        "gloss": "restaurant"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 47.868,
+        "endTime": 48.168,
+        "gloss": "is"
+      },
+      {
+        "word": "长沙",
+        "pinyin": "cháng shā",
+        "startTime": 48.168,
+        "endTime": 49.15,
+        "gloss": "Changsha"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 49.15,
+        "endTime": 49.631,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 49.631,
+        "endTime": 50.091,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 50.091,
+        "endTime": 50.612,
+        "gloss": "of"
+      },
+      {
+        "word": "饭馆",
+        "pinyin": "fàn guǎn",
+        "startTime": 50.612,
+        "endTime": 50.872,
+        "gloss": "restaurant"
+      }
+    ],
+    "fullTextEN": "This restaurant is a very famous restaurant in Changsha."
+  },
+  {
+    "startTime": 51.6,
+    "endTime": 53.5,
+    "fullTextZH": "所以很好吃",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 51.762,
+        "endTime": 52.469,
+        "gloss": "so"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 52.469,
+        "endTime": 52.732,
+        "gloss": "very"
+      },
+      {
+        "word": "好吃",
+        "pinyin": "hǎo chī",
+        "startTime": 52.732,
+        "endTime": 53.035,
+        "gloss": "tasty"
+      }
+    ],
+    "fullTextEN": "So it's very tasty."
+  },
+  {
+    "startTime": 55.2,
+    "endTime": 57.4,
+    "fullTextZH": "我为什么不开心",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 55.281,
+        "endTime": 55.725,
+        "gloss": "I"
+      },
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 55.725,
+        "endTime": 56.391,
+        "gloss": "why"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 56.391,
+        "endTime": 56.552,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 56.552,
+        "endTime": 56.855,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "Why am I unhappy?"
+  },
+  {
+    "startTime": 58.3,
+    "endTime": 60.866,
+    "fullTextZH": "因为我的老公",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 58.4,
+        "endTime": 59.703,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 59.703,
+        "endTime": 59.884,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 59.884,
+        "endTime": 60.044,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 60.044,
+        "endTime": 60.365,
+        "gloss": "husband"
+      }
+    ],
+    "fullTextEN": "Because of my husband."
+  },
+  {
+    "startTime": 62.0,
+    "endTime": 63.3,
+    "fullTextZH": "他做了什么",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 62.061,
+        "endTime": 62.345,
+        "gloss": "he"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 62.345,
+        "endTime": 62.528,
+        "gloss": "do"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 62.528,
+        "endTime": 62.67,
+        "gloss": "completed"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 62.67,
+        "endTime": 62.914,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What did he do?"
+  },
+  {
+    "startTime": 64.3,
+    "endTime": 68.3,
+    "fullTextZH": "他给我拍了这张照片",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 64.36,
+        "endTime": 65.184,
+        "gloss": "he"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 65.184,
+        "endTime": 65.385,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 65.385,
+        "endTime": 65.627,
+        "gloss": "me"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 65.627,
+        "endTime": 65.988,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 65.988,
+        "endTime": 66.933,
+        "gloss": "completed"
+      },
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 66.933,
+        "endTime": 67.556,
+        "gloss": "this"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 67.556,
+        "endTime": 67.838,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "He took this photo of me."
+  },
+  {
+    "startTime": 70.833,
+    "endTime": 72.333,
+    "fullTextZH": "在照片里",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 70.934,
+        "endTime": 71.38,
+        "gloss": "in"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 71.38,
+        "endTime": 71.887,
+        "gloss": "photo"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 71.887,
+        "endTime": 71.907,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "In the photo."
+  },
+  {
+    "startTime": 73.0,
+    "endTime": 75.6,
+    "fullTextZH": "我看起来胖吗",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 73.04,
+        "endTime": 73.222,
+        "gloss": "I"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 73.222,
+        "endTime": 74.774,
+        "gloss": "look"
+      },
+      {
+        "word": "胖",
+        "pinyin": "pàng",
+        "startTime": 74.774,
+        "endTime": 75.096,
+        "gloss": "fat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 75.096,
+        "endTime": 75.116,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I look fat?"
+  },
+  {
+    "startTime": 76.7,
+    "endTime": 79.5,
+    "fullTextZH": "我有多少斤",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 76.821,
+        "endTime": 77.063,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 77.063,
+        "endTime": 77.345,
+        "gloss": "have"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 77.345,
+        "endTime": 78.835,
+        "gloss": "how many"
+      },
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 78.835,
+        "endTime": 78.855,
+        "gloss": "jin"
+      }
+    ],
+    "fullTextEN": "How many jin do I weigh?"
+  },
+  {
+    "startTime": 80.8,
+    "endTime": 85.7,
+    "fullTextZH": "150斤吗还是200斤",
+    "words": [
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 82.386,
+        "endTime": 82.607,
+        "gloss": "jin"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 82.607,
+        "endTime": 83.591,
+        "gloss": "question"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 83.591,
+        "endTime": 84.515,
+        "gloss": "or"
+      },
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 85.057,
+        "endTime": 85.077,
+        "gloss": "jin"
+      }
+    ],
+    "fullTextEN": "150 jin or 200 jin?"
+  },
+  {
+    "startTime": 87.033,
+    "endTime": 89.666,
+    "fullTextZH": "我看起来多高",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 87.133,
+        "endTime": 87.375,
+        "gloss": "I"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 87.375,
+        "endTime": 88.701,
+        "gloss": "look"
+      },
+      {
+        "word": "多高",
+        "pinyin": "duō gāo",
+        "startTime": 88.701,
+        "endTime": 89.043,
+        "gloss": "how tall"
+      }
+    ],
+    "fullTextEN": "How tall do I look?"
+  },
+  {
+    "startTime": 90.866,
+    "endTime": 94.666,
+    "fullTextZH": "一米4 还是一米5",
+    "words": [
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 90.967,
+        "endTime": 91.409,
+        "gloss": "one meter"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 92.535,
+        "endTime": 93.359,
+        "gloss": "or"
+      },
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 93.359,
+        "endTime": 93.982,
+        "gloss": "one meter"
+      }
+    ],
+    "fullTextEN": "1.4 meters or 1.5 meters?"
+  },
+  {
+    "startTime": 96.133,
+    "endTime": 100.166,
+    "fullTextZH": "其实我一米7",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 96.294,
+        "endTime": 97.558,
+        "gloss": "actually"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 97.558,
+        "endTime": 98.2,
+        "gloss": "I"
+      },
+      {
+        "word": "一米",
+        "pinyin": "yī mǐ",
+        "startTime": 98.2,
+        "endTime": 99.143,
+        "gloss": "one meter"
+      }
+    ],
+    "fullTextEN": "Actually, I'm 1.7 meters."
+  },
+  {
+    "startTime": 100.166,
+    "endTime": 102.866,
+    "fullTextZH": "110斤",
+    "words": [
+      {
+        "word": "斤",
+        "pinyin": "jīn",
+        "startTime": 101.959,
+        "endTime": 101.979,
+        "gloss": "jin"
+      }
+    ],
+    "fullTextEN": "110 jin"
+  },
+  {
+    "startTime": 104.1,
+    "endTime": 107.0,
+    "fullTextZH": "但是在照片里",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 104.181,
+        "endTime": 105.711,
+        "gloss": "but"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 105.711,
+        "endTime": 105.973,
+        "gloss": "in"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 105.973,
+        "endTime": 106.497,
+        "gloss": "photo"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 106.497,
+        "endTime": 106.517,
+        "gloss": "in"
+      }
+    ],
+    "fullTextEN": "But in the photo"
+  },
+  {
+    "startTime": 107.0,
+    "endTime": 110.5,
+    "fullTextZH": "我又胖又矮",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 107.101,
+        "endTime": 107.885,
+        "gloss": "I"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 107.885,
+        "endTime": 108.509,
+        "gloss": "both"
+      },
+      {
+        "word": "胖",
+        "pinyin": "pàng",
+        "startTime": 108.509,
+        "endTime": 109.374,
+        "gloss": "fat"
+      },
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 109.374,
+        "endTime": 109.816,
+        "gloss": "and"
+      },
+      {
+        "word": "矮",
+        "pinyin": "ǎi",
+        "startTime": 109.816,
+        "endTime": 109.836,
+        "gloss": "short"
+      }
+    ],
+    "fullTextEN": "I look both fat and short."
+  },
+  {
+    "startTime": 111.433,
+    "endTime": 114.666,
+    "fullTextZH": "我的老公拍照不好",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 111.493,
+        "endTime": 111.634,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 111.634,
+        "endTime": 111.754,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 111.754,
+        "endTime": 112.558,
+        "gloss": "husband"
+      },
+      {
+        "word": "拍照",
+        "pinyin": "pāi zhào",
+        "startTime": 112.558,
+        "endTime": 113.983,
+        "gloss": "take photos"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 113.983,
+        "endTime": 114.224,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "My husband takes bad photos."
+  },
+  {
+    "startTime": 115.2,
+    "endTime": 116.3,
+    "fullTextZH": "很丑",
+    "words": [
+      {
+        "word": "很丑",
+        "pinyin": "hěn chǒu",
+        "startTime": 115.241,
+        "endTime": 115.791,
+        "gloss": "very ugly"
+      }
+    ],
+    "fullTextEN": "Very ugly"
+  },
+  {
+    "startTime": 116.3,
+    "endTime": 119.633,
+    "fullTextZH": "所以我很生气",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 117.324,
+        "endTime": 118.288,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 118.288,
+        "endTime": 118.529,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 118.529,
+        "endTime": 118.77,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 118.77,
+        "endTime": 119.151,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So I'm very angry."
+  },
+  {
+    "startTime": 120.0,
+    "endTime": 122.933,
+    "fullTextZH": "我和他吵架了",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 120.121,
+        "endTime": 120.321,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 120.321,
+        "endTime": 120.522,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 120.522,
+        "endTime": 121.567,
+        "gloss": "him"
+      },
+      {
+        "word": "吵架",
+        "pinyin": "chǎo jià",
+        "startTime": 121.567,
+        "endTime": 122.29,
+        "gloss": "argue"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 122.29,
+        "endTime": 122.31,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "I argued with him."
+  },
+  {
+    "startTime": 124.4,
+    "endTime": 127.833,
+    "fullTextZH": "可能你会觉得很奇怪",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 124.5,
+        "endTime": 125.544,
+        "gloss": "maybe"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 125.544,
+        "endTime": 125.745,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 125.745,
+        "endTime": 125.966,
+        "gloss": "will"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 125.966,
+        "endTime": 126.488,
+        "gloss": "think"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 126.488,
+        "endTime": 126.95,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 126.95,
+        "endTime": 127.291,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "Maybe you find it strange."
+  },
+  {
+    "startTime": 128.866,
+    "endTime": 133.7,
+    "fullTextZH": "因为一张照片我们就吵架了吗",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 128.946,
+        "endTime": 129.488,
+        "gloss": "because"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 129.488,
+        "endTime": 130.13,
+        "gloss": "one"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 130.13,
+        "endTime": 131.474,
+        "gloss": "photo"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 131.474,
+        "endTime": 131.855,
+        "gloss": "we"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 131.855,
+        "endTime": 132.236,
+        "gloss": "just"
+      },
+      {
+        "word": "吵架",
+        "pinyin": "chǎo jià",
+        "startTime": 132.236,
+        "endTime": 133.078,
+        "gloss": "argue"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 133.078,
+        "endTime": 133.199,
+        "gloss": "past"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 133.199,
+        "endTime": 133.219,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Did we argue over just one photo?"
+  },
+  {
+    "startTime": 134.9,
+    "endTime": 136.0,
+    "fullTextZH": "不",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 134.981,
+        "endTime": 135.002,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No"
+  },
+  {
+    "startTime": 136.866,
+    "endTime": 137.7,
+    "fullTextZH": "你看",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 136.927,
+        "endTime": 137.171,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 137.171,
+        "endTime": 137.191,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look"
+  },
+  {
+    "startTime": 139.5,
+    "endTime": 142.2,
+    "fullTextZH": "2016年的时候",
+    "words": [
+      {
+        "word": "年",
+        "pinyin": "nián",
+        "startTime": 141.092,
+        "endTime": 141.354,
+        "gloss": "year"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 141.354,
+        "endTime": 141.555,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 141.555,
+        "endTime": 141.777,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "In 2016"
+  },
+  {
+    "startTime": 143.033,
+    "endTime": 145.333,
+    "fullTextZH": "我们住在北京",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 143.073,
+        "endTime": 143.8,
+        "gloss": "we"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 143.8,
+        "endTime": 144.062,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 144.062,
+        "endTime": 144.465,
+        "gloss": "in"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 144.465,
+        "endTime": 144.788,
+        "gloss": "Beijing"
+      }
+    ],
+    "fullTextEN": "We lived in Beijing."
+  },
+  {
+    "startTime": 146.6,
+    "endTime": 151.333,
+    "fullTextZH": "我们去北京很有名的景点玩儿",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 146.78,
+        "endTime": 147.262,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 147.262,
+        "endTime": 147.823,
+        "gloss": "go"
+      },
+      {
+        "word": "北京",
+        "pinyin": "běi jīng",
+        "startTime": 147.823,
+        "endTime": 148.746,
+        "gloss": "Beijing"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 148.746,
+        "endTime": 148.987,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 148.987,
+        "endTime": 149.388,
+        "gloss": "famous"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 149.388,
+        "endTime": 149.608,
+        "gloss": "of"
+      },
+      {
+        "word": "景点",
+        "pinyin": "jǐng diǎn",
+        "startTime": 149.608,
+        "endTime": 150.771,
+        "gloss": "scenic spots"
+      },
+      {
+        "word": "玩儿",
+        "pinyin": "wán ér",
+        "startTime": 150.771,
+        "endTime": 150.952,
+        "gloss": "play"
+      }
+    ],
+    "fullTextEN": "We went to famous places in Beijing."
+  },
+  {
+    "startTime": 152.266,
+    "endTime": 157.533,
+    "fullTextZH": "景点就是旅行的时候游客去的地方",
+    "words": [
+      {
+        "word": "景点",
+        "pinyin": "jǐng diǎn",
+        "startTime": 152.346,
+        "endTime": 153.267,
+        "gloss": "attraction"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 153.267,
+        "endTime": 154.088,
+        "gloss": "is"
+      },
+      {
+        "word": "旅行",
+        "pinyin": "lǚ xíng",
+        "startTime": 154.088,
+        "endTime": 154.669,
+        "gloss": "travel"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 154.669,
+        "endTime": 154.829,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 154.829,
+        "endTime": 155.691,
+        "gloss": "time"
+      },
+      {
+        "word": "游客",
+        "pinyin": "yóu kè",
+        "startTime": 155.691,
+        "endTime": 156.612,
+        "gloss": "tourists"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 156.612,
+        "endTime": 156.812,
+        "gloss": "go"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 156.812,
+        "endTime": 156.952,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 156.952,
+        "endTime": 157.193,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "A tourist attraction is a place tourists visit when traveling."
+  },
+  {
+    "startTime": 159.0,
+    "endTime": 163.666,
+    "fullTextZH": "这个地方晚上有很多漂亮的灯",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 159.08,
+        "endTime": 159.32,
+        "gloss": "this"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 159.32,
+        "endTime": 160.282,
+        "gloss": "place"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 160.282,
+        "endTime": 161.223,
+        "gloss": "night"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 161.223,
+        "endTime": 161.443,
+        "gloss": "has"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 161.443,
+        "endTime": 162.264,
+        "gloss": "many"
+      },
+      {
+        "word": "漂亮",
+        "pinyin": "piào liàng",
+        "startTime": 162.264,
+        "endTime": 162.845,
+        "gloss": "beautiful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 162.845,
+        "endTime": 163.125,
+        "gloss": "of"
+      },
+      {
+        "word": "灯",
+        "pinyin": "dēng",
+        "startTime": 163.125,
+        "endTime": 163.145,
+        "gloss": "lights"
+      }
+    ],
+    "fullTextEN": "This place has many beautiful lights at night."
+  },
+  {
+    "startTime": 164.6,
+    "endTime": 169.9,
+    "fullTextZH": "所以我很想拍一张很漂亮的照片",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 164.741,
+        "endTime": 165.503,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 165.503,
+        "endTime": 165.704,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 165.704,
+        "endTime": 166.045,
+        "gloss": "very"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 166.045,
+        "endTime": 166.748,
+        "gloss": "want"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 166.748,
+        "endTime": 167.13,
+        "gloss": "take"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 167.13,
+        "endTime": 167.772,
+        "gloss": "a"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 167.772,
+        "endTime": 169.017,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 169.017,
+        "endTime": 169.157,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 169.157,
+        "endTime": 169.478,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "So I really want to take a very beautiful photo."
+  },
+  {
+    "startTime": 171.233,
+    "endTime": 175.466,
+    "fullTextZH": "我把手机给了我的老公",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 171.293,
+        "endTime": 172.096,
+        "gloss": "I"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 172.096,
+        "endTime": 172.336,
+        "gloss": "give"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 172.336,
+        "endTime": 173.721,
+        "gloss": "phone"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 173.721,
+        "endTime": 174.002,
+        "gloss": "to"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 174.002,
+        "endTime": 174.383,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 174.383,
+        "endTime": 174.563,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 174.563,
+        "endTime": 174.704,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 174.704,
+        "endTime": 174.985,
+        "gloss": "husband"
+      }
+    ],
+    "fullTextEN": "I gave my phone to my husband."
+  },
+  {
+    "startTime": 176.1,
+    "endTime": 179.666,
+    "fullTextZH": "做了一个很美的动作",
+    "words": [
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 176.2,
+        "endTime": 176.441,
+        "gloss": "make"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 176.441,
+        "endTime": 176.601,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 176.601,
+        "endTime": 177.502,
+        "gloss": "a"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 177.502,
+        "endTime": 178.184,
+        "gloss": "very"
+      },
+      {
+        "word": "美的",
+        "pinyin": "měi de",
+        "startTime": 178.184,
+        "endTime": 178.905,
+        "gloss": "beautiful"
+      },
+      {
+        "word": "动作",
+        "pinyin": "dòng zuò",
+        "startTime": 178.905,
+        "endTime": 179.205,
+        "gloss": "pose"
+      }
+    ],
+    "fullTextEN": "Made a very beautiful pose."
+  },
+  {
+    "startTime": 180.633,
+    "endTime": 182.733,
+    "fullTextZH": "但是你看",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 180.714,
+        "endTime": 182.046,
+        "gloss": "but"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 182.046,
+        "endTime": 182.228,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 182.228,
+        "endTime": 182.248,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "But look,"
+  },
+  {
+    "startTime": 183.7,
+    "endTime": 185.933,
+    "fullTextZH": "你能看到我吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 183.78,
+        "endTime": 183.982,
+        "gloss": "you"
+      },
+      {
+        "word": "能",
+        "pinyin": "néng",
+        "startTime": 183.982,
+        "endTime": 184.625,
+        "gloss": "can"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 184.625,
+        "endTime": 185.148,
+        "gloss": "see"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.148,
+        "endTime": 185.39,
+        "gloss": "me"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 185.39,
+        "endTime": 185.41,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Can you see me?"
+  },
+  {
+    "startTime": 187.1,
+    "endTime": 188.066,
+    "fullTextZH": "我不能",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 187.16,
+        "endTime": 187.422,
+        "gloss": "I"
+      },
+      {
+        "word": "不能",
+        "pinyin": "bù néng",
+        "startTime": 187.422,
+        "endTime": 187.623,
+        "gloss": "cannot"
+      }
+    ],
+    "fullTextEN": "I can't."
+  },
+  {
+    "startTime": 188.9,
+    "endTime": 193.1,
+    "fullTextZH": "太黑了什么都看不到",
+    "words": [
+      {
+        "word": "太黑",
+        "pinyin": "tài hēi",
+        "startTime": 189.021,
+        "endTime": 189.764,
+        "gloss": "too dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 189.764,
+        "endTime": 190.749,
+        "gloss": "le"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 190.749,
+        "endTime": 191.291,
+        "gloss": "what"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 191.291,
+        "endTime": 191.533,
+        "gloss": "all"
+      },
+      {
+        "word": "看不到",
+        "pinyin": "kàn bú dào",
+        "startTime": 191.533,
+        "endTime": 192.377,
+        "gloss": "cannot see"
+      }
+    ],
+    "fullTextEN": "It's too dark to see anything."
+  },
+  {
+    "startTime": 194.5,
+    "endTime": 196.866,
+    "fullTextZH": "我有点不开心",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 194.6,
+        "endTime": 194.841,
+        "gloss": "I"
+      },
+      {
+        "word": "有点",
+        "pinyin": "yǒu diǎn",
+        "startTime": 194.841,
+        "endTime": 195.703,
+        "gloss": "a bit"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 195.703,
+        "endTime": 195.843,
+        "gloss": "not"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 195.843,
+        "endTime": 196.224,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "I'm a bit unhappy."
+  },
+  {
+    "startTime": 197.533,
+    "endTime": 200.266,
+    "fullTextZH": "所以我告诉他",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 197.734,
+        "endTime": 198.799,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 198.799,
+        "endTime": 199.261,
+        "gloss": "I"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 199.261,
+        "endTime": 199.703,
+        "gloss": "tell"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 199.703,
+        "endTime": 199.723,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "So I told him,"
+  },
+  {
+    "startTime": 201.233,
+    "endTime": 205.8,
+    "fullTextZH": "如果拍照片的时候很黑",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 201.313,
+        "endTime": 202.535,
+        "gloss": "if"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 202.535,
+        "endTime": 203.336,
+        "gloss": "take photos"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 203.336,
+        "endTime": 203.456,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 203.456,
+        "endTime": 204.298,
+        "gloss": "time"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 204.298,
+        "endTime": 205.099,
+        "gloss": "very"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 205.099,
+        "endTime": 205.119,
+        "gloss": "dark"
+      }
+    ],
+    "fullTextEN": "If it's very dark when taking photos,"
+  },
+  {
+    "startTime": 206.1,
+    "endTime": 207.9,
+    "fullTextZH": "要换一个地方",
+    "words": [
+      {
+        "word": "要换",
+        "pinyin": "yào huàn",
+        "startTime": 206.221,
+        "endTime": 206.97,
+        "gloss": "need change"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 206.97,
+        "endTime": 207.313,
+        "gloss": "a"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 207.313,
+        "endTime": 207.597,
+        "gloss": "place"
+      }
+    ],
+    "fullTextEN": "we need to change to another place."
+  },
+  {
+    "startTime": 208.8,
+    "endTime": 210.1,
+    "fullTextZH": "他回答",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 208.861,
+        "endTime": 209.166,
+        "gloss": "he"
+      },
+      {
+        "word": "回答",
+        "pinyin": "huí dá",
+        "startTime": 209.166,
+        "endTime": 209.389,
+        "gloss": "reply"
+      }
+    ],
+    "fullTextEN": "He replied,"
+  },
+  {
+    "startTime": 210.1,
+    "endTime": 213.133,
+    "fullTextZH": "好的我知道了",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 210.221,
+        "endTime": 210.562,
+        "gloss": "okay"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 210.562,
+        "endTime": 211.506,
+        "gloss": "de"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 211.506,
+        "endTime": 211.787,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 211.787,
+        "endTime": 212.229,
+        "gloss": "know"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 212.229,
+        "endTime": 212.249,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Okay, I got it."
+  },
+  {
+    "startTime": 213.9,
+    "endTime": 217.5,
+    "fullTextZH": "第二天我们去了长城",
+    "words": [
+      {
+        "word": "第二天",
+        "pinyin": "dì èr tiān",
+        "startTime": 213.98,
+        "endTime": 215.227,
+        "gloss": "next day"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 215.227,
+        "endTime": 215.65,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 215.65,
+        "endTime": 215.911,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 215.911,
+        "endTime": 216.454,
+        "gloss": "le"
+      },
+      {
+        "word": "长城",
+        "pinyin": "cháng chéng",
+        "startTime": 216.454,
+        "endTime": 216.897,
+        "gloss": "Great Wall"
+      }
+    ],
+    "fullTextEN": "The next day we went to the Great Wall."
+  },
+  {
+    "startTime": 218.2,
+    "endTime": 221.0,
+    "fullTextZH": "然后有了这张照片",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 218.281,
+        "endTime": 219.227,
+        "gloss": "then"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 219.227,
+        "endTime": 219.429,
+        "gloss": "have"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 219.429,
+        "endTime": 219.872,
+        "gloss": "le"
+      },
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 219.872,
+        "endTime": 220.315,
+        "gloss": "this"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 220.315,
+        "endTime": 220.557,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "Then we got this photo."
+  },
+  {
+    "startTime": 222.466,
+    "endTime": 224.7,
+    "fullTextZH": "这张照片还黑吗",
+    "words": [
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 222.526,
+        "endTime": 222.869,
+        "gloss": "this"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 222.869,
+        "endTime": 223.613,
+        "gloss": "photo"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 223.613,
+        "endTime": 223.875,
+        "gloss": "still"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 223.875,
+        "endTime": 224.197,
+        "gloss": "dark"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 224.197,
+        "endTime": 224.217,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Is this photo still dark?"
+  },
+  {
+    "startTime": 225.833,
+    "endTime": 230.666,
+    "fullTextZH": "对不黑了很亮",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 225.893,
+        "endTime": 226.876,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 226.876,
+        "endTime": 227.137,
+        "gloss": "not"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 227.137,
+        "endTime": 227.477,
+        "gloss": "dark"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 227.477,
+        "endTime": 228.3,
+        "gloss": "le"
+      },
+      {
+        "word": "很亮",
+        "pinyin": "hěn liàng",
+        "startTime": 228.3,
+        "endTime": 230.205,
+        "gloss": "very bright"
+      }
+    ],
+    "fullTextEN": "No, it's not dark, it's very bright."
+  },
+  {
+    "startTime": 232.133,
+    "endTime": 233.933,
+    "fullTextZH": "太亮了",
+    "words": [
+      {
+        "word": "太亮",
+        "pinyin": "tài liàng",
+        "startTime": 232.254,
+        "endTime": 233.205,
+        "gloss": "too bright"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 233.205,
+        "endTime": 233.225,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "It's too bright."
+  },
+  {
+    "startTime": 235.066,
+    "endTime": 240.5,
+    "fullTextZH": "他在长城下面这样给我拍照",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 235.146,
+        "endTime": 235.407,
+        "gloss": "he"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 235.407,
+        "endTime": 235.647,
+        "gloss": "at"
+      },
+      {
+        "word": "长城",
+        "pinyin": "cháng chéng",
+        "startTime": 235.647,
+        "endTime": 236.249,
+        "gloss": "Great Wall"
+      },
+      {
+        "word": "下面",
+        "pinyin": "xià miàn",
+        "startTime": 236.249,
+        "endTime": 237.713,
+        "gloss": "under"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 237.713,
+        "endTime": 239.257,
+        "gloss": "like this"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 239.257,
+        "endTime": 239.417,
+        "gloss": "give"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 239.417,
+        "endTime": 239.618,
+        "gloss": "me"
+      },
+      {
+        "word": "拍照",
+        "pinyin": "pāi zhào",
+        "startTime": 239.618,
+        "endTime": 239.959,
+        "gloss": "take photo"
+      }
+    ],
+    "fullTextEN": "He took a photo of me like this under the Great Wall."
+  },
+  {
+    "startTime": 241.633,
+    "endTime": 244.066,
+    "fullTextZH": "我的脸这么大",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 241.734,
+        "endTime": 241.894,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 241.894,
+        "endTime": 242.015,
+        "gloss": "of"
+      },
+      {
+        "word": "脸",
+        "pinyin": "liǎn",
+        "startTime": 242.015,
+        "endTime": 243.201,
+        "gloss": "face"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 243.201,
+        "endTime": 243.563,
+        "gloss": "so"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 243.563,
+        "endTime": 243.583,
+        "gloss": "big"
+      }
+    ],
+    "fullTextEN": "My face is so big."
+  },
+  {
+    "startTime": 244.8,
+    "endTime": 248.3,
+    "fullTextZH": "我的鼻子像猪鼻子",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 244.88,
+        "endTime": 244.981,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 244.981,
+        "endTime": 245.162,
+        "gloss": "of"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 245.162,
+        "endTime": 246.832,
+        "gloss": "nose"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 246.832,
+        "endTime": 247.274,
+        "gloss": "like"
+      },
+      {
+        "word": "猪",
+        "pinyin": "zhū",
+        "startTime": 247.274,
+        "endTime": 247.596,
+        "gloss": "pig"
+      },
+      {
+        "word": "鼻子",
+        "pinyin": "bí zi",
+        "startTime": 247.596,
+        "endTime": 247.938,
+        "gloss": "nose"
+      }
+    ],
+    "fullTextEN": "My nose looks like a pig's nose."
+  },
+  {
+    "startTime": 249.2,
+    "endTime": 252.266,
+    "fullTextZH": "我的嘴这样",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 249.641,
+        "endTime": 249.741,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 249.741,
+        "endTime": 249.961,
+        "gloss": "of"
+      },
+      {
+        "word": "嘴",
+        "pinyin": "zuǐ",
+        "startTime": 249.961,
+        "endTime": 251.725,
+        "gloss": "mouth"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 251.725,
+        "endTime": 251.885,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "My mouth is like this."
+  },
+  {
+    "startTime": 253.3,
+    "endTime": 255.533,
+    "fullTextZH": "我的手这样",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 253.38,
+        "endTime": 253.501,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 253.501,
+        "endTime": 253.783,
+        "gloss": "of"
+      },
+      {
+        "word": "手",
+        "pinyin": "shǒu",
+        "startTime": 253.783,
+        "endTime": 254.99,
+        "gloss": "hand"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 254.99,
+        "endTime": 255.191,
+        "gloss": "like this"
+      }
+    ],
+    "fullTextEN": "My hand is like this."
+  },
+  {
+    "startTime": 256.4,
+    "endTime": 258.8,
+    "fullTextZH": "我还没准备好",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 256.602,
+        "endTime": 256.864,
+        "gloss": "I"
+      },
+      {
+        "word": "还",
+        "pinyin": "hái",
+        "startTime": 256.864,
+        "endTime": 257.146,
+        "gloss": "still"
+      },
+      {
+        "word": "没",
+        "pinyin": "méi",
+        "startTime": 257.146,
+        "endTime": 257.408,
+        "gloss": "not"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 257.408,
+        "endTime": 257.993,
+        "gloss": "ready"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 257.993,
+        "endTime": 258.013,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "I'm not ready yet."
+  },
+  {
+    "startTime": 259.666,
+    "endTime": 261.033,
+    "fullTextZH": "我很生气",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 259.726,
+        "endTime": 259.907,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 259.907,
+        "endTime": 260.169,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 260.169,
+        "endTime": 260.551,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "I am very angry."
+  },
+  {
+    "startTime": 261.6,
+    "endTime": 263.266,
+    "fullTextZH": "所以我说",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 261.761,
+        "endTime": 262.162,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 262.162,
+        "endTime": 262.483,
+        "gloss": "I"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 262.483,
+        "endTime": 262.503,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "So I said"
+  },
+  {
+    "startTime": 264.266,
+    "endTime": 269.233,
+    "fullTextZH": "下一次你不要这样拍照",
+    "words": [
+      {
+        "word": "下",
+        "pinyin": "xià",
+        "startTime": 264.506,
+        "endTime": 264.807,
+        "gloss": "next"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 264.807,
+        "endTime": 266.008,
+        "gloss": "time"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 266.008,
+        "endTime": 266.509,
+        "gloss": "you"
+      },
+      {
+        "word": "不要",
+        "pinyin": "bú yào",
+        "startTime": 266.509,
+        "endTime": 267.731,
+        "gloss": "don't"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 267.731,
+        "endTime": 268.372,
+        "gloss": "like this"
+      },
+      {
+        "word": "拍照",
+        "pinyin": "pāi zhào",
+        "startTime": 268.372,
+        "endTime": 268.712,
+        "gloss": "take photo"
+      }
+    ],
+    "fullTextEN": "Next time, don't take photos like this."
+  },
+  {
+    "startTime": 269.9,
+    "endTime": 273.866,
+    "fullTextZH": "要等我准备好再拍",
+    "words": [
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 269.96,
+        "endTime": 270.22,
+        "gloss": "need"
+      },
+      {
+        "word": "等",
+        "pinyin": "děng",
+        "startTime": 270.22,
+        "endTime": 270.461,
+        "gloss": "wait"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 270.461,
+        "endTime": 271.162,
+        "gloss": "I"
+      },
+      {
+        "word": "准备",
+        "pinyin": "zhǔn bèi",
+        "startTime": 271.162,
+        "endTime": 271.843,
+        "gloss": "ready"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 271.843,
+        "endTime": 272.905,
+        "gloss": "good"
+      },
+      {
+        "word": "再",
+        "pinyin": "zài",
+        "startTime": 272.905,
+        "endTime": 273.185,
+        "gloss": "again"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 273.185,
+        "endTime": 273.205,
+        "gloss": "take"
+      }
+    ],
+    "fullTextEN": "Wait until I'm ready to take photos."
+  },
+  {
+    "startTime": 274.533,
+    "endTime": 276.533,
+    "fullTextZH": "他点点头",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 274.614,
+        "endTime": 275.422,
+        "gloss": "he"
+      },
+      {
+        "word": "点点头",
+        "pinyin": "diǎn diǎn tóu",
+        "startTime": 275.422,
+        "endTime": 276.048,
+        "gloss": "nod"
+      }
+    ],
+    "fullTextEN": "He nodded."
+  },
+  {
+    "startTime": 277.2,
+    "endTime": 279.733,
+    "fullTextZH": "去年我们在长沙",
+    "words": [
+      {
+        "word": "去年",
+        "pinyin": "qù nián",
+        "startTime": 277.341,
+        "endTime": 278.326,
+        "gloss": "last year"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 278.326,
+        "endTime": 278.627,
+        "gloss": "we"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 278.627,
+        "endTime": 278.848,
+        "gloss": "at"
+      },
+      {
+        "word": "长沙",
+        "pinyin": "cháng shā",
+        "startTime": 278.848,
+        "endTime": 279.23,
+        "gloss": "Changsha"
+      }
+    ],
+    "fullTextEN": "Last year we were in Changsha."
+  },
+  {
+    "startTime": 280.633,
+    "endTime": 283.466,
+    "fullTextZH": "他给我拍了这张照片",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 280.693,
+        "endTime": 280.934,
+        "gloss": "he"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 280.934,
+        "endTime": 281.115,
+        "gloss": "give"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 281.115,
+        "endTime": 281.316,
+        "gloss": "me"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 281.316,
+        "endTime": 281.618,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 281.618,
+        "endTime": 282.321,
+        "gloss": "completed"
+      },
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 282.321,
+        "endTime": 282.763,
+        "gloss": "this"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 282.763,
+        "endTime": 283.004,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "He took this photo of me."
+  },
+  {
+    "startTime": 285.066,
+    "endTime": 288.433,
+    "fullTextZH": "我看起来没有腿",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 285.266,
+        "endTime": 285.487,
+        "gloss": "I"
+      },
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 285.487,
+        "endTime": 287.11,
+        "gloss": "look like"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 287.11,
+        "endTime": 287.691,
+        "gloss": "no"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 287.691,
+        "endTime": 287.712,
+        "gloss": "legs"
+      }
+    ],
+    "fullTextEN": "I look like I have no legs."
+  },
+  {
+    "startTime": 289.0,
+    "endTime": 291.6,
+    "fullTextZH": "我的腿这么短",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 289.06,
+        "endTime": 289.222,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 289.222,
+        "endTime": 289.423,
+        "gloss": "of"
+      },
+      {
+        "word": "腿",
+        "pinyin": "tuǐ",
+        "startTime": 289.423,
+        "endTime": 290.633,
+        "gloss": "legs"
+      },
+      {
+        "word": "这么",
+        "pinyin": "zhè me",
+        "startTime": 290.633,
+        "endTime": 290.975,
+        "gloss": "so"
+      },
+      {
+        "word": "短",
+        "pinyin": "duǎn",
+        "startTime": 290.975,
+        "endTime": 290.995,
+        "gloss": "short"
+      }
+    ],
+    "fullTextEN": "My legs are so short."
+  },
+  {
+    "startTime": 292.733,
+    "endTime": 295.2,
+    "fullTextZH": "我非常生气",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 292.853,
+        "endTime": 293.495,
+        "gloss": "I"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 293.495,
+        "endTime": 294.257,
+        "gloss": "extremely"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 294.257,
+        "endTime": 294.679,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "I am extremely angry."
+  },
+  {
+    "startTime": 295.533,
+    "endTime": 298.3,
+    "fullTextZH": "所以我不想说话",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 295.693,
+        "endTime": 296.395,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 296.395,
+        "endTime": 297.017,
+        "gloss": "I"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 297.017,
+        "endTime": 297.518,
+        "gloss": "don't want"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 297.518,
+        "endTime": 297.839,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "So I don't want to talk."
+  },
+  {
+    "startTime": 299.6,
+    "endTime": 301.333,
+    "fullTextZH": "他和我说话",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 299.681,
+        "endTime": 300.104,
+        "gloss": "he"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 300.104,
+        "endTime": 300.305,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 300.305,
+        "endTime": 300.487,
+        "gloss": "me"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 300.487,
+        "endTime": 300.789,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "He talked to me."
+  },
+  {
+    "startTime": 301.833,
+    "endTime": 302.933,
+    "fullTextZH": "我不说话",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 301.894,
+        "endTime": 302.077,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 302.077,
+        "endTime": 302.281,
+        "gloss": "not"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 302.281,
+        "endTime": 302.546,
+        "gloss": "talk"
+      }
+    ],
+    "fullTextEN": "I don't talk."
+  },
+  {
+    "startTime": 304.233,
+    "endTime": 308.066,
+    "fullTextZH": "他带我去好玩的地方",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 304.293,
+        "endTime": 305.317,
+        "gloss": "he"
+      },
+      {
+        "word": "带我去",
+        "pinyin": "dài wǒ qù",
+        "startTime": 305.317,
+        "endTime": 306.541,
+        "gloss": "take me to"
+      },
+      {
+        "word": "好玩",
+        "pinyin": "hǎo wán",
+        "startTime": 306.541,
+        "endTime": 307.103,
+        "gloss": "fun"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 307.103,
+        "endTime": 307.344,
+        "gloss": "of"
+      },
+      {
+        "word": "地方",
+        "pinyin": "dì fāng",
+        "startTime": 307.344,
+        "endTime": 307.705,
+        "gloss": "places"
+      }
+    ],
+    "fullTextEN": "He took me to fun places."
+  },
+  {
+    "startTime": 308.733,
+    "endTime": 310.3,
+    "fullTextZH": "我也不说话",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 308.813,
+        "endTime": 309.054,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 309.054,
+        "endTime": 309.336,
+        "gloss": "also"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 309.336,
+        "endTime": 309.577,
+        "gloss": "not"
+      },
+      {
+        "word": "说话",
+        "pinyin": "shuō huà",
+        "startTime": 309.577,
+        "endTime": 309.878,
+        "gloss": "speak"
+      }
+    ],
+    "fullTextEN": "I also don't speak."
+  },
+  {
+    "startTime": 311.333,
+    "endTime": 312.866,
+    "fullTextZH": "他很紧张",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 311.434,
+        "endTime": 311.656,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 311.656,
+        "endTime": 312.039,
+        "gloss": "very"
+      },
+      {
+        "word": "紧张",
+        "pinyin": "jǐn zhāng",
+        "startTime": 312.039,
+        "endTime": 312.342,
+        "gloss": "nervous"
+      }
+    ],
+    "fullTextEN": "He is very nervous."
+  },
+  {
+    "startTime": 313.266,
+    "endTime": 319.333,
+    "fullTextZH": "所以晚上他给我买了我最喜欢的吃的",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 313.406,
+        "endTime": 314.247,
+        "gloss": "so"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 314.247,
+        "endTime": 315.288,
+        "gloss": "evening"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 315.288,
+        "endTime": 315.529,
+        "gloss": "he"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 315.529,
+        "endTime": 315.669,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 315.669,
+        "endTime": 315.869,
+        "gloss": "me"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 315.869,
+        "endTime": 316.129,
+        "gloss": "buy"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 316.129,
+        "endTime": 316.65,
+        "gloss": "le"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 316.65,
+        "endTime": 316.93,
+        "gloss": "my"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 316.93,
+        "endTime": 317.371,
+        "gloss": "most"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 317.371,
+        "endTime": 318.011,
+        "gloss": "favorite"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 318.011,
+        "endTime": 318.612,
+        "gloss": "de"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 318.612,
+        "endTime": 318.973,
+        "gloss": "eat"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 318.973,
+        "endTime": 318.993,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "So in the evening, he bought me my favorite food."
+  },
+  {
+    "startTime": 320.1,
+    "endTime": 321.666,
+    "fullTextZH": "好吧",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 320.883,
+        "endTime": 321.144,
+        "gloss": "okay"
+      },
+      {
+        "word": "吧",
+        "pinyin": "ba",
+        "startTime": 321.144,
+        "endTime": 321.164,
+        "gloss": "ba"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 322.033,
+    "endTime": 323.333,
+    "fullTextZH": "我不生气了",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 322.114,
+        "endTime": 322.338,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 322.338,
+        "endTime": 322.48,
+        "gloss": "not"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 322.48,
+        "endTime": 323.008,
+        "gloss": "angry"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 323.008,
+        "endTime": 323.028,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I'm not angry anymore."
+  },
+  {
+    "startTime": 324.2,
+    "endTime": 328.6,
+    "fullTextZH": "现在他很害怕给我拍照片",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 324.381,
+        "endTime": 325.667,
+        "gloss": "now"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 325.667,
+        "endTime": 325.948,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 325.948,
+        "endTime": 326.229,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 326.229,
+        "endTime": 327.153,
+        "gloss": "afraid"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 327.153,
+        "endTime": 327.314,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 327.314,
+        "endTime": 327.535,
+        "gloss": "me"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 327.535,
+        "endTime": 328.118,
+        "gloss": "take photos"
+      }
+    ],
+    "fullTextEN": "Now he is very afraid to take photos of me."
+  },
+  {
+    "startTime": 329.2,
+    "endTime": 333.233,
+    "fullTextZH": "因为他知道自己拍得不好",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 329.26,
+        "endTime": 330.063,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 330.063,
+        "endTime": 330.324,
+        "gloss": "he"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 330.324,
+        "endTime": 330.785,
+        "gloss": "know"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 330.785,
+        "endTime": 331.568,
+        "gloss": "self"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 331.568,
+        "endTime": 331.889,
+        "gloss": "take"
+      },
+      {
+        "word": "得",
+        "pinyin": "dé",
+        "startTime": 331.889,
+        "endTime": 332.25,
+        "gloss": "de"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 332.25,
+        "endTime": 332.571,
+        "gloss": "not good"
+      }
+    ],
+    "fullTextEN": "Because he knows he doesn't take good photos."
+  },
+  {
+    "startTime": 334.066,
+    "endTime": 338.866,
+    "fullTextZH": "但是我每天都和他在一起",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 334.146,
+        "endTime": 335.492,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 335.492,
+        "endTime": 335.833,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 335.833,
+        "endTime": 336.898,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 336.898,
+        "endTime": 337.139,
+        "gloss": "all"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 337.139,
+        "endTime": 337.38,
+        "gloss": "with"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 337.38,
+        "endTime": 337.922,
+        "gloss": "him"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 337.922,
+        "endTime": 338.123,
+        "gloss": "at"
+      },
+      {
+        "word": "一起",
+        "pinyin": "yì qǐ",
+        "startTime": 338.123,
+        "endTime": 338.424,
+        "gloss": "together"
+      }
+    ],
+    "fullTextEN": "But I am with him every day."
+  },
+  {
+    "startTime": 339.666,
+    "endTime": 344.0,
+    "fullTextZH": "只有他可以给我拍照片",
+    "words": [
+      {
+        "word": "只有",
+        "pinyin": "zhǐ yǒu",
+        "startTime": 339.827,
+        "endTime": 340.248,
+        "gloss": "only"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 340.248,
+        "endTime": 341.01,
+        "gloss": "he"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 341.01,
+        "endTime": 342.355,
+        "gloss": "can"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 342.355,
+        "endTime": 342.535,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 342.535,
+        "endTime": 342.836,
+        "gloss": "me"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 342.836,
+        "endTime": 343.498,
+        "gloss": "take photos"
+      }
+    ],
+    "fullTextEN": "Only he can take photos of me."
+  },
+  {
+    "startTime": 345.433,
+    "endTime": 349.733,
+    "fullTextZH": "有的时候他拍了很丑的照片",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 345.513,
+        "endTime": 345.694,
+        "gloss": "have"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 345.694,
+        "endTime": 345.875,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 345.875,
+        "endTime": 346.84,
+        "gloss": "time"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 346.84,
+        "endTime": 347.121,
+        "gloss": "he"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 347.121,
+        "endTime": 347.462,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 347.462,
+        "endTime": 348.146,
+        "gloss": "le"
+      },
+      {
+        "word": "很丑",
+        "pinyin": "hěn chǒu",
+        "startTime": 348.146,
+        "endTime": 348.849,
+        "gloss": "very ugly"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 348.849,
+        "endTime": 348.99,
+        "gloss": "de"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 348.99,
+        "endTime": 349.271,
+        "gloss": "photos"
+      }
+    ],
+    "fullTextEN": "Sometimes he takes very ugly photos."
+  },
+  {
+    "startTime": 350.3,
+    "endTime": 351.8,
+    "fullTextZH": "我很生气",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 350.523,
+        "endTime": 350.726,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 350.726,
+        "endTime": 351.009,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 351.009,
+        "endTime": 351.374,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "I am very angry."
+  },
+  {
+    "startTime": 352.733,
+    "endTime": 357.666,
+    "fullTextZH": "但是他说你和照片里一样啊",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 352.853,
+        "endTime": 353.254,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 353.254,
+        "endTime": 353.555,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 353.555,
+        "endTime": 354.959,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 354.959,
+        "endTime": 355.22,
+        "gloss": "you"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 355.22,
+        "endTime": 355.5,
+        "gloss": "with"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 355.5,
+        "endTime": 356.022,
+        "gloss": "photo"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 356.022,
+        "endTime": 356.603,
+        "gloss": "in"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 356.603,
+        "endTime": 357.084,
+        "gloss": "same"
+      },
+      {
+        "word": "啊",
+        "pinyin": "a",
+        "startTime": 357.084,
+        "endTime": 357.105,
+        "gloss": "ah"
+      }
+    ],
+    "fullTextEN": "But he says you look the same as in the photo."
+  },
+  {
+    "startTime": 358.733,
+    "endTime": 361.866,
+    "fullTextZH": "所以我们会吵架",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 358.974,
+        "endTime": 359.817,
+        "gloss": "so"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 359.817,
+        "endTime": 360.239,
+        "gloss": "we"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 360.239,
+        "endTime": 360.862,
+        "gloss": "will"
+      },
+      {
+        "word": "吵架",
+        "pinyin": "chǎo jià",
+        "startTime": 360.862,
+        "endTime": 361.324,
+        "gloss": "argue"
+      }
+    ],
+    "fullTextEN": "So we argue."
+  },
+  {
+    "startTime": 362.866,
+    "endTime": 367.033,
+    "fullTextZH": "虽然我的老公拍照片很丑",
+    "words": [
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 363.026,
+        "endTime": 363.848,
+        "gloss": "although"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 363.848,
+        "endTime": 363.988,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 363.988,
+        "endTime": 364.108,
+        "gloss": "de"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 364.108,
+        "endTime": 365.07,
+        "gloss": "husband"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 365.07,
+        "endTime": 366.031,
+        "gloss": "take photos"
+      },
+      {
+        "word": "很丑",
+        "pinyin": "hěn chǒu",
+        "startTime": 366.031,
+        "endTime": 366.432,
+        "gloss": "very ugly"
+      }
+    ],
+    "fullTextEN": "Although my husband takes ugly photos,"
+  },
+  {
+    "startTime": 367.7,
+    "endTime": 369.866,
+    "fullTextZH": "但是有的时候",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 367.78,
+        "endTime": 368.703,
+        "gloss": "but"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 368.703,
+        "endTime": 368.984,
+        "gloss": "have"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 368.984,
+        "endTime": 369.184,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 369.184,
+        "endTime": 369.425,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "But sometimes,"
+  },
+  {
+    "startTime": 370.3,
+    "endTime": 376.1,
+    "fullTextZH": "他也会在我不知道的时候给我拍照片",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 370.4,
+        "endTime": 370.621,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 370.621,
+        "endTime": 370.862,
+        "gloss": "also"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 370.862,
+        "endTime": 371.464,
+        "gloss": "will"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 371.464,
+        "endTime": 371.865,
+        "gloss": "at"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 371.865,
+        "endTime": 372.829,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 372.829,
+        "endTime": 373.049,
+        "gloss": "not"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 373.049,
+        "endTime": 373.431,
+        "gloss": "know"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 373.431,
+        "endTime": 373.571,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 373.571,
+        "endTime": 374.515,
+        "gloss": "time"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 374.515,
+        "endTime": 374.715,
+        "gloss": "for"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 374.715,
+        "endTime": 375.016,
+        "gloss": "me"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 375.016,
+        "endTime": 375.618,
+        "gloss": "take photos"
+      }
+    ],
+    "fullTextEN": "He also takes photos of me when I don't know."
+  },
+  {
+    "startTime": 376.666,
+    "endTime": 379.033,
+    "fullTextZH": "这些照片是这样的",
+    "words": [
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 376.746,
+        "endTime": 377.147,
+        "gloss": "these"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 377.147,
+        "endTime": 377.91,
+        "gloss": "photos"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 377.91,
+        "endTime": 378.11,
+        "gloss": "are"
+      },
+      {
+        "word": "这样",
+        "pinyin": "zhè yàng",
+        "startTime": 378.11,
+        "endTime": 378.672,
+        "gloss": "like this"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 378.672,
+        "endTime": 378.692,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "These photos are like this."
+  },
+  {
+    "startTime": 380.7,
+    "endTime": 385.4,
+    "fullTextZH": "我觉得这些照片虽然不完美",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 380.8,
+        "endTime": 381.001,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 381.001,
+        "endTime": 381.865,
+        "gloss": "think"
+      },
+      {
+        "word": "这些",
+        "pinyin": "zhè xiē",
+        "startTime": 381.865,
+        "endTime": 382.247,
+        "gloss": "these"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 382.247,
+        "endTime": 383.15,
+        "gloss": "photos"
+      },
+      {
+        "word": "虽然",
+        "pinyin": "suī rán",
+        "startTime": 383.15,
+        "endTime": 383.813,
+        "gloss": "although"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 383.813,
+        "endTime": 384.436,
+        "gloss": "not"
+      },
+      {
+        "word": "完美",
+        "pinyin": "wán měi",
+        "startTime": 384.436,
+        "endTime": 384.818,
+        "gloss": "perfect"
+      }
+    ],
+    "fullTextEN": "I think these photos, although not perfect,"
+  },
+  {
+    "startTime": 386.0,
+    "endTime": 389.333,
+    "fullTextZH": "但是很美很漂亮",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 386.06,
+        "endTime": 387.185,
+        "gloss": "but"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 387.185,
+        "endTime": 387.526,
+        "gloss": "very"
+      },
+      {
+        "word": "美",
+        "pinyin": "měi",
+        "startTime": 387.526,
+        "endTime": 388.349,
+        "gloss": "beautiful"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 388.349,
+        "endTime": 388.972,
+        "gloss": "very pretty"
+      }
+    ],
+    "fullTextEN": "are very beautiful and pretty."
+  },
+  {
+    "startTime": 390.066,
+    "endTime": 394.266,
+    "fullTextZH": "因为他拍照片的时候有爱",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 390.146,
+        "endTime": 390.99,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 390.99,
+        "endTime": 391.272,
+        "gloss": "he"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 391.272,
+        "endTime": 392.116,
+        "gloss": "take photos"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 392.116,
+        "endTime": 392.277,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 392.277,
+        "endTime": 393.1,
+        "gloss": "time"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 393.1,
+        "endTime": 393.643,
+        "gloss": "have"
+      },
+      {
+        "word": "爱",
+        "pinyin": "ài",
+        "startTime": 393.643,
+        "endTime": 393.663,
+        "gloss": "love"
+      }
+    ],
+    "fullTextEN": "Because when he takes photos, there is love."
+  },
+  {
+    "startTime": 395.7,
+    "endTime": 400.066,
+    "fullTextZH": "当然不只是我的老公有这个问题",
+    "words": [
+      {
+        "word": "当然",
+        "pinyin": "dāng rán",
+        "startTime": 395.76,
+        "endTime": 396.701,
+        "gloss": "of course"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 396.701,
+        "endTime": 396.902,
+        "gloss": "not"
+      },
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 396.902,
+        "endTime": 397.643,
+        "gloss": "only"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 397.643,
+        "endTime": 397.903,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 397.903,
+        "endTime": 398.043,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 398.043,
+        "endTime": 398.884,
+        "gloss": "husband"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 398.884,
+        "endTime": 399.125,
+        "gloss": "have"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 399.125,
+        "endTime": 399.385,
+        "gloss": "this"
+      },
+      {
+        "word": "问题",
+        "pinyin": "wèn tí",
+        "startTime": 399.385,
+        "endTime": 399.645,
+        "gloss": "problem"
+      }
+    ],
+    "fullTextEN": "Of course, it's not just my husband who has this problem."
+  },
+  {
+    "startTime": 401.033,
+    "endTime": 406.6,
+    "fullTextZH": "你看这是蔚萱的老公拍的照片",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 401.093,
+        "endTime": 401.233,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 401.233,
+        "endTime": 402.415,
+        "gloss": "look"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 402.415,
+        "endTime": 402.635,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 402.635,
+        "endTime": 403.196,
+        "gloss": "is"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 403.196,
+        "endTime": 403.616,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 403.616,
+        "endTime": 404.017,
+        "gloss": "Xuan"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 404.017,
+        "endTime": 404.237,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 404.237,
+        "endTime": 405.499,
+        "gloss": "husband"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 405.499,
+        "endTime": 405.739,
+        "gloss": "take"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 405.739,
+        "endTime": 405.859,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 405.859,
+        "endTime": 406.099,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "Look, this is a photo taken by Weixuan's husband."
+  },
+  {
+    "startTime": 408.266,
+    "endTime": 412.8,
+    "fullTextZH": "这是智菲的男朋友拍的照片",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 408.326,
+        "endTime": 409.349,
+        "gloss": "this is"
+      },
+      {
+        "word": "智菲",
+        "pinyin": "zhì fēi",
+        "startTime": 409.349,
+        "endTime": 409.991,
+        "gloss": "Zhifei"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 409.991,
+        "endTime": 410.252,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 410.252,
+        "endTime": 411.697,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "拍",
+        "pinyin": "pāi",
+        "startTime": 411.697,
+        "endTime": 411.957,
+        "gloss": "take"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 411.957,
+        "endTime": 412.078,
+        "gloss": "of"
+      },
+      {
+        "word": "照片",
+        "pinyin": "zhào piān",
+        "startTime": 412.078,
+        "endTime": 412.339,
+        "gloss": "photo"
+      }
+    ],
+    "fullTextEN": "This is a photo taken by Zhifei's boyfriend."
+  },
+  {
+    "startTime": 414.9,
+    "endTime": 417.233,
+    "fullTextZH": "你呢你的男朋友",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 414.98,
+        "endTime": 415.222,
+        "gloss": "you"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 415.222,
+        "endTime": 415.926,
+        "gloss": "what about"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 415.926,
+        "endTime": 416.127,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 416.127,
+        "endTime": 416.328,
+        "gloss": "of"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 416.328,
+        "endTime": 416.851,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "What about you and your boyfriend?"
+  },
+  {
+    "startTime": 417.633,
+    "endTime": 418.833,
+    "fullTextZH": "你的老公",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 417.714,
+        "endTime": 417.918,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 417.918,
+        "endTime": 418.06,
+        "gloss": "of"
+      },
+      {
+        "word": "老公",
+        "pinyin": "lǎo gōng",
+        "startTime": 418.06,
+        "endTime": 418.325,
+        "gloss": "husband"
+      }
+    ],
+    "fullTextEN": "Your husband."
+  },
+  {
+    "startTime": 419.2,
+    "endTime": 421.733,
+    "fullTextZH": "他们拍照片好看吗",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 419.24,
+        "endTime": 419.904,
+        "gloss": "they"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 419.904,
+        "endTime": 420.748,
+        "gloss": "take photos"
+      },
+      {
+        "word": "好看",
+        "pinyin": "hǎo kàn",
+        "startTime": 420.748,
+        "endTime": 421.271,
+        "gloss": "good-looking"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 421.271,
+        "endTime": 421.291,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do their photos look good?"
+  },
+  {
+    "startTime": 422.4,
+    "endTime": 425.633,
+    "fullTextZH": "你们因为拍照片吵过架吗",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 422.48,
+        "endTime": 422.942,
+        "gloss": "you all"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 422.942,
+        "endTime": 423.324,
+        "gloss": "because"
+      },
+      {
+        "word": "拍照片",
+        "pinyin": "pāi zhào piān",
+        "startTime": 423.324,
+        "endTime": 424.508,
+        "gloss": "take photos"
+      },
+      {
+        "word": "吵过",
+        "pinyin": "chǎo guò",
+        "startTime": 424.508,
+        "endTime": 424.93,
+        "gloss": "argued"
+      },
+      {
+        "word": "架",
+        "pinyin": "jià",
+        "startTime": 424.93,
+        "endTime": 425.191,
+        "gloss": "fight"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 425.191,
+        "endTime": 425.211,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Have you ever argued because of taking photos?"
+  },
+  {
+    "startTime": 426.7,
+    "endTime": 429.2,
+    "fullTextZH": "可以和我们聊一聊",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 426.821,
+        "endTime": 427.345,
+        "gloss": "can"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 427.345,
+        "endTime": 427.567,
+        "gloss": "with"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 427.567,
+        "endTime": 428.293,
+        "gloss": "us"
+      },
+      {
+        "word": "聊一聊",
+        "pinyin": "liáo yī liáo",
+        "startTime": 428.293,
+        "endTime": 428.716,
+        "gloss": "chat"
+      }
+    ],
+    "fullTextEN": "Can you chat with us?"
+  },
+  {
+    "startTime": 430.1,
+    "endTime": 433.066,
+    "fullTextZH": "好今天就说到这里",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 430.2,
+        "endTime": 430.982,
+        "gloss": "okay"
+      },
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 430.982,
+        "endTime": 431.723,
+        "gloss": "today"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 431.723,
+        "endTime": 432.024,
+        "gloss": "just"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 432.024,
+        "endTime": 432.244,
+        "gloss": "say"
+      },
+      {
+        "word": "到",
+        "pinyin": "dào",
+        "startTime": 432.244,
+        "endTime": 432.445,
+        "gloss": "to"
+      },
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 432.445,
+        "endTime": 432.665,
+        "gloss": "here"
+      }
+    ],
+    "fullTextEN": "Okay, that's all for today."
+  },
+  {
+    "startTime": 433.233,
+    "endTime": 434.9,
+    "fullTextZH": "我们下次再见",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 433.313,
+        "endTime": 433.755,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 433.755,
+        "endTime": 434.177,
+        "gloss": "next time"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 434.177,
+        "endTime": 434.398,
+        "gloss": "see you"
+      }
+    ],
+    "fullTextEN": "See you next time."
+  }
+]

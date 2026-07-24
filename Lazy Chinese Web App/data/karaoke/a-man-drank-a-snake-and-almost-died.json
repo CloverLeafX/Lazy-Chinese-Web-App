@@ -1,0 +1,4806 @@
+[
+  {
+    "startTime": 0.433,
+    "endTime": 0.833,
+    "fullTextZH": "你好。",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.538,
+        "endTime": 0.749,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello."
+  },
+  {
+    "startTime": 0.833,
+    "endTime": 4.233,
+    "fullTextZH": "这里是XiaoguaChinese。",
+    "words": [
+      {
+        "word": "这里",
+        "pinyin": "zhè lǐ",
+        "startTime": 1.879,
+        "endTime": 2.322,
+        "gloss": "here"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.322,
+        "endTime": 2.724,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "This is XiaoguaChinese."
+  },
+  {
+    "startTime": 4.366,
+    "endTime": 5.8,
+    "fullTextZH": "我是蔚萱。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 4.467,
+        "endTime": 4.73,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 4.73,
+        "endTime": 5.012,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 5.012,
+        "endTime": 5.214,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 5.214,
+        "endTime": 5.76,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 6.5,
+    "endTime": 10.633,
+    "fullTextZH": "今天我要说一个故事。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 6.6,
+        "endTime": 7.563,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 7.563,
+        "endTime": 7.884,
+        "gloss": "I"
+      },
+      {
+        "word": "要说",
+        "pinyin": "yào shuō",
+        "startTime": 7.884,
+        "endTime": 9.068,
+        "gloss": "want to tell"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 9.068,
+        "endTime": 9.951,
+        "gloss": "a"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 9.951,
+        "endTime": 10.593,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Today I want to tell a story."
+  },
+  {
+    "startTime": 11.766,
+    "endTime": 14.466,
+    "fullTextZH": "你看这个人——",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 11.826,
+        "endTime": 12.068,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 12.068,
+        "endTime": 13.539,
+        "gloss": "look"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 13.539,
+        "endTime": 13.882,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 13.882,
+        "endTime": 14.426,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Look at this person—"
+  },
+  {
+    "startTime": 15.966,
+    "endTime": 19.2,
+    "fullTextZH": "他的肚子……",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 16.026,
+        "endTime": 16.207,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 16.207,
+        "endTime": 16.428,
+        "gloss": "of"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 16.428,
+        "endTime": 19.16,
+        "gloss": "stomach"
+      }
+    ],
+    "fullTextEN": "His stomach..."
+  },
+  {
+    "startTime": 20.0,
+    "endTime": 22.2,
+    "fullTextZH": "他的肚子很疼。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 20.061,
+        "endTime": 20.222,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.222,
+        "endTime": 20.363,
+        "gloss": "of"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 20.363,
+        "endTime": 20.807,
+        "gloss": "stomach"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 20.807,
+        "endTime": 21.231,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 21.231,
+        "endTime": 22.16,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "His stomach hurts a lot."
+  },
+  {
+    "startTime": 23.233,
+    "endTime": 24.633,
+    "fullTextZH": "为什么呢？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 23.375,
+        "endTime": 24.166,
+        "gloss": "why"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 24.166,
+        "endTime": 24.592,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 25.7,
+    "endTime": 31.833,
+    "fullTextZH": "可能是因为他吃了不好的东西，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 25.86,
+        "endTime": 26.442,
+        "gloss": "maybe"
+      },
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 26.442,
+        "endTime": 27.524,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 27.524,
+        "endTime": 28.486,
+        "gloss": "he"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 28.486,
+        "endTime": 28.907,
+        "gloss": "eat"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 28.907,
+        "endTime": 29.909,
+        "gloss": "particle"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 29.909,
+        "endTime": 30.65,
+        "gloss": "not good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 30.65,
+        "endTime": 30.851,
+        "gloss": "particle"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 30.851,
+        "endTime": 31.793,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Maybe it's because he ate something bad,"
+  },
+  {
+    "startTime": 32.866,
+    "endTime": 36.833,
+    "fullTextZH": "他喝了不好的东西。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 32.926,
+        "endTime": 33.667,
+        "gloss": "he"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 33.667,
+        "endTime": 34.268,
+        "gloss": "drink"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 34.268,
+        "endTime": 35.25,
+        "gloss": "particle"
+      },
+      {
+        "word": "不好",
+        "pinyin": "bù hǎo",
+        "startTime": 35.25,
+        "endTime": 35.791,
+        "gloss": "not good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 35.791,
+        "endTime": 35.951,
+        "gloss": "particle"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 35.951,
+        "endTime": 36.793,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "He drank something bad."
+  },
+  {
+    "startTime": 37.7,
+    "endTime": 43.4,
+    "fullTextZH": "可能他生病了，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 38.583,
+        "endTime": 39.245,
+        "gloss": "maybe"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 39.245,
+        "endTime": 41.935,
+        "gloss": "he"
+      },
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "startTime": 41.935,
+        "endTime": 42.738,
+        "gloss": "sick"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 42.738,
+        "endTime": 43.36,
+        "gloss": "particle"
+      }
+    ],
+    "fullTextEN": "Maybe he is sick,"
+  },
+  {
+    "startTime": 44.166,
+    "endTime": 47.9,
+    "fullTextZH": "可能有人打他。",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 44.266,
+        "endTime": 44.949,
+        "gloss": "maybe"
+      },
+      {
+        "word": "有人",
+        "pinyin": "yǒu rén",
+        "startTime": 44.949,
+        "endTime": 46.936,
+        "gloss": "someone"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 46.936,
+        "endTime": 47.318,
+        "gloss": "hit"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 47.318,
+        "endTime": 47.86,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Maybe someone hit him."
+  },
+  {
+    "startTime": 49.566,
+    "endTime": 50.033,
+    "fullTextZH": "好。",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 49.647,
+        "endTime": 50.013,
+        "gloss": "okay"
+      }
+    ],
+    "fullTextEN": "Okay."
+  },
+  {
+    "startTime": 50.033,
+    "endTime": 54.833,
+    "fullTextZH": "现在我给你讲这个故事。",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 50.515,
+        "endTime": 51.218,
+        "gloss": "now"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 51.218,
+        "endTime": 51.62,
+        "gloss": "I"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 51.62,
+        "endTime": 51.861,
+        "gloss": "give"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 51.861,
+        "endTime": 52.363,
+        "gloss": "you"
+      },
+      {
+        "word": "讲",
+        "pinyin": "jiǎng",
+        "startTime": 52.363,
+        "endTime": 53.648,
+        "gloss": "tell"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 53.648,
+        "endTime": 54.17,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 54.17,
+        "endTime": 54.793,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Now I will tell you this story."
+  },
+  {
+    "startTime": 56.0,
+    "endTime": 59.433,
+    "fullTextZH": "在很久很久以前，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 56.1,
+        "endTime": 56.683,
+        "gloss": "at"
+      },
+      {
+        "word": "很久很久",
+        "pinyin": "hěn jiǔ hěn jiǔ",
+        "startTime": 56.683,
+        "endTime": 58.469,
+        "gloss": "very long"
+      },
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "startTime": 58.469,
+        "endTime": 59.413,
+        "gloss": "ago"
+      }
+    ],
+    "fullTextEN": "A long, long time ago,"
+  },
+  {
+    "startTime": 59.8,
+    "endTime": 61.233,
+    "fullTextZH": "有一个人。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 59.881,
+        "endTime": 60.123,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 60.123,
+        "endTime": 60.648,
+        "gloss": "a"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 60.648,
+        "endTime": 61.193,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "There was a person."
+  },
+  {
+    "startTime": 61.4,
+    "endTime": 63.833,
+    "fullTextZH": "他去朋友家。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 61.44,
+        "endTime": 61.903,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 61.903,
+        "endTime": 62.687,
+        "gloss": "go"
+      },
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 62.687,
+        "endTime": 63.793,
+        "gloss": "friend's house"
+      }
+    ],
+    "fullTextEN": "He went to a friend's house."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 66.466,
+    "fullTextZH": "去做什么？",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 65.12,
+        "endTime": 65.462,
+        "gloss": "go"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 65.462,
+        "endTime": 65.743,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 65.743,
+        "endTime": 66.426,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What did he go to do?"
+  },
+  {
+    "startTime": 66.6,
+    "endTime": 68.4,
+    "fullTextZH": "去吃饭吗？",
+    "words": [
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 66.721,
+        "endTime": 67.126,
+        "gloss": "go"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 67.126,
+        "endTime": 67.793,
+        "gloss": "eat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 67.793,
+        "endTime": 68.36,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Did he go to eat?"
+  },
+  {
+    "startTime": 69.466,
+    "endTime": 70.7,
+    "fullTextZH": "对对对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 69.587,
+        "endTime": 69.891,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 69.891,
+        "endTime": 70.053,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 70.053,
+        "endTime": 70.66,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes, yes, yes."
+  },
+  {
+    "startTime": 70.9,
+    "endTime": 76.3,
+    "fullTextZH": "他去朋友家吃饭和喝酒。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 70.98,
+        "endTime": 71.382,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 71.382,
+        "endTime": 71.703,
+        "gloss": "go"
+      },
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 71.703,
+        "endTime": 73.008,
+        "gloss": "friend's house"
+      },
+      {
+        "word": "吃饭",
+        "pinyin": "chī fàn",
+        "startTime": 73.008,
+        "endTime": 73.791,
+        "gloss": "eat"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 73.791,
+        "endTime": 75.256,
+        "gloss": "and"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 75.256,
+        "endTime": 75.638,
+        "gloss": "drink"
+      }
+    ],
+    "fullTextEN": "He went to a friend's house to eat and drink."
+  },
+  {
+    "startTime": 76.966,
+    "endTime": 82.766,
+    "fullTextZH": "他坐在一张桌子的旁边。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 77.026,
+        "endTime": 77.628,
+        "gloss": "he"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 77.628,
+        "endTime": 78.853,
+        "gloss": "sit at"
+      },
+      {
+        "word": "一张",
+        "pinyin": "yī zhāng",
+        "startTime": 78.853,
+        "endTime": 80.518,
+        "gloss": "a"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 80.518,
+        "endTime": 81.1,
+        "gloss": "table"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 81.1,
+        "endTime": 81.823,
+        "gloss": "of"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 81.823,
+        "endTime": 82.726,
+        "gloss": "beside"
+      }
+    ],
+    "fullTextEN": "He sits next to a table."
+  },
+  {
+    "startTime": 83.166,
+    "endTime": 84.566,
+    "fullTextZH": "这是一个桌子。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 83.207,
+        "endTime": 83.572,
+        "gloss": "this is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 83.572,
+        "endTime": 83.876,
+        "gloss": "a"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 83.876,
+        "endTime": 84.525,
+        "gloss": "table"
+      }
+    ],
+    "fullTextEN": "This is a table."
+  },
+  {
+    "startTime": 85.1,
+    "endTime": 88.833,
+    "fullTextZH": "他坐在这张桌子的旁边。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 85.2,
+        "endTime": 85.582,
+        "gloss": "he"
+      },
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 85.582,
+        "endTime": 86.686,
+        "gloss": "sit at"
+      },
+      {
+        "word": "这张",
+        "pinyin": "zhè zhāng",
+        "startTime": 86.686,
+        "endTime": 87.227,
+        "gloss": "this"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 87.227,
+        "endTime": 87.669,
+        "gloss": "table"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 87.669,
+        "endTime": 88.03,
+        "gloss": "of"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 88.03,
+        "endTime": 88.813,
+        "gloss": "beside"
+      }
+    ],
+    "fullTextEN": "He sits next to this table."
+  },
+  {
+    "startTime": 89.166,
+    "endTime": 92.666,
+    "fullTextZH": "在桌子上有什么呢？",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 89.246,
+        "endTime": 89.991,
+        "gloss": "on"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 89.991,
+        "endTime": 90.856,
+        "gloss": "table"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 90.856,
+        "endTime": 91.64,
+        "gloss": "on"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 91.64,
+        "endTime": 91.902,
+        "gloss": "have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 91.902,
+        "endTime": 92.304,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 92.304,
+        "endTime": 92.626,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What is on the table?"
+  },
+  {
+    "startTime": 93.1,
+    "endTime": 96.1,
+    "fullTextZH": "桌子上有一个杯子。",
+    "words": [
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 93.241,
+        "endTime": 93.724,
+        "gloss": "table"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 93.724,
+        "endTime": 94.187,
+        "gloss": "on"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 94.187,
+        "endTime": 94.57,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 94.57,
+        "endTime": 95.355,
+        "gloss": "a"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 95.355,
+        "endTime": 96.08,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "There is a cup on the table."
+  },
+  {
+    "startTime": 96.8,
+    "endTime": 98.766,
+    "fullTextZH": "一个大杯子",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 96.86,
+        "endTime": 97.542,
+        "gloss": "a"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 97.542,
+        "endTime": 97.883,
+        "gloss": "big"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 97.883,
+        "endTime": 98.244,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "A big cup"
+  },
+  {
+    "startTime": 98.8,
+    "endTime": 102.766,
+    "fullTextZH": "还是一个小杯子？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 98.88,
+        "endTime": 99.501,
+        "gloss": "or"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 99.501,
+        "endTime": 101.464,
+        "gloss": "a"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 101.464,
+        "endTime": 101.885,
+        "gloss": "small"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 101.885,
+        "endTime": 102.726,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "Or a small cup?"
+  },
+  {
+    "startTime": 103.8,
+    "endTime": 104.8,
+    "fullTextZH": "对对对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 103.882,
+        "endTime": 104.127,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 104.127,
+        "endTime": 104.29,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 104.29,
+        "endTime": 104.759,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes, yes, yes."
+  },
+  {
+    "startTime": 104.8,
+    "endTime": 107.633,
+    "fullTextZH": "是一个小杯子。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 104.981,
+        "endTime": 105.282,
+        "gloss": "is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 105.282,
+        "endTime": 106.186,
+        "gloss": "a"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 106.186,
+        "endTime": 106.689,
+        "gloss": "small"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 106.689,
+        "endTime": 107.593,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "It's a small cup."
+  },
+  {
+    "startTime": 108.233,
+    "endTime": 110.866,
+    "fullTextZH": "因为他要喝酒。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 108.293,
+        "endTime": 108.715,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 108.715,
+        "endTime": 108.936,
+        "gloss": "he"
+      },
+      {
+        "word": "要",
+        "pinyin": "yào",
+        "startTime": 108.936,
+        "endTime": 109.74,
+        "gloss": "want"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 109.74,
+        "endTime": 110.826,
+        "gloss": "drink alcohol"
+      }
+    ],
+    "fullTextEN": "Because he wants to drink alcohol."
+  },
+  {
+    "startTime": 111.866,
+    "endTime": 115.666,
+    "fullTextZH": "这个杯子里有什么？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 111.987,
+        "endTime": 112.57,
+        "gloss": "this"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 112.57,
+        "endTime": 113.294,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 113.294,
+        "endTime": 114.259,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 114.259,
+        "endTime": 114.701,
+        "gloss": "have"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 114.701,
+        "endTime": 115.626,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What's in this cup?"
+  },
+  {
+    "startTime": 116.4,
+    "endTime": 117.833,
+    "fullTextZH": "水吗？",
+    "words": [
+      {
+        "word": "水",
+        "pinyin": "shuǐ",
+        "startTime": 116.804,
+        "endTime": 117.147,
+        "gloss": "water"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 117.147,
+        "endTime": 117.793,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Water?"
+  },
+  {
+    "startTime": 118.0,
+    "endTime": 119.5,
+    "fullTextZH": "不不不不。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 118.162,
+        "endTime": 118.426,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 118.426,
+        "endTime": 118.608,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 118.608,
+        "endTime": 118.791,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 118.791,
+        "endTime": 119.459,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no, no."
+  },
+  {
+    "startTime": 119.633,
+    "endTime": 123.0,
+    "fullTextZH": "这个杯子里有酒。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 119.713,
+        "endTime": 120.254,
+        "gloss": "this"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 120.254,
+        "endTime": 120.835,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 120.835,
+        "endTime": 121.517,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 121.517,
+        "endTime": 122.078,
+        "gloss": "have"
+      },
+      {
+        "word": "酒",
+        "pinyin": "jiǔ",
+        "startTime": 122.078,
+        "endTime": 122.96,
+        "gloss": "alcohol"
+      }
+    ],
+    "fullTextEN": "There is alcohol in this cup."
+  },
+  {
+    "startTime": 123.5,
+    "endTime": 130.633,
+    "fullTextZH": "然后他想喝酒。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 123.6,
+        "endTime": 124.502,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 124.502,
+        "endTime": 124.903,
+        "gloss": "he"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 124.903,
+        "endTime": 125.383,
+        "gloss": "want"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 125.383,
+        "endTime": 126.225,
+        "gloss": "drink alcohol"
+      }
+    ],
+    "fullTextEN": "Then he wants to drink alcohol."
+  },
+  {
+    "startTime": 131.6,
+    "endTime": 133.1,
+    "fullTextZH": "可是突然——",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 131.722,
+        "endTime": 132.208,
+        "gloss": "but"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 132.208,
+        "endTime": 133.059,
+        "gloss": "suddenly"
+      }
+    ],
+    "fullTextEN": "But suddenly—"
+  },
+  {
+    "startTime": 134.7,
+    "endTime": 138.833,
+    "fullTextZH": "他看到杯子里有一个东西。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 134.8,
+        "endTime": 135.041,
+        "gloss": "he"
+      },
+      {
+        "word": "看到",
+        "pinyin": "kàn dào",
+        "startTime": 135.041,
+        "endTime": 135.523,
+        "gloss": "see"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 135.523,
+        "endTime": 136.044,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 136.044,
+        "endTime": 136.827,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 136.827,
+        "endTime": 137.148,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 137.148,
+        "endTime": 137.649,
+        "gloss": "a"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 137.649,
+        "endTime": 138.793,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "He sees there is something in the cup."
+  },
+  {
+    "startTime": 140.033,
+    "endTime": 141.933,
+    "fullTextZH": "是什么？",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 140.174,
+        "endTime": 140.397,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 140.397,
+        "endTime": 141.893,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is it?"
+  },
+  {
+    "startTime": 141.933,
+    "endTime": 143.833,
+    "fullTextZH": "是一条……",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 142.135,
+        "endTime": 142.499,
+        "gloss": "is"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 142.499,
+        "endTime": 143.793,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "It's a..."
+  },
+  {
+    "startTime": 145.666,
+    "endTime": 149.266,
+    "fullTextZH": "是一条蛇。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 145.807,
+        "endTime": 145.988,
+        "gloss": "is"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 145.988,
+        "endTime": 146.189,
+        "gloss": "a"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 146.189,
+        "endTime": 147.416,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "It's a snake."
+  },
+  {
+    "startTime": 150.066,
+    "endTime": 153.1,
+    "fullTextZH": "杯子里有一条蛇。",
+    "words": [
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 150.146,
+        "endTime": 150.789,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 150.789,
+        "endTime": 151.111,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 151.111,
+        "endTime": 151.352,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 151.352,
+        "endTime": 152.196,
+        "gloss": "a"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 152.196,
+        "endTime": 153.06,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "There is a snake in the cup."
+  },
+  {
+    "startTime": 153.566,
+    "endTime": 155.666,
+    "fullTextZH": "他很害怕。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 153.627,
+        "endTime": 153.929,
+        "gloss": "he"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 153.929,
+        "endTime": 154.353,
+        "gloss": "very"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 154.353,
+        "endTime": 155.626,
+        "gloss": "scared"
+      }
+    ],
+    "fullTextEN": "He is very scared."
+  },
+  {
+    "startTime": 156.033,
+    "endTime": 160.566,
+    "fullTextZH": "那他喝酒了吗？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 156.153,
+        "endTime": 156.895,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 156.895,
+        "endTime": 158.981,
+        "gloss": "he"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 158.981,
+        "endTime": 159.784,
+        "gloss": "drink"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 159.784,
+        "endTime": 159.964,
+        "gloss": "le"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 159.964,
+        "endTime": 160.526,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Did he drink alcohol?"
+  },
+  {
+    "startTime": 161.633,
+    "endTime": 162.966,
+    "fullTextZH": "对对对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 161.734,
+        "endTime": 162.199,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 162.199,
+        "endTime": 162.4,
+        "gloss": "yes"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 162.4,
+        "endTime": 162.926,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes, yes, yes."
+  },
+  {
+    "startTime": 162.966,
+    "endTime": 166.5,
+    "fullTextZH": "他喝酒了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 163.127,
+        "endTime": 164.874,
+        "gloss": "he"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 164.874,
+        "endTime": 165.697,
+        "gloss": "drank"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 165.697,
+        "endTime": 166.46,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "He drank alcohol."
+  },
+  {
+    "startTime": 167.166,
+    "endTime": 168.466,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 167.268,
+        "endTime": 168.446,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 169.166,
+    "endTime": 174.1,
+    "fullTextZH": "因为他的朋友在看他。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 169.266,
+        "endTime": 169.748,
+        "gloss": "because"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 169.748,
+        "endTime": 169.948,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 169.948,
+        "endTime": 170.229,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 170.229,
+        "endTime": 170.971,
+        "gloss": "friend"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 170.971,
+        "endTime": 173.017,
+        "gloss": "was"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 173.017,
+        "endTime": 173.378,
+        "gloss": "watching"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 173.378,
+        "endTime": 174.06,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "Because his friend was watching him."
+  },
+  {
+    "startTime": 174.1,
+    "endTime": 178.4,
+    "fullTextZH": "所以他闭上眼睛，",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 174.261,
+        "endTime": 174.622,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 174.622,
+        "endTime": 175.768,
+        "gloss": "he"
+      },
+      {
+        "word": "闭上眼睛",
+        "pinyin": "bì shàng yǎn jīng",
+        "startTime": 175.768,
+        "endTime": 178.36,
+        "gloss": "closed eyes"
+      }
+    ],
+    "fullTextEN": "So he closed his eyes,"
+  },
+  {
+    "startTime": 179.3,
+    "endTime": 187.566,
+    "fullTextZH": "喝了杯子里的酒。",
+    "words": [
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 179.56,
+        "endTime": 179.92,
+        "gloss": "drank"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 179.92,
+        "endTime": 180.841,
+        "gloss": "le"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 180.841,
+        "endTime": 181.722,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 181.722,
+        "endTime": 182.062,
+        "gloss": "inside"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 182.062,
+        "endTime": 182.482,
+        "gloss": "de"
+      },
+      {
+        "word": "酒",
+        "pinyin": "jiǔ",
+        "startTime": 182.482,
+        "endTime": 183.903,
+        "gloss": "wine"
+      }
+    ],
+    "fullTextEN": "and drank the wine in the cup."
+  },
+  {
+    "startTime": 188.1,
+    "endTime": 190.0,
+    "fullTextZH": "喝完了以后，",
+    "words": [
+      {
+        "word": "喝完",
+        "pinyin": "hē wán",
+        "startTime": 188.383,
+        "endTime": 188.888,
+        "gloss": "finished drinking"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 188.888,
+        "endTime": 189.05,
+        "gloss": "le"
+      },
+      {
+        "word": "以后",
+        "pinyin": "yǐ hòu",
+        "startTime": 189.05,
+        "endTime": 189.96,
+        "gloss": "after"
+      }
+    ],
+    "fullTextEN": "After finishing drinking,"
+  },
+  {
+    "startTime": 190.566,
+    "endTime": 196.766,
+    "fullTextZH": "他的肚子很疼。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 190.606,
+        "endTime": 190.867,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 190.867,
+        "endTime": 191.148,
+        "gloss": "de"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 191.148,
+        "endTime": 192.693,
+        "gloss": "stomach"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 192.693,
+        "endTime": 193.455,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 193.455,
+        "endTime": 193.636,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "His stomach hurt a lot."
+  },
+  {
+    "startTime": 196.766,
+    "endTime": 198.833,
+    "fullTextZH": "他想：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 198.05,
+        "endTime": 198.331,
+        "gloss": "he"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 198.331,
+        "endTime": 198.793,
+        "gloss": "thought"
+      }
+    ],
+    "fullTextEN": "He thought:"
+  },
+  {
+    "startTime": 199.466,
+    "endTime": 203.766,
+    "fullTextZH": "“我喝了蛇！",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 200.913,
+        "endTime": 201.516,
+        "gloss": "I"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 201.516,
+        "endTime": 201.998,
+        "gloss": "drank"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 201.998,
+        "endTime": 202.842,
+        "gloss": "le"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 202.842,
+        "endTime": 203.726,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "\"I drank a snake!"
+  },
+  {
+    "startTime": 204.366,
+    "endTime": 207.766,
+    "fullTextZH": "我的肚子太疼了，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 204.446,
+        "endTime": 204.628,
+        "gloss": "I"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 204.628,
+        "endTime": 204.869,
+        "gloss": "de"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 204.869,
+        "endTime": 205.955,
+        "gloss": "stomach"
+      },
+      {
+        "word": "太疼",
+        "pinyin": "tài téng",
+        "startTime": 205.955,
+        "endTime": 207.283,
+        "gloss": "too hurt"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 207.283,
+        "endTime": 207.726,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "My stomach hurts too much,"
+  },
+  {
+    "startTime": 208.033,
+    "endTime": 210.633,
+    "fullTextZH": "我要死了！”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 208.174,
+        "endTime": 208.537,
+        "gloss": "I"
+      },
+      {
+        "word": "要死",
+        "pinyin": "yào sǐ",
+        "startTime": 208.537,
+        "endTime": 209.867,
+        "gloss": "going to die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 209.867,
+        "endTime": 210.593,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I'm going to die!\""
+  },
+  {
+    "startTime": 211.5,
+    "endTime": 215.7,
+    "fullTextZH": "然后他回家了。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 211.621,
+        "endTime": 212.304,
+        "gloss": "then"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 212.304,
+        "endTime": 213.429,
+        "gloss": "he"
+      },
+      {
+        "word": "回家",
+        "pinyin": "huí jiā",
+        "startTime": 213.429,
+        "endTime": 214.474,
+        "gloss": "went home"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 214.474,
+        "endTime": 215.68,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Then he went home."
+  },
+  {
+    "startTime": 215.7,
+    "endTime": 222.433,
+    "fullTextZH": "他生病了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 215.7,
+        "endTime": 219.167,
+        "gloss": "he"
+      },
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "startTime": 219.167,
+        "endTime": 220.589,
+        "gloss": "got sick"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 220.589,
+        "endTime": 222.413,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "He got sick,"
+  },
+  {
+    "startTime": 222.7,
+    "endTime": 226.0,
+    "fullTextZH": "生病了。",
+    "words": [
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "startTime": 225.115,
+        "endTime": 225.859,
+        "gloss": "got sick"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 225.859,
+        "endTime": 225.96,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "He got sick."
+  },
+  {
+    "startTime": 226.0,
+    "endTime": 229.833,
+    "fullTextZH": "每天他都觉得肚子",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 227.084,
+        "endTime": 228.248,
+        "gloss": "every day"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 228.248,
+        "endTime": 228.468,
+        "gloss": "he"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 228.468,
+        "endTime": 228.729,
+        "gloss": "all"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 228.729,
+        "endTime": 229.151,
+        "gloss": "feels"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 229.151,
+        "endTime": 229.492,
+        "gloss": "stomach"
+      }
+    ],
+    "fullTextEN": "Every day he feels his stomach"
+  },
+  {
+    "startTime": 229.833,
+    "endTime": 231.833,
+    "fullTextZH": "很疼很疼。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 229.833,
+        "endTime": 230.399,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 230.399,
+        "endTime": 230.823,
+        "gloss": "hurt"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 230.823,
+        "endTime": 231.146,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 231.146,
+        "endTime": 231.793,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "It hurts a lot."
+  },
+  {
+    "startTime": 232.5,
+    "endTime": 236.433,
+    "fullTextZH": "他去看了很多的医生，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 232.56,
+        "endTime": 232.861,
+        "gloss": "he"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 232.861,
+        "endTime": 233.263,
+        "gloss": "go"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 233.263,
+        "endTime": 233.844,
+        "gloss": "see"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 233.844,
+        "endTime": 234.667,
+        "gloss": "le"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 234.667,
+        "endTime": 235.309,
+        "gloss": "many"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 235.309,
+        "endTime": 235.51,
+        "gloss": "de"
+      },
+      {
+        "word": "医生",
+        "pinyin": "yī shēng",
+        "startTime": 235.51,
+        "endTime": 236.413,
+        "gloss": "doctor"
+      }
+    ],
+    "fullTextEN": "He went to see many doctors,"
+  },
+  {
+    "startTime": 236.866,
+    "endTime": 239.9,
+    "fullTextZH": "吃了很多很多药。",
+    "words": [
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 237.107,
+        "endTime": 237.449,
+        "gloss": "take"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 237.449,
+        "endTime": 238.192,
+        "gloss": "le"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 238.192,
+        "endTime": 239.398,
+        "gloss": "many many"
+      },
+      {
+        "word": "药",
+        "pinyin": "yào",
+        "startTime": 239.398,
+        "endTime": 239.86,
+        "gloss": "medicine"
+      }
+    ],
+    "fullTextEN": "He took a lot of medicine."
+  },
+  {
+    "startTime": 240.5,
+    "endTime": 246.1,
+    "fullTextZH": "可是他还是觉得他的肚子",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 240.62,
+        "endTime": 241.845,
+        "gloss": "but"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 241.845,
+        "endTime": 242.166,
+        "gloss": "he"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 242.166,
+        "endTime": 242.788,
+        "gloss": "still"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 242.788,
+        "endTime": 243.25,
+        "gloss": "feel"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 243.25,
+        "endTime": 243.43,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 243.43,
+        "endTime": 243.711,
+        "gloss": "de"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 243.711,
+        "endTime": 244.253,
+        "gloss": "stomach"
+      }
+    ],
+    "fullTextEN": "But he still felt his stomach"
+  },
+  {
+    "startTime": 246.5,
+    "endTime": 250.3,
+    "fullTextZH": "很疼很疼。",
+    "words": [
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 248.37,
+        "endTime": 248.852,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 248.852,
+        "endTime": 249.254,
+        "gloss": "hurt"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 249.254,
+        "endTime": 249.616,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 249.616,
+        "endTime": 250.26,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "hurt a lot."
+  },
+  {
+    "startTime": 250.966,
+    "endTime": 252.366,
+    "fullTextZH": "过了几天，",
+    "words": [
+      {
+        "word": "过",
+        "pinyin": "guò",
+        "startTime": 251.007,
+        "endTime": 251.27,
+        "gloss": "after"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 251.27,
+        "endTime": 251.494,
+        "gloss": "le"
+      },
+      {
+        "word": "几天",
+        "pinyin": "jǐ tiān",
+        "startTime": 251.494,
+        "endTime": 252.325,
+        "gloss": "few days"
+      }
+    ],
+    "fullTextEN": "After a few days,"
+  },
+  {
+    "startTime": 252.666,
+    "endTime": 255.466,
+    "fullTextZH": "他的朋友来看他。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 252.747,
+        "endTime": 252.968,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 252.968,
+        "endTime": 253.29,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 253.29,
+        "endTime": 253.955,
+        "gloss": "friend"
+      },
+      {
+        "word": "来看",
+        "pinyin": "lái kàn",
+        "startTime": 253.955,
+        "endTime": 254.962,
+        "gloss": "come see"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 254.962,
+        "endTime": 255.426,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "his friend came to see him."
+  },
+  {
+    "startTime": 255.766,
+    "endTime": 257.5,
+    "fullTextZH": "他的朋友问他：",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 255.826,
+        "endTime": 256.008,
+        "gloss": "he"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 256.008,
+        "endTime": 256.169,
+        "gloss": "de"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 256.169,
+        "endTime": 256.653,
+        "gloss": "friend"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 256.653,
+        "endTime": 256.976,
+        "gloss": "ask"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 256.976,
+        "endTime": 257.46,
+        "gloss": "him"
+      }
+    ],
+    "fullTextEN": "His friend asked him:"
+  },
+  {
+    "startTime": 259.4,
+    "endTime": 260.7,
+    "fullTextZH": "“你怎么了？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 259.867,
+        "endTime": 259.887,
+        "gloss": "you"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 259.887,
+        "endTime": 260.172,
+        "gloss": "how"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 260.172,
+        "endTime": 260.659,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "\"What's wrong with you?"
+  },
+  {
+    "startTime": 261.1,
+    "endTime": 263.566,
+    "fullTextZH": "为什么生病了？”",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 261.321,
+        "endTime": 262.383,
+        "gloss": "why"
+      },
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "startTime": 262.383,
+        "endTime": 263.005,
+        "gloss": "sick"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 263.005,
+        "endTime": 263.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Why are you sick?\""
+  },
+  {
+    "startTime": 264.266,
+    "endTime": 269.2,
+    "fullTextZH": "他说：“我在你家里的时候，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 264.326,
+        "endTime": 264.607,
+        "gloss": "he"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 264.607,
+        "endTime": 265.911,
+        "gloss": "say"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 265.991,
+        "endTime": 267.074,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 267.074,
+        "endTime": 267.335,
+        "gloss": "at"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 267.335,
+        "endTime": 267.636,
+        "gloss": "you"
+      },
+      {
+        "word": "家里",
+        "pinyin": "jiā lǐ",
+        "startTime": 267.636,
+        "endTime": 268.157,
+        "gloss": "house"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 268.157,
+        "endTime": 268.378,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 268.378,
+        "endTime": 269.16,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "He said: \"When I was at your house,"
+  },
+  {
+    "startTime": 270.8,
+    "endTime": 273.433,
+    "fullTextZH": "我喝酒了。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 270.9,
+        "endTime": 272.127,
+        "gloss": "I"
+      },
+      {
+        "word": "喝酒",
+        "pinyin": "hē jiǔ",
+        "startTime": 272.127,
+        "endTime": 272.951,
+        "gloss": "drink alcohol"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 272.951,
+        "endTime": 273.393,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I drank alcohol."
+  },
+  {
+    "startTime": 274.366,
+    "endTime": 279.166,
+    "fullTextZH": "杯子里有一条蛇，",
+    "words": [
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 274.587,
+        "endTime": 275.33,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 275.33,
+        "endTime": 276.314,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 276.314,
+        "endTime": 277.097,
+        "gloss": "have"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 277.097,
+        "endTime": 278.242,
+        "gloss": "a"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 278.242,
+        "endTime": 279.126,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "There was a snake in the cup,"
+  },
+  {
+    "startTime": 279.5,
+    "endTime": 282.7,
+    "fullTextZH": "然后我喝了它。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 279.641,
+        "endTime": 280.305,
+        "gloss": "then"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 280.305,
+        "endTime": 281.231,
+        "gloss": "I"
+      },
+      {
+        "word": "喝",
+        "pinyin": "hē",
+        "startTime": 281.231,
+        "endTime": 281.814,
+        "gloss": "drink"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 281.814,
+        "endTime": 282.036,
+        "gloss": "le"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 282.036,
+        "endTime": 282.66,
+        "gloss": "it"
+      }
+    ],
+    "fullTextEN": "and then I drank it."
+  },
+  {
+    "startTime": 283.3,
+    "endTime": 288.633,
+    "fullTextZH": "现在蛇在我的肚子里，",
+    "words": [
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 283.5,
+        "endTime": 284.864,
+        "gloss": "now"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 284.864,
+        "endTime": 285.746,
+        "gloss": "snake"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 285.746,
+        "endTime": 286.087,
+        "gloss": "in"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 286.087,
+        "endTime": 286.528,
+        "gloss": "my"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 286.528,
+        "endTime": 287.029,
+        "gloss": "de"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 287.029,
+        "endTime": 287.911,
+        "gloss": "stomach"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 287.911,
+        "endTime": 288.593,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "Now the snake is in my stomach,"
+  },
+  {
+    "startTime": 289.3,
+    "endTime": 291.9,
+    "fullTextZH": "好疼好疼，",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 289.582,
+        "endTime": 290.126,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 290.126,
+        "endTime": 290.469,
+        "gloss": "hurt"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 290.469,
+        "endTime": 290.711,
+        "gloss": "very"
+      },
+      {
+        "word": "疼",
+        "pinyin": "téng",
+        "startTime": 290.711,
+        "endTime": 290.731,
+        "gloss": "hurt"
+      }
+    ],
+    "fullTextEN": "it hurts a lot,"
+  },
+  {
+    "startTime": 291.9,
+    "endTime": 293.566,
+    "fullTextZH": "我要死了！”",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 291.98,
+        "endTime": 292.181,
+        "gloss": "I"
+      },
+      {
+        "word": "要死",
+        "pinyin": "yào sǐ",
+        "startTime": 292.181,
+        "endTime": 292.944,
+        "gloss": "going to die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 292.944,
+        "endTime": 293.526,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "I'm going to die!\""
+  },
+  {
+    "startTime": 293.566,
+    "endTime": 298.8,
+    "fullTextZH": "朋友很奇怪：",
+    "words": [
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 295.952,
+        "endTime": 297.356,
+        "gloss": "friend"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 297.356,
+        "endTime": 297.777,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 297.777,
+        "endTime": 298.78,
+        "gloss": "puzzled"
+      }
+    ],
+    "fullTextEN": "The friend was very puzzled:"
+  },
+  {
+    "startTime": 299.8,
+    "endTime": 304.2,
+    "fullTextZH": "“杯子里怎么会有蛇呢？”",
+    "words": [
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 299.921,
+        "endTime": 300.563,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 300.563,
+        "endTime": 301.307,
+        "gloss": "inside"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 301.307,
+        "endTime": 301.789,
+        "gloss": "how"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 301.789,
+        "endTime": 302.492,
+        "gloss": "could"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 302.492,
+        "endTime": 303.015,
+        "gloss": "have"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 303.015,
+        "endTime": 303.577,
+        "gloss": "snake"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 303.577,
+        "endTime": 304.16,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "\"How could there be a snake in the cup?\""
+  },
+  {
+    "startTime": 305.666,
+    "endTime": 308.066,
+    "fullTextZH": "朋友和他说：",
+    "words": [
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 305.807,
+        "endTime": 306.291,
+        "gloss": "friend"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 306.291,
+        "endTime": 306.453,
+        "gloss": "to"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 306.453,
+        "endTime": 306.674,
+        "gloss": "him"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 306.674,
+        "endTime": 307.078,
+        "gloss": "say"
+      }
+    ],
+    "fullTextEN": "The friend said to him:"
+  },
+  {
+    "startTime": 308.066,
+    "endTime": 308.566,
+    "fullTextZH": "“走，",
+    "words": [
+      {
+        "word": "走",
+        "pinyin": "zǒu",
+        "startTime": 308.149,
+        "endTime": 308.524,
+        "gloss": "go"
+      }
+    ],
+    "fullTextEN": "Let's go,"
+  },
+  {
+    "startTime": 308.6,
+    "endTime": 311.0,
+    "fullTextZH": "我们去我家看看。”",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 308.681,
+        "endTime": 309.064,
+        "gloss": "we"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 309.064,
+        "endTime": 309.346,
+        "gloss": "go"
+      },
+      {
+        "word": "我家",
+        "pinyin": "wǒ jiā",
+        "startTime": 309.346,
+        "endTime": 310.254,
+        "gloss": "my house"
+      },
+      {
+        "word": "看看",
+        "pinyin": "kàn kàn",
+        "startTime": 310.254,
+        "endTime": 310.96,
+        "gloss": "take a look"
+      }
+    ],
+    "fullTextEN": "let's go to my house and take a look."
+  },
+  {
+    "startTime": 311.3,
+    "endTime": 314.633,
+    "fullTextZH": "他们去了朋友家，",
+    "words": [
+      {
+        "word": "他们",
+        "pinyin": "tā men",
+        "startTime": 311.38,
+        "endTime": 312.244,
+        "gloss": "they"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 312.244,
+        "endTime": 312.766,
+        "gloss": "go"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 312.766,
+        "endTime": 313.368,
+        "gloss": "past"
+      },
+      {
+        "word": "朋友家",
+        "pinyin": "péng yǒu jiā",
+        "startTime": 313.368,
+        "endTime": 314.593,
+        "gloss": "friend's house"
+      }
+    ],
+    "fullTextEN": "They went to a friend's house,"
+  },
+  {
+    "startTime": 315.1,
+    "endTime": 318.2,
+    "fullTextZH": "坐在桌子的旁边。",
+    "words": [
+      {
+        "word": "坐在",
+        "pinyin": "zuò zài",
+        "startTime": 315.281,
+        "endTime": 316.147,
+        "gloss": "sit at"
+      },
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 316.147,
+        "endTime": 316.791,
+        "gloss": "table"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 316.791,
+        "endTime": 317.294,
+        "gloss": "of"
+      },
+      {
+        "word": "旁边",
+        "pinyin": "páng biān",
+        "startTime": 317.294,
+        "endTime": 318.16,
+        "gloss": "beside"
+      }
+    ],
+    "fullTextEN": "sitting next to the table."
+  },
+  {
+    "startTime": 318.2,
+    "endTime": 320.4,
+    "fullTextZH": "桌子上有一个杯子，",
+    "words": [
+      {
+        "word": "桌子",
+        "pinyin": "zhuō zi",
+        "startTime": 318.261,
+        "endTime": 318.664,
+        "gloss": "table"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 318.664,
+        "endTime": 319.189,
+        "gloss": "on"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 319.189,
+        "endTime": 319.371,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 319.371,
+        "endTime": 319.673,
+        "gloss": "a"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 319.673,
+        "endTime": 320.36,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "There is a cup on the table,"
+  },
+  {
+    "startTime": 320.8,
+    "endTime": 323.166,
+    "fullTextZH": "杯子里有酒。",
+    "words": [
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 320.86,
+        "endTime": 321.321,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 321.321,
+        "endTime": 322.023,
+        "gloss": "inside"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 322.023,
+        "endTime": 322.404,
+        "gloss": "there is"
+      },
+      {
+        "word": "酒",
+        "pinyin": "jiǔ",
+        "startTime": 322.404,
+        "endTime": 323.126,
+        "gloss": "wine"
+      }
+    ],
+    "fullTextEN": "There is wine in the cup."
+  },
+  {
+    "startTime": 323.766,
+    "endTime": 326.466,
+    "fullTextZH": "这个人一看——",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 323.826,
+        "endTime": 324.109,
+        "gloss": "this"
+      },
+      {
+        "word": "人一看",
+        "pinyin": "rén yī kàn",
+        "startTime": 324.109,
+        "endTime": 326.426,
+        "gloss": "person looked"
+      }
+    ],
+    "fullTextEN": "This person took a look—"
+  },
+  {
+    "startTime": 326.8,
+    "endTime": 330.566,
+    "fullTextZH": "又有一条蛇！",
+    "words": [
+      {
+        "word": "又",
+        "pinyin": "yòu",
+        "startTime": 328.362,
+        "endTime": 328.663,
+        "gloss": "again"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 328.663,
+        "endTime": 328.843,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 328.843,
+        "endTime": 329.424,
+        "gloss": "a"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 329.424,
+        "endTime": 330.406,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "There is another snake!"
+  },
+  {
+    "startTime": 331.233,
+    "endTime": 334.166,
+    "fullTextZH": "可是朋友笑了，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 331.354,
+        "endTime": 332.137,
+        "gloss": "but"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 332.137,
+        "endTime": 333.101,
+        "gloss": "friend"
+      },
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 333.101,
+        "endTime": 333.824,
+        "gloss": "laugh"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 333.824,
+        "endTime": 334.126,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "But the friend laughed,"
+  },
+  {
+    "startTime": 334.233,
+    "endTime": 337.466,
+    "fullTextZH": "笑了。",
+    "words": [
+      {
+        "word": "笑",
+        "pinyin": "xiào",
+        "startTime": 336.462,
+        "endTime": 337.084,
+        "gloss": "laugh"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 337.084,
+        "endTime": 337.426,
+        "gloss": "past"
+      }
+    ],
+    "fullTextEN": "laughed."
+  },
+  {
+    "startTime": 337.633,
+    "endTime": 341.766,
+    "fullTextZH": "朋友说：“那不是蛇。",
+    "words": [
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 337.733,
+        "endTime": 338.215,
+        "gloss": "friend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 338.215,
+        "endTime": 338.235,
+        "gloss": "say"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 339.298,
+        "endTime": 339.72,
+        "gloss": "that"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 339.72,
+        "endTime": 340.783,
+        "gloss": "not"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 340.783,
+        "endTime": 341.726,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "The friend said: \"That's not a snake."
+  },
+  {
+    "startTime": 342.3,
+    "endTime": 345.0,
+    "fullTextZH": "你看墙上。”",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 342.381,
+        "endTime": 342.643,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 342.643,
+        "endTime": 343.771,
+        "gloss": "look"
+      },
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 343.771,
+        "endTime": 344.96,
+        "gloss": "wall"
+      }
+    ],
+    "fullTextEN": "Look at the wall.\""
+  },
+  {
+    "startTime": 345.833,
+    "endTime": 348.166,
+    "fullTextZH": "墙上？",
+    "words": [
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 345.954,
+        "endTime": 348.126,
+        "gloss": "wall"
+      }
+    ],
+    "fullTextEN": "On the wall?"
+  },
+  {
+    "startTime": 348.166,
+    "endTime": 350.1,
+    "fullTextZH": "墙上有什么？",
+    "words": [
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 348.287,
+        "endTime": 349.073,
+        "gloss": "wall"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 349.073,
+        "endTime": 349.334,
+        "gloss": "there is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 349.334,
+        "endTime": 350.06,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What's on the wall?"
+  },
+  {
+    "startTime": 350.6,
+    "endTime": 354.233,
+    "fullTextZH": "墙上有一条蛇吗？",
+    "words": [
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 350.781,
+        "endTime": 351.684,
+        "gloss": "wall"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 351.684,
+        "endTime": 352.045,
+        "gloss": "there is"
+      },
+      {
+        "word": "一条",
+        "pinyin": "yī tiáo",
+        "startTime": 352.045,
+        "endTime": 353.27,
+        "gloss": "a"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 353.27,
+        "endTime": 353.651,
+        "gloss": "snake"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 353.651,
+        "endTime": 353.852,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is there a snake on the wall?"
+  },
+  {
+    "startTime": 354.8,
+    "endTime": 355.233,
+    "fullTextZH": "不不，",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 354.862,
+        "endTime": 354.882,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 354.882,
+        "endTime": 355.212,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no,"
+  },
+  {
+    "startTime": 355.233,
+    "endTime": 357.033,
+    "fullTextZH": "不不不。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 355.455,
+        "endTime": 355.637,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 355.637,
+        "endTime": 355.82,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 355.82,
+        "endTime": 356.002,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no."
+  },
+  {
+    "startTime": 357.033,
+    "endTime": 361.433,
+    "fullTextZH": "墙上有一个……",
+    "words": [
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 357.234,
+        "endTime": 358.138,
+        "gloss": "wall"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 358.138,
+        "endTime": 358.459,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 358.459,
+        "endTime": 361.393,
+        "gloss": "a"
+      }
+    ],
+    "fullTextEN": "There is a... on the wall"
+  },
+  {
+    "startTime": 361.666,
+    "endTime": 363.266,
+    "fullTextZH": "有一个弓。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 361.788,
+        "endTime": 362.071,
+        "gloss": "there is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 362.071,
+        "endTime": 362.76,
+        "gloss": "a"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 362.76,
+        "endTime": 363.225,
+        "gloss": "bow"
+      }
+    ],
+    "fullTextEN": "There is a bow."
+  },
+  {
+    "startTime": 363.6,
+    "endTime": 364.9,
+    "fullTextZH": "弓是什么呢？",
+    "words": [
+      {
+        "word": "弓是",
+        "pinyin": "gōng shì",
+        "startTime": 363.661,
+        "endTime": 364.169,
+        "gloss": "bow"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 364.169,
+        "endTime": 364.473,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 364.473,
+        "endTime": 364.859,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "What is a bow?"
+  },
+  {
+    "startTime": 366.233,
+    "endTime": 368.066,
+    "fullTextZH": "这个就是弓。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 366.314,
+        "endTime": 367.059,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 367.059,
+        "endTime": 367.562,
+        "gloss": "is exactly"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 367.562,
+        "endTime": 368.046,
+        "gloss": "bow"
+      }
+    ],
+    "fullTextEN": "This is a bow."
+  },
+  {
+    "startTime": 368.566,
+    "endTime": 371.6,
+    "fullTextZH": "看起来像月亮一样。",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 368.666,
+        "endTime": 369.932,
+        "gloss": "looks"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 369.932,
+        "endTime": 370.515,
+        "gloss": "like"
+      },
+      {
+        "word": "月亮",
+        "pinyin": "yuè liàng",
+        "startTime": 370.515,
+        "endTime": 371.057,
+        "gloss": "moon"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 371.057,
+        "endTime": 371.56,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "It looks like the moon."
+  },
+  {
+    "startTime": 371.866,
+    "endTime": 374.366,
+    "fullTextZH": "朋友说：“你看，",
+    "words": [
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 371.947,
+        "endTime": 372.41,
+        "gloss": "friend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 372.41,
+        "endTime": 373.499,
+        "gloss": "said"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 373.539,
+        "endTime": 373.741,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 373.741,
+        "endTime": 374.326,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "The friend said, \"Look,"
+  },
+  {
+    "startTime": 374.7,
+    "endTime": 376.9,
+    "fullTextZH": "墙上的弓，",
+    "words": [
+      {
+        "word": "墙上",
+        "pinyin": "qiáng shàng",
+        "startTime": 374.922,
+        "endTime": 375.83,
+        "gloss": "on wall"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 375.83,
+        "endTime": 376.254,
+        "gloss": "of"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 376.254,
+        "endTime": 376.86,
+        "gloss": "bow"
+      }
+    ],
+    "fullTextEN": "the bow on the wall,"
+  },
+  {
+    "startTime": 376.966,
+    "endTime": 378.633,
+    "fullTextZH": "在杯子里",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 377.066,
+        "endTime": 377.408,
+        "gloss": "in"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 377.408,
+        "endTime": 377.97,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 377.97,
+        "endTime": 377.99,
+        "gloss": "inside"
+      }
+    ],
+    "fullTextEN": "in the cup"
+  },
+  {
+    "startTime": 379.0,
+    "endTime": 382.433,
+    "fullTextZH": "看起来像蛇一样，",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 379.08,
+        "endTime": 380.566,
+        "gloss": "looks"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 380.566,
+        "endTime": 381.148,
+        "gloss": "like"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 381.148,
+        "endTime": 381.791,
+        "gloss": "snake"
+      },
+      {
+        "word": "一样",
+        "pinyin": "yī yàng",
+        "startTime": 381.791,
+        "endTime": 382.393,
+        "gloss": "same"
+      }
+    ],
+    "fullTextEN": "looks like a snake,"
+  },
+  {
+    "startTime": 383.1,
+    "endTime": 385.7,
+    "fullTextZH": "可是不是蛇——",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 383.201,
+        "endTime": 384.067,
+        "gloss": "but"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 384.067,
+        "endTime": 384.874,
+        "gloss": "not"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 384.874,
+        "endTime": 385.66,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "but it's not a snake—"
+  },
+  {
+    "startTime": 385.866,
+    "endTime": 390.266,
+    "fullTextZH": "是弓的影子。”",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 386.027,
+        "endTime": 386.469,
+        "gloss": "is"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 386.469,
+        "endTime": 386.951,
+        "gloss": "bow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 386.951,
+        "endTime": 387.594,
+        "gloss": "of"
+      },
+      {
+        "word": "影子",
+        "pinyin": "yǐng zi",
+        "startTime": 387.594,
+        "endTime": 389.583,
+        "gloss": "shadow"
+      }
+    ],
+    "fullTextEN": "it's the shadow of a bow.\""
+  },
+  {
+    "startTime": 390.566,
+    "endTime": 393.8,
+    "fullTextZH": "这个人一看：",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 390.646,
+        "endTime": 390.948,
+        "gloss": "this"
+      },
+      {
+        "word": "人一看",
+        "pinyin": "rén yī kàn",
+        "startTime": 390.948,
+        "endTime": 393.76,
+        "gloss": "person looked"
+      }
+    ],
+    "fullTextEN": "This person looked:"
+  },
+  {
+    "startTime": 393.8,
+    "endTime": 399.566,
+    "fullTextZH": "不是蛇，真的是弓的影子。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 393.88,
+        "endTime": 394.461,
+        "gloss": "not"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 394.461,
+        "endTime": 394.941,
+        "gloss": "snake"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 395.862,
+        "endTime": 396.663,
+        "gloss": "really"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 396.663,
+        "endTime": 397.324,
+        "gloss": "is"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 397.324,
+        "endTime": 397.824,
+        "gloss": "bow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 397.824,
+        "endTime": 398.445,
+        "gloss": "of"
+      },
+      {
+        "word": "影子",
+        "pinyin": "yǐng zi",
+        "startTime": 398.445,
+        "endTime": 399.526,
+        "gloss": "shadow"
+      }
+    ],
+    "fullTextEN": "it's not a snake, it's really the shadow of a bow."
+  },
+  {
+    "startTime": 399.9,
+    "endTime": 403.866,
+    "fullTextZH": "所以现在他的肚子疼吗？",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 400.04,
+        "endTime": 400.401,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 400.401,
+        "endTime": 401.182,
+        "gloss": "now"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 401.182,
+        "endTime": 401.362,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 401.362,
+        "endTime": 401.683,
+        "gloss": "of"
+      },
+      {
+        "word": "肚子疼",
+        "pinyin": "dǔ zi téng",
+        "startTime": 401.683,
+        "endTime": 403.345,
+        "gloss": "stomach hurts"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 403.345,
+        "endTime": 403.826,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "So is his stomach hurting now?"
+  },
+  {
+    "startTime": 404.2,
+    "endTime": 406.533,
+    "fullTextZH": "不不不不。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 404.904,
+        "endTime": 405.427,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 405.427,
+        "endTime": 405.648,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 405.648,
+        "endTime": 405.849,
+        "gloss": "no"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 405.849,
+        "endTime": 406.352,
+        "gloss": "no"
+      }
+    ],
+    "fullTextEN": "No, no, no, no."
+  },
+  {
+    "startTime": 406.533,
+    "endTime": 408.966,
+    "fullTextZH": "他的肚子不疼了。",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 406.533,
+        "endTime": 406.553,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 406.553,
+        "endTime": 406.694,
+        "gloss": "of"
+      },
+      {
+        "word": "肚子",
+        "pinyin": "dǔ zi",
+        "startTime": 406.694,
+        "endTime": 407.619,
+        "gloss": "stomach"
+      },
+      {
+        "word": "不疼",
+        "pinyin": "bù téng",
+        "startTime": 407.619,
+        "endTime": 408.443,
+        "gloss": "not hurt"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 408.443,
+        "endTime": 408.664,
+        "gloss": "anymore"
+      }
+    ],
+    "fullTextEN": "His stomach doesn't hurt anymore."
+  },
+  {
+    "startTime": 409.5,
+    "endTime": 413.9,
+    "fullTextZH": "所以他也不会死了。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 409.661,
+        "endTime": 410.022,
+        "gloss": "so"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 410.022,
+        "endTime": 410.304,
+        "gloss": "he"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 410.304,
+        "endTime": 410.685,
+        "gloss": "also"
+      },
+      {
+        "word": "不会",
+        "pinyin": "bú huì",
+        "startTime": 410.685,
+        "endTime": 412.895,
+        "gloss": "won't"
+      },
+      {
+        "word": "死",
+        "pinyin": "sǐ",
+        "startTime": 412.895,
+        "endTime": 413.317,
+        "gloss": "die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 413.317,
+        "endTime": 413.337,
+        "gloss": "anymore"
+      }
+    ],
+    "fullTextEN": "So he won't die anymore."
+  },
+  {
+    "startTime": 413.9,
+    "endTime": 417.433,
+    "fullTextZH": "你看，杯子里的东西",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 414.322,
+        "endTime": 414.442,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 414.442,
+        "endTime": 414.462,
+        "gloss": "look"
+      },
+      {
+        "word": "杯子",
+        "pinyin": "bēi zi",
+        "startTime": 415.606,
+        "endTime": 416.188,
+        "gloss": "cup"
+      },
+      {
+        "word": "里",
+        "pinyin": "lǐ",
+        "startTime": 416.188,
+        "endTime": 416.349,
+        "gloss": "inside"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 416.349,
+        "endTime": 416.55,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 416.55,
+        "endTime": 416.951,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "Look, the thing in the cup"
+  },
+  {
+    "startTime": 417.466,
+    "endTime": 420.433,
+    "fullTextZH": "看起来像蛇，",
+    "words": [
+      {
+        "word": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "startTime": 417.606,
+        "endTime": 419.33,
+        "gloss": "looks"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 419.33,
+        "endTime": 419.731,
+        "gloss": "like"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 419.731,
+        "endTime": 420.393,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "looks like a snake,"
+  },
+  {
+    "startTime": 420.9,
+    "endTime": 424.366,
+    "fullTextZH": "但其实是弓的影子。",
+    "words": [
+      {
+        "word": "但",
+        "pinyin": "dàn",
+        "startTime": 420.96,
+        "endTime": 421.261,
+        "gloss": "but"
+      },
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 421.261,
+        "endTime": 422.142,
+        "gloss": "actually"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 422.142,
+        "endTime": 422.543,
+        "gloss": "is"
+      },
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 422.543,
+        "endTime": 422.924,
+        "gloss": "bow"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 422.924,
+        "endTime": 423.444,
+        "gloss": "of"
+      },
+      {
+        "word": "影子",
+        "pinyin": "yǐng zi",
+        "startTime": 423.444,
+        "endTime": 424.326,
+        "gloss": "shadow"
+      }
+    ],
+    "fullTextEN": "but it's actually the shadow of a bow."
+  },
+  {
+    "startTime": 424.4,
+    "endTime": 427.833,
+    "fullTextZH": "他以为有蛇，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 424.48,
+        "endTime": 425.344,
+        "gloss": "he"
+      },
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 425.344,
+        "endTime": 426.649,
+        "gloss": "thought"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 426.649,
+        "endTime": 427.05,
+        "gloss": "there is"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 427.05,
+        "endTime": 427.793,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "He thought there was a snake,"
+  },
+  {
+    "startTime": 428.366,
+    "endTime": 431.566,
+    "fullTextZH": "其实不是蛇。",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 428.507,
+        "endTime": 429.553,
+        "gloss": "actually"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 429.553,
+        "endTime": 430.62,
+        "gloss": "not"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 430.62,
+        "endTime": 430.821,
+        "gloss": "snake"
+      }
+    ],
+    "fullTextEN": "but it's actually not a snake."
+  },
+  {
+    "startTime": 432.266,
+    "endTime": 435.166,
+    "fullTextZH": "他以为自己要死了，",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 432.326,
+        "endTime": 432.568,
+        "gloss": "he"
+      },
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 432.568,
+        "endTime": 433.092,
+        "gloss": "thought"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 433.092,
+        "endTime": 433.555,
+        "gloss": "himself"
+      },
+      {
+        "word": "要死",
+        "pinyin": "yào sǐ",
+        "startTime": 433.555,
+        "endTime": 434.542,
+        "gloss": "going to die"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 434.542,
+        "endTime": 435.126,
+        "gloss": "already"
+      }
+    ],
+    "fullTextEN": "He thought he was going to die,"
+  },
+  {
+    "startTime": 435.633,
+    "endTime": 439.633,
+    "fullTextZH": "其实没有生病。",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 435.774,
+        "endTime": 436.839,
+        "gloss": "actually"
+      },
+      {
+        "word": "没有",
+        "pinyin": "méi yǒu",
+        "startTime": 436.839,
+        "endTime": 438.769,
+        "gloss": "not"
+      },
+      {
+        "word": "生病",
+        "pinyin": "shēng bìng",
+        "startTime": 438.769,
+        "endTime": 439.593,
+        "gloss": "sick"
+      }
+    ],
+    "fullTextEN": "Actually, I'm not sick."
+  },
+  {
+    "startTime": 440.5,
+    "endTime": 444.1,
+    "fullTextZH": "在中国，这个故事非常有名，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 440.621,
+        "endTime": 440.842,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 440.842,
+        "endTime": 441.123,
+        "gloss": "China"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 441.807,
+        "endTime": 442.129,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 442.129,
+        "endTime": 442.853,
+        "gloss": "story"
+      },
+      {
+        "word": "非常",
+        "pinyin": "fēi cháng",
+        "startTime": 442.853,
+        "endTime": 443.396,
+        "gloss": "very"
+      },
+      {
+        "word": "有名",
+        "pinyin": "yǒu míng",
+        "startTime": 443.396,
+        "endTime": 444.06,
+        "gloss": "famous"
+      }
+    ],
+    "fullTextEN": "In China, this story is very famous,"
+  },
+  {
+    "startTime": 444.5,
+    "endTime": 448.866,
+    "fullTextZH": "叫“杯弓蛇影”。",
+    "words": [
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 444.62,
+        "endTime": 445.341,
+        "gloss": "called"
+      },
+      {
+        "word": "杯弓蛇影",
+        "pinyin": "bēi gōng shé yǐng",
+        "startTime": 445.581,
+        "endTime": 448.826,
+        "gloss": "The Shadow of the Bow and Snake"
+      }
+    ],
+    "fullTextEN": "called 'The Shadow of the Bow and Snake'."
+  },
+  {
+    "startTime": 450.433,
+    "endTime": 451.6,
+    "fullTextZH": "杯、",
+    "words": [
+      {
+        "word": "杯",
+        "pinyin": "bēi",
+        "startTime": 450.473,
+        "endTime": 451.56,
+        "gloss": "cup"
+      }
+    ],
+    "fullTextEN": "Cup,"
+  },
+  {
+    "startTime": 451.6,
+    "endTime": 452.766,
+    "fullTextZH": "弓、",
+    "words": [
+      {
+        "word": "弓",
+        "pinyin": "gōng",
+        "startTime": 451.982,
+        "endTime": 452.726,
+        "gloss": "bow"
+      }
+    ],
+    "fullTextEN": "Bow,"
+  },
+  {
+    "startTime": 453.433,
+    "endTime": 458.633,
+    "fullTextZH": "蛇和蛇的影子。",
+    "words": [
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 453.794,
+        "endTime": 455.521,
+        "gloss": "snake"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 455.521,
+        "endTime": 456.304,
+        "gloss": "and"
+      },
+      {
+        "word": "蛇",
+        "pinyin": "shé",
+        "startTime": 456.304,
+        "endTime": 456.766,
+        "gloss": "snake"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 456.766,
+        "endTime": 457.689,
+        "gloss": "of"
+      },
+      {
+        "word": "影子",
+        "pinyin": "yǐng zi",
+        "startTime": 457.689,
+        "endTime": 458.593,
+        "gloss": "shadow"
+      }
+    ],
+    "fullTextEN": "Snake and the snake's shadow."
+  },
+  {
+    "startTime": 459.433,
+    "endTime": 460.866,
+    "fullTextZH": "它告诉我们：",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 459.494,
+        "endTime": 459.695,
+        "gloss": "it"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 459.695,
+        "endTime": 460.139,
+        "gloss": "tells"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 460.139,
+        "endTime": 460.846,
+        "gloss": "us"
+      }
+    ],
+    "fullTextEN": "It tells us:"
+  },
+  {
+    "startTime": 461.066,
+    "endTime": 464.166,
+    "fullTextZH": "有时候我们害怕的事情，",
+    "words": [
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 461.167,
+        "endTime": 462.234,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 462.234,
+        "endTime": 462.676,
+        "gloss": "we"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 462.676,
+        "endTime": 463.22,
+        "gloss": "fear"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 463.22,
+        "endTime": 463.381,
+        "gloss": "of"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 463.381,
+        "endTime": 464.126,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Sometimes the things we fear,"
+  },
+  {
+    "startTime": 464.3,
+    "endTime": 466.766,
+    "fullTextZH": "其实不是真的；",
+    "words": [
+      {
+        "word": "其实",
+        "pinyin": "qí shí",
+        "startTime": 464.46,
+        "endTime": 465.282,
+        "gloss": "actually"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 465.282,
+        "endTime": 466.024,
+        "gloss": "not"
+      },
+      {
+        "word": "真的",
+        "pinyin": "zhēn de",
+        "startTime": 466.024,
+        "endTime": 466.726,
+        "gloss": "real"
+      }
+    ],
+    "fullTextEN": "are actually not real;"
+  },
+  {
+    "startTime": 467.166,
+    "endTime": 470.6,
+    "fullTextZH": "只是我们以为的事情。",
+    "words": [
+      {
+        "word": "只是",
+        "pinyin": "zhǐ shì",
+        "startTime": 467.266,
+        "endTime": 468.03,
+        "gloss": "just"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 468.03,
+        "endTime": 468.833,
+        "gloss": "we"
+      },
+      {
+        "word": "以为",
+        "pinyin": "yǐ wéi",
+        "startTime": 468.833,
+        "endTime": 469.616,
+        "gloss": "imagine"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 469.616,
+        "endTime": 469.877,
+        "gloss": "of"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 469.877,
+        "endTime": 470.56,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "they are just things we imagine."
+  },
+  {
+    "startTime": 471.066,
+    "endTime": 475.566,
+    "fullTextZH": "是我们让自己害怕。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 471.207,
+        "endTime": 471.528,
+        "gloss": "is"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 471.528,
+        "endTime": 472.472,
+        "gloss": "we"
+      },
+      {
+        "word": "让",
+        "pinyin": "ràng",
+        "startTime": 472.472,
+        "endTime": 472.894,
+        "gloss": "make"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 472.894,
+        "endTime": 474.562,
+        "gloss": "ourselves"
+      },
+      {
+        "word": "害怕",
+        "pinyin": "hài pà",
+        "startTime": 474.562,
+        "endTime": 475.526,
+        "gloss": "afraid"
+      }
+    ],
+    "fullTextEN": "We make ourselves afraid."
+  },
+  {
+    "startTime": 477.233,
+    "endTime": 479.7,
+    "fullTextZH": "你喜欢这个故事吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 477.313,
+        "endTime": 477.855,
+        "gloss": "you"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 477.855,
+        "endTime": 478.617,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 478.617,
+        "endTime": 478.938,
+        "gloss": "this"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 478.938,
+        "endTime": 479.279,
+        "gloss": "story"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 479.279,
+        "endTime": 479.66,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do you like this story?"
+  },
+  {
+    "startTime": 480.1,
+    "endTime": 482.8,
+    "fullTextZH": "欢迎留言告诉我。",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 480.281,
+        "endTime": 480.966,
+        "gloss": "welcome"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 480.966,
+        "endTime": 481.913,
+        "gloss": "leave comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 481.913,
+        "endTime": 482.337,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 482.337,
+        "endTime": 482.76,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment and tell me."
+  },
+  {
+    "startTime": 483.266,
+    "endTime": 484.3,
+    "fullTextZH": "我是蔚萱。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 483.388,
+        "endTime": 483.55,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 483.55,
+        "endTime": 483.692,
+        "gloss": "am"
+      },
+      {
+        "word": "蔚",
+        "pinyin": "wèi",
+        "startTime": 483.692,
+        "endTime": 483.874,
+        "gloss": "Wei"
+      },
+      {
+        "word": "萱",
+        "pinyin": "xuān",
+        "startTime": 483.874,
+        "endTime": 484.28,
+        "gloss": "Xuan"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 484.3,
+    "endTime": 487.766,
+    "fullTextZH": "我们下次再见，拜拜！",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 484.38,
+        "endTime": 484.741,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 484.741,
+        "endTime": 485.342,
+        "gloss": "next time"
+      },
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 485.342,
+        "endTime": 486.464,
+        "gloss": "see again"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 486.544,
+        "endTime": 487.726,
+        "gloss": "bye"
+      }
+    ],
+    "fullTextEN": "See you next time, bye!"
+  }
+]

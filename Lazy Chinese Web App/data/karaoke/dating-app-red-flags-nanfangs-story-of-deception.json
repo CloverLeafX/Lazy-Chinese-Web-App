@@ -1,0 +1,5092 @@
+[
+  {
+    "startTime": 0.466,
+    "endTime": 2.866,
+    "fullTextZH": "你好我是Weixuan",
+    "words": [
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 0.708,
+        "endTime": 1.777,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 1.777,
+        "endTime": 1.999,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 1.999,
+        "endTime": 2.221,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "Hello, I am Weixuan."
+  },
+  {
+    "startTime": 3.066,
+    "endTime": 5.333,
+    "fullTextZH": "我有一个学生",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 3.427,
+        "endTime": 3.628,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 3.628,
+        "endTime": 3.949,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 3.949,
+        "endTime": 4.651,
+        "gloss": "a"
+      },
+      {
+        "word": "学生",
+        "pinyin": "xué shēng",
+        "startTime": 4.651,
+        "endTime": 4.972,
+        "gloss": "student"
+      }
+    ],
+    "fullTextEN": "I have a student."
+  },
+  {
+    "startTime": 5.6,
+    "endTime": 7.566,
+    "fullTextZH": "她是越南人",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 5.781,
+        "endTime": 6.142,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 6.142,
+        "endTime": 6.743,
+        "gloss": "is"
+      },
+      {
+        "word": "越南人",
+        "pinyin": "yuè nán rén",
+        "startTime": 6.743,
+        "endTime": 7.225,
+        "gloss": "Vietnamese"
+      }
+    ],
+    "fullTextEN": "She is Vietnamese."
+  },
+  {
+    "startTime": 8.0,
+    "endTime": 11.333,
+    "fullTextZH": "但是现在住在美国",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 8.221,
+        "endTime": 8.582,
+        "gloss": "but"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 8.582,
+        "endTime": 9.687,
+        "gloss": "now"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 9.687,
+        "endTime": 10.028,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 10.028,
+        "endTime": 10.65,
+        "gloss": "in"
+      },
+      {
+        "word": "美国",
+        "pinyin": "měi guó",
+        "startTime": 10.65,
+        "endTime": 11.032,
+        "gloss": "USA"
+      }
+    ],
+    "fullTextEN": "But now she lives in the USA."
+  },
+  {
+    "startTime": 11.966,
+    "endTime": 13.966,
+    "fullTextZH": "她叫南方",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 12.128,
+        "endTime": 12.491,
+        "gloss": "she"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 12.491,
+        "endTime": 13.158,
+        "gloss": "called"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 13.158,
+        "endTime": 13.663,
+        "gloss": "Nanfang"
+      }
+    ],
+    "fullTextEN": "Her name is Nanfang."
+  },
+  {
+    "startTime": 14.5,
+    "endTime": 18.266,
+    "fullTextZH": "对南是东南西北的南",
+    "words": [
+      {
+        "word": "对南",
+        "pinyin": "duì nán",
+        "startTime": 14.66,
+        "endTime": 16.383,
+        "gloss": "yes"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 16.383,
+        "endTime": 16.643,
+        "gloss": "is"
+      },
+      {
+        "word": "东南西北",
+        "pinyin": "dōng nán xī běi",
+        "startTime": 16.643,
+        "endTime": 17.785,
+        "gloss": "east-south-west-north"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 17.785,
+        "endTime": 17.966,
+        "gloss": "of"
+      },
+      {
+        "word": "南",
+        "pinyin": "nán",
+        "startTime": 17.966,
+        "endTime": 17.986,
+        "gloss": "south"
+      }
+    ],
+    "fullTextEN": "Yes, Nan as in the south of east, south, west, north."
+  },
+  {
+    "startTime": 19.066,
+    "endTime": 21.3,
+    "fullTextZH": "方是方向的方",
+    "words": [
+      {
+        "word": "方是",
+        "pinyin": "fāng shì",
+        "startTime": 19.187,
+        "endTime": 20.153,
+        "gloss": "fang"
+      },
+      {
+        "word": "方向",
+        "pinyin": "fāng xiàng",
+        "startTime": 20.153,
+        "endTime": 20.736,
+        "gloss": "direction"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 20.736,
+        "endTime": 20.978,
+        "gloss": "of"
+      },
+      {
+        "word": "方",
+        "pinyin": "fāng",
+        "startTime": 20.978,
+        "endTime": 20.998,
+        "gloss": "fang"
+      }
+    ],
+    "fullTextEN": "Fang as in direction."
+  },
+  {
+    "startTime": 22.0,
+    "endTime": 25.8,
+    "fullTextZH": "在中国我们认识新的朋友的时候",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 22.201,
+        "endTime": 22.382,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 22.382,
+        "endTime": 23.186,
+        "gloss": "China"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 23.186,
+        "endTime": 23.749,
+        "gloss": "we"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 23.749,
+        "endTime": 24.453,
+        "gloss": "meet"
+      },
+      {
+        "word": "新",
+        "pinyin": "xīn",
+        "startTime": 24.453,
+        "endTime": 24.694,
+        "gloss": "new"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 24.694,
+        "endTime": 24.895,
+        "gloss": "of"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 24.895,
+        "endTime": 25.277,
+        "gloss": "friends"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 25.277,
+        "endTime": 25.438,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 25.438,
+        "endTime": 25.639,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "In China, when we meet new friends,"
+  },
+  {
+    "startTime": 25.8,
+    "endTime": 29.766,
+    "fullTextZH": "我们会问你是哪里人",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 26.141,
+        "endTime": 26.461,
+        "gloss": "we"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 26.461,
+        "endTime": 26.621,
+        "gloss": "will"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 26.621,
+        "endTime": 28.083,
+        "gloss": "ask"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 28.083,
+        "endTime": 28.785,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 28.785,
+        "endTime": 29.025,
+        "gloss": "are"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 29.025,
+        "endTime": 29.405,
+        "gloss": "where"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 29.405,
+        "endTime": 29.425,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "we will ask where you are from."
+  },
+  {
+    "startTime": 30.4,
+    "endTime": 35.9,
+    "fullTextZH": "或者你是北方人还是南方人",
+    "words": [
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 30.601,
+        "endTime": 32.046,
+        "gloss": "or"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 32.046,
+        "endTime": 32.528,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 32.528,
+        "endTime": 33.07,
+        "gloss": "are"
+      },
+      {
+        "word": "北方",
+        "pinyin": "běi fāng",
+        "startTime": 33.07,
+        "endTime": 33.612,
+        "gloss": "north"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 33.612,
+        "endTime": 34.274,
+        "gloss": "person"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 34.274,
+        "endTime": 35.077,
+        "gloss": "or"
+      },
+      {
+        "word": "南方人",
+        "pinyin": "nán fāng rén",
+        "startTime": 35.077,
+        "endTime": 35.599,
+        "gloss": "south person"
+      }
+    ],
+    "fullTextEN": "Or if you are from the north or the south."
+  },
+  {
+    "startTime": 36.766,
+    "endTime": 41.066,
+    "fullTextZH": "有时候我们听对方的口音",
+    "words": [
+      {
+        "word": "有时候",
+        "pinyin": "yǒu shí hòu",
+        "startTime": 36.927,
+        "endTime": 37.952,
+        "gloss": "sometimes"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 37.952,
+        "endTime": 38.615,
+        "gloss": "we"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 38.615,
+        "endTime": 39.338,
+        "gloss": "listen"
+      },
+      {
+        "word": "对方",
+        "pinyin": "duì fāng",
+        "startTime": 39.338,
+        "endTime": 39.921,
+        "gloss": "other person"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 39.921,
+        "endTime": 40.262,
+        "gloss": "of"
+      },
+      {
+        "word": "口音",
+        "pinyin": "kǒu yīn",
+        "startTime": 40.262,
+        "endTime": 40.765,
+        "gloss": "accent"
+      }
+    ],
+    "fullTextEN": "Sometimes we listen to the other person's accent."
+  },
+  {
+    "startTime": 41.466,
+    "endTime": 45.4,
+    "fullTextZH": "可以大概知道她是哪里人",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 41.667,
+        "endTime": 42.189,
+        "gloss": "can"
+      },
+      {
+        "word": "大概",
+        "pinyin": "dà gài",
+        "startTime": 42.189,
+        "endTime": 43.212,
+        "gloss": "roughly"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 43.212,
+        "endTime": 43.895,
+        "gloss": "know"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 43.895,
+        "endTime": 44.276,
+        "gloss": "she"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 44.276,
+        "endTime": 44.597,
+        "gloss": "is"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 44.597,
+        "endTime": 45.099,
+        "gloss": "where"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 45.099,
+        "endTime": 45.119,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "We can roughly know where she is from."
+  },
+  {
+    "startTime": 46.4,
+    "endTime": 49.166,
+    "fullTextZH": "你介绍自己的时候",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 46.58,
+        "endTime": 47.242,
+        "gloss": "you"
+      },
+      {
+        "word": "介绍",
+        "pinyin": "jiè shào",
+        "startTime": 47.242,
+        "endTime": 48.084,
+        "gloss": "introduce"
+      },
+      {
+        "word": "自己",
+        "pinyin": "zì jǐ",
+        "startTime": 48.084,
+        "endTime": 48.444,
+        "gloss": "self"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 48.444,
+        "endTime": 48.645,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 48.645,
+        "endTime": 48.865,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "When you introduce yourself,"
+  },
+  {
+    "startTime": 49.533,
+    "endTime": 52.9,
+    "fullTextZH": "也可以说你是哪里人",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 49.733,
+        "endTime": 50.074,
+        "gloss": "also"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 50.074,
+        "endTime": 50.555,
+        "gloss": "can"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 50.555,
+        "endTime": 51.537,
+        "gloss": "say"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 51.537,
+        "endTime": 51.898,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 51.898,
+        "endTime": 52.158,
+        "gloss": "are"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 52.158,
+        "endTime": 52.519,
+        "gloss": "where"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 52.519,
+        "endTime": 52.539,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "you can also say where you are from."
+  },
+  {
+    "startTime": 53.533,
+    "endTime": 55.066,
+    "fullTextZH": "比如Weixuan",
+    "words": [
+      {
+        "word": "比如",
+        "pinyin": "bǐ rú",
+        "startTime": 53.694,
+        "endTime": 54.501,
+        "gloss": "for example"
+      }
+    ],
+    "fullTextEN": "For example, Weixuan."
+  },
+  {
+    "startTime": 55.4,
+    "endTime": 57.533,
+    "fullTextZH": "我会说你好",
+    "words": [
+      {
+        "word": "我会",
+        "pinyin": "wǒ huì",
+        "startTime": 55.722,
+        "endTime": 56.124,
+        "gloss": "I will"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 56.124,
+        "endTime": 56.97,
+        "gloss": "say"
+      },
+      {
+        "word": "你好",
+        "pinyin": "nǐ hǎo",
+        "startTime": 56.97,
+        "endTime": 57.131,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "I will say hello."
+  },
+  {
+    "startTime": 57.533,
+    "endTime": 59.2,
+    "fullTextZH": "我是Weixuan",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 57.915,
+        "endTime": 58.176,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 58.176,
+        "endTime": 58.537,
+        "gloss": "am"
+      }
+    ],
+    "fullTextEN": "I am Weixuan."
+  },
+  {
+    "startTime": 59.4,
+    "endTime": 61.666,
+    "fullTextZH": "我是北方人",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 59.761,
+        "endTime": 60.122,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 60.122,
+        "endTime": 60.663,
+        "gloss": "am"
+      },
+      {
+        "word": "北方",
+        "pinyin": "běi fāng",
+        "startTime": 60.663,
+        "endTime": 61.245,
+        "gloss": "north"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 61.245,
+        "endTime": 61.265,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "I am from the north."
+  },
+  {
+    "startTime": 61.666,
+    "endTime": 63.8,
+    "fullTextZH": "我来自内蒙古",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 61.968,
+        "endTime": 62.21,
+        "gloss": "I"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 62.21,
+        "endTime": 63.156,
+        "gloss": "from"
+      },
+      {
+        "word": "内蒙古",
+        "pinyin": "nèi méng gǔ",
+        "startTime": 63.156,
+        "endTime": 63.659,
+        "gloss": "Inner Mongolia"
+      }
+    ],
+    "fullTextEN": "I am from Inner Mongolia."
+  },
+  {
+    "startTime": 64.966,
+    "endTime": 68.266,
+    "fullTextZH": "好我们继续说说南方",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 65.127,
+        "endTime": 66.012,
+        "gloss": "okay"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 66.012,
+        "endTime": 66.475,
+        "gloss": "we"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 66.475,
+        "endTime": 67.059,
+        "gloss": "continue"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 67.059,
+        "endTime": 67.32,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 67.32,
+        "endTime": 67.682,
+        "gloss": "about"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 67.682,
+        "endTime": 67.984,
+        "gloss": "Nanfang"
+      }
+    ],
+    "fullTextEN": "Okay, let's continue talking about Nanfang."
+  },
+  {
+    "startTime": 69.3,
+    "endTime": 72.166,
+    "fullTextZH": "对所以它叫南方",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 69.5,
+        "endTime": 70.302,
+        "gloss": "right"
+      },
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 70.302,
+        "endTime": 70.903,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 70.903,
+        "endTime": 71.104,
+        "gloss": "it"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 71.104,
+        "endTime": 71.444,
+        "gloss": "called"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 71.444,
+        "endTime": 71.885,
+        "gloss": "South"
+      }
+    ],
+    "fullTextEN": "That's why it's called the South."
+  },
+  {
+    "startTime": 72.566,
+    "endTime": 76.933,
+    "fullTextZH": "是因为它来自越南的南方吗",
+    "words": [
+      {
+        "word": "是因为",
+        "pinyin": "shì yīn wèi",
+        "startTime": 72.746,
+        "endTime": 73.708,
+        "gloss": "is because"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 73.708,
+        "endTime": 74.129,
+        "gloss": "it"
+      },
+      {
+        "word": "来自",
+        "pinyin": "lái zì",
+        "startTime": 74.129,
+        "endTime": 75.03,
+        "gloss": "comes from"
+      },
+      {
+        "word": "越南",
+        "pinyin": "yuè nán",
+        "startTime": 75.03,
+        "endTime": 75.611,
+        "gloss": "Vietnam"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 75.611,
+        "endTime": 76.152,
+        "gloss": "of"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 76.152,
+        "endTime": 76.653,
+        "gloss": "south"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 76.653,
+        "endTime": 76.673,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Is it because it comes from the south of Vietnam?"
+  },
+  {
+    "startTime": 78.066,
+    "endTime": 83.166,
+    "fullTextZH": "不因为它的名字听起来像南方",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 78.287,
+        "endTime": 79.15,
+        "gloss": "no"
+      },
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 79.15,
+        "endTime": 79.652,
+        "gloss": "because"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 79.652,
+        "endTime": 79.813,
+        "gloss": "its"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 79.813,
+        "endTime": 79.933,
+        "gloss": "name"
+      },
+      {
+        "word": "名字",
+        "pinyin": "míng zì",
+        "startTime": 79.933,
+        "endTime": 80.716,
+        "gloss": "sounds"
+      },
+      {
+        "word": "听",
+        "pinyin": "tīng",
+        "startTime": 80.716,
+        "endTime": 81.259,
+        "gloss": "like"
+      },
+      {
+        "word": "起来",
+        "pinyin": "qǐ lái",
+        "startTime": 81.259,
+        "endTime": 82.182,
+        "gloss": "south"
+      },
+      {
+        "word": "像",
+        "pinyin": "xiàng",
+        "startTime": 82.182,
+        "endTime": 82.584,
+        "gloss": ""
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 82.584,
+        "endTime": 82.905,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "No, because its name sounds like 'south'."
+  },
+  {
+    "startTime": 83.533,
+    "endTime": 85.733,
+    "fullTextZH": "所以它叫南方",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 83.816,
+        "endTime": 84.542,
+        "gloss": "so"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 84.542,
+        "endTime": 84.805,
+        "gloss": "it"
+      },
+      {
+        "word": "叫",
+        "pinyin": "jiào",
+        "startTime": 84.805,
+        "endTime": 85.148,
+        "gloss": "called"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 85.148,
+        "endTime": 85.531,
+        "gloss": "South"
+      }
+    ],
+    "fullTextEN": "So it's called the South."
+  },
+  {
+    "startTime": 86.933,
+    "endTime": 91.666,
+    "fullTextZH": "好那我们继续说说南方的故事",
+    "words": [
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 87.093,
+        "endTime": 87.856,
+        "gloss": "okay"
+      },
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 87.856,
+        "endTime": 88.116,
+        "gloss": "then"
+      },
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 88.116,
+        "endTime": 88.598,
+        "gloss": "we"
+      },
+      {
+        "word": "继续",
+        "pinyin": "jì xù",
+        "startTime": 88.598,
+        "endTime": 89.36,
+        "gloss": "continue"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 89.36,
+        "endTime": 89.781,
+        "gloss": "talk"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 89.781,
+        "endTime": 90.362,
+        "gloss": "talk"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 90.362,
+        "endTime": 90.924,
+        "gloss": "South"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 90.924,
+        "endTime": 91.125,
+        "gloss": "of"
+      },
+      {
+        "word": "故事",
+        "pinyin": "gù shì",
+        "startTime": 91.125,
+        "endTime": 91.365,
+        "gloss": "story"
+      }
+    ],
+    "fullTextEN": "Okay, let's continue talking about the story of the South."
+  },
+  {
+    "startTime": 92.333,
+    "endTime": 96.666,
+    "fullTextZH": "南方想找一个男朋友",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 92.493,
+        "endTime": 93.316,
+        "gloss": "South"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 93.316,
+        "endTime": 93.918,
+        "gloss": "wants"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 93.918,
+        "endTime": 95.342,
+        "gloss": "find"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 95.342,
+        "endTime": 95.944,
+        "gloss": "a"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 95.944,
+        "endTime": 96.425,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "The South wants to find a boyfriend."
+  },
+  {
+    "startTime": 97.666,
+    "endTime": 98.933,
+    "fullTextZH": "在你的国家",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 97.827,
+        "endTime": 98.048,
+        "gloss": "in"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 98.048,
+        "endTime": 98.249,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 98.249,
+        "endTime": 98.41,
+        "gloss": "of"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "startTime": 98.41,
+        "endTime": 98.611,
+        "gloss": "country"
+      }
+    ],
+    "fullTextEN": "In your country,"
+  },
+  {
+    "startTime": 99.0,
+    "endTime": 103.533,
+    "fullTextZH": "如果你想找个男朋友或者女朋友",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 99.241,
+        "endTime": 99.762,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 99.762,
+        "endTime": 99.963,
+        "gloss": "you"
+      },
+      {
+        "word": "想",
+        "pinyin": "xiǎng",
+        "startTime": 99.963,
+        "endTime": 100.304,
+        "gloss": "want"
+      },
+      {
+        "word": "找个",
+        "pinyin": "zhǎo gè",
+        "startTime": 100.304,
+        "endTime": 101.066,
+        "gloss": "find a"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 101.066,
+        "endTime": 102.189,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 102.189,
+        "endTime": 102.791,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 102.791,
+        "endTime": 103.312,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "if you want to find a boyfriend or girlfriend,"
+  },
+  {
+    "startTime": 103.8,
+    "endTime": 106.366,
+    "fullTextZH": "你们怎么找",
+    "words": [
+      {
+        "word": "你们",
+        "pinyin": "nǐ men",
+        "startTime": 104.021,
+        "endTime": 104.862,
+        "gloss": "you"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 104.862,
+        "endTime": 106.045,
+        "gloss": "how"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 106.045,
+        "endTime": 106.065,
+        "gloss": "find"
+      }
+    ],
+    "fullTextEN": "how do you find one?"
+  },
+  {
+    "startTime": 108.333,
+    "endTime": 111.266,
+    "fullTextZH": "南方找男朋友用",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 108.514,
+        "endTime": 109.478,
+        "gloss": "South"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 109.478,
+        "endTime": 109.799,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 109.799,
+        "endTime": 110.904,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 110.904,
+        "endTime": 110.924,
+        "gloss": "use"
+      }
+    ],
+    "fullTextEN": "The South uses to find a boyfriend"
+  },
+  {
+    "startTime": 112.8,
+    "endTime": 113.933,
+    "fullTextZH": "交友软件",
+    "words": [
+      {
+        "word": "交友",
+        "pinyin": "jiāo yǒu",
+        "startTime": 112.962,
+        "endTime": 113.427,
+        "gloss": "dating"
+      },
+      {
+        "word": "软件",
+        "pinyin": "ruǎn jiàn",
+        "startTime": 113.427,
+        "endTime": 113.67,
+        "gloss": "app"
+      }
+    ],
+    "fullTextEN": "dating app"
+  },
+  {
+    "startTime": 115.0,
+    "endTime": 117.666,
+    "fullTextZH": "就是手机上的一个APP",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 115.18,
+        "endTime": 115.722,
+        "gloss": "just"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 115.722,
+        "endTime": 116.223,
+        "gloss": "phone"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 116.223,
+        "endTime": 116.443,
+        "gloss": "on"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 116.443,
+        "endTime": 116.644,
+        "gloss": "of"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 116.644,
+        "endTime": 117.105,
+        "gloss": "an"
+      }
+    ],
+    "fullTextEN": "It's an app on the phone."
+  },
+  {
+    "startTime": 118.166,
+    "endTime": 121.6,
+    "fullTextZH": "它帮你找男朋友或者女朋友",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 118.347,
+        "endTime": 118.628,
+        "gloss": "it"
+      },
+      {
+        "word": "帮",
+        "pinyin": "bāng",
+        "startTime": 118.628,
+        "endTime": 118.829,
+        "gloss": "helps"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 118.829,
+        "endTime": 119.13,
+        "gloss": "you"
+      },
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "startTime": 119.13,
+        "endTime": 119.491,
+        "gloss": "find"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 119.491,
+        "endTime": 120.435,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 120.435,
+        "endTime": 120.917,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 120.917,
+        "endTime": 121.399,
+        "gloss": "girlfriend"
+      }
+    ],
+    "fullTextEN": "It helps you find a boyfriend or girlfriend."
+  },
+  {
+    "startTime": 122.4,
+    "endTime": 124.966,
+    "fullTextZH": "这个就是交友软件",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 122.58,
+        "endTime": 123.282,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 123.282,
+        "endTime": 124.084,
+        "gloss": "is"
+      },
+      {
+        "word": "交友",
+        "pinyin": "jiāo yǒu",
+        "startTime": 124.084,
+        "endTime": 124.505,
+        "gloss": "dating"
+      },
+      {
+        "word": "软件",
+        "pinyin": "ruǎn jiàn",
+        "startTime": 124.505,
+        "endTime": 124.725,
+        "gloss": "app"
+      }
+    ],
+    "fullTextEN": "This is a dating app."
+  },
+  {
+    "startTime": 126.066,
+    "endTime": 129.933,
+    "fullTextZH": "然后南方用这个交友软件",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 126.246,
+        "endTime": 127.008,
+        "gloss": "then"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 127.008,
+        "endTime": 127.709,
+        "gloss": "South"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 127.709,
+        "endTime": 128.03,
+        "gloss": "use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 128.03,
+        "endTime": 128.971,
+        "gloss": "this"
+      },
+      {
+        "word": "交友",
+        "pinyin": "jiāo yǒu",
+        "startTime": 128.971,
+        "endTime": 129.372,
+        "gloss": "dating"
+      },
+      {
+        "word": "软件",
+        "pinyin": "ruǎn jiàn",
+        "startTime": 129.372,
+        "endTime": 129.612,
+        "gloss": "app"
+      }
+    ],
+    "fullTextEN": "Then the South uses this dating app."
+  },
+  {
+    "startTime": 130.333,
+    "endTime": 134.266,
+    "fullTextZH": "找到一个男朋友了吗",
+    "words": [
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 130.494,
+        "endTime": 132.5,
+        "gloss": "find"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 132.5,
+        "endTime": 133.182,
+        "gloss": "a"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 133.182,
+        "endTime": 133.865,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 133.865,
+        "endTime": 133.965,
+        "gloss": "completed"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 133.965,
+        "endTime": 133.985,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Did she find a boyfriend?"
+  },
+  {
+    "startTime": 135.333,
+    "endTime": 138.2,
+    "fullTextZH": "对她找到了一个男朋友",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 135.473,
+        "endTime": 136.155,
+        "gloss": "right"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 136.155,
+        "endTime": 136.496,
+        "gloss": "she"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "startTime": 136.496,
+        "endTime": 137.037,
+        "gloss": "found"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 137.037,
+        "endTime": 137.338,
+        "gloss": "completed"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 137.338,
+        "endTime": 137.538,
+        "gloss": "a"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 137.538,
+        "endTime": 137.979,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "Yes, she found a boyfriend."
+  },
+  {
+    "startTime": 139.066,
+    "endTime": 143.5,
+    "fullTextZH": "她喜欢不喜欢这个男朋友",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 139.206,
+        "endTime": 139.688,
+        "gloss": "she"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 139.688,
+        "endTime": 140.731,
+        "gloss": "like"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 140.731,
+        "endTime": 141.032,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 141.032,
+        "endTime": 142.256,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 142.256,
+        "endTime": 142.798,
+        "gloss": "this"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 142.798,
+        "endTime": 143.279,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "Does she like this boyfriend?"
+  },
+  {
+    "startTime": 144.566,
+    "endTime": 148.9,
+    "fullTextZH": "对她很喜欢这个男朋友",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 144.727,
+        "endTime": 145.409,
+        "gloss": "right"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 145.409,
+        "endTime": 145.83,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 145.83,
+        "endTime": 146.593,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 146.593,
+        "endTime": 147.656,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 147.656,
+        "endTime": 148.218,
+        "gloss": "this"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 148.218,
+        "endTime": 148.679,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "Yes, she really likes this boyfriend."
+  },
+  {
+    "startTime": 149.966,
+    "endTime": 150.9,
+    "fullTextZH": "为什么",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 150.149,
+        "endTime": 150.575,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 151.533,
+    "endTime": 155.7,
+    "fullTextZH": "因为她们相处的很好",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 151.693,
+        "endTime": 152.214,
+        "gloss": "because"
+      },
+      {
+        "word": "她们",
+        "pinyin": "tā men",
+        "startTime": 152.214,
+        "endTime": 152.935,
+        "gloss": "they"
+      },
+      {
+        "word": "相处",
+        "pinyin": "xiāng chǔ",
+        "startTime": 152.935,
+        "endTime": 153.877,
+        "gloss": "get along"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 153.877,
+        "endTime": 155.019,
+        "gloss": "de"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 155.019,
+        "endTime": 155.359,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 155.359,
+        "endTime": 155.379,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "Because they get along very well."
+  },
+  {
+    "startTime": 156.4,
+    "endTime": 162.666,
+    "fullTextZH": "而且这个男朋友对南方很好",
+    "words": [
+      {
+        "word": "而且",
+        "pinyin": "ér qiě",
+        "startTime": 156.72,
+        "endTime": 157.761,
+        "gloss": "moreover"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 157.761,
+        "endTime": 158.282,
+        "gloss": "this"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 158.282,
+        "endTime": 159.463,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 159.463,
+        "endTime": 159.723,
+        "gloss": "towards"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 159.723,
+        "endTime": 161.885,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 161.885,
+        "endTime": 162.286,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 162.286,
+        "endTime": 162.306,
+        "gloss": "well"
+      }
+    ],
+    "fullTextEN": "Moreover, this boyfriend treats Nan Fang very well."
+  },
+  {
+    "startTime": 163.3,
+    "endTime": 166.6,
+    "fullTextZH": "她对南方总是很关心",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 163.481,
+        "endTime": 163.682,
+        "gloss": "she"
+      },
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 163.682,
+        "endTime": 163.823,
+        "gloss": "towards"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 163.823,
+        "endTime": 164.688,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "总是",
+        "pinyin": "zǒng shì",
+        "startTime": 164.688,
+        "endTime": 165.614,
+        "gloss": "always"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 165.614,
+        "endTime": 165.956,
+        "gloss": "very"
+      },
+      {
+        "word": "关心",
+        "pinyin": "guān xīn",
+        "startTime": 165.956,
+        "endTime": 166.278,
+        "gloss": "caring"
+      }
+    ],
+    "fullTextEN": "She is always very caring towards Nan Fang."
+  },
+  {
+    "startTime": 167.3,
+    "endTime": 171.266,
+    "fullTextZH": "她经常给南方发消息",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 167.46,
+        "endTime": 167.761,
+        "gloss": "she"
+      },
+      {
+        "word": "经常",
+        "pinyin": "jīng cháng",
+        "startTime": 167.761,
+        "endTime": 168.662,
+        "gloss": "often"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 168.662,
+        "endTime": 168.822,
+        "gloss": "to"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 168.822,
+        "endTime": 170.525,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "发消息",
+        "pinyin": "fā xiāo xī",
+        "startTime": 170.525,
+        "endTime": 171.006,
+        "gloss": "send messages"
+      }
+    ],
+    "fullTextEN": "She often sends messages to Nan Fang."
+  },
+  {
+    "startTime": 172.3,
+    "endTime": 175.2,
+    "fullTextZH": "打电话很照顾她",
+    "words": [
+      {
+        "word": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "startTime": 172.481,
+        "endTime": 174.092,
+        "gloss": "call"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 174.092,
+        "endTime": 174.394,
+        "gloss": "very"
+      },
+      {
+        "word": "照顾",
+        "pinyin": "zhào gù",
+        "startTime": 174.394,
+        "endTime": 174.918,
+        "gloss": "take care of"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 174.918,
+        "endTime": 174.938,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "Calls and takes good care of her."
+  },
+  {
+    "startTime": 175.733,
+    "endTime": 180.0,
+    "fullTextZH": "所以南方很喜欢她",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 175.973,
+        "endTime": 176.354,
+        "gloss": "so"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 176.354,
+        "endTime": 178.257,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 178.257,
+        "endTime": 179.199,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 179.199,
+        "endTime": 179.74,
+        "gloss": "like"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 179.74,
+        "endTime": 179.76,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "So Nan Fang likes her very much."
+  },
+  {
+    "startTime": 181.333,
+    "endTime": 184.066,
+    "fullTextZH": "但是突然有一天",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 181.494,
+        "endTime": 182.76,
+        "gloss": "but"
+      },
+      {
+        "word": "突然",
+        "pinyin": "tū rán",
+        "startTime": 182.76,
+        "endTime": 183.383,
+        "gloss": "suddenly"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 183.383,
+        "endTime": 183.564,
+        "gloss": "there is"
+      },
+      {
+        "word": "一天",
+        "pinyin": "yī tiān",
+        "startTime": 183.564,
+        "endTime": 183.724,
+        "gloss": "one day"
+      }
+    ],
+    "fullTextEN": "But suddenly one day,"
+  },
+  {
+    "startTime": 184.766,
+    "endTime": 188.4,
+    "fullTextZH": "南方和我说她很难过",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 184.947,
+        "endTime": 185.469,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 185.469,
+        "endTime": 185.609,
+        "gloss": "with"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.609,
+        "endTime": 185.85,
+        "gloss": "me"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 185.85,
+        "endTime": 187.215,
+        "gloss": "said"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 187.215,
+        "endTime": 187.476,
+        "gloss": "she"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 187.476,
+        "endTime": 187.637,
+        "gloss": "very"
+      },
+      {
+        "word": "难过",
+        "pinyin": "nán guò",
+        "startTime": 187.637,
+        "endTime": 188.119,
+        "gloss": "sad"
+      }
+    ],
+    "fullTextEN": "Nan Fang told me she was very sad."
+  },
+  {
+    "startTime": 189.766,
+    "endTime": 191.0,
+    "fullTextZH": "发生了什么",
+    "words": [
+      {
+        "word": "发生",
+        "pinyin": "fā shēng",
+        "startTime": 189.989,
+        "endTime": 190.434,
+        "gloss": "happen"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 190.434,
+        "endTime": 190.575,
+        "gloss": "le"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 190.575,
+        "endTime": 190.757,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What happened?"
+  },
+  {
+    "startTime": 192.366,
+    "endTime": 197.9,
+    "fullTextZH": "南方说她发现了她男朋友的一个秘密",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 192.526,
+        "endTime": 193.168,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 193.168,
+        "endTime": 193.93,
+        "gloss": "said"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 193.93,
+        "endTime": 194.291,
+        "gloss": "she"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 194.291,
+        "endTime": 194.912,
+        "gloss": "discovered"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 194.912,
+        "endTime": 195.173,
+        "gloss": "le"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 195.173,
+        "endTime": 195.414,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 195.414,
+        "endTime": 196.236,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 196.236,
+        "endTime": 196.757,
+        "gloss": "de"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 196.757,
+        "endTime": 197.278,
+        "gloss": "a"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 197.278,
+        "endTime": 197.579,
+        "gloss": "secret"
+      }
+    ],
+    "fullTextEN": "Nan Fang said she discovered a secret of her boyfriend."
+  },
+  {
+    "startTime": 199.133,
+    "endTime": 200.933,
+    "fullTextZH": "秘密是什么",
+    "words": [
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 199.194,
+        "endTime": 200.306,
+        "gloss": "secret"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 200.306,
+        "endTime": 200.448,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 200.448,
+        "endTime": 200.65,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is the secret?"
+  },
+  {
+    "startTime": 201.966,
+    "endTime": 207.933,
+    "fullTextZH": "秘密就是不想告诉别人的事情",
+    "words": [
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 202.086,
+        "endTime": 202.987,
+        "gloss": "secret"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 202.987,
+        "endTime": 203.988,
+        "gloss": "is"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 203.988,
+        "endTime": 205.35,
+        "gloss": "don't want"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 205.35,
+        "endTime": 206.491,
+        "gloss": "tell"
+      },
+      {
+        "word": "别人",
+        "pinyin": "bié rén",
+        "startTime": 206.491,
+        "endTime": 207.032,
+        "gloss": "others"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 207.032,
+        "endTime": 207.352,
+        "gloss": "de"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 207.352,
+        "endTime": 207.613,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "A secret is something you don't want to tell others."
+  },
+  {
+    "startTime": 208.8,
+    "endTime": 211.8,
+    "fullTextZH": "这个就是秘密",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 208.981,
+        "endTime": 210.33,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 210.33,
+        "endTime": 211.136,
+        "gloss": "is"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 211.136,
+        "endTime": 211.599,
+        "gloss": "secret"
+      }
+    ],
+    "fullTextEN": "This is the secret."
+  },
+  {
+    "startTime": 213.0,
+    "endTime": 213.8,
+    "fullTextZH": "秘密",
+    "words": [
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 213.082,
+        "endTime": 213.308,
+        "gloss": "secret"
+      }
+    ],
+    "fullTextEN": "Secret."
+  },
+  {
+    "startTime": 215.3,
+    "endTime": 220.533,
+    "fullTextZH": "对她发现了她男朋友的秘密",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 215.48,
+        "endTime": 216.443,
+        "gloss": "about"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 216.443,
+        "endTime": 216.864,
+        "gloss": "her"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 216.864,
+        "endTime": 217.445,
+        "gloss": "discover"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 217.445,
+        "endTime": 217.846,
+        "gloss": "le"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 217.846,
+        "endTime": 218.087,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 218.087,
+        "endTime": 218.889,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 218.889,
+        "endTime": 219.691,
+        "gloss": "de"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 219.691,
+        "endTime": 220.433,
+        "gloss": "secret"
+      }
+    ],
+    "fullTextEN": "About her discovering her boyfriend's secret."
+  },
+  {
+    "startTime": 221.6,
+    "endTime": 227.8,
+    "fullTextZH": "这个秘密就是南方发现她的男朋友",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 221.781,
+        "endTime": 222.744,
+        "gloss": "this"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 222.744,
+        "endTime": 224.088,
+        "gloss": "secret"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 224.088,
+        "endTime": 225.232,
+        "gloss": "is"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 225.232,
+        "endTime": 225.854,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 225.854,
+        "endTime": 226.696,
+        "gloss": "discovered"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 226.696,
+        "endTime": 226.897,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 226.897,
+        "endTime": 227.017,
+        "gloss": "de"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 227.017,
+        "endTime": 227.499,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "The secret is that Nan Fang discovered her boyfriend."
+  },
+  {
+    "startTime": 227.8,
+    "endTime": 230.466,
+    "fullTextZH": "比她大十岁",
+    "words": [
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 228.0,
+        "endTime": 228.161,
+        "gloss": "than"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 228.161,
+        "endTime": 228.482,
+        "gloss": "her"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 228.482,
+        "endTime": 229.825,
+        "gloss": "older"
+      },
+      {
+        "word": "十岁",
+        "pinyin": "shí suì",
+        "startTime": 229.825,
+        "endTime": 230.205,
+        "gloss": "ten years"
+      }
+    ],
+    "fullTextEN": "He is ten years older than her."
+  },
+  {
+    "startTime": 231.266,
+    "endTime": 235.133,
+    "fullTextZH": "但是之前她们聊天的时候",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 231.446,
+        "endTime": 231.847,
+        "gloss": "but"
+      },
+      {
+        "word": "之前",
+        "pinyin": "zhī qián",
+        "startTime": 231.847,
+        "endTime": 232.689,
+        "gloss": "before"
+      },
+      {
+        "word": "她们",
+        "pinyin": "tā men",
+        "startTime": 232.689,
+        "endTime": 233.29,
+        "gloss": "they"
+      },
+      {
+        "word": "聊天",
+        "pinyin": "liáo tiān",
+        "startTime": 233.29,
+        "endTime": 234.392,
+        "gloss": "chatting"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 234.392,
+        "endTime": 234.612,
+        "gloss": "de"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 234.612,
+        "endTime": 234.852,
+        "gloss": "time"
+      }
+    ],
+    "fullTextEN": "But before, when they were chatting,"
+  },
+  {
+    "startTime": 235.4,
+    "endTime": 238.0,
+    "fullTextZH": "她男朋友告诉南方",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 235.541,
+        "endTime": 235.763,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 235.763,
+        "endTime": 236.67,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 236.67,
+        "endTime": 237.335,
+        "gloss": "told"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 237.335,
+        "endTime": 237.698,
+        "gloss": "Nan Fang"
+      }
+    ],
+    "fullTextEN": "Her boyfriend told Nan Fang"
+  },
+  {
+    "startTime": 238.6,
+    "endTime": 242.066,
+    "fullTextZH": "他比南方大三岁",
+    "words": [
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 238.74,
+        "endTime": 239.201,
+        "gloss": "he"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 239.201,
+        "endTime": 239.341,
+        "gloss": "than"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 239.341,
+        "endTime": 240.002,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 240.002,
+        "endTime": 241.285,
+        "gloss": "older"
+      },
+      {
+        "word": "三岁",
+        "pinyin": "sān suì",
+        "startTime": 241.285,
+        "endTime": 241.806,
+        "gloss": "three years"
+      }
+    ],
+    "fullTextEN": "He is three years older than Nan Fang."
+  },
+  {
+    "startTime": 243.1,
+    "endTime": 246.866,
+    "fullTextZH": "所以南方很生气",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 243.36,
+        "endTime": 243.681,
+        "gloss": "so"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 243.681,
+        "endTime": 245.704,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 245.704,
+        "endTime": 246.225,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 246.225,
+        "endTime": 246.606,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "So Nan Fang is very angry."
+  },
+  {
+    "startTime": 247.333,
+    "endTime": 253.033,
+    "fullTextZH": "因为她觉得这个男人不诚实",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 247.554,
+        "endTime": 247.895,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 247.895,
+        "endTime": 248.316,
+        "gloss": "she"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 248.316,
+        "endTime": 249.661,
+        "gloss": "thinks"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 249.661,
+        "endTime": 249.962,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 249.962,
+        "endTime": 251.909,
+        "gloss": "man"
+      },
+      {
+        "word": "不诚实",
+        "pinyin": "bù chéng shí",
+        "startTime": 251.909,
+        "endTime": 252.672,
+        "gloss": "dishonest"
+      }
+    ],
+    "fullTextEN": "Because she thinks this man is dishonest."
+  },
+  {
+    "startTime": 253.633,
+    "endTime": 255.1,
+    "fullTextZH": "她骗了南方",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 253.794,
+        "endTime": 254.176,
+        "gloss": "she"
+      },
+      {
+        "word": "骗",
+        "pinyin": "piàn",
+        "startTime": 254.176,
+        "endTime": 254.477,
+        "gloss": "lied"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 254.477,
+        "endTime": 254.618,
+        "gloss": "to"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 254.618,
+        "endTime": 254.919,
+        "gloss": "Nan Fang"
+      }
+    ],
+    "fullTextEN": "She lied to Nan Fang."
+  },
+  {
+    "startTime": 255.733,
+    "endTime": 256.7,
+    "fullTextZH": "你知道",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 255.955,
+        "endTime": 256.176,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 256.176,
+        "endTime": 256.358,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "You know."
+  },
+  {
+    "startTime": 256.966,
+    "endTime": 262.4,
+    "fullTextZH": "南方是怎么发现她男朋友的秘密的吗",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 257.126,
+        "endTime": 257.828,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 257.828,
+        "endTime": 258.189,
+        "gloss": "is"
+      },
+      {
+        "word": "怎么",
+        "pinyin": "zěn me",
+        "startTime": 258.189,
+        "endTime": 258.891,
+        "gloss": "how"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 258.891,
+        "endTime": 259.553,
+        "gloss": "discover"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 259.553,
+        "endTime": 259.813,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 259.813,
+        "endTime": 260.475,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 260.475,
+        "endTime": 260.916,
+        "gloss": "'s"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 260.916,
+        "endTime": 261.919,
+        "gloss": "secret"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 261.919,
+        "endTime": 262.079,
+        "gloss": "particle"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 262.079,
+        "endTime": 262.099,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "How did Nan Fang discover her boyfriend's secret?"
+  },
+  {
+    "startTime": 263.733,
+    "endTime": 269.066,
+    "fullTextZH": "有一次南方看她男朋友的Facebook",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 263.954,
+        "endTime": 264.194,
+        "gloss": "once"
+      },
+      {
+        "word": "一次",
+        "pinyin": "yī cì",
+        "startTime": 264.194,
+        "endTime": 265.297,
+        "gloss": "one time"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 265.297,
+        "endTime": 266.259,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 266.259,
+        "endTime": 267.001,
+        "gloss": "looked"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 267.001,
+        "endTime": 267.302,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 267.302,
+        "endTime": 267.983,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 267.983,
+        "endTime": 268.304,
+        "gloss": "'s"
+      }
+    ],
+    "fullTextEN": "Once Nan Fang looked at her boyfriend's Facebook."
+  },
+  {
+    "startTime": 269.733,
+    "endTime": 275.233,
+    "fullTextZH": "发现她们有一个共同的朋友",
+    "words": [
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 269.914,
+        "endTime": 270.576,
+        "gloss": "discovered"
+      },
+      {
+        "word": "她们",
+        "pinyin": "tā men",
+        "startTime": 270.576,
+        "endTime": 271.058,
+        "gloss": "they"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 271.058,
+        "endTime": 271.54,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 271.54,
+        "endTime": 273.186,
+        "gloss": "a"
+      },
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 273.186,
+        "endTime": 274.169,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 274.169,
+        "endTime": 274.711,
+        "gloss": "particle"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 274.711,
+        "endTime": 275.052,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "She discovered they have a mutual friend."
+  },
+  {
+    "startTime": 276.2,
+    "endTime": 278.633,
+    "fullTextZH": "共同的什么意思",
+    "words": [
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 276.341,
+        "endTime": 276.823,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 276.823,
+        "endTime": 277.809,
+        "gloss": "particle"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 277.809,
+        "endTime": 278.07,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 278.07,
+        "endTime": 278.372,
+        "gloss": "meaning"
+      }
+    ],
+    "fullTextEN": "What does mutual mean?"
+  },
+  {
+    "startTime": 279.666,
+    "endTime": 283.6,
+    "fullTextZH": "就是这个人既认识南方",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 279.847,
+        "endTime": 280.368,
+        "gloss": "means"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 280.368,
+        "endTime": 280.649,
+        "gloss": "this"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 280.649,
+        "endTime": 282.075,
+        "gloss": "person"
+      },
+      {
+        "word": "既",
+        "pinyin": "jì",
+        "startTime": 282.075,
+        "endTime": 282.396,
+        "gloss": "both"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 282.396,
+        "endTime": 282.998,
+        "gloss": "knows"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 282.998,
+        "endTime": 283.339,
+        "gloss": "Nan Fang"
+      }
+    ],
+    "fullTextEN": "It means this person knows Nan Fang."
+  },
+  {
+    "startTime": 284.066,
+    "endTime": 286.433,
+    "fullTextZH": "也认识她的男朋友",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 284.186,
+        "endTime": 284.547,
+        "gloss": "also"
+      },
+      {
+        "word": "认识",
+        "pinyin": "rèn shí",
+        "startTime": 284.547,
+        "endTime": 285.229,
+        "gloss": "knows"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 285.229,
+        "endTime": 285.45,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 285.45,
+        "endTime": 285.671,
+        "gloss": "particle"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 285.671,
+        "endTime": 286.192,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "And also knows her boyfriend."
+  },
+  {
+    "startTime": 287.733,
+    "endTime": 289.4,
+    "fullTextZH": "在Facebook上",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 287.934,
+        "endTime": 288.295,
+        "gloss": "on"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 289.038,
+        "endTime": 289.059,
+        "gloss": "Facebook"
+      }
+    ],
+    "fullTextEN": "On Facebook."
+  },
+  {
+    "startTime": 289.533,
+    "endTime": 292.266,
+    "fullTextZH": "这个共同的男朋友说",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 289.714,
+        "endTime": 290.116,
+        "gloss": "this"
+      },
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 290.116,
+        "endTime": 290.538,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 290.538,
+        "endTime": 290.658,
+        "gloss": "particle"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 290.658,
+        "endTime": 291.703,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 291.703,
+        "endTime": 291.723,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "This mutual boyfriend said."
+  },
+  {
+    "startTime": 292.866,
+    "endTime": 297.7,
+    "fullTextZH": "南方的男朋友是他的同学",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 293.047,
+        "endTime": 293.749,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 293.749,
+        "endTime": 294.069,
+        "gloss": "'s"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 294.069,
+        "endTime": 295.333,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 295.333,
+        "endTime": 295.694,
+        "gloss": "is"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 295.694,
+        "endTime": 296.216,
+        "gloss": "his"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 296.216,
+        "endTime": 296.797,
+        "gloss": "'s"
+      },
+      {
+        "word": "同学",
+        "pinyin": "tóng xué",
+        "startTime": 296.797,
+        "endTime": 297.339,
+        "gloss": "classmate"
+      }
+    ],
+    "fullTextEN": "Nan Fang's boyfriend is his classmate."
+  },
+  {
+    "startTime": 299.1,
+    "endTime": 306.5,
+    "fullTextZH": "但是这个共同的朋友比南方大很多岁",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 299.26,
+        "endTime": 300.564,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 300.564,
+        "endTime": 301.346,
+        "gloss": "this"
+      },
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 301.346,
+        "endTime": 301.867,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 301.867,
+        "endTime": 302.028,
+        "gloss": "particle"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 302.028,
+        "endTime": 302.89,
+        "gloss": "friend"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 302.89,
+        "endTime": 303.111,
+        "gloss": "than"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 303.111,
+        "endTime": 304.234,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 304.234,
+        "endTime": 305.578,
+        "gloss": "older"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 305.578,
+        "endTime": 306.239,
+        "gloss": "much"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 306.239,
+        "endTime": 306.259,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "But this mutual friend is much older than Nan Fang."
+  },
+  {
+    "startTime": 307.4,
+    "endTime": 311.266,
+    "fullTextZH": "所以南方觉得很奇怪",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 307.6,
+        "endTime": 307.901,
+        "gloss": "so"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 307.901,
+        "endTime": 308.882,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 308.882,
+        "endTime": 310.164,
+        "gloss": "felt"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 310.164,
+        "endTime": 310.605,
+        "gloss": "very"
+      },
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "startTime": 310.605,
+        "endTime": 311.006,
+        "gloss": "strange"
+      }
+    ],
+    "fullTextEN": "So Nan Fang felt very strange."
+  },
+  {
+    "startTime": 312.433,
+    "endTime": 316.2,
+    "fullTextZH": "然后她就问那个共同的朋友",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 312.593,
+        "endTime": 313.355,
+        "gloss": "then"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 313.355,
+        "endTime": 313.655,
+        "gloss": "she"
+      },
+      {
+        "word": "就",
+        "pinyin": "jiù",
+        "startTime": 313.655,
+        "endTime": 314.096,
+        "gloss": "just"
+      },
+      {
+        "word": "问",
+        "pinyin": "wèn",
+        "startTime": 314.096,
+        "endTime": 314.597,
+        "gloss": "asked"
+      },
+      {
+        "word": "那个",
+        "pinyin": "nà ge",
+        "startTime": 314.597,
+        "endTime": 315.018,
+        "gloss": "that"
+      },
+      {
+        "word": "共同",
+        "pinyin": "gòng tóng",
+        "startTime": 315.018,
+        "endTime": 315.499,
+        "gloss": "mutual"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 315.499,
+        "endTime": 315.679,
+        "gloss": "particle"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 315.679,
+        "endTime": 315.919,
+        "gloss": "friend"
+      }
+    ],
+    "fullTextEN": "Then she asked that mutual friend."
+  },
+  {
+    "startTime": 316.633,
+    "endTime": 319.133,
+    "fullTextZH": "她的男朋友多少岁",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 316.794,
+        "endTime": 317.036,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 317.036,
+        "endTime": 317.157,
+        "gloss": "'s"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 317.157,
+        "endTime": 318.306,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "多少岁",
+        "pinyin": "duō shǎo suì",
+        "startTime": 318.306,
+        "endTime": 318.931,
+        "gloss": "how old"
+      }
+    ],
+    "fullTextEN": "How old is her boyfriend?"
+  },
+  {
+    "startTime": 320.266,
+    "endTime": 324.0,
+    "fullTextZH": "然后这个朋友告诉了她",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 320.487,
+        "endTime": 321.511,
+        "gloss": "then"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 321.511,
+        "endTime": 321.832,
+        "gloss": "this"
+      },
+      {
+        "word": "朋友",
+        "pinyin": "péng yǒu",
+        "startTime": 321.832,
+        "endTime": 322.675,
+        "gloss": "friend"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 322.675,
+        "endTime": 323.458,
+        "gloss": "told"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 323.458,
+        "endTime": 323.639,
+        "gloss": "particle"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 323.639,
+        "endTime": 323.659,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "Then this friend told her."
+  },
+  {
+    "startTime": 324.6,
+    "endTime": 330.533,
+    "fullTextZH": "实际上她的男朋友比她大10岁",
+    "words": [
+      {
+        "word": "实际上",
+        "pinyin": "shí jì shàng",
+        "startTime": 324.76,
+        "endTime": 326.123,
+        "gloss": "actually"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 326.123,
+        "endTime": 326.384,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 326.384,
+        "endTime": 326.504,
+        "gloss": "'s"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 326.504,
+        "endTime": 327.747,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 327.747,
+        "endTime": 328.007,
+        "gloss": "than"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 328.007,
+        "endTime": 328.99,
+        "gloss": "her"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 328.99,
+        "endTime": 329.611,
+        "gloss": "older"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 330.252,
+        "endTime": 330.272,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "Actually, her boyfriend is 10 years older than her."
+  },
+  {
+    "startTime": 332.733,
+    "endTime": 338.666,
+    "fullTextZH": "所以南方觉得这个男人是渣男",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 332.994,
+        "endTime": 333.475,
+        "gloss": "so"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 333.475,
+        "endTime": 334.517,
+        "gloss": "Nan Fang"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 334.517,
+        "endTime": 336.201,
+        "gloss": "thinks"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 336.201,
+        "endTime": 336.501,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 336.501,
+        "endTime": 337.884,
+        "gloss": "man"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 337.884,
+        "endTime": 338.185,
+        "gloss": "is"
+      },
+      {
+        "word": "渣",
+        "pinyin": "zhā",
+        "startTime": 338.185,
+        "endTime": 338.385,
+        "gloss": "jerk"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 338.385,
+        "endTime": 338.405,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "So Nan Fang thinks this man is a jerk."
+  },
+  {
+    "startTime": 339.933,
+    "endTime": 342.133,
+    "fullTextZH": "渣男是什么意思",
+    "words": [
+      {
+        "word": "渣",
+        "pinyin": "zhā",
+        "startTime": 340.115,
+        "endTime": 340.478,
+        "gloss": "scum"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 340.478,
+        "endTime": 341.245,
+        "gloss": "man"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 341.245,
+        "endTime": 341.406,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 341.406,
+        "endTime": 341.689,
+        "gloss": "what"
+      },
+      {
+        "word": "意思",
+        "pinyin": "yì si",
+        "startTime": 341.689,
+        "endTime": 341.931,
+        "gloss": "meaning"
+      }
+    ],
+    "fullTextEN": "What does 'scumbag' mean?"
+  },
+  {
+    "startTime": 343.2,
+    "endTime": 346.3,
+    "fullTextZH": "渣男就是很坏的男人",
+    "words": [
+      {
+        "word": "渣",
+        "pinyin": "zhā",
+        "startTime": 343.341,
+        "endTime": 343.582,
+        "gloss": "scum"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 343.582,
+        "endTime": 344.247,
+        "gloss": "man"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 344.247,
+        "endTime": 344.871,
+        "gloss": "is"
+      },
+      {
+        "word": "很坏",
+        "pinyin": "hěn huài",
+        "startTime": 344.871,
+        "endTime": 345.696,
+        "gloss": "very bad"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 345.696,
+        "endTime": 345.797,
+        "gloss": "of"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 345.797,
+        "endTime": 346.058,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "A scumbag is a very bad man."
+  },
+  {
+    "startTime": 348.0,
+    "endTime": 354.6,
+    "fullTextZH": "所以现在南方发现了她男朋友的秘密",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 348.241,
+        "endTime": 348.722,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 348.722,
+        "endTime": 349.765,
+        "gloss": "now"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 349.765,
+        "endTime": 351.19,
+        "gloss": "Nanfang"
+      },
+      {
+        "word": "发现",
+        "pinyin": "fā xiàn",
+        "startTime": 351.19,
+        "endTime": 351.812,
+        "gloss": "discover"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 351.812,
+        "endTime": 352.293,
+        "gloss": "le"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 352.293,
+        "endTime": 352.554,
+        "gloss": "her"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 352.554,
+        "endTime": 353.216,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 353.216,
+        "endTime": 353.677,
+        "gloss": "of"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 353.677,
+        "endTime": 354.299,
+        "gloss": "secret"
+      }
+    ],
+    "fullTextEN": "So now Nanfang has discovered her boyfriend's secret."
+  },
+  {
+    "startTime": 355.433,
+    "endTime": 358.033,
+    "fullTextZH": "如果你是南方",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 355.735,
+        "endTime": 356.28,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 356.28,
+        "endTime": 357.227,
+        "gloss": "you"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 357.227,
+        "endTime": 357.449,
+        "gloss": "are"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 357.449,
+        "endTime": 357.731,
+        "gloss": "Nanfang"
+      }
+    ],
+    "fullTextEN": "If you were Nanfang,"
+  },
+  {
+    "startTime": 358.3,
+    "endTime": 359.666,
+    "fullTextZH": "你会做什么",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 358.541,
+        "endTime": 358.862,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 358.862,
+        "endTime": 359.063,
+        "gloss": "would"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 359.063,
+        "endTime": 359.264,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 359.264,
+        "endTime": 359.405,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What would you do?"
+  },
+  {
+    "startTime": 361.633,
+    "endTime": 364.566,
+    "fullTextZH": "你知道南方做了什么吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 361.874,
+        "endTime": 362.175,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 362.175,
+        "endTime": 362.738,
+        "gloss": "know"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 362.738,
+        "endTime": 363.481,
+        "gloss": "Nanfang"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 363.481,
+        "endTime": 363.702,
+        "gloss": "do"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 363.702,
+        "endTime": 363.843,
+        "gloss": "le"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 363.843,
+        "endTime": 364.204,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 364.204,
+        "endTime": 364.224,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you know what Nanfang did?"
+  },
+  {
+    "startTime": 365.666,
+    "endTime": 369.433,
+    "fullTextZH": "南方给他发了一个消息",
+    "words": [
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 365.826,
+        "endTime": 366.528,
+        "gloss": "Nanfang"
+      },
+      {
+        "word": "给",
+        "pinyin": "gěi",
+        "startTime": 366.528,
+        "endTime": 366.808,
+        "gloss": "to"
+      },
+      {
+        "word": "他",
+        "pinyin": "tā",
+        "startTime": 366.808,
+        "endTime": 367.449,
+        "gloss": "him"
+      },
+      {
+        "word": "发",
+        "pinyin": "fā",
+        "startTime": 367.449,
+        "endTime": 368.191,
+        "gloss": "send"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 368.191,
+        "endTime": 368.511,
+        "gloss": "le"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 368.511,
+        "endTime": 368.912,
+        "gloss": "a"
+      },
+      {
+        "word": "消息",
+        "pinyin": "xiāo xī",
+        "startTime": 368.912,
+        "endTime": 369.293,
+        "gloss": "message"
+      }
+    ],
+    "fullTextEN": "Nanfang sent him a message."
+  },
+  {
+    "startTime": 370.933,
+    "endTime": 371.766,
+    "fullTextZH": "为什么",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 371.136,
+        "endTime": 371.502,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 372.6,
+    "endTime": 378.9,
+    "fullTextZH": "因为她不想听到这个男人的声音",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 372.781,
+        "endTime": 373.242,
+        "gloss": "because"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 373.242,
+        "endTime": 373.864,
+        "gloss": "she"
+      },
+      {
+        "word": "不想",
+        "pinyin": "bù xiǎng",
+        "startTime": 373.864,
+        "endTime": 375.389,
+        "gloss": "not want"
+      },
+      {
+        "word": "听到",
+        "pinyin": "tīng dào",
+        "startTime": 375.389,
+        "endTime": 377.175,
+        "gloss": "hear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 377.175,
+        "endTime": 377.475,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 377.475,
+        "endTime": 377.937,
+        "gloss": "man"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 377.937,
+        "endTime": 378.358,
+        "gloss": "of"
+      },
+      {
+        "word": "声音",
+        "pinyin": "shēng yīn",
+        "startTime": 378.358,
+        "endTime": 378.639,
+        "gloss": "voice"
+      }
+    ],
+    "fullTextEN": "Because she doesn't want to hear this man's voice."
+  },
+  {
+    "startTime": 379.466,
+    "endTime": 382.633,
+    "fullTextZH": "她觉得很恶心",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 379.666,
+        "endTime": 379.927,
+        "gloss": "she"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 379.927,
+        "endTime": 381.511,
+        "gloss": "feels"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 381.511,
+        "endTime": 381.931,
+        "gloss": "very"
+      },
+      {
+        "word": "恶心",
+        "pinyin": "ě xīn",
+        "startTime": 381.931,
+        "endTime": 382.272,
+        "gloss": "disgusted"
+      }
+    ],
+    "fullTextEN": "She feels very disgusted."
+  },
+  {
+    "startTime": 383.666,
+    "endTime": 387.433,
+    "fullTextZH": "你觉得她写了什么",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 383.866,
+        "endTime": 384.307,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 384.307,
+        "endTime": 385.169,
+        "gloss": "think"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 385.169,
+        "endTime": 385.79,
+        "gloss": "she"
+      },
+      {
+        "word": "写",
+        "pinyin": "xiě",
+        "startTime": 385.79,
+        "endTime": 386.491,
+        "gloss": "write"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 386.491,
+        "endTime": 387.012,
+        "gloss": "le"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 387.012,
+        "endTime": 387.213,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What do you think she wrote?"
+  },
+  {
+    "startTime": 389.2,
+    "endTime": 390.1,
+    "fullTextZH": "她说",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 389.364,
+        "endTime": 389.67,
+        "gloss": "she"
+      },
+      {
+        "word": "说",
+        "pinyin": "shuō",
+        "startTime": 389.67,
+        "endTime": 389.691,
+        "gloss": "said"
+      }
+    ],
+    "fullTextEN": "She said,"
+  },
+  {
+    "startTime": 390.766,
+    "endTime": 395.0,
+    "fullTextZH": "我知道你的秘密了",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 391.107,
+        "endTime": 391.508,
+        "gloss": "I"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 391.508,
+        "endTime": 392.853,
+        "gloss": "know"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 392.853,
+        "endTime": 393.214,
+        "gloss": "your"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 393.214,
+        "endTime": 393.936,
+        "gloss": "secret"
+      },
+      {
+        "word": "秘密",
+        "pinyin": "mì mì",
+        "startTime": 393.936,
+        "endTime": 394.679,
+        "gloss": "le"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 394.679,
+        "endTime": 394.699,
+        "gloss": ""
+      }
+    ],
+    "fullTextEN": "I know your secret now."
+  },
+  {
+    "startTime": 395.633,
+    "endTime": 399.366,
+    "fullTextZH": "你居然比我大10岁",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 395.914,
+        "endTime": 396.857,
+        "gloss": "you"
+      },
+      {
+        "word": "居然",
+        "pinyin": "jū rán",
+        "startTime": 396.857,
+        "endTime": 397.54,
+        "gloss": "actually"
+      },
+      {
+        "word": "比",
+        "pinyin": "bǐ",
+        "startTime": 397.54,
+        "endTime": 397.74,
+        "gloss": "than"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 397.74,
+        "endTime": 398.122,
+        "gloss": "me"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 398.122,
+        "endTime": 398.684,
+        "gloss": "older"
+      },
+      {
+        "word": "岁",
+        "pinyin": "suì",
+        "startTime": 399.065,
+        "endTime": 399.085,
+        "gloss": "years"
+      }
+    ],
+    "fullTextEN": "You are actually 10 years older than me."
+  },
+  {
+    "startTime": 400.7,
+    "endTime": 401.933,
+    "fullTextZH": "对我来说",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 400.862,
+        "endTime": 401.044,
+        "gloss": "to"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 401.044,
+        "endTime": 401.266,
+        "gloss": "me"
+      },
+      {
+        "word": "来说",
+        "pinyin": "lái shuō",
+        "startTime": 401.266,
+        "endTime": 401.569,
+        "gloss": "regarding"
+      }
+    ],
+    "fullTextEN": "To me,"
+  },
+  {
+    "startTime": 402.166,
+    "endTime": 410.166,
+    "fullTextZH": "我觉得谈恋爱诚实是最最最重要的",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 402.527,
+        "endTime": 402.928,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 402.928,
+        "endTime": 404.351,
+        "gloss": "think"
+      },
+      {
+        "word": "谈恋爱",
+        "pinyin": "tán liàn ài",
+        "startTime": 404.351,
+        "endTime": 406.096,
+        "gloss": "dating"
+      },
+      {
+        "word": "诚实",
+        "pinyin": "chéng shí",
+        "startTime": 406.096,
+        "endTime": 407.76,
+        "gloss": "honesty"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 407.76,
+        "endTime": 408.141,
+        "gloss": "is"
+      },
+      {
+        "word": "最最",
+        "pinyin": "zuì zuì",
+        "startTime": 408.141,
+        "endTime": 409.043,
+        "gloss": "most"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 409.043,
+        "endTime": 409.404,
+        "gloss": "most"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 409.404,
+        "endTime": 409.885,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 409.885,
+        "endTime": 409.905,
+        "gloss": "of"
+      }
+    ],
+    "fullTextEN": "I think honesty is the most important in a relationship."
+  },
+  {
+    "startTime": 410.7,
+    "endTime": 414.6,
+    "fullTextZH": "但是你一点都不诚实",
+    "words": [
+      {
+        "word": "但是",
+        "pinyin": "dàn shì",
+        "startTime": 410.881,
+        "endTime": 411.283,
+        "gloss": "but"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 411.283,
+        "endTime": 412.63,
+        "gloss": "you"
+      },
+      {
+        "word": "一点",
+        "pinyin": "yì diǎn",
+        "startTime": 412.63,
+        "endTime": 413.394,
+        "gloss": "not at all"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 413.394,
+        "endTime": 413.655,
+        "gloss": "all"
+      },
+      {
+        "word": "不诚实",
+        "pinyin": "bù chéng shí",
+        "startTime": 413.655,
+        "endTime": 414.278,
+        "gloss": "not honest"
+      }
+    ],
+    "fullTextEN": "But you are not honest at all."
+  },
+  {
+    "startTime": 415.1,
+    "endTime": 416.4,
+    "fullTextZH": "你这个渣男",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 415.242,
+        "endTime": 415.547,
+        "gloss": "you"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 415.547,
+        "endTime": 415.892,
+        "gloss": "this"
+      },
+      {
+        "word": "渣",
+        "pinyin": "zhā",
+        "startTime": 415.892,
+        "endTime": 416.116,
+        "gloss": "scum"
+      },
+      {
+        "word": "男",
+        "pinyin": "nán",
+        "startTime": 416.116,
+        "endTime": 416.136,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "You scumbag."
+  },
+  {
+    "startTime": 417.0,
+    "endTime": 419.933,
+    "fullTextZH": "然后南方做了什么",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 417.221,
+        "endTime": 418.205,
+        "gloss": "then"
+      },
+      {
+        "word": "南方",
+        "pinyin": "nán fāng",
+        "startTime": 418.205,
+        "endTime": 419.089,
+        "gloss": "Nanfang"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 419.089,
+        "endTime": 419.31,
+        "gloss": "do"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 419.31,
+        "endTime": 419.451,
+        "gloss": "le"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 419.451,
+        "endTime": 419.632,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "Then what did Nanfang do?"
+  },
+  {
+    "startTime": 420.833,
+    "endTime": 422.333,
+    "fullTextZH": "她把这个男人",
+    "words": [
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 421.015,
+        "endTime": 421.218,
+        "gloss": "she"
+      },
+      {
+        "word": "把",
+        "pinyin": "bǎ",
+        "startTime": 421.218,
+        "endTime": 421.441,
+        "gloss": "took"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 421.441,
+        "endTime": 421.684,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 421.684,
+        "endTime": 421.928,
+        "gloss": "man"
+      }
+    ],
+    "fullTextEN": "She took this man"
+  },
+  {
+    "startTime": 423.8,
+    "endTime": 424.833,
+    "fullTextZH": "拉黑了",
+    "words": [
+      {
+        "word": "拉",
+        "pinyin": "lā",
+        "startTime": 423.982,
+        "endTime": 424.246,
+        "gloss": "pull"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 424.246,
+        "endTime": 424.529,
+        "gloss": "black"
+      },
+      {
+        "word": "了",
+        "pinyin": "le",
+        "startTime": 424.529,
+        "endTime": 424.549,
+        "gloss": "le"
+      }
+    ],
+    "fullTextEN": "Blocked"
+  },
+  {
+    "startTime": 425.766,
+    "endTime": 428.933,
+    "fullTextZH": "你知道拉黑是什么吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 425.986,
+        "endTime": 426.247,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 426.247,
+        "endTime": 427.169,
+        "gloss": "know"
+      },
+      {
+        "word": "拉",
+        "pinyin": "lā",
+        "startTime": 427.169,
+        "endTime": 427.49,
+        "gloss": "block"
+      },
+      {
+        "word": "黑",
+        "pinyin": "hēi",
+        "startTime": 427.49,
+        "endTime": 428.011,
+        "gloss": "black"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 428.011,
+        "endTime": 428.191,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 428.191,
+        "endTime": 428.532,
+        "gloss": "what"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 428.532,
+        "endTime": 428.552,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you know what blocking is?"
+  },
+  {
+    "startTime": 429.433,
+    "endTime": 435.0,
+    "fullTextZH": "就是不让她在手机上联系她",
+    "words": [
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 429.633,
+        "endTime": 430.154,
+        "gloss": "just"
+      },
+      {
+        "word": "不让",
+        "pinyin": "bù ràng",
+        "startTime": 430.154,
+        "endTime": 431.195,
+        "gloss": "not let"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 431.195,
+        "endTime": 431.436,
+        "gloss": "her"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 431.436,
+        "endTime": 431.836,
+        "gloss": "at"
+      },
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "startTime": 431.836,
+        "endTime": 432.417,
+        "gloss": "phone"
+      },
+      {
+        "word": "上",
+        "pinyin": "shàng",
+        "startTime": 432.417,
+        "endTime": 433.458,
+        "gloss": "on"
+      },
+      {
+        "word": "联系",
+        "pinyin": "lián xì",
+        "startTime": 433.458,
+        "endTime": 434.64,
+        "gloss": "contact"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 434.64,
+        "endTime": 434.66,
+        "gloss": "her"
+      }
+    ],
+    "fullTextEN": "It means not letting her contact her on the phone."
+  },
+  {
+    "startTime": 437.233,
+    "endTime": 442.633,
+    "fullTextZH": "所以现在这个男人不是她的男朋友",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 437.454,
+        "endTime": 437.815,
+        "gloss": "so"
+      },
+      {
+        "word": "现在",
+        "pinyin": "xiàn zài",
+        "startTime": 437.815,
+        "endTime": 439.14,
+        "gloss": "now"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 439.14,
+        "endTime": 439.381,
+        "gloss": "this"
+      },
+      {
+        "word": "男人",
+        "pinyin": "nán rén",
+        "startTime": 439.381,
+        "endTime": 440.525,
+        "gloss": "man"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 440.525,
+        "endTime": 441.589,
+        "gloss": "not"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 441.589,
+        "endTime": 441.81,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 441.81,
+        "endTime": 441.95,
+        "gloss": "de"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 441.95,
+        "endTime": 442.412,
+        "gloss": "boyfriend"
+      }
+    ],
+    "fullTextEN": "So now this man is not her boyfriend."
+  },
+  {
+    "startTime": 442.933,
+    "endTime": 445.966,
+    "fullTextZH": "是她的前男友",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 443.114,
+        "endTime": 443.254,
+        "gloss": "is"
+      },
+      {
+        "word": "她",
+        "pinyin": "tā",
+        "startTime": 443.254,
+        "endTime": 443.435,
+        "gloss": "her"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 443.435,
+        "endTime": 443.736,
+        "gloss": "de"
+      },
+      {
+        "word": "前男友",
+        "pinyin": "qián nán yǒu",
+        "startTime": 443.736,
+        "endTime": 445.705,
+        "gloss": "ex-boyfriend"
+      }
+    ],
+    "fullTextEN": "He is her ex-boyfriend."
+  },
+  {
+    "startTime": 447.033,
+    "endTime": 451.8,
+    "fullTextZH": "你的男朋友或者女朋友做什么事情",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 447.253,
+        "endTime": 447.634,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 447.634,
+        "endTime": 447.994,
+        "gloss": "de"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 447.994,
+        "endTime": 448.936,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 448.936,
+        "endTime": 449.336,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 449.336,
+        "endTime": 450.558,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 450.558,
+        "endTime": 450.799,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 450.799,
+        "endTime": 451.239,
+        "gloss": "what"
+      },
+      {
+        "word": "事情",
+        "pinyin": "shì qíng",
+        "startTime": 451.239,
+        "endTime": 451.5,
+        "gloss": "thing"
+      }
+    ],
+    "fullTextEN": "What does your boyfriend or girlfriend do?"
+  },
+  {
+    "startTime": 451.866,
+    "endTime": 453.6,
+    "fullTextZH": "你会很生气",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 452.068,
+        "endTime": 452.491,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 452.491,
+        "endTime": 452.713,
+        "gloss": "would"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 452.713,
+        "endTime": 453.035,
+        "gloss": "very"
+      },
+      {
+        "word": "生气",
+        "pinyin": "shēng qì",
+        "startTime": 453.035,
+        "endTime": 453.358,
+        "gloss": "angry"
+      }
+    ],
+    "fullTextEN": "You would be very angry."
+  },
+  {
+    "startTime": 454.466,
+    "endTime": 460.266,
+    "fullTextZH": "你觉得诚实是最最最重要的吗",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 454.606,
+        "endTime": 455.008,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 455.008,
+        "endTime": 456.292,
+        "gloss": "think"
+      },
+      {
+        "word": "诚实",
+        "pinyin": "chéng shí",
+        "startTime": 456.292,
+        "endTime": 457.737,
+        "gloss": "honesty"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 457.737,
+        "endTime": 458.179,
+        "gloss": "is"
+      },
+      {
+        "word": "最最",
+        "pinyin": "zuì zuì",
+        "startTime": 458.179,
+        "endTime": 459.042,
+        "gloss": "most"
+      },
+      {
+        "word": "最",
+        "pinyin": "zuì",
+        "startTime": 459.042,
+        "endTime": 459.383,
+        "gloss": "most"
+      },
+      {
+        "word": "重要",
+        "pinyin": "zhòng yào",
+        "startTime": 459.383,
+        "endTime": 459.905,
+        "gloss": "important"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 459.905,
+        "endTime": 460.025,
+        "gloss": "de"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 460.025,
+        "endTime": 460.045,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Do you think honesty is the most important?"
+  },
+  {
+    "startTime": 461.566,
+    "endTime": 468.266,
+    "fullTextZH": "如果你的男朋友或者女朋友不诚实",
+    "words": [
+      {
+        "word": "如果",
+        "pinyin": "rú guǒ",
+        "startTime": 461.807,
+        "endTime": 463.091,
+        "gloss": "if"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 463.091,
+        "endTime": 463.492,
+        "gloss": "you"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 463.492,
+        "endTime": 463.773,
+        "gloss": "de"
+      },
+      {
+        "word": "男朋友",
+        "pinyin": "nán péng yǒu",
+        "startTime": 463.773,
+        "endTime": 465.137,
+        "gloss": "boyfriend"
+      },
+      {
+        "word": "或者",
+        "pinyin": "huò zhě",
+        "startTime": 465.137,
+        "endTime": 465.738,
+        "gloss": "or"
+      },
+      {
+        "word": "女朋友",
+        "pinyin": "nǚ péng yǒu",
+        "startTime": 465.738,
+        "endTime": 466.962,
+        "gloss": "girlfriend"
+      },
+      {
+        "word": "不诚实",
+        "pinyin": "bù chéng shí",
+        "startTime": 466.962,
+        "endTime": 467.925,
+        "gloss": "not honest"
+      }
+    ],
+    "fullTextEN": "If your boyfriend or girlfriend is dishonest,"
+  },
+  {
+    "startTime": 468.733,
+    "endTime": 470.533,
+    "fullTextZH": "你会做什么",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 468.895,
+        "endTime": 469.684,
+        "gloss": "you"
+      },
+      {
+        "word": "会",
+        "pinyin": "huì",
+        "startTime": 469.684,
+        "endTime": 469.926,
+        "gloss": "would"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 469.926,
+        "endTime": 470.129,
+        "gloss": "do"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 470.129,
+        "endTime": 470.311,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What would you do?"
+  },
+  {
+    "startTime": 471.033,
+    "endTime": 473.333,
+    "fullTextZH": "欢迎留言告诉我",
+    "words": [
+      {
+        "word": "欢迎",
+        "pinyin": "huān yíng",
+        "startTime": 471.275,
+        "endTime": 471.8,
+        "gloss": "welcome"
+      },
+      {
+        "word": "留言",
+        "pinyin": "liú yán",
+        "startTime": 471.8,
+        "endTime": 472.587,
+        "gloss": "comment"
+      },
+      {
+        "word": "告诉",
+        "pinyin": "gào sù",
+        "startTime": 472.587,
+        "endTime": 473.051,
+        "gloss": "tell"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 473.051,
+        "endTime": 473.071,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Feel free to leave a comment and tell me."
+  },
+  {
+    "startTime": 473.366,
+    "endTime": 474.733,
+    "fullTextZH": "我们下次",
+    "words": [
+      {
+        "word": "我们",
+        "pinyin": "wǒ men",
+        "startTime": 473.688,
+        "endTime": 474.271,
+        "gloss": "we"
+      },
+      {
+        "word": "下次",
+        "pinyin": "xià cì",
+        "startTime": 474.271,
+        "endTime": 474.693,
+        "gloss": "next time"
+      }
+    ],
+    "fullTextEN": "See you next time."
+  },
+  {
+    "startTime": 474.733,
+    "endTime": 476.266,
+    "fullTextZH": "再见拜拜",
+    "words": [
+      {
+        "word": "再见",
+        "pinyin": "zài jiàn",
+        "startTime": 474.894,
+        "endTime": 475.721,
+        "gloss": "goodbye"
+      },
+      {
+        "word": "拜拜",
+        "pinyin": "bài bài",
+        "startTime": 475.721,
+        "endTime": 475.883,
+        "gloss": "bye-bye"
+      }
+    ],
+    "fullTextEN": "Goodbye, bye-bye."
+  }
+]

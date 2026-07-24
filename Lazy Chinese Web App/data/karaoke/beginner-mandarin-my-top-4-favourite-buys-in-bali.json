@@ -1,0 +1,5249 @@
+[
+  {
+    "startTime": 0.633,
+    "endTime": 4.166,
+    "fullTextZH": "大家好，我是智菲。",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 0.693,
+        "endTime": 0.994,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 0.994,
+        "endTime": 1.014,
+        "gloss": "hello"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 2.098,
+        "endTime": 2.741,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 2.741,
+        "endTime": 3.303,
+        "gloss": "am"
+      },
+      {
+        "word": "智菲",
+        "pinyin": "zhì fēi",
+        "startTime": 3.303,
+        "endTime": 4.126,
+        "gloss": "Zhifei"
+      }
+    ],
+    "fullTextEN": "Hello everyone, I am Zhifei."
+  },
+  {
+    "startTime": 5.033,
+    "endTime": 8.0,
+    "fullTextZH": "我是中国人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 5.274,
+        "endTime": 5.815,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 5.815,
+        "endTime": 6.496,
+        "gloss": "am"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 6.496,
+        "endTime": 7.278,
+        "gloss": "China"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 7.278,
+        "endTime": 7.96,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "I am Chinese."
+  },
+  {
+    "startTime": 9.066,
+    "endTime": 14.233,
+    "fullTextZH": "可是我不住在中国。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 9.206,
+        "endTime": 10.328,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 10.328,
+        "endTime": 11.349,
+        "gloss": "I"
+      },
+      {
+        "word": "不住",
+        "pinyin": "bú zhù",
+        "startTime": 11.349,
+        "endTime": 12.37,
+        "gloss": "not live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 12.37,
+        "endTime": 13.152,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 13.152,
+        "endTime": 14.193,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "But I don't live in China."
+  },
+  {
+    "startTime": 15.7,
+    "endTime": 18.666,
+    "fullTextZH": "我住在哪里呢？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 15.8,
+        "endTime": 16.562,
+        "gloss": "I"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 16.562,
+        "endTime": 16.862,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 16.862,
+        "endTime": 17.624,
+        "gloss": "in"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 17.624,
+        "endTime": 18.185,
+        "gloss": "where"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 18.185,
+        "endTime": 18.626,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "Where do I live?"
+  },
+  {
+    "startTime": 19.9,
+    "endTime": 22.966,
+    "fullTextZH": "我住在巴厘岛。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 19.98,
+        "endTime": 20.261,
+        "gloss": "I"
+      },
+      {
+        "word": "住",
+        "pinyin": "zhù",
+        "startTime": 20.261,
+        "endTime": 20.541,
+        "gloss": "live"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 20.541,
+        "endTime": 21.323,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 21.323,
+        "endTime": 22.926,
+        "gloss": "Bali"
+      }
+    ],
+    "fullTextEN": "I live in Bali."
+  },
+  {
+    "startTime": 24.6,
+    "endTime": 27.4,
+    "fullTextZH": "巴厘岛在哪里？",
+    "words": [
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 24.681,
+        "endTime": 26.312,
+        "gloss": "Bali"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 26.312,
+        "endTime": 26.614,
+        "gloss": "at"
+      },
+      {
+        "word": "哪里",
+        "pinyin": "nǎ lǐ",
+        "startTime": 26.614,
+        "endTime": 27.36,
+        "gloss": "where"
+      }
+    ],
+    "fullTextEN": "Where is Bali?"
+  },
+  {
+    "startTime": 28.566,
+    "endTime": 32.433,
+    "fullTextZH": "巴厘岛在印度尼西亚。",
+    "words": [
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 28.666,
+        "endTime": 29.728,
+        "gloss": "Bali"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 29.728,
+        "endTime": 30.389,
+        "gloss": "at"
+      },
+      {
+        "word": "印度尼西亚",
+        "pinyin": "yìn dù ní xī yà",
+        "startTime": 30.389,
+        "endTime": 32.393,
+        "gloss": "Indonesia"
+      }
+    ],
+    "fullTextEN": "Bali is in Indonesia."
+  },
+  {
+    "startTime": 34.566,
+    "endTime": 38.833,
+    "fullTextZH": "我很喜欢巴厘岛。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 34.626,
+        "endTime": 35.387,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 35.387,
+        "endTime": 36.329,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 36.329,
+        "endTime": 37.711,
+        "gloss": "like"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 37.711,
+        "endTime": 38.793,
+        "gloss": "Bali"
+      }
+    ],
+    "fullTextEN": "I really like Bali."
+  },
+  {
+    "startTime": 39.8,
+    "endTime": 45.266,
+    "fullTextZH": "我也很喜欢巴厘岛的东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 39.92,
+        "endTime": 40.22,
+        "gloss": "I"
+      },
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 40.22,
+        "endTime": 40.901,
+        "gloss": "also"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 40.901,
+        "endTime": 41.582,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 41.582,
+        "endTime": 42.983,
+        "gloss": "like"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 42.983,
+        "endTime": 43.884,
+        "gloss": "Bali"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 43.884,
+        "endTime": 44.085,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 44.085,
+        "endTime": 45.226,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "I also really like things from Bali."
+  },
+  {
+    "startTime": 46.3,
+    "endTime": 53.2,
+    "fullTextZH": "今天我和你说一说四个东西。",
+    "words": [
+      {
+        "word": "今天",
+        "pinyin": "jīn tiān",
+        "startTime": 46.42,
+        "endTime": 47.724,
+        "gloss": "today"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 47.724,
+        "endTime": 48.206,
+        "gloss": "I"
+      },
+      {
+        "word": "和",
+        "pinyin": "hé",
+        "startTime": 48.206,
+        "endTime": 48.587,
+        "gloss": "with"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 48.587,
+        "endTime": 49.429,
+        "gloss": "you"
+      },
+      {
+        "word": "说一说",
+        "pinyin": "shuō yī shuō",
+        "startTime": 49.429,
+        "endTime": 51.455,
+        "gloss": "talk"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 51.455,
+        "endTime": 52.017,
+        "gloss": "four"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 52.017,
+        "endTime": 53.16,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Today I will tell you about four things."
+  },
+  {
+    "startTime": 54.5,
+    "endTime": 56.1,
+    "fullTextZH": "什么东西？",
+    "words": [
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 54.703,
+        "endTime": 55.249,
+        "gloss": "what"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 55.249,
+        "endTime": 56.059,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "What things?"
+  },
+  {
+    "startTime": 57.1,
+    "endTime": 64.2,
+    "fullTextZH": "这四个东西是我在巴厘岛买的。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 57.2,
+        "endTime": 57.742,
+        "gloss": "these"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 57.742,
+        "endTime": 58.223,
+        "gloss": "four"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 58.223,
+        "endTime": 59.747,
+        "gloss": "things"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 59.747,
+        "endTime": 60.53,
+        "gloss": "are"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 60.53,
+        "endTime": 61.272,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 61.272,
+        "endTime": 61.733,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 61.733,
+        "endTime": 63.177,
+        "gloss": "Bali"
+      },
+      {
+        "word": "买",
+        "pinyin": "mǎi",
+        "startTime": 63.177,
+        "endTime": 63.759,
+        "gloss": "buy"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 63.759,
+        "endTime": 64.16,
+        "gloss": "de"
+      }
+    ],
+    "fullTextEN": "These four things I bought in Bali."
+  },
+  {
+    "startTime": 65.0,
+    "endTime": 70.233,
+    "fullTextZH": "我很喜欢的四个东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 65.08,
+        "endTime": 65.902,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 65.902,
+        "endTime": 66.604,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 66.604,
+        "endTime": 67.326,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 67.326,
+        "endTime": 68.509,
+        "gloss": "de"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 68.509,
+        "endTime": 69.11,
+        "gloss": "four"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 69.11,
+        "endTime": 70.193,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "Four things I really like."
+  },
+  {
+    "startTime": 71.6,
+    "endTime": 74.966,
+    "fullTextZH": "第一个东西是这个。",
+    "words": [
+      {
+        "word": "第一个",
+        "pinyin": "dì yí gè",
+        "startTime": 71.68,
+        "endTime": 72.381,
+        "gloss": "first"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 72.381,
+        "endTime": 73.263,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 73.263,
+        "endTime": 74.305,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 74.305,
+        "endTime": 74.926,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "The first thing is this."
+  },
+  {
+    "startTime": 75.2,
+    "endTime": 79.966,
+    "fullTextZH": "这是什么？",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 78.204,
+        "endTime": 78.965,
+        "gloss": "this is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 78.965,
+        "endTime": 79.926,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is this?"
+  },
+  {
+    "startTime": 80.666,
+    "endTime": 82.266,
+    "fullTextZH": "你看。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 80.767,
+        "endTime": 80.99,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 80.99,
+        "endTime": 82.225,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look."
+  },
+  {
+    "startTime": 82.266,
+    "endTime": 84.666,
+    "fullTextZH": "你知道。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 83.678,
+        "endTime": 83.9,
+        "gloss": "you"
+      },
+      {
+        "word": "知道",
+        "pinyin": "zhī dào",
+        "startTime": 83.9,
+        "endTime": 84.626,
+        "gloss": "know"
+      }
+    ],
+    "fullTextEN": "You know."
+  },
+  {
+    "startTime": 86.9,
+    "endTime": 89.3,
+    "fullTextZH": "这是一个帽子。",
+    "words": [
+      {
+        "word": "这是",
+        "pinyin": "zhè shì",
+        "startTime": 87.021,
+        "endTime": 87.424,
+        "gloss": "this is"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 87.424,
+        "endTime": 88.352,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 88.352,
+        "endTime": 89.26,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "This is a hat."
+  },
+  {
+    "startTime": 90.633,
+    "endTime": 93.866,
+    "fullTextZH": "这个帽子五美金。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 90.733,
+        "endTime": 91.075,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 91.075,
+        "endTime": 92.4,
+        "gloss": "hat"
+      },
+      {
+        "word": "五",
+        "pinyin": "wǔ",
+        "startTime": 92.4,
+        "endTime": 92.862,
+        "gloss": "five"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 92.862,
+        "endTime": 93.826,
+        "gloss": "dollars"
+      }
+    ],
+    "fullTextEN": "This hat is five dollars."
+  },
+  {
+    "startTime": 94.866,
+    "endTime": 97.066,
+    "fullTextZH": "五美金贵不贵？",
+    "words": [
+      {
+        "word": "五",
+        "pinyin": "wǔ",
+        "startTime": 94.967,
+        "endTime": 95.169,
+        "gloss": "five"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 95.169,
+        "endTime": 96.238,
+        "gloss": "dollars"
+      },
+      {
+        "word": "贵不贵",
+        "pinyin": "guì bù guì",
+        "startTime": 96.238,
+        "endTime": 97.026,
+        "gloss": "expensive or not"
+      }
+    ],
+    "fullTextEN": "Is five dollars expensive?"
+  },
+  {
+    "startTime": 98.433,
+    "endTime": 100.6,
+    "fullTextZH": "我觉得不贵。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 98.553,
+        "endTime": 98.794,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 98.794,
+        "endTime": 99.797,
+        "gloss": "think"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 99.797,
+        "endTime": 100.038,
+        "gloss": "not"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 100.038,
+        "endTime": 100.56,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "I think it's not expensive."
+  },
+  {
+    "startTime": 102.7,
+    "endTime": 106.2,
+    "fullTextZH": "这个帽子很大。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 102.78,
+        "endTime": 103.243,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 103.243,
+        "endTime": 104.732,
+        "gloss": "hat"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 104.732,
+        "endTime": 106.16,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This hat is very big."
+  },
+  {
+    "startTime": 106.7,
+    "endTime": 110.3,
+    "fullTextZH": "很大，不是很小。",
+    "words": [
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 106.801,
+        "endTime": 107.424,
+        "gloss": "very big"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 108.55,
+        "endTime": 109.174,
+        "gloss": "not"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 109.174,
+        "endTime": 110.26,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "Very big, not very small."
+  },
+  {
+    "startTime": 110.966,
+    "endTime": 113.466,
+    "fullTextZH": "这个帽子很大。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 111.026,
+        "endTime": 111.248,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 111.248,
+        "endTime": 112.014,
+        "gloss": "hat"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 112.014,
+        "endTime": 113.426,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This hat is very big."
+  },
+  {
+    "startTime": 114.233,
+    "endTime": 119.566,
+    "fullTextZH": "那我每天都戴这个帽子吗？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 114.313,
+        "endTime": 114.834,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 114.834,
+        "endTime": 115.737,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 115.737,
+        "endTime": 116.9,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 116.9,
+        "endTime": 117.541,
+        "gloss": "all"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 117.541,
+        "endTime": 117.982,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 117.982,
+        "endTime": 118.323,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 118.323,
+        "endTime": 118.824,
+        "gloss": "hat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 118.824,
+        "endTime": 119.526,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "So do I wear this hat every day?"
+  },
+  {
+    "startTime": 120.566,
+    "endTime": 124.033,
+    "fullTextZH": "每天就是星期一，",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 120.626,
+        "endTime": 121.528,
+        "gloss": "every day"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 121.528,
+        "endTime": 122.69,
+        "gloss": "is"
+      },
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 122.69,
+        "endTime": 123.993,
+        "gloss": "Monday"
+      }
+    ],
+    "fullTextEN": "Every day is Monday,"
+  },
+  {
+    "startTime": 124.033,
+    "endTime": 134.6,
+    "fullTextZH": "星期二、星期三、星期四、星期五、星期六、星期天。",
+    "words": [
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 124.173,
+        "endTime": 125.174,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 125.834,
+        "endTime": 126.715,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 127.435,
+        "endTime": 129.036,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 129.176,
+        "endTime": 130.838,
+        "gloss": "Friday"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 131.018,
+        "endTime": 132.459,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "星期天",
+        "pinyin": "xīng qī tiān",
+        "startTime": 132.699,
+        "endTime": 134.56,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday."
+  },
+  {
+    "startTime": 134.6,
+    "endTime": 136.0,
+    "fullTextZH": "每天。",
+    "words": [
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 134.762,
+        "endTime": 135.959,
+        "gloss": "every day"
+      }
+    ],
+    "fullTextEN": "Every day."
+  },
+  {
+    "startTime": 136.633,
+    "endTime": 142.2,
+    "fullTextZH": "我每天都戴这个帽子吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 136.973,
+        "endTime": 137.774,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 137.774,
+        "endTime": 138.896,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 138.896,
+        "endTime": 139.617,
+        "gloss": "all"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 139.617,
+        "endTime": 140.478,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 140.478,
+        "endTime": 141.199,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 141.199,
+        "endTime": 141.679,
+        "gloss": "hat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 141.679,
+        "endTime": 141.94,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I wear this hat every day?"
+  },
+  {
+    "startTime": 143.5,
+    "endTime": 144.1,
+    "fullTextZH": "对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 143.583,
+        "endTime": 143.852,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes."
+  },
+  {
+    "startTime": 144.1,
+    "endTime": 149.633,
+    "fullTextZH": "我每天都戴这个帽子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 144.882,
+        "endTime": 145.583,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 145.583,
+        "endTime": 146.867,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 146.867,
+        "endTime": 147.548,
+        "gloss": "all"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 147.548,
+        "endTime": 148.39,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 148.39,
+        "endTime": 148.771,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 148.771,
+        "endTime": 149.593,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "I wear this hat every day."
+  },
+  {
+    "startTime": 150.633,
+    "endTime": 155.833,
+    "fullTextZH": "那我什么时候戴这个帽子呢？",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 150.713,
+        "endTime": 151.416,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 151.416,
+        "endTime": 152.54,
+        "gloss": "I"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 152.54,
+        "endTime": 152.942,
+        "gloss": "what"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 152.942,
+        "endTime": 154.066,
+        "gloss": "time"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 154.066,
+        "endTime": 154.508,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 154.508,
+        "endTime": 154.869,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 154.869,
+        "endTime": 155.411,
+        "gloss": "hat"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 155.411,
+        "endTime": 155.431,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "So when do I wear this hat?"
+  },
+  {
+    "startTime": 156.6,
+    "endTime": 160.166,
+    "fullTextZH": "我上午戴这个帽子，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 156.82,
+        "endTime": 158.042,
+        "gloss": "I"
+      },
+      {
+        "word": "上午",
+        "pinyin": "shàng wǔ",
+        "startTime": 158.042,
+        "endTime": 158.864,
+        "gloss": "morning"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 158.864,
+        "endTime": 159.124,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 159.124,
+        "endTime": 159.385,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 159.385,
+        "endTime": 160.126,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "I wear this hat in the morning,"
+  },
+  {
+    "startTime": 160.7,
+    "endTime": 164.766,
+    "fullTextZH": "还是下午戴这个帽子，",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 160.8,
+        "endTime": 162.242,
+        "gloss": "or"
+      },
+      {
+        "word": "下午",
+        "pinyin": "xià wǔ",
+        "startTime": 162.242,
+        "endTime": 163.404,
+        "gloss": "afternoon"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 163.404,
+        "endTime": 163.684,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 163.684,
+        "endTime": 163.985,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 163.985,
+        "endTime": 164.726,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "or wear this hat in the afternoon,"
+  },
+  {
+    "startTime": 165.266,
+    "endTime": 169.5,
+    "fullTextZH": "还是晚上戴这个帽子呢？",
+    "words": [
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 165.346,
+        "endTime": 166.55,
+        "gloss": "or"
+      },
+      {
+        "word": "晚上",
+        "pinyin": "wǎn shàng",
+        "startTime": 166.55,
+        "endTime": 167.754,
+        "gloss": "evening"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 167.754,
+        "endTime": 168.095,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 168.095,
+        "endTime": 168.436,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 168.436,
+        "endTime": 168.918,
+        "gloss": "hat"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 168.918,
+        "endTime": 169.46,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "or wear this hat in the evening?"
+  },
+  {
+    "startTime": 170.4,
+    "endTime": 174.033,
+    "fullTextZH": "我下午戴这个帽子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 170.561,
+        "endTime": 171.604,
+        "gloss": "I"
+      },
+      {
+        "word": "下午",
+        "pinyin": "xià wǔ",
+        "startTime": 171.604,
+        "endTime": 172.668,
+        "gloss": "afternoon"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 172.668,
+        "endTime": 172.989,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 172.989,
+        "endTime": 173.29,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 173.29,
+        "endTime": 173.993,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "I wear this hat in the afternoon."
+  },
+  {
+    "startTime": 175.233,
+    "endTime": 176.466,
+    "fullTextZH": "为什么？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 175.354,
+        "endTime": 176.426,
+        "gloss": "why"
+      }
+    ],
+    "fullTextEN": "Why?"
+  },
+  {
+    "startTime": 177.1,
+    "endTime": 184.2,
+    "fullTextZH": "因为我每天下午五点去散步。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 177.16,
+        "endTime": 178.023,
+        "gloss": "because"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 178.023,
+        "endTime": 178.725,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 178.725,
+        "endTime": 180.048,
+        "gloss": "every day"
+      },
+      {
+        "word": "下午",
+        "pinyin": "xià wǔ",
+        "startTime": 180.048,
+        "endTime": 180.971,
+        "gloss": "afternoon"
+      },
+      {
+        "word": "五点",
+        "pinyin": "wǔ diǎn",
+        "startTime": 180.971,
+        "endTime": 182.375,
+        "gloss": "five o'clock"
+      },
+      {
+        "word": "去",
+        "pinyin": "qù",
+        "startTime": 182.375,
+        "endTime": 183.157,
+        "gloss": "go"
+      },
+      {
+        "word": "散步",
+        "pinyin": "sàn bù",
+        "startTime": 183.157,
+        "endTime": 184.16,
+        "gloss": "walk"
+      }
+    ],
+    "fullTextEN": "Because I go for a walk at five every afternoon."
+  },
+  {
+    "startTime": 184.9,
+    "endTime": 191.066,
+    "fullTextZH": "我散步的时候，我戴这个帽子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 185.32,
+        "endTime": 185.961,
+        "gloss": "I"
+      },
+      {
+        "word": "散步",
+        "pinyin": "sàn bù",
+        "startTime": 185.961,
+        "endTime": 186.542,
+        "gloss": "walk"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 186.542,
+        "endTime": 186.722,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 186.722,
+        "endTime": 187.322,
+        "gloss": "time"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 187.823,
+        "endTime": 188.864,
+        "gloss": "I"
+      },
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 188.864,
+        "endTime": 189.504,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 189.504,
+        "endTime": 190.205,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 190.205,
+        "endTime": 191.026,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "When I go for a walk, I wear this hat."
+  },
+  {
+    "startTime": 192.033,
+    "endTime": 195.0,
+    "fullTextZH": "戴这个帽子。",
+    "words": [
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 193.637,
+        "endTime": 193.917,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 193.917,
+        "endTime": 194.198,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 194.198,
+        "endTime": 194.96,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "Wear this hat."
+  },
+  {
+    "startTime": 195.166,
+    "endTime": 198.866,
+    "fullTextZH": "我觉得我是巴厘岛人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 195.246,
+        "endTime": 195.588,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 195.588,
+        "endTime": 196.835,
+        "gloss": "think"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 196.835,
+        "endTime": 197.076,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 197.076,
+        "endTime": 197.519,
+        "gloss": "am"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 197.519,
+        "endTime": 198.363,
+        "gloss": "Bali"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 198.363,
+        "endTime": 198.846,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "I think I am a Balinese."
+  },
+  {
+    "startTime": 199.2,
+    "endTime": 202.1,
+    "fullTextZH": "大家好，大家好！",
+    "words": [
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 200.549,
+        "endTime": 200.811,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 200.811,
+        "endTime": 200.972,
+        "gloss": "hello"
+      },
+      {
+        "word": "大家",
+        "pinyin": "dà jiā",
+        "startTime": 201.073,
+        "endTime": 201.395,
+        "gloss": "everyone"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 201.395,
+        "endTime": 202.06,
+        "gloss": "hello"
+      }
+    ],
+    "fullTextEN": "Hello everyone, hello everyone!"
+  },
+  {
+    "startTime": 202.1,
+    "endTime": 202.466,
+    "fullTextZH": "对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 202.181,
+        "endTime": 202.446,
+        "gloss": "correct"
+      }
+    ],
+    "fullTextEN": "Yes."
+  },
+  {
+    "startTime": 202.466,
+    "endTime": 204.433,
+    "fullTextZH": "我是巴厘岛人。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 202.607,
+        "endTime": 202.888,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 202.888,
+        "endTime": 203.168,
+        "gloss": "am"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 203.168,
+        "endTime": 203.871,
+        "gloss": "Bali"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 203.871,
+        "endTime": 204.393,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "I am a Balinese."
+  },
+  {
+    "startTime": 204.633,
+    "endTime": 207.866,
+    "fullTextZH": "我很开心。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 204.753,
+        "endTime": 205.256,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 205.256,
+        "endTime": 205.697,
+        "gloss": "very"
+      },
+      {
+        "word": "开心",
+        "pinyin": "kāi xīn",
+        "startTime": 205.697,
+        "endTime": 207.103,
+        "gloss": "happy"
+      }
+    ],
+    "fullTextEN": "I am very happy."
+  },
+  {
+    "startTime": 207.866,
+    "endTime": 211.466,
+    "fullTextZH": "我喜欢这个帽子。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 208.087,
+        "endTime": 208.851,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 208.851,
+        "endTime": 209.978,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 209.978,
+        "endTime": 210.541,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 210.541,
+        "endTime": 211.426,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "I like this hat."
+  },
+  {
+    "startTime": 212.8,
+    "endTime": 217.966,
+    "fullTextZH": "第二个我喜欢的东西是什么呢？",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 212.86,
+        "endTime": 214.061,
+        "gloss": "second"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 214.061,
+        "endTime": 214.642,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 214.642,
+        "endTime": 215.243,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 215.243,
+        "endTime": 215.563,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 215.563,
+        "endTime": 216.584,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 216.584,
+        "endTime": 217.145,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 217.145,
+        "endTime": 217.525,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 217.525,
+        "endTime": 217.926,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What is the second thing I like?"
+  },
+  {
+    "startTime": 219.233,
+    "endTime": 224.966,
+    "fullTextZH": "第二个我喜欢的东西是这个。",
+    "words": [
+      {
+        "word": "第二个",
+        "pinyin": "dì èr gè",
+        "startTime": 219.313,
+        "endTime": 220.536,
+        "gloss": "second"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 220.536,
+        "endTime": 221.017,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 221.017,
+        "endTime": 221.518,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 221.518,
+        "endTime": 221.659,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 221.659,
+        "endTime": 222.44,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 222.44,
+        "endTime": 223.944,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 223.944,
+        "endTime": 224.926,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "The second thing I like is this."
+  },
+  {
+    "startTime": 224.966,
+    "endTime": 228.6,
+    "fullTextZH": "这个是什么？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 226.632,
+        "endTime": 227.275,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 227.275,
+        "endTime": 227.596,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 227.596,
+        "endTime": 227.857,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is this?"
+  },
+  {
+    "startTime": 229.466,
+    "endTime": 232.2,
+    "fullTextZH": "这个是帽子吗？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 229.567,
+        "endTime": 230.19,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 230.19,
+        "endTime": 231.235,
+        "gloss": "is"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 231.235,
+        "endTime": 231.718,
+        "gloss": "hat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 231.718,
+        "endTime": 232.16,
+        "gloss": "ma"
+      }
+    ],
+    "fullTextEN": "Is this a hat?"
+  },
+  {
+    "startTime": 232.2,
+    "endTime": 236.033,
+    "fullTextZH": "可以，可以。",
+    "words": [
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 233.846,
+        "endTime": 234.247,
+        "gloss": "can"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 234.327,
+        "endTime": 235.993,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "Sure, sure."
+  },
+  {
+    "startTime": 236.766,
+    "endTime": 241.066,
+    "fullTextZH": "可是这个不是帽子。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 236.887,
+        "endTime": 237.771,
+        "gloss": "but"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 237.771,
+        "endTime": 239.438,
+        "gloss": "this"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 239.438,
+        "endTime": 240.142,
+        "gloss": "is not"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 240.142,
+        "endTime": 241.046,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "But this is not a hat."
+  },
+  {
+    "startTime": 241.666,
+    "endTime": 244.8,
+    "fullTextZH": "这个是一个碗。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 241.766,
+        "endTime": 242.57,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 242.57,
+        "endTime": 243.012,
+        "gloss": "is"
+      },
+      {
+        "word": "一个碗",
+        "pinyin": "yí gè wǎn",
+        "startTime": 243.012,
+        "endTime": 244.76,
+        "gloss": "a bowl"
+      }
+    ],
+    "fullTextEN": "This is a bowl."
+  },
+  {
+    "startTime": 245.3,
+    "endTime": 248.3,
+    "fullTextZH": "你可以放东西。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 245.401,
+        "endTime": 245.602,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 245.602,
+        "endTime": 246.468,
+        "gloss": "can"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 246.468,
+        "endTime": 247.313,
+        "gloss": "put"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 247.313,
+        "endTime": 248.26,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "You can put things."
+  },
+  {
+    "startTime": 249.266,
+    "endTime": 252.2,
+    "fullTextZH": "这个碗多少钱？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 249.366,
+        "endTime": 249.768,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 249.768,
+        "endTime": 250.954,
+        "gloss": "bowl"
+      },
+      {
+        "word": "多少",
+        "pinyin": "duō shǎo",
+        "startTime": 250.954,
+        "endTime": 251.557,
+        "gloss": "how much"
+      },
+      {
+        "word": "钱",
+        "pinyin": "qián",
+        "startTime": 251.557,
+        "endTime": 252.16,
+        "gloss": "money"
+      }
+    ],
+    "fullTextEN": "How much is this bowl?"
+  },
+  {
+    "startTime": 253.3,
+    "endTime": 256.766,
+    "fullTextZH": "这个碗25美金。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 253.4,
+        "endTime": 253.801,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 253.801,
+        "endTime": 254.642,
+        "gloss": "bowl"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 255.884,
+        "endTime": 256.726,
+        "gloss": "dollars"
+      }
+    ],
+    "fullTextEN": "This bowl is 25 dollars."
+  },
+  {
+    "startTime": 257.8,
+    "endTime": 262.5,
+    "fullTextZH": "25美金，你觉得贵不贵？",
+    "words": [
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 258.865,
+        "endTime": 259.467,
+        "gloss": "dollars"
+      },
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 260.05,
+        "endTime": 260.311,
+        "gloss": "you"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 260.311,
+        "endTime": 261.476,
+        "gloss": "think"
+      },
+      {
+        "word": "贵不贵",
+        "pinyin": "guì bù guì",
+        "startTime": 261.476,
+        "endTime": 262.46,
+        "gloss": "expensive or not"
+      }
+    ],
+    "fullTextEN": "25 dollars, do you think it's expensive?"
+  },
+  {
+    "startTime": 263.7,
+    "endTime": 266.166,
+    "fullTextZH": "我觉得不贵。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 263.8,
+        "endTime": 264.081,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 264.081,
+        "endTime": 265.304,
+        "gloss": "think"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 265.304,
+        "endTime": 265.625,
+        "gloss": "not"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 265.625,
+        "endTime": 266.126,
+        "gloss": "expensive"
+      }
+    ],
+    "fullTextEN": "I think it's not expensive."
+  },
+  {
+    "startTime": 267.033,
+    "endTime": 270.2,
+    "fullTextZH": "因为这个是木头。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 267.073,
+        "endTime": 268.095,
+        "gloss": "because"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 268.095,
+        "endTime": 268.717,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 268.717,
+        "endTime": 269.378,
+        "gloss": "is"
+      },
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 269.378,
+        "endTime": 270.16,
+        "gloss": "wood"
+      }
+    ],
+    "fullTextEN": "Because this is wood."
+  },
+  {
+    "startTime": 270.833,
+    "endTime": 273.366,
+    "fullTextZH": "木头。",
+    "words": [
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 271.014,
+        "endTime": 272.642,
+        "gloss": "wood"
+      }
+    ],
+    "fullTextEN": "Wood."
+  },
+  {
+    "startTime": 274.0,
+    "endTime": 277.066,
+    "fullTextZH": "这是很好的木头。",
+    "words": [
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 274.06,
+        "endTime": 274.18,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 274.18,
+        "endTime": 274.461,
+        "gloss": "is"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 274.461,
+        "endTime": 274.982,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 274.982,
+        "endTime": 275.443,
+        "gloss": "good"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 275.443,
+        "endTime": 276.064,
+        "gloss": "de"
+      },
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 276.064,
+        "endTime": 277.026,
+        "gloss": "wood"
+      }
+    ],
+    "fullTextEN": "This is very good wood."
+  },
+  {
+    "startTime": 278.2,
+    "endTime": 280.233,
+    "fullTextZH": "它很漂亮。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 278.22,
+        "endTime": 278.764,
+        "gloss": "it"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 278.764,
+        "endTime": 280.193,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "It is very beautiful."
+  },
+  {
+    "startTime": 280.566,
+    "endTime": 282.866,
+    "fullTextZH": "你看。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 280.606,
+        "endTime": 280.748,
+        "gloss": "you"
+      },
+      {
+        "word": "看",
+        "pinyin": "kàn",
+        "startTime": 280.748,
+        "endTime": 282.624,
+        "gloss": "look"
+      }
+    ],
+    "fullTextEN": "Look."
+  },
+  {
+    "startTime": 282.866,
+    "endTime": 285.666,
+    "fullTextZH": "木头很漂亮。",
+    "words": [
+      {
+        "word": "木头",
+        "pinyin": "mù tou",
+        "startTime": 282.987,
+        "endTime": 284.195,
+        "gloss": "wood"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 284.195,
+        "endTime": 285.626,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "The wood is very beautiful."
+  },
+  {
+    "startTime": 286.566,
+    "endTime": 290.666,
+    "fullTextZH": "这个碗很大。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 286.666,
+        "endTime": 286.968,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 286.968,
+        "endTime": 289.058,
+        "gloss": "bowl"
+      },
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 289.058,
+        "endTime": 290.626,
+        "gloss": "very big"
+      }
+    ],
+    "fullTextEN": "This bowl is very big."
+  },
+  {
+    "startTime": 291.433,
+    "endTime": 292.966,
+    "fullTextZH": "不是很小。",
+    "words": [
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 291.494,
+        "endTime": 291.877,
+        "gloss": "not"
+      },
+      {
+        "word": "很小",
+        "pinyin": "hěn xiǎo",
+        "startTime": 291.877,
+        "endTime": 292.926,
+        "gloss": "very small"
+      }
+    ],
+    "fullTextEN": "It is not very small."
+  },
+  {
+    "startTime": 293.866,
+    "endTime": 298.2,
+    "fullTextZH": "这个碗不是一个帽子。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 293.966,
+        "endTime": 294.287,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 294.287,
+        "endTime": 295.431,
+        "gloss": "bowl"
+      },
+      {
+        "word": "不是",
+        "pinyin": "bú shì",
+        "startTime": 295.431,
+        "endTime": 296.113,
+        "gloss": "not"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 296.113,
+        "endTime": 297.377,
+        "gloss": "a"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 297.377,
+        "endTime": 298.16,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "This bowl is not a hat."
+  },
+  {
+    "startTime": 299.833,
+    "endTime": 302.0,
+    "fullTextZH": "它是一个碗。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 299.893,
+        "endTime": 300.194,
+        "gloss": "it"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 300.194,
+        "endTime": 300.535,
+        "gloss": "is"
+      },
+      {
+        "word": "一个碗",
+        "pinyin": "yí gè wǎn",
+        "startTime": 300.535,
+        "endTime": 301.96,
+        "gloss": "a bowl"
+      }
+    ],
+    "fullTextEN": "It is a bowl."
+  },
+  {
+    "startTime": 302.9,
+    "endTime": 305.5,
+    "fullTextZH": "我可以做饭。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 303.001,
+        "endTime": 303.626,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 303.626,
+        "endTime": 304.613,
+        "gloss": "can"
+      },
+      {
+        "word": "做饭",
+        "pinyin": "zuò fàn",
+        "startTime": 304.613,
+        "endTime": 305.46,
+        "gloss": "cook"
+      }
+    ],
+    "fullTextEN": "I can cook."
+  },
+  {
+    "startTime": 306.233,
+    "endTime": 311.6,
+    "fullTextZH": "然后我用这个碗放菜。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 306.333,
+        "endTime": 307.234,
+        "gloss": "then"
+      },
+      {
+        "word": "我用",
+        "pinyin": "wǒ yòng",
+        "startTime": 307.234,
+        "endTime": 308.176,
+        "gloss": "I use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 308.176,
+        "endTime": 308.616,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 308.616,
+        "endTime": 309.878,
+        "gloss": "bowl"
+      },
+      {
+        "word": "放菜",
+        "pinyin": "fàng cài",
+        "startTime": 309.878,
+        "endTime": 311.56,
+        "gloss": "serve dishes"
+      }
+    ],
+    "fullTextEN": "Then I use this bowl to serve dishes."
+  },
+  {
+    "startTime": 312.4,
+    "endTime": 315.266,
+    "fullTextZH": "我可以做沙拉。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 312.48,
+        "endTime": 312.961,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 312.961,
+        "endTime": 313.562,
+        "gloss": "can"
+      },
+      {
+        "word": "做",
+        "pinyin": "zuò",
+        "startTime": 313.562,
+        "endTime": 314.565,
+        "gloss": "make"
+      },
+      {
+        "word": "沙拉",
+        "pinyin": "shā lā",
+        "startTime": 314.565,
+        "endTime": 315.226,
+        "gloss": "salad"
+      }
+    ],
+    "fullTextEN": "I can make salad."
+  },
+  {
+    "startTime": 316.033,
+    "endTime": 320.7,
+    "fullTextZH": "然后用这个碗放沙拉。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 316.073,
+        "endTime": 317.055,
+        "gloss": "then"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 317.055,
+        "endTime": 317.695,
+        "gloss": "use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 317.695,
+        "endTime": 318.036,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 318.036,
+        "endTime": 319.078,
+        "gloss": "bowl"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 319.078,
+        "endTime": 319.879,
+        "gloss": "serve"
+      },
+      {
+        "word": "沙拉",
+        "pinyin": "shā lā",
+        "startTime": 319.879,
+        "endTime": 320.52,
+        "gloss": "salad"
+      }
+    ],
+    "fullTextEN": "Then use this bowl to serve salad."
+  },
+  {
+    "startTime": 322.4,
+    "endTime": 328.3,
+    "fullTextZH": "然后在巴厘岛有很多很多水果。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 322.46,
+        "endTime": 323.724,
+        "gloss": "then"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 323.724,
+        "endTime": 324.046,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 324.046,
+        "endTime": 325.189,
+        "gloss": "Bali"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 325.189,
+        "endTime": 325.631,
+        "gloss": "have"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 325.631,
+        "endTime": 327.317,
+        "gloss": "many many"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 327.317,
+        "endTime": 328.26,
+        "gloss": "fruits"
+      }
+    ],
+    "fullTextEN": "Then in Bali, there are many, many fruits."
+  },
+  {
+    "startTime": 329.066,
+    "endTime": 333.966,
+    "fullTextZH": "我可以用这个碗放水果。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 329.146,
+        "endTime": 329.548,
+        "gloss": "I"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 329.548,
+        "endTime": 330.432,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 330.432,
+        "endTime": 330.853,
+        "gloss": "use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 330.853,
+        "endTime": 331.175,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 331.175,
+        "endTime": 332.259,
+        "gloss": "bowl"
+      },
+      {
+        "word": "放",
+        "pinyin": "fàng",
+        "startTime": 332.259,
+        "endTime": 332.962,
+        "gloss": "serve"
+      },
+      {
+        "word": "水果",
+        "pinyin": "shuǐ guǒ",
+        "startTime": 332.962,
+        "endTime": 333.926,
+        "gloss": "fruits"
+      }
+    ],
+    "fullTextEN": "I can use this bowl to serve fruits."
+  },
+  {
+    "startTime": 334.566,
+    "endTime": 337.766,
+    "fullTextZH": "很漂亮，很好。",
+    "words": [
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 334.626,
+        "endTime": 335.592,
+        "gloss": "very beautiful"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 336.74,
+        "endTime": 337.142,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 337.142,
+        "endTime": 337.726,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Very beautiful, very good."
+  },
+  {
+    "startTime": 337.766,
+    "endTime": 343.033,
+    "fullTextZH": "所以我很喜欢这个碗。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 338.207,
+        "endTime": 339.108,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 339.108,
+        "endTime": 339.909,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 339.909,
+        "endTime": 340.59,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 340.59,
+        "endTime": 341.912,
+        "gloss": "like"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 341.912,
+        "endTime": 342.272,
+        "gloss": "this"
+      },
+      {
+        "word": "碗",
+        "pinyin": "wǎn",
+        "startTime": 342.272,
+        "endTime": 342.693,
+        "gloss": "bowl"
+      }
+    ],
+    "fullTextEN": "So I really like this bowl."
+  },
+  {
+    "startTime": 343.866,
+    "endTime": 349.166,
+    "fullTextZH": "第三个我很喜欢的东西是什么呢？",
+    "words": [
+      {
+        "word": "第三个",
+        "pinyin": "dì sān gè",
+        "startTime": 343.946,
+        "endTime": 345.171,
+        "gloss": "third"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 345.171,
+        "endTime": 345.633,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 345.633,
+        "endTime": 346.054,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 346.054,
+        "endTime": 346.516,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 346.516,
+        "endTime": 346.697,
+        "gloss": "de"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 346.697,
+        "endTime": 348.142,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 348.142,
+        "endTime": 348.443,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 348.443,
+        "endTime": 348.785,
+        "gloss": "what"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 348.785,
+        "endTime": 349.146,
+        "gloss": "ne"
+      }
+    ],
+    "fullTextEN": "What is the third thing I really like?"
+  },
+  {
+    "startTime": 350.1,
+    "endTime": 351.833,
+    "fullTextZH": "是这个。",
+    "words": [
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 350.322,
+        "endTime": 351.228,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 351.228,
+        "endTime": 351.793,
+        "gloss": "this"
+      }
+    ],
+    "fullTextEN": "It's this."
+  },
+  {
+    "startTime": 352.833,
+    "endTime": 355.766,
+    "fullTextZH": "这个是防蚊液。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 352.933,
+        "endTime": 353.395,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 353.395,
+        "endTime": 354.34,
+        "gloss": "is"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 354.34,
+        "endTime": 355.726,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "This is mosquito repellent."
+  },
+  {
+    "startTime": 357.266,
+    "endTime": 361.033,
+    "fullTextZH": "在巴厘岛很热。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 357.386,
+        "endTime": 358.128,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 358.128,
+        "endTime": 359.61,
+        "gloss": "Bali"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 359.61,
+        "endTime": 360.252,
+        "gloss": "very"
+      },
+      {
+        "word": "热",
+        "pinyin": "rè",
+        "startTime": 360.252,
+        "endTime": 360.993,
+        "gloss": "hot"
+      }
+    ],
+    "fullTextEN": "It is very hot in Bali."
+  },
+  {
+    "startTime": 361.6,
+    "endTime": 365.833,
+    "fullTextZH": "有很多蚊子。",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 361.7,
+        "endTime": 361.941,
+        "gloss": "there is"
+      },
+      {
+        "word": "很多",
+        "pinyin": "hěn duō",
+        "startTime": 361.941,
+        "endTime": 363.245,
+        "gloss": "many"
+      },
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 363.245,
+        "endTime": 365.793,
+        "gloss": "mosquitoes"
+      }
+    ],
+    "fullTextEN": "There are many mosquitoes."
+  },
+  {
+    "startTime": 367.033,
+    "endTime": 368.5,
+    "fullTextZH": "蚊子。",
+    "words": [
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 367.596,
+        "endTime": 368.46,
+        "gloss": "mosquitoes"
+      }
+    ],
+    "fullTextEN": "Mosquitoes."
+  },
+  {
+    "startTime": 368.5,
+    "endTime": 371.266,
+    "fullTextZH": "你打蚊子。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 369.703,
+        "endTime": 370.063,
+        "gloss": "you"
+      },
+      {
+        "word": "打",
+        "pinyin": "dǎ",
+        "startTime": 370.063,
+        "endTime": 370.464,
+        "gloss": "swat"
+      },
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 370.464,
+        "endTime": 371.226,
+        "gloss": "mosquitoes"
+      }
+    ],
+    "fullTextEN": "You swat mosquitoes."
+  },
+  {
+    "startTime": 372.3,
+    "endTime": 376.9,
+    "fullTextZH": "在巴厘岛有很多很多蚊子。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 372.4,
+        "endTime": 372.943,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 372.943,
+        "endTime": 374.188,
+        "gloss": "Bali"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 374.188,
+        "endTime": 374.51,
+        "gloss": "there is"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 374.51,
+        "endTime": 376.076,
+        "gloss": "many many"
+      },
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 376.076,
+        "endTime": 376.88,
+        "gloss": "mosquitoes"
+      }
+    ],
+    "fullTextEN": "There are many, many mosquitoes in Bali."
+  },
+  {
+    "startTime": 378.566,
+    "endTime": 383.0,
+    "fullTextZH": "蚊子很喜欢我。",
+    "words": [
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 379.649,
+        "endTime": 380.733,
+        "gloss": "mosquitoes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 380.733,
+        "endTime": 381.315,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 381.315,
+        "endTime": 382.117,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 382.117,
+        "endTime": 382.96,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Mosquitoes really like me."
+  },
+  {
+    "startTime": 383.6,
+    "endTime": 387.6,
+    "fullTextZH": "可是我不喜欢蚊子。",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 383.68,
+        "endTime": 384.746,
+        "gloss": "but"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 384.746,
+        "endTime": 385.429,
+        "gloss": "I"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 385.429,
+        "endTime": 385.851,
+        "gloss": "not"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 385.851,
+        "endTime": 386.836,
+        "gloss": "like"
+      },
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 386.836,
+        "endTime": 387.56,
+        "gloss": "mosquitoes"
+      }
+    ],
+    "fullTextEN": "But I don't like mosquitoes."
+  },
+  {
+    "startTime": 388.566,
+    "endTime": 392.966,
+    "fullTextZH": "所以我要用防蚊液。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 388.747,
+        "endTime": 389.611,
+        "gloss": "so"
+      },
+      {
+        "word": "我要",
+        "pinyin": "wǒ yào",
+        "startTime": 389.611,
+        "endTime": 390.434,
+        "gloss": "I need"
+      },
+      {
+        "word": "用防",
+        "pinyin": "yòng fáng",
+        "startTime": 390.434,
+        "endTime": 391.54,
+        "gloss": "use"
+      },
+      {
+        "word": "蚊液",
+        "pinyin": "wén yè",
+        "startTime": 391.54,
+        "endTime": 392.685,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "So I need to use mosquito repellent."
+  },
+  {
+    "startTime": 394.266,
+    "endTime": 398.5,
+    "fullTextZH": "我每天都用防蚊液吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 394.467,
+        "endTime": 395.089,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 395.089,
+        "endTime": 395.992,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 395.992,
+        "endTime": 396.253,
+        "gloss": "all"
+      },
+      {
+        "word": "用防",
+        "pinyin": "yòng fáng",
+        "startTime": 396.253,
+        "endTime": 397.035,
+        "gloss": "use"
+      },
+      {
+        "word": "蚊液",
+        "pinyin": "wén yè",
+        "startTime": 397.035,
+        "endTime": 397.517,
+        "gloss": "mosquito repellent"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 397.517,
+        "endTime": 397.858,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I use mosquito repellent every day?"
+  },
+  {
+    "startTime": 399.033,
+    "endTime": 407.666,
+    "fullTextZH": "星期一、星期二、星期三、星期四、星期五、星期六、星期天。",
+    "words": [
+      {
+        "word": "星期一",
+        "pinyin": "xīng qī yī",
+        "startTime": 399.153,
+        "endTime": 400.075,
+        "gloss": "Monday"
+      },
+      {
+        "word": "星期二",
+        "pinyin": "xīng qī èr",
+        "startTime": 400.215,
+        "endTime": 401.096,
+        "gloss": "Tuesday"
+      },
+      {
+        "word": "星期三",
+        "pinyin": "xīng qī sān",
+        "startTime": 401.296,
+        "endTime": 402.438,
+        "gloss": "Wednesday"
+      },
+      {
+        "word": "星期四",
+        "pinyin": "xīng qī sì",
+        "startTime": 402.538,
+        "endTime": 403.7,
+        "gloss": "Thursday"
+      },
+      {
+        "word": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "startTime": 403.82,
+        "endTime": 404.982,
+        "gloss": "Friday"
+      },
+      {
+        "word": "星期六",
+        "pinyin": "xīng qī liù",
+        "startTime": 405.162,
+        "endTime": 406.104,
+        "gloss": "Saturday"
+      },
+      {
+        "word": "星期天",
+        "pinyin": "xīng qī tiān",
+        "startTime": 406.284,
+        "endTime": 407.626,
+        "gloss": "Sunday"
+      }
+    ],
+    "fullTextEN": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday."
+  },
+  {
+    "startTime": 407.666,
+    "endTime": 412.4,
+    "fullTextZH": "我每天都用防蚊液吗？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 407.786,
+        "endTime": 408.488,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 408.488,
+        "endTime": 409.672,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 409.672,
+        "endTime": 410.254,
+        "gloss": "all"
+      },
+      {
+        "word": "用防",
+        "pinyin": "yòng fáng",
+        "startTime": 410.254,
+        "endTime": 411.136,
+        "gloss": "use"
+      },
+      {
+        "word": "蚊液",
+        "pinyin": "wén yè",
+        "startTime": 411.136,
+        "endTime": 411.678,
+        "gloss": "mosquito repellent"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 411.678,
+        "endTime": 412.36,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I use mosquito repellent every day?"
+  },
+  {
+    "startTime": 413.266,
+    "endTime": 413.766,
+    "fullTextZH": "对。",
+    "words": [
+      {
+        "word": "对",
+        "pinyin": "duì",
+        "startTime": 413.349,
+        "endTime": 413.745,
+        "gloss": "yes"
+      }
+    ],
+    "fullTextEN": "Yes."
+  },
+  {
+    "startTime": 413.766,
+    "endTime": 417.966,
+    "fullTextZH": "我每天都用防蚊液。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 414.67,
+        "endTime": 414.911,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 414.911,
+        "endTime": 415.936,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 415.936,
+        "endTime": 416.177,
+        "gloss": "all"
+      },
+      {
+        "word": "用防",
+        "pinyin": "yòng fáng",
+        "startTime": 416.177,
+        "endTime": 417.062,
+        "gloss": "use"
+      },
+      {
+        "word": "蚊液",
+        "pinyin": "wén yè",
+        "startTime": 417.062,
+        "endTime": 417.926,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "I use mosquito repellent every day."
+  },
+  {
+    "startTime": 418.366,
+    "endTime": 421.8,
+    "fullTextZH": "因为蚊子很喜欢我。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 418.426,
+        "endTime": 419.31,
+        "gloss": "because"
+      },
+      {
+        "word": "蚊子",
+        "pinyin": "wén zi",
+        "startTime": 419.31,
+        "endTime": 419.932,
+        "gloss": "mosquitoes"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 419.932,
+        "endTime": 420.455,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 420.455,
+        "endTime": 421.057,
+        "gloss": "like"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 421.057,
+        "endTime": 421.76,
+        "gloss": "me"
+      }
+    ],
+    "fullTextEN": "Because mosquitoes really like me."
+  },
+  {
+    "startTime": 422.6,
+    "endTime": 427.6,
+    "fullTextZH": "在巴厘岛有很多很多种防蚊液。",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 422.7,
+        "endTime": 422.982,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 422.982,
+        "endTime": 424.287,
+        "gloss": "Bali"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 424.287,
+        "endTime": 424.628,
+        "gloss": "there is"
+      },
+      {
+        "word": "很多很多",
+        "pinyin": "hěn duō hěn duō",
+        "startTime": 424.628,
+        "endTime": 426.214,
+        "gloss": "many many"
+      },
+      {
+        "word": "种防",
+        "pinyin": "zhǒng fáng",
+        "startTime": 426.214,
+        "endTime": 426.857,
+        "gloss": "kinds of"
+      },
+      {
+        "word": "蚊液",
+        "pinyin": "wén yè",
+        "startTime": 426.857,
+        "endTime": 427.58,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "There are many kinds of mosquito repellent in Bali."
+  },
+  {
+    "startTime": 428.5,
+    "endTime": 430.833,
+    "fullTextZH": "这个是便宜的。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 428.601,
+        "endTime": 429.184,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 429.184,
+        "endTime": 429.787,
+        "gloss": "is"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 429.787,
+        "endTime": 430.37,
+        "gloss": "cheap"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 430.37,
+        "endTime": 430.793,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "This one is cheap."
+  },
+  {
+    "startTime": 431.3,
+    "endTime": 434.466,
+    "fullTextZH": "这个0.5美金。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 431.4,
+        "endTime": 432.242,
+        "gloss": "this"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 433.524,
+        "endTime": 434.426,
+        "gloss": "dollars"
+      }
+    ],
+    "fullTextEN": "This is 0.5 dollars."
+  },
+  {
+    "startTime": 435.4,
+    "endTime": 437.566,
+    "fullTextZH": "这个是贵的。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 435.46,
+        "endTime": 436.102,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 436.102,
+        "endTime": 436.784,
+        "gloss": "is"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 436.784,
+        "endTime": 437.085,
+        "gloss": "expensive"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 437.085,
+        "endTime": 437.526,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "This one is expensive."
+  },
+  {
+    "startTime": 438.0,
+    "endTime": 440.166,
+    "fullTextZH": "这个三美金。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 438.06,
+        "endTime": 439.003,
+        "gloss": "this"
+      },
+      {
+        "word": "三",
+        "pinyin": "sān",
+        "startTime": 439.003,
+        "endTime": 439.304,
+        "gloss": "three"
+      },
+      {
+        "word": "美金",
+        "pinyin": "měi jīn",
+        "startTime": 439.304,
+        "endTime": 440.126,
+        "gloss": "dollars"
+      }
+    ],
+    "fullTextEN": "This is three dollars."
+  },
+  {
+    "startTime": 441.166,
+    "endTime": 445.9,
+    "fullTextZH": "我喜欢便宜的还是贵的呢？",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 441.266,
+        "endTime": 441.988,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 441.988,
+        "endTime": 442.871,
+        "gloss": "like"
+      },
+      {
+        "word": "便宜",
+        "pinyin": "pián yi",
+        "startTime": 442.871,
+        "endTime": 443.332,
+        "gloss": "cheap"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 443.332,
+        "endTime": 443.934,
+        "gloss": "one"
+      },
+      {
+        "word": "还是",
+        "pinyin": "hái shì",
+        "startTime": 443.934,
+        "endTime": 444.917,
+        "gloss": "or"
+      },
+      {
+        "word": "贵",
+        "pinyin": "guì",
+        "startTime": 444.917,
+        "endTime": 445.258,
+        "gloss": "expensive"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 445.258,
+        "endTime": 445.378,
+        "gloss": "one"
+      },
+      {
+        "word": "呢",
+        "pinyin": "ne",
+        "startTime": 445.378,
+        "endTime": 445.559,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Do I like the cheap one or the expensive one?"
+  },
+  {
+    "startTime": 446.8,
+    "endTime": 448.233,
+    "fullTextZH": "我都喜欢。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 446.861,
+        "endTime": 447.042,
+        "gloss": "I"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 447.042,
+        "endTime": 447.325,
+        "gloss": "both"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 447.325,
+        "endTime": 448.193,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "I like both."
+  },
+  {
+    "startTime": 448.5,
+    "endTime": 450.966,
+    "fullTextZH": "有小的防蚊液，",
+    "words": [
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 448.64,
+        "endTime": 449.202,
+        "gloss": "there is"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 449.202,
+        "endTime": 449.643,
+        "gloss": "small"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 449.643,
+        "endTime": 449.944,
+        "gloss": "of"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 449.944,
+        "endTime": 450.946,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "There is small mosquito repellent,"
+  },
+  {
+    "startTime": 451.2,
+    "endTime": 454.433,
+    "fullTextZH": "也有大的防蚊液。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 451.341,
+        "endTime": 451.582,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 451.582,
+        "endTime": 452.385,
+        "gloss": "there is"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 452.385,
+        "endTime": 452.967,
+        "gloss": "large"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 452.967,
+        "endTime": 453.549,
+        "gloss": "of"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 453.549,
+        "endTime": 454.393,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "and there is also large mosquito repellent."
+  },
+  {
+    "startTime": 455.3,
+    "endTime": 457.3,
+    "fullTextZH": "我有一个大的，",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 455.401,
+        "endTime": 455.724,
+        "gloss": "I"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 455.724,
+        "endTime": 456.068,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 456.068,
+        "endTime": 456.734,
+        "gloss": "a"
+      },
+      {
+        "word": "大",
+        "pinyin": "dà",
+        "startTime": 456.734,
+        "endTime": 456.977,
+        "gloss": "large"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 456.977,
+        "endTime": 457.26,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "I have a large one,"
+  },
+  {
+    "startTime": 457.833,
+    "endTime": 460.033,
+    "fullTextZH": "也有一个小的。",
+    "words": [
+      {
+        "word": "也",
+        "pinyin": "yě",
+        "startTime": 457.934,
+        "endTime": 458.075,
+        "gloss": "also"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 458.075,
+        "endTime": 458.277,
+        "gloss": "have"
+      },
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 458.277,
+        "endTime": 459.205,
+        "gloss": "a"
+      },
+      {
+        "word": "小",
+        "pinyin": "xiǎo",
+        "startTime": 459.205,
+        "endTime": 459.589,
+        "gloss": "small"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 459.589,
+        "endTime": 459.993,
+        "gloss": "one"
+      }
+    ],
+    "fullTextEN": "and also a small one."
+  },
+  {
+    "startTime": 460.5,
+    "endTime": 461.666,
+    "fullTextZH": "在巴厘岛，",
+    "words": [
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 460.621,
+        "endTime": 460.842,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 460.842,
+        "endTime": 461.626,
+        "gloss": "Bali"
+      }
+    ],
+    "fullTextEN": "In Bali,"
+  },
+  {
+    "startTime": 462.5,
+    "endTime": 464.866,
+    "fullTextZH": "我很喜欢防蚊液。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 462.58,
+        "endTime": 462.721,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 462.721,
+        "endTime": 463.041,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 463.041,
+        "endTime": 463.964,
+        "gloss": "like"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 463.964,
+        "endTime": 464.846,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "I really like mosquito repellent."
+  },
+  {
+    "startTime": 465.066,
+    "endTime": 467.033,
+    "fullTextZH": "防蚊液很好。",
+    "words": [
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 465.267,
+        "endTime": 466.25,
+        "gloss": "mosquito repellent"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 466.25,
+        "endTime": 466.551,
+        "gloss": "very"
+      },
+      {
+        "word": "好",
+        "pinyin": "hǎo",
+        "startTime": 466.551,
+        "endTime": 466.993,
+        "gloss": "good"
+      }
+    ],
+    "fullTextEN": "Mosquito repellent is very good."
+  },
+  {
+    "startTime": 467.966,
+    "endTime": 472.233,
+    "fullTextZH": "第四个我喜欢的东西是什么？",
+    "words": [
+      {
+        "word": "第四个",
+        "pinyin": "dì sì gè",
+        "startTime": 468.006,
+        "endTime": 469.088,
+        "gloss": "fourth"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 469.088,
+        "endTime": 469.448,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 469.448,
+        "endTime": 470.009,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 470.009,
+        "endTime": 470.17,
+        "gloss": "of"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 470.17,
+        "endTime": 471.051,
+        "gloss": "thing"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 471.051,
+        "endTime": 471.392,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 471.392,
+        "endTime": 472.193,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is the fourth thing I like?"
+  },
+  {
+    "startTime": 476.8,
+    "endTime": 477.6,
+    "fullTextZH": "这个。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 476.862,
+        "endTime": 477.559,
+        "gloss": "this one"
+      }
+    ],
+    "fullTextEN": "This one."
+  },
+  {
+    "startTime": 478.866,
+    "endTime": 480.266,
+    "fullTextZH": "这个是什么？",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 478.947,
+        "endTime": 479.394,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 479.394,
+        "endTime": 479.596,
+        "gloss": "is"
+      },
+      {
+        "word": "什么",
+        "pinyin": "shén me",
+        "startTime": 479.596,
+        "endTime": 480.225,
+        "gloss": "what"
+      }
+    ],
+    "fullTextEN": "What is this?"
+  },
+  {
+    "startTime": 481.0,
+    "endTime": 483.3,
+    "fullTextZH": "你可以打人吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 481.02,
+        "endTime": 481.182,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 481.182,
+        "endTime": 482.251,
+        "gloss": "can"
+      },
+      {
+        "word": "打人",
+        "pinyin": "dǎ rén",
+        "startTime": 482.251,
+        "endTime": 482.695,
+        "gloss": "hit people"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 482.695,
+        "endTime": 483.26,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Can you hit people?"
+  },
+  {
+    "startTime": 483.766,
+    "endTime": 486.233,
+    "fullTextZH": "不可以，不可以。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 484.127,
+        "endTime": 484.247,
+        "gloss": "no"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 484.247,
+        "endTime": 484.568,
+        "gloss": "can"
+      },
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 484.649,
+        "endTime": 484.809,
+        "gloss": "no"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 484.809,
+        "endTime": 486.193,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "No, you can't."
+  },
+  {
+    "startTime": 486.233,
+    "endTime": 490.1,
+    "fullTextZH": "你可以吃吗？",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 486.313,
+        "endTime": 486.534,
+        "gloss": "you"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 486.534,
+        "endTime": 487.856,
+        "gloss": "can"
+      },
+      {
+        "word": "吃",
+        "pinyin": "chī",
+        "startTime": 487.856,
+        "endTime": 488.177,
+        "gloss": "eat"
+      },
+      {
+        "word": "吗",
+        "pinyin": "ma",
+        "startTime": 488.177,
+        "endTime": 489.339,
+        "gloss": "question"
+      }
+    ],
+    "fullTextEN": "Can you eat it?"
+  },
+  {
+    "startTime": 490.3,
+    "endTime": 491.833,
+    "fullTextZH": "不可以。",
+    "words": [
+      {
+        "word": "不",
+        "pinyin": "bù",
+        "startTime": 490.401,
+        "endTime": 490.582,
+        "gloss": "no"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 490.582,
+        "endTime": 491.793,
+        "gloss": "can"
+      }
+    ],
+    "fullTextEN": "No, you can't."
+  },
+  {
+    "startTime": 491.833,
+    "endTime": 495.433,
+    "fullTextZH": "这个是一块肥皂。",
+    "words": [
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 492.014,
+        "endTime": 492.879,
+        "gloss": "this"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 492.879,
+        "endTime": 493.321,
+        "gloss": "is"
+      },
+      {
+        "word": "一块",
+        "pinyin": "yī kuài",
+        "startTime": 493.321,
+        "endTime": 494.407,
+        "gloss": "a bar"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 494.407,
+        "endTime": 495.393,
+        "gloss": "soap"
+      }
+    ],
+    "fullTextEN": "This is a bar of soap."
+  },
+  {
+    "startTime": 496.4,
+    "endTime": 504.4,
+    "fullTextZH": "你洗澡的时候可以用肥皂洗澡。",
+    "words": [
+      {
+        "word": "你",
+        "pinyin": "nǐ",
+        "startTime": 496.46,
+        "endTime": 497.002,
+        "gloss": "you"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 497.002,
+        "endTime": 497.683,
+        "gloss": "bathe"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 497.683,
+        "endTime": 497.884,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 497.884,
+        "endTime": 498.966,
+        "gloss": "time"
+      },
+      {
+        "word": "可以",
+        "pinyin": "kě yǐ",
+        "startTime": 498.966,
+        "endTime": 499.548,
+        "gloss": "can"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 499.548,
+        "endTime": 500.109,
+        "gloss": "use"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 500.109,
+        "endTime": 501.533,
+        "gloss": "soap"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 501.533,
+        "endTime": 504.36,
+        "gloss": "bathe"
+      }
+    ],
+    "fullTextEN": "You can use soap to shower when you bathe."
+  },
+  {
+    "startTime": 505.366,
+    "endTime": 509.066,
+    "fullTextZH": "为什么我喜欢这块肥皂？",
+    "words": [
+      {
+        "word": "为什么",
+        "pinyin": "wèi shén me",
+        "startTime": 505.547,
+        "endTime": 506.532,
+        "gloss": "why"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 506.532,
+        "endTime": 506.834,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 506.834,
+        "endTime": 507.598,
+        "gloss": "like"
+      },
+      {
+        "word": "这块",
+        "pinyin": "zhè kuài",
+        "startTime": 507.598,
+        "endTime": 508.262,
+        "gloss": "this bar"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 508.262,
+        "endTime": 509.026,
+        "gloss": "soap"
+      }
+    ],
+    "fullTextEN": "Why do I like this bar of soap?"
+  },
+  {
+    "startTime": 509.833,
+    "endTime": 514.2,
+    "fullTextZH": "因为它很香。",
+    "words": [
+      {
+        "word": "因为",
+        "pinyin": "yīn wèi",
+        "startTime": 509.893,
+        "endTime": 510.935,
+        "gloss": "because"
+      },
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 510.935,
+        "endTime": 512.798,
+        "gloss": "it"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 512.798,
+        "endTime": 513.399,
+        "gloss": "very"
+      },
+      {
+        "word": "香",
+        "pinyin": "xiāng",
+        "startTime": 513.399,
+        "endTime": 514.16,
+        "gloss": "fragrant"
+      }
+    ],
+    "fullTextEN": "Because it smells good."
+  },
+  {
+    "startTime": 515.066,
+    "endTime": 517.666,
+    "fullTextZH": "它有花的味道。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 515.167,
+        "endTime": 515.469,
+        "gloss": "it"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 515.469,
+        "endTime": 516.134,
+        "gloss": "has"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 516.134,
+        "endTime": 516.578,
+        "gloss": "flower"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 516.578,
+        "endTime": 516.86,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 516.86,
+        "endTime": 517.626,
+        "gloss": "scent"
+      }
+    ],
+    "fullTextEN": "It has a floral scent."
+  },
+  {
+    "startTime": 518.5,
+    "endTime": 523.0,
+    "fullTextZH": "它有巴厘岛的花的味道。",
+    "words": [
+      {
+        "word": "它",
+        "pinyin": "tā",
+        "startTime": 518.58,
+        "endTime": 519.123,
+        "gloss": "it"
+      },
+      {
+        "word": "有",
+        "pinyin": "yǒu",
+        "startTime": 519.123,
+        "endTime": 519.886,
+        "gloss": "has"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 519.886,
+        "endTime": 520.891,
+        "gloss": "Bali"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 520.891,
+        "endTime": 521.393,
+        "gloss": "of"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 521.393,
+        "endTime": 521.996,
+        "gloss": "flower"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 521.996,
+        "endTime": 522.196,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 522.196,
+        "endTime": 522.96,
+        "gloss": "scent"
+      }
+    ],
+    "fullTextEN": "It has the scent of Bali's flowers."
+  },
+  {
+    "startTime": 524.4,
+    "endTime": 531.066,
+    "fullTextZH": "我很喜欢巴厘岛的花的味道。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 526.041,
+        "endTime": 526.302,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 526.302,
+        "endTime": 526.782,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 526.782,
+        "endTime": 527.943,
+        "gloss": "like"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 527.943,
+        "endTime": 528.884,
+        "gloss": "Bali"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 528.884,
+        "endTime": 529.384,
+        "gloss": "of"
+      },
+      {
+        "word": "花",
+        "pinyin": "huā",
+        "startTime": 529.384,
+        "endTime": 529.965,
+        "gloss": "flowers"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 529.965,
+        "endTime": 530.245,
+        "gloss": "of"
+      },
+      {
+        "word": "味道",
+        "pinyin": "wèi dào",
+        "startTime": 530.245,
+        "endTime": 530.766,
+        "gloss": "scent"
+      }
+    ],
+    "fullTextEN": "I really like the scent of flowers in Bali."
+  },
+  {
+    "startTime": 531.9,
+    "endTime": 539.266,
+    "fullTextZH": "所以我每天洗澡的时候用这块肥皂。",
+    "words": [
+      {
+        "word": "所以",
+        "pinyin": "suǒ yǐ",
+        "startTime": 532.04,
+        "endTime": 533.141,
+        "gloss": "so"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 533.141,
+        "endTime": 534.002,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 534.002,
+        "endTime": 535.443,
+        "gloss": "every day"
+      },
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 535.443,
+        "endTime": 535.943,
+        "gloss": "shower"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 535.943,
+        "endTime": 536.183,
+        "gloss": "of"
+      },
+      {
+        "word": "时候",
+        "pinyin": "shí hòu",
+        "startTime": 536.183,
+        "endTime": 537.264,
+        "gloss": "time"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 537.264,
+        "endTime": 537.765,
+        "gloss": "use"
+      },
+      {
+        "word": "这块",
+        "pinyin": "zhè kuài",
+        "startTime": 537.765,
+        "endTime": 538.385,
+        "gloss": "this"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 538.385,
+        "endTime": 539.226,
+        "gloss": "soap"
+      }
+    ],
+    "fullTextEN": "So I use this soap when I shower every day."
+  },
+  {
+    "startTime": 539.4,
+    "endTime": 541.166,
+    "fullTextZH": "洗澡。",
+    "words": [
+      {
+        "word": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "startTime": 540.283,
+        "endTime": 541.126,
+        "gloss": "shower"
+      }
+    ],
+    "fullTextEN": "Shower."
+  },
+  {
+    "startTime": 542.9,
+    "endTime": 545.633,
+    "fullTextZH": "可能我在中国，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 543.0,
+        "endTime": 543.824,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 543.824,
+        "endTime": 544.106,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 544.106,
+        "endTime": 544.889,
+        "gloss": "in"
+      },
+      {
+        "word": "中国",
+        "pinyin": "zhōng guó",
+        "startTime": 544.889,
+        "endTime": 545.593,
+        "gloss": "China"
+      }
+    ],
+    "fullTextEN": "Maybe I'm in China,"
+  },
+  {
+    "startTime": 546.366,
+    "endTime": 548.833,
+    "fullTextZH": "可能我在法国，",
+    "words": [
+      {
+        "word": "可能",
+        "pinyin": "kě néng",
+        "startTime": 546.446,
+        "endTime": 547.128,
+        "gloss": "maybe"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 547.128,
+        "endTime": 547.429,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 547.429,
+        "endTime": 548.031,
+        "gloss": "in"
+      },
+      {
+        "word": "法国",
+        "pinyin": "fǎ guó",
+        "startTime": 548.031,
+        "endTime": 548.793,
+        "gloss": "France"
+      }
+    ],
+    "fullTextEN": "Maybe I'm in France,"
+  },
+  {
+    "startTime": 549.766,
+    "endTime": 553.666,
+    "fullTextZH": "可是我闻这个肥皂，",
+    "words": [
+      {
+        "word": "可是",
+        "pinyin": "kě shì",
+        "startTime": 549.846,
+        "endTime": 550.972,
+        "gloss": "but"
+      },
+      {
+        "word": "我闻",
+        "pinyin": "wǒ wén",
+        "startTime": 550.972,
+        "endTime": 552.118,
+        "gloss": "I smell"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 552.118,
+        "endTime": 552.882,
+        "gloss": "this"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 552.882,
+        "endTime": 553.626,
+        "gloss": "soap"
+      }
+    ],
+    "fullTextEN": "But when I smell this soap,"
+  },
+  {
+    "startTime": 555.7,
+    "endTime": 559.433,
+    "fullTextZH": "我感觉我在巴厘岛。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 555.861,
+        "endTime": 556.081,
+        "gloss": "I"
+      },
+      {
+        "word": "感觉",
+        "pinyin": "gǎn jué",
+        "startTime": 556.081,
+        "endTime": 557.366,
+        "gloss": "feel"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 557.366,
+        "endTime": 557.727,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 557.727,
+        "endTime": 558.209,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 558.209,
+        "endTime": 559.393,
+        "gloss": "Bali"
+      }
+    ],
+    "fullTextEN": "I feel like I'm in Bali."
+  },
+  {
+    "startTime": 560.566,
+    "endTime": 564.0,
+    "fullTextZH": "我很喜欢这块肥皂。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 560.606,
+        "endTime": 560.887,
+        "gloss": "I"
+      },
+      {
+        "word": "很",
+        "pinyin": "hěn",
+        "startTime": 560.887,
+        "endTime": 561.43,
+        "gloss": "very"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 561.43,
+        "endTime": 562.474,
+        "gloss": "like"
+      },
+      {
+        "word": "这块",
+        "pinyin": "zhè kuài",
+        "startTime": 562.474,
+        "endTime": 563.217,
+        "gloss": "this"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 563.217,
+        "endTime": 563.96,
+        "gloss": "soap"
+      }
+    ],
+    "fullTextEN": "I really like this soap."
+  },
+  {
+    "startTime": 565.233,
+    "endTime": 567.133,
+    "fullTextZH": "那这就是",
+    "words": [
+      {
+        "word": "那",
+        "pinyin": "nà",
+        "startTime": 565.314,
+        "endTime": 565.94,
+        "gloss": "so"
+      },
+      {
+        "word": "这",
+        "pinyin": "zhè",
+        "startTime": 565.94,
+        "endTime": 566.163,
+        "gloss": "this"
+      },
+      {
+        "word": "就是",
+        "pinyin": "jiù shì",
+        "startTime": 566.163,
+        "endTime": 566.446,
+        "gloss": "is"
+      }
+    ],
+    "fullTextEN": "So this is"
+  },
+  {
+    "startTime": 567.133,
+    "endTime": 572.4,
+    "fullTextZH": "我在巴厘岛喜欢的四个东西。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 567.153,
+        "endTime": 567.654,
+        "gloss": "I"
+      },
+      {
+        "word": "在",
+        "pinyin": "zài",
+        "startTime": 567.654,
+        "endTime": 567.934,
+        "gloss": "in"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 567.934,
+        "endTime": 569.136,
+        "gloss": "Bali"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 569.136,
+        "endTime": 569.797,
+        "gloss": "like"
+      },
+      {
+        "word": "的",
+        "pinyin": "de",
+        "startTime": 569.797,
+        "endTime": 570.638,
+        "gloss": "of"
+      },
+      {
+        "word": "四个",
+        "pinyin": "sì gè",
+        "startTime": 570.638,
+        "endTime": 571.359,
+        "gloss": "four"
+      },
+      {
+        "word": "东西",
+        "pinyin": "dōng xī",
+        "startTime": 571.359,
+        "endTime": 572.36,
+        "gloss": "things"
+      }
+    ],
+    "fullTextEN": "the four things I like in Bali."
+  },
+  {
+    "startTime": 573.066,
+    "endTime": 575.766,
+    "fullTextZH": "一个是这个帽子。",
+    "words": [
+      {
+        "word": "一个",
+        "pinyin": "yí gè",
+        "startTime": 573.126,
+        "endTime": 573.812,
+        "gloss": "one"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 573.812,
+        "endTime": 574.114,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 574.114,
+        "endTime": 574.96,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 574.96,
+        "endTime": 575.726,
+        "gloss": "hat"
+      }
+    ],
+    "fullTextEN": "One is this hat."
+  },
+  {
+    "startTime": 577.6,
+    "endTime": 582.6,
+    "fullTextZH": "戴这个帽子，我觉得我是巴厘岛人。",
+    "words": [
+      {
+        "word": "戴",
+        "pinyin": "dài",
+        "startTime": 577.68,
+        "endTime": 577.941,
+        "gloss": "wear"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 577.941,
+        "endTime": 578.222,
+        "gloss": "this"
+      },
+      {
+        "word": "帽子",
+        "pinyin": "mào zi",
+        "startTime": 578.222,
+        "endTime": 578.765,
+        "gloss": "hat"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 579.327,
+        "endTime": 579.588,
+        "gloss": "I"
+      },
+      {
+        "word": "觉得",
+        "pinyin": "jué de",
+        "startTime": 579.588,
+        "endTime": 580.431,
+        "gloss": "feel"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 580.431,
+        "endTime": 580.712,
+        "gloss": "I"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 580.712,
+        "endTime": 581.094,
+        "gloss": "am"
+      },
+      {
+        "word": "巴厘岛",
+        "pinyin": "bā lí dǎo",
+        "startTime": 581.094,
+        "endTime": 581.998,
+        "gloss": "Bali"
+      },
+      {
+        "word": "人",
+        "pinyin": "rén",
+        "startTime": 581.998,
+        "endTime": 582.56,
+        "gloss": "person"
+      }
+    ],
+    "fullTextEN": "Wearing this hat, I feel like I'm a Balinese."
+  },
+  {
+    "startTime": 583.566,
+    "endTime": 587.9,
+    "fullTextZH": "然后是这个大碗。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 583.646,
+        "endTime": 584.89,
+        "gloss": "then"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 584.89,
+        "endTime": 585.131,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 585.131,
+        "endTime": 586.114,
+        "gloss": "this"
+      },
+      {
+        "word": "大碗",
+        "pinyin": "dà wǎn",
+        "startTime": 586.114,
+        "endTime": 587.86,
+        "gloss": "big bowl"
+      }
+    ],
+    "fullTextEN": "Then there's this big bowl."
+  },
+  {
+    "startTime": 588.466,
+    "endTime": 591.766,
+    "fullTextZH": "很大，很漂亮。",
+    "words": [
+      {
+        "word": "很大",
+        "pinyin": "hěn dà",
+        "startTime": 588.567,
+        "endTime": 589.673,
+        "gloss": "very big"
+      },
+      {
+        "word": "很漂亮",
+        "pinyin": "hěn piào liàng",
+        "startTime": 590.217,
+        "endTime": 591.525,
+        "gloss": "very beautiful"
+      }
+    ],
+    "fullTextEN": "Very big, very beautiful."
+  },
+  {
+    "startTime": 592.666,
+    "endTime": 596.3,
+    "fullTextZH": "然后是这个防蚊液。",
+    "words": [
+      {
+        "word": "然后",
+        "pinyin": "rán hòu",
+        "startTime": 592.746,
+        "endTime": 593.71,
+        "gloss": "then"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 593.71,
+        "endTime": 594.212,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 594.212,
+        "endTime": 595.115,
+        "gloss": "this"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 595.115,
+        "endTime": 596.26,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "Then there's this mosquito repellent."
+  },
+  {
+    "startTime": 596.766,
+    "endTime": 599.866,
+    "fullTextZH": "我每天都用这个防蚊液。",
+    "words": [
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 596.847,
+        "endTime": 597.148,
+        "gloss": "I"
+      },
+      {
+        "word": "每天",
+        "pinyin": "měi tiān",
+        "startTime": 597.148,
+        "endTime": 597.793,
+        "gloss": "every day"
+      },
+      {
+        "word": "都",
+        "pinyin": "dōu",
+        "startTime": 597.793,
+        "endTime": 598.014,
+        "gloss": "all"
+      },
+      {
+        "word": "用",
+        "pinyin": "yòng",
+        "startTime": 598.014,
+        "endTime": 598.376,
+        "gloss": "use"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 598.376,
+        "endTime": 598.799,
+        "gloss": "this"
+      },
+      {
+        "word": "防蚊液",
+        "pinyin": "fáng wén yè",
+        "startTime": 598.799,
+        "endTime": 599.826,
+        "gloss": "mosquito repellent"
+      }
+    ],
+    "fullTextEN": "I use this mosquito repellent every day."
+  },
+  {
+    "startTime": 600.633,
+    "endTime": 604.633,
+    "fullTextZH": "最后是这个肥皂，我喜欢。",
+    "words": [
+      {
+        "word": "最后",
+        "pinyin": "zuì hòu",
+        "startTime": 600.734,
+        "endTime": 601.437,
+        "gloss": "finally"
+      },
+      {
+        "word": "是",
+        "pinyin": "shì",
+        "startTime": 601.437,
+        "endTime": 601.779,
+        "gloss": "is"
+      },
+      {
+        "word": "这个",
+        "pinyin": "zhè ge",
+        "startTime": 601.779,
+        "endTime": 602.301,
+        "gloss": "this"
+      },
+      {
+        "word": "肥皂",
+        "pinyin": "féi zào",
+        "startTime": 602.301,
+        "endTime": 602.884,
+        "gloss": "soap"
+      },
+      {
+        "word": "我",
+        "pinyin": "wǒ",
+        "startTime": 603.507,
+        "endTime": 603.809,
+        "gloss": "I"
+      },
+      {
+        "word": "喜欢",
+        "pinyin": "xǐ huān",
+        "startTime": 603.809,
+        "endTime": 604.593,
+        "gloss": "like"
+      }
+    ],
+    "fullTextEN": "Finally, there's this soap, which I like."
+  }
+]
