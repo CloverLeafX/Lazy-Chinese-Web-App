@@ -924,7 +924,7 @@ let karaokeCues     = [];   // [{startTime, endTime, fullTextZH, fullTextEN, wor
 let karaokeRafId    = null;
 let karaokeSentIdx  = -1;
 let kkShowPy        = true;
-let kkShowGloss     = false;
+let kkShowGloss     = true;
 let kkShowEn        = false;
 
 /* ══════════════════════════════════════════════════════
@@ -1269,11 +1269,14 @@ async function setupPlayer(v) {
     frame.style.display = "none"; frame.src = "";
     vid.removeEventListener("timeupdate", onTimeUpdate);
     vid.addEventListener("timeupdate", onTimeUpdate);
+    vid.removeEventListener("ended", onVideoEnded);
+    vid.addEventListener("ended", onVideoEnded);
     document.getElementById("videoControls").classList.add("active");
     if (v.source === "xiaogua") {
       // Stream through Railway proxy — avoids SharePoint browser-auth redirect
       vid.src = `${BASE}/api/xiaogua/stream/${v.id}`;
       vid.load();
+      vid.play().catch(() => {});
       document.getElementById('vcFill').style.width = '0%';
       document.getElementById('vcBuffer').style.width = '0%';
       document.getElementById('vcTime').textContent = '0:00 / 0:00';
@@ -1284,6 +1287,7 @@ async function setupPlayer(v) {
         if (!r.ok || !data.url) throw new Error(data.error || "No URL returned");
         vid.src = data.url;
         vid.load();
+        vid.play().catch(() => {});
         document.getElementById('vcFill').style.width = '0%';
         document.getElementById('vcBuffer').style.width = '0%';
         document.getElementById('vcTime').textContent = '0:00 / 0:00';
@@ -1307,6 +1311,20 @@ async function setupPlayer(v) {
 
 function onTimeUpdate() {
   syncSubs(document.getElementById("localVideo").currentTime);
+}
+
+// Video played all the way through: log a watch, then auto-advance to an
+// unwatched video in the same level.
+async function onVideoEnded() {
+  const finished = currentVideo;
+  if (!finished) return;
+  await logWatch(finished);
+  const next = allVideos.find(v =>
+    v.id !== finished.id &&
+    v.level === finished.level &&
+    !watchState[v.id]?.watchCount
+  );
+  if (next) openWatch(next);
 }
 
 /* ── Subtitle loading ───────────────────────────────── */
@@ -2139,7 +2157,7 @@ document.addEventListener("keydown", e => {
 })();
 
 /* ── Boot ───────────────────────────────────────────── */
-// Sync kkGloss button with its initial state (on by default on desktop, off on mobile)
+// Sync kkGloss button with its initial state (on by default)
 document.getElementById("kkGloss").classList.toggle("active", kkShowGloss);
 boot();
 </script>
