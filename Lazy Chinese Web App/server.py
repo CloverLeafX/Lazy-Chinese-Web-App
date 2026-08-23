@@ -170,11 +170,14 @@ def _save_watch_state(state: dict):
 # ── Graph API / OneDrive ──────────────────────────────────────────────────────
 
 def _load_tokens() -> dict:
+    # Prefer the persisted file: refresh tokens rotate on every use, and the
+    # file reflects the latest rotation while MS_TOKENS is a static snapshot
+    # that goes stale (and gets rejected by Microsoft) after a restart.
+    if TOKENS_PATH.exists():
+        return json.loads(TOKENS_PATH.read_text())
     ms_tokens_env = os.environ.get("MS_TOKENS")
     if ms_tokens_env:
         return json.loads(ms_tokens_env)
-    if TOKENS_PATH.exists():
-        return json.loads(TOKENS_PATH.read_text())
     raise RuntimeError("MS_TOKENS env var or data/tokens.json not found")
 
 # In-memory token cache so Railway (no persistent TOKENS_PATH) tracks expiry
@@ -200,8 +203,10 @@ def _get_access_token() -> str:
         _cached_tokens["access_token"]  = data["access_token"]
         _cached_tokens["refresh_token"] = data.get("refresh_token", _cached_tokens["refresh_token"])
         _cached_tokens["expires_at"]    = time.time() + data.get("expires_in", 3600) - 60
-        if TOKENS_PATH.exists():
-            TOKENS_PATH.write_text(json.dumps(_cached_tokens, indent=2))
+        # Always persist the rotated refresh_token to disk (creating the file
+        # if needed) so the next restart picks up the latest rotation instead
+        # of falling back to a stale MS_TOKENS env var.
+        TOKENS_PATH.write_text(json.dumps(_cached_tokens, indent=2))
         return _cached_tokens["access_token"]
 
 def _graph_download_url(item_id: str) -> str:
