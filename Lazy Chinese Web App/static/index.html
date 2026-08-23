@@ -1276,7 +1276,7 @@ async function setupPlayer(v) {
       // Stream through Railway proxy — avoids SharePoint browser-auth redirect
       vid.src = `${BASE}/api/xiaogua/stream/${v.id}`;
       vid.load();
-      vid.play().catch(() => {});
+      vid.play().catch(() => clearStuckBuffering());
       document.getElementById('vcFill').style.width = '0%';
       document.getElementById('vcBuffer').style.width = '0%';
       document.getElementById('vcTime').textContent = '0:00 / 0:00';
@@ -1287,7 +1287,7 @@ async function setupPlayer(v) {
         if (!r.ok || !data.url) throw new Error(data.error || "No URL returned");
         vid.src = data.url;
         vid.load();
-        vid.play().catch(() => {});
+        vid.play().catch(() => clearStuckBuffering());
         document.getElementById('vcFill').style.width = '0%';
         document.getElementById('vcBuffer').style.width = '0%';
         document.getElementById('vcTime').textContent = '0:00 / 0:00';
@@ -1311,6 +1311,14 @@ async function setupPlayer(v) {
 
 function onTimeUpdate() {
   syncSubs(document.getElementById("localVideo").currentTime);
+}
+
+// Autoplay can be silently rejected (e.g. Safari's autoplay policy). When that
+// happens, drop the buffering spinner so the video falls back to a normal
+// paused state the user can start with the visible Play button, instead of
+// leaving the spinner stuck on-screen forever.
+function clearStuckBuffering() {
+  document.getElementById("bufferingOverlay").classList.remove("active");
 }
 
 // Video played all the way through: log a watch, then auto-advance to an
