@@ -359,7 +359,7 @@ def api_watch_state_patch(video_id):
     body  = request.get_json(force=True) or {}
     state = _load_watch_state()
     entry = state.get(video_id, {}) if video_id in state else {}
-    for field in ("watched", "watchedAt", "watchCount", "lastPosition"):
+    for field in ("watched", "watchedAt", "watchCount", "lastPosition", "hidden"):
         if field in body:
             entry[field] = body[field]
     # Allow patching _yt sub-fields (title, level, length)

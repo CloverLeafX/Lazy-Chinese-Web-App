@@ -161,6 +161,25 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 }
 .multi-select-item:hover { background: var(--surface2); }
 .multi-select-item input[type="checkbox"] { accent-color: var(--accent); width: 13px; height: 13px; cursor: pointer; }
+.multi-select-sep { height: 1px; background: var(--border); margin: 4px 0; }
+
+/* ── Card long-press / right-click menu ─────────────────── */
+.card-menu {
+  display: none; position: fixed;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius-sm); box-shadow: 0 6px 16px rgba(0,0,0,.35);
+  min-width: 130px; z-index: 700; padding: 4px 0;
+}
+.card-menu.open { display: block; }
+.card-menu-item {
+  display: flex; align-items: center; gap: 8px; width: 100%;
+  padding: 8px 14px; font-size: 13px; font-weight: 500;
+  color: var(--text); cursor: pointer; white-space: nowrap;
+  background: none; border: none; text-align: left; font-family: inherit;
+  transition: background 100ms;
+}
+.card-menu-item:hover { background: var(--surface2); }
+.card-menu-item svg { flex-shrink: 0; opacity: .8; }
 
 /* ── Grid ────────────────────────────────────────────── */
 .browse-main {
@@ -181,6 +200,7 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
   border-radius: var(--radius); overflow: hidden; cursor: pointer;
   transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
   display: flex; flex-direction: column;
+  -webkit-touch-callout: none; -webkit-user-select: none; user-select: none;
 }
 .video-card:hover {
   transform: translateY(-2px);
@@ -191,11 +211,19 @@ input.search-input:focus { outline: none; border-color: var(--accent); }
 .video-card.not-downloaded:hover { opacity: .8; }
 .video-card.is-watched { opacity: .45; }
 .video-card.is-watched:hover { opacity: .85; }
+.video-card.is-hidden { opacity: .4; }
+.video-card.is-hidden:hover { opacity: .7; }
 .watched-badge {
   position: absolute; bottom: 7px; left: 7px;
   background: rgba(0,0,0,.65); border-radius: 4px;
   padding: 2px 6px; font-size: 10px; font-weight: 700;
   color: #4ade80; letter-spacing: .3px;
+}
+.hidden-badge {
+  position: absolute; top: 5px; left: 50%; transform: translateX(-50%);
+  background: rgba(0,0,0,.72); border-radius: 4px;
+  padding: 2px 6px; font-size: 9px; font-weight: 700;
+  color: #f1f5f9; letter-spacing: .3px; text-transform: uppercase;
 }
 .thumb-wrap {
   position: relative; aspect-ratio: 16/9; overflow: hidden;
@@ -740,7 +768,12 @@ video#localVideo {
 <div class="multi-select-menu" id="watchedMenu">
   <label class="multi-select-item"><input type="checkbox" value="watched" id="ckWatched"> Watched</label>
   <label class="multi-select-item"><input type="checkbox" value="unwatched" id="ckUnwatched" checked> Unwatched</label>
+  <div class="multi-select-sep"></div>
+  <label class="multi-select-item"><input type="checkbox" value="hidden" id="ckHidden"> Show Hidden</label>
 </div>
+
+<!-- Card long-press / right-click action menu -->
+<div class="card-menu" id="cardMenu"></div>
 
   <main class="browse-main">
     <div id="loadingState" class="loading-state">
@@ -1006,10 +1039,12 @@ function getFiltered() {
   const showWatched   = document.getElementById("ckWatched").checked;
   const showUnwatched = document.getElementById("ckUnwatched").checked;
   const filterByWatch = showWatched || showUnwatched;
+  const showHidden = document.getElementById("ckHidden").checked;
   const search   = document.getElementById("searchInput").value.trim().toLowerCase();
   const sort     = document.getElementById("sortSelect").value;
 
   let res = allVideos.filter(v => {
+    if (!!watchState[v.id]?.hidden && !showHidden) return false;
     if (source   && v.source   !== source)   return false;
     if (level) { const g = LEVEL_GROUPS.find(g => g.label === level); if (!(g ? g.raw.includes(v.level) : v.level === level)) return false; }
     if (teacher  && !v.teacher.split(",").map(t=>t.trim()).includes(teacher)) return false;
@@ -1066,11 +1101,16 @@ function buildCard(v) {
   const isDL      = !!v.video_done;
   const isPartial = !v.video_done && !!v.folder_path;
   const watchCount = watchState[v.id]?.watchCount || 0;
+  const isHidden   = !!watchState[v.id]?.hidden;
 
   const card = document.createElement("div");
-  card.className = "video-card" + (isDL ? "" : " not-downloaded") + (watchCount ? " is-watched" : "");
+  card.className = "video-card" + (isDL ? "" : " not-downloaded") + (watchCount ? " is-watched" : "") + (isHidden ? " is-hidden" : "");
   card.title = v.title;
-  card.addEventListener("click", () => openWatch(v));
+  card.addEventListener("click", () => {
+    if (card._suppressClick) { card._suppressClick = false; return; }
+    openWatch(v);
+  });
+  attachCardLongPress(card, v);
 
   // Thumbnail
   const thumbWrap = document.createElement("div");
@@ -1099,6 +1139,12 @@ function buildCard(v) {
     wb.className = "watched-badge";
     wb.textContent = watchCount > 1 ? `✓ ×${watchCount}` : "✓ Watched";
     thumbWrap.appendChild(wb);
+  }
+  if (isHidden) {
+    const hb = document.createElement("div");
+    hb.className = "hidden-badge";
+    hb.textContent = "Hidden";
+    thumbWrap.appendChild(hb);
   }
   const plat = document.createElement("div");
   if (v.source === "xiaogua") {
@@ -1147,6 +1193,85 @@ function makePlaceholder(v) {
   el.style.background = LEVEL_BG[v.level] || "linear-gradient(135deg,#1a1d27,#222638)";
   el.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg><span>Members</span>`;
   return el;
+}
+
+/* ── Card long-press (touch) / right-click (desktop) menu ─── */
+const cardMenu = document.getElementById("cardMenu");
+const CARD_HOLD_MS = 500;
+const CARD_MOVE_CANCEL_PX = 10;
+
+function attachCardLongPress(card, v) {
+  let timer = null, startX = 0, startY = 0;
+  const cancelTimer = () => { if (timer) { clearTimeout(timer); timer = null; } };
+
+  card.addEventListener("touchstart", e => {
+    const t = e.touches[0];
+    startX = t.clientX; startY = t.clientY;
+    cancelTimer();
+    timer = setTimeout(() => {
+      timer = null;
+      card._suppressClick = true;
+      setTimeout(() => { card._suppressClick = false; }, 600); // safety net if click never fires
+      if (navigator.vibrate) navigator.vibrate(12);
+      openCardMenu(v, startX, startY);
+    }, CARD_HOLD_MS);
+  }, { passive: true });
+
+  card.addEventListener("touchmove", e => {
+    const t = e.touches[0];
+    if (Math.hypot(t.clientX - startX, t.clientY - startY) > CARD_MOVE_CANCEL_PX) cancelTimer();
+  }, { passive: true });
+
+  card.addEventListener("touchend", cancelTimer);
+  card.addEventListener("touchcancel", cancelTimer);
+
+  // Desktop right-click doubles as the "long press" trigger
+  card.addEventListener("contextmenu", e => {
+    e.preventDefault();
+    openCardMenu(v, e.clientX, e.clientY);
+  });
+}
+
+function openCardMenu(v, x, y) {
+  const isHidden = !!watchState[v.id]?.hidden;
+  cardMenu.innerHTML = "";
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "card-menu-item";
+  btn.innerHTML = isHidden
+    ? `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg> Unhide video`
+    : `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.94 17.94A10.94 10.94 0 0 1 12 20c-7 0-11-8-11-8a20.3 20.3 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a20.3 20.3 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"/><line x1="1" y1="1" x2="23" y2="23"/></svg> Hide video`;
+  btn.addEventListener("click", () => {
+    closeCardMenu();
+    toggleHidden(v, !isHidden);
+  });
+  cardMenu.appendChild(btn);
+
+  cardMenu.classList.add("open");
+  const menuW = cardMenu.offsetWidth, menuH = cardMenu.offsetHeight;
+  const left = Math.max(8, Math.min(x, window.innerWidth  - menuW - 8));
+  const top  = Math.max(8, Math.min(y, window.innerHeight - menuH - 8));
+  cardMenu.style.left = left + "px";
+  cardMenu.style.top  = top  + "px";
+}
+
+function closeCardMenu() { cardMenu.classList.remove("open"); }
+
+document.addEventListener("click", e => { if (!cardMenu.contains(e.target)) closeCardMenu(); });
+document.addEventListener("touchstart", e => { if (!cardMenu.contains(e.target)) closeCardMenu(); }, { passive: true });
+cardMenu.addEventListener("click", e => e.stopPropagation());
+
+async function toggleHidden(v, hide) {
+  const res = await fetch(`${BASE}/api/watch-state/${v.id}`, {
+    method: 'PATCH',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ hidden: hide }),
+  }).catch(() => null);
+  if (!res?.ok) { alert('Could not update — try again.'); return; }
+  const entry = watchState[v.id] || {};
+  entry.hidden = hide;
+  watchState[v.id] = entry;
+  render();
 }
 
 /* ══════════════════════════════════════════════════════
@@ -1836,14 +1961,18 @@ watchedMenu.addEventListener("click", e => e.stopPropagation());
 function updateWatchedDropdown() {
   const ckW = document.getElementById("ckWatched").checked;
   const ckU = document.getElementById("ckUnwatched").checked;
-  if (ckW && ckU)       watchedLabel.textContent = "Watched + Unwatched";
-  else if (ckW)         watchedLabel.textContent = "Watched";
-  else if (ckU)         watchedLabel.textContent = "Unwatched";
-  else                  watchedLabel.textContent = "Watch Status";
-  watchedTrigger.classList.toggle("has-selection", ckW || ckU);
+  const ckH = document.getElementById("ckHidden").checked;
+  let label;
+  if (ckW && ckU)       label = "Watched + Unwatched";
+  else if (ckW)         label = "Watched";
+  else if (ckU)         label = "Unwatched";
+  else                  label = "Watch Status";
+  if (ckH) label += " · Hidden";
+  watchedLabel.textContent = label;
+  watchedTrigger.classList.toggle("has-selection", ckW || ckU || ckH);
   render();
 }
-["ckWatched","ckUnwatched"].forEach(id =>
+["ckWatched","ckUnwatched","ckHidden"].forEach(id =>
   document.getElementById(id).addEventListener("change", updateWatchedDropdown)
 );
 
